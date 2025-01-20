@@ -1,0 +1,272 @@
+PŘEDCHÁZENÍ A NÁPRAVA EKOLOGICKÉ ÚJMY
+ÚVODNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon zapracovává příslušný předpis Evropských společenství a upravuje práva a povinnosti osob při předcházení ekologické újmě a při její nápravě, došlo-li k ní nebo hrozí-li bezprostředně na chráněných druzích volně žijících živočichů či planě rostoucích rostlin, na přírodních stanovištích vymezených tímto zákonem, na vodě nebo půdě, a dále výkon státní správy v této oblasti.
+Tento zákon se vztahuje na ekologickou újmu nebo bezprostřední hrozbu jejího vzniku, jsou-li způsobeny
+provozní činností uvedenou v příloze č. 1 k tomuto zákonu, nebo
+provozní činností neuvedenou v příloze č. 1 k tomuto zákonu, za předpokladů stanovených v § 5 odst. 2.
+Tento zákon se nevztahuje na ekologickou újmu nebo bezprostřední hrozbu jejího vzniku, jsou-li způsobeny
+ozbrojeným konfliktem, nepřátelskou akcí, občanskou válkou nebo povstáním,
+živelní událostí výjimečné a neodvratné povahy,
+činností, na kterou se vztahuje Smlouva o založení Evropského společenství pro atomovou energii,
+činností, na kterou se vztahuje občanskoprávní odpovědnost za jaderné škody podle atomového zákona, nebo činností, při které se na odpovědnost a náhradu škody či újmy vztahují mezinárodní smlouvy uvedené v příloze č. 2 k tomuto zákonu,
+činností, jejímž účelem je zajišťování obrany České republiky nebo mezinárodní bezpečnosti,
+činností, jejímž jediným účelem je ochrana života, zdraví nebo majetku osob před živelními událostmi.
+Základní pojmy
+Pro účely tohoto zákona se rozumí
+ekologickou újmou nepříznivá měřitelná změna přírodního zdroje nebo měřitelné zhoršení jeho funkcí, která se může projevit přímo nebo nepřímo; jedná se o změnu na
+chráněných druzích volně žijících živočichů či planě rostoucích rostlin nebo přírodních stanovištích, která má závažné nepříznivé účinky na dosahování nebo udržování příznivého stavu ochrany takových druhů nebo stanovišť, s výjimkou nepříznivých účinků vyplývajících z jednání provozovatele, k němuž byl oprávněn podle § 5b, 45i a 56 zákona o ochraně přírody a krajiny; kritéria pro posouzení významu účinků na dosahování nebo udržení příznivého stavu ochrany chráněných druhů a přírodních stanovišť jsou stanovena v příloze č. 3 k tomuto zákonu,
+podzemních nebo povrchových vodách včetně přírodních léčivých zdrojů a zdrojů přírodních minerálních vod, která má závažný nepříznivý účinek na ekologický, chemický nebo množstevní stav vody nebo na její ekologický potenciál, s výjimkou nepříznivých účinků v případech stanovených podle § 23a odst. 4 a 7 vodního zákona, nebo
+půdě znečištěním, jež představuje závažné riziko nepříznivého vlivu na lidské zdraví v důsledku přímého nebo nepřímého zavedení látek, přípravků, organismů nebo mikroorganismů na zemský povrch nebo pod něj,
+chráněnými druhy volně žijících živočichů a planě rostoucích rostlin
+druhy ptáků, pro které se vymezují ptačí oblasti podle § 45e zákona o ochraně přírody a krajiny,7),
+druhy v zájmu Evropských společenství stanovené podle § 3 odst. 1 písm. n) zákona o ochraně přírody a krajiny,8),
+anebo druhy, které Ministerstvo životního prostředí (dále jen „ministerstvo“) stanoví vyhláškou,
+přírodními stanovišti
+přírodní stanoviště v zájmu Evropských společenství stanovené podle § 3 odst. 1 písm. m) zákona o ochraně přírody a krajiny,9)
+území, jež je biotopem pro druhy ptáků, pro které se vymezují ptačí oblasti podle § 45e zákona o ochraně přírody a krajiny,7),
+území, jež je biotopem pro druhy v zájmu Evropských společenství stanovené podle § 3 odst. 1 písm. n) zákona o ochraně přírody a krajiny,8),
+místa rozmnožování nebo odpočinku druhů vyžadujících přísnou ochranu10),
+stavem ochrany chráněného druhu volně žijících živočichů a planě rostoucích rostlin souhrn vlivů na daný druh, které mohou ovlivnit jeho dlouhodobé rozšíření a hojnost jeho populací v závislosti na konkrétním případu v rámci území České republiky nebo v jeho přirozeném areálu,
+stavem ochrany přírodního stanoviště souhrn vlivů na přírodní stanoviště a jeho typické druhy volně žijících živočichů a planě rostoucích rostlin, které mohou ovlivnit jeho dlouhodobé přirozené rozšíření, strukturu a funkce i dlouhodobé přežití jeho typických druhů volně žijících živočichů a planě rostoucích rostlin v závislosti na konkrétním případu v rámci území České republiky nebo v jeho přirozeném rozsahu,
+příznivým stavem ochrany chráněného druhu volně žijících živočichů a planě rostoucích rostlin stav, kdy
+údaje o populační dynamice příslušného druhu ukazují, že se dlouhodobě udržuje jako životaschopný prvek svého přírodního stanoviště,
+přirozený areál rozšíření druhu není a pravděpodobně nebude v dohledné době omezen a
+existují a pravděpodobně budou v dohledné době i nadále existovat dostatečně velká stanoviště k dlouhodobému zachování jeho populací,
+příznivým stavem ochrany přírodního stanoviště stav, kdy
+jeho přirozený areál rozšíření a plochy, které v rámci tohoto areálu pokrývá, jsou ustálené nebo se zvětšují,
+specifická struktura a funkce, které jsou nezbytné pro jeho dlouhodobé zachování, existují a budou pravděpodobně v dohledné době i nadále existovat a
+stav jeho typických druhů volně žijících živočichů a planě rostoucích rostlin je z hlediska ochrany podle podmínek uvedených v písmenu f) příznivý,
+provozní činností činnost vykonávaná v rámci hospodářské činnosti, obchodu nebo podnikání, bez ohledu na její soukromou či veřejnou povahu nebo na její ziskový či neziskový charakter,
+provozovatelem právnická nebo fyzická osoba vykonávající nebo řídící provozní činnost zařazenou do seznamu provozních činností uvedených v příloze č. 1 k tomuto zákonu nebo další činnost, která splňuje podmínky stanovené v § 5 odst. 2, nebo osoba, na kterou byla podle insolvenčního zákona převedena rozhodující ekonomická pravomoc nad fungováním provozní činnosti, včetně držitelů povolení, souhlasu nebo jiného oprávnění k výkonu provozní činnosti nebo osob vykonávajících nebo řídících provozní činnost na základě registrace, evidence nebo ohlášení,
+preventivním opatřením opatření přijaté v důsledku události, jednání nebo opomenutí vedoucího k bezprostřední hrozbě ekologické újmy, jehož cílem je předejít takové újmě nebo ji minimalizovat,
+nápravným opatřením opatření přijaté ke zmírnění dopadů ekologické újmy, jehož cílem je obnovit, ozdravit nebo nahradit poškozené přírodní zdroje nebo jejich zhoršené funkce anebo poskytnout přiměřenou náhradu těchto zdrojů nebo jejich funkcí,
+přírodním zdrojem půda a horniny, včetně přírodních léčivých zdrojů peloidu, chráněné druhy volně žijících živočichů a planě rostoucích rostlin a přírodní stanoviště, povrchová nebo podzemní voda, včetně přírodních léčivých zdrojů a zdrojů přírodních minerálních vod,
+funkcí přírodního zdroje funkce, kterou tento zdroj plní ve prospěch jiného přírodního zdroje nebo složky životního prostředí nebo veřejnosti,
+emisí uvolňování látek, přípravků, organismů a mikroorganismů do životního prostředí v důsledku lidských činností,
+základním stavem stav přírodních zdrojů a jejich funkcí, který existoval v době, kdy došlo k ekologické újmě a jenž by dále existoval, kdyby k ní nedošlo, a to podle odhadu na základě nejlepších dostupných informací,
+obnovou, včetně přirozené obnovy, v případě vody, chráněných druhů volně žijících živočichů a planě rostoucích rostlin a přírodních stanovišť návrat poškozených přírodních zdrojů nebo jejich zhoršených funkcí do základního stavu, v případě půdy a hornin vyloučení jakéhokoliv významného rizika nepříznivého účinku na lidské zdraví,
+náklady náklady potřebné na předcházení ekologické újmě nebo na její nápravu v rozsahu stanoveném tímto zákonem, včetně nákladů na zjištění a posouzení ekologické újmy, posouzení vzniku její bezprostřední hrozby, nákladů na řízení, na provedení preventivních nebo nápravných opatření nebo jejich vymáhání od provozovatele, nákladů na sběr dat, na sledování a kontrolu nebo další náklady související s předcházením ekologické újmě nebo s její nápravou.
+POVINNOST K PŘEDCHÁZENÍ EKOLOGICKÉ ÚJMĚ A K JEJÍ NÁPRAVĚ
+Provozovatel musí předcházet vzniku ekologické újmy a v rozsahu stanoveném tímto zákonem přijímat preventivní opatření. Provozovatel, který svou provozní činností způsobí ekologickou újmu, musí v rozsahu stanoveném tímto zákonem přijímat nápravná opatření.
+V případě ekologické újmy neohraničeného charakteru způsobené více provozovateli vzniká povinnost podle tohoto zákona provozovatelům, mezi jejichž provozní činností a ekologickou újmou existuje příčinná souvislost. Pokud ekologickou újmu nebo její hrozbu způsobilo více provozovatelů, jsou povinni provádět preventivní opatření nebo nápravná opatření společně a nerozdílně.
+Povinnosti vzniklé nebo uložené podle tohoto zákona přecházejí na právní nástupce provozovatele. Pokud provozovatel již neexistuje a takových právních nástupců je více a dosud nebylo určeno, která taková povinnost přechází na kterého takového právního nástupce, ručí za její splnění tito právní nástupci společně a nerozdílně.
+Povinnost provádět preventivní opatření nebo nápravná opatření a nést s tím související náklady má provozovatel vykonávající provozní činnost, která je zařazena do seznamu provozních činností uvedených v příloze č. 1 k tomuto zákonu, pokud mezi touto činností a ekologickou újmou nebo její bezprostřední hrozbou je příčinná souvislost.
+Povinnost provádět preventivní opatření nebo nápravná opatření a nést s tím související náklady má rovněž provozovatel, který způsobil ekologickou újmu na chráněných druzích volně žijících živočichů nebo planě rostoucích rostlin či přírodních stanovištích nebo vyvolal její bezprostřední hrozbu provozní činností neuvedenou v příloze č. 1 k tomuto zákonu.
+Předpokladem vzniku povinnosti podle odstavce 1 je
+vznik nebo bezprostřední hrozba ekologické újmy na chráněném druhu volně žijících živočichů či planě rostoucích rostlin nebo na přírodním stanovišti,
+výkon provozní činnosti neuvedené v příloze č. 1 k tomuto zákonu v rozporu s právními předpisy a
+příčinná souvislost mezi provozní činností provozovatele, která je vykonávána v rozporu s právními předpisy, a vznikem nebo bezprostřední hrozbou ekologické újmy uvedené v písmenu a).
+Preventivní opatření
+V případě bezprostředně hrozící ekologické újmy provozovatel neprodleně provede nezbytná preventivní opatření.
+Provozovatel neprodleně sdělí příslušnému orgánu uvedenému v § 16 (dále jen „příslušný orgán“) informace o všech důležitých okolnostech bezprostřední hrozby ekologické újmy a o provedených preventivních opatřeních. Pokud provedené preventivní opatření bezprostřední hrozbu ekologické újmy neodstraní, oznámí provozovatel tuto skutečnost příslušnému orgánu.
+Příslušný orgán může kdykoliv požádat provozovatele o informace o bezprostřední hrozbě ekologické újmy nebo o okolnostech nasvědčujících takové hrozbě a provozovatel je povinen bez zbytečného odkladu tyto informace poskytnout.
+Hrozí-li bezprostředně ekologická újma, může příslušný orgán i před zahájením řízení vyzvat provozovatele, aby ve stanovené lhůtě provedl preventivní opatření, a dát mu pokyny pro jejich provádění. Příslušný orgán může v řízení provozovateli uložit rozhodnutím provedení preventivních opatření, stanovit jejich podmínky a určit lhůtu k jejich provedení.
+Příslušný orgán zajistí bez zbytečného odkladu provedení nezbytných preventivních opatření sám, pokud je bezodkladně nebo ve stanovené lhůtě neprovede provozovatel, nebo není-li provozovatel znám.
+Nápravná opatření
+V případě vzniku nebo zjištění ekologické újmy je provozovatel povinen neprodleně provést veškerá proveditelná nápravná opatření k okamžité kontrole, omezení, odstranění nebo jinému zvládnutí znečišťujících látek nebo jiných škodlivých faktorů, jejichž cílem je omezit ekologickou újmu a nepříznivé účinky na lidské zdraví nebo předejít dalšímu rozšiřování ekologické újmy, nepříznivým účinkům na lidské zdraví nebo dalšímu zhoršení funkcí přírodních zdrojů.
+Provozovatel je povinen neprodleně sdělit příslušnému orgánu informace o všech důležitých okolnostech vzniku ekologické újmy nebo o okolnostech nasvědčujících jejímu vzniku a o provedených nápravných opatřeních. Příslušný orgán může kdykoliv požádat provozovatele o informace o ekologické újmě, k níž došlo, a o provedených nápravných opatřeních; provozovatel je povinen sdělit tyto informace bez zbytečného odkladu.
+Provozovatel je dále povinen vypracovat bez zbytečného odkladu návrh nápravných opatření v souladu s přílohou č. 4 k tomuto zákonu a předložit ho příslušnému orgánu ke schválení. Příslušný orgán může navržená nápravná opatření schválit nebo může provozovateli uložit jejich doplnění nebo změny.
+Příslušný orgán může i před zahájením řízení vyzvat provozovatele, aby ve stanovené lhůtě provedl nezbytná nápravná opatření a udělit mu pokyny, kterými se má řídit při jejich provádění. Příslušný orgán může v řízení uložit provozovateli rozhodnutím provedení nápravných opatření, stanovit jejich podmínky a určit lhůtu k jejich provedení.
+Pokud provedené nápravné opatření nevede k nápravě ekologické újmy, je provozovatel povinen neprodleně oznámit příslušnému orgánu informace o všech důležitých okolnostech případu.
+Příslušný orgán bez zbytečného odkladu zajistí provedení nezbytných nápravných opatření sám, pokud tak bezodkladně neučiní provozovatel, nebo není-li provozovatel znám.
+Došlo-li k více případům ekologické újmy takovým způsobem, že příslušný orgán nemůže zajistit, aby všechna potřebná nápravná opatření byla přijata současně, může určit pořadí prováděných nápravných opatření. Příslušný orgán přitom bere v úvahu zejména povahu, rozsah a závažnost jednotlivých případů ekologické újmy, rizika pro lidské zdraví a možnost přirozené nápravy.
+Řízení o uložení preventivních opatření nebo nápravných opatření
+Řízení o uložení preventivních opatření nebo nápravných opatření zahájí příslušný orgán
+na základě žádosti osoby uvedené v odstavci 2, nebo
+z moci úřední, jakmile se dozví o skutečnosti, která nasvědčuje tomu, že mohlo dojít k ekologické újmě nebo pokud bezprostředně hrozí její vznik.
+Žádost o uložení preventivních opatření nebo nápravných opatření může podat
+fyzická nebo právnická osoba, která je ekologickou újmou dotčena nebo u níž je takové dotčení pravděpodobné, nebo
+právnická osoba soukromého práva, jejímž předmětem činnosti je podle zakladatelského právního jednání ochrana životního prostředí a jejíž hlavní činností není podnikání nebo jiná výdělečná činnost.
+Žádost o uložení preventivních opatření nebo nápravných opatření musí být doložena informacemi, ze kterých je patrné, že došlo k ekologické újmě nebo že taková újma bezprostředně hrozí.
+Osoby uvedené v odstavci 2 jsou oprávněny předložit příslušnému orgánu vyjádření související s případy ekologické újmy nebo s bezprostřední hrozbou jejího vzniku, jichž jsou si vědomy, a to i tehdy, pokud žádost podle odstavce 1 písm. a) nepodaly.
+Oznámení o zahájení řízení příslušný orgán zveřejní na portálu veřejné správy a neprodleně o něm informuje správní orgán příslušný rozhodovat o preventivních opatřeních nebo nápravných opatřeních podle jiných právních předpisů.
+Osoby uvedené v odstavci 2 písm. b) mohou požádat příslušný orgán, aby byly po dobu 1 roku ode dne podání žádosti bez zbytečného odkladu písemně informovány o každém zahájeném řízení o uložení preventivních opatření nebo nápravných opatření. Tato žádost musí být místně specifikována a lze ji podávat opakovaně.
+Nebylo-li řízení o uložení preventivních opatření nebo nápravných opatření zahájeno na jejich žádost, jsou osoby uvedené v odstavci 2 písm. b) účastníky takového řízení, pokud písemně oznámí příslušnému orgánu svou účast do 8 dnů ode dne,
+kdy jim byla doručena informace o zahájeném řízení podle odstavce 6, nebo
+kdy byla informace o zahájení řízení zveřejněna na úřední desce příslušného orgánu.
+Řízení o uložení preventivních opatření nebo nápravných opatření zahájené na základě žádosti se z důvodu zpětvzetí žádosti nezastaví, pokud jsou dány důvody pro zahájení řízení z moci úřední.
+Vstup na nemovitosti
+Pověření zaměstnanci provozovatele a příslušného orgánu provádějící preventivní opatření nebo nápravná opatření jsou oprávněni při výkonu této činnosti po předchozím oznámení vlastníkovi nemovitosti a v nezbytném rozsahu vstupovat a vjíždět na cizí nemovitosti dotčené ekologickou újmou. Společně s nimi mohou na cizí nemovitosti vstupovat nebo vjíždět i jejich pomocní pracovníci nebo jiné osoby zajišťující z jejich rozhodnutí provádění preventivních opatření nebo nápravných opatření.
+V případě nezbytnosti provedení bezprostředního a neodkladného preventivního opatření nebo nápravného opatření mohou osoby uvedené v odstavci 1 na cizí nemovitost vstupovat nebo vjíždět i bez vědomí jejího vlastníka. O tom musí vlastníka nemovitosti provozovatel nebo příslušný orgán bez zbytečného odkladu informovat a uvést důvody, které k tomu vedly.
+Preventivní opatření a nápravná opatření prováděná na cizích nemovitostech musí být prováděna tak, aby co nejméně omezovala vlastníka dotčené nemovitosti nebo osoby užívající nemovitost na základě smlouvy s vlastníkem nemovitosti a další osoby, které ji užívají s jeho souhlasem.
+Vlastníci nemovitostí, na kterých se mají provádět preventivní opatření nebo nápravná opatření a kteří nejsou těmi, jimž bylo preventivní opatření nebo nápravné opatření uloženo, jsou povinni strpět jejich provedení po nezbytně nutnou dobu, v nezbytném rozsahu a za náhradu. Dále jsou povinni osobám, které je provádějí, umožnit vstup a vjezd na své nemovitosti a strpět omezení jejich obvyklého užívání.
+Náprava ekologické újmy na chráněných druzích volně žijících živočichů nebo planě rostoucích rostlin, přírodních stanovištích a na vodách
+Příslušný orgán postupuje při ukládání nápravných opatření k zajištění nápravy ekologické újmy na chráněných druzích volně žijících živočichů či planě rostoucích rostlin, přírodních stanovištích a na vodách podle přílohy č. 4 k tomuto zákonu.
+Náprava ekologické újmy na půdě
+Existuje-li důvodné podezření, že v důsledku provozní činnosti uvedené v příloze č. 1 k tomuto zákonu došlo k ekologické újmě na půdě nebo horninách, včetně přírodních léčivých zdrojů peloidu (dále jen „půda“), příslušný orgán zajistí bez zbytečného odkladu zpracování analýzy rizik; v tom případě příslušný orgán přeruší řízení o uložení nápravných opatření do doby předložení analýzy rizik.
+K analýze rizik si příslušný orgán vyžádá stanovisko příslušné krajské hygienické stanice, která posoudí rizika pro lidské zdraví plynoucí z přímého nebo nepřímého zavedení látek, přípravků, organismů nebo mikroorganismů na zemský povrch nebo pod něj.
+V případě vzniku ekologické újmy na půdě, která byla prokázána analýzou rizik a stanoviskem příslušné krajské hygienické stanice,
+příslušný orgán zajistí zpracování návrhu možných nápravných opatření a jejich hodnocení, které zahrnuje porovnání alternativních postupů omezování nebo eliminace rizik a odhad finančních nákladů a časové náročnosti jednotlivých alternativ (dále jen „hodnocení“); příslušný orgán přeruší řízení o uložení nápravných opatření do doby předložení hodnocení,
+provozovatel odstraní ekologickou újmu na půdě nápravným opatřením uloženým příslušným orgánem a minimalizuje její nepříznivé důsledky, aby nepředstavovala významné riziko pro lidské zdraví.
+Vyhodnocení průzkumu stavu znečištěného území a hodnocení mohou zpracovávat pouze odborně způsobilé osoby podle § 3 zákona o geologických pracích. Rizika ze zavedení organismů nebo mikroorganismů na zemský povrch nebo pod něj posuzuje příslušná krajská hygienická stanice.
+Ministerstvo v dohodě s Ministerstvem zdravotnictví stanoví vyhláškou metody a způsob zpracování analýzy rizik, způsob hodnocení vhodnosti a proveditelnosti nápravných opatření, stanovování cílů nápravných opatření a způsobů prokazování jejich dosažení, včetně způsobu postsanačního monitoringu a způsobu srovnání alternativních postupů omezování nebo eliminace rizik, a dále způsob posouzení rizik pro lidské zdraví plynoucích z přímého nebo nepřímého zavedení látek, přípravků, organismů nebo mikroorganismů na zemský povrch nebo pod něj.
+FINANCOVÁNÍ PREVENTIVNÍCH OPATŘENÍ A NÁPRAVNÝCH OPATŘENÍ
+Náhrada nákladů
+Provozovatel, který způsobil ekologickou újmu nebo její bezprostřední hrozbu, je povinen nést náklady, a to i v případě, kdy preventivní opatření nebo nápravná opatření zajistí příslušný orgán. O náhradě nákladů rozhoduje příslušný orgán, který uložil preventivní nebo nápravná opatření podle tohoto zákona.
+Pokud ekologickou újmu nebo její bezprostřední hrozbu způsobilo více provozovatelů, nesou náklady společně a nerozdílně.
+Provozovatel činnosti uvedené v příloze č. 1 k tomuto zákonu, který provedl preventivní opatření nebo nápravná opatření, nenese náklady, pokud prokáže, že ekologická újma nebo její bezprostřední hrozba
+byla způsobena třetí osobou a došlo k ní i přesto, že byla přijata vhodná bezpečnostní opatření, nebo
+je důsledkem splnění rozhodnutí nebo jiného závazného aktu orgánu veřejné správy a nejedná se o rozhodnutí nebo akty vydané k odstranění nebo zmírnění emisí nebo událostí způsobených provozní činností provozovatele.
+Příslušný orgán rozhodne, že provozovatel činnosti uvedené v příloze č. 1 k tomuto zákonu, který provedl nápravná opatření k odstranění ekologické újmy, nebo za kterého je zajistil příslušný orgán, nenese jejich náklady, pokud prokáže, že
+neporušil právní předpisy nebo rozhodnutí vydaná na jejich základě a ekologická újma byla způsobena emisí nebo událostí, která byla výslovně povolena podle zvláštních právních předpisů, nebo
+podle stavu vědeckých a technických znalostí v době, kdy došlo k emisím nebo k dané provozní činnosti, nebylo považováno za pravděpodobné, že by způsobily ekologickou újmu.
+Orgán veřejné správy, který vydal rozhodnutí nebo jiný závazný akt uvedený v odstavci 3 písm. b) nebo povolení k výkonu provozní činnosti podle zvláštních právních předpisů uvedené v odstavci 4, proplatí vynaložené náklady provozovateli, který prokáže, že nenese náklady podle odstavce 3 písm. b) nebo odstavce 4.
+Příslušný orgán hradí náklady, které vynaložil místo provozovatele, ze státního rozpočtu. Bez zbytečného odkladu uloží provozovateli povinnost nahradit náklady takto vynaložené. Náhradu nákladů vybírá příslušný orgán, který rozhodl o náhradě nákladů podle § 12. Náklady vybrané příslušným orgánem jsou příjmem státního rozpočtu.
+Pokud je provozovatel v úpadku nebo v likvidaci, uplatňuje vymáhající orgán náhradu nákladů jako pohledávku v insolvenčním řízení, popřípadě jiným postupem podle insolvenčního zákona nebo při likvidaci právnické osoby.
+Příslušný orgán může zahájit řízení o náhradě nákladů do pěti let ode dne, kdy byla opatření podle tohoto zákona ukončena, nebo ode dne, kdy byl zjištěn odpovědný provozovatel nebo třetí osoba. Tato lhůta se počítá od události, která nastane později.
+Nelze-li provozovatele zjistit nebo pokud zanikl nebo zemřel bez právního nástupce, nebo jde-li o nedobytnou pohledávku nebo prokáže-li provozovatel, že nenese náklady podle tohoto zákona, hradí náklady stát. V těchto případech stát hradí náklady jen nad rámec, v němž bylo zabránění nebo odstranění ekologické újmy nahrazeno z majetku nebo finančního zajištění provozovatele. Za stát jedná příslušný orgán.
+Stát náklady podle odstavce 4 nehradí, je-li zabránění nebo odstranění ekologické újmy provedeno jiným provozovatelem v rámci doplňkových nebo vyrovnávacích opatření uložených mu příslušným úřadem v řízení podle § 8.
+V případech uvedených v odstavci 4, kdy nelze uložit hrazení nákladů a jde přitom o náklady vzniklé za zajištění nápravných opatření k nápravě ekologické újmy na povrchových nebo podzemních vodách, lze použít k hrazení těchto nákladů zvláštní účet kraje zřízený podle zvláštního právního předpisu. Příslušný kraj zašle tyto prostředky příslušnému orgánu bez zbytečného odkladu na základě jeho žádosti.
+Finanční zajištění preventivních opatření nebo nápravných opatření
+Provozovatel, který vykonává provozní činnost uvedenou v příloze č. 1 k tomuto zákonu, je povinen zabezpečit finanční zajištění k náhradě nákladů podle tohoto zákona (dále jen „finanční zajištění“). Rozsah finančního zajištění musí po celou dobu výkonu provozní činnosti provozovatele odpovídat rozsahu možných nákladů a intenzitě nebo závažnosti vytvářeného rizika ekologické újmy. K tomu je provozovatel povinen provést hodnocení rizik jednotlivých provozních činností uvedených v příloze č. 1 k tomuto zákonu, které hodlá provozovat, a toto hodnocení průběžně aktualizovat v případě významných změn provozní činnosti.
+Bez zabezpečení finančního zajištění podle tohoto zákona nelze vykonávat činnost uvedenou v příloze č. 1 k tomuto zákonu.
+Finanční zajištění není povinen zabezpečit provozovatel, který prokáže na základě hodnocení rizik, že provozní činností může způsobit ekologickou újmu, jejíž náprava si vyžádá náklady nižší než 20 000 000 Kč, nebo ekologickou újmu, jejíž náprava si vyžádá náklady vyšší než 20 000 000 Kč a provozovatel je současně registrován v Programu EMAS nebo prokazatelně zahájil činnosti potřebné pro zaregistrování do tohoto programu, nebo má certifikovaný systém environmentálního řízení uznaný podle souboru norem ČSN EN ISO 14000 nebo prokazatelně zahájil činnosti potřebné k získání této certifikace.
+Finanční zajištění není povinen zabezpečit provozovatel, který vypouští odpadní vody, které neobsahují nebezpečné závadné látky nebo zvlášť nebezpečné závadné látky.
+Způsob hodnocení rizik, kritéria posuzování dostatečného finančního zajištění pro provozovatele a bližší podmínky provádění a způsobu finančního zajištění k provedení preventivních opatření a nápravných opatření stanoví vláda nařízením.
+PŘÍPADY PŘESHRANIČNÍ EKOLOGICKÉ ÚJMY
+Jestliže se ekologická újma nebo její bezprostřední hrozba týká nebo může týkat jiného členského státu Evropských společenství (dále jen „členský stát“), oznámí to příslušný orgán neprodleně ministerstvu.
+Ministerstvo v součinnosti s příslušným orgánem
+poskytuje příslušným orgánům členských států, které mohou být ekologickou újmou dotčeny, potřebné informace týkající se bezprostředně hrozící nebo existující ekologické újmy pocházející z České republiky, aby mohly přijmout potřebná opatření k odstranění, odvrácení nebo minimalizaci ekologické újmy,
+spolupracuje s příslušnými orgány členských států při přijímání preventivních a nápravných opatření a bere v úvahu doporučení vypracovaná příslušnými orgány členských států.
+Jestliže se ekologická újma nebo její bezprostřední hrozba pocházející z území jiného členského státu dotkne nebo může dotknout České republiky, je orgán veřejné správy, který informaci obdrží, povinen poskytnout tuto informaci bezodkladně ministerstvu.
+V případě, že Česká republika zjistí, že na jejím území došlo k ekologické újmě, jež má původ na území jiného členského státu, oznámí ministerstvo tuto skutečnost Komisi Evropských společenství a příslušným úřadům všech ostatních členských států dotčených ekologickou újmou nebo přijímanými preventivními opatřeními nebo nápravnými opatřeními a případně doporučí členskému státu, z jehož území ekologická újma pochází, přijetí preventivních opatření nebo nápravných opatření. Zároveň určí výši nákladů, které vznikly České republice v souvislosti s přijetím preventivních opatření nebo nápravných opatření, a bude požadovat jejich náhradu.
+VÝKON STÁTNÍ SPRÁVY A SPRÁVNÍ TRESTY
+Výkon státní správy
+Státní správu podle tohoto zákona vykonávají příslušné orgány, kterými jsou
+ministerstvo,
+Česká inspekce životního prostředí (dále jen „inspekce“),
+správy národních parků a Agentura ochrany přírody a krajiny,
+Ministerstvo obrany,
+Ministerstvo zdravotnictví,
+krajské hygienické stanice,
+újezdní úřady.
+Ministerstvo
+je ústředním správním úřadem na úseku předcházení a nápravy ekologické újmy,
+vykonává vrchní státní dozor nad tím, jak další příslušné orgány vykonávají působnost stanovenou tímto zákonem,
+vede souhrnnou evidenci případů ekologické újmy a její bezprostřední hrozby na území České republiky a jejich řešení,
+přezkoumává rozhodnutí inspekce, správ národních parků a Agentury ochrany přírody a krajiny vydaná na základě tohoto zákona,
+spolupracuje s příslušnými orgány ostatních členských států v případě, že se ekologická újma dotýká několika členských států,
+poskytuje orgánům Evropských společenství informace požadované právními akty Evropských společenství a plní další úkoly vyplývající z členství České republiky v Evropských společenstvích v oblasti předcházení a nápravy ekologické újmy.
+Inspekce
+přijímá sdělení o bezprostřední hrozbě ekologické újmy (§ 6 odst. 2) nebo o vzniklé či zjištěné ekologické újmě (§ 7 odst. 2),
+kontroluje dodržování povinností stanovených tímto zákonem nebo rozhodnutím či opatřením vydaným na jeho základě a je oprávněna kontrolovat údaje poskytnuté provozovatelem včetně údajů o rozsahu znečištění,
+zjišťuje a eviduje případy ekologické újmy,
+vydává rozhodnutí o uložení preventivních opatření nebo nápravných opatření,
+rozhoduje o náhradě nákladů (§ 12 odst. 1),
+ukládá pokyny nebo jiná opatření na základě tohoto zákona,
+vede přehledy informací o případech ekologické újmy nebo její bezprostřední hrozby a o projednávaných nebo uložených preventivních opatřeních a nápravných opatřeních,
+ukládá pokuty za přestupky,
+plní další úkoly příslušného orgánu vyplývající z tohoto zákona.
+Na území národních parků a Agentury ochrany přírody a krajiny a jejich ochranných pásem jsou příslušným orgánem v rozsahu působnosti inspekce správy národních parků nebo Agentury ochrany přírody a krajiny. Správa národního parku nebo Agentura ochrany přírody a krajiny je věcně příslušným orgánem podle tohoto zákona, pokud se příčina vzniku ekologické újmy nebo její bezprostřední hrozby nachází na území národního parku nebo chráněné krajinné oblasti nebo v ochranném pásmu národního parku nebo chráněné krajinné oblasti.
+Ministerstvo obrany přezkoumává rozhodnutí újezdních úřadů vydaná na základě tohoto zákona.
+Ministerstvo zdravotnictví vykonává vrchní státní dozor nad krajskými hygienickými stanicemi z hlediska hodnocení analýzy rizik pro lidské zdraví (§ 11 odst. 2).
+Krajské hygienické stanice vydávají na základě požadavku inspekce, správy národního parku, Agentury ochrany přírody a krajiny nebo újezdního úřadu odborná stanoviska k analýzám rizik pro lidské zdraví a k nápravným opatřením při ekologické újmě na půdě.
+Na území vojenských újezdů jsou příslušným orgánem v rozsahu působnosti inspekce újezdní úřady.
+Dotčené orgány
+V řízení o uložení preventivních opatření nebo nápravných opatření k předcházení nebo nápravě ekologické újmy na povrchových nebo podzemních vodách je dotčeným orgánem vodoprávní úřad příslušný k povolení provozní činnosti.
+V řízení o uložení preventivních opatření nebo nápravných opatření k předcházení nebo nápravě ekologické újmy na chráněných druzích volně žijících živočichů či planě rostoucích rostlin nebo přírodních stanovištích je dotčeným orgánem příslušný orgán ochrany přírody, kterým je obecní úřad obce s rozšířenou působností.
+V řízení o uložení preventivních opatření nebo nápravných opatření k předcházení nebo nápravě ekologické újmy na lesích je dotčeným orgánem příslušný orgán státní správy lesů, kterým jsou obecní úřady obcí s rozšířenou působností.
+V řízení o uložení preventivních opatření nebo nápravných opatření k předcházení nebo nápravě ekologické újmy na zemědělském půdním fondu je dotčeným orgánem příslušný orgán ochrany zemědělského půdního fondu, kterým jsou obecní úřady obcí s rozšířenou působností.
+Je-li v řízení o uložení preventivních opatření nebo nápravných opatření provozovatelem organizace podle § 3a zákona o hornické činnosti, je dotčeným orgánem příslušný obvodní báňský úřad.
+V řízení o uložení preventivních opatření nebo nápravných opatření v případě bezprostřední hrozby ekologické újmy nebo jejího vzniku způsobené provozem zařízení podléhajícím vydání integrovaného povolení podle zákona o integrované prevenci je dotčeným orgánem příslušný krajský úřad.
+Výkon kontroly
+Pracovníci příslušných orgánů se při výkonu kontrolní činnosti prokazují průkazem vydaným příslušným kontrolním orgánem, který je dokladem o jejich pověření ke kontrole.
+Za odebrané vzorky pro účely kontroly údajů o rozsahu znečištění nenáleží osobě, jíž byl vzorek odebrán, náhrada.
+Přestupky
+Provozovatel se dopustí přestupku tím, že
+neprovede preventivní opatření podle § 6 odst. 1 nebo podle § 6 odst. 4 věty první,
+nesdělí příslušnému orgánu informace o všech důležitých okolnostech bezprostřední hrozby ekologické újmy, o nichž měl nebo mohl vědět, nebo o provedených preventivních opatřeních podle § 6 odst. 2,
+neprovede veškerá proveditelná nápravná opatření podle § 7 odst. 1 nebo podle § 7 odst. 4 věty první,
+nesdělí příslušnému orgánu informace o všech důležitých okolnostech vzniku ekologické újmy nebo okolnostech nasvědčujících jejímu vzniku, o nichž měl nebo mohl vědět, nebo o provedených nápravných opatřeních podle § 7 odst. 2,
+vykonává provozní činnost uvedenou v příloze č. 1 k tomuto zákonu bez zabezpečení finančního zajištění v rozporu s § 14.
+Za přestupek podle odstavce 1 písm. b), d) nebo e) lze uložit pokutu do 1 000 000 Kč. Za přestupek podle odstavce 1 písm. a) nebo c) lze uložit pokutu do 5 000 000 Kč.
+Společná ustanovení k přestupkům
+Přestupky podle tohoto zákona projednává na území národního parku správa národního parku, na území chráněné krajinné oblasti Agentura ochrany přírody a krajiny, na území vojenského újezdu újezdní úřad a v ostatních případech inspekce.
+Pokuty vybírá orgán, který je uložil. Příjem z pokut je příjmem Státního fondu životního prostředí České republiky.
+SPOLEČNÁ A PŘECHODNÁ USTANOVENÍ
+Společná ustanovení
+Odkladný účinek odvolání je vyloučen v řízení podle § 8.
+V případě bezprostředně hrozící nebo existující ekologické újmy příslušný orgán může uložit povinnosti podle tohoto zákona v řízení na místě.
+Pokud tento zákon nestanoví jinak, postupuje se při ukládání preventivních nebo nápravných opatření podle zvláštních právních předpisů. Příslušný správní orgán rozhodující o preventivních opatřeních nebo nápravných opatřeních podle zvláštního právního předpisu si může vyžádat vyjádření příslušného orgánu, zda jde o ekologickou újmu nebo její bezprostřední hrozbu podle tohoto zákona. Pokud v žádosti uvede, že jde o věc, která nesnese odkladu, poskytne příslušný orgán své vyjádření do 1 dne od obdržení žádosti o vyjádření.
+Je-li příčinou vzniku ekologické újmy havárie podle vodního zákona, postupuje se při jejím zneškodňování a odstraňování jejích škodlivých následků podle § 40 a 41 vodního zákona; při ukládání nápravných opatření k odstranění následků takové havárie se postupuje podle tohoto zákona.
+Ukládání povinných kompenzačních opatření v případech zjištěného negativního vlivu koncepce nebo záměru na území evropsky významných lokalit a ptačích oblastí není tímto zákonem dotčeno. Příslušný orgán při ukládání preventivních opatření nebo nápravných opatření bere v úvahu záchranné programy zvláště chráněných druhů zajišťované podle § 52 zákona o ochraně přírody a krajiny.
+Podle obecných předpisů o odpovědnosti za škodu se nepostupuje, pokud je v důsledku nápravy ekologické újmy podle tohoto zákona nahrazena i škoda na majetku.
+Tímto zákonem nejsou dotčeny zvláštní právní předpisy, které stanoví pravomoc a působnost státních orgánů a orgánů územních samosprávných celků, působnost složek integrovaného záchranného systému a práva a povinnosti právnických nebo fyzických osob při přípravě na mimořádné události a při záchranných a likvidačních pracích. V případech hrozícího nebezpečí z prodlení postupují složky integrovaného záchranného systému ve spolupráci s příslušným orgánem.
+Seznam provozních činností
+[k § 1 odst. 2 písm. a)]
+Provozování zařízení podléhající vydání integrovaného povolení podle zvláštního právního předpisu,
+provozování zařízení k využívání, odstraňování, sběru nebo výkupu odpadů podléhajících souhlasu podle zvláštního právního předpisu,
+vypouštění odpadních vod do vod povrchových nebo podzemních podléhajících povolení podle zvláštního právního předpisu,
+čerpání znečištěných podzemních vod a jejich následné odvádění do vod povrchových nebo podzemních podléhající povolení podle zvláštního právního předpisu,
+odběr povrchových vod podléhající povolení podle zvláštního právního předpisu,
+odběr podzemních vod podléhající povolení podle zvláštního právního předpisu,
+čerpání povrchových nebo podzemních vod a jejich následné vypouštění do těchto vod za účelem získání tepelné energie podléhající povolení podle zvláštního právního předpisu,
+vzdouvání nebo akumulace povrchových vod podléhající povolení podle zvláštního právního předpisu,
+zacházení se závadnými látkami podle zvláštního právního předpisu,
+nakládání s nebezpečnými chemickými látkami a chemickými přípravky, přípravky na ochranu rostlin nebo biocidními přípravky podle zvláštního právního předpisu,
+přeprava nebezpečných chemických látek a nebezpečných chemických přípravků potrubím nebo v železniční, silniční, vodní vnitrozemské, letecké nebo námořní dopravě,
+nakládání s geneticky modifikovanými organismy a genetickými produkty podle zvláštního právního předpisu,
+přeshraniční přeprava odpadů do České republiky, z České republiky a přes Českou republiku,
+provozování stacionárních zdrojů znečišťování ovzduší podléhajících povolení podle zvláštního právního předpisu,
+nakládání s těžebním odpadem,
+provozování úložišť oxidu uhličitého podléhajících povolení podle jiného právního předpisu.
+Seznam mezinárodních smluv
+[k § 1 odst. 3 písm. d)]
+Pařížská úmluva o odpovědnosti třetích stran v oblasti jaderné energie, ze dne 29. července 1960 a Bruselská doplňující úmluva ze dne 31. ledna 1963;
+Vídeňská úmluva o občanskoprávní odpovědnosti za jaderné škody, ze dne 21. května 1963;
+Úmluva o doplňkových kompenzacích za jaderné škody, ze dne 12. září 1997;
+Společný protokol k aplikaci Vídeňské úmluvy a Pařížské úmluvy, ze dne 21. září 1988;
+Bruselská úmluva o občanskoprávní odpovědnosti v oblasti námořní přepravy jaderného materiálu, ze dne 17. prosince 1971.
+KRITÉRIA PRO POSOUZENÍ VÝZNAMU ÚČINKŮ NA DOSAHOVÁNÍ NEBO UDRŽOVÁNÍ PŘÍZNIVÉHO STAVU CHRÁNĚNÝCH DRUHŮ A PŘÍRODNÍCH STANOVIŠŤ
+[k § 2 písm. a) bod 1]
+Význam jakékoliv ekologické újmy, která má nepříznivé účinky na dosahování nebo udržování příznivého stavu ochrany přírodních stanovišť nebo chráněných druhů, musí být posuzován z hlediska stavu jejich ochrany s ohledem na základní stav v době vzniku ekologické újmy a s přihlédnutím k jejich funkcím spočívajícím v poskytování jimi vytvářených výhodných možností, a k schopnosti jejich přirozené obnovy. Výrazně nepříznivé změny základního stavu se určují podle měřitelných údajů, jako jsou zejména:
+počet jedinců chráněného druhu, jejich hustota nebo oblast jejich výskytu,
+úloha konkrétních jedinců nebo poškozené oblasti ve vztahu k ochraně chráněného druhu nebo přírodního stanoviště, vzácnost chráněného druhu nebo přírodního stanoviště (posuzováno na místní, regionální nebo vyšší úrovni včetně úrovně Evropských společenství),
+rozmnožovací schopnost chráněného druhu (podle dynamiky specifické pro daný druh nebo danou populaci), jeho životaschopnost nebo schopnost přirozené obnovy přírodního stanoviště (podle dynamiky specifické pro jeho charakteristické chráněné druhy nebo jejich populace),
+schopnost chráněného druhu nebo přírodního stanoviště poté, co došlo k újmě, zotavit se v krátké době bez jakéhokoli zásahu, s výjimkou opatření na zvýšenou ochranu, a to pouze v důsledku jeho vlastní dynamiky, do stavu, který je možné považovat za rovnocenný nebo za lepší než byl základní stav.
+Ekologická újma s prokázanými účinky na lidské zdraví musí být klasifikována jako významná.
+Za závažné nemusí být považovány tyto nepříznivé účinky:
+nepříznivé odchylky, které jsou menší než přirozené fluktuace považované za normální pro příslušný chráněný druh nebo přírodní stanoviště,
+nepříznivé odchylky způsobené přirozenými příčinami nebo vyplývající ze zásahů souvisejících s normální správou lokalit, jak jsou vymezeny v záznamech o přírodních stanovištích nebo cílových dokumentech anebo jak byly prováděny v minulosti vlastníky nebo provozovateli,
+změna na chráněných druzích nebo přírodních stanovištích, u kterých se prokáže, že se z ní zotaví v krátké době bez potřeby jiného zásahu do takového stavu, který má výhradně působením dynamiky chráněného druhu nebo chráněného stanoviště za následek stav, který se považuje za rovnocenný nebo lepší než byl základní stav.
+NÁPRAVA EKOLOGICKÉ ÚJMY NA CHRÁNĚNÝCH DRUZÍCH VOLNĚ ŽIJÍCÍCH ŽIVOČICHŮ ČI PLANĚ ROSTOUCÍCH ROSTLIN, PŘÍRODNÍCH STANOVIŠTÍCH A NA VODÁCH
+[k § 7 a § 10]
+Tato příloha stanoví společný rámec, podle kterého se vybírají nejvhodnější nápravná opatření k zajištění nápravy ekologické újmy na chráněných druzích volně žijících živočichů či planě rostoucích rostlin, přírodních stanovištích nebo na vodách.
+Náprava ekologické újmy na vodách nebo chráněných druzích nebo přírodních stanovištích
+Nápravy ekologické újmy na vodách a na chráněných druzích nebo přírodních stanovištích je dosahováno prostřednictvím obnovy životního prostředí zpět do jeho základního stavu pomocí primární, doplňkové a vyrovnávací nápravy, kde:
+„primární“ náprava je nápravné opatření, které vrací poškozené přírodní zdroje nebo jejich zhoršené funkce do základního stavu nebo směrem k tomuto stavu;
+„doplňková“ náprava je nápravné opatření přijaté v souvislosti s přírodním zdrojem nebo jeho funkcemi, jehož důvodem je skutečnost, že primární náprava nevedla k plné obnově poškozených přírodních zdrojů nebo jejich funkcí;
+„vyrovnávací“ náprava je akce učiněná s cílem vyrovnat přechodné ztráty na přírodních zdrojích nebo jejich funkcích, ke kterým dochází ode dne, kdy došlo k ekologické újmě, a je to akce, která probíhá, dokud primární náprava nedosáhne svého plného účinku;
+„přechodné ztráty“ jsou ztráty, které jsou výsledkem skutečnosti, že poškozené přírodní zdroje anebo jejich funkce nejsou schopny plnit svou ekologickou úlohu nebo poskytovat služby ostatním přírodním zdrojům nebo veřejnosti do té doby, dokud primární nebo doplňková opatření nedosáhnou účinku. Tyto ztráty neobsahují finanční vyrovnání veřejnosti.
+V případě, že primární náprava nevede k obnově životního prostředí zpět do základního stavu, je provedena doplňková náprava. Navíc je provedena vyrovnávací náprava pro vyrovnání přechodných ztrát.
+Náprava ekologické újmy na vodách nebo chráněných druzích nebo přírodních stanovištích také znamená, že je odstraněno jakékoliv významné riziko nepříznivého vlivu na lidské zdraví.
+Cíle nápravy
+Účel primární nápravy ekologické újmy
+2.1. Účelem primární nápravy je obnovit poškozené přírodní zdroje nebo jejich zhoršené funkce zpět do základního stavu nebo směrem k tomuto stavu.
+Účel doplňkové nápravy ekologické újmy
+2.2. V případě, že se poškozené přírodní zdroje anebo jejich zhoršené funkce nevrací do základního stavu, pak je provedena doplňková náprava. Účelem doplňkové nápravy je poskytnout podobnou úroveň přírodních zdrojů nebo jejich funkcí, včetně zdrojů nebo funkcí na náhradní lokalitě, je-li to vhodné, které by byly bývaly poskytnuty, kdyby poškozená lokalita byla bývala vrácena do svého základního stavu. Kde je to možné a vhodné, náhradní lokalita by měla být geograficky spojena s poškozenou lokalitou a měl by být brán zřetel na zájmy postižené populace.
+Účel vyrovnávací nápravy ekologické újmy
+2.3. Vyrovnávací náprava se provádí s cílem vyrovnat přechodné ztráty přírodních zdrojů a funkcí čekajících na obnovu. Toto vyrovnání je složeno z dalších zlepšení chráněných přírodních stanovišť a druhů nebo vody buď na poškozené lokalitě, nebo na náhradní lokalitě. Neobsahuje finanční náhradu veřejnosti.
+Stanovení nápravných opatření
+Stanovení primárních nápravných opatření
+3.1. Je třeba vzít v úvahu možnosti činnosti směřující k přímé obnově přírodních zdrojů a funkcí směrem k základnímu stavu v urychleném časovém rámci nebo prostřednictvím přirozené obnovy.
+Stanovení doplňkových a vyrovnávacích nápravných opatření
+3.2. Při určování rozsahu doplňkových a vyrovnávacích opatření se nejprve zvažuje využití přístupů založených na rovnocennosti mezi jednotlivými přírodními zdroji a jejich funkcemi. U těchto přístupů se nejprve zvažují akce, které poskytují přírodní zdroje nebo funkce stejného typu, kvality a kvantity jako poškozené přírodní zdroje a jejich zhoršené funkce. Pokud to není možné, jsou poskytnuty náhradní přírodní zdroje nebo funkce. Například snížení kvality by mohlo být vyváženo zvýšením množství nápravných opatření.
+3.3. Pokud není možné využít první volbu, tj. přístupy založené na rovnocennosti mezi jednotlivými přírodními zdroji nebo jejich funkcemi, využívají se náhradní postupy hodnocení. Příslušný orgán může předepsat metodu pro určení rozsahu nezbytných doplňkových a vyrovnávacích nápravných opatření, např. finanční ohodnocení. Pokud je možné provést ohodnocení ztracených přírodních zdrojů nebo funkcí, ale ohodnocení náhradních přírodních zdrojů nebo funkcí nelze provést v přijatelném časovém horizontu nebo za přijatelné náklady, pak může příslušný orgán zvolit nápravná opatření, jejichž náklady jsou rovnocenné odhadnuté finanční hodnotě ztracených přírodních zdrojů nebo funkcí.
+Doplňková a vyrovnávací nápravná opatření by měla být navržena tak, aby umožňovala dodatečným přírodním zdrojům nebo funkcím odrážet časové preference a časový profil nápravných opatření. Například čím delší bude časové období předtím, než je dosaženo základního stavu, tím větší množství vyrovnávacích nápravných opatření bude přijato (za jinak stejných podmínek).
+Volba nápravných opatření
+4.1. Při využití nejlepších dostupných technologií by měly být vyhodnoceny přiměřené možnosti nápravy založené na těchto kritériích:
+dopad každé možnosti na lidské zdraví a bezpečnost,
+náklady na provedení dané možnosti,
+pravděpodobnost úspěchu každé možnosti,
+do jaké míry každá z možností zabrání budoucí ekologické újmě a vyhne se paralelní újmě v důsledku provedení možnosti,
+míra prospěchu pro každou složku přírodního zdroje nebo funkce,
+do jaké míry každá z možností zohledňuje příslušná sociální, ekonomická a kulturní hlediska a další relevantní faktory specifické pro danou lokalitu,
+délku doby, která bude nutná, než bude obnova na životním prostředí účinná,
+do jaké míry každá z možností dosáhne obnovy lokality, kde došlo k ekologické újmě,
+geografickou vazbu na poškozenou lokalitu.
+4.2. Při hodnocení různých stanovených nápravných opatření mohou být vybrána primární nápravná opatření, která plně neobnovují poškozenou vodu nebo chráněné druhy nebo přírodní stanoviště do základního stavu nebo která je obnovují pomaleji. Toto rozhodnutí může být učiněno pouze v případě, že přírodní zdroje nebo funkce, které byly v důsledku tohoto rozhodnutí pominuty na primární lokalitě, budou vyrovnány zvýšenými doplňkovými a vyrovnávacími opatřeními s cílem poskytnout podobnou úroveň přírodních zdrojů nebo funkcí, jakou měly přírodní zdroje nebo funkce, které byly pominuty. Tento případ nastane, například když rovnocenné přírodní zdroje nebo funkce by mohly být poskytnuty jinde za nižší náklady. Tato další nápravná opatření jsou určena v souladu s pravidly stanovenými v bodě 3.1.
+4.3. I přes úpravu stanovenou v bodě 4.2. této přílohy a v souladu s § 7 odst. 7 zákona může příslušný orgán rozhodnout, že nebudou přijata žádná další nápravná opatření, jestliže:
+již přijatá nápravná opatření zajišťují, že zde již nadále není žádné významné riziko nepříznivých účinků na lidské zdraví, vodu nebo chráněné druhy a přírodní stanoviště, a
+náklady na nápravná opatření, která by měla být přijata pro dosažení základního stavu nebo jemu podobné úrovně, by byly neúměrné možným získaným přínosům pro životní prostředí.

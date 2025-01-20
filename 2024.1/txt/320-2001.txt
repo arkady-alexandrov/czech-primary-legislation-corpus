@@ -1,0 +1,225 @@
+OBECNÁ USTANOVENÍ
+Předmět úpravy
+Tento zákon vymezuje uspořádání a rozsah finanční kontroly vykonávané mezi orgány veřejné správy, mezi orgány veřejné správy a žadateli nebo příjemci veřejné finanční podpory a uvnitř orgánů veřejné správy. Stanoví předmět, hlavní cíle a zásady finanční kontroly vykonávané podle tohoto zákona a podle zvláštních právních předpisů, pokud tak tyto předpisy stanoví.
+Ustanovení tohoto zákona se vztahují i na kontrolu státního podniku vykonávanou ministerstvem, které plní jménem státu funkci jeho zakladatele podle zvláštního právního předpisu.
+Ustanovení tohoto zákona se nevztahují na kontrolu vykonávanou Nejvyšším kontrolním úřadem na kontrolu hospodaření s majetkem zvláštního charakteru a na přezkoumávání hospodaření územních samosprávných celků podle zvláštních právních předpisů a dále na kontrolu právnických osob, k nimž stát nebo územní samosprávné celky plní funkci zakladatele podle zvláštních právních předpisů, s výjimkou kontroly poskytované veřejné finanční podpory podle tohoto zákona a podle zvláštního právního předpisu.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+orgánem veřejné správy organizační složka státu, která je účetní jednotkou podle zvláštního právního předpisu, státní příspěvková organizace, státní fond, územní samosprávný celek, městská část hlavního města Prahy, dobrovolný svazek obcí, příspěvková organizace územního samosprávného celku, městské části hlavního města Prahy nebo dobrovolného svazku obcí, státní organizace Správa železniční dopravní cesty a jiná právnická osoba zřízená k plnění úkolů veřejné správy zvláštním právním předpisem nebo právnická osoba zřízená na základě zvláštního právního předpisu, která hospodaří s veřejnými prostředky,
+kontrolovanou osobou orgán veřejné správy uvedený v písmenu a) a právnická nebo fyzická osoba, která je žadatelem o veřejnou finanční podporu nebo jejím příjemcem; kontrolovanou osobou je i zahraniční právnická nebo fyzická osoba, pokud na území České republiky podniká a je žadatelem o veřejnou finanční podporu nebo jejím příjemcem; kontrolovanou osobou jsou i další právnické a fyzické osoby, které jsou na smluvním základě zapojeny do systému řízení nebo využívání prostředků Evropské unie podle přímo použitelných předpisů Evropských společenství,
+kontrolním orgánem orgán veřejné správy, který je podle tohoto zákona nebo zvláštního právního předpisu oprávněný finanční kontrolu u kontrolované osoby vykonávat,
+vedoucím orgánu veřejné správy osoba nebo orgán oprávněný jednat jménem státu, územního samosprávného celku nebo právnické osoby uvedené v písmenu a); v kraji se rozumí vedoucím orgánu veřejné správy ředitel krajského úřadu, v obci starosta obce, ve statutárních městech primátor a v hlavním městě Praze ředitel Magistrátu hlavního města Prahy,
+osobou povinnou spolupůsobit při výkonu finanční kontroly právnická nebo fyzická osoba podílející se na dodávkách zboží nebo služeb hrazených z veřejných výdajů nebo z veřejné finanční podpory,
+veřejnými financemi veřejné příjmy a veřejné výdaje,
+veřejnými prostředky veřejné finance, věci, majetková práva a jiné majetkové hodnoty patřící státu nebo jiné právnické osobě uvedené v písmenu a),
+veřejnými příjmy příjmy státu nebo právnické osoby uvedené v písmenu a),
+veřejnými výdaji výdaje vynaložené ze státního rozpočtu, z rozpočtů územních samosprávných celků, z jiných peněžních fondů státu, územního samosprávného celku nebo jiných právnických osob uvedených v písmenu a), z prostředků soustředěných v Národním fondu a z jiných prostředků ze zahraničí poskytnutých na základě mezinárodních smluv nebo poskytnutých k plnění úkolů veřejné správy,
+veřejnou finanční podporou dotace, příspěvky, návratné finanční výpomoci a další prostředky poskytnuté ze státního rozpočtu, z rozpočtu územního samosprávného celku nebo z rozpočtu jiných právnických osob uvedených v písmenu a), z výnosu prodeje majetku podle zákona o podmínkách převodu majetku státu na jiné osoby a ze zisku z účasti státu v obchodních společnostech, státního fondu, státních finančních aktiv, dále státní záruky, finanční podpora poskytnutá formou slevy na daních i formou osvobození od cla, prostředky poskytnuté z Národního fondu a jiné prostředky ze zahraničí poskytnuté na základě mezinárodních smluv, aktů práva Evropských společenství, aktů práva jiného členského státu Evropské unie nebo k plnění úkolů veřejné správy,
+poskytovatelem veřejné finanční podpory orgán veřejné správy, který je podle zvláštních právních předpisů oprávněn tuto podporu poskytovat,
+správností finanční a majetkové operace (dále jen „operace“) její soulad s právními předpisy a dosažení optimálního vztahu mezi její hospodárností, účelností a efektivností,
+hospodárností takové použití veřejných prostředků k zajištění stanovených úkolů s co nejnižším vynaložením těchto prostředků, a to při dodržení odpovídající kvality plněných úkolů,
+efektivností takové použití veřejných prostředků, kterým se dosáhne nejvýše možného rozsahu, kvality a přínosu plněných úkolů ve srovnání s objemem prostředků vynaložených na jejich plnění,
+účelností takové použití veřejných prostředků, které zajistí optimální míru dosažení cílů při plnění stanovených úkolů.
+Finanční kontrola
+Finanční kontrola vykonávaná podle tohoto zákona je součástí systému finančního řízení zabezpečujícího hospodaření s veřejnými prostředky. Tvoří ji
+systém finanční kontroly vykonávané kontrolními orgány podle § 7 až 11,
+systém finanční kontroly vykonávané podle mezinárodních smluv podle § 24,
+vnitřní kontrolní systém v orgánech veřejné správy podle § 25 až 31.
+Systém podle odstavce 1 písm. a) zahrnuje finanční kontrolu skutečností rozhodných pro hospodaření s veřejnými prostředky zejména při vynakládání veřejných výdajů včetně veřejné finanční podpory u kontrolovaných osob, a to před jejich poskytnutím, v průběhu jejich použití a následně po jejich použití, včetně auditu podle přímo použitelných předpisů Evropských společenství (dále jen „veřejnosprávní kontrola“).
+Systém podle odstavce 1 písm. b) zahrnuje finanční kontrolu zahraničních prostředků vykonávanou mezinárodními organizacemi podle vyhlášených mezinárodních smluv, kterými je Česká republika vázána.
+Systém podle odstavce 1 písm. c) zahrnuje
+finanční kontrolu zajišťovanou odpovědnými vedoucími zaměstnanci jako součást vnitřního řízení orgánu veřejné správy při přípravě operací před jejich schválením, při průběžném sledování uskutečňovaných operací až do jejich konečného vypořádání a vyúčtování a následném prověření vybraných operací v rámci hodnocení dosažených výsledků a správnosti hospodaření (dále jen „řídící kontrola“),
+organizačně oddělené a funkčně nezávislé přezkoumávání a vyhodnocování přiměřenosti a účinnosti řídící kontroly, včetně prověřování správnosti vybraných operací, (dále jen „interní audit“).
+Hlavní cíle finanční kontroly
+Hlavními cíli finanční kontroly je prověřovat
+dodržování právních předpisů a opatření přijatých orgány veřejné správy v mezích těchto předpisů při hospodaření s veřejnými prostředky k zajištění stanovených úkolů těmito orgány,
+zajištění ochrany veřejných prostředků proti rizikům, nesrovnalostem nebo jiným nedostatkům způsobeným zejména porušením právních předpisů, nehospodárným, neúčelným a neefektivním nakládáním s veřejnými prostředky nebo trestnou činností,
+včasné a spolehlivé informování vedoucích orgánů veřejné správy o nakládání s veřejnými prostředky, o prováděných operacích, o jejich průkazném účetním zpracování za účelem účinného usměrňování činnosti orgánů veřejné správy v souladu se stanovenými úkoly,
+hospodárný, efektivní a účelný výkon veřejné správy.
+Pokud nejsou kritéria pro hodnocení hledisek uvedených v odstavci 1 písm. d) stanovena právními předpisy, technickými nebo jinými normami, musí být předem stanovena vedoucím orgánu veřejné správy, a to na základě objektivně zjištěných skutečností.
+Organizační zajištění finanční kontroly
+Odpovědnost za organizování, řízení a zajištění přiměřenosti a účinnosti finanční kontroly mají vedoucí orgánů veřejné správy v rámci své řídící pravomoci. Při zavádění a řízení finanční kontroly v orgánech veřejné správy jejich vedoucí vycházejí z mezinárodně uznávaných standardů, přičemž jsou povinni zejména
+organizovat finanční kontrolu tak, aby byla zajištěna přiměřená jistota, že tato kontrola podává včasné a spolehlivé informace o hospodaření, které jsou podkladem pro zajištění účinného řízení výkonu veřejné správy při plnění schválených záměrů a cílů,
+dbát, aby finanční kontrolu vykonávali zaměstnanci s kvalifikačními předpoklady, kteří jsou zároveň bezúhonní a u nichž nehrozí střet zájmů podle zvláštních právních předpisů; za bezúhonného se považuje zaměstnanec, který nebyl pravomocně odsouzen pro úmyslný trestný čin, pro nedbalostní trestný čin majetkové povahy nebo trestný čin související s výkonem veřejné správy, pokud odsouzení nebylo zahlazeno nebo pokud se podle zvláštního právního předpisu na pachatele nehledí, jakoby nebyl odsouzen,
+zajistit, aby byly vyloučeny nežádoucí zásahy směřující k ovlivnění zaměstnanců vykonávajících finanční kontrolu; zaměstnanci nesmí být vydán pokyn, který by ohrozil nebo znemožnil objektivní výkon finanční kontroly; pokud byl takový pokyn vydán, zaměstnanec se jím nesmí řídit,
+určit konkrétní cíle finanční kontroly podle charakteru zajišťovaných úkolů veřejné správy a v souladu s jejími hlavními cíli podle § 4,
+sledovat a vyhodnocovat výsledky finanční kontroly a při zjištění nedostatků neprodleně přijímat konkrétní opatření k nápravě, jakož i systémová opatření, která mají za cíl předcházet a včas odhalovat nesprávné operace a jejich příčiny.
+U dobrovolného svazku obcí mohou finanční kontrolu vykonávat i jiné fyzické osoby než zaměstnanci dobrovolného svazku obcí.
+Kontrolní metody a kontrolní postupy
+Při výkonu finanční kontroly se používají zejména tyto kontrolní metody:
+zjištění skutečného stavu hospodaření s veřejnými prostředky a jeho porovnání s příslušnou dokumentací,
+sledování správnosti postupů při hospodaření s veřejnými prostředky,
+šetření a ověřování skutečností týkajících se operací,
+kontrolní výpočty,
+analýza údajů ve finančních výkazech nebo jiných informačních systémech a vyhodnocení jejich vzájemných vztahů.
+Při výkonu finanční kontroly se uplatňují zejména tyto kontrolní postupy:
+schvalovací postupy, které zajišťují prověření podkladů připravovaných operací a které tyto operace v případech zjištění nedostatků pozastaví až do doby jejich odstranění,
+operační postupy, které zajišťují úplný a přesný průběh operací až do jejich konečného vypořádání a vyúčtování a které zahrnují i kontrolní techniky při prověřování jejich dokumentace a sestavování účetních, jiných finančních a statistických výkazů, hlášení a zpráv,
+hodnotící postupy, které zajišťují posouzení údajů o provedených operacích ukládaných v zavedených informačních systémech a obsažených v účetních, jiných finančních a statistických výkazech, hlášeních a zprávách, dále jejich porovnání se schválenými rozpočty a vyhodnocení jejich důsledků na celkové hospodaření,
+revizní postupy, které zajišťují prověření správnosti vybraných operací, jakož i revizní postupy k funkčně a organizačně nezávislému vyhodnocování přiměřenosti a účinnosti finančních kontrol zavedených v rámci systému řízení.
+Kontrolní metody a kontrolní postupy zahrnují i auditní metody a auditní postupy podle a k naplnění požadavků přímo použitelných předpisů Evropských společenství.
+Bližší podrobnosti o kontrolních metodách a kontrolních postupech stanoví prováděcí právní předpis.
+VEŘEJNOSPRÁVNÍ KONTROLA
+PŮSOBNOST KONTROLNÍCH ORGÁNŮ
+Působnost Ministerstva financí
+Ministerstvo financí jako ústřední správní úřad pro finanční kontrolu
+metodicky řídí a koordinuje výkon finanční kontroly ve veřejné správě,
+vykonává funkci centrální harmonizační jednotky se zaměřením na harmonizaci a metodické řízení výkonu finanční kontroly ve veřejné správě.
+Ministerstvo financí a finanční úřady vykonávají veřejnosprávní kontrolu, pokud zvláštní právní předpis nestanoví jinak, u
+organizačních složek státu, státních fondů a u ostatních státních organizací, a to včetně prověřování přiměřenosti a účinnosti systémů finanční kontroly zavedených podle § 3 odst. 1 písm. a) a c),
+poskytovatelů veřejné finanční podpory, s výjimkou územních samosprávných celků,
+žadatelů o veřejnou finanční podporu a u příjemců této podpory a dále u právnických a fyzických osob, které jsou napojeny do systému řízení nebo využívání prostředků Evropské unie podle přímo použitelných předpisů Evropských společenství.
+U ozbrojených sil, ozbrojených bezpečnostních sborů a u zpravodajských služeb vykonává veřejnosprávní kontrolu pouze Ministerstvo financí; tato veřejnosprávní kontrola se však nevztahuje na hospodaření s majetkem zvláštního charakteru.
+Působnost správců kapitol státního rozpočtu
+Správce kapitoly státního rozpočtu je povinen vytvořit systém finanční kontroly podle tohoto zákona, kterým zajistí finanční kontrolu jak svého hospodaření, tak i hospodaření organizačních složek státu a příspěvkových organizací ve své působnosti. Současně zajistí prověřování přiměřenosti a účinnosti tohoto systému a pravidelně, nejméně jednou ročně, jeho hodnocení.
+Poskytovatelé vykonávají veřejnosprávní kontrolu u žadatelů o veřejnou finanční podporu nebo u příjemců této podpory, s výjimkou těch, jímž byla poskytnuta veřejná finanční podpora z rozpočtu územního samosprávného celku.
+Působnost řídícího orgánu a platební agentury
+Řídící orgán a platební agentura vykonávají veřejnosprávní kontrolu u kontrolovaných osob na všech úrovních realizace finančních prostředků z rozpočtu Evropské unie podle tohoto zákona a přímo použitelných předpisů Evropských společenství.
+Působnost územních samosprávných celků
+Územní samosprávné celky kontrolují podle tohoto zákona hospodaření s veřejnými prostředky u příspěvkových organizací ve své působnosti.
+Územní samosprávné celky vykonávají veřejnosprávní kontrolu u žadatelů o veřejnou finanční podporu nebo u příjemců veřejné finanční podpory, kterou jim poskytují.
+Územní samosprávné celky jsou povinny vytvořit systém finanční kontroly podle tohoto zákona, kterým zajistí finanční kontrolu jak svého hospodaření, tak i hospodaření svých organizačních složek a příspěvkových organizací ve své působnosti. Současně zajistí prověřování přiměřenosti a účinnosti tohoto systému a pravidelně, nejméně jednou ročně, jeho hodnocení.
+Působnost dobrovolných svazků obcí
+Dobrovolné svazky obcí kontrolují podle tohoto zákona hospodaření s veřejnými prostředky jimi zřízených příspěvkových organizací.
+Dobrovolné svazky obcí vykonávají veřejnosprávní kontrolu u žadatelů o veřejnou finanční podporu nebo u příjemců veřejné finanční podpory, kterou jim poskytují.
+Dobrovolné svazky obcí jsou povinny vytvořit systém finanční kontroly podle tohoto zákona, kterým zajistí finanční kontrolu jak svého hospodaření, tak i hospodaření jimi zřízených příspěvkových organizací. Současně zajistí prověření přiměřenosti a účinnosti tohoto systému a pravidelně, nejméně jednou ročně, jeho hodnocení.
+Při výkonu veřejnosprávní kontroly u obcí a jimi zřízených organizací prověřují krajské úřady pouze
+skutečnosti rozhodné pro poskytnutí prostředků ze státního rozpočtu nebo jiných peněžních prostředků státu, ze státního fondu nebo Národního fondu,
+soulad s právními předpisy, hospodárnost, účelnost a efektivnost při nakládání s prostředky státního rozpočtu, s jinými peněžními prostředky státu nebo s prostředky poskytnutými ze státního rozpočtu, ze státního fondu, ze státních finančních aktiv nebo z Národního fondu,
+skutečnosti rozhodné pro poskytnutí státní záruky.
+Společná ustanovení k působnosti kontrolních orgánů
+Při veřejnosprávní kontrole, která předchází rozhodnutím o schválení použití veřejných prostředků, prověřují kontrolní orgány podklady předložené kontrolovanými osobami pro připravované operace před jejich uskutečněním. Tato kontrola se soustřeďuje především do období před přijetím rozhodnutí nebo uzavřením smlouvy, která zavazuje orgány veřejné správy k veřejným výdajům nebo jiným plněním majetkové povahy, a je zaměřena zejména na prověřování skutečností, které jsou rozhodné pro vynakládání těchto výdajů nebo pro jiná plnění.
+Kontrolní orgány při předběžné veřejnosprávní kontrole posuzují, zda plánované a připravované operace odpovídají stanoveným úkolům veřejné správy a jsou v souladu s právními předpisy, schválenými rozpočty, programy, projekty, uzavřenými smlouvami nebo jinými rozhodnutími o nakládání s veřejnými prostředky.
+Při průběžné veřejnosprávní kontrole hospodaření kontrolovaných osob s veřejnými prostředky kontrolní orgány prověřují zejména, zda tyto osoby
+dodržují stanovené podmínky a postupy při uskutečňování, vypořádávání a vyúčtování schválených operací,
+přizpůsobují uskutečňování operací při změnách ekonomických, právních, provozních a jiných podmínek novým rizikům,
+provádějí včas a přesně zápisy o uskutečňovaných operacích v zavedených evidencích a automatizovaných informačních systémech a zda zajišťují včasnou přípravu stanovených finančních, účetních a jiných výkazů, hlášení a zpráv.
+Při veřejnosprávní kontrole vykonávané následně po vyúčtování operací kontrolní orgány prověřují, zkoumají a vyhodnocují u vybraného vzorku těchto operací zejména, zda
+údaje o hospodaření s veřejnými prostředky věrně zobrazují zdroje, stav a pohyb veřejných prostředků a zda tyto údaje odpovídají skutečnostem rozhodným pro uskutečnění veřejných příjmů, výdajů a nakládání s veřejnými prostředky,
+přezkoumávané operace jsou v souladu s právními předpisy, schválenými rozpočty, programy, projekty, uzavřenými smlouvami nebo jinými rozhodnutími přijatými v rámci řízení a splňují kritéria hospodárnosti, účelnosti a efektivnosti,
+opatření přijatá příslušnými orgány veřejné správy včetně opatření k odstranění, zmírnění nebo předcházení rizik jsou kontrolovanými osobami plněna.
+Výsledky přezkoumání a vyhodnocení operací podle odstavce 4 jsou podkladem k prověřování přiměřenosti a účinnosti systémů finanční kontroly, zavedených u orgánů veřejné správy podle § 3 odst. 1 písm. a) a c).
+Při auditu vykonávaném podle přímo použitelných předpisů Evropských společenství kontrolní orgány posuzují přiměřenost a účinnost systému finanční kontroly a správnost operací.
+PROCESNÍ PRAVIDLA
+Pravidla pro výkon veřejnosprávní kontroly na místě
+Vzájemné vztahy mezi kontrolními orgány a kontrolovanými osobami při výkonu veřejnosprávní kontroly na místě se řídí kontrolním řádem, nestanoví-li tento zákon jinak.
+Zaměstnanci kontrolního orgánu mohou při veřejnosprávní kontrole vykonávané na místě u právnické nebo fyzické osoby, která je žadatelem o veřejnou finanční podporu nebo jejím příjemcem, používat kontrolní oprávnění podle tohoto zákona a podle kontrolního řádu pouze v rozsahu nezbytném ke splnění účelu této kontroly.
+Zjistí-li kontrolní orgán u kontrolované osoby nesrovnalosti v dokladech o dodávkách zboží nebo služeb hrazených z veřejných výdajů nebo z veřejné finanční podpory, použije při kontrole u osoby povinné spolupůsobit při výkonu této kontroly přiměřeně postup podle odstavce 1.
+Pokud se osoba povinná spolupůsobit ke kontrole podle odstavce 3 již předem ve smlouvě o dodávkách zboží nebo služeb nezavázala, kontrolní orgán je oprávněn vyžádat si doklady v rozsahu nezbytném k ověření příslušné operace.
+Při výkonu veřejnosprávní kontroly je kontrolní orgán oprávněn si vyžádat od kontrolované účetní jednotky nebo od jiného kontrolního orgánu účetní záznamy též prostřednictvím centrálního systému účetních informací státu, anebo si vyžádat účetní záznamy od správce centrálního systému účetních informací státu, za podmínek stanovených zákonem o účetnictví.
+Zvláštní ustanovení o procesních pravidlech pro výkon auditu
+Při výkonu auditu podle přímo použitelných předpisů Evropských společenství se přihlédne k mezinárodně uznávaným auditorským standardům; nepoužijí se § 9 písm. f), § 10 odst. 1 písm. c) a d), § 12 až 19, § 21, § 23 až 27 kontrolního řádu a § 18 až 21 tohoto zákona.
+Zaměstnanec kontrolního orgánu, který audit vykonal, vyhotoví o tomto auditu zprávu. Součástí zprávy o auditu vykonaného u orgánu veřejné správy je v případě zjištěných nedostatků též doporučení ke zdokonalení systému finanční kontroly, k předcházení nebo zmírnění rizik a k nápravě těchto nedostatků.
+Zaměstnanec kontrolního orgánu, který audit vykonává, je povinen seznámit osobu, u které je tento audit vykonáván, se získanými poznatky a s navrhovaným obsahem zprávy o auditu a poskytnout jí písemné vyhotovení návrhu této zprávy. Osoba, u které je audit vykonáván, je oprávněna zaujmout k návrhu této zprávy písemné stanovisko. Toto stanovisko je součástí zprávy o auditu. Lhůtu k zaujetí stanoviska stanoví zaměstnanec kontrolního orgánu, který audit vykonává. Tato lhůta nesmí být kratší než 5 dní, pokud nebyla dohodnuta lhůta jiná.
+Zaměstnanec kontrolního orgánu, který audit vykonal, je povinen zprávu o auditu předat osobě, u které byl tento audit vykonán. Kontrolovaná osoba je povinna informovat orgán veřejné správy, jehož zaměstnanec audit vykonal, o přijetí a plnění opatření k nápravě zjištěných nedostatků.
+Audit podle přímo použitelných předpisů Evropských společenství je ukončen dnem doručení zprávy o auditu příslušnému vedoucímu orgánu veřejné správy, který tento audit vykonal.
+Opatření k nápravě
+Kontrolovaná osoba je povinna přijmout opatření k odstranění nedostatků zjištěných při veřejnosprávní kontrole bez zbytečného odkladu nejpozději ve lhůtě stanovené kontrolním orgánem.
+Kontrolní orgány ukládají kontrolovaným osobám opatření k nápravě, stanoví-li tak zvláštní právní předpis, nebo předávají svá kontrolní zjištění orgánům veřejné správy, které jsou oprávněny uložit kontrolovaným osobám opatření k nápravě. V takovém případě se na orgány veřejné správy a jejich zaměstnance vztahuje povinnost mlčenlivosti podle tohoto zákona nebo zvláštního právního předpisu.
+Informace o uložení opatření k nápravě
+Orgány veřejné správy, které jsou oprávněny uložit kontrolované osobě opatření k nápravě, jsou povinny písemně informovat kontrolní orgán o jejich uložení a o jejich splnění, a to ve lhůtách do 3 měsíců od jejich uložení a splnění.
+Kontrolní orgány jsou oprávněny prověřit u kontrolovaných osob, které jsou povinny přijmout opatření k nápravě nedostatků, plnění těchto opatření. Přitom postupují podle § 13 odst. 1.
+Podávání zpráv o výsledcích finanční kontroly
+Ministerstvo financí předkládá vládě roční zprávu o výsledcích finančních kontrol spolu s návrhem státního závěrečného účtu. Současně předává tuto zprávu Nejvyššímu kontrolnímu úřadu.
+Orgán veřejné správy předkládá roční zprávu o výsledcích finančních kontrol Ministerstvu financí.
+Součástí zpráv podle odstavců 1 až 3 je i hodnocení přiměřenosti a účinnosti zavedeného systému finanční kontroly, včetně přehledu o kontrolních zjištěních předaných k dalšímu řízení podle zvláštních právních předpisů. Tam, kde tento zákon odkazuje na povinnost orgánu veřejné správy zavést systém finanční kontroly u jiných orgánů veřejné správy, podává roční zprávy orgán, který je povinen systém zavést, i za tyto orgány.
+Strukturu a rozsah zpráv o výsledcích finančních kontrol, postup a termíny jejich předkládání stanoví prováděcí právní předpis.
+O závažných zjištěních z vykonaných finančních kontrol informují kontrolní orgány Ministerstvo financí nejpozději do 1 měsíce od ukončení finanční kontroly. Za závažné zjištění se považuje
+zjištění, na jehož základě kontrolní orgán oznámil podle zvláštního právního předpisu státnímu zástupci nebo policejním orgánům skutečnosti nasvědčující tomu, že byl spáchán trestný čin,
+zjištění neoprávněného použití, zadržení, ztráty nebo poškození veřejných prostředků v hodnotě přesahující 300 000 Kč.
+Splněním povinnosti podle odstavce 6 písm. b) není dotčena povinnost kontrolního orgánu sdělit příslušnému správci daně zjištění o porušení rozpočtové či daňové kázně podle zvláštního právního předpisu.
+Spolupráce v oblasti finanční kontroly
+Orgány veřejné správy vzájemně spolupracují při zajišťování přiměřeného a účinného systému finanční kontroly ve veřejné správě.
+Orgány veřejné správy spolupracují při zajišťování přiměřeného a účinného systému finanční kontroly s Nejvyšším kontrolním úřadem, kterému na vyžádání poskytují informace podle kontrolního řádu pro zpracování plánu kontrolní činnosti Nejvyššího kontrolního úřadu.
+FINANČNÍ KONTROLA PODLE MEZINÁRODNÍCH SMLUV
+Pravidla pro výkon finanční kontroly podle mezinárodních smluv
+Stanoví-li tak vyhlášená mezinárodní smlouva, kterou je Česká republika vázána, mohou vykonávat mezinárodní organizace svými kontrolními orgány nebo určenými zmocněnci finanční kontrolu podle tohoto zákona v rozsahu a za podmínek, které tato smlouva stanoví.
+Stanoví-li tak smlouva uvedená v odstavci 1, jsou mezinárodní organizace v rozsahu a za podmínek, které tato smlouva stanoví, oprávněny vyžadovat si u orgánů veřejné správy České republiky spolupráci při finanční kontrole nebo zajištění jejího výkonu. Dožádaný orgán veřejné správy je povinen tomuto požadavku vyhovět. V rámci spolupráce se dotčené orgány vzájemně informují o předmětu, účelu a výsledku finanční kontroly, koordinují její výkon a postupují při finanční kontrole ve vzájemné součinnosti.
+Kontrolované osoby a osoby povinné spolupůsobit při výkonu finanční kontroly jsou povinny v případech uvedených v odstavcích 1 a 2 výkon finanční kontroly umožnit.
+Umožňuje-li to smlouva uvedená v odstavci 1, požadují příslušné orgány veřejné správy České republiky od mezinárodních organizací zprávy o jimi provedených finančních kontrolách.
+Orgány veřejné správy jsou povinny poskytnout Ministerstvu financí informace o finančních kontrolách a jejich výsledcích, které poskytly mezinárodním organizacím na základě jejich vyžádání.
+VNITŘNÍ KONTROLNÍ SYSTÉM
+ZAVEDENÍ, UDRŽOVÁNÍ A PROVĚŘOVÁNÍ ÚČINNOSTI VNITŘNÍHO KONTROLNÍHO SYSTÉMU
+Povinnosti vedoucího orgánu veřejné správy a vedoucích zaměstnanců
+Vedoucí orgánu veřejné správy je v rámci své odpovědnosti povinen v tomto orgánu zavést a udržovat vnitřní kontrolní systém, který
+vytváří podmínky pro hospodárný, efektivní a účelný výkon veřejné správy,
+je způsobilý včas zjišťovat, vyhodnocovat a minimalizovat provozní, finanční, právní a jiná rizika vznikající v souvislosti s plněním schválených záměrů a cílů orgánu veřejné správy,
+zahrnuje postupy pro včasné podávání informací příslušným úrovním řízení o výskytu závažných nedostatků a o přijímaných a plněných opatřeních k jejich nápravě.
+Ke splnění povinností podle odstavce 1 vedoucí orgánu veřejné správy vymezí v souladu s § 5 postavení a působnost organizačních složek státu, které nejsou účetními jednotkami podle zvláštního právního předpisu, organizačních složek územních samosprávných celků, organizačních útvarů, vedoucích a ostatních zaměstnanců tak, aby zajistil fungování řídící kontroly a interního auditu. K tomu zejména
+stanoví rozsah odpovídajících pravomocí a odpovědností vedoucích a ostatních zaměstnanců při nakládání s veřejnými prostředky, včetně úplného a přesného vymezení povinností ve vztahu k jimi plněným úkolům,
+zajistí oddělení pravomocí a odpovědností při přípravě, schvalování, provádění a kontrole operací, zejména ve vztahu k výběrovým řízením, uzavírání smluv, vzniku závazků, platbám a vymáhání pohledávek,
+zajistí, aby o všech operacích a kontrolách byl proveden záznam a vedena příslušná dokumentace,
+přijme veškerá nezbytná opatření k ochraně veřejných prostředků,
+zajistí hospodárné, efektivní a účelné využívání veřejných prostředků v souladu se zásadami spolehlivého řízení uvedenými v odstavci 1,
+sleduje a zajišťuje plnění rozhodujících úkolů orgánu veřejné správy k dosažení schválených záměrů a cílů.
+V případech závažných zjištění postupuje vedoucí orgánu veřejné správy podle § 22 odst. 6 obdobně.
+Všichni vedoucí zaměstnanci orgánu veřejné správy jsou v rámci vymezených povinností, pravomocí a odpovědností povinni zajistit fungování vnitřního kontrolního systému. Současně jsou povinni podávat vedoucímu orgánu veřejné správy včasné a spolehlivé informace o výsledcích dosahovaných při plnění stanovených úkolů, o vzniku významných rizik, o závažných nedostatcích v činnosti orgánu veřejné správy a o přijímaných a plněných opatřeních k jejich nápravě.
+Na výkon finanční kontroly v rámci vnitřního kontrolního systému orgánu veřejné správy se nevztahují procesní pravidla podle § 13 až 21.
+V rámci vnitřního kontrolního systému Bezpečnostní informační služby je vykonávána finanční kontrola; tato kontrola se však nevztahuje na hospodaření s majetkem zvláštního charakteru.
+ŘÍDÍCÍ KONTROLA
+Předběžná kontrola
+Uvnitř orgánu veřejné správy zajišťují předběžnou kontrolu plánovaných a připravovaných operací
+vedoucí tohoto orgánu nebo vedoucí zaměstnanci jím pověření k nakládání s veřejnými prostředky orgánu veřejné správy jako příkazci operací,
+vedoucí zaměstnanec organizačního útvaru odpovědný za správu rozpočtu orgánu veřejné správy nebo jiný zaměstnanec pověřený k tomu vedoucím tohoto orgánu jako správce rozpočtu,
+vedoucí zaměstnanec organizačního útvaru odpovědný za vedení účetnictví orgánu veřejné správy nebo jiný zaměstnanec pověřený k tomu vedoucím tohoto orgánu jako hlavní účetní.
+Sloučení funkcí podle odstavce 1 je nepřípustné, není-li dále stanoveno jinak.
+Sloučení funkcí podle odstavce 1 písm. b) a c) je možné v případech, kdy je to odůvodněno malou pravděpodobností výskytu nepřiměřených rizik pro hospodaření s veřejnými prostředky, zejména v návaznosti na povahu činnosti orgánu veřejné správy, stanovené úkoly, stupeň obtížnosti finančního řízení, strukturu a počet zaměstnanců.
+Pro zaměření předběžné kontroly se použije obdobně ustanovení § 11 odst. 1 a pro její výkon se uplatní zejména kontrolní postupy podle § 6 odst. 2 písm. a).
+Zjistí-li osoby uvedené v odstavci 1 písm. b) a c), že operace byla provedena bez předběžné kontroly, oznámí své zjištění písemně vedoucímu orgánu veřejné správy. Ten je povinen přijmout opatření k prověření této nekontrolované operace a opatření k zabezpečení řádného výkonu předběžné kontroly.
+U dobrovolného svazku obcí mohou předběžnou řídicí kontrolu vykonávat i jiné fyzické osoby než zaměstnanci dobrovolného svazku obcí.
+U obcí, krajů, hlavního města Prahy, městských části hlavního města Prahy, městských obvodů a části statutárního města může být příkazcem operace člen zastupitelstva.
+U orgánu veřejné správy, který nemá víc než 5 zaměstnanců, může být hlavním účetním nebo správcem rozpočtu jiná fyzická osoba než zaměstnanec orgánu veřejné správy.
+Průběžná a následná kontrola
+Uvnitř orgánu veřejné správy zajišťují průběžnou a následnou kontrolu jeho vedoucí prostřednictvím vedoucích zaměstnanců organizačních útvarů nebo k tomu pověřených zaměstnanců, kteří zajišťují přímé uskutečňování operací při hospodaření s veřejnými prostředky.
+Pro zaměření průběžné a následné kontroly se použije obdobně ustanovení § 11 odst. 3 a 4 a pro její výkon se uplatní zejména kontrolní postupy podle § 6 odst. 2 písm. b) až d).
+Zjistí-li osoby uvedené v odstavci 1 při výkonu průběžné a následné kontroly, že s veřejnými prostředky je nakládáno nehospodárně, neefektivně a neúčelně nebo v rozporu s právními předpisy, oznámí své zjištění písemně vedoucímu orgánu veřejné správy, který je povinen přijmout opatření k nápravě zjištěných nedostatků a opatření k zabezpečení řádného výkonu této kontroly.
+INTERNÍ AUDIT
+Funkční nezávislost interního auditu
+Uvnitř orgánu veřejné správy zajišťuje interní audit funkčně nezávislý útvar, případně k tomu zvlášť pověřený zaměstnanec, organizačně oddělený od řídících výkonných struktur (dále jen „útvar interního auditu“).
+Interní audit je nezávislé a objektivní přezkoumávání a vyhodnocování operací a vnitřního kontrolního systému orgánu veřejné správy, které zjišťuje, zda
+právní předpisy, přijatá opatření a stanovené postupy jsou v činnosti orgánu veřejné správy dodržovány,
+rizika vztahující se k činnosti orgánu veřejné správy jsou včas rozpoznávána a zda jsou přijímána odpovídající opatření k jejich vyloučení nebo zmírnění,
+řídící kontroly poskytují vedoucímu orgánu veřejné správy spolehlivé a včasné provozní, finanční a jiné informace,
+provozní a finanční kritéria podle § 4 jsou plněna,
+zavedený vnitřní kontrolní systém je dostatečně účinný, reaguje včas na změny ekonomických, právních, provozních a jiných podmínek,
+dosažené výsledky při plnění rozhodujících úkolů orgánu veřejné správy poskytují dostatečné ujištění, že schválené záměry a cíle tohoto orgánu budou splněny.
+Na základě svých zjištění předkládá útvar interního auditu vedoucímu orgánu veřejné správy doporučení ke zdokonalování kvality vnitřního kontrolního systému, k předcházení nebo ke zmírnění rizik a k přijetí opatření k nápravě zjištěných nedostatků. Současně tento útvar zajišťuje v orgánu veřejné správy konzultační činnost.
+Interní audit zahrnuje zejména
+finanční audity, které ověřují, zda údaje vykázané ve finančních, účetních a jiných výkazech věrně zobrazují majetek, zdroje jeho financování a hospodaření s ním,
+audity systémů, které prověřují a hodnotí systémy zajištění příjmů orgánu veřejné správy, včetně vymáhání pohledávek, financování jeho činnosti a zajištění správy veřejných prostředků,
+audity výkonu, které zkoumají výběrovým způsobem hospodárnost, efektivnost a účelnost operací i přiměřenost a účinnost vnitřního kontrolního systému.
+Postavení útvaru interního auditu
+Útvar interního auditu je přímo podřízen vedoucímu orgánu veřejné správy, který zajišťuje jeho funkční nezávislost a organizační oddělení od řídících výkonných struktur.
+Vedoucího útvaru interního auditu jmenuje a odvolává
+ministr financí po projednání ve vládě, pokud jde o útvar interního auditu Ministerstva financí,
+vedoucí ústředního orgánu státní správy nebo jiné organizační složky státu, která je správcem kapitoly státního rozpočtu, po projednání s ministrem financí, pokud jde o útvar interního auditu tohoto orgánu,
+prezident Nejvyššího kontrolního úřadu po projednání s předsedou rozpočtového výboru Poslanecké sněmovny Parlamentu, pokud jde o útvar interního auditu Nejvyššího kontrolního úřadu,
+statutární orgán státní organizace Správa železniční dopravní cesty nebo právnické osoby, zřízené k plnění úkolů veřejné správy zvláštním právním předpisem nebo na základě zvláštního právního předpisu, po projednání s vedoucím orgánu veřejné správy, kterému je zvláštním právním předpisem svěřena kontrola činnosti této osoby, pokud jde o její útvar interního auditu,
+vedoucí organizační složky státu, která je účetní jednotkou, státní příspěvkové organizace a státního fondu po projednání s vedoucím orgánu uvedeného pod písmenem b), pokud jde o útvar interního auditu organizační složky státu, státní příspěvkové organizace nebo státního fondu v působnosti tohoto úřadu,
+rada kraje na návrh ředitele krajského úřadu, pokud jde o útvar interního auditu kraje,
+rada obce na návrh starosty obce, pokud jde o útvar interního auditu obce,
+rada hlavního města Prahy na návrh ředitele Magistrátu hlavního města Prahy, pokud jde o útvar interního auditu hlavního města Prahy,
+rada městské části hlavního města Prahy na návrh starosty městské části, pokud jde o útvar interního auditu městské části hlavního města Prahy,
+statutární orgán příspěvkové organizace územního samosprávného celku po projednání s ředitelem krajského úřadu, pokud jde o útvar interního auditu příspěvkové organizace kraje, se starostou obce, pokud jde o útvar interního auditu příspěvkové organizace obce, s ředitelem Magistrátu hlavního města Prahy, pokud jde o útvar interního auditu příspěvkové organizace hlavního města Prahy.
+V případě pověřování zaměstnance uvedeného v § 28 odst. 1 zajišťováním interního auditu a jeho odvolávání postupuje vedoucí orgánu veřejné správy podle odstavce 2 obdobně.
+Útvar interního auditu nelze pověřovat úkoly, které jsou v rozporu s nezávislým plněním jemu stanovených úkolů. V rozporu s nezávislým plněním úkolů útvaru interního auditu není, jestliže je tento útvar pověřen zajišťováním výkonu následné veřejnosprávní kontroly podle § 11 odst. 4 až 6.
+V případech s malou pravděpodobností výskytu nepřiměřených rizik při hospodaření s veřejnými prostředky, a to zejména v návaznosti na povahu zajišťovaných úkolů, strukturu a stupeň obtížnosti vnitřního řízení, mohou orgány veřejné správy podle § 8 odst. 1 u organizačních složek státu a příspěvkových organizací ve své působnosti, územní samosprávné celky podle § 9 odst. 3 u svých organizačních složek a příspěvkových organizací ve své působnosti a dobrovolné svazky obcí podle § 9a odst. 3 u jimi zřízených příspěvkových organizací nahradit funkci útvaru interního auditu výkonem veřejnosprávní kontroly podle části druhé tohoto zákona.
+Obce a městské části hlavního města Prahy, které mají méně jak 15 000 obyvatel, a dobrovolné svazky obcí mohou nahradit funkci útvaru interního auditu přijetím jiných dostatečných opatření. V takovém případě zajišťují průběžné sledování a hodnocení účinnosti těchto opatření a přitom zvažují zavedení útvaru interního auditu. Pokud v návaznosti na toto hodnocení zjistí, že přijatá opatření nejsou dostatečně účinná, jsou obce, městské části hlavního města Prahy a dobrovolné svazky obcí povinny bez zbytečného odkladu útvar interního auditu zřídit.
+Plánování interního auditu
+Interní audit se vykonává v orgánu veřejné správy v souladu se střednědobým plánem a ročními plány jednotlivých auditů.
+Střednědobý plán stanoví priority a odráží potřeby orgánu veřejné správy z hlediska dosavadních výsledků jeho činnosti a předpokládaných záměrů a cílů na víceleté období.
+Roční plán upřesňuje na základě střednědobého plánu rozsah, věcné zaměření a typ auditů, jejich cíle, časové rozvržení a personální zajištění. Dále obsahuje zejména odbornou přípravu interních auditorů, úkoly v metodické a konzultační činnosti.
+Plány interního auditu zpracovává útvar interního auditu na základě objektivního hodnocení rizik, která vyplývají ze stanovených úkolů orgánu veřejné správy, s přihlédnutím k výsledkům veřejnosprávní a jiné kontroly uskutečněné u tohoto orgánu a ke zjištěním vnitřního kontrolního systému.
+Vedoucí útvaru interního auditu projednává přípravu plánů s vedoucím orgánu veřejné správy, který tyto plány schvaluje. Přitom bere v úvahu jeho doporučení.
+Ve zvláště odůvodněných případech může útvar interního auditu na vyžádání vedoucího orgánu veřejné správy operativně zařadit výkon konkrétního auditu mimo schválený roční plán.
+Vedoucí orgánu veřejné správy nejméně jednou ročně zajistí prověření účinnosti vnitřního kontrolního systému, který zahrnuje všechny kontrolní činnosti v rámci vnitřního provozního a finančního řízení tohoto orgánu. Tam, kde dosud nebyla zavedena funkce interního auditu, se prověří u tohoto orgánu i potřeba jeho zavedení.
+Podávání zpráv
+Útvar interního auditu předává zprávy o svých zjištěních z provedených auditů bez zbytečného odkladu vedoucímu orgánu veřejné správy s doporučením k přijetí opatření podle § 28 odst. 3.
+Zjistí-li útvar interního auditu, že na základě oznámení řídící kontroly nebo na základě jeho vlastního návrhu nebyla přijata příslušná opatření, je povinen na toto zjištění písemně upozornit vedoucího orgánu veřejné správy.
+Výsledky interního auditu jsou souhrnně uváděny v roční zprávě předkládané vedoucímu orgánu veřejné správy, která zejména
+hodnotí obecnou kvalitu vnitřního kontrolního systému,
+analyzuje výskyt závažných nedostatků, které nepříznivě ovlivnily činnost orgánu veřejné správy, včetně nedostatků ve fungování vnitřního kontrolního systému, a které byly důvodem snížení finanční výkonnosti v činnosti orgánu veřejné správy,
+uvádí zjištění o skutečnostech, které by mohly způsobit neúplnost nebo neprůkaznost účetnictví,
+předkládá doporučení ke zkvalitnění řízení provozní a finanční činnosti orgánu veřejné správy a jeho vnitřního kontrolního systému.
+Na základě doporučení útvaru interního auditu, uvedených ve zprávě podle odstavce 3, přijímá vedoucí orgánu veřejné správy odpovídající opatření.
+Zpráva podle odstavce 3 a přijatá opatření podle odstavce 4 jsou podkladem pro vypracování roční zprávy orgánu veřejné správy podle § 22, která zahrnuje údaje a informace o výsledcích finanční kontroly v tomto orgánu.

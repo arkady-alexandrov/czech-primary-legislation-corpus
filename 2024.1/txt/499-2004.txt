@@ -1,0 +1,1099 @@
+ARCHIVNICTVÍ A SPISOVÁ SLUŽBA
+ÚVODNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon upravuje
+výběr a evidenci archiválií,
+ochranu archiválií,
+práva a povinnosti vlastníků archiválií,
+práva a povinnosti držitelů a správců archiválií (dále jen „držitel archiválie“),
+využívání archiválií,
+zpracování osobních údajů pro účely archivnictví,
+soustavu archivů,
+práva a povinnosti zřizovatelů archivů,
+spisovou službu,
+působnost Ministerstva vnitra (dále jen „ministerstvo“) a dalších správních úřadů na úseku archivnictví a výkonu spisové služby,
+přestupky.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+archivnictvím obor lidské činnosti zaměřený na péči o archiválie jako součásti národního kulturního dědictví a plnící funkce správní, informační, vědecké a kulturní,
+péčí o archiválie jejich výběr, evidence, ochrana, archivní zpracování, uložení a zpřístupnění,
+archivem zařízení podle tohoto zákona, které slouží k ukládání archiválií a péči o ně,
+původcem každý, z jehož činnosti dokument vznikl; za dokument vzniklý z činnosti původce se považuje rovněž dokument, který byl původci doručen nebo jinak předán,
+dokumentem každá písemná, obrazová, zvuková nebo jiná zaznamenaná informace, ať již v podobě analogové či digitální, která byla vytvořena původcem nebo byla původci doručena,
+archiválií takový dokument, který byl vzhledem k době vzniku, obsahu, původu, vnějším znakům a trvalé hodnotě dané politickým, hospodářským, právním, historickým, kulturním, vědeckým nebo informačním významem vybrán ve veřejném zájmu k trvalému uchování a byl vzat do evidence archiválií; archiváliemi jsou i pečetidla, razítka a jiné hmotné předměty související s archivním fondem či s archivní sbírkou, které byly vzhledem k době vzniku, obsahu, původu, vnějším znakům a trvalé hodnotě dané politickým, hospodářským, právním, historickým, kulturním, vědeckým nebo informačním významem vybrány a vzaty do evidence,
+výběrem archiválií posouzení hodnoty dokumentů a rozhodnutí o jejich vybrání za archiválie a zařazení do evidence archiválií,
+archivním fondem soubor archiválií, který vznikl výběrem z dokumentů vytvořených z činnosti původce,
+archivní sbírkou soubor archiválií navzájem propojených jedním nebo několika společnými znaky,
+archivní pomůckou informační systém, který se vytváří při archivním zpracování a slouží pro evidenci a orientaci v obsahu a časovém rozsahu archivního fondu, archivní sbírky nebo jejich částí,
+archivním zpracováním třídění, pořádání a popis archiválií,
+výkonem spisové služby zajištění odborné správy dokumentů vzniklých z činnosti původce, popřípadě z činnosti jeho právních předchůdců, zahrnující jejich řádný příjem, evidenci, rozdělování, oběh, vyřizování, vyhotovování, podepisování, odesílání, ukládání a vyřazování ve skartačním řízení, a to včetně kontroly těchto činností,
+spisovnou místo určené k uložení, vyhledávání a předkládání dokumentů pro potřebu původce a k provádění skartačního řízení,
+správním archivem součást původce určená k dohledu na spisovou službu původce a k uložení, vyhledávání a předkládání dokumentů se skartační lhůtou delší než 5 let,
+metadaty data popisující souvislosti, obsah a strukturu dokumentů a jejich správu v průběhu času,
+spisovým řádem vnitřní předpis stanovící základní pravidla pro manipulaci s dokumenty a skartační řízení,
+spisovým znakem označení, které zařazuje dokumenty do věcných skupin pro účely jejich budoucího vyhledávání, ukládání a vyřazování,
+skartačním znakem označení dokumentu, podle něhož se dokument posuzuje ve skartačním řízení,
+skartační lhůtou doba, během níž musí být dokument uložen u původce,
+zaměstnancem osoba ve služebním poměru, pracovněprávním nebo jiném obdobném vztahu,
+atestací elektronického systému spisové služby posouzení souladu elektronického systému spisové služby s požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu pro elektronické systémy spisové služby (dále jen „národní standard“).
+ARCHIVNICTVÍ
+Výběr archiválií a jejich evidence
+Výběr archiválií
+Povinnost uchovávat dokumenty a umožnit výběr archiválií mají
+organizační složky státu,
+ozbrojené síly,
+bezpečnostní sbory,
+státní příspěvkové organizace,
+státní podniky,
+územní samosprávné celky,
+organizační složky územních samosprávných celků, vytvářejí-li dokumenty uvedené v přílohách č. 1 nebo 2 k tomuto zákonu,
+právnické osoby zřízené nebo založené územními samosprávnými celky, vytvářejí-li dokumenty uvedené v přílohách č. 1 nebo 2 k tomuto zákonu,
+vysoké školy,
+školy a školská zařízení s výjimkou mateřských škol, výchovných a ubytovacích zařízení a zařízení školního stravování (dále jen „školy“),
+zdravotní pojišťovny,
+veřejné výzkumné instituce,
+právnické osoby zřízené zákonem,
+(dále jen „veřejnoprávní původci“).
+Povinnost uchovávat dokumenty a umožnit výběr archiválií mají za podmínek stanovených tímto zákonem také
+obchodní společnosti a družstva s výjimkou bytových družstev, pokud jde o dokumenty uvedené v příloze č. 1 k tomuto zákonu,
+politické strany, politická hnutí, spolky, odborové organizace, organizace zaměstnavatelů, církve a náboženské společnosti, profesní komory, nadace, nadační fondy, ústavy a obecně prospěšné společnosti,
+notáři, pokud jde o dokumenty uvedené v příloze č. 1 k tomuto zákonu,
+(dále jen „soukromoprávní původci“).
+Povinnost uchovávat dokumenty a umožnit výběr archiválií mají dále právní nástupci veřejnoprávních a soukromoprávních původců, jde-li o dokumenty, ke kterým měli tuto povinnost již tito původci.
+Povinnost uchovávat dokumenty a umožnit výběr archiválií mají dále podnikatelé, kterým bylo uděleno státní povolení k provozování živnosti vedení spisovny (dále jen „koncese k vedení spisovny“), jde-li o dokumenty, ke kterým mají tuto povinnost veřejnoprávní původci, soukromoprávní původci nebo jejich právní nástupci a které byly veřejnoprávními původci, soukromoprávními původci nebo jejich právními nástupci těmto podnikatelům předány k zajištění odborné správy.
+V případě dokumentů v digitální podobě se jejich uchováváním rozumí rovněž zajištění věrohodnosti původu dokumentů, neporušitelnosti jejich obsahu a čitelnosti, tvorba a správa metadat náležejících k těmto dokumentům v souladu s tímto zákonem a připojení údajů prokazujících existenci dokumentu v čase. Tyto vlastnosti musí být zachovány do doby provedení výběru archiválií.
+Výběr archiválií provádí archiv podle své působnosti (dále jen „příslušný archiv“).
+Povinnost uchovávat dokumenty a umožnit výběr archiválií pro poskytovatele zdravotních služeb, kteří jsou veřejnoprávními nebo soukromoprávními původci, v případě zdravotnické dokumentace stanoví jiné právní předpisy upravující vedení a uchovávání zdravotnické dokumentace.
+Kritériem výběru archiválií je trvalá hodnota dokumentu vzhledem k
+době vzniku,
+obsahu,
+původu,
+vnějším znakům.
+Podle doby vzniku se příslušným archivem za archiválie vybírají
+dokumenty vzniklé do roku 1850,
+dokumenty z oborů průmyslové a zemědělské výroby, úvěrové soustavy a pojišťovnictví, finančního a důlního podnikání včetně patentů na významné vynálezy vzniklé do roku 1900,
+fotografické záznamy vzniklé do roku 1900,
+zvukové záznamy vzniklé do roku 1930,
+filmové záznamy vzniklé do roku 1930.
+Podle obsahu se za archiválie příslušným archivem vybírají dokumenty, které mají trvalou hodnotu danou jejich politickým, hospodářským, právním, historickým, kulturním, vědeckým nebo informačním významem; k výběru musí být vždy předloženy dokumenty uvedené v příloze č. 2 k tomuto zákonu.
+Podle původu se za archiválie příslušným archivem vybírají dokumenty, které mají trvalou hodnotu vzhledem k významu, funkci anebo postavení jejich původce.
+Podle vnějších znaků se za archiválie příslušným archivem vybírají dokumenty, které mají trvalou hodnotu vzhledem k jejich výtvarné hodnotě, jazyku, písmu, psací látce, způsobu vyhotovení, případně i dalším obdobným vlastnostem.
+Výběr archiválií z dokumentů původců provádí příslušný archiv ve skartačním řízení nebo mimo skartační řízení.
+Výběr archiválií ve skartačním řízení
+Výběr archiválií ve skartačním řízení provádí příslušný archiv z dokumentů veřejnoprávního původce, z dokumentů jeho právního předchůdce a z dokumentů soukromoprávního původce, má-li zřízen soukromý archiv.
+Výběr archiválií ve skartačním řízení provádí příslušný archiv z dokumentů soukromoprávního původce, požádá-li o to soukromoprávní původce.
+Skartační řízení je postup, při kterém se vyřazují dokumenty, jimž uplynuly skartační lhůty a jež jsou nadále nepotřebné pro činnost původce.
+Za řádné provedení skartačního řízení odpovídá původce nebo jeho právní nástupce. Tyto subjekty jsou povinny umožnit příslušnému archivu dohled na provádění skartačního řízení a výběr archiválií ve skartačním řízení.
+Skartační řízení se provede v kalendářním roce následujícím po uplynutí skartační lhůty dokumentu. Skartační řízení může být po dohodě s příslušným archivem provedeno i později, pokud subjekt uvedený v § 7 odst. 4 dokumenty potřebuje pro další vlastní činnost.
+Skartační řízení se provádí na základě skartačního návrhu. Skartační návrh zašle subjekt uvedený v § 7 odst. 4 příslušnému archivu k posouzení a k provedení výběru archiválií.
+Skartační řízení se dále provede vždy před zánikem veřejnoprávního původce. Není-li toto možné, provede se výběr archiválií mimo skartační řízení.
+Skartační návrh zpracovaný subjektem uvedeným v § 7 odst. 4 obsahuje
+označení subjektu uvedeného v § 7 odst. 4,
+seznam dokumentů navržených ke skartačnímu řízení a dobu jejich vzniku; jsou-li do výběru archiválií ve skartačním řízení zařazeny rovněž dokumenty vzniklé z činnosti původce, jehož je zpracovatel skartačního návrhu právním nástupcem, uvedou se tyto dokumenty s označením tohoto původce v seznamu samostatně.
+Prováděcí právní předpis stanoví podrobnosti skartačního řízení a postupu při vyřazování dokumentů.
+Na základě skartačního řízení příslušný archiv určí, do čí péče budou dokumenty vybrané jako archiválie náležet, a vyhotoví protokol o provedeném skartačním řízení.
+Protokol podle odstavce 1 obsahuje
+soupis dokumentů nebo souborů dokumentů, které byly vybrány za archiválie,
+označení archivu určeného podle odstavce 1,
+soupis dokumentů, které lze zničit; soupis se nepořizuje, lze-li využít seznamu dokumentů navržených ke skartačnímu řízení podle § 9 odst. 1 písm. b).
+V případě, že subjekt uvedený v § 7 odst. 4 nesouhlasí s obsahem protokolu podle odstavce 1, může proti němu do 15 dnů ode dne doručení protokolu podat námitky ke správnímu úřadu na úseku archivnictví a výkonu spisové služby. Podáním námitky je zahájeno správní řízení.
+Subjekt uvedený v § 7 odst. 4 může zničit dokumenty určené ve skartačním řízení ke zničení a uvedené v soupisu dokumentů podle odstavce 2 písm. c) po uplynutí lhůty pro podání námitek podle odstavce 3 a v případě podání námitek po ukončení řízení o námitkách.
+Výběr archiválií mimo skartační řízení
+Výběr archiválií mimo skartační řízení provádí příslušný archiv z dokumentů
+soukromoprávního původce,
+původce uvedeného v § 7 odst. 1, které neprošly skartačním řízením,
+nabídnutých vlastníkem České republice nebo jinému zřizovateli veřejného archivu darem, ke koupi nebo do úschovy,
+České republiky, které připadlo vlastnictví k nim odúmrtí,
+nalezených.
+Výběr archiválií mimo skartační řízení prováděný podle odstavce 1 písm. a) a c) se zahajuje na žádost původce nebo vlastníka dokumentů. Na základě žádosti dohodne původce nebo vlastník dokumentů s příslušným archivem termíny, v nichž bude výběr archiválií mimo skartační řízení proveden; v případě zrušení původce, jeho vstupu do likvidace nebo při prohlášení konkurzu na původce požádá původce o výběr archiválií mimo skartační řízení neprodleně. Příslušný archiv si před provedením výběru archiválií mimo skartační řízení může od původce nebo vlastníka dokumentů vyžádat seznam dokumentů navržených pro výběr archiválií s uvedením doby jejich vzniku. Jsou-li do výběru archiválií mimo skartační řízení zařazeny rovněž dokumenty vzniklé z činnosti původce, jehož je zpracovatel skartačního návrhu, který je původcem podle odstavce 1 písm. a), právním nástupcem, uvedou se tyto dokumenty s označením původce v seznamu samostatně; obdobně se postupuje, jsou-li do výběru archiválií zařazovány dokumenty podle odstavce 1 písm. c).
+Výběr archiválií mimo skartační řízení podle odstavce 1 písm. b), d) a e) a v případech, kdy dojde k zániku původce bez právního nástupce, se provádí z moci úřední.
+Výběr archiválií mimo skartační řízení podle odstavce 1 písm. b) provádí archiv, který by byl příslušný k výběru archiválií ve skartačním řízení.
+Dokumenty uložené v muzeích, knihovnách, galeriích, památnících, veřejných výzkumných institucích a vysokých školách (dále jen „kulturně vědecké instituce“) v důsledku jejich akviziční a sbírkotvorné činnosti splňující kritéria podle § 4 a 5 nebo podle přílohy č. 2 k tomuto zákonu a vzaté do evidence archiválií se považují za archiválie vybrané mimo skartační řízení. Ustanovením věty první nejsou dotčeny povinnosti kulturně vědeckých institucí podle § 3, jedná-li se o dokumenty vzniklé z jejich činnosti.
+Po ukončení výběru archiválií mimo skartační řízení vyhotoví příslušný archiv protokol o provedeném výběru archiválií mimo skartační řízení a určí, do čí péče budou dokumenty vybrané jako archiválie náležet. Byl-li výběr archiválií mimo skartační řízení proveden na žádost vlastníka dokumentu vybraného jako archiválie, lze tento dokument svěřit do péče archivu pouze se souhlasem tohoto vlastníka a na základě jeho přivolení s určením, do čí péče bude dokument náležet.
+Ustanovení § 10 odst. 2 se na obsah protokolu podle odstavce 1 použije obdobně.
+V případě, že původce nebo vlastník dokumentu nesouhlasí s obsahem protokolu o provedeném výběru archiválií mimo skartační řízení, může proti němu do 15 dnů ode dne doručení protokolu podat námitky ke správnímu úřadu na úseku archivnictví a výkonu spisové služby. Podáním námitky je zahájeno správní řízení.
+Společná ustanovení k výběru archiválií
+U dokumentů obsahujících utajované informace lze k výběru archiválií předložit pouze dokumenty navržené k vyřazení a zničení; u ostatních dokumentů lze výběr archiválií provést až po zrušení stupně utajení. Výběr archiválií, u nichž nebyl zrušen stupeň utajení nebo nelze stupeň utajení zrušit, provádějí příslušné bezpečnostní archivy.
+U dokumentů obsahujících obchodní, bankovní nebo obdobné tajemství lze k výběru archiválií předložit pouze dokumenty navržené k vyřazení a zničení; u ostatních dokumentů lze výběr archiválií provést jen se souhlasem původce. Byl-li dokument vybrán jako archiválie, původce jej po výběru archiválií opatří doložkou, v níž uvede druh tajemství v dokumentu obsažený. Ochrana obchodního, bankovního nebo obdobného tajemství není vybráním dokumentů za archiválie dotčena.
+K výběru archiválií z dokumentů obsahujících osobní údaje a k jejich trvalému uchovávání se nevyžaduje souhlas fyzické osoby podle zvláštního právního předpisu.
+Při výběru archiválií jsou osoby provádějící výběr archiválií oprávněny vstupovat s vědomím původce nebo vlastníka dokumentu do objektů, na pozemky a do jiných prostor, pokud nelze výběr archiválií provést jiným způsobem. Jestliže vlastník dokumentu není vlastníkem objektu nebo pozemku anebo jiných prostor, kde se dokument nachází, lze do nich vstupovat jen se souhlasem jejich vlastníka.
+Původce, který nevykonává spisovou službu v elektronické podobě v elektronických systémech spisové služby, převede dokument v digitální podobě určený k výběru archiválií mimo skartační řízení do výstupního datového formátu stanoveného prováděcím právním předpisem a opatří ho metadaty stanovenými prováděcím právním předpisem podle § 19 písm. g), a to nejpozději při přípravě výběru archiválií mimo skartační řízení. Pokud dokument nelze převést do stanoveného datového formátu a opatřit ho metadaty, a to ani ve spolupráci s příslušným archivem, dokument jeho původce převede do analogové podoby.
+Dokumenty se předkládají k výběru archiválií příslušnému archivu bez ohledu na místo jejich uložení.
+Zaměstnanci správních úřadů na úseku archivnictví a výkonu spisové služby, zaměstnanci archivů a jejich zřizovatelé jsou povinni zachovávat mlčenlivost o všech skutečnostech, které se dozvěděli při výkonu činností podle tohoto zákona. Této povinnosti mohou být zproštěni příslušným správním úřadem na úseku archivnictví a výkonu spisové služby; zproštění musí být písemné s uvedením rozsahu a účelu. Povinnost mlčenlivosti stanovená zvláštními právními předpisy tím není dotčena.
+Je-li zřizovatelem archivu právnická osoba, vztahuje se povinnost zachovávat mlčenlivost podle odstavce 1 na fyzické osoby, které se vzhledem ke svému zaměstnání, funkci nebo obdobnému postavení v této právnické osobě s chráněnými údaji seznámily.
+Povinnost zachovávat mlčenlivost trvá i po skončení služebního poměru, pracovněprávního nebo jiného obdobného vztahu.
+Dokumenty vybrané jako archiválie a určené do péče archivu předá původce nebo vlastník dokumentu na základě protokolu o provedeném skartačním řízení nebo protokolu o provedeném výběru archiválií mimo skartační řízení určenému archivu. O předání se sepíše úřední záznam, jehož součástí je soupis předávaných dokumentů; u každého dokumentu v digitální podobě se uvedou údaje nutné pro jeho vyhledávání. Prováděcí právní předpis stanoví náležitosti soupisu předávaných dokumentů v digitální podobě.
+Archiválie ve vlastnictví České republiky a archiválie ve vlastnictví územních samosprávných celků nebo jiných veřejnoprávních původců náležejí do péče veřejných archivů. Archiválie získané akviziční a sbírkotvornou činností kulturně vědecké instituce náležejí do péče této instituce.
+Archiválie v digitální podobě náležející do péče Národního archivu, Archivu bezpečnostních složek nebo státních oblastních archivů se ukládají v Národním archivu. Archiválie v digitální podobě náležející do péče ostatních archivů se v těchto archivech ukládají, je-li jejich zřizovatelům uděleno oprávnění k ukládání archiválií v digitální podobě. Není-li zřizovatel archivu držitelem oprávnění k ukládání archiválií v digitální podobě, archiválie v digitální podobě náležející do jeho péče se na základě písemné dohody zřizovatelů archivů uloží v Národním archivu nebo v archivu, jehož zřizovateli je uděleno oprávnění k ukládání archiválií v digitální podobě (dále jen „digitální archiv“). Neuzavře-li zřizovatel archivu dohodu o uložení archiválií, archiválie v digitální podobě náležející do jeho péče se uloží v Národním archivu. Příslušnost archivu, do jehož péče archiválie v digitální podobě náleží, není jejím uložením v Národním archivu nebo v digitálním archivu dotčena.
+Příslušný archiv může na základě žádosti původce vydat trvalý skartační souhlas na jím stanovený druh dokumentů, které lze zničit i bez výběru archiválií. Nedodrží-li původce podmínky stanovené v trvalém skartačním souhlasu, příslušný archiv může trvalý skartační souhlas zrušit z moci úřední. V případě zániku původce vydaný trvalý skartační souhlas nepřechází na právního nástupce.
+Evidence archiválií
+Po provedeném výběru archiválií jsou dokumenty vybrané jako archiválie vzaty do evidence archiválií.
+Archiválie, které jsou evidovány na území České republiky, tvoří Národní archivní dědictví. Národní archivní dědictví je vedeno v základní, druhotné a ústřední evidenci. Základní jednotkou evidence je archivní fond, archivní sbírka nebo jejich část nebo jednotlivá archiválie.
+Základní evidenci Národního archivního dědictví, která zahrnuje evidenci přírůstků a úbytků archiválií, evidenční listy Národního archivního dědictví a evidenci archivních pomůcek, vedou archivy a kulturně vědecké instituce, v jejichž péči se archiválie nacházejí. Archivy a kulturně vědecké instituce zařadí základní jednotky evidence do základní evidence Národního archivního dědictví po výběru archiválií. Pokud je jako archiválie vybrán dokument v digitální podobě, jako archiválie se eviduje a v Národním archivu nebo v digitálním archivu se ukládá jeho replika; replikou se pro účely péče o archiválii v digitální podobě rozumí řetězec znaků totožný s dokumentem v digitální podobě, z něhož byl vytvořen.
+Základní evidenci části Národního archivního dědictví, která nenáleží do péče archivů nebo kulturně vědeckých institucí, vedou Národní archiv (§ 46) nebo státní oblastní archivy (§ 49) podle své působnosti.
+Druhotnou evidenci Národního archivního dědictví náležejícího do péče archivů nebo kulturně vědeckých institucí, která zahrnuje evidenční listy Národního archivního dědictví a evidenci archivních pomůcek, vedou Národní archiv nebo státní oblastní archivy podle své působnosti. Archivy a kulturně vědecké instituce jsou povinny archivu, který vede druhotnou evidenci, poskytovat údaje z evidenčních listů Národního archivního dědictví a z evidence archivních pomůcek a zasílat mu stejnopisy svých archivních pomůcek.
+Ústřední evidenci Národního archivního dědictví, která zahrnuje evidenční listy Národního archivního dědictví a evidenci archivních pomůcek, vede ministerstvo. Archivy a kulturně vědecké instituce vedoucí základní evidenci jsou povinny poskytovat ministerstvu údaje z evidenčních listů Národního archivního dědictví a z evidence archivních pomůcek a zasílat mu stejnopisy svých archivních pomůcek.
+Každá evidence Národního archivního dědictví je uchovávána v listinné formě nebo na technických nosičích dat nebo způsobem kombinujícím uvedené formy a ve stejné formě je i předávána. Základní evidence Národního archivního dědictví musí být vždy uchovávána i v listinné formě.
+Ministerstvo rozhodne na návrh zřizovatele archivu o vyřazení z evidencí Národního archivního dědictví
+archivního fondu nebo archivní sbírky z důvodu přehodnocení jejich významu,
+archivního fondu, archivní sbírky nebo archiválie z důvodu zničení; v případě archivního fondu, archivní sbírky nebo archiválie v digitální podobě se za zničení považuje rovněž narušení jejich obsahu, ztráta jejich čitelnosti nebo ztráta metadat nezbytných pro nakládání s archivním fondem, archivní sbírkou nebo archiválií v digitální podobě,
+archivního fondu, archivní sbírky nebo archiválie z důvodu vydání do zahraničí.
+Archiv nebo kulturně vědecká instituce vyřadí archiválii, kterou vedou v základní evidenci, z evidencí Národního archivního dědictví z důvodu přehodnocení významu.
+Návrh na vyřazení z evidencí Národního archivního dědictví podle odstavce 2 podávají subjekty vedoucí archivní fond, archivní sbírku nebo archiválie v základní evidenci.
+Návrh podle odstavce 4 obsahuje
+označení subjektu podávajícího návrh,
+označení archivního fondu, archivní sbírky nebo archiválie,
+důvod vyřazení archivního fondu, archivní sbírky nebo archiválie,
+stejnopis aktuálního evidenčního listu Národního archivního dědictví archivního fondu nebo archivní sbírky, které jsou předmětem vyřazení, nebo archivního fondu či archivní sbírky, do nichž vyřazované archiválie patří,
+velikost vyřazovaného archivního fondu, archivní sbírky nebo archiválie v bytech, navrhuje-li se vyřadit archivní fond, archivní sbírku nebo archiválii v digitální podobě.
+Ministerstvo vede evidenci všech archiválií, archivních sbírek a archivních fondů nebo jejich ucelených částí prohlášených za archivní kulturní památky nebo za národní kulturní památky. Archivy, v nichž jsou tyto archiválie, archivní sbírky, archivní fondy nebo jejich ucelené části uloženy, je vedou ve zvláštní evidenci. Zvláštní evidence obsahuje
+popis základních charakteristických rysů archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části,
+údaje o tom, kdy byla archiválie, archivní sbírka, archivní fond nebo jejich ucelená část prohlášena za archivní kulturní památku nebo za národní kulturní památku,
+údaje o tom, kdo o archiválii, archivní sbírku, archivní soubor nebo jejich ucelenou část pečuje a kde je uložena.
+Ministerstvo eviduje archivy a kulturně vědecké instituce, které vedou základní evidenci Národního archivního dědictví. Při vedení této evidence je ministerstvo oprávněno zjišťovat, zpracovávat a uchovávat tyto údaje:
+název a sídlo archivu nebo kulturně vědecké instituce,
+název, sídlo a identifikační číslo osoby (dále jen „identifikační číslo“) právnické osoby, která je zřizovatelem subjektu nebo zařízení uvedeného v písmenu a) nebo vůči němu plní funkci zřizovatele,
+jméno, příjmení, datum narození a místo trvalého pobytu fyzické osoby, je-li zřizovatelem subjektu nebo zařízení uvedeného v písmenu a).
+Při vedení evidence podle tohoto zákona jsou ministerstvo, Národní archiv, Archiv bezpečnostních složek a státní oblastní archivy oprávněny zjišťovat, zpracovávat a uchovávat údaje o původcích, vlastnících a držitelích archiválií v rozsahu
+jména, příjmení, místa trvalého pobytu a data narození, jde-li o fyzickou osobu, nebo
+názvu, identifikačního čísla a sídla, jde-li o právnickou osobu.
+V případě zániku veřejného archivu určí ministerstvo archiv, do jehož péče budou archiválie náležet; určení archivu předchází zániku veřejného archivu. Archiválie mohou být svěřeny do péče Národního archivu nebo státního oblastního archivu.
+Ministerstvo rozhodne na návrh archivu, popřípadě zřizovatele archivu, o převedení archiválie do péče jiného archivu. Navrhuje-li se převedení archiválie do péče jiného archivu než Národního archivu nebo státního oblastního archivu, ministerstvo může návrhu vyhovět, souhlasí-li tento archiv.
+Portály pro zpřístupnění archiválií v digitální podobě
+Archiválie v digitální podobě, které jsou uloženy v Národním archivu, jsou zpřístupňovány způsobem umožňujícím dálkový přístup prostřednictvím portálu pro zpřístupnění archiválií v digitální podobě, jehož správcem je Národní archiv (dále jen „národní portál“).
+Archiválie v digitální podobě, které jsou uloženy v digitálním archivu, s výjimkou bezpečnostního archivu, jsou zpřístupňovány způsobem umožňujícím dálkový přístup prostřednictvím portálu pro zpřístupnění archiválií v digitální podobě, jehož správcem je digitální archiv.
+Národní portál je informačním systémem veřejné správy.
+Prostřednictvím národního portálu je způsobem umožňujícím dálkový přístup zajišťován
+výběr a příjem archiválií v digitální podobě a jejich metadat,
+vedení a zpřístupňování evidence Národního archivního dědictví,
+příjem metadat popisů původců,
+příjem metadat popisů archivů a kulturně vědeckých institucí,
+příjem a prezentace archivních pomůcek v digitální podobě,
+přístup k archiváliím v digitální podobě a dokumentům v digitální podobě vzniklým jako digitální reprodukce z archiválií v analogové podobě.
+Prostřednictvím portálu pro zpřístupnění archiválií v digitální podobě jsou způsobem umožňujícím dálkový přístup zajišťovány
+výběr a příjem archiválií v digitální podobě a jejich metadat,
+přístup k archiváliím v digitální podobě a dokumentům v digitální podobě vzniklým jako digitální reprodukce z archiválií v analogové podobě.
+Správa metadat archiválií
+Národní archiv ve spolupráci s archivem, do jehož péče archiválie v digitální podobě náleží, vytváří, spravuje a zpřístupňuje prostřednictvím národního portálu skupiny metadat obsahujících
+základní identifikaci archiválie,
+popis archiválie,
+evidenci subjektů oprávněných k přístupu k archiválii včetně rozsahu oprávnění.
+Digitální archiv ve spolupráci s archivem, do jehož péče archiválie v digitální podobě náleží, vytváří, spravuje a s výjimkou bezpečnostního archivu též zpřístupňuje prostřednictvím jím provozovaného portálu pro zpřístupnění archiválií v digitální podobě skupiny metadat obsahujících
+základní identifikaci archiválie,
+popis archiválie,
+evidenci subjektů oprávněných k přístupu k archiválii včetně rozsahu oprávnění.
+Archiv, s výjimkou bezpečnostního archivu, ve spolupráci s Národním archivem vytváří, spravuje a prostřednictvím národního portálu zpřístupňuje
+evidenci Národního archivního dědictví,
+popis a evidenci původců,
+popis a evidenci archivu a kulturně vědeckých institucí.
+Digitální archiv s výjimkou bezpečnostního archivu zpřístupňuje i skupiny metadat podle odstavce 3 prostřednictvím portálu pro zpřístupnění archiválií v digitální podobě, jehož je správcem, a to prostřednictvím funkčního vyhledavače s odkazem na národní portál.
+Národní archiv a digitální archiv ukládají spisové a skartační plány.
+Ukládá-li Národní archiv nebo digitální archiv archiválii v digitální podobě náležející do péče jiného archivu, zpřístupňuje tomuto archivu způsobem umožňujícím dálkový přístup údaje o
+změně metadat, datových formátů a velikosti archiválie v bytech,
+narušení obsahu archiválie, ztrátě její čitelnosti nebo ztrátě metadat nezbytných pro nakládání s archiválií v rozsahu umožňujícím příslušnému archivu posouzení, zda jsou splněny skutečnosti pro podání žádosti k zahájení řízení o vyřazení archiválie z evidence Národního archivního dědictví podle § 17 odst. 2.
+Prováděcí právní předpis stanoví
+způsob vedení základní, druhotné a ústřední evidence,
+způsob předávání údajů ze základní evidence do druhotné evidence a ústřední evidence,
+způsob vedení evidence archiválií nebo archivních fondů nebo jejich ucelených částí prohlášených za archivní kulturní památky nebo za národní kulturní památky,
+postup a způsob vyřazování archiválií z evidencí,
+způsob vedení evidence archivních pomůcek, druhy archivních pomůcek, jejich strukturu a obsah a způsob zasílání a evidence stejnopisů archivních pomůcek,
+podrobnosti vytváření, správy a zpřístupňování metadat archiválií,
+rozsah metadat dokumentů v digitální podobě vybraných jako archiválie mimo skartační řízení u původců, kteří nevykonávají spisovou službu v elektronické podobě v elektronických systémech spisové služby.
+Prohlášení archiválie za archivní kulturní památku nebo národní kulturní památku
+Prohlášení za archivní kulturní památku
+Za archivní kulturní památku může být prohlášena archiválie, archivní sbírka, archivní fond nebo jejich ucelená část, která vzhledem k době vzniku, obsahu, formě, původci nebo vnějším znakům má význam pro dějiny obecné, národní nebo regionální, pro dějiny vědy, techniky nebo kultury nebo vzhledem k jedinečnosti nebo původnosti anebo k případné další výjimečné vlastnosti má mimořádný význam pro společnost; u souboru archiválií se přihlíží k jejich obsahové i věcné jednotě.
+Žádost o prohlášení archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části za archivní kulturní památku může podat
+archiv nebo kulturně vědecká instituce, do jejichž péče archiválie, archivní sbírka, archivní fond nebo jejich ucelená část náleží,
+archiv, který je vede v základní nebo druhotné evidenci,
+vlastník archiválie.
+Žádost o prohlášení archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části za archivní kulturní památku musí obsahovat
+název a časové určení vzniku archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části,
+evidenční údaje o archiválii, archivní sbírce, archivním fondu nebo jejich ucelené části,
+odůvodnění žádosti podle kritérií uvedených v odstavci 1,
+popis stavu archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části a údaj o tom, zda k nim již byly pořízeny kopie, které svými vlastnostmi a způsobem zpracování zaručují nejvýše možnou dosažitelnou obsahovou a materiálovou stálost pro potřeby jejich dlouhodobého uložení (dále jen „bezpečnostní kopie“), nebo kopie určené k uživatelské práci,
+označení archivu nebo kulturně vědecké instituce, je-li žádost podávána podle odstavce 2 písm. a) a b),
+jméno, příjmení, místo trvalého pobytu a datum narození vlastníka archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části, je-li vlastníkem fyzická osoba,
+název, identifikační číslo a sídlo vlastníka archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části, je-li vlastníkem právnická osoba.
+O žádosti na prohlášení archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části za archivní kulturní památku rozhoduje podle kritérií uvedených v odstavci 1 ministerstvo.
+Vlastník archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části, o nichž bylo zahájeno řízení o prohlášení za archivní kulturní památku, je ode dne zahájení řízení až do nabytí právní moci rozhodnutí ministerstva povinen
+písemně předem oznámit ministerstvu každou zamýšlenou změnu jejich umístění nebo převod vlastnického práva,
+písemně bez zbytečného odkladu oznámit ministerstvu přechod vlastnického práva.
+Ministerstvo může zrušit prohlášení za archivní kulturní památku z důvodu přehodnocení jejího významu. Návrh na zrušení prohlášení za archivní kulturní památku podávají subjekty uvedené v odstavci 2; ministerstvo může zrušit prohlášení za archivní kulturní památku i bez návrhu.
+Návrh na zrušení prohlášení za archivní kulturní památku obsahuje
+název a evidenční údaje o archivní kulturní památce,
+odůvodnění zrušení prohlášení za archivní kulturní památku z důvodu přehodnocení významu.
+Prohlášení za národní kulturní památku
+Vláda může nařízením prohlásit archivní kulturní památku za národní kulturní památku.
+Prováděcí právní předpis stanoví způsob označování archiválií, které byly prohlášeny za archivní kulturní památku nebo národní kulturní památku.
+Ochrana archiválií, práva a povinnosti vlastníka a držitele archiválie
+Archiválie ve vlastnictví České republiky nebo právnických osob zřízených zákonem nelze převést na jinou osobu, pokud zvláštní právní předpis nestanoví jinak.
+Archiválie ve vlastnictví České republiky nebo právnických osob zřízených zákonem lze převést do zahraničí, jen stanoví-li tak vláda nařízením.
+Archiválie, které jsou ve vlastnictví České republiky nebo právnických osob zřízených zákonem, lze do užívání právnické nebo fyzické osobě přenechat pouze s předchozím souhlasem ministerstva. Tento souhlas ministerstvo udělí pouze tehdy, pokud jsou právnické nebo fyzické osoby schopny zabezpečit splnění podmínek stanovených tímto zákonem k ochraně archiválií a péči o ně.
+Práva a povinnosti vlastníka a držitele archiválie
+Vlastník nebo držitel archiválie má právo na bezplatné poskytování informačních a poradenských služeb týkajících se péče o archiválie. Tyto služby poskytuje Národní archiv nebo státní oblastní archiv.
+Vlastník archiválie, která nenáleží do péče veřejného archivu, a nejedná-li se o archiválii ve vlastnictví České republiky, právnické osoby zřízené zákonem nebo územního samosprávného celku, má v souvislosti s prohlášením dokumentu za archiválii nárok na poskytnutí paušálního státního příspěvku za prohlášení dokumentu za archiválii. Nárok musí vlastník archiválie uplatnit do 3 měsíců ode dne vybrání dokumentu za archiválii, jinak nárok zaniká. Nárok se uplatňuje písemně u ministerstva prostřednictvím státního oblastního archivu nebo Národního archivu, který archiválii vede v základní nebo druhotné evidenci.
+Výši státního příspěvku podle odstavce 2 stanoví prováděcí právní předpis s ohledem na náklady vlastníka archiválie na pořízení kopií archiválií, na možný ušlý zisk nebo náhradu mzdy a případné další vynaložené náklady v souvislosti s výběrem dokumentu za archiválii.
+Vlastník archiválie, s výjimkou České republiky, právnických osob zřízených zákonem nebo územního samosprávného celku, která nenáleží do péče veřejného archivu, má nárok na náhradu nezbytných nákladů, které mu vznikly při zákonem uložené péči o archiválie. Nárok musí vlastník archiválie uplatnit písemně u ministerstva prostřednictvím Národního archivu nebo státního oblastního archivu, který ji vede v základní nebo druhotné evidenci, ve lhůtě 6 měsíců ode dne, kdy k výdajům došlo, jinak nárok zaniká.
+Vlastník nebo držitel archiválie je povinen
+řádně pečovat o archiválii v analogové podobě; za tím účelem je povinen udržovat archiválii v dobrém stavu, chránit ji před poškozením, znehodnocením, zničením, ztrátou a odcizením a užívat archiválii pouze způsobem, který odpovídá jejímu stavu,
+vytvořit z dokumentu v digitální podobě vybraného jako archiválie jeho repliku v datovém formátu stanoveném prováděcím právním přepisem a předat ji neprodleně po provedeném výběru archiválií Národnímu archivu nebo digitálnímu archivu k uložení,
+neprodleně a předem oznámit Národnímu archivu nebo příslušnému státnímu oblastnímu archivu každý zamýšlený převod vlastnického práva k archiválii nebo uzavření smlouvy o její úschově.
+Vlastník nebo držitel archiválie v analogové podobě, která je uložena mimo archiv a kterou vede v základní evidenci Národního archivního dědictví příslušný archiv podle své působnosti, je povinen předávat těmto archivům na vyžádání údaje potřebné pro vedení této evidence.
+Vlastník nebo držitel archiválie může odevzdat archiválii do úschovy na základě písemné smlouvy o úschově. Po dobu, po kterou je archiválie v úschově, přísluší schovateli práva a povinnosti vlastníka nebo držitele archiválie podle § 24 odst. 1, § 25 odst. 1 písm. a) a c), § 25 odst. 2, § 27, 29, 30 a 32 namísto jejího vlastníka nebo držitele.
+Odevzdat archiválii do úschovy dalšímu schovateli může schovatel pouze s písemným souhlasem vlastníka nebo držitele archiválie. Ustanovení odstavce 1 zde platí obdobně.
+Na žádost vlastníka nebo držitele archiválie, který není schopen zajistit její řádnou ochranu a odbornou péči o ni a jehož archiválie nenáleží do péče archivu, Národní archiv nebo příslušný státní oblastní archiv
+poskytne vlastníkovi nebo držiteli archiválie bezplatnou odbornou pomoc, nebo
+převezme archiválii na dobu určitou do své péče.
+Pominou-li důvody, pro které byla archiválie převzata do jeho péče, Národní archiv nebo státní oblastní archiv archiválii vlastníkovi nebo jejímu držiteli na základě jeho žádosti neprodleně vydá.
+Převod archiválií
+V případě zamýšleného převodu vlastnictví archiválie je její vlastník povinen přednostně ji nabídnout ke koupi České republice, pokud nepůjde o převod
+mezi osobami blízkými, spoluvlastníky, církevními právnickými osobami téže církve nebo náboženské společnosti,
+do vlastnictví územního samosprávného celku,
+do vlastnictví právnické osoby zřízené zákonem, nebo
+na státní podnik nebo na státní příspěvkovou organizaci.
+Písemnou nabídku podle odstavce 1 je vlastník archiválie povinen České republice učinit prostřednictvím Národního archivu, Archivu bezpečnostních složek nebo příslušného státního oblastního archivu.
+Vlastník je povinen strpět prohlídku archiválie pověřeným zaměstnancem Národního archivu, Archivu bezpečnostních složek nebo příslušného státního oblastního archivu za účelem zhotovení popisu či vyobrazení archiválie pro návrh kupní smlouvy. Prohlídka se musí uskutečnit do 30 dnů od podání nabídky. Pokud se prohlídka neučiní v této lhůtě z důvodů na straně vlastníka, prodlužuje se lhůta k předložení návrhu kupní smlouvy podle odstavce 4 o 30 dnů a běh lhůty pro provedení prohlídky počíná znovu.
+Uplatní-li Česká republika právo k přednostní koupi, předloží Národní archiv, Archiv bezpečnostních složek nebo příslušný státní oblastní archiv do 180 dnů ode dne doručení písemné nabídky vlastníku archiválie návrh kupní smlouvy. Návrh kupní smlouvy musí obsahovat popis nebo vyobrazení archiválie, navrhovanou cenu a lhůtu pro zaplacení. Tato lhůta nesmí být delší než 30 dnů ode dne uzavření kupní smlouvy, pokud vlastník archiválie nenavrhne lhůtu delší.
+Pokud Národní archiv, Archiv bezpečnostních složek nebo příslušný státní oblastní archiv ve stanovené lhůtě návrh kupní smlouvy vlastníkovi archiválie nepředloží, právo České republiky k přednostní koupi vůči tomuto vlastníkovi archiválie zaniká.
+Vývoz archiválií
+Vyvážet archiválie z území České republiky lze pouze na základě povolení ministerstva vydaného na základě žádosti vlastníka nebo držitele archiválie.
+Povolení k vývozu archiválií z území České republiky může ministerstvo vydat jen na dobu určitou, a to pouze z důvodů jejich
+vystavování,
+konzervování,
+restaurování,
+vědeckého zkoumání.
+Vlastník nebo držitel archiválie je oprávněn vyvézt archiválii pouze za účelem stanoveným v povolení ministerstva. Vlastník nebo držitel archiválie je povinen dovézt archiválii zpět na území České republiky ve lhůtě stanovené ministerstvem a nepoškozenou.
+Ministerstvo může v povolení uložit vlastníkovi nebo držiteli archiválie povinnost složit peněžitou záruku za dodržení podmínek podle odstavce 3. Peněžitá záruka připadne České republice, pokud vlastník archiválie nebo její držitel nedodrží podmínky stanovené v povolení.
+Ministerstvo povolení neudělí, jestliže by nebyly splněny podmínky péče o archiválii a podmínky její ochrany podle tohoto zákona nebo vývoz archiválie nedovoluje její stav.
+Archiválii, která je předmětem řízení o prohlášení za archivní kulturní památku nebo za národní kulturní památku, nelze do doby vydání rozhodnutí nebo nařízení vlády vyvézt z území České republiky.
+Archiválii prohlášenou za národní kulturní památku je možno vyvézt z území České republiky jen na dobu určitou a s předchozím souhlasem vlády, a to pouze z důvodu jejího vystavování nebo restaurování.
+Ministerstvo vede evidenci vydaných povolení k vývozu archiválií z území České republiky a kontroluje, zda archiválie byly ve stanovené lhůtě a nepoškozeny dovezeny zpět na území České republiky.
+Ochrana archivních kulturních památek a národních kulturních památek
+Po prohlášení archiválie za archivní kulturní památku pořídí vlastník nebo držitel do 90 dnů ode dne nabytí právní moci rozhodnutí o prohlášení archiválie za archivní kulturní památku na vlastní náklady její bezpečnostní kopii.
+Archivní kulturní památky a národní kulturní památky se evidují v archivních sbírkách nebo v archivních fondech, jejichž součástí jsou; o jejich uložení se vede zvláštní plán jako součást bezpečnostní dokumentace objektu.
+Archivy a kulturně vědecké instituce, do jejichž péče archivní kulturní památky nebo národní kulturní památky náleží, provádějí nejméně jedenkrát za rok prověrku jejich fyzického stavu. O výsledku prověrky podají do 30 dnů od jejího provedení písemnou zprávu ministerstvu; v případě ohrožení, poškození, znehodnocení, zničení, ztráty nebo odcizení archivní kulturní památky nebo národní kulturní památky podává archiv nebo kulturně vědecká instituce zprávu ministerstvu neprodleně.
+U archivních kulturních památek a národních kulturních památek, které nenáleží do péče archivu nebo kulturně vědecké instituce, příslušný archiv, který je vede v základní nebo druhotné evidenci, provádí nejméně jedenkrát za rok prověrku jejich fyzického stavu. O výsledku prověrky podá do 30 dnů od jejího provedení písemnou zprávu ministerstvu; v případě ohrožení, poškození, znehodnocení, zničení, ztráty nebo odcizení archivní kulturní památky nebo národní kulturní památky podá zprávu ministerstvu neprodleně.
+Poškozené nebo ohrožené archivní kulturní památky nebo národní kulturní památky musí být neprodleně konzervovány nebo restaurovány. Jejich konzervaci nebo restaurování je povinen zajistit vlastník nebo držitel, a to pouze na základě povolení ministerstva a způsobem, který ministerstvo určí.
+Vlastník archivní kulturní památky nebo národní kulturní památky, která nenáleží do péče veřejného archivu, a nejedná-li se o archivní kulturní památku nebo národní kulturní památku ve vlastnictví České republiky, právnické osoby zřízené zákonem nebo územního samosprávného celku, má v souvislosti s prohlášením archiválie za archivní kulturní památku nebo národní kulturní památku nárok na poskytnutí paušálního státního příspěvku za prohlášení archiválie za archivní kulturní památku nebo národní kulturní památku. Nárok musí vlastník archivní kulturní památky nebo národní kulturní památky uplatnit do 3 měsíců ode dne nabytí právní moci rozhodnutí o prohlášení archiválie za archivní kulturní památku nebo do 3 měsíců ode dne nabytí účinnosti nařízení vlády o prohlášení archivní kulturní památky za národní kulturní památku, jinak nárok zaniká. Nárok se uplatňuje písemně u ministerstva prostřednictvím státního oblastního archivu, Archivu bezpečnostních složek nebo Národního archivu podle toho, který z nich archivní kulturní památku nebo národní kulturní památku vede v základní nebo druhotné evidenci.
+Výši státního příspěvku podle odstavce 1 stanoví prováděcí právní předpis s ohledem na náklady vlastníka archiválie na pořízení kopií archiválií, na možný ušlý zisk nebo náhradu mzdy a případné další vynaložené náklady v souvislosti s prohlášením archiválie za archivní kulturní památku nebo národní kulturní památku.
+Vlastník archivní kulturní památky nebo národní kulturní památky, s výjimkou České republiky, právnických osob zřízených zákonem nebo územního samosprávného celku, která nenáleží do péče veřejného archivu, má nárok na náhradu nezbytných nákladů, které mu vznikly při zákonem uložené péči o archivní kulturní památku nebo národní kulturní památku. Nárok musí vlastník archivní kulturní památky nebo národní kulturní památky uplatnit písemně u ministerstva prostřednictvím Národního archivu, Archivu bezpečnostních složek nebo státního oblastního archivu, který ji vede v základní nebo druhotné evidenci, ve lhůtě 6 měsíců ode dne, kdy k výdajům došlo, a musí předložit příslušné doklady, jinak nárok zaniká.
+Na žádost vlastníka nebo držitele archivní kulturní památky nebo národní kulturní památky, který není schopen zajistit její řádnou ochranu a odbornou péči o ni a jehož archivní kulturní památka nebo národní kulturní památka nenáleží do péče veřejného archivu, ministerstvo
+poskytne jejímu vlastníkovi nebo držiteli bezplatnou odbornou pomoc, nebo
+svěří archivní kulturní památku nebo národní kulturní památku na dobu určitou do péče Národního archivu, Archivu bezpečnostních složek nebo státního oblastního archivu, nejdéle však na dobu 1 roku.
+Pokud vlastník nebo držitel archivní kulturní památky nebo národní kulturní památky není schopen zajistit její řádnou ochranu a odbornou péči o ni, jeho archivní kulturní památka nebo národní kulturní památka není v péči veřejného archivu a hrozí její poškození nebo zničení, rozhodne ministerstvo na základě provedené kontroly o jejím svěření na dobu určitou do péče Národního archivu, Archivu bezpečnostních složek nebo státního oblastního archivu, nejdéle však na dobu 1 roku.
+Pokud vlastník nebo držitel archivní kulturní památky nebo národní kulturní památky nebude schopen ani poté, kdy uplynula doba, po kterou byla tato památka svěřena do péče Národního archivu, Archivu bezpečnostních složek nebo státního oblastního archivu podle odstavce 2, zajistit její řádnou ochranu a odbornou péči o ni, může ministerstvo rozhodnout o jejím ponechání v péči archivu, a to i z moci úřední.
+Pominou-li důvody, pro které byla archivní kulturní památka nebo národní kulturní památka svěřena do péče Národního archivu, Archivu bezpečnostních složek nebo státního oblastního archivu, Národní archiv, Archiv bezpečnostních složek nebo státní oblastní archiv uloženou archivní kulturní památku nebo národní kulturní památku vlastníkovi nebo držiteli na základě jeho žádosti neprodleně vydá.
+Ustanovení § 23, § 24 odst. 1, § 25, 26, 28 a 29 se ve vztahu k archivní kulturní památce nebo národní kulturní památce použijí obdobně.
+Nahlížení do archiválií, vystavování archiválií a pořizování výpisů, opisů a kopií
+Do archiválií náležejících do péče archivu lze nahlížet jen na základě žádosti a za dodržení podmínek stanovených tímto zákonem a badatelským řádem archivu.
+Badatelský řád vydá každý archiv na základě vzorového badatelského řádu vydaného ministerstvem. Badatelský řád je trvale zveřejněn na úřední desce archivu nebo na jiném veřejnosti přístupném místě v archivu a v informačních systémech s možností dálkového přístupu.
+V archivech se nahlíží do kopií archiválií určených k uživatelské práci. Do originálů archiválií lze nahlížet jen tehdy, nejsou-li vyhotoveny jejich kopie. Jestliže takové kopie byly vyhotoveny, lze originály archiválií předložit k nahlédnutí jen se souhlasem archivu, do jehož péče archiválie náleží, pokud to účel nahlédnutí vyžaduje.
+Do archiválií, které byly archivům svěřeny do úschovy na základě smlouvy o úschově, lze nahlížet za podmínek stanovených tímto zákonem a badatelským řádem a za podmínek uvedených ve smlouvě o úschově. Práva a zvláštní ujednání ve prospěch vlastníků archiválií zůstávají při nahlížení nedotčena.
+Národní kulturní památky v originále se mohou předkládat k nahlédnutí jen v archivech, do jejichž péče náleží, a to po předchozím povolení ministerstva; jinak se k nahlédnutí předkládají pouze jejich kopie.
+Nahlížení do archiválií v digitální podobě se uskutečňuje prostřednictvím národního portálu nebo portálů pro zpřístupnění archiválií v digitální podobě.
+Pro účely ochrany archiválií jsou veřejné archivy oprávněny zpracovávat osobní údaje žadatelů o nahlížení v rozsahu
+jména, popřípadě jmen, a příjmení,
+data a místa narození, státního občanství,
+adresy místa pobytu fyzické osoby na území České republiky, popřípadě bydliště v cizině, adresy, na kterou mají být doručovány písemnosti podle zvláštního právního předpisu,
+čísla průkazu totožnosti.
+Veřejné archivy jsou dále oprávněny zpracovávat údaje o obchodní firmě, popřípadě názvu, adrese sídla právnické osoby, pro niž se nahlížení uskutečňuje, jejím identifikačním čísle osoby, bylo-li přiděleno, a tématu studia, jeho účelu a zaměření, v jehož rámci se nahlížení uskutečňuje.
+Žádost o nahlížení se podává na badatelském listu. Žadatel o nahlížení je povinen za účelem ověření jeho osobních údajů uvedených v badatelském listu předložit na výzvu zaměstnance veřejného archivu průkaz totožnosti. Průkazem totožnosti se pro účely tohoto zákona rozumí doklad, který je veřejnou listinou, v němž je uvedeno jméno, popřípadě jména, a příjmení, datum narození a adresa místa pobytu na území České republiky, popřípadě bydliště v cizině, a z něhož je patrná i podoba, popřípadě jiný údaj umožňující jednoznačně ztotožnit žadatele, který doklad předkládá, jako jeho oprávněného držitele.
+Prováděcí právní předpis stanoví
+vzorový badatelský řád, kterým se upraví postup při předkládání archiválií, množství archiválií předkládaných badateli na 1 návštěvní den, režim chování v místě určeném k nahlížení včetně způsobu manipulace s archiváliemi, zásady používání reprodukční techniky a lhůty k zahájení nahlížení do archiválií a k pokračování v něm; tyto lhůty musí být nejméně třicetidenní,
+vzor badatelského listu a vzor dokladu o předložených a navrácených archiváliích.
+K nahlížení v archivech jsou přístupné jen archiválie starší třiceti let, není-li dále stanoveno jinak, a všechny zveřejněné archiválie.
+Do archiválií obsahujících osobní údaje žijící osoby lze nahlížet, nevznesla-li tato osoba písemně námitky. Archiv osobu písemně vyrozumí o podané žádosti o nahlížení do archiválií; jedná-li se o vyrozumění nejméně třiceti osob, lze je doručit veřejnou vyhláškou vyvěšenou na úřední desce archivu, a nezřizuje-li archiv úřední desku, na úřední desce státního oblastního archivu, v jehož obvodu má archiv sídlo. Ve vyrozumění uvede údaje podle § 35 odst. 1 písm. a) až c), osobní údaje osoby, které mají být zpřístupněny, období, ve kterém bude do archiválií nahlíženo, a poučení o právních následcích podání a nepodání námitky ve stanovené lhůtě. Námitku proti nahlížení do archiválií podle věty první může vznést osoba do 30 dnů ode dne doručení vyrozumění. Z námitky musí být zřejmé, jakých osobních údajů se týká. Nevznese-li osoba námitky ve lhůtě podle věty čtvrté, má se za to, že s nahlížením do archiválií souhlasí. Na doručování a počítání lhůt se vztahuje část druhá správního řádu.
+Do archiválií vztahujících se k žijící fyzické osobě, jejichž obsahem jsou citlivé osobní údaje, lze nahlížet jen s předchozím písemným souhlasem této osoby. Archiv požádá dotčenou osobu o souhlas s nahlížením do těchto archiválií. V žádosti uvede údaje podle § 35 odst. 1 písm. a) až c), citlivé osobní údaje osoby, které mají být zpřístupněny, a období, ve kterém bude do archiválií nahlíženo.
+Ustanovení odstavce 1 se nevztahuje na archiválie vzniklé před 1. lednem 1990 z činnosti státních orgánů.
+Ustanovení odstavců 1 až 3 se nevztahují na archiválie vzniklé před 1. lednem 1990 z činnosti vojenských soudů a prokuratur všech stupňů, bezpečnostních složek podle zákona o Ústavu pro studium totalitních režimů a o Archivu bezpečnostních složek, jakož i mimořádných lidových soudů, Státního soudu, Národního soudu a společenských organizací a politických stran sdružených v Národní frontě, na archiválie vzniklé z činnosti orgánů německé okupační správy na území odstoupeném Říši i v Protektorátu Čechy a Morava v letech 1938 až 1945, na archiválie, které již byly před podáním žádosti o nahlížení do nich veřejně přístupné, jakož i na archiválie, které byly jako dokumenty veřejně přístupné před prohlášením za archiválie.
+Ustanovení odstavců 1 až 3 se nevztahují na archiválie, jejichž obsahem jsou statistické soubory dat, získané při demografických a statistických šetřeních, jestliže osobní údaje obsažené v těchto archiváliích lze před nahlížením anonymizovat. Archiv na základě žádosti v přiměřené době, s ohledem na úkoly archivu a s přihlédnutím k významu archiválií, provede jejich anonymizaci. Po anonymizaci osobních údajů obsažených ve vyžadovaných archiváliích oznámí archiv tuto skutečnost neprodleně žadateli, pokud si to předem písemně vymínil.
+Ustanovení odstavců 1 až 3 se nevztahují na původce archiválií; tyto subjekty mohou nahlížet do archiválií, jichž jsou původci, bez omezení. Ustanovení věty první se použije obdobně i na právní nástupce původců archiválií. Ustanovení odstavců 1 až 3 se dále nevztahují na subjekty uvedené v § 38 odst. 5; tito mohou nahlížet do archiválií, jejichž původcem je stát či územní samosprávný celek, bez omezení.
+Nahlížení do archiválií uložených v archivu se odepře, jestliže
+fyzický stav archiválií nahlížení neumožňuje,
+stav zpracování archiválií nahlížení neumožňuje,
+fyzická osoba vznesla námitku proti nahlížení do archiválií, jejichž obsahem jsou její osobní údaje; to neplatí, jde-li o archiválie podle § 37 odst. 5 a 6,
+fyzická osoba nedá souhlas k nahlížení do archiválií, jejichž obsahem jsou její citlivé osobní údaje,
+zvláštní právní předpis nahlížení do archiválií vylučuje nebo žadatel o nahlížení nesplňuje podmínky stanovené zvláštním právním předpisem.
+Pokud žádosti o nahlížení do archiválií archiv nevyhoví, rozhodne na základě podání badatele příslušný správní úřad na úseku archivnictví a výkonu spisové služby.
+Pokud bylo nahlížení do archiválií podle odstavce 1 písm. b) odepřeno, archiv na základě žádosti v přiměřené době, s ohledem na úkoly archivu a s přihlédnutím k významu archiválií, provede jejich archivní zpracování. Po archivním zpracování vyžadovaných archiválií archiv tuto skutečnost neprodleně oznámí žadateli, pokud si to žadatel předem písemně vymínil.
+Nahlížení do archiválií lze v případě uvedeném v odstavci 1 písm. b) výjimečně umožnit vědeckým badatelům a studentům na základě žádosti doložené písemným potvrzením kulturně vědecké instituce o naléhavém časově limitovaném vědeckém nebo výukovém účelu nahlížení.
+Organizační složky státu, ozbrojené síly, bezpečnostní sbory, zpravodajské služby České republiky, územní samosprávné celky, jakož i osoby, které jsou podle zvláštních právních předpisů oprávněny nahlížet do dokumentů, jsou oprávněny nahlížet v archivech do archiválií, jejichž původcem je stát nebo územní samosprávný celek. Je-li nezbytné nahlížet do těchto archiválií mimo archiv, v němž jsou uloženy, mohou být zapůjčeny za předpokladu, že vypůjčitel se písemně zaváže, že archiválie v úplnosti vrátí v dohodnuté lhůtě a nepoškozené.
+Archiválie lze vystavovat jen v případě, dovoluje-li to jejich stav, a za podmínek zaručujících jejich ochranu a péči podle tohoto zákona a ochranu osobních údajů podle zvláštního právního předpisu.
+Archiválie, které byly na základě smlouvy o úschově svěřeny archivům do úschovy, lze vystavovat jen za podmínek uvedených v odstavci 1 a za podmínek stanovených ve smlouvě o úschově.
+Archiválie ve vlastnictví České republiky, které náleží do péče archivů, lze vystavovat jen za podmínek stanovených v odstavci 1 a na základě smlouvy nebo zápisu o výpůjčce. Zřizovatel archivu sjedná ve smlouvě nebo zápisu podmínky vystavení a výši pojistného podle zvláštního právního předpisu. Součástí smlouvy nebo zápisu je soupis zapůjčovaných archiválií a protokol o jejich stavu.
+Národní kulturní památku lze vystavovat pouze na základě povolení ministerstva.
+Každý je oprávněn požádat archiv, do jehož péče archiválie náleží, o pořízení výpisu, opisu anebo kopie archiválie v analogové podobě nebo repliky archiválie v digitální podobě. Ustanovení autorského zákona nejsou větou první dotčena. Pořízením výpisu, opisu nebo kopie archiválie se rozumí i pořízení výpisu, opisu nebo kopie její části.
+Pořízení výpisu, opisu anebo kopie archiválie v analogové podobě nebo repliky archiválie v digitální podobě se odepře, jestliže jsou splněny podmínky pro odepření nahlížení do archiválií. To neplatí, lze-li výpis, opis anebo kopii archiválie v analogové podobě nebo repliku archiválie v digitální podobě pořídit i bez předchozího archivního zpracování archiválie.
+Pokud žádosti o pořízení výpisu, opisu anebo kopie archiválie v analogové podobě nebo repliky archiválie v digitální podobě archiv nevyhoví, rozhodne na základě podání badatele příslušný správní úřad na úseku archivnictví a výkonu spisové služby.
+Archiv na žádost potvrdí shodu jím pořízené kopie archiválie v analogové podobě s archiválií v analogové podobě uložené v archivu, anebo v případě digitálního archivu nebo Národního archivu shodu jím pořízené repliky archiválie v digitální podobě s archiválií v digitální podobě nebo s replikou archiválie v digitální podobě uloženými v digitálním archivu. Podpis potvrzení shody na digitálním archivem nebo Národním archivem pořízené replice archiválie v digitální podobě lze nahradit kvalifikovanou elektronickou pečetí.
+Archiv je oprávněn požadovat úhradu nákladů spojených s pořízením výpisu, opisu nebo kopie archiválie v analogové podobě anebo s pořízením repliky archiválie v digitální podobě, spojených s vyhledáním archiválií a jejich dalším zpracováním, nebo s pořízením rešerše z archiválií. Výši úhrady nákladů spojených s jím poskytovanými službami zveřejní archiv v ceníku služeb.
+Veřejný archiv není oprávněn požadovat úhradu nákladů, pokud pořízení výpisu, opisu nebo kopie archiválie v analogové podobě anebo pořízení repliky archiválie v digitální podobě, vyhledání archiválií a jejich další zpracování nebo pořízení rešerše z archiválií činí pro
+státní orgán,
+právnickou nebo fyzickou osobu, které byla svěřena působnost v oblasti veřejné správy, a to v souvislosti s výkonem této působnosti,
+původce nebo vlastníka archiválie uložené ve veřejném archivu, a to v případě provedení těchto úkonů vůči této archiválii nebo v souvislosti s ní,
+dárce archiválie uložené ve veřejném archivu, a to v případě provedení těchto úkonů vůči této archiválii nebo v souvislosti s ní.
+Prováděcí právní předpis stanoví maximální výši úhrady nákladů služeb uvedených v odstavcích 1 a 4, kterou je oprávněn požadovat veřejný archiv, a podmínky, za kterých je možné od úhrady služeb poskytovaných archivem upustit.
+Do archiválií, které nenáleží do péče archivů, lze nahlížet, pořizovat jejich výpisy, opisy, anebo kopie archiválií v analogové podobě nebo repliky archiválií v digitální podobě pouze se souhlasem vlastníka nebo držitele archiválie a za dodržení podmínek stanovených tímto zákonem a zvláštním právním předpisem.,
+Nahlížení do archiválií náležejících do péče veřejných archivů, s výjimkou audiovizuálních archiválií náležejících do péče Národního filmového archivu, a přístup do prostor veřejných archivů určených k nahlížení do archiválií jsou bezplatné.
+Soustava archivů a výkon veřejné správy na úseku archivnictví a výkonu spisové služby
+Archivy se člení na
+veřejné archivy,
+soukromé archivy.
+Veřejnými archivy jsou
+Národní archiv,
+Archiv bezpečnostních složek,
+státní oblastní archivy,
+specializované archivy,
+bezpečnostní archivy,
+archivy územních samosprávných celků.
+Soukromými archivy jsou ostatní archivy zřizované fyzickými nebo právnickými osobami.
+Postavení správních úřadů na úseku archivnictví a výkonu spisové služby mají
+ministerstvo,
+Národní archiv, Archiv bezpečnostních složek a státní oblastní archivy,
+příslušná ministerstva a další ústřední správní úřady, Česká národní banka, bezpečnostní sbory a zpravodajské služby České republiky, pokud si zřídily specializovaný nebo bezpečnostní archiv; obdobné postavení mají Kancelář Poslanecké sněmovny, Kancelář Senátu a Kancelář prezidenta republiky.
+Působnost ministerstva
+Ministerstvo na úseku archivnictví a výkonu spisové služby
+řídí výkon státní správy v oblasti archivnictví,
+zpracovává koncepci rozvoje archivnictví,
+přezkoumává rozhodnutí Národního archivu, Archivu bezpečnostních složek a státních oblastních archivů vydaná těmito archivy ve správním řízení,
+řídí odbornou činnost Národního archivu, Archivu bezpečnostních složek a státních oblastních archivů a ukládá jim odborné archivní úkoly; ostatní archivy v jejich činnosti metodicky usměrňuje a požaduje od nich, aby se podílely na celostátních tematických soupisech archiválií,
+zprošťuje povinnosti zachovávat mlčenlivost podle § 14 odst. 1 zaměstnance ministerstva, Národního archivu, Archivu bezpečnostních složek a státních oblastních archivů,
+rozhoduje o akreditaci archivů,
+rozhoduje o udělení výjimky podle § 82 odst. 1,
+zajišťuje ochranu a evidenci Národního archivního dědictví, rozhoduje o přehodnocení významu archiválií a o jejich vyřazení z Národního archivního dědictví,
+vyhlašuje inventuru archiválií podle tohoto zákona,
+organizuje celostátní tematické soupisy archiválií,
+zajišťuje mezinárodní spolupráci na úseku archivnictví a organizuje výzkum pramenů k českým dějinám v zahraničí,
+zastupuje Českou republiku v mezinárodních archivních orgánech a organizacích,
+vydává archivní publikace celostátního významu,
+rozhoduje o žádostech vlastníků archiválií o poskytování jednorázových příspěvků a náhrad nezbytných nákladů na péči o archiválie,
+vede evidenci archivů a kulturně vědeckých institucí, v nichž jsou uloženy archiválie,
+vede evidenci správních archivů,
+rozhoduje o návrhu archivu nebo původce, že původce nebo jeho organizační součást jsou povinni svěřit archiválie do péče jiného než příslušného archivu; působnost příslušného archivu vůči původci nebo jeho organizační součásti plní archiv určený v rozhodnutí,
+rozhoduje na návrh archivu, případně jeho zřizovatele o scelení souborů archiválií a o umístění těchto souborů archiválií,
+rozhoduje o vyřazení archivních fondů, archivních sbírek nebo archiválií z evidencí archiválií,
+rozhoduje o prohlášení a o zrušení prohlášení archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části za archivní kulturní památku,
+rozhoduje v dalších věcech na úseku archivnictví a výkonu spisové služby stanovených tímto zákonem, pokud nejsou svěřeny Národnímu archivu, Archivu bezpečnostních složek nebo státním oblastním archivům,
+stanoví a zveřejňuje ve Věstníku ministerstva postup atestačního střediska pro elektronické systémy spisové služby (dále jen „atestační středisko“) při provádění atestace elektronického systému spisové služby (dále jen „atestace“), podmínky provádění atestace a výši úplaty za provedení atestace,
+vede seznam atestačních středisek a seznam platných atestů elektronického systému spisové služby (dále jen „atest“),
+kontroluje atestační střediska.
+Národní archiv
+Národní archiv je správním úřadem a ústředním archivem státu, který je přímo řízený ministerstvem.
+Národní archiv je organizační složkou státu a účetní jednotkou; jeho rozpočet je součástí rozpočtové kapitoly ministerstva.
+V čele Národního archivu stojí ředitel; jeho výběr, jmenování a odvolání se řídí zákonem o státní službě.
+Sídlem Národního archivu je Praha.
+Národní archiv
+kontroluje výkon spisové služby u
+organizačních složek státu s celostátní působností s výjimkou těch, u kterých tuto působnost vykonává Archiv bezpečnostních složek,
+státních příspěvkových organizací zřízených zákonem a státních příspěvkových organizací zřízených organizační složkou státu s celostátní působností,
+veřejných výzkumných institucí zřízených organizační složkou státu s celostátní působností,
+právnických osob s celostátní působností zřízených zákonem,
+provádí výběr archiválií ve skartačním řízení u
+původců uvedených v písmenu a),
+původců uvedených v písmenu c), kteří si zřídili soukromý archiv,
+vrcholných nebo obdobných orgánů původců uvedených v písmenu c), kteří požádají o výběr archiválií ve skartačním řízení,
+provádí výběr archiválií mimo skartační řízení u vrcholných nebo obdobných orgánů
+politických stran,
+politických hnutí,
+spolků,
+odborových organizací,
+organizací zaměstnavatelů,
+profesních komor,
+církví,
+náboženských společností,
+nadací,
+nadačních fondů,
+ústavů,
+obecně prospěšných společností,
+provádí výběr archiválií mimo skartační řízení u dokumentů nabídnutých České republice darem nebo ke koupi a u dokumentů nalezených nebo u dokumentů vlastníků, kteří o to požádají,
+rozhoduje o námitkách proti protokolu o provedeném skartačním řízení a protokolu o provedeném výběru archiválií mimo skartační řízení (§ 10 odst. 3 a § 12 odst. 3) podaných původcem nebo vlastníkem dokumentu, u kterého provádí výběr archiválií,
+posuzuje protokoly o provedeném skartačním řízení a o provedeném výběru archiválií mimo skartační řízení specializovaných archivů organizačních složek státu s celostátní působností a jimi zřízených státních příspěvkových organizací a specializovaných archivů právnických osob zřízených zákonem s celostátní působností,
+rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů anebo kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do jeho péče nebo do péče soukromých archivů, u nichž provádí výběr archiválií,
+ukládá správní tresty podle tohoto zákona za přestupky fyzickým a právnickým osobám, u nichž kontroluje výkon spisové služby a u nichž provádí výběr archiválií, včetně těch, které zřídily specializované archivy nebo soukromé archivy,
+vyhledává v archiváliích náležejících do jeho péče archiválie pro potřeby správních úřadů a ostatních organizačních složek státu, orgánů územních samosprávných celků, právnických a fyzických osob, pořizuje z nich výpisy, opisy, kopie a repliky,
+umožňuje za podmínek stanovených v tomto zákoně nahlížet do archiválií náležejících do jeho péče,
+vede příslušnou evidenci archiválií podle tohoto zákona,
+provádí kontrolu archivních kulturních památek a národních kulturních památek, které vede ve své evidenci a které nenáleží do péče archivů,
+plní na úseku archivnictví úkoly vyplývající z mezinárodních smluv,
+vykonává další pravomoci stanovené tímto nebo jiným zákonem.
+Národní archiv na úseku péče o archiválie
+pečuje o archiválie převzaté od původců uvedených v odstavci 1 písm. a) a c) a dále o archiválie vzniklé z činnosti vrcholných orgánů českého státu, Československé republiky, Československé socialistické republiky, České a Slovenské Federativní Republiky, České socialistické republiky, České republiky s výjimkou těch, o něž pečuje Archiv bezpečnostních složek nebo specializované archivy zřízené ministerstvy, dalšími ústředními správními úřady, Kanceláří Poslanecké sněmovny, Kanceláří Senátu, Kanceláří prezidenta republiky, Českou národní bankou, bezpečnostními sbory nebo zpravodajskými službami České republiky, jakož i státních a samosprávních orgánů a organizací pro zemi Českou v minulosti, ústředních orgánů okupační správy v letech 1939 až 1945 a vlády Československé republiky v exilu v letech 1939 až 1945 a o archiválie vzniklé z činnosti centrálních úřadů habsburské monarchie a umožňuje nahlížení do nich,
+přijímá za Českou republiku nabídky ke koupi, k darování a úschově archiválií a uzavírá za Českou republiku příslušné smlouvy,
+poskytuje vlastníkům archiválií bezplatné odborné, informační a poradenské služby,
+provádí prověrku fyzického stavu archivních kulturních památek a národních kulturních památek, pokud jsou mu svěřeny do péče,
+provádí inventuru archiválií vyhlášenou ministerstvem,
+spolupracuje s ostatními archivy a rozvíjí styky s vědeckými, kulturními, školskými a dalšími institucemi za účelem výměny zkušeností v odborných otázkách, ve vědeckém bádání a kulturně výchovném, hospodářském a vlastivědném využívání archiválií,
+provádí vědeckou a výzkumnou činnost v oblasti archivnictví, pomocných věd historických a příbuzných vědních oborů,
+plní úkoly ústředního vědeckovýzkumného pracoviště na úseku preventivní péče o archiválie, konzervace a restaurování archiválií, uchovávání a zpřístupňování nových forem nosičů informací včetně dokumentů v digitální podobě; v této oblasti vykonává funkci odborného metodického a školicího centra,
+zřizuje specializovanou knihovnu pro obor archivnictví a výkonu spisové služby,
+vykonává vydavatelskou a publikační činnost v oboru archivnictví a výkonu spisové služby, dějin správy, pomocných věd historických a historie,
+provádí konzervaci a restaurování archiválií,
+plní další odborné archivní úkoly uložené tímto zákonem.
+Národní archiv na úseku péče o archiválie v digitální podobě
+ukládá archiválie v digitální podobě náležející do jeho péče a archiválie v digitální podobě náležející do péče Archivu bezpečnostních složek, státních oblastních archivů a archivů, které nejsou digitálními archivy a neukládají archiválie v digitální podobě na základě písemné dohody v jiném digitálním archivu; nejde-li o archiválie v digitální podobě náležející do jeho péče, Národní archiv u uložených archiválií v digitální podobě pouze zajišťuje zachování neporušitelnosti jejich obsahu a čitelnosti,
+spravuje národní portál,
+plní pro archivy metodickou a poradenskou funkci v oblasti předarchivní péče o dokumenty v digitální podobě a v oblasti digitalizace archiválií v analogové podobě,
+provádí vědeckou a výzkumnou činnost na úseku životního cyklu dokumentů v digitální podobě,
+poskytuje archivům údaje potřebné pro evidenci archiválií v digitální podobě a služby pro shromažďování a zpřístupňování popisů archiválií v digitální podobě a replik archiválií v digitální podobě,
+vydává závazné stanovisko k žádosti o udělení oprávnění k ukládání archiválií v digitální podobě.
+Státní oblastní archivy
+Státními oblastními archivy jsou
+Státní oblastní archiv v Praze,
+Státní oblastní archiv v Třeboni,
+Státní oblastní archiv v Plzni,
+Státní oblastní archiv v Litoměřicích,
+Státní oblastní archiv v Hradci Králové,
+Moravský zemský archiv v Brně,
+Zemský archiv v Opavě.
+Státní oblastní archivy jsou správními úřady, které jsou přímo řízeny ministerstvem.
+Státní oblastní archivy jsou organizačními složkami státu a účetními jednotkami; jejich rozpočty jsou součástí rozpočtové kapitoly ministerstva.
+V čele státního oblastního archivu stojí ředitel; jeho výběr, jmenování a odvolání se řídí zákonem o státní službě.
+Sídlem státních oblastních archivů jsou obce, podle nichž jsou státní oblastní archivy pojmenovány.
+Vnitřní organizační jednotkou státních oblastních archivů jsou státní okresní archivy, které jsou uvedeny v příloze č. 4 k tomuto zákonu.
+Správní obvody státních oblastních archivů jsou vymezeny územím krajů, a to pro
+Státní oblastní archiv v Praze územím krajů Středočeského a hlavního města Prahy,
+Státní oblastní archiv v Třeboni územím kraje Jihočeského,
+Státní oblastní archiv v Plzni územím krajů Karlovarského a Plzeňského,
+Státní oblastní archiv v Litoměřicích územím krajů Libereckého a Ústeckého,
+Státní oblastní archiv v Hradci Králové územím krajů Královéhradeckého a Pardubického,
+Moravský zemský archiv v Brně územím krajů Jihomoravského, Vysočina a Zlínského,
+Zemský archiv v Opavě územím krajů Moravskoslezského a Olomouckého.
+Určení místní příslušnosti státního oblastního archivu se řídí
+místem trvalého pobytu, je-li původcem, vlastníkem nebo držitelem archiválie fyzická osoba, která není podnikatelem,
+místem podnikání, je-li původcem, vlastníkem nebo držitelem archiválie fyzická osoba, která je podnikatelem,
+sídlem původce, je-li původcem, vlastníkem nebo držitelem archiválie právnická osoba,
+místem, kde se nachází provozovna, ve které se vykonává koncesovaná živnost vedení spisovny, jde-li o výkon působnosti podle § 49 odst. 1 písm. r) nebo s).
+Státní oblastní archiv
+kontroluje výkon spisové služby u
+organizačních složek státu s jinou než celostátní působností,
+státních příspěvkových organizací zřízených organizační složkou státu s jinou než celostátní působností,
+státních podniků,
+právnických osob zřízených zákonem s jinou než celostátní působností,
+územních samosprávných celků,
+organizačních složek územních samosprávných celků,
+právnických osob zřízených nebo založených územním samosprávným celkem,
+vysokých škol,
+škol,
+zdravotních pojišťoven,
+veřejných výzkumných institucí s výjimkou těch zřízených organizační složkou státu s celostátní působností,
+provádí výběr archiválií ve skartačním řízení u
+původců uvedených v písmenu a),
+původců uvedených v písmenu c) bodech 1 až 12, kteří požádají o výběr archiválií ve skartačním řízení, s výjimkou vrcholných nebo obdobných orgánů těchto původců a s výjimkou původců, kteří si zřídili soukromý archiv,
+původců uvedených v písmenu c) bodech 13 až 15, kteří si zřídili soukromý archiv nebo požádají o výběr archiválií ve skartačním řízení,
+provádí výběr archiválií mimo skartační řízení u
+politických stran,
+politických hnutí,
+spolků,
+odborových organizací,
+organizací zaměstnavatelů,
+profesních komor,
+církví,
+náboženských společností,
+nadací,
+nadačních fondů,
+ústavů,
+obecně prospěšných společností,
+obchodních společností,
+družstev s výjimkou bytových družstev,
+notářů,
+s výjimkou vrcholných nebo obdobných orgánů původců uvedených v bodech 1 až 12,
+provádí výběr archiválií mimo skartační řízení u dokumentů nabídnutých České republice darem nebo ke koupi a u dokumentů nalezených nebo u dokumentů vlastníků, kteří o to požádají,
+zprošťuje povinnosti zachovávat mlčenlivost u zaměstnanců (§ 14 odst. 1) nebo zřizovatelů archivů (§ 14 odst. 2), s výjimkou zaměstnanců uvedených v § 44 písm. e), specializovaných nebo bezpečnostních archivů zřizovaných ministerstvy, dalšími ústředními správními úřady, Kanceláří Poslanecké sněmovny, Kanceláří Senátu, Kanceláří prezidenta republiky, Českou národní bankou, bezpečnostními sbory nebo zpravodajskými službami České republiky,
+rozhoduje o námitkách proti protokolu o provedeném skartačním řízení a protokolu o provedeném výběru archiválií mimo skartační řízení (§ 10 odst. 3 a § 12 odst. 3) podaných původcem nebo vlastníkem dokumentu, u kterého provádí výběr archiválií,
+rozhoduje o námitkách původce nebo vlastníka dokumentu proti protokolu o provedeném skartačním řízení a protokolu o provedeném výběru archiválií mimo skartační řízení Archivu hlavního města Prahy, Archivu města Brna, Archivu města Ostravy, Archivu města Plzně a Archivu města Ústí nad Labem a dohlíží na jejich protokoly o provedeném skartačním řízení a o provedeném výběru archiválií mimo skartační řízení,
+posuzuje protokoly o provedeném skartačním řízení a o provedeném výběru archiválií mimo skartační řízení specializovaných archivů, u nichž tuto působnost nevykonává Národní archiv,
+rozhoduje o svěření ohrožených archiválií do péče archivu,
+rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů, kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do jeho péče,
+rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů, kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do péče specializovaných archivů, s výjimkou specializovaných archivů a bezpečnostních archivů zřízených ministerstvy, dalšími ústředními správními úřady, Kanceláří Poslanecké sněmovny, Kanceláří Senátu, Kanceláří prezidenta republiky, Českou národní bankou, bezpečnostními sbory a zpravodajskými službami České republiky,
+rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů, kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do péče archivů územních samosprávných celků nebo soukromých archivů, u nichž provádí výběr archiválií,
+ukládá správní tresty podle tohoto zákona za přestupky fyzickým a právnickým osobám, u nichž tuto působnost nevykonává Národní archiv,
+umožňuje za podmínek stanovených v tomto zákoně nahlížet do archiválií náležejících do jeho péče,
+vede příslušnou evidenci archiválií podle tohoto zákona,
+provádí kontrolu archivních kulturních památek, které vede ve své evidenci a které nenáleží do péče archivů,
+plní na úseku archivnictví úkoly vyplývající z mezinárodních smluv,
+vyjadřuje se k žádosti o koncesi k vedení spisovny a kontroluje stavebně technický stav a bezpečnostní zajištění provozoven určených k výkonu koncesované živnosti vedení spisovny,
+kontroluje plnění povinností podnikatele, kterému byla udělena koncese k vedení spisovny, stanovených v § 3 odst. 4,
+vykonává další pravomoci stanovené tímto nebo jiným zákonem.
+Státní oblastní archiv v oblasti archivní péče
+pečuje o archiválie převzaté od původců uvedených v odstavci 1 písm. a) a c); o archiválie právnických osob zapsaných v obchodním rejstříku pečuje tehdy, jestliže tito původci zanikli bez právního nástupce; péče o archiválie v digitální podobě nezahrnuje zachování neporušitelnosti jejich obsahu a čitelnosti,
+přijímá za Českou republiku nabídky ke koupi, k darování a úschově archiválií a uzavírá za Českou republiku příslušné smlouvy,
+poskytuje vlastníkům archiválií bezplatné odborné informační a poradenské služby,
+plní úkoly oblastního a okresního vědeckovýzkumného pracoviště na úseku archivnictví, pomocných věd historických a regionální historie, přičemž spolupracuje s ostatními archivy a rozvíjí styky s vědeckými, kulturními, školskými a dalšími institucemi za účelem výměny zkušeností v odborných otázkách, ve vědeckém bádání a kulturně výchovném, hospodářském a vlastivědném využívání archiválií,
+vyhledává v archiváliích náležejících do jeho péče archiválie pro potřeby správních úřadů a ostatních organizačních složek státu, orgánů územních samosprávných celků, právnických a fyzických osob, pořizuje z nich výpisy, opisy, kopie a repliky,
+zřizuje specializované knihovny pro obor archivnictví, spisové služby a regionální historie,
+vykonává vydavatelskou a publikační činnost v oboru archivnictví a spisové služby, dějin správy, pomocných věd historických a historie,
+provádí prověrku fyzického stavu archivních kulturních památek a národních kulturních památek, pokud jsou mu svěřeny do péče,
+provádí inventuru archiválií vyhlášenou ministerstvem,
+provádí konzervaci a restaurování archiválií,
+plní další odborné archivní úkoly uložené tímto zákonem.
+Další správní úřady na úseku archivnictví a výkonu spisové služby
+Příslušná ministerstva, další ústřední správní úřady, Kancelář Poslanecké sněmovny, Kancelář Senátu, Kancelář prezidenta republiky, Česká národní banka, bezpečnostní sbory a zpravodajské služby České republiky, které si zřídily specializované nebo bezpečnostní archivy,
+jejich prostřednictvím dohlížejí na výkon spisové služby u útvarů v jejich řídící působnosti, u jimi zřízených nebo založených organizačních složek a státních příspěvkových organizací nebo jiných právnických osob a dohlížejí na činnost svých správních archivů,
+rozhodují o námitkách původce nebo vlastníka dokumentu proti protokolu o provedeném skartačním řízení a protokolu o provedeném výběru archiválií mimo skartační řízení (§ 10 odst. 3 a § 12 odst. 3) specializovaného nebo bezpečnostního archivu, u kterých vykonávají funkci zřizovatele,
+rozhodují o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů nebo kopií archiválií náležejících do péče specializovaných archivů nebo bezpečnostních archivů, u kterých vykonávají funkci zřizovatele,
+zprošťují povinnosti zachovávat mlčenlivost podle § 14 odst. 1 u zaměstnanců zařazených ve specializovaných nebo bezpečnostních archivech, u kterých vykonávají funkci zřizovatele,
+plní další úkoly na úseku výkonu spisové služby uložené tímto zákonem.
+Specializované archivy
+Organizační složky státu, bezpečnostní sbory, zpravodajské služby České republiky, státní příspěvkové organizace, státní podniky, vysoké školy, školy, Všeobecná zdravotní pojišťovna České republiky, veřejné výzkumné instituce s výjimkou těch, u kterých plní funkci zřizovatele Akademie věd České republiky, a právnické osoby zřízené zákonem mohou zřizovat specializované archivy.
+Do péče specializovaného archivu náleží archiválie vzniklé z činnosti jeho zřizovatele nebo z činnosti jeho právních předchůdců a archiválie získané darem nebo koupí.
+Specializovaný archiv může působit jako archiv, pokud mu byla udělena akreditace.
+Specializovaný archiv
+s výjimkou Národního filmového archivu dohlíží na výkon spisové služby u svého zřizovatele a jím zřízených organizačních složek státu a státních příspěvkových organizací, dohlíží na činnost správního archivu svého zřizovatele, pokud ho má zřízen,
+provádí výběr archiválií ve skartačním řízení u původců, u nichž dohlíží na výkon spisové služby,
+provádí výběr archiválií mimo skartační řízení z dokumentů nabídnutých zřizovateli darem, ke koupi nebo do úschovy a z dokumentů vlastníků, kteří o to požádají, a s výjimkou Národního filmového archivu též výběr archiválií mimo skartační řízení u původců uvedených v písmenu a),
+vede příslušnou evidenci archiválií podle tohoto zákona,
+vyhledává v archiváliích náležejících do jeho péče archiválie pro potřeby správních úřadů a ostatních organizačních složek státu, orgánů územních samosprávných celků, právnických a fyzických osob, pořizuje z nich výpisy, opisy, kopie a repliky,
+umožňuje za podmínek stanovených v tomto zákoně nahlížet do archiválií náležejících do jeho péče,
+pečuje o archiválie převzaté od původců uvedených v písmenech a) a c); není-li současně digitálním archivem, péče o archiválie v digitální podobě nezahrnuje zachování neporušitelnosti jejich obsahu a čitelnosti,
+pečuje o archiválie náležející do jeho péče ke dni jeho akreditace, nerozhodne-li ministerstvo v rozhodnutí o akreditaci jinak,
+na žádost předkládá Národnímu archivu nebo příslušnému státnímu oblastnímu archivu k posouzení protokoly o provedeném skartačním řízení a o provedeném výběru archiválií mimo skartační řízení,
+provádí vědeckou, výzkumnou, vydavatelskou a publikační činnost v oblasti archivnictví, pomocných věd historických a vědních oborů souvisejících s obsahem uložených archivních fondů a sbírek,
+zřizuje specializovanou knihovnu v rozsahu nezbytném pro plnění stanovených odborných a vědeckých úkolů,
+provádí prověrku fyzického stavu archivních kulturních památek a národních kulturních památek, pokud jsou mu svěřeny do péče,
+podílí se na sestavování celostátních tematických soupisů archiválií organizovaných ministerstvem,
+provádí inventuru archiválií vyhlášenou ministerstvem,
+plní další odborné archivní úkoly uložené mu zřizovatelem,
+zajišťuje konzervaci a restaurování archiválií.
+Bezpečnostní archivy
+Ministerstvo, Ministerstvo obrany, Ministerstvo zahraničních věcí, Národní bezpečnostní úřad, Národní úřad pro kybernetickou a informační bezpečnost, bezpečnostní sbory a zpravodajské služby České republiky mohou zřizovat bezpečnostní archivy.
+Bezpečnostní archiv bezpečnostního sboru a zpravodajské služby České republiky
+provádí výběr archiválií ve skartačním řízení u dokumentů vzniklých z činnosti jeho zřizovatele, a to i u těch, u nichž dosud nebyl zrušen stupeň utajení,
+vede v základní evidenci Národního archivního dědictví všechny archivní fondy a archivní sbírky náležející do jeho péče; údaje o archiváliích obsahujících utajované informace se nepředávají do druhotné a ústřední evidence Národního archivního dědictví,
+plní další úkoly specializovaného archivu, s výjimkou úkolu podle § 52 písm. i).
+Bezpečnostní archiv vyjma bezpečnostních archivů podle odstavce 2
+provádí výběr archiválií ve skartačním řízení u dokumentů vzniklých z činnosti jeho zřizovatele, u nichž dosud nebyl zrušen stupeň utajení,
+vede v základní evidenci Národního archivního dědictví všechny archivní fondy a archivní sbírky náležející do jeho péče; údaje o archiváliích obsahujících utajované informace se nepředávají do druhotné a ústřední evidence Národního archivního dědictví,
+pečuje o archiválie převzaté od svého zřizovatele,
+provádí inventuru archiválií vyhlášenou ministerstvem,
+plní další odborné archivní úkoly uložené mu zřizovatelem.
+V případech zrušení stupně utajení u archiválií náležejících do péče bezpečnostních archivů převede bezpečnostní archiv, s výjimkou bezpečnostních archivů zřízených bezpečnostním sborem nebo zpravodajskou službou České republiky, tyto archiválie do péče specializovaného archivu svého zřizovatele, pokud je zřízen, jinak do péče Národního archivu. Bezpečnostní sbory a zpravodajské služby České republiky mohou odepřít nahlížení do archiválií a poskytování kopií, opisů a výpisů z nich, u nichž byl zrušen stupeň utajení, pokud obsahují informace i nadále důležité pro ochranu ústavního zřízení, významných ekonomických zájmů, bezpečnost a obranu České republiky. O podání badatele proti odepření nahlížení do archiválií nebo poskytování kopií, opisů a výpisů z nich podle věty druhé rozhodne ředitel příslušného bezpečnostního sboru nebo zpravodajské služby České republiky.
+Bezpečnostní archiv vyhledává v archiváliích náležejících do jeho péče archiválie pro potřeby správních úřadů a ostatních organizačních složek státu, orgánů územních samosprávných celků, právnických a fyzických osob, pořizuje z nich výpisy, opisy, kopie a repliky a umožňuje nahlížet do těchto archiválií.
+Bezpečnostní archiv může působit jako archiv, pokud mu byla udělena akreditace.
+Archivy územních samosprávných celků
+Územní samosprávné celky mohou zřizovat archivy územních samosprávných celků.
+Územní samosprávné celky, které zřídily archivy územních samosprávných celků, zajišťují jejich prostřednictvím odborné archivní činnosti v působnosti územních samosprávných celků a plnění dalších úkolů v oblasti archivnictví a výkonu spisové služby stanovených tímto zákonem (§ 55 odst. 1).
+Archiv územního samosprávného celku může působit jako archiv, pokud mu byla udělena akreditace.
+Archiv územního samosprávného celku, pokud dále není stanoveno jinak,
+dohlíží na výkon spisové služby u svého zřizovatele a jím zřízených nebo založených organizačních složek a příspěvkových organizací nebo jiných právnických osob,
+umožňuje za podmínek stanovených v tomto zákoně nahlížet do archiválií náležejících do jeho péče,
+vede příslušnou evidenci archiválií podle tohoto zákona,
+vyhledává v archiváliích náležejících do jeho péče archiválie pro potřeby správních úřadů a ostatních organizačních složek státu, orgánů územních samosprávných celků, právnických a fyzických osob, pořizuje z nich výpisy, opisy, kopie a repliky,
+předkládá příslušnému státnímu oblastnímu archivu skartační návrhy k posouzení a k provedení výběru archiválií,
+pečuje o archiválie vzniklé z činnosti původců uvedených v písmenu a); není-li současně digitálním archivem, péče o archiválie v digitální podobě nezahrnuje zachování neporušitelnosti jejich obsahu a čitelnosti,
+provádí prověrku fyzického stavu archivních kulturních památek a národních kulturních památek, pokud jsou mu svěřeny do péče,
+podílí se na sestavování celostátních tematických soupisů archiválií organizovaných ministerstvem,
+provádí konzervaci a restaurování archiválií,
+provádí inventuru archiválií vyhlášenou ministerstvem,
+provádí vědeckou, výzkumnou a vydavatelskou činnost v oblasti archivnictví, pomocných věd historických, dějin správy, regionálních dějin, dějin měst a obcí, historické vlastivědy a příbuzných oborů,
+zřizuje specializovanou knihovnu v rozsahu nezbytném pro plnění stanovených odborných a vědeckých úkolů,
+plní další odborné archivní úkoly na úseku archivnictví a výkonu spisové služby, určené zřizovatelem.
+Akreditací archivu územního samosprávného celku vzniká jeho zřizovateli nárok na poskytnutí bezplatné odborné pomoci ze strany Národního archivu nebo příslušného státního oblastního archivu.
+Soukromé archivy
+Soukromý archiv může zřídit fyzická nebo právnická osoba, která nezřizuje archiv podle předchozích ustanovení tohoto zákona.
+Soukromý archiv může působit jako archiv, pokud mu byla udělena akreditace.
+Akreditací soukromého archivu vzniká jeho zřizovateli nárok na poskytnutí bezplatné odborné pomoci ze strany Národního archivu nebo příslušného státního oblastního archivu.
+Zřizovatel soukromého archivu, který byl akreditován, má nárok na poskytnutí jednorázového ročního státního příspěvku na provoz soukromého archivu. Jeho výši s ohledem na možné náklady na provoz soukromého archivu, péči o archiválie ve vlastnictví zřizovatele nebo jím zřizovaných právnických osob a jejich ochranu stanoví prováděcí právní předpis.
+Žádost o poskytnutí jednorázového ročního státního příspěvku na provoz soukromého archivu zřizovatel archivu poprvé uplatní do 6 měsíců ode dne nabytí právní moci rozhodnutí o akreditaci soukromého archivu nejpozději však do 30. listopadu roku, v němž byla akreditace udělena. Nabude-li rozhodnutí o akreditaci soukromého archivu právní moci po 30. dubnu kalendářního roku, zřizovatel archivu uplatní žádost o poskytnutí jednorázového ročního státního příspěvku na provoz soukromého archivu na příští rok současně se žádostí podle věty první. V dalších letech je zřizovatel povinen uplatnit žádost o tento příspěvek vždy do 30. dubna předchozího kalendářního roku. Žádost se předkládá ministerstvu. Není-li žádost uplatněna ve stanovené lhůtě, nárok na poskytnutí příspěvku v příslušném kalendářním roce zaniká.
+Soukromý archiv
+vede příslušnou evidenci archiválií podle tohoto zákona,
+umožňuje za podmínek stanovených v tomto zákoně nahlížet do archiválií náležejících do jeho péče; v soukromém archivu zřizovaném registrovanou církví nebo náboženskou společností, které bylo přiznáno oprávnění k výkonu zvláštních práv, se nahlížení do archiválií řídí tímto zákonem a vnitřním předpisem registrované církve nebo náboženské společnosti,
+předkládá Národnímu archivu nebo příslušnému státnímu oblastnímu archivu skartační návrhy k posouzení a k provedení výběru archiválií,
+pečuje o archiválie svého zřizovatele a jeho právních předchůdců, pokud tak stanoví příslušný archiv při jejich výběru; není-li současně digitálním archivem, péče o archiválie v digitální podobě nezahrnuje zachování neporušitelnosti jejich obsahu a čitelnosti,
+pečuje o archiválie jiných právnických nebo fyzických osob, které si je v soukromém archivu uložily na základě smlouvy o úschově; není-li současně digitálním archivem, péče o archiválie v digitální podobě nezahrnuje zachování neporušitelnosti jejich obsahu a čitelnosti,
+provádí prověrku fyzického stavu archivních kulturních památek a národních kulturních památek, pokud jsou mu svěřeny do péče,
+podílí se na sestavování celostátních tematických soupisů archiválií organizovaných ministerstvem,
+provádí inventuru archiválií vyhlášenou ministerstvem.
+Výběr archiválií z dokumentů, které má povinnost uchovávat právní nástupce veřejnoprávního původce nebo soukromoprávního původce, provádí archiv, který by byl příslušný k provedení výběru archiválií u tohoto původce.
+Výběr archiválií z dokumentů předaných veřejnoprávním původcem, soukromoprávním původcem nebo jejich právním nástupcem k zajištění odborné správy do spisovny provozované podnikatelem, kterému byla udělena koncese k vedení spisovny, provádí archiv, který je příslušný k provedení výběru archiválií u tohoto původce nebo jeho právního nástupce.
+Akreditace archivů a povinnosti zřizovatelů archivů
+Akreditace archivů
+Žádost o akreditaci archivu musí kromě obecných náležitostí podání podle správního řádu obsahovat
+název a adresu sídla archivu,
+postavení archivu v organizační struktuře zřizovatele, je-li zřizovatelem právnická osoba,
+účel zřízení archivu,
+kopie evidenčních listů Národního archivního dědictví s údaji o archiváliích, o něž bude archiv pečovat,
+spisový řád zřizovatele, je-li původcem uvedeným v § 63 odst. 1.
+Součástí žádosti podle odstavce 1 jsou rovněž doklady o splnění podmínek stanovených pro archiv v § 61.
+Ministerstvo vydá rozhodnutí o žádosti do 6 měsíců ode dne jejího podání. Ministerstvo akreditaci archivu neudělí, jestliže
+archiv nesplňuje podmínky stanovené v § 61,
+archiv není schopen vést základní evidenci Národního archivního dědictví v souladu s tímto zákonem,
+není z hlediska ochrany archiválií vznikajících z činnosti původce podle § 51 odst. 1 nezbytné archiv zřídit, jde-li o specializovaný archiv, nebo
+archiválie uvedené v odstavci 1 písm. d) byly vybrány jako archiválie v rozporu s právními předpisy.
+Platnost akreditace archivu je vůči právnímu nástupci zřizovatele zachována pouze v případě archivů územních samosprávných celků, dojde-li ke sloučení obcí nebo k připojení obce podle zvláštního právního předpisu.
+Zemře-li fyzická osoba, která je zřizovatelem akreditovaného soukromého archivu nebo na kterou přešla akreditace podle tohoto zákona, mohou v provozování archivu pokračovat až do skončení řízení o projednávání dědictví
+dědicové ze zákona, pokud není dědiců ze závěti,
+dědicové ze závěti a pozůstalý manžel, i když není dědicem, je-li spoluvlastníkem majetku používaného k provozování archivu,
+pozůstalý manžel splňující podmínku uvedenou v písmenu b), pokud v provozování archivu nepokračují dědicové,
+správce dědictví, pokud byl pro zachování provozování archivu ustanoven orgánem projednávajícím dědictví.
+Pokud osoby uvedené v písmenech a) až c) hodlají pokračovat v provozování archivu, jsou povinny oznámit tuto skutečnost ministerstvu písemně ve lhůtě 3 měsíců ode dne úmrtí zřizovatele. Správce dědictví je povinen oznámit pokračování v provozování archivu ministerstvu písemně ve lhůtě 1 měsíce ode dne, kdy byl do této funkce ustanoven. Po skončení řízení o dědictví mohou osoby uvedené v písmenech a) až c) pokračovat v provozování archivu, jen jsou-li nadále splněny všechny podmínky pro provozování archivu.
+Zřizovatel archivu je povinen bez zbytečného odkladu oznámit ministerstvu všechny změny skutečností, které byly uvedeny v žádosti o akreditaci archivu, zejména změny ve splňování podmínek stanovených v § 61.
+Do 3 měsíců ode dne nabytí právní moci rozhodnutí o udělení akreditace vydá zřizovatel archivu badatelský řád.
+Odnětí akreditace
+Zjistí-li ministerstvo, že zřizovatel archivu nedodržuje podmínky, za nichž byla akreditace udělena, uloží mu povinnost zjištěné nedostatky odstranit a stanoví lhůtu, v níž musí být odstraněny. Tato lhůta nesmí být delší než 1 rok.
+Postupem podle odstavce 1 nejsou dotčena ustanovení § 27 odst. 2 a § 32 odst. 2 až 4.
+Jestliže zřizovatel ve stanovené lhůtě nesplní povinnosti uložené podle odstavce 1, ministerstvo akreditaci odejme.
+Ministerstvo může akreditaci odejmout, pokud zřizovatel archivu opakovaně neplní jiné povinnosti než uvedené v odstavci 1, uložené mu rozhodnutím správního úřadu na úseku archivnictví a výkonu spisové služby podle tohoto zákona.
+Akreditaci ministerstvo odejme, požádá-li o to zřizovatel archivu, a to do 6 měsíců ode dne podání žádosti.
+V případě odnětí akreditace určí ministerstvo archiv, do jehož péče budou archiválie náležet. Archiválie mohou být svěřeny do péče Národního archivu nebo státního oblastního archivu. V případě odnětí akreditace zřizovateli soukromého archivu převezme péči o archiválie na základě písemné dohody zřizovatelů archivů jiný archiv, pokud si zřizovatel soukromého archivu, jemuž je akreditace odňata, archiválie neponechá ve své péči. Zřizovatel archivu, jemuž byla akreditace odňata, vyrozumí ministerstvo o uzavření dohody do 60 dnů ode dne, kdy nabylo právní moci rozhodnutí o odejmutí akreditace. Neobdrží-li ministerstvo toto vyrozumění ve stanovené lhůtě, postupuje se podle věty první a druhé obdobně. Náklady spojené s převozem archiválií do archivu, který o ně bude nově pečovat nebo v němž budou nově uloženy, nese jejich vlastník.
+Zánik akreditace
+V případě zániku právnické osoby, která je zřizovatelem archivu, akreditace zaniká a nepřechází na právního nástupce.
+V případě úmrtí fyzické osoby, která je zřizovatelem archivu, akreditace zaniká, pokud se nepostupovalo podle § 58 odst. 5.
+Ustanovení § 59 odst. 6 se v případě zániku akreditace použije obdobně.
+Oprávnění k ukládání archiválií v digitální podobě
+Žádost o udělení oprávnění k ukládání archiválií v digitální podobě může podat pouze zřizovatel akreditovaného archivu, s výjimkou případů, kdy tato žádost je součástí žádosti o akreditaci archivu podle § 58.
+Žádost o udělení oprávnění k ukládání archiválií v digitální podobě musí kromě obecných náležitostí podání podle správního řádu obsahovat
+název a adresu sídla archivu a adresy míst staveb, ve kterých budou umístěna úložiště archiválií v digitální podobě,
+podklady pro rozhodnutí, zda archiv splňuje podmínky stanovené v § 61 odst. 2 a 4,
+popis způsobu uložení archiválií v digitální podobě,
+koncepci dlouhodobého uchovávání a ochrany dokumentů určených pro předávání do digitálního archivu,
+identifikaci ukládaných archiválií v digitální podobě,
+seznam metadat týkajících se popisu archiválií v digitální podobě, popisu a evidence archivních souborů a popisu původců,
+návrh provozního řádu digitálního archivu,
+potvrzení Národního archivu o úspěšném provedení zkušebního přesunu archiválií v digitální podobě do Národního archivu.
+Ministerstvo si vyžádá závazné stanovisko Národního archivu k náležitostem žádosti uvedeným v odstavci 2 písm. c) až h).
+Ministerstvo vydá rozhodnutí o oprávnění k ukládání archiválií v digitální podobě do 1 roku ode dne podání žádosti. Oprávnění k ukládání archiválií v digitální podobě nelze udělit, jestliže závazné stanovisko Národního archivu ke kterékoliv z náležitostí žádosti uvedených v odstavci 2 písm. c) až h) je negativní.
+Zřizovatelům bezpečnostních archivů vzniká oprávnění k ukládání archiválií v digitální podobě ze zákona udělením akreditace; ustanovení o odnětí oprávnění k ukládání archiválií v digitální podobě se na tyto archivy nepoužijí.
+Odnětí oprávnění k ukládání archiválií v digitální podobě
+Zjistí-li ministerstvo, že zřizovatel archivu nedodržuje podmínky, za nichž bylo oprávnění k ukládání archiválií v digitální podobě uděleno, uloží mu povinnost zjištěné nedostatky odstranit a stanoví lhůtu, v níž musí být odstraněny. Tato lhůta nesmí být delší než 1 rok.
+Jestliže zřizovatel ve stanovené lhůtě nesplní povinnosti uložené podle odstavce 1, ministerstvo oprávnění k ukládání archiválií v digitální podobě odejme.
+Oprávnění k ukládání archiválií v digitální podobě ministerstvo odejme, požádá-li o to zřizovatel archivu, a to do 6 měsíců ode dne podání žádosti.
+V případě odnětí oprávnění k ukládání archiválií v digitální podobě se archiválie v digitální podobě uloží na základě písemné dohody zřizovatele archivu, jemuž bylo oprávnění k ukládání archiválií v digitální podobě odňato, a zřizovatele jiného digitálního archivu do tohoto digitálního archivu. Zřizovatel archivu, jemuž bylo oprávnění k ukládání archiválií v digitální podobě odňato, vyrozumí ministerstvo o uzavření dohody do 60 dnů ode dne, kdy nabylo právní moci rozhodnutí o odejmutí oprávnění k ukládání archiválií v digitální podobě. Neobdrží-li ministerstvo toto vyrozumění ve stanovené lhůtě, rozhodne o uložení archiválií v digitální podobě v Národním archivu.
+Působnost archivu, jehož zřizovateli bylo oprávnění k ukládání archiválií v digitální podobě odňato, k péči o archiválie, které byly uloženy v digitálním archivu nebo Národním archivu, není uložením v těchto archivech dotčena. Zachování neporušitelnosti obsahu a čitelnosti těchto archiválií zajišťuje digitální archiv nebo Národní archiv.
+Zánik oprávnění k ukládání archiválií v digitální podobě
+Oprávnění k ukládání archiválií v digitální podobě zaniká současně s odnětím nebo zánikem akreditace.
+Oprávnění k ukládání archiválií v digitální podobě nepřechází na právního nástupce zřizovatele archivu.
+Národní archiv, Archiv bezpečnostních složek, státní oblastní archivy, zřizovatelé ostatních veřejných archivů a zřizovatelé soukromých archivů jsou povinni zajistit, že budou splňovány stavebně-technické, prostorové, bezpečnostní, materiální, finanční a personální podmínky pro péči o archiválie a jejich ochranu.
+V rámci splňování stavebně-technických podmínek podle odstavce 1 musí být zajištěno, aby
+budova archivu nebyla umístěna v záplavových územích a v ochranných pásmech vzletových a přistávacích drah letišť,
+budova archivu byla situována mimo oblasti plynného a prašného znečištění,
+prostory pro ukládání archiválií byly zabezpečeny proti škodlivému působení přírodních vlivů a jevů vyvolaných činností člověka, a to zejména proti průniku vody, páry, dešťové a splaškové kanalizace, nebezpečných chemických a biologických látek nebo působení fyzikálních jevů a proti nadměrné prašnosti, které by mohly vést k poškození nebo zničení archiválií,
+prostory pro ukládání archiválií byly umístěny nad hladinou spodní vody, bylo zajištěno přirozené nebo umělé větrání k udržování stanovené teploty a relativní vlhkosti vzduchu a prostory byly opatřeny přístroji k měření těchto hodnot,
+prostory pro ukládání archiválií s magnetickým záznamem byly chráněny před účinky elektromagnetického pole,
+archiv, který je současně digitálním archivem, disponoval nejméně dvěma plnohodnotnými úložišti archiválií v digitální podobě vzdálenými od sebe vzdušnou čarou nejméně 50 km, umístěnými v lokalitách, které svým geografickým charakterem vylučují současné nebo následné škodlivé působení přírodních vlivů nebo jevů vyvolaných činností člověka vedoucích k poškození nebo zničení archiválií anebo vyžadujících provedení záchranných prací.
+V rámci splňování prostorových podmínek podle odstavce 1 musí být zajištěno, aby
+prostory archivu byly rozděleny na prostory s přístupem veřejnosti a prostory bez přístupu veřejnosti, přičemž komunikační trasy obou oddělených částí se neprotínaly,
+místnost pro příjem a archivní zpracování, místnost pro uložení archiválií, místnost pro očistu, dezinfekci, konzervaci, restaurování a reprografické zpracování archiválií a místnost pro uložení archiválií rezervovaných ke studiu, jsou-li zřízeny, byly vždy v prostorách bez přístupu veřejnosti,
+v prostorách s přístupem veřejnosti byla zřízena místnost určená k nahlížení do archiválií (dále jen „badatelna“),
+uložení archiválií v místnostech pro uložení archiválií bylo zaznamenáno v plánu uložení archiválií a tento plán byl po každé změně v umístění uložených archiválií neprodleně aktualizován.
+V rámci splňování bezpečnostních podmínek podle odstavce 1 musí být zajištěno, aby
+budovy archivů měly zpracovánu bezpečnostní dokumentaci, jejíž součástí musí být opatření proti vniknutí nepovolaných osob do archivních prostor, proti krádeži archiválií a proti teroristickým útokům; u specializovaných archivů a bezpečnostních archivů též opatření zajišťující objektovou bezpečnost,
+budovy archivů měly zpracovánu požární dokumentaci, byly vybaveny elektronickou požární signalizací a ručními hasicími přístroji a aby v prostorách pro uložení archiválií byly pouze práškové hasicí přístroje,
+mechanická a elektronická zabezpečovací zařízení umísťovaná na okna a dveře byla na plášti budovy do výše druhého nadzemního podlaží nebo vyššího podlaží, do něhož by bylo možno vniknout z vodorovných prvků konstrukce budovy, a uvnitř budovy na všech místech, kde se stýkají prostory veřejnosti přístupné a veřejnosti nepřístupné,
+archivní prostory bez přístupu veřejnosti byly zajištěny ochranným mechanickým a elektronickým zabezpečovacím zařízením proti přístupu nepovolaných osob a proti násilnému vniknutí,
+klíče od všech vstupů do archivních prostor byly uloženy u pověřeného zaměstnance archivu, který je povinen vést evidenci jejich výdeje a vracení, a aby v případech, kdy je vstup do archivních prostor ovládán elektronicky, byla stanovena přístupová práva jednotlivých zaměstnanců archivu,
+archivní prostory, v nichž jsou uloženy národní kulturní památky, byly nepřetržitě střeženy.
+V rámci splňování materiálních podmínek podle odstavce 1 musí být zajištěno, aby
+archiv byl vybaven zařízením pro pořizování kopií archiválií, a pokud spravuje mikrografické záznamy, též čtecími přístroji na mikrofilmy,
+archivní prostory, v nichž jsou uloženy archiválie, byly vybaveny regály pro uložení archiválií, a je-li toho třeba, i speciálními ukládacími prostředky pro uložení map, plánů, technické dokumentace a archiválií velkých formátů, filmových a fotografických záznamů, zvukových a audiovizuálních archiválií a archiválií v digitální podobě,
+vybavení badatelny umožňovalo použití přenosných prostředků výpočetní techniky.
+Splňováním finančních podmínek podle odstavce 1 se rozumí zajištění povinných minimálních průměrných ročních nákladů v rozpočtu zřizovatele na provoz archivu vypočtených jako součin částky průměrných nákladů na 1 běžný metr archiválií a celkového množství uložených archiválií, počítaného v běžných metrech.
+V rámci splňování personálních podmínek podle odstavce 1 musí být zajištěno, aby
+vedoucí pracovní místa v archivu byla obsazena zaměstnanci s vysokoškolským vzděláním archivního nebo historického směru nebo v příslušném speciálním oboru,
+připadl nejméně 1 zaměstnanec na správu 2000 běžných metrů archiválií písemného charakteru,
+byl dostatečný počet zaměstnanců v badatelně tak, aby 1 zaměstnanec připadl na 10 badatelů denně.
+Údaje o archivních prostorách včetně stavebně-technické dokumentace a statických výpočtů jsou zřizovatelé archivů povinni vést v souladu se skutečným stavem. Výsledky měření teploty a relativní vlhkosti vzduchu zachycující výkyvy sledovaných údajů mimo povolenou toleranci se uchovávají po dobu nejméně 10 let.
+Nosnost podlah v prostorách pro uložení archiválií, teploty a relativní vlhkost vzduchu v prostorách pro uložení archiválií a výši průměrných ročních nákladů na 1 běžný metr archiválií stanoví prováděcí právní předpis.
+Výroční zprávy o činnosti archivů
+Národní archiv, Archiv bezpečnostních složek, státní oblastní archivy, bezpečnostní archivy, specializované archivy s výjimkou specializovaných archivů zřízených státními příspěvkovými organizacemi, státními podniky, vysokými školami, školami a veřejnými výzkumnými institucemi jsou povinny zpracovat výroční zprávy o své činnosti a do konce měsíce února následujícího kalendářního roku je předat ministerstvu a zveřejnit je způsobem umožňujícím dálkový přístup. Ve stejné lhůtě jsou povinny zpracovat výroční zprávy o své činnosti a zveřejnit je způsobem umožňujícím dálkový přístup specializované archivy státních příspěvkových organizací, státních podniků, vysokých škol, škol a veřejných výzkumných institucí, archivy územních samosprávných celků a soukromé archivy.
+Výroční zpráva o činnosti archivu obsahuje údaje o
+personálních podmínkách archivu,
+celkovém množství uložených archiválií,
+výběru, archivním zpracování a využívání archiválií,
+stavu archiválií,
+konzervaci a restaurování archiválií.
+Výroční zprávy bezpečnostních archivů obsahují pouze údaje o archivních sbírkách nebo archivních fondech, u kterých byl zrušen stupeň utajení, a údaje uvedené v odstavci 2 písm. b) až e).
+SPISOVÁ SLUŽBA
+Spisovou službu vykonávají
+veřejnoprávní původci uvedení v § 3 odst. 1 písm. a) až e), i) a k) až m), s výjimkou poskytovatelů zdravotních služeb, jde-li o vedení zdravotnické dokumentace,
+kraje,
+hlavní město Praha,
+obce s pověřeným obecním úřadem a obce se stavebním nebo matričním úřadem,
+městská část nebo městský obvod územně členěného statutárního města a městská část hlavního města Prahy, na něž byla statutem přenesena alespoň část působnosti obce s pověřeným obecním úřadem nebo působnosti obce se stavebním nebo matričním úřadem,
+(dále jen „určení původci“).
+Obce neuvedené v odstavci 1, školy a veřejnoprávní původci uvedení v § 3 odst. 1 písm. g) a h) vykonávají spisovou službu v rozsahu ustanovení § 64, § 65, § 66, § 67, § 68 odst. 1 až 3, § 68a a 69a.
+Veřejnoprávní původci vykonávají spisovou službu v elektronické podobě v elektronických systémech spisové služby; vyžaduje-li to zvláštní povaha jejich působnosti, mohou vykonávat spisovou službu v listinné podobě nebo v elektronických systémech spisové služby odpovídajících požadavkům podle odstavce 4. Veřejnoprávní původci mohou využívat pouze elektronické systémy spisové služby, které splňují požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu a u kterých je splnění těchto požadavků potvrzeno atestem. Ustanovení věty druhé se nepoužije v případě, kdy došlo ke změně požadavků tohoto zákona, vyhlášky podle § 70 odst. 1 nebo národního standardu a ode dne nabytí účinnosti změny neuplynul 1 rok, a výlučně ve vztahu k požadavku, který byl změněn.
+Pokud veřejnoprávní původci, jejichž zvláštní povaha působnosti umožňuje výkon spisové služby v listinné podobě nebo v elektronické podobě v elektronických systémech spisové služby, vykonávají spisovou službu v elektronické podobě v elektronickém systému spisové služby, který je součástí informačního systému pro nakládání s utajovanými informacemi, musí tento elektronický systém spisové služby splňovat požadavky stanovené národním standardem, s výjimkou těch požadavků, jejichž užití vylučuje splnění podmínek certifikace informačního systému pro nakládání s utajovanými informacemi, nebo jejichž užití vylučuje zvláštní povaha působnosti těchto původců; elektronické systémy spisové služby i v těchto případech musí umožňovat plnění povinností původce podle § 65 odst. 5 a výběr archiválií.
+Příjem, označování, evidence a rozdělování dokumentů
+Určení původci zajistí příjem dokumentů. V případě dokumentů v digitální podobě určení původci zajistí jejich příjem alespoň v datových formátech stanovených jako výstupní datové formáty nebo formáty dokumentů, které jsou výstupem z autorizované konverze dokumentů obsažených v datové zprávě. Pokud veřejnoprávní původci umožní příjem dokumentů v digitální podobě také v dalších datových formátech nebo pokud umožní příjem dokumentů v digitální podobě na přenosných technických nosičích dat, zveřejní jejich přehled na úřední desce nebo, nezřizují-li úřední desku, na svých internetových stránkách.
+Doručené dokumenty i dokumenty vytvořené určeným původcem se v den, kdy byly určenému původci doručeny nebo jím vytvořeny, opatří jednoznačným identifikátorem. Jednoznačným identifikátorem se neopatřují určenému původci doručené dokumenty obsahující chybný datový formát nebo počítačový program, které jsou způsobilé přivodit škodu na výpočetní technice určeného původce, a dokumenty nepodléhající evidenci, které určený původce uvede ve svém spisovém řádu. Jednoznačný identifikátor je označení dokumentu zajišťující jeho nezaměnitelnost. Jednoznačný identifikátor musí být s dokumentem spojen. Strukturu a podrobnosti vytváření a nakládání s jednoznačným identifikátorem stanoví prováděcí právní předpis.
+Určení původci evidují dokumenty opatřené jednoznačným identifikátorem v evidenční pomůcce. Záznam o dokumentu v evidenční pomůcce určení původci spojí s dokumentem jednoznačným identifikátorem.
+Určení původci vedou jako samostatnou funkční část evidenční pomůcky jmenný rejstřík určený pro automatické zpracovávání údajů o odesílatelích a adresátech dokumentů evidovaných v evidenční pomůcce a případně i o jiných osobách, jichž se dokumenty evidované v evidenční pomůcce týkají a u nichž původce shledal potřebu jejich vedení ve jmenném rejstříku.
+Určení původci vedou ve jmenném rejstříku o odesílateli dokumentu, adresátu dokumentu nebo jiné osobě, jíž se dokument týká a u níž určený původce shledal potřebu jejího vedení ve jmenném rejstříku, alespoň
+jméno, popřípadě jména, a příjmení, jde-li o fyzickou osobu,
+jméno, popřípadě jmena, a příjmení, popřípadě dodatek odlišující osobu podnikatele nebo druh podnikání vztahující se zpravidla k této osobě nebo druhu podnikání, jde-li o podnikající fyzickou osobu nezapsanou v obchodním rejstříku,
+obchodní firmu nebo název, jde-li o podnikající fyzickou osobu zapsanou v obchodním rejstříku nebo právnickou osobu,
+identifikační číslo osoby, pokud bylo přiděleno,
+identifikátor datové schránky, pokud byla zřízena,
+bezvýznamový identifikátor pro potřeby výkonu spisové služby,
+odkaz na dokument, jehož je osoba odesílatelem, adresátem nebo se jí jinak týká a u něhož určený původce shledal potřebu vedení odkazu, případně odkaz na spis, jehož je takový dokument součástí.
+Určení původci mohou vést ve jmenném rejstříku o odesílateli dokumentu nebo adresátu dokumentu, který je fyzickou osobou, a o jiné fyzické osobě, jíž se dokument týká a u níž určený původce shledal potřebu jejího vedení ve jmenném rejstříku, aniž by byl vyžadován jejich souhlas, údaje spadající do minimálního souboru osobních identifikačních údajů jedinečně identifikujících fyzickou nebo právnickou osobu podle přímo použitelného předpisu Evropské unie upravujícího rámec interoperability, nejde-li o údaje podle odstavce 5.
+Určený původce vymaže údaje o fyzické osobě vedené ve jmenném rejstříku nejpozději po uplynutí tří let ode dne předání dokumentů a spisů, ke kterým se údaje o fyzické osobě vztahovaly, archivu nebo jejich zničení.
+Nakládání s dokumenty označenými „NATO UNCLASSIFIED“ nebo „LIMITE“
+Dokument poskytnutý Organizací Severoatlantické smlouvy nebo Evropskou unií je v zájmu bezpečnosti státu, veřejné bezpečnosti nebo ochrany práv třetích osob chráněn uvedenými původci označením „NATO UNCLASSIFIED“ nebo „LIMITE“. V České republice je toto označení respektováno z důvodů plnění povinností vyplývajících pro Českou republiku z jejího členství v Organizaci Severoatlantické smlouvy nebo Evropské unii; s takovým dokumentem se může seznamovat osoba, která jej nezbytně potřebuje k výkonu své funkce, k pracovní nebo jiné obdobné činnosti. Jiné osobě může být takový dokument poskytnut se souhlasem původce a za jím stanovených podmínek.
+S dokumentem podle odstavce 1 se nakládá tak, aby se s ním neseznámila neoprávněná osoba.
+Orgán veřejné moci, právnická osoba nebo fyzická osoba nesmí označovat dokumenty u nich vzniklé textem „NATO UNCLASSIFIED“ nebo „LIMITE“.
+Vyřizování a podepisování dokumentů
+Při vyřizování dokumentů se všechny dokumenty týkající se téže věci spojí ve spis. Dokumenty v analogové podobě se vzájemně spojí fyzicky, dokumenty v digitální podobě se vzájemně spojí prostřednictvím metadat, vzájemné spojení dokumentu v analogové podobě a dokumentu v digitální podobě se činí pomocí odkazů.
+Vyřízením spisu se rozumí zpracování návrhu, jeho schválení, vyhotovení, podepsání a vypravení rozhodnutí nebo jiné formy vyřízení.
+Má-li být dokument vyvěšen na úřední desce, činí se tak vyvěšením jeho stejnopisu opatřeného datem vyvěšení. Po sejmutí se vyvěšený stejnopis opatří datem sejmutí a zařadí do příslušného spisu jako doklad o vyvěšení dokumentu na úřední desce. Ustanovení věty první a druhé se nevztahuje na zveřejňování dokumentů na elektronické úřední desce.
+Dokumenty určeného původce podepisuje jeho statutární orgán nebo jiná osoba oprávněná za něj jednat anebo osoba, která k tomu byla statutárním orgánem pověřena.
+Po vyřízení věci se spis uzavře. Uzavřením spisu se rozumí kompletace všech dokumentů patřících do spisu, kontrola a doplnění údajů podle § 66 odst. 3 před uložením do spisovny a převedení dokumentů v digitální podobě do výstupního datového formátu a jejich opatření metadaty podle národního standardu.
+Z uzavřeného spisu nesmějí být vyjímány jednotlivé dokumenty. Uzavřený spis je možno připojit k jinému spisu, pokud neuplynula jeho skartační lhůta.
+Použití razítek se státním znakem, elektronického podpisu, elektronické pečetě, elektronického časového razítka nebo jiného elektronického prostředku obdobného účelu upraví určený původce ve spisovém řádu.
+Veřejnoprávní původci mohou ve svých spisových řádech upravit používání zvláštních technologických prostředků, kterými lze výlučně pro potřeby příslušného původce nahradit elektronický podpis, elektronickou pečeť, elektronické časové razítko nebo jiný elektronický prostředek obdobného účelu; tyto zvláštní technologické prostředky musí umožnit zjištění jakékoli následné změny dat v dokumentu a jednoznačně ověřit identitu osoby, která je k němu připojila.
+Určení původci vydají spisový řád.
+Součástí spisového řádu je spisový a skartační plán. Spisový a skartační plán obsahuje seznam typů dokumentů roztříděných do věcných skupin s vyznačenými spisovými znaky, skartačními znaky a skartačními lhůtami. Určení původci zasílají spisový a skartační plán příslušnému archivu bezodkladně po jeho vydání nebo změně. Příslušný archiv spisový a skartační plán uloží.
+Určení původci označují dokumenty spisovými znaky, skartačními znaky a skartačními lhůtami podle spisového a skartačního plánu.
+Počátek plynutí skartační lhůty stanoví spouštěcí událost, kterou se rozumí vyřízení dokumentu nebo uzavření spisu. Pokud určený původce pro příslušný dokument nebo spis stanoví jinou skutečnost jako spouštěcí událost, připojí ke skartační lhůtě uvedené ve spisovém a skartačním plánu poznámku o této spouštěcí události.
+Délka skartační lhůty dokumentu může být nejvýše 100 let, nestanoví-li zvláštní právní předpis jinak.
+Strukturu a podrobnosti zpracování spisového a skartačního plánu stanoví prováděcí právní předpis.
+Odesílání dokumentů
+Do vlastních rukou adresáta odesílají určení původci dokumenty, u nichž je nutno, aby doručení bylo doloženo, nebo je-li to stanoveno zvláštními právními předpisy. Doklad stvrzující, že dokument byl doručen nebo že poštovní zásilka obsahující dokument byla dodána, včetně časového údaje, kdy se tak stalo, se po vrácení určeným původcům připojí k příslušnému dokumentu nebo vloží do příslušného spisu.
+Ukládání dokumentů
+Všechny vyřízené spisy a jiné dokumenty určeného původce jsou po dobu trvání skartační lhůty uloženy ve spisovně. Dokumenty mohou být uloženy též ve správním archivu, pokud jej určený původce zřídil. Dokumenty se ukládají podle spisového a skartačního plánu, a to zpravidla ihned po jejich vyřízení, pokud povaha věci nevyžaduje, aby zpracovatel měl vyřízený dokument déle; tato skutečnost se poznamenává v evidenční pomůcce podle § 64 odst. 3.
+Pro nahlížení do dokumentů uložených ve spisovně nebo ve správním archivu správního orgánu nebo soudu platí obecná ustanovení o nahlížení do spisů v řízení před správním orgánem nebo soudem; to neplatí, jestliže dokumenty před uložením ve spisovně nebo ve správním archivu byly veřejně přístupné. Nahlížení do dokumentů obsahujících utajované informace, poskytování jejich opisů, výpisů a kopií se řídí zvláštním právním předpisem.
+V případě zániku určeného původce převezme spisovnu nebo správní archiv jeho právní nástupce, zřizovatel nebo ten, na něhož přechází působnost zaniklého určeného původce; je-li právních nástupců více a nedojde-li mezi nimi k dohodě, rozhodne o převzetí spisovny nebo správního archivu příslušný správní úřad na úseku archivnictví a výkonu spisové služby dohlížející na provádění skartačního řízení. Určený původce informuje před svým zánikem příslušný archiv o opatřeních, která v souvislosti se zánikem učinil ve vztahu ke spisovně nebo správnímu archivu.
+Budova, v níž je umístěna spisovna nebo správní archiv, musí splňovat tyto podmínky:
+prostory pro ukládání dokumentů nesmí být ohroženy povodněmi,
+musí pro ni být zpracována požární dokumentace a musí být vybavena ručními hasicími přístroji; v prostorách pro ukládání dokumentů musí být umístěny pouze práškové hasicí přístroje,
+prostory pro ukládání dokumentů musí být zabezpečeny proti škodlivému působení přírodních vlivů a jevů vyvolaných činností člověka, a to zejména proti průniku vody, páry, dešťové a splaškové kanalizace, nebezpečných chemických a biologických látek nebo působení fyzikálních jevů a proti nadměrné prašnosti, které by mohly vést k poškození nebo zničení dokumentů,
+prostory pro ukládání dokumentů musí být vybaveny regály pro ukládání dokumentů,
+prostory pro ukládání dokumentů musí být zajištěny proti vstupu nepovolané osoby.
+Spisová rozluka
+Při zrušení určeného původce se provádí spisová rozluka. Před jejím zahájením zpracuje rušený určený původce plán provádění spisové rozluky včetně časového rozvrhu, který zašle příslušnému archivu.
+Spisovou rozluku připravuje a provádí před datem svého zrušení rušený určený původce, dokončuje ji právní nástupce rušeného určeného původce, a není-li ho, zakladatel, zřizovatel nebo likvidátor.
+Vyřízené dokumenty a uzavřené spisy, jimž uplynula skartační lhůta, zařadí rušený určený původce do skartačního řízení.
+Vyřízené dokumenty a uzavřené spisy, jimž neuplynula skartační lhůta, se uloží do spisovny nebo správního archivu určeného původce, který je právním nástupcem zrušeného určeného původce, zřizovatele, zakladatele nebo původce, na něhož přechází působnost zaniklého určeného původce. Je-li právních nástupců více a nedojde-li mezi nimi k dohodě, rozhodne o převzetí spisovny nebo správního archivu příslušný správní úřad na úseku archivnictví a výkonu spisové služby dohlížející na provádění skartačního řízení. Předávané spisy a dokumenty se zapíší do předávacího seznamu.
+Nevyřízené dokumenty a neuzavřené spisy předá rušený určený původce tomu, na koho přešla působnost k jejich vyřízení. Rušený určený původce zapíše předávané dokumenty a spisy do předávacího seznamu. Ten, na koho přešla působnost k vyřízení takto zapsaných dokumentů a spisů, je převezme a zaeviduje podle § 64.
+Určení původci stanoví postup při provádění spisové rozluky ve svých spisových řádech.
+Ustanovení odstavců 1 až 6 se pro zrušení organizačních součástí určených původců, při změně působnosti určených původců nebo jejich organizačních součástí a při změně vlastníka nebo držitele dokumentu použijí přiměřeně.
+Pokud zvláštní právní předpis stanoví, že se při zrušení organizační součásti určeného původce, při změně působnosti určeného původce nebo jeho organizační součásti anebo při změně vlastníka nebo držitele dokumentu dokumenty předají jiné osobě, než která je uvedena v odstavci 2, určený původce uvede tuto skutečnost v plánu provádění spisové rozluky, a to včetně jednoznačné identifikace této osoby.
+Ministerstva a další ústřední správní úřady zřizují správní archiv. Jeho zřízení oznamují ministerstvu.
+Určení původci neuvedení v odstavci 1 mohou zřídit správní archiv se souhlasem ministerstva.
+Správní archiv, s výjimkou správních archivů zřízených zřizovateli uvedenými v § 50 a v § 51 odst. 1,
+dohlíží na výkon spisové služby u svého zřizovatele,
+přebírá dokumenty od zrušených původců v řídící působnosti svého zřizovatele a plní úkoly těchto původců při výběru archiválií,
+přejímá ze spisovny dokumenty se skartačními lhůtami delšími než 5 let, eviduje je, pečuje o ně, umožňuje nahlížení do nich a poskytování opisů, výpisů a kopií,
+připravuje výběr archiválií ve skartačním řízení.
+Určení původci, kteří zřídili správní archiv, stanoví ve svých spisových řádech lhůtu, po niž budou dokumenty uloženy ve spisovně. Po uplynutí této lhůty se dokumenty, jejichž skartační lhůta je delší než lhůta pro uložení dokumentů ve spisovně, předají do správního archivu.
+Zvláštní ustanovení o dokumentech v digitální podobě
+Převádění dokumentu v analogové podobě na dokument v digitální podobě a naopak a změnu datového formátu dokumentu v digitální podobě provádí určený původce postupem zaručujícím věrohodnost původu dokumentu, neporušitelnost obsahu, čitelnost dokumentu a bezpečnost procesu převádění nebo změny datového formátu.
+Připojení údajů, které vznikly při přípravě dokumentu k uchování podle § 3 odst. 5 nebo při převedení či změně datového formátu dokumentu podle odstavce 1 a které jsou pro uchování dokumentu nebo převedení nebo změnu datového formátu dokumentu nezbytné, se nepovažuje za nezajištění neporušitelnosti obsahu dokumentu.
+Před převedením dokumentu v digitální podobě na dokument v analogové podobě nebo změnou datového formátu dokumentu v digitální podobě ověří určený původce platnost elektronického podpisu, elektronické pečetě nebo elektronického časového razítka, je-li jimi dokument v digitální podobě opatřen, a platnost certifikátů, jsou-li na nich založeny. Údaje o výsledku ověření a datum převedení dokumentu v digitální podobě na dokument v analogové podobě nebo datum změny datového formátu dokumentu v digitální podobě určený původce zaznamená a uchová je spolu s dokumentem vzniklým převedením nebo změnou datového formátu.
+Dokument vzniklý převedením nebo změnou datového formátu opatří určený původce doložkou. Doložku dokumentu v analogové podobě podepíše osoba odpovědná za převedení dokumentu. Doložku dokumentu v digitální podobě podepíše osoba odpovědná za převedení nebo změnu datového formátu kvalifikovaným elektronickým podpisem nebo určený původce zapečetí kvalifikovanou elektronickou pečetí a dále doložku opatří kvalifikovaným elektronickým časovým razítkem. Takový dokument má stejné právní účinky jako ověřená kopie dokumentu, jehož převedením nebo změnou datového formátu vznikl. Údaje týkající se převedení nebo změny datového formátu stanoví prováděcí právní předpis.
+Atestace
+Atestaci provádí atestační středisko.
+Atestačním střediskem je
+osoba nebo jiné právní uspořádání určení podle odstavce 3,
+ministerstvo, nejsou-li žádná osoba nebo jiné právní uspořádání určení podle odstavce 3.
+Ministerstvo může určit atestačním střediskem osobu nebo jiné právní uspořádání,
+jejichž zřizovatelem nebo zakladatelem je stát,
+u nichž lze předpokládat, že mají odbornou a technickou způsobilost k provádění atestace,
+které se samy nezúčastní hospodářské soutěže v oblasti elektronických systémů spisových služeb a nemají žádný zájem na výsledku atestace.
+Nevykonává-li ministerstvo vůči osobě nebo jinému právnímu uspořádání úkoly zřizovatele nebo zakladatele, může je určit atestačním střediskem pouze v dohodě s ústředním správním úřadem, který vůči nim vykonává úkoly zřizovatele nebo zakladatele.
+Určení atestačním střediskem nelze převést na jinou osobu nebo jiné právní uspořádání.
+Atestační středisko provede atestaci na základě objednávky a postupem, za podmínek a za úplatu stanovených ministerstvem.
+Atestační středisko provede atestaci do 3 měsíců ode dne objednání atestu. Není-li možné provést atestaci v této lhůtě, atestační středisko o tom ještě před uplynutím lhůty vyrozumí toho, kdo atestaci objednal, a sdělí mu, do kdy bude atestace provedena.
+Splňuje-li elektronický systém spisové služby požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu, vydá atestační středisko tomu, kdo atestaci objednal, písemný atest. Atestační středisko současně zveřejní atest na svých internetových stránkách a zašle jej ministerstvu, které oznámí jeho vydání ve Věstníku ministerstva.
+Nesplňuje-li elektronický systém spisové služby požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu, vyrozumí o tom atestační středisko toho, kdo atestaci objednal, a ministerstvo a sdělí jim důvody nesplnění požadavků.
+Atest platí 2 roky ode dne jeho vydání.
+Změní-li se v průběhu platnosti atestu požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 nebo národního standardu, atest nadále platí, nejvýše však po dobu 1 roku ode dne nabytí účinnosti změny požadavků. Atestační středisko zneplatní po uplynutí doby podle věty první atest, zveřejní informaci o zneplatnění atestu na svých internetových stránkách a zašle ji ministerstvu, které ji zveřejní ve Věstníku ministerstva, a tomu, kdo atestaci objednal.
+Má-li ministerstvo důvodné pochybnosti, zda elektronický systém spisové služby splňuje v době platnosti atestu požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu, a nejde-li o situaci podle odstavce 2, uloží atestačnímu středisku provést na náklady atestačního střediska revizi atestu. Na revizi atestu se použijí ustanovení tohoto zákona o postupu, podmínkách a lhůtách provedení atestace obdobně.
+Splňuje-li elektronický systém spisové služby nadále požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu, atestační středisko o této skutečnosti vyrozumí ministerstvo.
+Nesplňuje-li již elektronický systém spisové služby požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu, atestační středisko vyrozumí ministerstvo a toho, kdo atestaci objednal, o této skutečnosti a sdělí jim důvody nesplnění požadavků. Atestační středisko současně zneplatní atest, zveřejní informaci o zneplatnění atestu na svých internetových stránkách a zašle ji ministerstvu, které ji zveřejní ve Věstníku ministerstva, a tomu, kdo atestaci objednal.
+Veřejnoprávní původce může vykonávat spisovou službu v elektronické podobě v elektronickém systému spisové služby, u kterého bylo revizí atestu zjištěno, že nesplňuje požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu, nejvýše 1 rok ode dne zveřejnění informace o zneplatnění atestu ve Věstníku ministerstva.
+Zakazuje se nabízet nebo dodávat veřejnoprávním původcům elektronický systém spisové služby, který nesplňuje požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu a u kterého není splnění těchto požadavků potvrzeno atestem.
+Prováděcí právní předpis stanoví podrobnosti výkonu spisové služby, a to
+příjem dokumentů,
+označování a evidenci dokumentů,
+vedení jmenných rejstříků a využívání údajů v nich vedených,
+rozdělování dokumentů,
+oběh dokumentů,
+vyřizování dokumentů,
+vyhotovování dokumentů,
+podepisování dokumentů a užívání razítek,
+odesílání dokumentů,
+ukládání dokumentů,
+podrobnosti zpracování a strukturu spisového a skartačního plánu,
+vyřazování dokumentů,
+výstupní datové formáty dokumentů v digitální podobě,
+spisovou rozluku,
+strukturu údajů záznamu o výsledku ověření elektronického podpisu, elektronické pečetě nebo elektronického časového razítka,
+údaje týkající se převedení nebo změny datového formátu dokumentu obsažené v doložce podle § 69a odst. 4.
+Národní standard, který ministerstvo zveřejní ve Věstníku ministerstva a způsobem umožňujícím dálkový přístup, stanoví požadavky na elektronické systémy spisové služby, a to
+příjem dokumentů,
+označování a evidenci dokumentů,
+vyhledávání, odesílání a zobrazování dokumentů,
+ukládání dokumentů,
+vyřazování dokumentů a výběr archiválií,
+dokumentace životního cyklu elektronického systému spisové služby,
+spisový a skartační plán,
+transakční protokol,
+správcovské funkce,
+metadata.
+Ministerstvo zveřejní ve Věstníku ministerstva a způsobem umožňujícím dálkový přístup vzorový provozní řád digitálního archivu.
+KONTROLA VE VĚCECH ARCHIVNICTVÍ A SPISOVÉ SLUŽBY
+Kontrolu dodržování povinností na úseku archivnictví a výkonu spisové služby vykonávají
+ministerstvo u veřejnoprávních původců a archivů s výjimkou zpravodajských služeb České republiky a jimi zřízených archivů,
+Národní archiv u
+organizačních složek státu s celostátní působností s výjimkou těch, u kterých tuto působnost vykonává Archiv bezpečnostních složek, a u archivů zřízených těmito organizačními složkami státu,
+státních příspěvkových organizací zřízených zákonem a státních příspěvkových organizací zřízených organizační složkou státu s celostátní působností a u archivů zřízených těmito státními příspěvkovými organizacemi,
+veřejných výzkumných institucí zřízených organizační složkou státu s celostátní působností a u archivů zřízených těmito veřejnými výzkumnými institucemi,
+právnických osob s celostátní působností zřízených zákonem a u archivů zřízených těmito právnickými osobami,
+kulturně vědeckých institucí, pokud mají ve své péči archiválie, které vede v druhotné evidenci Národního kulturního dědictví Národní archiv,
+vlastníků a držitelů archiválií uložených mimo archiv, které vede v základní evidenci Národní archiv,
+soukromých archivů zřízených subjektem uvedeným v § 46 odst. 1 písm. c),
+státní oblastní archiv podle své územní působnosti u
+organizačních složek státu s jinou než celostátní působností a u archivů zřízených těmito organizačními složkami státu,
+státních příspěvkových organizací zřízených organizační složkou státu s jinou než celostátní působností a u archivů zřízených těmito státními příspěvkovými organizacemi,
+státních podniků a u archivů zřízených státními podniky,
+právnických osob zřízených zákonem s jinou než celostátní působností a u archivů zřízených těmito právnickými osobami,
+územních samosprávných celků a u archivů zřízených územními samosprávnými celky,
+organizačních složek územních samosprávných celků,
+právnických osob zřízených nebo založených územním samosprávným celkem,
+vysokých škol a u archivů zřízených vysokými školami,
+škol a u archivů zřízených školami,
+zdravotních pojišťoven a u archivů zřízených zdravotními pojišťovnami,
+veřejných výzkumných institucí s výjimkou těch zřízených organizační složkou státu s celostátní působností a u archivů zřízených těmito veřejnými výzkumnými institucemi,
+kulturně vědeckých institucí, pokud mají ve své péči archiválie, které vede v druhotné evidenci Národního kulturního dědictví státní oblastní archiv,
+vlastníků a držitelů archiválií uložených mimo archiv, které vede v základní evidenci státní oblastní archiv,
+soukromých archivů s výjimkou těch, u kterých tuto působnost vykonává Národní archiv,
+podnikatelů, kterým byla udělena koncese k vedení spisovny.
+Rozhodne-li ministerstvo o změně příslušnosti archivu podle § 44 písm. q), kontrolu dodržování povinností na úseku archivnictví a výkonu spisové služby vykonává u původce, jehož se změna příslušnosti archivu týká, nebo organizační součásti původce, jíž se změna příslušnosti archivu týká, archiv určený v rozhodnutí.
+Ministerstvo kontroluje bezpečnostní archivy pouze na základě výročních zpráv o činnosti.
+Kontrolu vykonává zaměstnanec ministerstva, Národního archivu, Archivu bezpečnostních složek nebo státního oblastního archivu, kterého k provedení kontroly písemně pověří ředitel věcně příslušného útvaru ministerstva nebo ředitel archivu (dále jen „kontrolující“).
+Kontrolující je na základě provedené kontroly oprávněn rozhodnutím
+zakázat činnosti, které by mohly způsobit poškození nebo zničení dokumentů nebo archiválií, nebo
+uložit příslušná opatření k odstranění zjištěných nedostatků a k jejich nápravě.
+Proti rozhodnutí vydanému podle odstavce 2 se lze odvolat. Odvolání proti rozhodnutí nemá odkladný účinek.
+Na kontrolu prováděnou podle § 71 odst. 3 se odstavce 1 až 3 nepoužijí.
+PŘESTUPKY
+Přestupky fyzických osob
+Fyzická osoba se dopustí přestupku tím, že
+poškodí nebo zničí archiválii nebo dokument,
+nevrátí vypůjčenou archiválii, nebo
+vyveze archiválii bez povolení podle § 29 odst. 1.
+Fyzická osoba se jako zaměstnanec správního úřadu na úseku archivnictví a výkonu spisové služby, zaměstnanec archivu nebo zaměstnanec zřizovatele archivu dopustí přestupku tím, že poruší povinnost zachovávat mlčenlivost podle § 14.
+Fyzická osoba se jako vlastník archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části, o nichž bylo zahájeno řízení o prohlášení za archivní kulturní památku, dopustí přestupku tím, že v rozporu s § 21 odst. 5 neoznámí zamýšlenou změnu jejich umístění nebo zamýšlený převod nebo přechod vlastnického práva.
+Fyzická osoba se jako vlastník nebo držitel archiválie dopustí přestupku tím, že
+nepečuje o archiválii podle § 25 odst. 1 písm. a),
+v rozporu s § 25 odst. 1 písm. c) neoznámí převod vlastnického práva k archiválii nebo uzavření smlouvy o její úschově,
+v rozporu s § 29 odst. 3 nedoveze archiválii nepoškozenou zpět na území České republiky,
+v rozporu s § 30 odst. 1 nepořídí na vlastní náklady bezpečnostní kopii archiválie prohlášené za archivní kulturní památku nebo za národní kulturní památku, nebo
+nezajistí konzervaci nebo restaurování poškozené nebo ohrožené archivní kulturní památky nebo národní kulturní památky podle § 30 odst. 5.
+Fyzická osoba se jako vlastník nebo držitel archiválie v analogové podobě, která je uložena mimo archiv a kterou vede v základní evidenci Národního archivního dědictví příslušný archiv podle své působnosti, dopustí přestupku tím, že nepředá archivům údaje podle § 25 odst. 2.
+Fyzická osoba se jako vlastník archiválie dopustí přestupku tím, že nenabídne archiválii přednostně ke koupi podle § 28 odst. 1 a 2.
+Za přestupek lze uložit pokutu do
+400 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo odstavce 4 písm. d),
+100 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo c) nebo odstavce 4 písm. c); pokud je zničená, poškozená, neoprávněně vyvezená anebo nedovezená archiválie
+předmětem řízení o prohlášení za archivní kulturní památku nebo za národní kulturní památku, lze uložit pokutu do 200 000 Kč,
+archivní kulturní památkou, lze uložit pokutu do 500 000 Kč,
+národní kulturní památkou, lze uložit pokutu do 1 000 000 Kč,
+50 000 Kč, jde-li o přestupek podle odstavce 2, 3, odstavce 4 písm. a) nebo e) nebo odstavce 6,
+5 000 Kč, jde-li o přestupek podle odstavce 4 písm. b) nebo odstavce 5.
+Přestupky právnických a podnikajících fyzických osob
+Právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že
+poškodí nebo zničí archiválii nebo dokument,
+nevrátí vypůjčenou archiválii, nebo
+vyveze archiválii bez povolení podle § 29 odst. 1.
+Právnická nebo podnikající fyzická osoba se jako vlastník archiválie, archivní sbírky, archivního fondu nebo jejich ucelené části, o nichž bylo zahájeno řízení o prohlášení za archivní kulturní památku, dopustí přestupku tím, že v rozporu s § 21 odst. 5 neoznámí zamýšlenou změnu jejich umístění nebo zamýšlený převod nebo přechod vlastnického práva.
+Právnická osoba se jako vlastník nebo držitel archiválie dopustí přestupku tím, že
+nepečuje o archiválii podle § 25 odst. 1 písm. a),
+v rozporu s § 25 odst. 1 písm. c) neoznámí převod vlastnického práva k archiválii nebo uzavření smlouvy o její úschově,
+v rozporu s § 29 odst. 3 nedoveze archiválii nepoškozenou zpět na území České republiky,
+v rozporu s § 30 odst. 1 nepořídí na vlastní náklady bezpečnostní kopii archiválie prohlášené za archivní kulturní památku nebo za národní kulturní památku, nebo
+nezajistí konzervaci nebo restaurování poškozené nebo ohrožené archivní kulturní památky nebo národní kulturní památky podle § 30 odst. 5.
+Právnická nebo podnikající fyzická osoba se jako vlastník nebo držitel archiválie v analogové podobě, která je uložena mimo archiv a kterou vede v základní evidenci Národního archivního dědictví příslušný archiv podle své působnosti, dopustí přestupku tím, že nepředá archivům údaje podle § 25 odst. 2.
+Právnická nebo podnikající fyzická osoba se jako vlastník archiválie dopustí přestupku tím, že nenabídne archiválii přednostně ke koupi podle § 28 odst. 1 a 2.
+Veřejnoprávní původce anebo právnická nebo podnikající fyzická osoba jako soukromoprávní původce se dopustí přestupku tím, že v rozporu s § 3 neuchová dokument nebo neumožní výběr archiválie.
+Právnická osoba nebo podnikající fyzická osoba jako soukromoprávní původce nebo jako právní nástupce veřejnoprávního anebo soukromoprávního původce se dopustí přestupku tím, že v rozporu s § 3 odst. 3 neuchová dokument nebo neumožní výběr archiválie, jde-li o dokumenty, ke kterým měl povinnost uchovávat dokumenty a umožnit výběr archiválií již původce, jehož je tato právnická osoba nebo podnikající fyzická osoba právním nástupcem.
+Právnická nebo fyzická osoba se jako podnikatel, kterému byla udělena koncese k vedení spisovny, dopustí přestupku tím, že v rozporu s § 3 odst. 4 neuchová dokument nebo neumožní výběr archiválie.
+Určený původce nebo původce uvedený v § 63 odst. 2 se dopustí přestupku tím, že
+v rozporu s § 63 nevykonává spisovou službu,
+v rozporu s § 66 odst. 1 nevydá spisový řád nebo spisový a skartační plán, anebo v rozporu s § 66 odst. 2 neoznačuje dokumenty podle skartačního řádu a spisového a skartačního plánu spisovými znaky, skartačními znaky a skartačními lhůtami,
+nedodrží podmínky pro ukládání dokumentů podle § 68, nebo
+v rozporu s § 68 odst. 1 neukládá dokumenty podle spisového a skartačního plánu.
+Původce nebo jeho právní nástupce se dopustí přestupku tím, že neprovede skartační řízení nebo neumožní dohled na provádění skartačního řízení a výběr archiválií ve skartačním řízení.
+Právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že v rozporu s § 69e nabízí nebo dodává veřejnoprávnímu původci elektronický systém spisové služby, který nesplňuje požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu a u kterého není splnění těchto požadavků potvrzeno atestem.
+Za přestupek lze uložit pokutu do
+1 000 000 Kč, jde-li o přestupek podle odstavce 11,
+400 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo odstavce 3 písm. d),
+200 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), odstavce 6, 7, 8, 9 nebo 10,
+100 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo odstavce 3 písm. c); pokud je neoprávněně vyvezená anebo nedovezená archiválie
+předmětem řízení o prohlášení za archivní kulturní památku nebo za národní kulturní památku, lze uložit pokutu do 200 000 Kč,
+archivní kulturní památkou, lze uložit pokutu do 500 000 Kč,
+národní kulturní památkou, lze uložit pokutu do 1 000 000 Kč,
+50 000 Kč, jde-li o přestupek podle odstavce 2, odstavce 3 písm. a) nebo e) nebo odstavce 5,
+5 000 Kč, jde-li o přestupek podle odstavce 3 písm. b) nebo odstavce 4.
+Přestupky podle tohoto zákona projednává Národní archiv, Archiv bezpečnostních složek nebo státní oblastní archiv v rozsahu své působnosti stanovené v tomto zákoně.
+SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+Společná ustanovení
+Na rozhodování podle § 14 odst. 1, podle § 38 odst. 1 a podle § 40 odst. 2 se správní řád nevztahuje.
+Na evidenci archiválií se nevztahují ustanovení o evidenci majetku podle zákona o účetnictví.
+Archiv je povinen plnit úkoly stanovené správci osobních údajů podle zvláštního právního předpisu.
+Zpracování osobních údajů pro účely archivnictví, včetně podmínek pro nahlížení do archiválií a pořizování jejich opisů, výpisů a kopií se v případech neupravených tímto zákonem řídí zvláštním právním předpisem.
+Archiv není povinen ověřovat, zda údaje obsažené v archiváliích a v metadatech archiválií v digitální podobě náležejících do jeho péče jsou přesné či pravdivé.
+Právo subjektu údajů na přístup k osobním údajům obsaženým v archiváliích podle čl. 15 a v jemu odpovídajícím rozsahu čl. 5 přímo použitelného předpisu Evropské unie upravujícího ochranu osobních údajů se vykonává pouze nahlížením do archiválií podle tohoto zákona.
+Ustanovení čl. 16 a čl. 18 až 21 a v jim odpovídajícím rozsahu čl. 5 přímo použitelného předpisu Evropské unie upravujícího ochranu osobních údajů se na zpracování osobních údajů pro účely archivnictví nepoužijí.
+Ustanovení § 26 odst. 1 a 2, § 27 odst. 1 a 2, § 29 a 32 se nepoužijí pro úkony prováděné podle tohoto zákona s archiváliemi v digitální podobě.
+Práva a povinnosti zřizovatele archivu vykonávají v případě archivu, který je právnickou osobou, Národního archivu, státního oblastního archivu a Archivu bezpečnostních složek tyto archivy.
+Ustanovení § 3 až 13, § 15, 16, 46, 49, 50, 53, 57a, 64, § 66 až 68a, § 69, 70, § 72 až 74, § 79 a příloha č. 2 týkající se dokumentu se použijí na spis obdobně, ledaže to vylučuje jeho povaha.
+Dokumenty vzniklé z činnosti obchodních společností, družstev s výjimkou družstev bytových a notářů, které jsou tito za podmínek stanovených tímto zákonem povinni uchovávat a umožnit z nich výběr archiválií
+Dokumenty vzniklé z činnosti obchodních společností a družstev s výjimkou družstev bytových
+Dokumenty o vzniku, přeměně a zániku původce
+zakladatelské dokumenty,
+statuty, stanovy, jednací řády, organizační řády a schémata,
+dokumenty o přeměnách právnických osob,
+dokumentace o zrušení a zániku.
+Dokumenty o řízení původce
+protokoly a zápisy z jednání statutárního orgánu a dozorčího orgánu, zprávy dozorčího orgánu, zápisy z valných hromad s přílohami,
+výroční zprávy,
+zprávy o auditu.
+Dokumenty o majetku původce
+mimořádné inventarizace majetku při vzniku, dělení nebo likvidaci obchodních společností a družstev s výjimkou družstev bytových,
+smlouvy o převodu vlastnického práva k nemovitostem a listiny osvědčující přechod vlastnického práva k nemovitostem,
+dokumentace zápisu a certifikace ochranných známek.
+Finanční dokumenty
+účetní závěrky.
+Dokumenty vztahující se k předmětu podnikání původce
+podnikatelské záměry, vývojové studie,
+dokumentace výrobků (finální výkresy sestavení či sestav, prospekty, katalogy, vzorkovnice).
+Dokumenty vzniklé z činnosti notářů
+Vlastní dokumenty
+notářské zápisy.
+Knihy, rejstříky a ostatní evidenční pomůcky podle kancelářského řádu Notářské komory České republiky
+seznam závětí,
+seznam listin o správě dědictví,
+rejstřík vedený zejména pro zápis žádostí o
+úkony v notářské činnosti podle § 2 notářského řádu (s výjimkou legalizace a vidimace podle § 73 a 74 notářského řádu),
+právní pomoc poskytovanou notářem v rámci další činnosti podle § 3 odst. 1 notářského řádu,
+úkony další činnosti notáře podle § 3 odst. 2 a 3 notářského řádu, pokud nejsou zapisovány do jiného rejstříku vedeného notářem,
+rejstřík evidence dědických spisů, které příslušný soud předložil notáři jako soudnímu komisaři k vyřízení a provedení úkonů v dědickém řízení,
+kniha notářských úschov,
+kniha protestů.
+Dokumenty, které budou podle obsahu vždy předloženy k výběru za archiválie
+Zápisy ze zasedání orgánů zákonodárné, vládní a výkonné moci a orgánů územní samosprávy na všech stupních
+Zakládací listiny, statuty, organizační řády a další dokumenty o organizační struktuře, vedení, správě, řízení, kontrole, činnosti a jejich výsledcích
+orgánů zákonodárné, vládní a výkonné moci a orgánů územní samosprávy na všech stupních,
+justičních složek všech stupňů i druhů, notářství, státních zastupitelství a jejich předchůdců,
+státních příspěvkových organizací a příspěvkových organizací obcí a krajů, hospodářských, rozpočtových a ostatních státních organizací řízených, popřípadě spravovaných státními orgány nebo národními výbory, a předchůdců těchto organizací,
+obchodních organizací založených anebo ovládaných ústředními a jim podřízenými orgány státní správy, orgány územní samosprávy a jejich předchůdců,
+družstevních organizací, jejich zařízení a předchůdců,
+všech součástí a zařízení ozbrojených sil a bezpečnostních složek,
+politických stran, politických hnutí, spolků, ústavů, odborových organizací a organizací zaměstnavatelů,
+Mezinárodní smluvní dokumenty prezidentské, vládní a resortní úrovně
+Dokumenty geodetické a kartografické, katastry nemovitostí
+Dokumentace významných staveb
+Kroniky
+Matriky narozených, oddaných, registrovaných partnerů, zemřelých, vojenské, studentů, členů komor a spolků, sbírky matričních listin, dokumenty o nabývání a pozbývání státního občanství
+Roční rozpočty, závěrečné účty, roční účetní závěrky
+Historické sčítací archy obyvatelstva
+Soudní rozsudky pro politické delikty, pro zločiny proti lidskosti, pro omezování lidských práv a svobod, pro závažné trestné činy proti životu, zdraví a majetku občanů
+Osobní spisy významných osobností politického, hospodářského, vědeckého, technického, kulturního, náboženského, církevního a sportovního života
+Rukopisy významných literárních děl
+Podací deníky, rejstříky k nim, elenchy, kmenové listy, globální archy a další typy základních evidenčních pomůcek spisové služby
+Transakční protokol
+Privatizační projekty
+Rehabilitační spisy
+Třídní výkazy, katalogy, katalogové listy, protokoly o závěrečných zkouškách, protokoly o maturitních zkouškách vydané základními a středními školami a protokoly o státních závěrečných zkouškách na vysokých školách
+Dokumenty vzniklé z činnosti bezpečnostních složek v období komunistického totalitního režimu
+Originální negativy, duplikační kopie a duplikační negativy hraných, dokumentárních a animovaných filmů
+Dokumenty, které obsahují zásadní informace o
+životních poměrech obyvatelstva v dobových státoprávních a ekonomických podmínkách,
+strategiích, koncepcích a plánování rozvoje hospodářství včetně důležitých účetních a statistických výkazů a přehledů,
+měnové politice,
+majetkoprávních poměrech a jejich změnách, o konfiskacích a restitucích majetku,
+právní úpravě mezinárodních vztahů,
+tvorbě právních předpisů včetně jejich nerealizovaných návrhů,
+státních hranicích, územním členění státu, hranicích správních obvodů, symbolech státu a územních samosprávných celků, místních názvech a jejich změnách, o slučování a dělení obcí,
+vývoji a stavu zdravotnictví, sociální péče a pomoci v hmotné nouzi a úrovně bydlení,
+vývoji a stavu vědy a techniky,
+vývoji a stavu školství, kultury a umění, tělesné výchovy a sportu,
+vývoji a stavu dopravy a spojů,
+územním plánování,
+zásadních změnách a opatřeních v ochraně životního prostředí,
+geologických a půdních průzkumech,
+technickém rozvoji včetně patentů na významné vynálezy,
+kulturních památkách a jejich údržbě, rekonstrukci a ochraně,
+životě a díle významných osobností,
+volebních výsledcích a výsledcích referend,
+členství v mezinárodních organizacích.
+Vnitřní organizační jednotky státních oblastních archivů tvoří u
+Státního oblastního archivu v Praze
+Státní okresní archiv Benešov,
+Státní okresní archiv Beroun,
+Státní okresní archiv Kladno,
+Státní okresní archiv Kolín,
+Státní okresní archiv Kutná Hora,
+Státní okresní archiv Nymburk se sídlem v Lysé nad Labem,
+Státní okresní archiv Mělník,
+Státní okresní archiv Mladá Boleslav,
+Státní okresní archiv Praha-venkov se sídlem v Dobřichovicích,
+Státní okresní archiv Příbram,
+Státní okresní archiv Rakovník,
+Státního oblastního archivu v Třeboni
+Státní okresní archiv České Budějovice,
+Státní okresní archiv Český Krumlov,
+Státní okresní archiv Jindřichův Hradec,
+Státní okresní archiv Písek,
+Státní okresní archiv Prachatice,
+Státní okresní archiv Strakonice,
+Státní okresní archiv Tábor,
+Státního oblastního archivu v Plzni
+Státní okresní archiv Domažlice se sídlem v Horšovském Týně,
+Státní okresní archiv Cheb,
+Státní okresní archiv Karlovy Vary,
+Státní okresní archiv Klatovy,
+Státní okresní archiv Plzeň-jih se sídlem v Blovicích,
+Státní okresní archiv Plzeň-sever se sídlem v Plasích,
+Státní okresní archiv Rokycany,
+Státní okresní archiv Sokolov se sídlem v Jindřichovicích,
+Státní okresní archiv Tachov,
+Státního oblastního archivu v Litoměřicích
+Státní okresní archiv Česká Lípa,
+Státní okresní archiv Děčín,
+Státní okresní archiv Chomutov se sídlem v Kadani,
+Státní okresní archiv Jablonec nad Nisou,
+Státní okresní archiv Liberec,
+Státní okresní archiv Litoměřice se sídlem v Lovosicích,
+Státní okresní archiv Louny,
+Státní okresní archiv Most,
+Státní okresní archiv Semily,
+Státní okresní archiv Teplice,
+Státního oblastního archivu v Hradci Králové
+Státní okresní archiv Hradec Králové,
+Státní okresní archiv Chrudim,
+Státní okresní archiv Jičín,
+Státní okresní archiv Náchod,
+Státní okresní archiv Pardubice,
+Státní okresní archiv Rychnov nad Kněžnou,
+Státní okresní archiv Svitavy se sídlem v Litomyšli,
+Státní okresní archiv Trutnov,
+Státní okresní archiv Ústí nad Orlicí,
+Moravského zemského archivu v Brně
+Státní okresní archiv Blansko,
+Státní okresní archiv Brno-venkov se sídlem v Rajhradě,
+Státní okresní archiv Břeclav se sídlem v Mikulově,
+Státní okresní archiv Havlíčkův Brod,
+Státní okresní archiv Hodonín,
+Státní okresní archiv Jihlava,
+Státní okresní archiv Kroměříž,
+Státní okresní archiv Pelhřimov,
+Státní okresní archiv Třebíč,
+Státní okresní archiv Uherské Hradiště,
+Státní okresní archiv Vsetín,
+Státní okresní archiv Vyškov se sídlem ve Slavkově u Brna,
+Státní okresní archiv Zlín,
+Státní okresní archiv Znojmo,
+Státní okresní archiv Žďár nad Sázavou,
+Zemského archivu v Opavě
+Státní okresní archiv Bruntál se sídlem v Krnově,
+Státní okresní archiv Frýdek-Místek,
+Státní okresní archiv Jeseník,
+Státní okresní archiv Karviná,
+Státní okresní archiv Nový Jičín,
+Státní okresní archiv Olomouc,
+Státní okresní archiv Opava,
+Státní okresní archiv Prostějov,
+Státní okresní archiv Přerov,
+Státní okresní archiv Šumperk.

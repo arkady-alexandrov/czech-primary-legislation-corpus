@@ -1,0 +1,56 @@
+Předmět úpravy
+Tento zákon upravuje některá opatření v oblasti splácení úvěrů v souvislosti s pandemií COVID-19.
+Vymezení některých pojmů
+Pro účely tohoto zákona se rozumí
+úvěrem odložená platba, peněžitá zápůjčka, úvěr nebo obdobná finanční služba,
+úvěrovaným spotřebitel nebo podnikatel, kterému byl poskytnut úvěr nebo na kterého přešel nebo který převzal dluh z takto poskytnutého úvěru,
+úvěrujícím ten, kdo jako podnikatel poskytl úvěr úvěrovanému nebo kdo nabyl pohledávku z takto poskytnutého úvěru.
+Působnost
+Tento zákon se použije na úvěr sjednaný a čerpaný před 26. březnem 2020.
+Tento zákon se dále použije na úvěr sjednaný před 26. březnem 2020, jde-li o úvěr
+zajištěný nemovitou věcí nebo věcným právem k nemovité věci,
+účelově určený k
+nabytí, vypořádání nebo zachování práv k nemovité věci nebo součásti nemovité věci,
+výstavbě nemovité věci nebo součásti nemovité věci,
+úhradě za převod družstevního podílu v bytovém družstvu nebo nabytí účasti v jiné právnické osobě za účelem získání práva užívání bytu nebo rodinného domu,
+změně stavby podle stavebního zákona nebo jejímu připojení k veřejným sítím,
+úhradě nákladů spojených se získáním úvěru poskytnutého k některému z účelů uvedených v bodech 1 až 4, nebo
+splacení úvěru poskytnutého k některému z účelů uvedených v bodech 1 až 6, nebo
+poskytnutý stavební spořitelnou podle zákona upravujícího stavební spoření.
+Tento zákon se nepoužije na
+úvěr, u kterého byl úvěrovaný k 26. březnu 2020 v prodlení delším než 30 dnů s plněním peněžitého dluhu,
+úvěr, u kterého je úvěrovaným penzijní společnost nebo regulovaná osoba podle zákona upravujícího doplňkový dohled ve finančních konglomerátech,
+úvěr určený k obchodu s investičním nástrojem,
+investiční nástroj, závazek, jehož předmětem je investiční nástroj, nebo závazek, z něhož vzniká pohledávka finančního charakteru podle zákona o finančním zajištění, která je zajištěna finančním zajištěním,
+úvěrový rámec, který lze po částečném nebo úplném splacení opakovaně čerpat,
+odloženou platbu, pokud toto odložení není zpoplatněno a délka odložení není v rozporu s běžnou obchodní praxí,
+nájem věci nebo leasing, u něhož není sjednána povinnost koupě předmětu smlouvy nebo jiná možnost nabytí vlastnického práva po uplynutí určité doby,
+průběžné poskytování služby nebo dodávání zboží stejného druhu, za které úvěrovaný může platit v průběhu jejich poskytování formou splátek,
+úvěr, při jehož poskytnutí je úvěrujícímu přenechána movitá věc a úvěrujícímu nevzniká právo na vrácení peněz, nebo
+finanční záruku.
+Ochranná doba
+Ochranná doba trvá od prvního dne prvního kalendářního měsíce následujícího po dni, v němž úvěrujícímu došlo oznámení úvěrovaného, že má v úmyslu využít ochrannou dobu,
+do 31. října 2020, nebo
+do 31. července 2020, jestliže úvěrovaný v oznámení uvede, že má v úmyslu využít takto zkrácenou ochrannou dobu.
+Účinky ochranné doby
+O délku ochranné doby se odkládá čas plnění peněžitých dluhů úvěrovaného vůči úvěrujícímu ze smlouvy o úvěru.
+O délku ochranné doby se prodlužuje doba trvání zajištění úvěru.
+Za dobu trvání ochranné doby vzniká úvěrujícímu právo na úrok, který v případě úvěrovaného, který je
+spotřebitelem, odpovídá úroku určenému zápůjční úrokovou sazbou ve výši repo sazby vyhlášené Českou národní bankou zvýšené o 8 procentních bodů, nebyl-li sjednán úrok nižší,
+podnikatelem, odpovídá úroku, který byl sjednán.
+Úrok podle odstavce 3 se neúročí a je splatný v případě, že úvěrovaný je
+fyzickou osobou, po splnění všech peněžitých dluhů, jejichž čas plnění byl odložen podle odstavce 1, přičemž plnění úvěrovaného se na tento úrok započte až po splnění všech peněžitých dluhů, jejichž čas plnění byl odložen podle odstavce 1; je-li sjednáno plnění ve splátkách, výše splátek zůstává nezměněna a doba trvání úvěru se odpovídajícím způsobem upraví, nedohodnou-li se úvěrovaný a úvěrující jinak,
+právnickou osobou, během ochranné doby v čase, který byl sjednán.
+Za dobu trvání ochranné doby nevzniká úvěrujícímu právo na jiné průběžně placené platby sjednané ve smlouvě o úvěru než úrok; to neplatí pro jiné průběžně placené platby v případě úvěrovaného, který je právnickou osobou.
+Bylo-li sjednáno pojištění pojistného nebezpečí souvisejícího s úvěrem, v němž je úvěrující pojistníkem, sdělí úvěrující úvěrovanému bez zbytečného odkladu povinnosti úvěrovaného, které jsou s trváním tohoto pojištění během ochranné doby spojeny a které je úvěrovaný povinen během ochranné doby plnit.
+O délku ochranné doby se prodlužuje období, pro které byla sjednána pevná zápůjční úroková sazba.
+Oznámení o využití ochranné doby
+Úvěrovaný oznámí úvěrujícímu, že má v úmyslu využít ochrannou dobu, písemně nebo jiným způsobem, který úvěrující určí pro účely tohoto oznámení. Úvěrující určí alespoň jeden snadno přístupný způsob oznamování podle věty první s využitím prostředků komunikace na dálku; pokud takový způsob neurčí nebo nezpřístupní úvěrovanému, lze oznámení učinit jakýmkoliv způsobem, při kterém má úvěrovaný záznam o tom, že oznámení úvěrujícímu došlo.
+Oznámení obsahuje označení úvěrovaného, prohlášení, že úvěrovaný má v úmyslu využít ochrannou dobu z důvodu negativního ekonomického dopadu pandemie COVID-19 na úvěrovaného, a označení úvěru, kterého se oznámení týká. Neobsahuje-li oznámení označení úvěru, platí, že se oznámení týká všech úvěrů mezi úvěrovaným a úvěrujícím.
+Splní-li oznámení požadavky podle odstavce 2, úvěrující bez zbytečného odkladu poté, co oznámení úvěrujícímu došlo, potvrdí úvěrovanému písemně nebo na jiném trvalém nosiči dat jeho přijetí a do 30 dnů ode dne, kdy oznámení úvěrujícímu došlo, úvěrovanému písemně nebo na jiném trvalém nosiči dat sdělí den počátku a konce ochranné doby a informaci o výši, počtu a četnosti plateb, jež má úvěrovaný provést po skončení ochranné doby, a celkové částce, kterou má úvěrovaný zaplatit. Nepotvrdí-li úvěrující přijetí oznámení, nemá to vliv na běh ochranné doby.
+Nesplní-li oznámení požadavky podle odstavce 2, úvěrující bez zbytečného odkladu poté, co oznámení úvěrujícímu došlo, úvěrovaného písemně nebo na jiném trvalém nosiči dat vyzve k odstranění vad tohoto oznámení.
+Předávání informací o využití ochranné doby třetím osobám
+Předá-li úvěrující osobě odlišné od úvěrovaného informaci o některém z účinků ochranné doby v souvislosti s tímto úvěrovaným, je povinen připojit informaci, že se jedná o účinky ochranné doby podle tohoto zákona.
+Posuzuje-li se schopnost úvěrovaného splácet dluh nebo posuzuje-li se riziko nesplacení takového dluhu ze strany úvěrovaného, k informaci předané podle odstavce 1 se nepřihlíží.
+Úplata
+K ujednání o úplatě za úkony spojené s využitím ochranné doby se nepřihlíží.

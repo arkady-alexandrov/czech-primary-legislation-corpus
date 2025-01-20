@@ -1,0 +1,62 @@
+Zřizuje se Státní fond životního prostředí České republiky (dále jen „Fond“).
+Fond je jinou státní organizací. Rozsah činnosti Fondu stanoví statut.
+Správcem Fondu je ministerstvo životního prostředí (dále jen „ministerstvo“).
+V čele Fondu je ředitel; na jeho výběr, jmenování a odvolání se přiměřeně použijí ustanovení zákona o státní službě o výběru, jmenování a odvolání vedoucího služebního úřadu v jiném správním úřadu.
+O poskytování prostředků z Fondu rozhoduje ministr životního prostředí (dále jen „ministr“).
+Zřizuje se Rada Fondu, kterou jmenuje ministr jako svůj poradní orgán.
+Činnost Rady Fondu se řídí jednacím řádem, který schvaluje ministr.
+Rada Fondu posuzuje zejména
+zásadní otázky tvorby a užití prostředků Fondu,
+roční rozpočty příjmů a výdajů Fondu,
+navržená opatření a jejich zabezpečení prostředky Fondu.
+Rada Fondu posuzuje dále návrhy na poskytnutí prostředků z Fondu a doporučuje ministrovi výši čerpání pro jednotlivé konkrétní případy, přičemž vychází ze zásad ochrany životního prostředí České republiky.
+Rada Fondu schvaluje účetní závěrku Fondu sestavenou k rozvahovému dni.
+Ministerstvo rozhodnutí ministra o použití prostředků Fondu zveřejňuje.
+Ve věcech správy daní, poplatků a jiných obdobných peněžitých plnění spadajících do působnosti Fondu je Fond podřízen ministerstvu.
+Příjmy Fondu tvoří zejména
+poplatky za vypouštění odpadních vod do vod povrchových,
+poplatky za vypouštění škodlivých látek do ovzduší,
+poplatky podle zákona o odpadech,
+odvody za odnětí půdy ze zemědělského půdního fondu ve výši stanovené zákonem o ochraně zemědělského půdního fondu,
+poplatky za skutečný odběr podzemních vod ve výši 50 % jejich celkového objemu,
+úhrady odváděné do státního rozpočtu za vydobyté nerosty,
+pokuty uložené orgány správce Fondu a Českou inspekcí životního prostředí za porušení předpisů a opatření k ochraně životního prostředí,
+peněžní příjmy z postihu žadatelů za neoprávněné použití nebo zadržení prostředků Fondu,
+dotace ze státního rozpočtu,
+podíly na výnosu daní,
+úvěry od právnických osob,
+příspěvky od tuzemských a zahraničních právnických a fyzických osob,
+další příjmy stanovené obecně závaznými právními předpisy v jednotlivých úsecích životního prostředí.
+Pro finanční hospodaření Fondu se zřizuje samostatný bankovní účet.
+Z pokut uvedených v odstavci 1 písm. g) připadá 50 % do rozpočtu obce, v jejímž katastru došlo k porušení předpisů; to neplatí pro pokuty uložené v blokovém řízení. Obec zajistí účelové využití tohoto příjmu k ochraně životního prostředí.
+Rozpočet Fondu
+Fond sestavuje na každý rozpočtový rok návrh svého rozpočtu nejméně v rozsahu celkových příjmů a celkových výdajů a předkládá jej vládě vždy do 31. srpna. Vláda předkládá návrh rozpočtu Fondu po případných změnách, které v něm provede, spolu s návrhem státního rozpočtu na tentýž rok ke schválení Poslanecké sněmovně. Fond v návrhu svého rozpočtu stanoví své celkové výdaje jako částku, kterou mu oznámil příslušný správce kapitoly podle zvláštního zákona. V rámci této částky v něm stanoví též částku, kterou se bude podílet na financování programů nebo projektů spolufinancovaných z rozpočtu Evropské unie.
+Prostředky Fondu lze použít na
+podporu investičních a neinvestičních akcí právnických a fyzických osob souvisejících s ochranou a zlepšováním životního prostředí,
+podporu programu výzkumu, vývoje, výroby a zavádění vhodných technologií a akcí vědeckotechnického rozvoje v oblasti životního prostředí,
+podporu činností souvisejících s ekologickými funkcemi vodních toků a vodních ploch,
+podporu monitorování složek životního prostředí a ekologických procesů,
+úhradu splátek a úroků za půjčky poskytnuté Fondu,
+podporu výchovných akcí a rozšiřování informací o životním prostředí,
+úhradu nákladů spojených s činností Fondu schválených v rámci rozpočtu Fondu.
+Podporou se pro účely tohoto zákona rozumí dotace, subvence, půjčky, převzetí závazku a další pomoc právnickým a fyzickým osobám.
+Na poskytnutí prostředků z Fondu není právní nárok.
+Prostředky z Fondu se poskytují žadatelům za podmínek stanovených statutem a směrnicí. Základním principem je objektivní posouzení žádosti z hlediska ekologické a ekonomické výhodnosti a celospolečenských zájmů.
+Žadatelé (právnické a fyzické osoby) předkládají žádosti Fondu. Součástí žádosti je odborný posudek, který doplní Fond vlastním stanoviskem. Žádost posuzuje Rada Fondu.
+Poskytnuté prostředky z Fondu musí být vráceny zpět do Fondu, jestliže nebyly použity v souladu s podmínkami určenými podle odstavce 2 nebo jestliže účel pro poskytnutí prostředků odpadl.
+Pro vydání rozhodnutí, kterým je žádost podle odstavce 3 zcela zamítnuta, nebo kterým je žádosti zčásti vyhověno a ve zbytku je zamítnuta, se přiměřeně použijí ustanovení právního předpisu upravujícího poskytování dotací a návratných finančních výpomocí ze státního rozpočtu.
+Fond zveřejňuje informace o poskytnutých finančních prostředcích nebo zárukách jako otevřená data ve smyslu zvláštního zákona, a to v rozsahu
+jméno a příjmení či název příjemce,
+identifikační číslo osoby příjemce, je-li přiděleno,
+obec, ve které má příjemce sídlo či místo pobytu,
+výše poskytnutých prostředků a údaj o tom, jaká částka byla dosud vyplacena,
+účel, na který jsou prostředky určeny, včetně odkazu na úplnou dokumentaci programu, jsou-li prostředky poskytnuty v rámci programu,
+datum vydání rozhodnutí či uzavření smlouvy o poskytnutí prostředků,
+informace o tom, že bylo rozhodnuto o porušení rozpočtové kázně na straně příjemce, nebo došlo k pozastavení výplaty, krácení nebo vrácení finančních prostředků, a to včetně částky, které se toto opatření týká.
+Informace podle odstavce 1 se zveřejňují do 7 dnů od vydání rozhodnutí o poskytnutí prostředků, nevydává-li se rozhodnutí, pak do 7 dnů od účinnosti právního jednání, kterým se prostředky poskytují. V případě podle odstavce 1 písm. g) se informace zveřejní do 7 dnů po právní moci příslušného rozhodnutí či účinnosti dohody. Informace musí zůstat zveřejněné nejméně po dobu 10 let.
+Brání-li jiný právní předpis zveřejnění určité informace způsobem podle odstavců 1 a 2, informace se tímto způsobem nezveřejní.
+Zůstatek finančních prostředků Fondu koncem kalendářního roku nepropadá.
+Na zaměstnance Fondu, kteří vykonávají činnosti uvedené v § 5 zákona o státní službě, se vztahuje zákon o státní službě.
+Fond se považuje za služební úřad. Za vedoucího služebního úřadu a služební orgán se považuje ředitel.
+Nadřízeným služebním úřadem Fondu je ministerstvo.
+Státní fond vodního hospodářství a Fond ochrany ovzduší se stávají dnem nabytí účinnosti tohoto zákona součástí Fondu.

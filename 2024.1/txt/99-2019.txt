@@ -1,0 +1,70 @@
+PŘÍSTUPNOST INTERNETOVÝCH STRÁNEK A MOBILNÍCH APLIKACÍ
+Předmět úpravy
+Tento zákon zapracovává příslušný předpis Evropské unie a upravuje přístupnost internetových stránek a mobilních aplikací spravovaných povinnými subjekty a působnost Digitální a informační agentury (dále jen „Agentura“).
+Tento zákon se vztahuje na internetové stránky a mobilní aplikace spravované povinným subjektem.
+Tento zákon se nevztahuje na obsah internetových stránek a mobilních aplikací spravovaných povinným subjektem, kterým je
+mapa a související on-line služba; v případě mapy určené k navigačním účelům však musí být digitální formou splňující požadavky na přístupnost internetových stránek a mobilních aplikací poskytnuto náhradní uživatelské řešení,
+znázornění položky sbírky kulturního dědictví, a to v případě neslučitelnosti požadavků na přístupnost internetových stránek a mobilních aplikací s potřebou zachovat položku sbírky kulturního dědictví nebo pravost jejího znázornění anebo v případě nedostatku vybavení na převod textu z rukopisů nebo jiných položek sbírek kulturního dědictví na obsah internetových stránek a mobilních aplikací splňující požadavky na jejich přístupnost,
+archiválie,
+mediální soubor s časovou dimenzí vysílaný v reálném čase.
+Tento zákon se nevztahuje na obsah internetových stránek a mobilních aplikací spravovaných povinným subjektem, který povinný subjekt přejímá z jiného zdroje, pokud není financován povinným subjektem nebo vytvářen povinným subjektem anebo pod kontrolou povinného subjektu.
+Vymezení některých pojmů
+V tomto zákoně se rozumí
+mobilní aplikací programové vybavení, jež je navrženo a vytvořeno povinným subjektem nebo pro něj tak, aby jej mohla veřejnost používat na mobilních zařízeních, jako jsou chytré telefony a tablety; mobilní aplikací není programové vybavení, jímž je mobilní zařízení přímo ovládáno,
+mediálním souborem s časovou dimenzí zvukový záznam, obrazový záznam a zvukově obrazový záznam a tyto záznamy v kombinaci s interaktivními prvky,
+položkou sbírky kulturního dědictví kulturní památka, sbírkový předmět tvořící sbírku muzejní povahy, knihovní dokument a předmět kulturní hodnoty.
+Povinný subjekt
+Povinným subjektem se rozumí
+stát,
+územní samosprávný celek,
+právnická osoba zřízená zákonem,
+právnická osoba zřízená nebo založená státem, územním samosprávným celkem nebo právnickou osobou podle písmene c), pokud
+byla zřízena nebo založena za zvláštním účelem spočívajícím v uspokojování potřeb obecného zájmu, které nemají průmyslovou nebo obchodní povahu, a
+je financována převážně státem, územním samosprávným celkem nebo právnickou osobou podle písmene c) nebo podléhá řídícímu dohledu státu, územního samosprávného celku nebo právnické osoby podle písmene c) anebo je v jejím správním, řídícím nebo dozorčím orgánu více než polovina členů jmenována státem, územním samosprávným celkem nebo právnickou osobou podle písmene c),
+právnická osoba
+zřízená nebo založená za zvláštním účelem spočívajícím v uspokojování potřeb obecného zájmu, které nemají průmyslovou nebo obchodní povahu, a
+financovaná převážně státem, územním samosprávným celkem nebo právnickou osobou podle písmene c) nebo d) nebo podléhající řídícímu dohledu státu, územního samosprávného celku nebo právnické osoby podle písmene c) nebo d) anebo v jejímž správním, řídícím nebo dozorčím orgánu je více než polovina členů jmenována státem, územním samosprávným celkem nebo právnickou osobou podle písmene c) nebo d),
+dobrovolný svazek obcí,
+vysoká škola, škola a školské zařízení a
+kvalifikovaný správce systému elektronické identifikace.
+Povinným subjektem není Česká televize a Český rozhlas.
+Vysoká škola, škola a školské zařízení jsou povinným subjektem, pouze jde-li o obsah internetových stránek, který je vysoká škola, škola nebo školské zařízení povinna zveřejňovat na svých internetových stránkách podle jiného právního předpisu v rámci výkonu působnosti v oblasti veřejné správy na úseku školství, vědy, výzkumu, vývoje, inovací, jiné tvůrčí činnosti a péče o děti a mládež nebo podle zákona o svobodném přístupu k informacím. Věta první se na obsah mobilních aplikací vysoké školy, školy a školského zařízení použije obdobně.
+Zajištění přístupnosti internetových stránek a mobilních aplikací
+Povinný subjekt zajistí, aby jím spravované internetové stránky a mobilní aplikace byly přístupné, a to tím, že je pro jejich uživatele, zejména pro osoby se zdravotním postižením, učiní vnímatelnými, ovladatelnými, srozumitelnými a stabilními.
+Zajištění přístupnosti internetových stránek
+Má se za to, že internetové stránky jsou vnímatelné, ovladatelné, srozumitelné a stabilní, pokud splňují požadavky harmonizované normy nebo jejích částí, na které byl v Úředním věstníku Evropské unie zveřejněn odkaz podle čl. 6 odst. 1 směrnice Evropského parlamentu a Rady (EU) 2016/2102.
+Nejsou-li v Úředním věstníku Evropské unie zveřejněny odkazy na harmonizovanou normu nebo její části podle odstavce 1, má se za to, že internetové stránky jsou vnímatelné, ovladatelné, srozumitelné a stabilní, pokud splňují požadavky evropské normy EN 301 549 V1.1.2 (2015-04). V případě postupu podle čl. 6 odst. 4 směrnice Evropského parlamentu a Rady (EU) 2016/2102 se namísto evropské normy podle věty první použije evropská norma stanovená tímto postupem.
+Zajištění přístupnosti mobilních aplikací
+Má se za to, že mobilní aplikace jsou vnímatelné, ovladatelné, srozumitelné a stabilní, pokud splňují požadavky harmonizované normy nebo jejích částí, na které byl v Úředním věstníku Evropské unie zveřejněn odkaz podle čl. 6 odst. 1 směrnice Evropského parlamentu a Rady (EU) 2016/2102.
+Nejsou-li v Úředním věstníku Evropské unie zveřejněny odkazy na harmonizovanou normu nebo její části podle odstavce 1, má se za to, že mobilní aplikace jsou vnímatelné, ovladatelné, srozumitelné a stabilní, pokud splňují požadavky prováděcích aktů Evropské komise stanovících technické specifikace nebo jejich částí podle čl. 6 odst. 2 směrnice Evropského parlamentu a Rady (EU) 2016/2102.
+Nejsou-li přijaty prováděcí akty Evropské komise stanovící technické specifikace podle odstavce 2, má se za to, že mobilní aplikace jsou vnímatelné, ovladatelné, srozumitelné a stabilní, pokud splňují požadavky evropské normy EN 301 549 V1.1.2 (2015-04). V případě postupu podle čl. 6 odst. 4 směrnice Evropského parlamentu a Rady (EU) 2016/2102 se namísto evropské normy podle věty první použije evropská norma stanovená tímto postupem.
+Nepřiměřená zátěž
+Povinný subjekt zajistí přístupnost jím spravovaných internetových stránek a mobilních aplikací v míře, která mu nezpůsobí nepřiměřenou zátěž.
+Povinný subjekt posuzuje, zda mu plnění požadavků podle § 4 až 6 působí nepřiměřenou zátěž.
+Povinný subjekt při posuzování míry nepřiměřené zátěže zohlední
+svou velikost, povahu a své zdroje a
+své odhadované náklady a přínosy ve vztahu k očekávanému přínosu pro uživatele internetových stránek a mobilních aplikací, zejména pro osoby se zdravotním postižením, přičemž zohlední četnost a dobu využití internetové stránky a mobilní aplikace.
+Povinný subjekt, kterému plnění požadavků podle § 4 až 6 působí nepřiměřenou zátěž, poskytne, je-li to možné, uživateli jím spravované internetové stránky a mobilní aplikace, kterých se nepřiměřená zátěž týká, náhradní řešení pro využití obsahu této internetové stránky a mobilní aplikace.
+Prohlášení o přístupnosti
+Povinný subjekt na všech jím spravovaných internetových stránkách v přístupném formátu zveřejní a aktualizuje prohlášení o přístupnosti internetové stránky, které obsahuje
+sdělení, v jakém rozsahu internetová stránka splňuje požadavky podle § 4 a 5,
+důvod, pro který internetová stránka nesplňuje požadavky podle § 4 a 5, a případné náhradní řešení podle § 7 odst. 4, a
+informaci o postupu, vznikne-li důvodné podezření, že internetová stránka nesplňuje požadavky podle § 4 a 5 nebo že je důvod podle písmene b) neopodstatněný, včetně možnosti podat podnět vůči příslušným státním orgánům.
+Povinný subjekt může splnit povinnost podle odstavce 1 rovněž tak, že prohlášení o přístupnosti jím spravovaných internetových stránek v přístupném formátu zveřejní a aktualizuje na některé z jím spravovaných internetových stránek a na ostatních jím spravovaných internetových stránkách umístí odkaz na toto prohlášení.
+Povinný subjekt na některé z jím spravovaných internetových stránek v přístupném formátu zveřejní a aktualizuje prohlášení o přístupnosti jím spravovaných mobilních aplikací, které obsahuje
+seznam mobilních aplikací,
+sdělení, v jakém rozsahu mobilní aplikace splňují požadavky podle § 4 a 6,
+důvod, pro který mobilní aplikace nesplňují požadavky podle § 4 a 6, a případné náhradní řešení podle § 7 odst. 4, a
+informaci o postupu, vznikne-li důvodné podezření, že mobilní aplikace nesplňuje požadavky podle § 4 a 6 nebo že je důvod podle písmene c) neopodstatněný, včetně možnosti podat podnět vůči příslušným státním orgánům.
+Prohlášení o přístupnosti odpovídá vzoru stanovenému prováděcím aktem Evropské komise vydaným podle čl. 7 odst. 2 směrnice Evropského parlamentu a Rady (EU) 2016/2102, je-li přijat.
+Podnět k nápravě
+Každý může učinit vůči povinnému subjektu podnět požadující nápravu, jestliže má důvodné podezření, že internetová stránka nebo mobilní aplikace spravovaná povinným subjektem nesplňuje požadavky podle § 4 až 6 nebo že je důvod podle § 8 odst. 1 písm. b) nebo § 8 odst. 3 písm. c) neopodstatněný. Ustanovení zákona upravujícího právo petiční upravující podání a vyřízení petice se použije obdobně na podání a vyřízení podnětu.
+Působnost Agentury
+Agentura
+kontroluje, zda povinné subjekty dodržují povinnosti stanovené tímto zákonem,
+sleduje postupem stanoveným prováděcím aktem podle čl. 8 odst. 2 směrnice Evropského parlamentu a Rady (EU) 2016/2102, zda internetové stránky a mobilní aplikace spravované povinnými subjekty splňují požadavky podle § 4 až 6,
+zveřejňuje bezplatně na svých internetových stránkách požadavky normy podle § 5 odst. 1 a 2 a podle § 6 odst. 1 a 3.
+Kontrola dodržování povinností povinných subjektů
+Zjistí-li Agentura při kontrole podle § 10 písm. a) u povinného subjektu nedostatky v dodržování povinností stanovených tímto zákonem, uloží povinnému subjektu, aby přijal opatření k nápravě. Povinný subjekt přijme opatření k nápravě ve lhůtě stanovené Agenturou, která nesmí být delší než 6 měsíců.
+Zpráva o výsledku sledování přístupnosti
+Agentura podává Evropské komisi každé 3 roky za podmínek stanovených v prováděcím aktu podle čl. 8 odst. 6 směrnice Evropského parlamentu a Rady (EU) 2016/2102 zprávu o výsledku sledování přístupnosti internetových stránek a mobilních aplikací podle § 10 písm. b). Agentura zveřejní zprávu na svých internetových stránkách.

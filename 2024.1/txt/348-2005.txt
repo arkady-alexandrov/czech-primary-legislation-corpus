@@ -1,0 +1,82 @@
+Předmět úpravy
+Tento zákon stanoví předmět poplatků, poplatníka, základ, výši a způsob placení rozhlasových a televizních poplatků a evidenci poplatníků. Rozhlasový poplatek slouží k financování veřejné služby Českého rozhlasu. Televizní poplatek slouží k financování veřejné služby České televize.
+Předmět poplatků
+Rozhlasový poplatek se platí ze zařízení technicky způsobilého k individuálně volitelné reprodukci rozhlasového vysílání, je-li šířeno prostřednictvím zemských rádiových vysílacích zařízení využívajících rádiové kmitočty vyhrazené pro šíření a přenos rozhlasového nebo televizního vysílání, družic nebo kabelových systémů (dále jen „rozhlasový přijímač“). Toto zařízení se považuje za rozhlasový přijímač i v případě, že si jej poplatník upraví k jinému účelu.
+Televizní poplatek se platí ze zařízení technicky způsobilého k individuálně volitelné reprodukci televizního vysílání, je-li šířeno prostřednictvím zemských rádiových vysílacích zařízení využívajících rádiové kmitočty vyhrazené pro šíření a přenos rozhlasového nebo televizního vysílání, družic nebo kabelových systémů (dále jen „televizní přijímač“). Toto zařízení se považuje za televizní přijímač i v případě, že si jej poplatník upraví k jinému účelu.
+Ze zařízení technicky způsobilého k individuálně volitelné reprodukci rozhlasového i televizního vysílání se platí rozhlasový poplatek i televizní poplatek.
+Rozhlasovému nebo televiznímu poplatku nepodléhají
+telekomunikační zařízení vyrobená výhradně k technické kontrole rozhlasového a televizního vysílání,
+rozhlasové nebo televizní přijímače, které tvoří součást sbírek muzejní povahy zapsaných v centrální evidenci sbírek,
+televizní přijímače, které jsou užívány výlučně pro účely soudního řízení,
+zařízení technicky způsobilá k individuálně volitelné reprodukci rozhlasového nebo televizního vysílání pouze v případě, je-li šířeno prostřednictvím přenosového systému uvedeného v § 12 odst. 3 písm. c) zákona č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů,
+rozhlasové nebo televizní přijímače, které jsou neoddělitelnou součástí koncových mobilních telekomunikačních zařízení.
+Poplatník
+Poplatníkem rozhlasového poplatku je fyzická osoba nebo právnická osoba, která vlastní rozhlasový přijímač. Jestliže drží nebo z jiného právního důvodu alespoň 1 měsíc užívá rozhlasový přijímač fyzická osoba nebo právnická osoba, která není jeho vlastníkem, je poplatníkem tato osoba.
+Poplatníkem televizního poplatku je fyzická osoba nebo právnická osoba, která vlastní televizní přijímač. Jestliže drží nebo z jiného právního důvodu alespoň 1 měsíc užívá televizní přijímač fyzická osoba nebo právnická osoba, která není jeho vlastníkem, je poplatníkem tato osoba.
+Je-li rozhlasový nebo televizní přijímač příslušenstvím dopravního prostředku, poplatníkem je provozovatel dopravního prostředku.
+Jestliže je fyzická osoba nebo právnická osoba, která není přihlášena v evidenci poplatníků rozhlasového poplatku nebo v evidenci poplatníků televizního poplatku, odběratelem elektřiny připojeným k distribuční soustavě, považuje se za poplatníka rozhlasového a televizního poplatku s povinností platit, pokud Českému rozhlasu nebo České televizi (dále jen „provozovatel vysílání ze zákona“) po jejich písemné výzvě neoznámí písemným čestným prohlášením opak, a to s účinností od marného uplynutí lhůty 30 dnů ode dne doručení této výzvy. Součástí výzvy musí být poučení o následcích neprokázání opaku v takto stanovené lhůtě.
+Práva a povinnosti právnické osoby, stanovené tímto zákonem, se vztahují na organizační složku státu a územního samosprávného celku obdobně.
+Osvobození od rozhlasového a televizního poplatku
+Od rozhlasového a televizního poplatku jsou osvobozeni
+zastupitelské úřady České republiky v zahraničí a osoby, které požívají výsad a imunit podle mezinárodních smluv, jimiž je Česká republika vázána,
+cizinci, kterým nebylo na území České republiky uděleno povolení k trvalému nebo dlouhodobému pobytu,
+provozovatel vysílání ze zákona,
+Rada pro rozhlasové a televizní vysílání,
+držitelé licence opravňující k rozhlasovému vysílání, jde-li o rozhlasový poplatek,
+držitelé licence opravňující k televiznímu vysílání, jde-li o televizní poplatek,
+osoby s úplnou nebo praktickou slepotou obou očí a osoby s oboustrannou úplnou nebo praktickou hluchotou, pokud jsou osaměle žijící; osvobozeny jsou tyto osoby rovněž v případě, kdy žijí společně v jedné domácnosti,
+školy zapsané ve školském rejstříku podle zákona č. 561/2004 Sb., o předškolním, základním, středním, vyšším odborném a jiném vzdělávání (školský zákon).
+Od rozhlasového a televizního poplatku je dále osvobozena fyzická osoba,
+jde-li o jednotlivce, jehož čistý příjem za uplynulé kalendářní čtvrtletí je nižší než 2,15násobek životního minima,
+žije-li v téže domácnosti s dalšími osobami a součet jejího čistého příjmu a čistých příjmů těchto osob za uplynulé kalendářní čtvrtletí je nižší než 2,15násobek životního minima osob žijících v této domácnosti.
+Při zjišťování příjmů se postupuje podle zvláštního zákona.
+Účinky nově vzniklého nároku na osvobození podle odstavce 1 nastávají prvním dnem kalendářního měsíce následujícího po měsíci, v němž důvod pro toto osvobození vznikl. Účinky nově vzniklého nároku na osvobození podle odstavce 2 nastávají prvním dnem kalendářního měsíce následujícího po měsíci, v němž poplatník oznámí čestným prohlášením provozovateli vysílání ze zákona, nebo jiné osobě, kterou provozovatel vysílání ze zákona určí (dále jen „pověřená osoba“), okolnosti odůvodňující osvobození; účinky tohoto osvobození končí posledním dnem měsíce, v němž zanikly okolnosti odůvodňující toto osvobození, nejpozději však uplynutím 6 kalendářních měsíců ode dne, kdy nastaly účinky nároku na osvobození. Fyzická osoba, na kterou se osvobození podle odstavce 2 vztahuje, je povinna na výzvu provozovatele vysílání ze zákona, popřípadě pověřené osoby písemně doložit kopií rozhodnutí nebo oznámení úřadu státní sociální podpory okolnosti prokazující osvobození.
+Základ poplatků
+Poplatník, který je fyzickou osobou, platí rozhlasový poplatek z jednoho rozhlasového přijímače a televizní poplatek z jednoho televizního přijímače, a to i v případě, že jich vlastní, drží nebo z jiného právního důvodu užívá více včetně rozhlasového nebo televizního přijímače, který je příslušenstvím jím provozovaného dopravního prostředku.
+Rozhlasový poplatek neplatí fyzická osoba žijící ve společné domácnosti s poplatníkem rozhlasového poplatku, který splnil oznamovací povinnost uloženou v § 8 odst. 2. Televizní poplatek neplatí fyzická osoba žijící ve společné domácnosti s poplatníkem televizního poplatku, který splnil oznamovací povinnost uloženou v § 8 odst. 2.
+Poplatník, který je fyzickou osobou, která je podnikatelem, platí rozhlasový nebo televizní poplatek z každého rozhlasového nebo televizního přijímače, který používá k podnikání nebo v souvislosti s ním; tím není dotčena povinnost platit poplatky podle ustanovení odstavce 1.
+Poplatník, který je právnickou osobou, platí rozhlasový poplatek z každého rozhlasového přijímače a televizní poplatek z každého televizního přijímače.
+Poplatník, který je právnickou osobou nebo fyzickou osobou, která je podnikatelem a v rámci podnikání vyrábí, opravuje nebo prodává rozhlasové nebo televizní přijímače, neplatí rozhlasový nebo televizní poplatek z těchto rozhlasových nebo televizních přijímačů; má-li taková osoba provozovny určené k výkonu této činnosti, platí rozhlasový nebo televizní poplatek z počtu rozhlasových nebo televizních přijímačů, který odpovídá počtu těchto provozoven. Tím není dotčena povinnost platit poplatky podle odstavců 1 až 4.
+Změny v základu rozhlasového nebo televizního poplatku jsou účinné od prvého dne kalendářního měsíce následujícího po měsíci, v němž byly tyto změny oznámeny provozovateli vysílání ze zákona.
+Měsíční výše rozhlasového poplatku činí 45 Kč, měsíční výše televizního poplatku činí 135 Kč.
+Placení poplatků
+Poplatník platí rozhlasový nebo televizní poplatek provozovateli vysílání ze zákona buď přímo nebo prostřednictvím pověřené osoby.
+Je-li poplatníkem fyzická osoba, je rozhlasový nebo televizní poplatek splatný nejpozději do patnáctého dne každého kalendářního měsíce. První platba rozhlasového nebo televizního poplatku je splatná nejpozději do patnáctého dne kalendářního měsíce následujícího po měsíci, v němž se fyzická osoba stala poplatníkem.
+Je-li poplatníkem fyzická osoba, která je podnikatelem, nebo právnická osoba, rozhlasový nebo televizní poplatek se platí čtvrtletně nejpozději do patnáctého dne prvního měsíce každého kalendářního čtvrtletí. Poprvé se rozhlasový nebo televizní poplatek platí počínaje kalendářním měsícem následujícím po měsíci, v němž se taková osoba stala poplatníkem, až do konce příslušného kalendářního čtvrtletí v měsíční výši a je splatný nejpozději do patnáctého dne příslušného kalendářního měsíce.
+Poplatník může po dohodě s provozovatelem vysílání ze zákona, popřípadě pověřenou osobou zaplatit rozhlasový nebo televizní poplatek předem za více kalendářních měsíců nebo čtvrtletí, nejdéle však za 1 kalendářní rok.
+Odhlásí-li se poplatník z evidence poplatníků nebo sníží-li poplatník počet evidovaných rozhlasových nebo televizních přijímačů, zaplatí rozhlasový nebo televizní poplatek v původní výši rovněž za měsíc, v němž byly tyto změny oznámeny provozovateli vysílání ze zákona. Případné přeplatky provozovatel vysílání ze zákona, popřípadě pověřená osoba vrátí.
+Evidence poplatníků
+Správcem evidence poplatníků rozhlasového nebo televizního poplatku je provozovatel vysílání ze zákona. Provozovatel vysílání ze zákona vede evidenci poplatníků, pokud k tomu nezmocní pověřenou osobu, která je v takovém případě zpracovatelem evidence poplatníků.
+Poplatník je povinen oznámit provozovateli vysílání ze zákona, popřípadě pověřené osobě, že se stal poplatníkem, a to do 15 dnů ode dne, kdy se jím stal; tento den je poplatník povinen uvést v oznámení. Tato oznamovací povinnost se nevztahuje na osoby osvobozené od rozhlasového nebo televizního poplatku podle § 4 odst. 1 a poplatníky, kteří podle § 5 odst. 2 neplatí rozhlasový nebo televizní poplatek.
+Poplatník je v oznámení podle odstavce 2 dále povinen uvést
+jméno, popřípadě jména, příjmení, místo trvalého pobytu, u cizinců popřípadě dlouhodobého pobytu a datum narození, jde-li o fyzickou osobu,
+jméno a příjmení, popřípadě obchodní firmu, místo podnikání, identifikační číslo osoby (dále jen „identifikační číslo“) a předmět podnikání, jde-li o fyzickou osobu, která je podnikatelem,
+obchodní firmu nebo název, právní formu, sídlo, identifikační číslo a předmět činnosti, jde-li o právnickou osobu,
+název, sídlo a identifikační číslo, jde-li o organizační složku státu nebo územního samosprávného celku.
+Poplatník podle § 5 odst. 3 a 4 je v oznámení podle odstavce 2 povinen vedle údajů uvedených v odstavci 3 uvést počet rozhlasových nebo televizních přijímačů, které jsou základem rozhlasového nebo televizního poplatku, a adresu, kde jsou umístěny.
+Poplatník podle § 5 odst. 5 je v oznámení podle odstavce 2 povinen vedle údajů uvedených v odstavci 3 uvést počet a adresu provozoven určených k výrobě, opravě nebo prodeji rozhlasových nebo televizních přijímačů.
+Poplatník je povinen písemně oznámit provozovateli vysílání ze zákona, popřípadě pověřené osobě změny ve skutečnostech uvedených v odstavcích 3 až 5 do 15 dnů ode dne, kdy změna nastala.
+Je-li poplatníkem fyzická osoba, u které nastaly účinky osvobození od rozhlasového a televizního poplatku podle § 4 odst. 2, je povinna oznámit zánik okolností odůvodňujících osvobození do 15 dnů ode dne jejich vzniku.
+Z evidence poplatníků rozhlasového nebo televizního poplatku je povinen se odhlásit poplatník, který
+přestal být poplatníkem podle tohoto zákona,
+byl osvobozen podle § 4 odst. 1,
+neplatí rozhlasový nebo televizní poplatek podle § 5 odst. 2,
+a to do 15 dnů ode dne, kdy nastaly skutečnosti odůvodňující odhlášení. Při odhlášení je povinen připojit písemné čestné prohlášení potvrzující, že nastala některá z těchto skutečností. Odhlašuje-li se z evidence poplatníků fyzická osoba, která podle § 5 odst. 2 neplatí rozhlasový nebo televizní poplatek, je v čestném prohlášení povinna dále uvést jméno, popřípadě jména a příjmení, datum narození a adresu trvalého pobytu, u cizinců popřípadě dlouhodobého pobytu poplatníka, s nímž žije ve společné domácnosti a který splnil oznamovací povinnost podle odstavce 2.
+Provozovatel vysílání za zákona je za účelem kontroly dodržování tohoto zákona oprávněn zjišťovat údaje o neevidovaných poplatnících a vést jejich evidenci v rozsahu stanoveném v odstavci 10.
+Dodavatel zajišťující dodávku elektřiny odběratelům je povinen na požádání sdělit provozovateli vysílání ze zákona, se kterými odběrateli uzavřel smlouvu o dodávce elektřiny. Dodavatel zajišťující dodávku elektřiny odběratelům předá do 30 dnů ode dne doručení žádosti vedle adresy odběrného místa následující údaje: jméno, popřípadě jména a příjmení, datum narození a adresu trvalého pobytu, u cizinců popřípadě dlouhodobého pobytu odběratele, který je fyzickou osobou, jméno, příjmení, popřípadě obchodní firmu, místo podnikání a identifikační číslo odběratele, který je fyzickou osobou, která je podnikatelem, obchodní firmu nebo název, právní formu, sídlo a identifikační číslo odběratele, který je právnickou osobou, název, sídlo a identifikační číslo odběratele, který je organizační složkou státu nebo územního samosprávného celku. Dodavatel zajišťující dodávku elektřiny odběratelům je oprávněn požadovat po provozovateli vysílání ze zákona úhradu účelně vynaložených nákladů, které mu vznikly v přímé souvislosti se splněním jeho žádosti. Provozovatel vysílání ze zákona může takto získané údaje užít pouze za účelem a způsobem uvedeným v odstavci 9.
+Provozovatelé vysílání ze zákona jsou oprávněni předávat si navzájem údaje z evidence poplatníků za účelem jejich zjištění nebo ověření.
+Přirážka k poplatkům
+Poplatník, který
+nesplnil oznamovací povinnost podle § 8 odst. 2 ve stanovené lhůtě,
+při plnění oznamovací povinnosti podle § 8 odst. 4 nepravdivě uvedl nižší počet rozhlasových nebo televizních přijímačů nebo neoznámil zvýšení jejich počtu,
+při plnění oznamovací povinnosti podle § 8 odst. 5 nepravdivě uvedl nižší počet provozoven,
+uvedením nepravdivých údajů dosáhl neoprávněného osvobození od povinnosti platit rozhlasový nebo televizní poplatek,
+uvedením nepravdivých údajů dosáhl neoprávněného odhlášení z evidence poplatníků,
+je povinen zaplatit Českému rozhlasu kromě dlužných poplatků i přirážku ve výši 5 000 Kč v případě, že tak učinil v souvislosti s placením rozhlasového poplatku. Pokud tak učinil v souvislosti s placením televizního poplatku, je povinen zaplatit České televizi kromě dlužných poplatků i přirážku ve výši 10 000 Kč. Přirážka se platí za každý rozhlasový nebo televizní přijímač, za který nebyla splněna povinnost platit rozhlasový nebo televizní poplatek.
+Ustanovení odstavce 1 se nepoužije, pokud poplatník splnil všechny své povinnosti včetně zaplacení dlužných rozhlasových nebo televizních poplatků ještě před tím, než byl provozovatelem vysílání ze zákona vyzván k zaplacení přirážky.
+Poplatník, který ve stanovené lhůtě nesplnil povinnost podle § 8 odst. 7 nebo některou z povinností uložených v § 8 odst. 8, a současně přestal platit rozhlasový nebo televizní poplatek, je povinen zaplatit provozovateli vysílání ze zákona přirážku ve výši 1 000 Kč za každý rozhlasový nebo televizní přijímač, ze kterého je povinen platit rozhlasový nebo televizní poplatek.
+Vymáhání dlužných poplatků a přirážky k poplatkům
+Nezaplatí-li poplatník včas rozhlasový nebo televizní poplatek nebo přirážku k poplatkům ani na základě výzvy provozovatele ze zákona, ve které bude stanovena přiměřená lhůta k úhradě, je provozovatel vysílání ze zákona oprávněn domáhat se svého práva u soudu včetně zaplacení úroku z prodlení určeného předpisy práva občanského.
+Pověřená osoba
+Provozovatel vysílání ze zákona může smlouvou pověřit jinou osobu výkonem činností podle tohoto zákona, pokud si je provozovatel vysílání ze zákona nezajišťuje sám.
+Pověřená osoba je povinna poukázat poplatníky zaplacené rozhlasové poplatky Českému rozhlasu a poplatníky zaplacené televizní poplatky České televizi. Pověřená osoba je dále povinna předávat provozovateli vysílání ze zákona údaje z evidence, kterou pro něj vede na základě pověření podle odstavce 1, a poskytovat mu součinnost nezbytně nutnou pro jeho postup podle § 9 a 10.

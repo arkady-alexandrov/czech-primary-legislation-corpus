@@ -1,0 +1,648 @@
+PYROTECHNICKÉ VÝROBKY
+ÚVODNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon zapracovává příslušné předpisy Evropské unie (dále jen „Unie“), upravuje pravidla určená k dosažení volného pohybu pyrotechnických výrobků na vnitřním trhu, základní bezpečnostní požadavky, které musí pyrotechnické výrobky splňovat před jejich dodáním na trh, a další požadavky pro zajištění ochrany lidského života, zdraví, majetku, veřejné bezpečnosti, včetně ochrany a bezpečnosti spotřebitelů, a to s přihlédnutím k zájmu na ochraně životního prostředí.
+Tento zákon dále upravuje
+práva a povinnosti výrobců, dovozců, distributorů pyrotechnických výrobků a osob s odbornou způsobilostí,
+výkon státní správy v oblasti pyrotechnických výrobků,
+posuzování shody pyrotechnických výrobků.
+Oblast působnosti
+Tento zákon se vztahuje na některé pyrotechnické výrobky, jejich skladování a zacházení s nimi.
+Tento zákon se nevztahuje na
+pyrotechnické výrobky, které jsou určeny k nekomerčnímu využití ozbrojenými silami České republiky, ozbrojenými bezpečnostními sbory České republiky nebo Hasičským záchranným sborem České republiky,
+pyrotechnické výrobky vyrobené nebo dovezené pro potřeby Českého úřadu pro zkoušení zbraní a střeliva (dále jen „Úřad“) za účelem jeho činností stanovených v § 52,
+námořní zařízení podle jiných právních předpisů,
+pyrotechnické výrobky určené pro použití v leteckém a kosmickém průmyslu,
+kapsle určené výhradně pro hračky podle jiných právních předpisů,
+výbušniny podle jiných právních předpisů,
+střelivo a munici,
+zábavní pyrotechniku vyrobenou pro vlastní potřebu výrobce se sídlem na území České republiky, kterou Úřad schválí výlučně pro používání na území České republiky a která zůstává na území České republiky,
+úpravu povinností při výrobě pyrotechnických výrobků.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+pyrotechnickým výrobkem výrobek obsahující výbušné látky nebo směs výbušných látek určené k produkci tepla, světla, zvuku, plynu, kouře, nebo kombinace těchto efektů pomocí samoudržujících se exotermických chemických reakcí,
+zábavní pyrotechnikou pyrotechnický výrobek určený k zábavním účelům,
+divadelní pyrotechnikou pyrotechnický výrobek určený pro použití na scénách uvnitř budov i na venkovních scénách, včetně filmových a televizních produkcí,
+pyrotechnickým výrobkem pro použití ve vozidle součást bezpečnostního zařízení ve vozidle, která obsahuje pyrotechnické látky používané k aktivaci tohoto nebo jiného zařízení,
+osobou s odbornou způsobilostí osoba, které bylo Českým báňským úřadem vydáno osvědčení o odborné způsobilosti podle tohoto zákona,
+dodáním na trh dodání pyrotechnického výrobku k distribuci, spotřebě nebo použití na trhu Unie v rámci obchodní činnosti, ať už za úplatu nebo bezplatně,
+uvedením na trh první dodání pyrotechnického výrobku na trh Unie,
+výrobcem podnikající fyzická nebo právnická osoba uvádějící na trh pod svým jménem nebo ochrannou známkou pyrotechnický výrobek, který vyrábí, nebo který si nechává navrhnout nebo vyrobit,
+dovozcem podnikající fyzická nebo právnická osoba usazená v Unii, která uvádí pyrotechnický výrobek ze třetí země na trh Unie,
+distributorem podnikající fyzická nebo právnická osoba v dodavatelském řetězci odlišná od výrobce nebo dovozce, která dodává pyrotechnický výrobek na trh,
+hospodářským subjektem výrobce, dovozce nebo distributor,
+technickou specifikací dokument, který udává technické požadavky, které má pyrotechnický výrobek splňovat,
+harmonizačním předpisem Unie předpis Unie harmonizující podmínky pro uvádění výrobků na trh,
+harmonizovanou normou harmonizovaná norma stanovená harmonizačním předpisem Unie,
+posouzením shody postup k prokázání, zda byly splněny základní bezpečnostní požadavky na pyrotechnický výrobek,
+oznámeným subjektem orgán nebo osoba, která vykonává činnosti posuzování shody včetně kalibrace, zkoušení, certifikace pyrotechnických výrobků a dohledu podle tohoto zákona,
+stažením z oběhu opatření, jehož cílem je navrácení pyrotechnického výrobku, který byl již dodán uživateli,
+stažením z trhu opatření, jehož cílem je zabránit, aby byl pyrotechnický výrobek, který se nachází v dodavatelském řetězci, dodán na trh,
+označením CE označení, kterým výrobce vyjadřuje, že pyrotechnický výrobek je ve shodě s příslušnými požadavky stanovenými harmonizačním předpisem Unie, který upravuje připojování tohoto označení,
+příručním skladem sklad stavebně oddělený od prodejní místnosti,
+zacházením s pyrotechnickými výrobky jejich výzkum, vývoj, nákup, prodej, dovoz, používání, ničení, zneškodňování, provádění ohňostrojů a ohňostrojných prací,
+certifikátem certifikát EU přezkoušení typu, certifikát shody a schválení systému jakosti.
+KATEGORIE PYROTECHNICKÝCH VÝROBKŮ
+Kategorie pyrotechnických výrobků
+Výrobce zařadí pyrotechnické výrobky do kategorií podle přílohy č. 1 k tomuto zákonu, a to podle způsobu použití nebo podle jejich účelu a stupně nebezpečnosti, včetně úrovně hluku. Oznámený subjekt v rámci posuzování shody potvrdí, zda byl pyrotechnický výrobek správně zařazen do kategorií podle přílohy č. 1 k tomuto zákonu.
+Pyrotechnické výrobky se zařazují do těchto kategorií:
+zábavní pyrotechnika do kategorie F1, F2, F3 nebo F4,
+divadelní pyrotechnika do kategorie T1 nebo T2,
+ostatní pyrotechnické výrobky do kategorie P1 nebo P2.
+Věkové hranice a další omezení
+Hospodářský subjekt nebo osoba s odbornou způsobilostí zpřístupní pyrotechnický výrobek pouze osobě, která dosáhla věku
+15 let u pyrotechnických výrobků kategorie F1,
+18 let u pyrotechnických výrobků kategorie F2, T1 nebo P1,
+21 let u pyrotechnických výrobků kategorie F3 anebo získala osvědčení o odborné způsobilosti dle § 37.
+Pyrotechnické výrobky kategorie F1, F2, T1, P1 nebo F3 může hospodářský subjekt nebo osoba s odbornou způsobilostí zpřístupnit právnické osobě nebo podnikající fyzické osobě pouze prostřednictvím osoby, která splňuje podmínky podle odstavce 1.
+Pyrotechnické výrobky kategorie F4, T2 nebo P2 může hospodářský subjekt nebo osoba s odbornou způsobilostí dodávat na trh nebo jinak zpřístupnit pouze osobám s odbornou způsobilostí.
+Pyrotechnické výrobky kategorie P1 pro použití ve vozidlech včetně airbagů a předpínačů bezpečnostních pásů nesmí být dostupné široké veřejnosti, pokud tyto pyrotechnické výrobky nejsou zabudovány do vozidla nebo odnímatelného dílu vozidla.
+POSUZOVÁNÍ SHODY A OZNAČOVÁNÍ PYROTECHNICKÝCH VÝROBKŮ
+Předpoklad shody
+Pyrotechnické výrobky, které jsou ve shodě s harmonizovanými normami nebo jejich částmi, na něž byly zveřejněny odkazy v Úředním věstníku Evropské unie, se považují za výrobky, které jsou ve shodě se základními bezpečnostními požadavky, na které se tyto normy nebo jejich části vztahují.
+Základní bezpečnostní požadavky na pyrotechnické výrobky jsou uvedeny v příloze č. 2 k tomuto zákonu.
+Postupy posuzování shody
+Postupy posuzování shody jsou
+EU přezkoušení typu,
+shoda založená na posouzení shody každého jednotlivého výrobku, nebo
+shoda založená na komplexním zabezpečení jakosti, pokud jde o zábavní pyrotechniku kategorie F4.
+Je-li shoda pyrotechnického výrobku posouzena postupem EU přezkoušení typu, musí být tento postup pro účely uvedení na trh doplněn o postup posouzení shody s typem, který je založen na
+vnitřní kontrole výroby a zkouškách výrobku pod dohledem v náhodně zvolených intervalech,
+zabezpečení jakosti výrobního procesu, nebo
+zabezpečení jakosti výrobku.
+Vláda stanoví nařízením popis a obsah jednotlivých postupů posuzování shody, včetně dokumentace, která má být uchovávána u jednotlivých postupů posuzování shody, a postup výrobce a oznámeného subjektu u jednotlivých postupů posuzování shody.
+Předkládání pyrotechnických výrobků oznámenému subjektu
+Výrobce je povinen před uvedením pyrotechnického výrobku na trh předložit tento výrobek oznámenému subjektu k posouzení shody.
+Žádost o posouzení shody musí být písemná a musí obsahovat
+obchodní firmu a adresu sídla nebo jméno, příjmení a adresu bydliště výrobce, popřípadě i dovozce,
+místo trvalého pobytu, případně jinou adresu pro doručování,
+postup požadovaného posuzování shody,
+prohlášení o tom, že stejná žádost nebyla podána u jiného oznámeného subjektu.
+Výrobce k žádosti přiloží dokumentaci náležející k jednotlivým postupům posuzování shody. Rozsah a popis této dokumentace u jednotlivých postupů posuzování shody stanoví vláda nařízením.
+Výrobce k žádosti dále přiloží vzorek pyrotechnického výrobku. Výrobce je povinen na vyžádání oznámeného subjektu poskytnout další vzorky pyrotechnických výrobků, jsou-li potřebné pro posouzení jejich shody. Vzorky pyrotechnických výrobků se výrobci nevracejí.
+Postup oznámeného subjektu
+Oznámený subjekt na základě posouzení shody vypracuje hodnotící zprávu, která vyhodnotí dokumentaci náležející k jednotlivým postupům posuzování shody, předložené vzorky a případná přezkoumání a zkoušky. Obsah této zprávy může být zveřejněn jen se souhlasem výrobce.
+Prokáže-li se na základě posouzení shody, že pyrotechnický výrobek splňuje základní bezpečnostní požadavky, oznámený subjekt vydá výrobci
+certifikát EU přezkoušení typu, jde-li o postup podle § 7 odst. 1 písm. a),
+certifikát shody, jde-li o postup podle § 7 odst. 1 písm. b),
+osvědčení o schválení systému jakosti, jde-li o postup podle § 7 odst. 1 písm. c),
+osvědčení o posouzení shody, jde-li o postup podle § 7 odst. 2 písm. b) nebo c).
+Neprokáže-li se na základě posouzení shody, že pyrotechnický výrobek splňuje základní bezpečnostní požadavky, oznámený subjekt certifikát nebo osvědčení podle odstavce 2 nevydá a pyrotechnický výrobek nemůže být uveden na trh.
+Vláda stanoví nařízením popis a náležitosti certifikátu EU přezkoušení typu a osvědčení o posouzení shody.
+EU prohlášení o shodě
+EU prohlášení o shodě vypracovává výrobce v případech, kdy to stanoví tento zákon.
+V EU prohlášení o shodě výrobce uvede, že prokázal splnění základních bezpečnostních požadavků uvedených v příloze č. 2 k tomuto zákonu.
+EU prohlášení o shodě obsahuje požadavky stanovené pro příslušný postup posuzování shody a musí být průběžně aktualizováno. Výrobce EU prohlášení o shodě přeloží do úředního jazyka požadovaného členským státem Unie, v němž je pyrotechnický výrobek uváděn nebo dodáván na trh. Vzor EU prohlášení o shodě stanoví vláda nařízením.
+Pokud má být pyrotechnický výrobek ve shodě s požadavky podle více právních předpisů, vypracuje výrobce pro všechny tyto stanovené požadavky jednotné EU prohlášení o shodě. V jednotném EU prohlášení o shodě musí být uvedeny všechny právní předpisy, s jejichž stanovenými požadavky je výrobek ve shodě.
+Vypracováním EU prohlášení o shodě na sebe výrobce bere odpovědnost za soulad pyrotechnického výrobku s požadavky stanovenými tímto zákonem.
+Kopii EU prohlášení o shodě poskytne výrobce na vyžádání příslušným orgánům.
+Rejstřík pyrotechnických výrobků
+Oznámený subjekt je povinen vést rejstřík pyrotechnických výrobků, kterým udělil certifikát.
+Rejstřík pyrotechnických výrobků je veřejně přístupný seznam, do něhož oznámený subjekt zapisuje
+identifikační údaje o výrobci podle § 19 odst. 3,
+v případě dovozu identifikační údaje o dovozci podle § 20 odst. 5,
+registrační číslo pyrotechnického výrobku,
+datum vydání certifikátu, případně datum skončení jeho platnosti,
+typ pyrotechnického výrobku, případně dílčí typ,
+u postupu posuzování shody podle § 7 odst. 2
+postup posuzování shody pro fázi výroby a
+oznámený subjekt provádějící posuzování shody pro fázi výroby.
+Údaje podle odstavce 2 musí být uchovávány po dobu nejméně 10 let ode dne, kdy byl pyrotechnický výrobek uveden na trh, nestanoví-li výrobce nebo dovozce dobu použitelnosti výrobku delší. Oznámený subjekt je povinen pravidelně aktualizovat rejstřík pyrotechnických výrobků a zpřístupnit jej způsobem umožňujícím dálkový přístup.
+Oznámený subjekt převede rejstřík pyrotechnických výrobků na jiný oznámený subjekt podle tohoto zákona, je-li mu oznámení zrušeno; není-li takový subjekt, pak jej převede na oznamující orgán podle § 42 odst. 1.
+Vzor formátu rejstříku podle odstavce 1 stanoví Ministerstvo průmyslu a obchodu (dále jen „ministerstvo“) vyhláškou.
+Označování pyrotechnických výrobků a jejich sledovatelnost
+Za účelem sledovatelnosti pyrotechnických výrobků označí výrobce tyto výrobky registračním číslem, které přidělí oznámený subjekt provádějící posuzování shody podle § 7. Registrační číslo se skládá z těchto částí:
+čtyřmístného identifikačního čísla oznámeného subjektu, který vydal certifikát,
+kategorie pyrotechnického výrobku, u nějž se osvědčuje shoda, ve zkráceném formátu
+F1, F2, F3 nebo F4 pro zábavní pyrotechniku,
+T1 nebo T2 pro divadelní pyrotechniku kategorie,
+P1 nebo P2 pro jiné pyrotechnické výrobky kategorie, a
+pořadového čísla, které oznámený subjekt přidělil pyrotechnickému výrobku.
+Registrační číslo podle odstavce 1 musí mít následující strukturu: „XXXX - YY - ZZZZ...“, kde XXXX je čtyřmístné identifikační číslo podle odstavce 1 písm. a), YY je kategorie pyrotechnického výrobku podle odstavce 1 písm. b) a ZZZZ... je pořadové číslo pyrotechnického výrobku podle odstavce 1 písm. c).
+Výrobce nebo dovozce pyrotechnických výrobků musí vést záznamy o všech registračních číslech pyrotechnických výrobků, které vyrobí nebo doveze, spolu s názvem výrobku, typem, případně dílčím typem výrobku a místem jeho výroby, a to nejméně po dobu 10 let od uvedení výrobku na trh.
+Výrobce nebo dovozce pyrotechnických výrobků převede záznamy podle odstavce 3 v případě
+své přeměny podle jiného právního předpisu na nástupnickou právnickou osobu, nebo
+svého zániku na oznámený subjekt podle § 42 odst. 1.
+V případě smrti nebo zániku výrobce nebo dovozce pyrotechnických výrobků, pokud dědic nebo právní nástupce nepokračuje v předmětu podnikání, převede dědic nebo právní nástupce záznamy podle odstavce 3 na oznámený subjekt podle § 42 odst. 1, a to do 2 měsíců od pravomocného skončení dědického řízení.
+Výrobce nebo dovozce pyrotechnických výrobků poskytne oznámenému subjektu a České obchodní inspekci na základě jejich pokynů informace uvedené v záznamech podle odstavce 3.
+Označení pyrotechnických výrobků, které nejsou určeny pro použití ve vozidlech
+Výrobce zajistí, aby pyrotechnický výrobek, který není určen pro použití ve vozidlech, byl viditelně, čitelně a nesmazatelně označen v úředním jazyce členského státu Unie, v němž má být pyrotechnický výrobek spotřebitelům dostupný. Toto označení musí být jasné, srozumitelné a rozeznatelné.
+Označení pyrotechnického výrobku, který není určen pro použití ve vozidlech, musí obsahovat
+údaje o výrobci uvedené v § 19 odst. 3, je-li výrobce usazen v Unii, nebo údaje o výrobci uvedené v § 19 odst. 3 a údaje o dovozci uvedené v § 20 odst. 5, není-li výrobce usazen v Unii,
+název, druh, číslo a šarži nebo sérii pyrotechnického výrobku,
+registrační číslo pyrotechnického výrobku,
+minimální věkovou hranici podle § 5,
+kategorii pyrotechnického výrobku podle § 4 odst. 2,
+návod k použití,
+čistý obsah výbušných látek,
+dobu použitelnosti,
+u zábavní pyrotechniky kategorií F3 a F4 rok výroby a
+údaje o bezpečné vzdálenosti u pyrotechnických výrobků, u kterých je to vhodné.
+Na zábavní pyrotechnice musí být kromě označení podle odstavce 2 dále uveden u
+kategorie F1, je-li to vhodné, údaj „pouze pro venkovní použití“ a minimální bezpečná vzdálenost,
+kategorie F2 údaj „pouze pro venkovní použití“ a případně minimální bezpečná vzdálenost,
+kategorie F3 údaj „pouze pro venkovní použití“ a minimální bezpečná vzdálenost,
+kategorie F4 údaj „pouze pro použití osobami s odbornou způsobilostí“ a minimální bezpečná vzdálenost.
+Na divadelní pyrotechnice musí být kromě označení podle odstavce 2 dále uveden u
+kategorie T1, je-li to vhodné, údaj „pouze pro venkovní použití“ a minimální bezpečná vzdálenost,
+kategorie T2 údaj „pouze pro použití osobami s odbornou způsobilostí“ a minimální bezpečná vzdálenost.
+Není-li na pyrotechnickém výrobku dostatek místa, aby bylo možno splnit požadavky na označení podle odstavců 2 až 4, uvedou se tyto informace na nejmenším balení pyrotechnického výrobku určeného k prodeji.
+Označování pyrotechnických výrobků pro použití ve vozidlech
+Hospodářský subjekt zajistí, aby označení na pyrotechnickém výrobku pro použití ve vozidlech obsahovalo
+údaje o výrobci uvedené v § 19 odst. 3,
+název a druh pyrotechnického výrobku,
+registrační číslo a číslo výrobku, šarže nebo série a
+bezpečnostní pokyny, je-li to nutné.
+Není-li na pyrotechnickém výrobku pro použití ve vozidlech dostatek místa pro označení podle odstavce 1, uvede se toto označení na obalu.
+Hospodářský subjekt dodá uživateli, který pyrotechnické výrobky pro použití ve vozidle v rámci své podnikatelské činnosti zabuduje do vozidla nebo odnímatelného dílu vozidla, bezpečnostní list pro pyrotechnický výrobek pro použití ve vozidlech, který se sestavuje podle přímo použitelného předpisu Unie a který zohledňuje specifické potřeby těchto uživatelů. Bezpečnostní list dodá v jazyce, který tento uživatel požaduje, a to v listinné podobě, případně v elektronické podobě, pokud o to uživatel požádá.
+OZNAČENÍ CE
+Pravidla a podmínky pro připojování označení CE a jiných označení
+Kromě obecných zásad podle přímo použitelného předpisu Unie musí být označení CE vyznačeno v souladu s následujícími požadavky:
+označení CE se viditelně, čitelně a nesmazatelně připojí k pyrotechnickému výrobku; pokud to vzhledem k povaze pyrotechnického výrobku není možné nebo odůvodněné, musí být označení připojeno k obalu a průvodním dokumentům,
+označení CE se připojí před uvedením pyrotechnického výrobku na trh,
+za označením CE následuje identifikační číslo oznámeného subjektu, byl-li tento subjekt zapojen do fáze kontroly výroby; identifikační číslo oznámeného subjektu připojuje oznámený subjekt nebo je připojeno podle jeho pokynů výrobcem,
+za označením CE, případně za identifikačním číslem oznámeného subjektu může následovat jakákoli jiná značka označující zvláštní riziko nebo použití.
+HOSPODÁŘSKÝ SUBJEKT
+Povinnosti hospodářského subjektu
+Hospodářský subjekt může dodávat na trh pouze pyrotechnické výrobky, které splňují požadavky tohoto zákona.
+Hospodářský subjekt vede seznam, do kterého se zapisují informace o každém hospodářském subjektu, který mu dodal nebo kterému dodal pyrotechnický výrobek. Do seznamu se zapisuje jméno, obchodní firma, identifikační číslo a datum dodání pyrotechnického výrobku. Tyto informace o hospodářském subjektu a dodání pyrotechnického výrobku se uchovávají po dobu nejméně 10 let od jeho dodání.
+Hospodářský subjekt poskytne na žádost příslušnému kontrolnímu orgánu informace ze seznamu podle odstavce 2.
+Povinnosti hospodářského subjektu při vystavování
+Při vystavování na veletrzích, výstavách a předváděcích akcích za účelem uvádění pyrotechnických výrobků na trh může hospodářský subjekt předvádět a používat i pyrotechnické výrobky, které neodpovídají požadavkům tohoto zákona nebo přímo použitelnému předpisu, za podmínky, že jsou viditelně opatřeny označením, které nese jméno a datum konání dotčeného veletrhu, výstavy nebo předváděcí akce a které informuje o tom, že pyrotechnické výrobky neodpovídají tomuto zákonu nebo přímo použitelnému právnímu předpisu a jsou neprodejné.
+Při vystavování hospodářský subjekt zajistí přijetí bezpečnostních opatření. Požadavky na bezpečnostní opatření k zajištění protipožárních opatření, označení, skladování a používání pyrotechnických výrobků, vymezení a zajištění ohroženého prostoru a podmínky při vystavování pyrotechnických výrobků stanoví ministerstvo vyhláškou.
+Povinnosti výrobce
+Výrobce může uvádět na trh pouze pyrotechnické výrobky, u kterých byla posouzena shoda.
+Při uvádění pyrotechnických výrobků na trh musí výrobce zajistit, aby tyto výrobky byly navrženy a vyrobeny v souladu se základními bezpečnostními požadavky.
+Výrobce vypracuje dokumentaci stanovenou u jednotlivých postupů posuzování shody v nařízení vlády a zajistí provedení příslušného postupu posouzení shody. Byl-li soulad pyrotechnického výrobku s požadavky stanovenými v postupu posuzování shody prokázán podle § 7 odst. 1 písm. b) nebo c) nebo § 7 odst. 2, vypracuje výrobce EU prohlášení o shodě a připojí označení CE.
+Výrobce uchovává dokumentaci stanovenou u jednotlivých postupů posuzování shody v nařízení vlády a EU prohlášení o shodě nejméně po dobu 10 let po uvedení pyrotechnického výrobku na trh.
+Výrobce zajistí, aby výrobní proces a jeho kontrola byly ve shodě s typem uvedeným v certifikátu a s požadavky tohoto zákona.
+Výrobce je povinen používat schválený systém jakosti pro výrobu, výstupní kontrolu, konstrukci a zkoušky a o změnách informuje oznámený subjekt.
+V případě sériové výroby je povinen používat výrobce postupy zajišťující shodu s tímto zákonem.
+Výrobce, za účelem ochrany zdraví a bezpečnosti spotřebitelů, provádí na základě pokynu kontrolního orgánu zkoušky a ověřování pyrotechnických výrobků dodávaných na trh. O těchto zkouškách, ověřování a jejich výsledcích průběžně informuje distributory.
+Výrobce vede evidenci stížností uživatelů pyrotechnických výrobků, nevyhovujících pyrotechnických výrobků a pyrotechnických výrobků stažených z oběhu.
+Výrobce uvede na pyrotechnickém výrobku, nebo není-li to možné, na obalu nebo v dokladu přiloženém k výrobku své jméno a příjmení, obchodní firmu, popřípadě ochrannou známku a kontaktní adresu. Adresa musí obsahovat jediné místo, na kterém lze výrobce kontaktovat.
+Výrobce zajistí, aby byl k pyrotechnickému výrobku přiložen návod k použití ve srozumitelné formě. Tento návod k použití a další označení musí být rovněž jasné, rozeznatelné a nesmazatelné.
+Výrobce, který se domnívá nebo má důvod se domnívat, že pyrotechnický výrobek, který uvedl na trh, není ve shodě s tímto zákonem, přijme okamžitě nezbytná opatření k nápravě, nebo v případě potřeby opatření k jeho stažení z trhu nebo z oběhu. Představuje-li takový pyrotechnický výrobek riziko, informuje výrobce neprodleně o této skutečnosti příslušné orgány členských států Unie, v nichž pyrotechnický výrobek dodal na trh, a uvede podrobnosti zejména o nesouladu s požadavky stanovenými tímto zákonem (dále jen „nesoulad“) a o přijatých nápravných opatřeních.
+Výrobce předloží příslušnému kontrolnímu orgánu na základě jeho pokynu v listinné nebo elektronické podobě ve srozumitelné formě všechny informace a dokumentaci nezbytné k prokázání shody. Na základě pokynu tohoto kontrolního orgánu s ním výrobce spolupracuje při každém opatření přijatém s cílem odstranit riziko, které představuje pyrotechnický výrobek, který uvedl na trh.
+Výrobce je povinen spolupracovat s oznámeným subjektem při výkonu dohledu podle § 49 odst. 4.
+Povinnosti dovozce
+Dovozce může uvádět na trh pouze pyrotechnické výrobky, u kterých byla posouzena shoda.
+Dovoz vybraných pyrotechnických výrobků podléhá povolení k dovozu, stanoví-li tak jiný právní předpis. Ministerstvo poskytne Úřadu potřebné informace o vydaných povoleních k dovozu a uskutečněných dovozech.
+Před uvedením pyrotechnického výrobku na trh dovozce zajistí, aby výrobce provedl příslušný postup posuzování shody podle § 7. Byl-li soulad pyrotechnického výrobku s požadavky stanovenými v postupu posuzování shody prokázán podle § 7 odst. 1 písm. b) nebo c) nebo § 7 odst. 2, zajistí dovozce, aby výrobce vydal EU prohlášení o shodě, aby pyrotechnický výrobek byl opatřen označením CE, byly k němu přiloženy požadované doklady a smluvně též zajistí, aby výrobce dodržel požadavky stanovené v § 18 odst. 7 a § 19 odst. 3 a 4.
+Domnívá-li se dovozce nebo má-li důvod se domnívat, že pyrotechnický výrobek není ve shodě se základními bezpečnostními požadavky stanovenými v příloze č. 2 k tomuto zákonu, nesmí uvést pyrotechnický výrobek na trh, dokud nebude zjednána náprava. Představuje-li pyrotechnický výrobek riziko, informuje o tom neprodleně výrobce a příslušný kontrolní orgán.
+Dovozce uvede ve srozumitelné formě na pyrotechnickém výrobku, nebo není-li to možné, na obalu nebo v dokladu přiloženém k výrobku své jméno a příjmení, obchodní firmu, popřípadě ochrannou známku a kontaktní adresu.
+Dovozce zajistí, aby byl k pyrotechnickému výrobku přiložen návod k použití ve srozumitelné formě.
+Dovozce, za účelem ochrany zdraví a bezpečnosti spotřebitelů, provádí na základě pokynu příslušných orgánů zkoušky vzorků a ověřování pyrotechnických výrobků dodávaných na trh. O těchto zkouškách, ověřování a jejich výsledcích průběžně informuje distributory.
+Dovozce vede evidenci stížností uživatelů pyrotechnických výrobků, nevyhovujících pyrotechnických výrobků a pyrotechnických výrobků stažených z oběhu.
+Dovozce, který se domnívá nebo má důvod se domnívat, že pyrotechnický výrobek, který uvedl na trh, není ve shodě s tímto zákonem, přijme okamžitě nezbytná nápravná opatření k uvedení pyrotechnického výrobku do shody nebo v případě potřeby opatření k jeho stažení z trhu nebo z oběhu. Představuje-li takový pyrotechnický výrobek riziko, informuje neprodleně příslušný kontrolní orgán o této skutečnosti a uvede podrobnosti zejména o nesouladu a o přijatých nápravných opatřeních.
+Dovozce po dobu deseti let po uvedení pyrotechnického výrobku na trh uchovává kopii EU prohlášení o shodě pro potřeby příslušného kontrolního orgánu a zaručuje, že dokumentace stanovená u jednotlivých postupů posuzování shody v nařízení vlády může být těmto orgánům na požádání předložena.
+Dovozce předloží příslušnému kontrolnímu orgánu na základě jeho pokynu v listinné nebo elektronické podobě ve srozumitelné formě všechny informace a dokumentaci nezbytné k prokázání shody. Na základě pokynu tohoto kontrolního orgánu s ním dovozce spolupracuje při každém opatření přijatém s cílem odstranit riziko, které představuje pyrotechnický výrobek uvedený na trh.
+Povinnosti distributora
+Distributor může dodávat na trh pouze pyrotechnické výrobky, u kterých byla posouzena shoda a u kterých nebyla překročena doba jejich použitelnosti.
+Před dodáním pyrotechnického výrobku na trh distributor ověří, zda byl pyrotechnický výrobek opatřen označením CE, zda jsou k němu ve srozumitelné formě přiloženy požadované doklady a zda výrobce nebo dovozce zajistili, aby pyrotechnický výrobek obsahoval označení v souladu s tímto zákonem.
+Domnívá-li se distributor nebo má-li důvod se domnívat, že pyrotechnický výrobek není ve shodě se základními bezpečnostními požadavky stanovenými v příloze č. 2 k tomuto zákonu, nesmí dodat pyrotechnický výrobek na trh, dokud nebude zjednána náprava. Pokud pyrotechnický výrobek představuje riziko, informuje o tom neprodleně distributor výrobce nebo dovozce a příslušný kontrolní orgán.
+Distributor, který se domnívá nebo má důvod se domnívat, že pyrotechnický výrobek, který dodal na trh, není ve shodě s tímto zákonem, zajistí, aby byla přijata nezbytná nápravná opatření k uvedení pyrotechnického výrobku do shody nebo v případě potřeby opatření k jeho stažení z trhu nebo z oběhu. Představuje-li takový pyrotechnický výrobek riziko, informuje neprodleně příslušný kontrolní orgán a uvede podrobnosti o nesouladu a o přijatých nápravných opatřeních.
+Distributor předloží příslušnému kontrolnímu orgánu na základě jeho pokynu v listinné nebo elektronické podobě ve srozumitelné formě všechny informace a dokumentaci nezbytné k prokázání shody pyrotechnického výrobku s technickými požadavky. Na základě pokynu tohoto kontrolního orgánu s ním distributor spolupracuje při přijímání opatření za účelem odstranění rizika, která představují pyrotechnické výrobky dodané na trh.
+Další povinnosti dovozce a distributora
+Pokud dovozce nebo distributor uvede pyrotechnický výrobek na trh pod svým jménem nebo ochrannou známkou nebo pokud upraví pyrotechnický výrobek, jenž byl na trh již uveden, takovým způsobem, který může ovlivnit jeho shodu s požadavky, je v takovém případě považován za výrobce a vztahují se na něj povinnosti výrobce podle § 18 a 19.
+ZACHÁZENÍ S PYROTECHNICKÝMI VÝROBKY
+Prodej pyrotechnických výrobků
+Hospodářský subjekt nebo osoba s odbornou způsobilostí mohou prodávat pouze pyrotechnické výrobky
+u kterých byla posouzena shoda,
+které jsou označeny v souladu s ustanovením § 15 tohoto zákona,
+v původním balení výrobce,
+za podmínky dodržení věkové hranice podle § 5 odst. 1,
+které jsou označeny v souladu s § 13 nebo § 14 a
+u kterých nebyla překročena doba použitelnosti.
+Pokud jsou pyrotechnické výrobky prodávány prostřednictvím internetu, jsou hospodářský subjekt nebo osoba s odbornou způsobilostí povinny přijmout opatření k zajištění
+jejich zpřístupnění prokazatelným způsobem pouze osobám splňujícím věkové hranice podle § 5 odst. 1,
+jejich přepravy a doručení prokazatelným splněním přepravních podmínek vyplývajících z jiného právního předpisu.
+Zneškodňování a ničení pyrotechnických výrobků
+Hospodářský subjekt nebo osoba s odbornou způsobilostí jsou povinny zajistit bezodkladné zničení nebo zneškodnění poškozených anebo zjevně nefunkčních pyrotechnických výrobků v souladu s návodem na použití.
+Hospodářský subjekt nebo osoba s odbornou způsobilostí zajistí, aby ničení a zneškodňování pyrotechnických výrobků kategorie F4, T2 a P2 bylo prováděno jen osobou s odbornou způsobilostí.
+Obecné požadavky na skladování pyrotechnických výrobků
+Hospodářský subjekt nebo osoba s odbornou způsobilostí jsou povinny skladovat pyrotechnické výrobky
+podle návodu k použití a označení a pokynů uvedených na výrobku nebo na nejmenším balení pyrotechnického výrobku určeného k prodeji nebo podle požadavků výrobce, nebo pokud jsou pyrotechnické výrobky skladovány v přepravních obalech, tak podle bezpečnostních označení a pokynů uvedených na přepravním obalu,
+odděleně od hořlavých a hoření podporujících látek,
+takovým způsobem, aby bylo zabráněno jejich samovolnému pádu a aby bylo zamezeno jejich neúmyslné iniciaci nebo zážehu,
+v suchu a takovým způsobem, aby jejich teplota nepřesáhla 40 °C, pokud není v označení podle § 13 nebo bezpečnostních pokynech uvedených na výrobku nebo na nejmenším balení pyrotechnického výrobku určeného k prodeji uvedeno jinak,
+v původních přepravních obalech výrobce nebo dovozce nebo v nejmenším balení pyrotechnického výrobku určeného k prodeji a
+takovým způsobem, aby jejich neúmyslnou iniciací nebo zážehem bylo minimalizováno ohrožení života a zdraví osob nebo majetku a aby skladovací podmínky neohrožovaly soulad výrobku se základními bezpečnostními požadavky na pyrotechnické výrobky.
+Není-li uvedeno jinak, skladují se pyrotechnické výrobky ve skladu, příručním skladu nebo v prodejní místnosti. Hospodářský subjekt může skladovat pyrotechnické výrobky v příručním skladu nebo prodávat a skladovat v prodejní místnosti, pouze pokud byly tyto prostory k tomuto účelu povoleny podle stavebního zákona.
+Hospodářský subjekt nebo osoba s odbornou způsobilostí vedou evidenci skladovaných pyrotechnických výrobků. Obsah evidence stanoví ministerstvo vyhláškou.
+Ve všech prostorách, kde jsou skladovány pyrotechnické výrobky, zajistí hospodářský subjekt nebo osoba s odbornou způsobilostí zákaz kouření, manipulace s otevřeným ohněm a rozpálenými předměty a dále zákaz dalších činností, které by mohly způsobit uvedení pyrotechnického výrobku do funkce, s výjimkou pyrotechnických výrobků, jejichž návod k použití to nevylučuje.
+Skladování v prodejních místnostech a příručních skladech
+V prodejní místnosti se mohou skladovat pyrotechnické výrobky v množství obsahující nejvýše 80 kg čisté hmotnosti výbušných látek.
+V příručním skladu se mohou skladovat pyrotechnické výrobky v množství obsahující nejvýše
+300 kg čisté hmotnosti výbušných látek, pokud se všechny nacházejí v původních přepravních obalech výrobce nebo dovozce, označených v souladu s Evropskou dohodou o mezinárodní silniční přepravě nebezpečných věcí (ADR) klasifikačním kódem 1.4 G, z nichž nejvýše jeden takový obal každého druhu výrobku může být otevřen,
+200 kg čisté hmotnosti výbušných látek, pokud nejsou splněny podmínky písmene a), nebo
+750 kg čisté hmotnosti výbušných látek, při skladování v kombinaci podle písmene a), anebo b) společně s pyrotechnickými výrobky nacházejícími se v původních přepravních obalech výrobce nebo dovozce, které jsou označeny v souladu s Evropskou dohodou o mezinárodní silniční přepravě nebezpečných věcí (ADR) klasifikačním kódem 1.4 S.
+Skladování ve skladech
+Není-li uvedeno jinak, skladují se pyrotechnické výrobky ve skladech povolených k tomuto účelu podle stavebního zákona a současně splňujících požadavky, které stanoví ministerstvo prováděcím právním předpisem. Ministerstvo vyhláškou stanoví úpravu jednotlivých stavebních částí skladu, vybavení skladu zařízením elektronické zabezpečovací signalizace, konstrukce stěn, přepážek, zárubní, dveří, výfukových ploch a střešních konstrukcí, povrchovou úpravu vnitřních stěn, stropu, podlah, požadavky na okolí skladu, bezpečnostní vzdálenost a obložnost, požární zabezpečení skladu včetně zákazu kouření a ochranu skladu před účinky vnějších vlivů.
+Skladování a prodej pyrotechnických výrobků kategorie F1
+Mimo sklad nebo příruční sklad může hospodářský subjekt nebo osoba s odbornou způsobilostí skladovat nebo mimo prodejní místnost prodávat a skladovat pouze pyrotechnické výrobky kategorie F1.
+Při skladování nebo prodeji podle odstavce 1 jsou hospodářský subjekt nebo osoba s odbornou způsobilostí povinny mít k dispozici alespoň jeden přenosný hasicí přístroj vodní nebo pěnový s hasicí schopností nejméně 13A nebo přenosný hasicí přístroj práškový s hasicí schopností nejméně 21A.
+Výzkum, vývoj a zkoušení
+Pyrotechnické výrobky vyrobené za účelem výzkumu, vývoje a zkoušení, které nejsou v souladu s ustanoveními tohoto zákona, může oprávněný držitel používat pouze k výzkumu, vývoji a zkoušení a pouze, pokud jsou viditelně opatřeny označením s informací o tom, že neodpovídají tomuto zákonu a jsou určeny pouze k výzkumu, vývoji a zkoušení.
+Vystavování pyrotechnických výrobků
+Hospodářský subjekt, který vystavuje pyrotechnické výrobky, je povinen ohlásit Úřadu a hasičskému záchrannému sboru kraje nejméně 5 pracovních dní přede dnem zahájení vystavování
+místo, datum a čas vystavování pyrotechnických výrobků,
+dobu trvání vystavování pyrotechnických výrobků,
+obchodní firmu, adresu sídla a identifikační číslo nebo jméno, příjmení, adresu a identifikační číslo vystavovatele a
+množství a druh vystavovaných pyrotechnických výrobků.
+Ohňostroje
+Ohňostrojem se rozumí současné nebo v krátkém časovém sledu následující odpalování pyrotechnických výrobků kategorie F2, F3 nebo T1. Za ohňostroj se nepovažuje odpalování pyrotechnických výrobků do hmotnosti 10 kg čistého obsahu výbušných látek celkem.
+Hospodářský subjekt nebo osoba s odbornou způsobilostí jsou povinny ohlásit provedení ohňostroje příslušnému obecnímu úřadu a příslušnému hasičskému záchrannému sboru kraje, a to nejpozději 2 pracovní dny před jeho provedením.
+Ohlášení ohňostroje podle odstavce 2 musí mít písemnou formu a spolu s ním se předkládá i písemný souhlas vlastníka pozemku, na jehož pozemku se bude odpalovat, popřípadě souhlas vlastníků, správců nebo uživatelů dalších dotčených nemovitostí s provedením ohňostroje. Ohlášení obsahuje
+údaje o osobě provádějící ohňostroj a kontaktní telefon,
+místo provádění ohňostroje,
+datum a čas začátku přípravy, datum a čas provedení ohňostroje a dobu jeho trvání,
+množství a druhy používaných pyrotechnických výrobků,
+způsob zajištění ochrany života a zdraví osob a majetku, včetně map nebo schémat, zachycujících odpaliště a území ohrožené účinky odpalovaných pyrotechnických výrobků, zejména rozletem jejich částí a dopadem nebezpečných zbytků po jejich odpálení.
+Ohňostroj musí být proveden hospodářským subjektem nebo osobou s odbornou způsobilostí, a to v souladu s ohlášenými údaji podle odstavce 3 písm. a) až d) a za dodržení opatření ohlášeného podle odstavce 3 písm. e).
+Ohňostrojná práce
+Ohňostrojnou prací je činnost, při které se využívá pyrotechnických výrobků kategorie F4 nebo T2, případně v kombinaci s pyrotechnickými výrobky uvedenými v § 32 odst. 1, k produkci světla, zvuku, kouře nebo kombinace těchto efektů, zahrnující přípravu a provádění této činnosti. Tyto činnosti se zpravidla provedou na jednom pracovišti a při jednom uzavření bezpečnostního okruhu.
+Bezpečnostním okruhem se rozumí obvod území, kterým je území ohrožené účinky odpalovaných pyrotechnických výrobků, zejména rozletem jejich částí a dopadem nebezpečných zbytků po jejich odpálení. Bezpečnostní okruh se stanoví s ohledem na druh odpalovaných pyrotechnických výrobků z hlediska jejich funkce a nebezpečnosti, s ohledem na způsob jejich odpalování a na předpovídané povětrnostní podmínky.
+Ohňostrojné práce je oprávněna provádět pouze osoba s odbornou způsobilostí podle § 36 odst. 1 písm. b). Pro každou ohňostrojnou práci musí být z osob s odbornou způsobilostí určen vedoucí odpalovač ohňostrojů, který zabezpečuje dodržení technologického postupu při vlastním provedení ohňostrojných prací.
+Technologickým postupem je postup ohňostrojné práce, který vypracovává vedoucí odpalovač ohňostrojů pro každou jednotlivou ohňostrojnou práci. Generálním technologickým postupem je postup ohňostrojných prací, který lze použít pouze pro potřeby výuky osob k získání odborné způsobilosti k zacházení s pyrotechnickými výrobky u opakovaných ohňostrojných prací, které mají být prováděny za stejných nebo obdobných podmínek. V případě zpracování generálního technologického postupu ohňostrojných prací nemusí být vypracováván samostatný technologický postup ohňostrojných prací pro každou ohňostrojnou práci.
+Před zahájením dočasného nebo příležitostného provádění ohňostrojných prací v České republice fyzickou osobou, která je v jiném členském státě Evropské unie nebo Švýcarské konfederaci oprávněna k výkonu obdobné činnosti, ověří Český báňský úřad odbornou kvalifikaci podle zákona o uznávání odborné kvalifikace.
+Způsob provádění ohňostrojných prací, pokud jde o bezpečnost a ochranu zdraví při práci a ochranu života, zdraví a majetku a obsah samostatného nebo generálního technologického postupu stanoví Český báňský úřad vyhláškou.
+Povolení ohňostrojné práce
+Ohňostrojné práce lze provést pouze na základě rozhodnutí o povolení ohňostrojné práce vydaného obvodním báňským úřadem, kterým se povolí provést ohňostrojnou práci podle technologického postupu podle § 33 odst. 4.
+Žádost o povolení ohňostrojné práce podává ten, kdo bude tuto práci provádět. Žádost vedle obecných náležitostí podle správního řádu obsahuje
+určení vedoucího odpalovače ohňostrojů,
+technologický postup,
+písemný souhlas vlastníka pozemku, na kterém má být ohňostrojná práce provedena, s provedením ohňostrojné práce.
+Účastníky řízení o povolení ohňostrojných prací jsou žadatel a obec, v jejímž územním obvodu má být ohňostrojná práce provedena, vlastníci nemovitostí, které se nachází v bezpečnostním okruhu, nebo jejich správci anebo uživatelé.
+Náklady na případný znalecký posudek potřebný v řízení o povolení ohňostrojné práce hradí žadatel o povolení ohňostrojných prací.
+Rozhodnutí o povolení ohňostrojné práce kromě obecných náležitostí stanovených správním řádem obsahuje
+datum, místo a předpokládaný čas provedení ohňostrojné práce,
+případné podmínky k zajištění bezpečného provedení ohňostrojné práce.
+Pravomocné rozhodnutí podle odstavce 5 se zasílá též příslušnému krajskému ředitelství Policie České republiky a hasičskému záchrannému sboru kraje.
+Při provádění ohňostrojných prací jsou vlastníci nemovitostí, které se nachází v bezpečnostním okruhu nebo jejich správci nebo uživatelé povinni strpět opatření k zajištění bezpečnosti života, zdraví osob a ochrany majetku, včetně dodržení výstražných signálů.
+Povolovací povinnost dle odstavce 1 se nevztahuje na ohňostrojné práce prováděné prostřednictvím pyrotechnických výrobků uvedených v příloze č. 3 tohoto zákona; provádění ohňostrojných prací prostřednictvím těchto pyrotechnických výrobků podléhá ohlášení podle § 32 odstavce 2.
+Evidence pyrotechnických výrobků použitých při provádění ohňostrojných prací
+Osoba s odbornou způsobilostí podle § 36 odst. 1 písm. b) je povinna vést evidenci údajů o všech pyrotechnických výrobcích kategorie F4 a T2, které použila při provádění ohňostrojných prací.
+V evidenci musí být uvedeno
+registrační číslo pyrotechnického výrobku použitého při provádění ohňostrojných prací,
+množství a kategorie pyrotechnického výrobku použitého při provádění ohňostrojných prací a
+jméno, příjmení, adresa a identifikační číslo osoby s odbornou způsobilostí podle § 36 odst. 1 písm. b).
+Osoba s odbornou způsobilostí je povinna uchovat v evidenci údaje o pyrotechnických výrobcích kategorie F4 a T2 použitých při provádění ohňostrojných prací nejméně 1 rok po jejich odpalu nebo jejich převedení na jinou osobu.
+Na základě pokynu kontrolních orgánů je osoba s odbornou způsobilostí povinna předložit evidenci k nahlédnutí a umožnit pořízení kopií, opisů nebo výpisů.
+ODBORNÁ ZPŮSOBILOST
+Odborná způsobilost
+Za osobu s odbornou způsobilostí se považuje fyzická osoba, která má osvědčení o odborné způsobilosti pro zacházení s pyrotechnickými výrobky
+kategorie P2, pokud jde o nákup, prodej, ničení nebo zneškodňování pyrotechnických výrobků kategorie P2, nebo
+kategorie T2 nebo F4, pokud jde o nákup, prodej, ničení nebo zneškodňování pyrotechnických výrobků kategorie T2 nebo F4 a provádění ohňostrojných prací.
+Za osobu s odbornou způsobilostí se považuje dále právnická a podnikající fyzická osoba, která zachází s pyrotechnickými výrobky prostřednictvím osoby, která má osvědčení o odborné způsobilosti pro zacházení s pyrotechnickými výrobky v rozsahu podle odstavce 1.
+Vzory osvědčení o odborné způsobilosti stanoví Český báňský úřad vyhláškou.
+Provozovatel vázané živnosti s předmětem podnikání „nákup, prodej, ničení a zneškodňování pyrotechnických výrobků kategorie P2, T2 a F4 a provádění ohňostrojných prací“ vede evidenci osvědčení o odborné způsobilosti svých zaměstnanců.
+Osvědčení o odborné způsobilosti
+Osvědčení o odborné způsobilosti pro zacházení s pyrotechnickými výrobky se vydává na dobu neurčitou s tím, že držitel osvědčení je povinen předložit Českému báňskému úřadu každých 5 let lékařský posudek o zdravotní způsobilosti k práci nebo činnosti, při níž se zachází s pyrotechnickými výrobky kategorie P2, T2 nebo F4 (dále jen „lékařský posudek“).
+Žadatel o získání osvědčení o odborné způsobilosti podle odstavce 1 musí
+být fyzickou osobou starší 18 let,
+mít nejméně středoškolské vzdělání s maturitou,
+být plně svéprávný,
+být bezúhonný,
+být zdravotně způsobilý.
+Za bezúhonného se nepovažuje ten, kdo byl pravomocně odsouzen za úmyslný trestný čin nebo za trestný čin nedbalostní spáchaný v souvislosti s použitím nebo používáním výbušnin nebo pyrotechnických výrobků, pokud se na něj nehledí, jako by nebyl odsouzen. Za účelem zjištění, zda osoba splňuje podmínku bezúhonnosti, si Český báňský úřad vyžádá výpis z evidence Rejstříku trestů. Je-li žadatel cizincem, vyžádá si Český báňský úřad výpis z evidence Rejstříku trestů včetně přílohy obsahující cizozemská odsouzení. Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.
+Žadatel předloží žádost o získání osvědčení o odborné způsobilosti pro zacházení s pyrotechnickými výrobky kategorie P2, T2 nebo F4 Českému báňskému úřadu. V žádosti o získání osvědčení uvede vedle obecných náležitostí podle správního řádu doklad o dosaženém vzdělání, adresu zaměstnavatele, pracovní zařazení a druh vykonávané práce v případě, že žadatel je zaměstnancem. Žadatel k žádosti přiloží fotografii o rozměru 35 x 45 mm, doklad o zaplacení správního poplatku a lékařský posudek.
+Český báňský úřad rozhodne o vydání osvědčení o odborné způsobilosti, pokud žadatel splňuje podmínky podle odstavce 2 a pokud absolvuje odborné školení a úspěšně složí zkoušku podle § 38.
+Odborné školení pro získání osvědčení o odborné způsobilosti
+Odborné školení žadatelů pro získání osvědčení o odborné způsobilosti k zacházení s pyrotechnickými výrobky příslušné kategorie zajišťuje Úřad ve spolupráci s Českým báňským úřadem, které schvalují odbornou náplň školení a zajišťují vlastní výuku při školení. Členem zkušební komise je vždy osoba pověřená Úřadem. Předsedou komise je osoba pověřená Českým báňským úřadem.
+Rozsah a délku odborného školení a plán teoretické a praktické části odborného školení stanoví ministerstvo vyhláškou.
+Název a kontaktní údaje školicího pracoviště, termín a místo konání odborného školení a organizační pokyny zveřejní Úřad způsobem umožňujícím dálkový přístup. Odborné školení je zahájeno, pokud je dosaženo alespoň počtu 5 žadatelů.
+Odborné školení je ukončeno zkouškou, která ověří získané odborné znalosti. Zkouška se skládá z písemného testu, ústní a praktické zkoušky podle zkušebního řádu. Zkušební řád stanoví ministerstvo vyhláškou.
+Náklady spojené se zajištěním odborného školení ve výši 10 000 Kč hradí žadatel o získání osvědčení o odborné způsobilosti k zacházení s pyrotechnickými výrobky Úřadu. Doklad o zaplacení nákladů předloží žadatel při zahájení odborného školení. Předložení dokladu o zaplacení nákladů je předpokladem k absolvování odborného školení.
+Zdravotní způsobilost pro účely vydání osvědčení o odborné způsobilosti
+Zdravotní způsobilost žadatele o získání osvědčení o odborné způsobilosti podle § 36 odst. 1 nebo držitele tohoto osvědčení se dokládá lékařským posudkem. Pokud tento zákon nestanoví jinak, postupuje se při posuzování zdravotní způsobilosti a vydávání lékařských posudků podle zákona o specifických zdravotních službách.
+Za zdravotně způsobilého pro účely vydání osvědčení o odborné způsobilosti podle § 36 odst. 1 nelze uznat toho, kdo má tak sníženou schopnost k vidění, vnímání nebo k pohybu, že nemůže bezpečně nakládat s pyrotechnickými výrobky. Požadavky na zdravotní způsobilost, zejména obsah lékařských prohlídek, náležitosti lékařského posudku, podmínky pro posouzení zdravotní způsobilosti a nemoci, vady nebo stavy, které vylučují nebo omezují zdravotní způsobilost k zacházení s pyrotechnickými výrobky, stanoví ministerstvo vyhláškou.
+Zjistí-li posuzující lékař u držitele osvědčení o odborné způsobilosti podle § 36 odst. 1 změnu zdravotního stavu, která má za následek omezení nebo ztrátu zdravotní způsobilosti k zacházení s pyrotechnickými výrobky, je povinen vydat nový lékařský posudek a zaslat jej bez zbytečného odkladu Českému báňskému úřadu a zaměstnavateli držitele osvědčení.
+Každý lékař, který zjistí nebo nabude důvodné podezření, že držitel osvědčení o odborné způsobilosti podle § 36 odst. 1 trpí nemocí, vadou nebo stavem, které vylučují nebo omezují zdravotní způsobilost k zacházení s pyrotechnickými výrobky podle § 36 odst. 1 písm. a) nebo b), poučí jej o této skutečnosti a oznámí ji bez zbytečného odkladu posuzujícímu lékaři. Posuzující lékař pak postupuje podle odstavce 3.
+Držitel osvědčení o odborné způsobilosti podle § 36 odst. 1 se považuje za zdravotně nezpůsobilého k zacházení s pyrotechnickými výrobky, pokud nepředloží lékařský posudek, nebo nepředloží Českému báňskému úřadu lékařský posudek ve lhůtě 5 let ode dne vydání předchozího lékařského posudku, nebo došlo-li ke změně stavu, který má za následek ztrátu jeho zdravotní způsobilosti.
+Zrušení osvědčení o odborné způsobilosti
+Český báňský úřad rozhodne o zrušení osvědčení o odborné způsobilosti podle § 36 odst. 1, jestliže jeho držitel
+přestane splňovat podmínky potřebné pro jeho získání, nebo
+nepředloží lékařský posudek do 5 let ode dne vydání předchozího lékařského posudku.
+Rozhodnutí o zrušení osvědčení o odborné způsobilosti podle § 36 odst. 1, které je vykonatelné, oznámí Český báňský úřad příslušnému živnostenskému úřadu nebo zaměstnavateli.
+Seznam osob s odbornou způsobilostí a vydaných a odejmutých osvědčení o odborné způsobilosti
+Český báňský úřad vede seznam osob s odbornou způsobilostí podle § 36 odst. 1, a to včetně údajů o vydaných a odejmutých osvědčeních; tento seznam není veřejně přístupný.
+Seznam osob s odbornou způsobilostí a vydaných a odejmutých osvědčení o odborné způsobilosti obsahuje následující údaje
+jméno a příjmení, datum narození a adresu bydliště, případně jinou adresu pro doručování osoby, která získala osvědčení o odborné způsobilosti podle § 36 odst. 1,
+číslo osvědčení o odborné způsobilosti,
+kategorie pyrotechnických výrobků, pro které je osvědčení o odborné způsobilosti vydáno,
+datum vydání osvědčení o odborné způsobilosti,
+datum odejmutí osvědčení.
+Osoba s odbornou způsobilostí je povinna ohlásit Českému báňskému úřadu změnu údajů v osvědčení o odborné způsobilosti podle § 36 odst. 1, jakož i ztrátu, odcizení, poškození nebo zničení jí vydaného osvědčení, a to nejpozději do 1 měsíce ode dne, kdy k dané skutečnosti došlo.
+Osoba s odbornou způsobilostí je dále povinna bez zbytečného odkladu ohlásit Českému báňskému úřadu, že přestala splňovat podmínky pro získání osvědčení o odborné způsobilosti podle § 36 odst. 1.
+Český báňský úřad poskytne ze seznamu údaje podle odstavce 2 na žádost obvodnímu báňskému úřadu, Úřadu, Policii České republiky nebo orgánu činnému v trestním řízení v rozsahu potřebném pro výkon jejich působnosti.
+OZNÁMENÝ SUBJEKT
+Oznamování subjektů
+Úřad pro technickou normalizaci, metrologii a státní zkušebnictví (dále jen „oznamující orgán“) zajišťuje stanovení a provádění nezbytných postupů pro oznamování oznámených subjektů Evropské komisi (dále jen „Komise“) a jiným členským státům Unie podle tohoto zákona a provádí kontrolu oznámených subjektů.
+Oznamující orgán musí být na oznámených subjektech nezávislý, objektivní a nestranný, a v případech podle § 11 odst. 4 musí od oznámeného subjektu převzít rejstřík pyrotechnických výrobků a po dobu 10 let ode dne převzetí jej zpřístupňovat způsobem umožňujícím dálkový přístup.
+Požadavky na oznámené subjekty
+Oznámený subjekt musí být nezávislý na hospodářském subjektu a osobě s odbornou způsobilostí a nesmí mít vztah k pyrotechnickému výrobku, který posuzuje. Oznámeným subjektem může být pouze právnická osoba založená podle právních předpisů České republiky nebo orgán státní správy.
+Členové orgánů oznámeného subjektu, je-li oznámeným subjektem právnická osoba, nebo vedení orgánu státní správy, je-li oznámeným subjektem orgán státní správy, a osoby oznámeného subjektu zajišťující provádění úkolů v rámci posuzování shody
+nesmějí být osobami, které navrhují, vyrábějí, dodávají, instalují, nakupují, vlastní, používají nebo udržují pyrotechnické výrobky nebo výbušné látky, ani zástupci jakékoli z těchto stran. To nevylučuje používání pyrotechnických výrobků nebo výbušných látek, které jsou nezbytné pro činnost oznámeného subjektu, ani používání pyrotechnických výrobků pro osobní potřebu,
+nesmějí se přímo podílet na projektování, výrobě nebo konstrukci, uvádění na trh, instalaci, používání nebo údržbě pyrotechnických výrobků nebo výbušných látek ani zastupovat strany, které se těmito činnostmi zabývají. Nesmějí také vykonávat žádnou činnost, která by mohla ovlivnit jejich nezávislý úsudek nebo důvěryhodnost ve vztahu k činnostem posuzování shody, pro něž byly tyto osoby oznámeny. To platí zejména pro poradenské služby.
+Oznámený subjekt a osoby zajišťující provádění úkolů v rámci posuzování shody jsou povinny provést posuzování shody na nejvyšší úrovni profesionální důvěryhodnosti a požadované technické způsobilosti v konkrétní oblasti a nesmějí být vystaveny zejména finančním tlakům a podnětům, které by mohly ovlivnit jejich úsudek nebo výsledky jejich činností posuzování shody, především ze strany osob nebo skupin osob, které mají na výsledcích těchto činností zájem.
+Oznámený subjekt je povinen
+být schopen provádět všechny úkoly v rámci posuzování shody, které tomuto subjektu ukládá tento zákon a pro něž byl oznámen, ať již tyto úkoly provádí sám, nebo jsou prováděny v jeho zastoupení a na jeho odpovědnost,
+zajistit, že činnosti jeho dceřiných společností nebo subdodavatelů neohrožují důvěrnost, objektivitu a nestrannost jeho činností posuzování shody,
+mít vždy a pro každý postup posuzování shody a pro každý druh nebo kategorii pyrotechnických výrobků, pro něž byl oznámen, k dispozici
+potřebné osoby s odbornými znalostmi a dostatečnými zkušenostmi potřebnými k plnění úkolů souvisejících s posuzováním shody,
+potřebné popisy postupů, podle nichž je posuzování shody prováděno, aby byla zajištěna transparentnost těchto postupů a možnost jejich zopakování; musí uplatňovat náležité postupy pro rozlišení mezi úkoly, jež vykonává jako oznámený subjekt, a dalšími činnostmi,
+potřebné postupy pro výkon činností, jež řádně zohledňují rozsah a strukturu podnikání, v němž posuzovaný subjekt působí, míru složitosti dané technologie výrobku a hromadnou nebo sériovou povahu výrobního procesu,
+mít prostředky nezbytné k řádnému provádění technických a administrativních úkolů spojených s posuzováním shody a mít přístup k veškerému potřebnému vybavení nebo zařízení,
+být nestranný, a to včetně členů jeho orgánů, je-li právnickou osobou, nebo vedení orgánu státní správy, je-li orgánem státní správy, a osob odpovědných za provádění úkolů v rámci posuzování shody; odměňování nejvyššího vedení a osob oznámeného subjektu odpovědných za provádění úkolů v rámci posuzování shody nesmí záviset na počtu provedených posouzení nebo na jejich výsledcích.
+Osoby zajišťující provádění úkolů v rámci posuzování shody jsou povinny
+mít technické a odborné vzdělání týkající se všech činností spojených s posuzováním shody, pro které byl subjekt posuzování shody oznámen,
+mít znalost požadavků souvisejících s posuzováním, které provádějí, a odpovídající pravomoc toto posuzování provádět,
+mít znalosti základních bezpečnostních požadavků stanovených v příloze č. 2 k tomuto zákonu, příslušných harmonizovaných norem a ustanovení harmonizačních předpisů Unie a souvisejících právních předpisů,
+být schopny vypracovávat certifikáty, záznamy a zprávy prokazující, že byla posouzení provedena.
+Oznámený subjekt uzavře pojištění odpovědnosti za újmu, kterou svojí činností může způsobit, a to podle stupně rizikovosti výrobků, které bude jako oznámený subjekt posuzovat.
+Oznámený subjekt zajistí, že osoby zajišťující provádění úkolů v rámci posuzování shody budou zachovávat povinnost mlčenlivosti, pokud jde o veškeré informace, které získaly při plnění svých úkolů s výjimkou styku s příslušnými orgány členského státu Unie, v němž vykonávají svou činnost. Oznámený subjekt zajistí ochranu důvěrných obchodních informací.
+Oznámený subjekt se podílí na příslušných normalizačních činnostech a na činnostech Fóra oznámených subjektů na pyrotechnické výrobky zřízeného podle předpisu Unie.
+Předpoklad shody oznámených subjektů
+V případě, že oznámený subjekt prokáže, že splňuje kritéria stanovená příslušnými harmonizovanými normami nebo jejich částmi, na něž byly zveřejněny odkazy v Úředním věstníku Evropské unie, má se za to, že splňuje požadavky stanovené v § 43 v rozsahu, v němž se harmonizované normy na tyto požadavky vztahují.
+Dceřiné společnosti a subdodavatelé oznámených subjektů
+Pokud oznámený subjekt zadá konkrétní úkoly týkající se posuzování shody subdodavateli nebo dceřiné společnosti, musí zajistit, aby subdodavatel nebo dceřiná společnost splnili požadavky stanovené v § 43. O zadání těchto úkolů informuje odpovídajícím způsobem oznamující orgán.
+Oznámený subjekt je plně odpovědný za úkoly provedené subdodavateli nebo dceřinými společnostmi bez ohledu na to, kde jsou tito subdodavatelé nebo dceřiné společnosti usazeni.
+Činnosti lze zadat subdodavateli nebo dceřiné společnosti pouze se souhlasem žadatele o posuzování shody.
+Oznámený subjekt uchovává příslušné doklady týkající se posouzení kvalifikací subdodavatele nebo dceřiné společnosti a práce provedené subdodavatelem nebo dceřinou společností.
+Žádost o oznámení
+Žádost o oznámení podává žadatel oznamujícímu orgánu.
+Součástí žádosti o oznámení je popis činnosti, postupu posuzování shody a popis pyrotechnického výrobku, pro nějž se subjekt prohlašuje za odborně způsobilý. Žádost dále obsahuje osvědčení o akreditaci vydané vnitrostátním akreditačním orgánem, které potvrzuje, že oznámený subjekt splňuje požadavky stanovené v § 43.
+Nepředloží-li žadatel o oznámení osvědčení o akreditaci, poskytne oznamujícímu orgánu veškeré doklady nezbytné k posouzení, uznání a pravidelné kontrole svého souladu s požadavky stanovenými v § 43.
+Pokud žadatel prokázal splnění požadavků podle odstavce 2, provede oznamující orgán do 90 dnů od zahájení řízení oznámení a vyrozumí o tom žadatele; v opačném případě žádost zamítne. Lhůta se prodlužuje o dalších 30 dnů v případě, že žadatel prokazuje svoji odbornou způsobilost jiným způsobem, než prostřednictvím osvědčení o akreditaci.
+Pokud Komise ani žádný z členských států Unie nevznese ve lhůtě stanovené v § 47 odst. 4 proti oznámení námitku, oznámený subjekt zahájí svoji činnost posuzování shody na základě zveřejnění oznámeného subjektu Komisí. Oznamující orgán vydá žadateli nejpozději do 2 pracovních dnů od zveřejnění oznámeného subjektu Komisí doklad o vzniku oprávnění. Oznamující orgán následně zveřejní ve Věstníku oznamujícího orgánu oznámení o vzniku oprávnění, včetně rozsahu oprávnění, data, od kterého může subjekt provádět činnosti oznámeného subjektu, identifikačního čísla oznámeného subjektu a čísla a data vydání dokladu o vzniku oprávnění.
+Pokud Komise nebo některý členský stát Unie vznese ve lhůtě stanovené v § 47 odst. 4 proti oznámení námitku, oznamující orgán vyzve žadatele, aby přijal vhodná opatření za účelem odstranění nedostatků, a poskytne mu k tomu přiměřenou lhůtu. Odstraní-li žadatel nedostatky v určené lhůtě, sdělí tuto skutečnost bez zbytečného odkladu oznamujícímu orgánu. Pokud oznamující orgán dospěje k závěru, že žadatel nedostatky odstranil, provede znovu oznámení. Jestliže žadatel v určené lhůtě nedostatky neodstraní, oznamující orgán žádost zamítne.
+Postup oznamování
+Oznámení Komisi a ostatním členským státům Unie provede oznamující orgán elektronicky způsobem určeným Komisí.
+Oznámení obsahuje veškeré podrobnosti o příslušných činnostech posuzování shody, postupu nebo postupech posuzování shody a pyrotechnickém výrobku a příslušné potvrzení o odborné způsobilosti.
+Pokud se oznámení nezakládá na osvědčení o akreditaci uvedeném v § 46 odst. 2, poskytne oznamující orgán Komisi a ostatním členským státům Unie doklady, které prokazují odbornou způsobilost oznámeného subjektu a zavedená opatření k zajištění toho, aby byl subjekt pravidelně kontrolován a i v budoucnu splňoval požadavky stanovené v § 43.
+Právnická osoba nebo orgán státní správy mohou vykonávat činnosti oznámeného subjektu, pouze nevznesly-li Komise nebo ostatní členské státy Unie proti tomu námitky do dvou týdnů po oznámení, pokud se použije osvědčení o akreditaci, nebo do 2 měsíců po oznámení, pokud se akreditace nepoužije. Pouze takový subjekt se pro účely tohoto zákona považuje za oznámený subjekt.
+Oznamující orgán oznámí Komisi a ostatním členským státům Unie jakékoli následné významné změny oznámení.
+Změny v oznámeních
+Pokud oznamující orgán zjistí, že oznámený subjekt již nesplňuje požadavky stanovené v § 43 nebo neplní své povinnosti, rozhodne o omezení, pozastavení nebo zrušení účinnosti oprávnění podle § 46, a to podle toho, jak je neplnění těchto požadavků nebo povinností závažné.
+Odvolání proti rozhodnutí oznamujícího orgánu o pozastavení účinnosti oprávnění, omezení oprávnění nebo jeho zrušení nemá odkladný účinek. Oznamující orgán rozhodne o pozastavení účinnosti oprávnění, omezení oprávnění nebo jeho zrušení též na žádost oznámeného subjektu. Oznámení o pozastavení účinnosti oprávnění, omezení oprávnění nebo jeho zrušení zveřejní oznamující orgán ve Věstníku oznamujícího orgánu.
+V rozhodnutí o pozastavení účinnosti nebo omezení oprávnění stanoví oznamující orgán lhůtu pro zjednání nápravy. Zjedná-li oznámený subjekt nápravu, sdělí tuto skutečnost bez zbytečného odkladu oznamujícímu orgánu. Považuje-li oznamující orgán zjednání nápravy za dostatečné, rozhodnutí o pozastavení účinnosti nebo omezení oprávnění zruší. Jestliže oznámený subjekt ve stanovené přiměřené lhůtě nápravu nezjedná, rozhodne oznamující orgán o zrušení oprávnění.
+V případě, že bylo oznámenému subjektu pravomocně zrušeno, pozastaveno nebo omezeno jeho oprávnění, je tento subjekt povinen odevzdat oznamujícímu orgánu veškeré dokumenty týkající se provádění činností oznámeného subjektu. V případě pravomocného rozhodnutí o pozastavení účinnosti oprávnění je oznámený subjekt povinen předat dokumenty podle věty první oznamujícímu orgánu, pokud je k tomu oznamujícím orgánem vyzván.
+Povinnosti týkající se činnosti oznámených subjektů
+Oznámený subjekt provádí posuzování shody v souladu s postupy posuzování shody podle § 7. Při posuzování shody je oznámený subjekt povinen se řídit technickými předpisy a provádět technická zjištění objektivně s vynaložením odborné péče na úrovni poznatků vědy a techniky známých v době, kdy jsou prováděna.
+Oznámený subjekt provádí posuzování shody tak, aby se zabránilo zbytečné zátěži hospodářských subjektů; při výkonu své činnosti zohledňuje rozsah a strukturu podniku a odvětví, v němž působí, míru složitosti dané technologie výrobku a hromadnou nebo sériovou povahu výrobního procesu.
+Oznámený subjekt, který provádí posuzování shody, přidělí pyrotechnickým výrobkům, které vyhověly posouzení shody, registrační čísla umožňující identifikovat tyto výrobky a jejich výrobce a vede rejstřík registračních čísel pyrotechnických výrobků, jimž udělil certifikát.
+Oznámený subjekt provádí dohled u výrobce, zda řádně plní povinnosti vyplývající z příslušného postupu posuzování shody.
+Pokud oznámený subjekt zjistí, že výrobce nesplnil základní bezpečnostní požadavky stanovené v příloze č. 2 k tomuto zákonu nebo v odpovídajících harmonizovaných normách nebo technických specifikacích, vyzve výrobce, aby přijal nápravná opatření, a nevydá certifikát.
+Pokud v průběhu dohledu po vydání certifikátu oznámený subjekt zjistí, že pyrotechnický výrobek již nesplňuje požadavky, vyzve neprodleně výrobce, aby přijal nápravná opatření, a v případě nutnosti může platnost certifikátu pozastavit.
+Pokud výrobce nepřijme nápravná opatření nebo pokud tato opatření nemají požadovaný účinek, oznámený subjekt platnost příslušných certifikátu pozastaví.
+Zrušení a změna platnosti vydaného certifikátu
+Oznámený subjekt je oprávněn zrušit nebo změnit jím vydaný certifikát, pokud se prokáže, že se podstatně změnily okolnosti, za kterých byl vydán, zejména pokud se zjistí, že výrobek nesplňuje požadavky podle tohoto zákona.
+Oznámený subjekt je povinen poskytovat kopie certifikátů včetně souvisejících dokladů a informace o vydání, odmítnutí, změně nebo zrušení certifikátů příslušnému kontrolnímu orgánu nebo oznámeným subjektům v Unii.
+STÁTNÍ SPRÁVA
+Státní správu podle tohoto zákona vykonávají Úřad, Český báňský úřad, obvodní báňské úřady, Česká obchodní inspekce a oznamující orgán.
+Úřad
+Úřad
+zabezpečuje účast na mezinárodní spolupráci v oblasti pyrotechnických výrobků,
+rozhoduje o zákazu dalšího nakládání s pyrotechnickými výrobky, jestliže nesplňují podmínky uvedení na trh podle tohoto zákona, podle kterých bylo provedeno posouzení shody, a bezprostředně ohrožují bezpečnost,
+rozhoduje o stažení pyrotechnických výrobků z trhu z důvodu technické vady, pokud zjistí prokazatelné ohrožení zdraví nebo bezpečnosti jejich uživatelů,
+provádí další odborné činnosti související s pyrotechnickými výrobky a pomůckami pro jejich používání a vydává o tom nálezy,
+provádí nebo zajišťuje školení pro získání osvědčení o odborné způsobilosti a schvaluje učební texty a spolupracuje s orgány státní báňské správy v oblasti pyrotechnických výrobků,
+zajišťuje dovoz materiálů pro odbornou činnost,
+spolupracuje v oblasti pyrotechnických výrobků s obdobnými zahraničními úřady a zkušebnami,
+organizuje, koordinuje a provádí vědeckovýzkumnou činnost a zabezpečuje systém vědeckotechnických informací, zejména zpracování odborné literatury, rešerší, tematických přehledů a překladů,
+zajišťuje u pyrotechnických výrobků mezilaboratorní zkoušení referenčních materiálů,
+poskytuje odborné informace, odborná vyjádření a posudky,
+podílí se na tvorbě českých technických norem a technických předpisů v oblasti pyrotechnických výrobků,
+schvaluje zábavní pyrotechniku vyrobenou pro vlastní potřebu výrobce se sídlem na území České republiky.
+Úřad vede evidenci pyrotechnických výrobků a výbušnin včetně potřebných pomůcek, které používá k odborným službám.
+Úřad na základě pokynu ministerstva provede zkoušku detonační charakteristiky pyrotechnického výrobku k prokázání, zda se jedná o výbušninu nebo o pyrotechnický výrobek. Ministerstvo stanoví vyhláškou popis a obsah zkoušky detonační charakteristiky.
+Úřad zajistí, aby jeho zaměstnanci, kteří provádějí odbornou činnost podle tohoto zákona, zachovávali mlčenlivost o všech skutečnostech, o nichž se dozvěděli v souvislosti s prováděním odborné nebo kontrolní činnosti podle tohoto zákona, a to po dobu 5 let poté, co přestali být zaměstnanci Úřadu, nestanoví-li jiné právní předpisy jinak. Předchozí věta se nevztahuje na informace, které musí být zveřejněny v zájmu ochrany bezpečnosti nebo v zájmu zajištění účinné kontroly trhu a činnosti Úřadu jako kontrolního orgánu.
+Český báňský úřad
+Český báňský úřad
+spolupracuje s Úřadem při zajišťování školení pro získání osvědčení o odborné způsobilosti podle tohoto zákona,
+provádí zkoušky odborné způsobilosti podle tohoto zákona,
+vede seznam osob s odbornou způsobilostí k zacházení s pyrotechnickými výrobky,
+rozhoduje o vydání a odnětí osvědčení o odborné způsobilosti k zacházení s pyrotechnickými výrobky kategorie T2 a F4 a osvědčení o odborné způsobilosti k zacházení s pyrotechnickými výrobky kategorie P2,
+provádí metodickou činnost při výkonu státní správy pro zacházení s pyrotechnickými výrobky.
+Obvodní báňský úřad
+Obvodní báňský úřad
+povoluje provádění ohňostrojných prací,
+kontroluje provádění ohňostrojných prací.
+Kontrolní orgány
+Kontrolní orgány podle tohoto zákona jsou Úřad, oznamující orgán, Česká obchodní inspekce a příslušný obvodní báňský úřad.
+Úřad kontroluje, zda pyrotechnický výrobek splňuje požadavky podle tohoto zákona, splňuje podmínky pro uvedení na trh, nemá technickou vadu a neohrožuje zdraví, bezpečnost, majetek nebo životní prostředí. Úřad kontroluje dodržování povinností stanovených tímto zákonem, není-li uvedeno jinak.
+Oznamující orgán kontroluje, zda oznámené subjekty splňují podmínky uvedené v § 43.
+Obvodní báňský úřad je kontrolním orgánem v oblasti ohňostrojných prací, zejména kontroluje, zda osoby provádějící ohňostrojné práce splňují požadavky a plní povinnosti podle tohoto zákona.
+Česká obchodní inspekce provádí kontrolu dodržování povinností stanovených v § 5 odst. 1 při zpřístupňování pyrotechnických výrobků spotřebitelům a povinností stanovených v § 26, 27 a v § 29. Česká obchodní inspekce dále provádí u distributorů kontrolu dodržování povinností podle § 28.
+Ukládání opatření Úřadem
+Pokud Úřad v rámci výkonu činnosti podle § 55 odst. 2 zjistí, že pyrotechnický výrobek nesplňuje požadavky stanovené tímto zákonem, uloží hospodářskému subjektu nebo osobě s odbornou způsobilostí opatření k nápravě podle zákona o dozoru nad trhem s výrobky.
+Úřad uloží hospodářskému subjektu opatření k nápravě podle § 6 odst. 2 písm. a) zákona o dozoru nad trhem s výrobky, pokud zjistí některý z těchto nedostatků:
+označení CE bylo k pyrotechnickému výrobku připojeno v rozporu s § 15 nebo s harmonizačním předpisem Unie,
+označení CE nebylo k pyrotechnickému výrobku připojeno,
+identifikační číslo oznámeného subjektu, byl-li tento subjekt zapojen do kontroly výroby, bylo k pyrotechnickému výrobku připojeno v rozporu s § 15 nebo nebylo připojeno,
+nebylo vypracováno EU prohlášení o shodě, je-li u příslušného posuzování shody vyžadováno,
+EU prohlášení o shodě nebylo vypracováno správně,
+dokumentace potřebná podle jednotlivých postupů posuzování shody podle § 7 stanovená v nařízení vlády chybí nebo je neúplná,
+informace uvedené v § 19 odst. 3 nebo § 20 odst. 5 chybí, jsou nesprávné nebo neúplné, nebo
+nebyl splněn jiný požadavek uvedený v § 18, 19, 20 nebo 21.
+Pokud nedostatek podle odstavce 2 nebude ve stanovené lhůtě odstraněn, uloží Úřad hospodářskému subjektu opatření k nápravě podle § 6 odst. 2 písm. c) nebo e) zákona o dozoru nad trhem s výrobky.
+Hospodářský subjekt zajistí, aby opatření k nápravě byla přijata ohledně všech dotčených pyrotechnických výrobků, které dodal na trh v celé Unii.
+Pokud má Úřad důvodné podezření, že porušením povinnosti podle tohoto zákona došlo nebo může dojít k vážnému ohrožení bezpečnosti osob nebo majetku, kontrolované osobě do zjednání nápravy neprodleně
+zakáže zacházení s pyrotechnickými výrobky, nebo
+přikáže částečně úplné uzavření prostor, ve kterých k porušení takové povinnosti došlo.
+Při uložení opatření podle odstavce 5 se postupuje podle § 7 odst. 3 zákona o dozoru nad trhem s výrobky obdobně.
+Ochrana veřejného zájmu
+Pokud Úřad v rámci výkonu kontroly podle § 55 odst. 2 zjistí, že ačkoli je pyrotechnický výrobek v souladu s tímto zákonem, představuje riziko pro zdraví nebo bezpečnost osob, nebo pro ochranu jiného veřejného zájmu, uloží podle zákona o dozoru nad trhem s výrobky neprodleně hospodářskému subjektu nebo osobě s odbornou způsobilostí, aby přijaly vhodná nápravná opatření k zajištění toho, aby dotčený pyrotechnický výrobek, pokud byl uveden na trh, dále nepředstavoval riziko, nebo k jeho stažení z trhu nebo z oběhu ve lhůtě stanovené Úřadem, která je přiměřená povaze rizika.
+Hospodářský subjekt zajistí, aby nápravná opatření byla přijata ohledně všech dotčených pyrotechnických výrobků, které dodal na trh v celé Unii.
+Ochranná opatření
+Pokud má Úřad po zahájení kontroly dostatečné důvody domnívat se, že pyrotechnický výrobek představuje riziko pro zdraví nebo bezpečnost osob nebo pro jiný veřejný zájem, na nějž se vztahuje tento zákon, zakáže uvedení nebo dodávání daného pyrotechnického výrobku na trh po dobu potřebnou k provedení kontroly.
+Opatření podle odstavce 1 oznámí inspektor ústně kontrolované osobě a neprodleně o něm učiní písemný záznam, jehož stejnopis doručí kontrolované osobě.
+Nesouhlasí-li kontrolovaná osoba s uloženým opatřením, může proti němu podat námitky, které se uvedou v záznamu podle odstavce 2, nebo je může podat písemně nejpozději do 3 pracovních dnů ode dne seznámení s uloženým opatřením. O podaných námitkách rozhodne bezodkladně předseda Úřadu. Písemné vyhotovení rozhodnutí o námitkách se doručuje kontrolované osobě a je konečné.
+Pokud příslušný hospodářský subjekt ve lhůtě stanovené podle § 57 odst. 1 nepřijme přiměřená nápravná opatření, Úřad rozhodne o zákazu uvádění těchto pyrotechnických výrobků na trh.
+Úřad je povinen osoby, které mohou být vystaveny vážnému riziku vyvolanému pyrotechnickým výrobkem, informovat o tomto riziku včas a vhodným způsobem.
+Informační povinnost při ukládání opatření
+Úřad informuje neprodleně příslušný oznámený subjekt o tom, že hospodářskému subjektu nebo osobě s odbornou způsobilostí bylo uloženo opatření k nápravě podle § 56 odst. 1.
+Domnívá-li se Úřad, že se zjištěný nesoulad netýká pouze území České republiky, informuje Komisi postupem podle čl. 34 nařízení Evropského parlamentu a Rady (EU) 2019/1020.
+Součástí informace podle odstavce 2 jsou všechny dostupné podrobnosti, zejména údaje nezbytné pro identifikaci nevyhovujícího pyrotechnického výrobku, povaze nesouladu a souvisejícího rizika, povaze a době trvání uložených opatření a o stanovisku příslušného hospodářského subjektu.
+Pokud do 3 měsíců od předání informace podle odstavce 2 nepředloží žádný členský stát Unie a Komise námitku k uloženému opatření, nabývá toto opatření účinnosti.
+SHROMAŽĎOVÁNÍ A POSKYTOVÁNÍ INFORMACÍ
+Informační povinnost
+Oznamující orgán
+informuje Komisi o postupech pro posuzování a oznamování oznámených subjektů a kontrolu oznámených subjektů a o veškerých změnách týkajících se těchto informací,
+informuje Komisi o tom, že oznámený subjekt již nesplňuje požadavky stanovené v § 43 nebo neplní své povinnosti,
+na vyžádání předloží Komisi všechny informace týkající se podkladů pro oznámení nebo toho, že je dotčený oznámený subjekt nadále odborně způsobilý.
+Obdrží-li ministerstvo od Komise informaci o přijetí opatření ohledně pyrotechnického výrobku, který představuje vážné riziko, předá tyto informace neprodleně Úřadu k dalšímu postupu.
+Oznámený subjekt sděluje oznamujícímu orgánu
+všechny okolnosti mající vliv na rozsah nebo podmínky oznámení,
+přijetí každé žádosti o informace o činnostech posuzování shody, kterou obdržely od příslušného kontrolního orgánu,
+na vyžádání informace o činnostech posuzování shody vykonaných v rámci rozsahu jejich oznámení a o jakýchkoli jiných vykonaných činnostech, včetně přeshraničních činností a zadávání subdodávek,
+informace o každém vydání, zamítnutí, omezení, pozastavení platnosti nebo odejmutí certifikátů.
+Oznámený subjekt informuje ostatní subjekty, které byly oznámené Komisí a které vykonávají obdobné činnosti posuzování shody obdobných pyrotechnických výrobků, o negativních a na požádání i pozitivních výsledcích posuzování shody těchto pyrotechnických výrobků.
+SPRÁVNÍ DELIKTY
+Přestupky
+Fyzická osoba se jako osoba s odbornou způsobilostí dopustí přestupku tím, že
+zpřístupní pyrotechnické výrobky osobám, které nedosáhly věkové hranice podle § 5 odst. 1,
+dodá na trh nebo jinak zpřístupní pyrotechnické výrobky v rozporu s § 5 odst. 2 a 3,
+nepřijme opatření zajišťující zpřístupnění pyrotechnických výrobků pouze osobám splňujícím věkové hranice podle § 24 odst. 2,
+nezajistí bezodkladné zničení nebo zneškodnění pyrotechnických výrobků podle § 25 odst. 1 nebo nezajistí, aby ničení nebo zneškodňování pyrotechnických výrobků bylo prováděno jen osobou s odbornou způsobilostí podle § 25 odst. 2,
+skladuje nebo prodává pyrotechnické výrobky v rozporu s § 26 odst. 1 nebo 2,
+nevede evidenci skladovaných pyrotechnických výrobků podle § 26 odst. 3,
+nezajistí zákaz činností v prostorách, kde jsou skladovány pyrotechnické výrobky, podle § 26 odst. 4,
+skladuje nebo prodává pyrotechnické výrobky v rozporu s § 27,
+skladuje pyrotechnické výrobky ve skladu v rozporu s § 28,
+skladuje nebo prodává pyrotechnické výrobky v rozporu s § 29,
+v rozporu s § 32 neohlásí konání ohňostroje,
+neprovede ohňostroj v souladu s uvedenými údaji podle § 32 odst. 4,
+jako vedoucí odpalovač ohňostrojů nedodrží technologický postup při provedení ohňostrojné práce podle § 33 odst. 3,
+nevede evidenci pyrotechnických výrobků použitých při provádění ohňostrojných prací podle § 35 odst. 1, 2 a 3,
+neohlásí ve stanovené lhůtě Českému báňskému úřadu změny údajů v osvědčení o odborné způsobilosti podle § 41 odst. 3, nebo
+neohlásí Českému báňskému úřadu změny, že přestala splňovat podmínky pro získání osvědčení o odborné způsobilosti podle § 41 odst. 4.
+Dědic se dopustí přestupku tím, že nepřevede na oznámený subjekt záznamy podle § 12 odst. 5.
+Za přestupek se uloží pokuta do
+500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), c), k), l) nebo m),
+200 000 Kč jde-li o přestupek podle odstavce 1 písm. d), e), f), g), h), i) nebo j),
+50 000 Kč, jde-li o přestupek podle odstavce 1 písm. n), o) nebo p) anebo podle odstavce 2.
+V blokovém řízení lze uložit pokutu do 5 000 Kč.
+Správní delikty právnických a podnikajících fyzických osob
+Právnická a podnikající fyzická osoba se dopustí správního deliktu tím, že
+neoprávněně použije označení CE, certifikát anebo jiný dokument vydaný podle tohoto zákona,
+zpřístupňuje pyrotechnické výrobky osobám, které nedosáhly věkové hranice podle § 5 odst. 1,
+dodá na trh nebo jinak zpřístupní pyrotechnické výrobky v rozporu s § 5 odst. 2 a 3,
+nezajistí označení pyrotechnických výrobků pro použití ve vozidlech podle § 14,
+nedodá profesionálnímu uživateli bezpečnostní list podle § 14 odst. 3,
+nesplní některou z povinností podle § 16,
+předvádí nebo používá při vystavování pyrotechnické výrobky v rozporu s § 17 odst. 1,
+nezajistí přijetí bezpečnostních opatření v souladu s § 17 odst. 2,
+skladuje nebo prodává pyrotechnické výrobky v rozporu s § 24 odst. 1,
+nepřijme opatření zajišťující zpřístupnění pyrotechnických výrobků pouze osobám splňujícím věkové hranice podle § 24 odst. 2,
+nezajistí bezodkladné zničení nebo zneškodnění pyrotechnických výrobků podle § 25 odst. 1,
+skladuje pyrotechnické výrobky v rozporu s § 26 odst. 1 a 2,
+nevede evidenci skladovaných pyrotechnických výrobků podle § 26 odst. 3,
+nezajistí zákaz činností v prostorách, kde jsou skladovány pyrotechnické výrobky, podle § 26 odst. 4,
+skladuje nebo prodává pyrotechnické výrobky v rozporu s § 27,
+skladuje pyrotechnické výrobky ve skladu v rozporu s § 28,
+skladuje nebo prodává pyrotechnické výrobky v rozporu s § 29,
+neohlásí Úřadu a hasičskému záchrannému sboru kraje informace podle § 31,
+v rozporu s § 32 neohlásí konání ohňostroje,
+neprovede ohňostroj v souladu s uvedenými údaji podle § 32 odst. 4.
+Výrobce se dopustí správního deliktu tím, že
+neuchovává potřebnou dokumentaci podle jednotlivých postupů posuzování shody podle § 7,
+neoznačí pyrotechnické výrobky registračním číslem podle § 12 odst. 1,
+nevede záznamy o všech registračních číslech pyrotechnických výrobků, které vyrobí, spolu s názvem výrobku, typem, případně dílčím typem výrobku a místem jeho výroby, a to nejméně po dobu 10 let podle § 12 odst. 3,
+nepřevede záznamy podle § 12 odst. 4,
+neposkytne oznámenému subjektu a České obchodní inspekci na základě jejich pokynu informace podle § 12 odst. 6,
+nezajistí označení pyrotechnických výrobků podle § 13,
+uvede na trh pyrotechnické výrobky, u kterých nebyla posouzena shoda podle § 18 odst. 1,
+neuchovává EU prohlášení o shodě nejméně po dobu 10 let po uvedení pyrotechnického výrobku na trh podle § 18 odst. 4,
+nezajistí, aby výrobní proces a jeho kontrola byly ve shodě s typem uvedeným v certifikátu a s požadavky tohoto zákona podle § 18 odst. 5,
+nepoužívá schválený systém jakosti pro výrobu, výstupní kontrolu, konstrukci a zkoušky nebo neinformuje oznámený subjekt o jeho změnách podle § 18 odst. 6,
+nepoužívá v případě sériové výroby postupy zajišťující shodu s tímto zákonem podle § 18 odst. 7,
+v rozporu s § 18 nepoužívá schválený systém jakosti pro výrobu, výstupní kontrolu, konstrukci a zkoušky nebo neinformuje oznámený subjekt o jeho změnách,
+neprovádí zkoušky pyrotechnických výrobků dodávaných na trh a ověřování a o těchto zkouškách, ověřováních a jejich výsledcích neinformuje distributory podle § 19 odst. 1,
+neuvede na pyrotechnickém výrobku své kontaktní údaje podle § 19 odst. 3,
+nezajistí, aby byl k pyrotechnickému výrobku přiložen návod k použití ve srozumitelné formě podle § 19 odst. 4, nebo
+nepředloží příslušnému kontrolnímu orgánu na základě jeho pokynu všechny informace a dokumentaci nezbytné k prokázání shody pyrotechnického výrobku s technickými požadavky podle § 19 odst. 5.
+Dovozce se dopustí správního deliktu tím, že
+nevede záznamy o všech registračních číslech pyrotechnických výrobků, které vyrobí, spolu s názvem výrobku, typem, případně dílčím typem výrobku a místem jeho výroby, a to nejméně po dobu 10 let od uvedení výrobku na trh podle § 12 odst. 3,
+nepřevede záznamy podle § 12 odst. 4,
+neposkytne oznámenému subjektu a České obchodní inspekci na základě jejich pokynu informace podle § 12 odst. 6,
+uvede na trh pyrotechnické výrobky, u kterých nebyla posouzena shoda podle § 20 odst. 1,
+nezajistí, aby výrobce provedl příslušný postup posuzování shody, vypracoval dokumentaci potřebnou podle jednotlivých postupů posuzování shody podle § 7, označil pyrotechnický výrobek označením CE a přiložil doklady podle § 20 odst. 3,
+neuvede na pyrotechnickém výrobku své kontaktní údaje podle § 20 odst. 5,
+nezajistí, aby byl k pyrotechnickému výrobku přiložen návod k použití ve srozumitelné formě podle § 20 odst. 6,
+neprovádí zkoušky pyrotechnických výrobků dodávaných na trh a ověřování a o těchto zkouškách, ověřováních a jejich výsledcích neinformuje distributory podle § 21 odst. 1,
+nevede evidenci stížností, nevyhovujících pyrotechnických výrobků a pyrotechnických výrobků stažených z oběhu podle § 21 odst. 2,
+neuchovává kopii EU prohlášení o shodě pro potřeby příslušného kontrolního orgánu podle § 21 odst. 4, nebo
+nepředloží příslušnému kontrolnímu orgánu na základě jeho pokynu všechny informace a dokumentaci nezbytné k prokázání shody pyrotechnického výrobku s technickými požadavky podle § 21 odst. 5.
+Distributor se dopustí správního deliktu tím, že
+dodá na trh pyrotechnické výrobky v rozporu s § 22 odst. 1,
+v rozporu s § 22 odst. 2 neověří, zda je pyrotechnický výrobek opatřen označením CE, zda jsou k němu ve srozumitelné podobě přiloženy požadované doklady a zda výrobce nebo dovozce zajistili, aby pyrotechnický výrobek byl označen podle tohoto zákona, nebo
+nepředloží příslušnému kontrolnímu orgánu na základě jeho žádosti všechny informace a dokumentaci nezbytné k prokázání shody pyrotechnického výrobku s technickými požadavky podle § 22 odst. 5.
+Oznámený subjekt se dopustí správního deliktu tím, že
+nedodrží postup podle § 9,
+nevede rejstřík pyrotechnických výrobků podle § 11 odst. 1 a 3,
+nepřevede rejstřík pyrotechnických výrobků na jiný oznámený subjekt podle § 11 odst. 4,
+nezajistí, aby subdodavatel nebo dceřiná společnost splnili stanovené požadavky podle § 45,
+nepředá dokumenty týkající se provádění činností oznámeného subjektu podle § 48 odst. 4,
+nesplní některou z povinností týkající se činnosti oznámeného subjektu podle § 49, nebo
+poruší informační povinnost podle § 62 odst. 3 nebo 4.
+Právní nástupce oznámeného subjektu se dopustí správního deliktu tím, že nepřevede na oznámený subjekt záznamy podle § 12 odst. 5.
+Provozovatel vázané živnosti s předmětem podnikání „nákup, prodej, ničení a zneškodňování pyrotechnických výrobků kategorie P2, T2 a F4 a provádění ohňostrojných prací“ se dopustí správního deliktu tím, že nevede evidenci osvědčení o odborné způsobilosti svých zaměstnanců podle tohoto zákona.
+Za správní delikt se uloží pokuta do
+5 000 000 Kč, jde-li o správní delikt podle odstavce 1 písm. b), c) nebo r), podle odstavce 2 písm. g), podle odstavce 3 písm. d) nebo podle odstavce 4 písm. a),
+1 000 000 Kč, jde-li o správní delikt podle odstavce 1 písm. d), i), j), s) nebo t),
+500 000 Kč, jde-li o správní delikt podle odstavce 1 písm. a), e), g), h), k), l), o), p) nebo q), podle odstavce 2 písm. b), i), j), k), l), m), n), o) nebo p), podle odstavce 3 písm. e), f), g), h), j) nebo k), podle odstavce 4 písm. b) nebo c) nebo podle odstavce 5 písm. a), d) nebo f),
+100 000 Kč, jde-li o správní delikt podle odstavce 1 písm. f), m) nebo n), podle odstavce 2 písm. a), c), e), f) nebo h), podle odstavce 3 písm. a), c) nebo i) nebo podle odstavce 5 písm. b), c), e) nebo g),
+50 000 Kč, jde-li o správní delikt podle odstavce 2 písm. d), podle odstavce 3 písm. b), podle odstavce 6 nebo podle odstavce 7.
+Společná ustanovení ke správním deliktům
+Právnická osoba za správní delikt neodpovídá, jestliže prokáže, že vynaložila veškeré úsilí, které bylo možno požadovat, aby porušení právní povinnosti zabránila.
+Při určení výše pokuty se přihlédne zejména k závažnosti správního deliktu, ke způsobu jeho spáchání a jeho následkům a k okolnostem, za nichž byl spáchán.
+Odpovědnost za správní delikt zaniká, jestliže správní orgán o něm nezahájil řízení do 2 let ode dne, kdy se o něm dozvěděl, nejpozději však do 5 let ode dne, kdy byl spáchán.
+Správní delikty podle tohoto zákona v prvním stupni projednávají kontrolní orgány podle své příslušnosti k výkonu kontroly stanovené v § 55.
+Pokuty za správní delikty vybírá orgán, který je uložil. Příjem z pokut je příjmem státního rozpočtu.
+Základní vymezení druhů a kategorií pyrotechnických výrobků
+Zábavní pyrotechnika se dělí na
+kategorii F1, do níž patří zábavní pyrotechnika, která představuje velmi malé nebezpečí a má zanedbatelnou úroveň hluku, a která je určena pro použití na omezených plochách, včetně zábavní pyrotechniky určené k použití uvnitř obytných budov,
+kategorii F2, do níž patří zábavní pyrotechnika, která představuje malé nebezpečí a má nízkou úroveň hluku a která je určena pro venkovní použití na omezených plochách,
+kategorii F3, do níž patří zábavní pyrotechnika, která představuje středně velké nebezpečí, je určena pro venkovní použití na otevřených prostranstvích a jejíž úroveň hluku nepoškozuje lidské zdraví,
+kategorii F4, do níž patří zábavní pyrotechnika, která představuje velké nebezpečí, je určena pro použití pouze osobami s odbornou způsobilostí a jejíž úroveň hluku nepoškozuje lidské zdraví.
+Divadelní pyrotechnika se dělí na
+kategorii T1, do níž patří divadelní pyrotechnika, která představuje malé nebezpečí,
+kategorii T2, do níž patří divadelní pyrotechnika, kterou mohou používat pouze osoby s odbornou způsobilostí.
+Ostatní pyrotechnické výrobky se dělí na
+kategorii P1, do níž patří ostatní pyrotechnické výrobky, které představují malé nebezpečí,
+kategorii P2, do níž patří ostatní pyrotechnické výrobky, které jsou určeny pro manipulaci nebo použití pouze osobami s odbornou způsobilostí.
+Základní bezpečnostní požadavky na pyrotechnické výrobky
+Každý pyrotechnický výrobek musí dosahovat funkčních vlastností uvedených výrobcem a sdělených oznámenému subjektu, aby byla zajištěna maximální bezpečnost a spolehlivost.
+Každý pyrotechnický výrobek musí být navržen a vyroben tak, aby bylo možné ho bezpečně zneškodnit vhodným postupem s minimálním vlivem na životní prostředí.
+Každý pyrotechnický výrobek musí řádně fungovat, je-li používán k určenému účelu.
+Každý pyrotechnický výrobek musí být zkoušen za reálných podmínek. Pokud to není možné provést laboratorně, je nutno provádět zkoušky za podmínek, při kterých má být tento výrobek používán.
+Níže uvedené informace a případně i vlastnosti musí být vzaty v úvahu nebo přezkoušeny
+návrh, konstrukce a charakteristické vlastnosti, včetně podrobného chemického složení (hmotnost a procentuální podíl použitých látek) a rozměry,
+fyzikální a chemická stabilita pyrotechnického výrobku za všech obvyklých, předvídatelných podmínek okolního prostředí,
+citlivost k běžné předvídatelné manipulaci a přepravě,
+slučitelnost všech složek s ohledem na jejich chemickou stabilitu,
+odolnost pyrotechnického výrobku proti vlhkosti, je-li pyrotechnický výrobek určen pro použití ve vlhku nebo mokru a může-li jeho bezpečnost nebo spolehlivost být nepříznivě ovlivněna vlhkostí,
+odolnost vůči nízkým a vysokým teplotám, je-li pyrotechnický výrobek určen ke skladování nebo používání při těchto teplotách a může-li jeho bezpečnost nebo spolehlivost být nepříznivě ovlivněna ochlazením nebo zahřátím některé složky nebo pyrotechnického výrobku jako celku,
+bezpečnostní charakteristiky proti předčasné či neúmyslné iniciaci nebo zážehu,
+vhodné pokyny, a je-li to zapotřebí, i označení, pokud jde o bezpečné zacházení, skladování, používání (včetně bezpečných vzdáleností) a zneškodňování, a to v českém jazyce,
+schopnost pyrotechnického výrobku, jeho nejmenšího spotřebitelského obalu a ostatních složek odolávat poškození při skladování za běžných, předvídatelných podmínek,
+specifikace všech potřebných zařízení a pomůcek a návod k použití pro spolehlivou a bezpečnou funkci pyrotechnického výrobku.
+Během přepravy a běžné manipulace by neměly pyrotechnické výrobky uvolňovat pyrotechnickou slož, nestanoví-li pokyny výrobce jinak.
+Pyrotechnické výrobky nesmí obsahovat jiné trhaviny a třaskaviny než černý střelný prach a zábleskovou složku, kromě výrobků kategorie P1, P2, T2 a zábavní pyrotechniky kategorie F4 splňujících tyto podmínky:
+trhaviny a třaskaviny nelze z pyrotechnického výrobku snadno extrahovat;
+v případě kategorie P1 výrobek nemůže fungovat detonačním způsobem, ani nemůže tak, jak byl navržen a vyroben, iniciovat sekundární výbušniny k detonaci;
+v případě kategorií F4, T2 a P2 je výrobek navržen a určen tak, aby nefungoval detonačním způsobem, nebo je-li navržen, aby detonoval, nemůže tak, jak byl navržen a vyroben, iniciovat sekundární výbušniny k detonaci.
+Jednotlivé druhy pyrotechnických výrobků musí rovněž splňovat alespoň tyto požadavky:
+7.1 Zábavní pyrotechnika
+Výrobce rozdělí zábavní pyrotechniku do kategorií podle § 4 odst. 2 písm. a) zákona zejména podle čistého obsahu výbušné látky, bezpečných vzdáleností a úrovně hluku.
+7.1.1 Zábavní pyrotechnika musí splňovat zejména následující kritéria:
+7.1.1.1 jde-li o kategorii F1
+bezpečná vzdálenost musí být minimálně 1 m; podle charakteru pyrotechnického výrobku může být bezpečná vzdálenost kratší,
+maximální úroveň hluku v bezpečné vzdálenosti nesmí překročit 120 dB (A, imp.) nebo odpovídající úroveň hluku změřenou jinou vhodnou metodou,
+nesmí zahrnovat petardy, baterie petard, zábleskové petardy a baterie zábleskových petard a
+bouchací kuličky nesmí obsahovat víc než 2,5 mg třaskavého stříbra
+7.1.1.2 jde-li o kategorii F2
+maximální úroveň hluku v bezpečné vzdálenosti nesmí překročit 120 dB (A, imp.) nebo odpovídající úroveň hluku změřenou jinou vhodnou metodou,
+bezpečná vzdálenost musí být minimálně 8 m; podle charakteru pyrotechnického výrobku může být bezpečná vzdálenost kratší.
+7.1.1.3 jde-li o kategorii F3
+bezpečná vzdálenost musí být minimálně 15 m; podle charakteru pyrotechnického výrobku může být bezpečná vzdálenost kratší,
+maximální úroveň hluku v bezpečné vzdálenosti nesmí překročit 120 dB (A, imp.) nebo odpovídající úroveň hluku změřenou jinou vhodnou metodou.
+7.1.2 Zábavní pyrotechnika může být vyráběna pouze z takových materiálů, které minimalizují riziko poškození zdraví, majetku či životního prostředí plynoucí z úlomků.
+7.1.3 Způsob iniciace musí být zřetelně viditelný nebo musí být uveden na označení či v pokynech.
+7.1.4 Zábavní pyrotechnika se při své iniciaci a funkci nesmí pohybovat nevypočitatelným a nepředvídatelným způsobem.
+7.1.5 Zábavní pyrotechnika kategorie F1, F2 a F3 musí být chráněna proti neúmyslné iniciaci buď ochranným krytem, nejmenším spotřebitelským obalem nebo konstrukcí výrobku. Zábavní pyrotechnika kategorie F4 musí být chráněna proti neúmyslné iniciaci způsobem, který určí výrobce.
+7.2 Ostatní pyrotechnické výrobky
+7.2.1 Pyrotechnické výrobky musí být navrženy tak, aby při běžném použití minimalizovaly riziko poškození zdraví, majetku a životního prostředí.
+7.2.2 Způsob iniciace musí být zřetelně viditelný nebo musí být uveden na označení nebo v pokynech.
+7.2.3 Pyrotechnický výrobek musí být navržen tak, aby bylo minimalizováno riziko poškození zdraví, majetku a životního prostředí plynoucí z úlomků v případě neúmyslné iniciace.
+7.2.4 Pyrotechnický výrobek musí řádně fungovat až do výrobcem uvedeného data spotřeby.
+7.3 Zapalovací zařízení
+7.3.1 Zapalovací zařízení musí být při použití za běžných, předvídatelných podmínek schopna spolehlivé iniciace a musí mít dostatečnou iniciační schopnost.
+7.3.2 Zapalovací zařízení musí být za běžných, předvídatelných podmínek skladování a použití chráněna před elektrostatickým výbojem.
+7.3.3 Elektrické palníky musí být za běžných, předvídatelných podmínek skladování a použití chráněny před elektromagnetickými poli při skladování a použití za běžných, předvídatelných podmínek.
+7.3.4 Obal zápalnic musí mít potřebnou mechanickou pevnost a zajišťovat odpovídající ochranu výbušné náplně při běžném, předvídatelném mechanickém namáhání.
+7.3.5 U pyrotechnického výrobku musí být uvedena doba hoření jeho zápalnice do funkce.
+7.3.6 U pyrotechnického výrobku musí být uvedeny elektrické charakteristiky zejména bezpečný proud, odpor, zážehový impuls elektrických palníků.
+7.3.7 Přívodní vodiče elektrických palníků musí být dostatečně izolovány a jejich mechanická pevnost včetně uchycení v samotném palníku musí odpovídat předpokládanému použití.

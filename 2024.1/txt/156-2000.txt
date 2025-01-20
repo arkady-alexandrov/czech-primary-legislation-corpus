@@ -1,0 +1,251 @@
+OVĚŘOVÁNÍ STŘELNÝCH ZBRANÍ A STŘELIVA
+ZÁKLADNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon upravuje
+práva a povinnosti výrobců, dovozců, vývozců, distributorů a opravců střelných zbraní, doplňků zbraní a střeliva (dále jen „kontrolované osoby“), jakož i držitelů průkazů zbraní při jejich ověřování,
+výkon státní správy při ověřování střelných zbraní, doplňků zbraní a střeliva a při kontrole identifikačních údajů střelných zbraní nebo střeliva, zajišťování úkolů plynoucích z mezinárodní smlouvy, kterou je Česká republika vázána, a kontrolní činnost s tím spojenou.
+Základní pojmy
+Pro účely tohoto zákona se rozumí
+kontrolovanými výrobky stanovené střelné zbraně, stanovené střelivo a stanovené doplňky,
+stanovenou střelnou zbraní střelná zbraň nebo její část, které podléhají ověřování nebo kontrole identifikačních údajů,
+stanoveným střelivem střelivo nebo jeho komponenty, které podléhají ověřování nebo kontrole identifikačních údajů,
+stanoveným doplňkem doplněk zbraně, který podléhá ověřování nebo kontrole identifikačních údajů,
+komponentem střeliva je střela, nábojnice, zápalka, výmetná náplň nebo jejich kombinace,
+ověřováním činnost, při které se technickými zkouškami, měřením a zkušební střelbou zjišťují vlastnosti kontrolovaných výrobků, shoda s technickými požadavky na ně stanovenými (§ 4) a označování uvedených výrobků zkušebními značkami (§ 19),
+výrobcem ten, kdo navrhuje nebo vyrábí kontrolované výrobky nebo jejich hlavní části, nebo kdo dal takový výrobek navrhnout či vyrobit, s cílem uvést jej na trh pod označením svou obchodní firmou, názvem, jménem a příjmením, ochrannou známkou nebo jiným rozlišovacím znakem; za výrobce kontrolovaných výrobků se považuje i ten, kdo na hlavní části stanovené střelné zbraně nebo na jiném kontrolovaném výrobku provede zásadní technickou konstrukční změnu,
+dovozcem ten, kdo uvádí na trh v České republice kontrolované výrobky pocházející ze zahraničí, včetně členských států Evropské unie, anebo zastupuje výrobce, který se nenachází na území České republiky,
+distributorem ten, kdo v rámci své podnikatelské činnosti kontrolované výrobky prodává, jejich prodej zprostředkovává, nebo je jiným způsobem dodává na trh nebo poskytuje uživatelům,
+vývozcem ten, kdo kontrolované výrobky vyváží z České republiky,
+opravcem ten, kdo u stanovených střelných zbraní nebo stanovených doplňků zejména odstraňuje závady, mění jejich vlastnosti podle objednávky nebo provádí jejich údržbu, úpravu, montáž nebo seřizování,
+uvedením na trh každé úplatné nebo bezúplatné předání nebo nabídnutí k předání kontrolovaného výrobku za účelem distribuce nebo používání, anebo převedení vlastnického práva ke kontrolovaným výrobkům výrobcem, dovozcem, distributorem nebo opravcem v České republice.
+Zkušební značkou se rozumí značka, která osvědčuje, že kontrolovaný výrobek byl ověřen v souladu s tímto zákonem nebo s mezinárodní smlouvou, kterou je Česká republika vázána, a splňuje stanovené technické požadavky, přičemž
+jednotnou zkušební značkou se rozumí zkušební značka podle mezinárodní smlouvy, kterou je Česká republika vázána,
+národní zkušební značkou se rozumí zkušební značka, která osvědčuje splnění národních technických požadavků.
+Další značkou se rozumí značka, která je umístěna na kontrolovaném výrobku, avšak neosvědčuje, že kontrolovaný výrobek byl ověřen v souladu s tímto zákonem nebo s mezinárodní smlouvou, kterou je Česká republika vázána, ani že splňuje stanovené technické požadavky; další značkou je zejména
+kontrolní značka, kterou je značka osvědčující, že kontrolovaný výrobek je označen identifikačními údaji ve stanoveném rozsahu,
+identifikační značka zkušebny, kterou je identifikační značka podle mezinárodní smlouvy, která označuje zahraniční zkušebnu, která ověřovala kontrolovaný výrobek,
+identifikační značka úřadu, kterou je identifikační značka, která osvědčuje, že kontrolovaný výrobek byl ověřován Českým úřadem pro zkoušení zbraní a střeliva (dále jen „Úřad“).
+Identifikačním údajem se rozumí údaj nebo symbol, který není zkušební značkou, kontrolní značkou nebo identifikační značkou, ani dvojčíslím nebo symbolem označujícím rok provedení zkoušky.
+Zbraně, střelivo a doplňky zbraní podléhající ověřování
+Stanovené střelné zbraně jsou
+palné zbraně, kterými jsou
+brokové zbraně,
+kulové zbraně,
+zbraně vybavené kulovými a brokovými hlavněmi,
+zbraně s omezenou kinetickou energií,
+zbraně pro jedno použití,
+historické zbraně, repliky a napodobeniny historických zbraní, které jsou způsobilé ke střelbě,
+balistická měřidla určená k zjišťování balistických hodnot, zejména tlaku, rozptylu nebo rychlosti střely,
+signální zbraně,
+narkotizační zbraně,
+expanzní přístroje, u nichž je primárním zdrojem energie výbušná látka, kterými mohou být zejména přístroje jateční nebo metné,
+expanzní zbraně, kterými jsou akustické zbraně, plynovky a zbraně na granule,
+plynové zbraně, kterými jsou
+vzduchovky,
+větrovky,
+zbraně na oxid uhličitý či jiný plyn,
+paintballové zbraně,
+metné zbraně,
+narkotizační zbraně,
+expanzní přístroje, u nichž je primárním zdrojem energie plyn,
+části stanovených palných zbraní, kterými jsou hlavní části zbraní, jakož i dnové šrouby palných zbraní nabíjených ústím hlavně.
+Stanoveným doplňkem je tlumič hluku výstřelu pro palné zbraně používající střelivo se středovým zápalem.
+Stanoveným střelivem je
+průmyslově vyráběné nebo průmyslově přebíjené střelivo pro palné zbraně,
+střelivo pro expanzní přístroje, kterým jsou
+průmyslově vyráběné pracovní nábojky,
+prachové tablety,
+střelivo pro expanzní zbraně, kterým jsou
+průmyslově vyráběné akustické nábojky,
+průmyslově vyráběné plynové nábojky,
+průmyslově vyráběné nábojky s granulemi,
+průmyslově vyráběné střely pro plynové zbraně,
+průmyslově vyráběné komponenty střeliva nutné k sestavení náboje nebo nábojky, pokud jsou na trh uváděny samostatně,
+průmyslově vyráběná výmetná náplň určená pro palné zbraně, která není komponentem střeliva podle písmene e), je-li na trh uváděna samostatně.
+Ověřování nepodléhají expanzní přístroje, jejichž uvádění na trh upravují zvláštní právní předpisy.
+Tento zákon se nevztahuje na
+stanovené střelné zbraně a střelivo určené pro účely výzkumu, vývoje a zkoušení, pokud Úřad toto určení potvrdí,
+střelné mechanické zbraně,
+kontrolované výrobky, které jsou nabývány do vlastnictví a drženy ve výzbroji ozbrojených sil České republiky, ozbrojených bezpečnostních sborů, zpravodajských služeb České republiky, anebo ozbrojených sil nebo sborů jiných států při jejich pobytu na území České republiky, překračování státních hranic České republiky a průjezdu přes území České republiky nebo přeletu nad územím České republiky podle zvláštního právního předpisu nebo podle mezinárodní smlouvy, kterou je Česká republika vázána,
+kontrolované výrobky vyrobené nebo dovezené pro potřeby Úřadu za účelem zajištění jeho činností stanovených v § 17,
+náboje do střelných zbraní, které pro vlastní potřebu zhotovily osoby oprávněné k tomu podle zvláštních právních předpisů,
+střelné zbraně držené k muzejním nebo sběratelským účelům nebo činnostem, které nejsou určeny nebo používány ke střelbě.
+Technické a bezpečnostní požadavky na kontrolované výrobky
+Technické a bezpečnostní požadavky na kontrolované výrobky (dále jen „stanovené technické požadavky“) se považují za splněné, jestliže tyto výrobky při uvedení na trh a po dobu jejich distribuce a používání splňují požadavky stanovené zvláštními právními předpisy, nebo pokud takové zvláštní právní předpisy neexistují, splňují požadavky stanovené českými technickými normami. Tyto výrobky musí být schopny plnit funkci, pro kterou jsou určeny, a nesmí při dodržení podmínek určených výrobcem nebo dovozcem ohrozit zdraví, život nebo majetek svých uživatelů anebo přírodní prostředí (dále jen „bezpečnost“).
+Splnění stanovených technických požadavků u kontrolovaných výrobků je po provedeném ověřování vyjádřeno jejich označením zkušební značkou (§ 19 odst. 1).
+OVĚŘOVÁNÍ KONTROLOVANÝCH VÝROBKŮ
+Ověřování stanovených střelných zbraní
+Ověřování stanovených střelných zbraní se provádí formou
+homologace,
+kusového ověřování, nebo
+opakovaného kusového ověřování.
+Ověřování podle odstavce 1 písm. a) až c) se neprovádí u dovezených stanovených střelných zbraní před jejich uvedením na trh, pokud jsou označené na základě mezinárodní smlouvy, kterou je Česká republika vázána.
+Homologace stanovených střelných zbraní je postup, při kterém se po ověření dvou kusů od každého typu stanovené střelné zbraně vydává certifikát o homologaci, kterým se dokládá, že
+typ stanovené střelné zbraně splňuje stanovené technické požadavky,
+technická a průvodní dokumentace je úplná [§ 18 odst. 3 písm. a)] a
+kontrolovaná osoba má k dispozici kalibrovaná měřidla a nástroje a má zajištěn systém technické kontroly v rozsahu, který stanoví vyhláškou Ministerstvo průmyslu a obchodu (dále jen „ministerstvo“).
+V případě, že některý z uvedených požadavků není splněn, Úřad odmítne vydat certifikát o homologaci stanovené střelné zbraně.
+Homologaci podléhají ze stanovených střelných zbraní
+palné zbraně určené pro střelbu náboji typu flobert s nábojovou komorou o průměru do 5 mm včetně a délce do 15 mm včetně nebo ty, které mají nábojovou komoru o průměru a délce do 6 mm včetně, přičemž zápalková slož náboje je jedinou hnací náplní udělující střele energii na ústí hlavně do 7,5 J včetně,
+expanzní zbraně a expanzní přístroje určené pro střelivo s okrajovým zápalem do ráže 6 mm včetně a s délkou nábojnice do 7 mm včetně,
+plynové zbraně, u nichž kinetická energie střely je na ústí hlavně do 10 J včetně.
+Homologaci nepodléhají stanovené střelné zbraně uvedené v odstavci 2, pokud týž výrobce nebo dovozce uvede na trh nejvíce pět kusů zbraní v jednom roce; v takovém případě je nutno jednotlivě ověřit, zda každá stanovená střelná zbraň splňuje požadavky podle odstavce 1 písm. a) a b). Takto ověřené stanovené střelné zbraně se označují stejným způsobem jako zbraně kusově ověřené.
+Platnost certifikátu o homologaci zaniká, není-li dále stanoveno jinak, dnem uvedeným v certifikátu, nejdéle však uplynutím dvou let ode dne jeho vydání. Nejpozději tři měsíce před uplynutím jeho platnosti může výrobce nebo dovozce požádat o prodloužení platnosti certifikátu na dobu nejdéle dvou let. Za tím účelem požádá o jednotlivé ověření pěti kusů od každého typu homologované střelné zbraně ke zjištění, zda tyto typy odpovídají stanoveným technickým požadavkům. Stanovené střelné zbraně předložené Úřadu k jednotlivému ověření za účelem prodloužení platnosti certifikátu o homologaci označí Úřad stejným způsobem jako zbraně kusově ověřené.
+Kusové ověřování stanovených střelných zbraní je postup, při kterém se ověřuje a dokládá označením každé stanovené střelné zbraně příslušnou zkušební značkou, že střelná zbraň splňuje stanovené technické požadavky. Kusové ověřování se provádí u všech stanovených střelných zbraní kromě zbraní homologovaných. Podrobnosti o postupu Úřadu při kusovém ověřování stanovených střelných zbraní stanoví ministerstvo vyhláškou.
+Opakované kusové ověřování stanovených střelných zbraní je postup shodný s kusovým ověřováním a provádí se v případech, kdy stanovená střelná zbraň nevyhoví stanoveným technickým požadavkům při kusovém ověřování a je vrácena výrobci nebo dovozci po označení identifikační značkou úřadu (§ 19). Po splnění stanovených technických požadavků se stanovená střelná zbraň označí zkušební značkou. Podrobnosti o postupu Úřadu při opakovaném kusovém ověřování stanovených střelných zbraní stanoví ministerstvo vyhláškou.
+Ověřování stanovených doplňků
+Ověřování stanovených doplňků se provádí formou kusového ověřování.
+Ověřování se neprovádí u dovezeného stanoveného doplňku před jeho uvedením na trh, pokud je označen platnou zkušební značkou na základě mezinárodní smlouvy, kterou je Česká republika vázána.
+Kusové ověřování stanoveného doplňku je postup, při kterém se ověřuje a dokládá označením každého stanoveného doplňku příslušnou zkušební značkou, že stanovený doplněk splňuje stanovené technické požadavky.
+Postup při kusovém ověřování stanoveného doplňku stanoví ministerstvo vyhláškou.
+Ověřování stanoveného střeliva
+Ověřování stanoveného střeliva se provádí formou
+typové kontroly, nebo
+inspekční kontroly.
+Ověřování se neprovádí u dováženého stanoveného střeliva před jeho uvedením na trh, pokud je označeno platnými zkušebními značkami na základě mezinárodní smlouvy, kterou je Česká republika vázána.
+Typová kontrola stanoveného střeliva je postup, při kterém se ověřuje a dokládá vydáním certifikátu o typové kontrole střeliva, že
+typ střeliva splňuje stanovené technické požadavky,
+technická a průvodní dokumentace je úplná a
+kontrolovaná osoba má předpoklady k provádění kontroly výroby v rozsahu stanoveném vyhláškou ministerstva.
+V případě, že některý z uvedených požadavků není splněn, Úřad odmítne vydat certifikát o typové kontrole stanoveného střeliva.
+Platnost certifikátu o typové kontrole střeliva zaniká, není-li dále stanoveno jinak, dnem uvedeným v certifikátu, nejdéle však uplynutím 3 let ode dne vydání, nepožádá-li před skončením platnosti certifikátu výrobce nebo dovozce o provedení inspekční kontroly stanoveného střeliva.
+Inspekční kontrola stanoveného střeliva je postup, při kterém se ověřuje, zda jsou plněny stanovené technické požadavky, podle kterých byl vydán certifikát o typové kontrole střeliva. Pokud se při tomto ověřování zjistí odchylky od stanovených technických požadavků, certifikát se ve správním řízení odejme. Pokud jsou stanovené technické požadavky splněny, platnost certifikátu se prodlouží na dobu nejdéle 3 let.
+Kontrola identifikačních údajů
+Kontrola identifikačních údajů je postup, při kterém Úřad vyznačením kontrolní značky dokládá, že kontrolované výrobky jsou označeny identifikačními údaji ve stanoveném rozsahu.
+Postup při kontrole identifikačních údajů stanoví ministerstvo vyhláškou.
+Kontrola identifikačních údajů není ověřováním ve smyslu této hlavy.
+Ověřování pyrotechnických výrobků
+Úhrady
+Úkon spojený s ověřováním kontrolovaného výrobku (zejména vydání certifikátu, označení výrobku zkušební značkou) nebo úkon spojený s kontrolou identifikačních údajů podléhá správnímu poplatku podle zvláštních právních předpisů.
+Za odborné činnosti související se zkoušením kontrolovaných výrobků a se zkoušením balisticky odolných materiálů a konstrukcí se poskytuje úplata. Výši úplaty stanoví ministerstvo vyhláškou.
+Za klasifikaci výbušných látek a předmětů třídy 1, samovolně se rozkládajících látek a znecitlivěných tuhých výbušných látek třídy 4.1, jiných nebezpečných látek a předmětů třídy 9 obsahujících výbušné látky a předměty na základě Dohody o mezinárodní silniční přepravě nebezpečných věcí ADR se poskytuje úplata. Výši úplaty stanoví ministerstvo vyhláškou.
+Povinnosti kontrolovaných osob a držitele průkazu zbraně
+Výrobce, dovozce a vývozce je povinen
+uvádět na trh kontrolované výrobky, jen pokud jsou ověřeny a opatřeny platnou zkušební značkou,
+vyvážet kontrolované výrobky, jen pokud jsou opatřeny platnou zkušební nebo kontrolní značkou,
+po vydání certifikátu o homologaci označit alespoň jednu z hlavních částí střelné zbraně zkušební značkou určenou v certifikátu; pokud to není možné, Úřad stanoví jiný vhodný způsob označení,
+po vydání certifikátu o typové kontrole střeliva označit vnější stranu nejmenšího spotřebitelského obalu stanoveného střeliva nebo jeho průmyslově vyráběné části, je-li uváděna na trh samostatně, zkušební značkou uvedenou v certifikátu a zajistit v rozsahu stanoveném vyhláškou ministerstva výrobní kontrolu ke zjištění, zda jsou ve výrobě dodrženy stanovené technické požadavky, a vést o tom evidenci,
+ponechat na hlavních částech zbraní, které jsou z kovu, měkké místo pro vyražení příslušné zkušební značky; pokud to není možné, Úřad stanoví vhodný způsob označení,
+do 30 dnů písemně informovat Úřad o všech změnách ve výrobě kontrolovaných výrobků, pokud tyto změny mohou ovlivnit vlastnosti některého z těchto výrobků,
+označit kontrolované výrobky identifikačními údaji v souladu s prováděcím právním předpisem, a to bez zbytečného odkladu po jejich vyrobení nebo dovezení.
+Výrobce je dále povinen
+opatřit kontrolované výrobky svou obchodní firmou nebo názvem, jde-li o právnickou osobu, nebo jménem a příjmením, jde-li o fyzickou osobu, anebo ochrannou známkou a dalšími údaji, pokud tak stanoví vyhláška ministerstva nebo zvláštní právní předpis,
+umožnit zaměstnancům Úřadu vstup do výrobních prostor a poskytnout jim potřebnou součinnost včetně používání zkušebního zařízení, poskytnutí střeliva, zkušebních a administrativních prostorů, jestliže je prováděno ověřování na jeho žádost v jeho provozovnách.
+Distributor může uvádět na trh jen kontrolované výrobky označené platnou zkušební značkou.
+Opravce, kterému byla vydána zbrojní licence podle zvláštního právního předpisu, je povinen
+provádět opravy a úpravy střelných zbraní nebo stanovených doplňků tak, aby splňovaly stanovené technické požadavky, a je povinen Úřadu předložit v písemné podobě postup opravy nebo úpravy střelné zbraně, pokud není dále stanoveno jinak,
+předložit k ověřování opravenou střelnou zbraň, u níž byla provedena výměna některé z hlavních částí.
+Ten, kdo je zapsán v průkazu stanovené střelné zbraně, je povinen používat nebo může přenechat k užívání pouze takovou stanovenou střelnou zbraň, takový stanovený doplněk nebo takové stanovené střelivo, které jsou označené platnou zkušební značkou.
+STÁTNÍ SPRÁVA V OBLASTI KONTROLOVANÝCH VÝROBKŮ
+Správní úřad
+Zřizuje se Úřad jako správní úřad s celostátní působností se sídlem v Praze, který je podřízen ministerstvu.
+V čele Úřadu je předseda; jeho výběr, jmenování a odvolání se řídí zákonem o státní službě.
+Úřad
+provádí ověřování kontrolovaných výrobků a provádí kontrolu identifikačních údajů,
+vydává certifikáty podle tohoto zákona, rozhoduje o odejmutí nebo o odmítnutí vydání certifikátu,
+zajišťuje označování kontrolovaných výrobků zkušebními a dalšími značkami podle tohoto zákona,
+provádí další odborné činnosti související se zkoušením střelných zbraní, střeliva a doplňků zbraní, zkouší balisticky odolné materiály a konstrukce a vydává o tom nálezy,
+rozhoduje o zařazení typu zbraně, doplňku zbraně nebo střeliva do kategorie zbraní stanovených zvláštním právním předpisem,
+vydává rozhodnutí podle § 19a odst. 5,
+spolupracuje se správními úřady a orgány územní samosprávy v oblasti přenesené působnosti, jakož i s jinými státními orgány a institucemi, jejichž spolupráce je pro činnost Úřadu nezbytná. Zjistí-li Úřad při své činnosti skutečnosti, na jejichž základě je třeba učinit opatření, jež jsou v pravomoci jiných orgánů, oznámí tyto skutečnosti těmto orgánům,
+vydává stanovisko k žádosti o koncesi podle jiného právního předpisu pro živnost „Vývoj, výroba, opravy, úpravy, přeprava, nákup, prodej, půjčování, uschovávání, znehodnocování a ničení zbraní a střeliva“ v rozsahu předmětu podnikání „vývoj, výroba, znehodnocování a ničení střeliva“. Při vydání stanoviska Úřad posuzuje, zda žadatel o koncesi pro provozování požadované činnosti vlastní nebo má zajištěn přístup ke schválenému zařízení a vybavení potřebnému pro vykonávání této činnosti, a vlastní, nebo má zajištěn přístup k objektům, které byly pro provozování požadované činnosti povoleny podle zvláštního zákona. U žadatelů o koncesi je Úřad oprávněn ověřit stav vybavenosti v rozsahu tohoto ustanovení; při tomto ověřování se přiměřeně použije § 20 odst. 3 písm. a) až d),
+vykonává státní správu v oblasti pyrotechnických výrobků podle zákona upravujícího oblast pyrotechniky,
+vydává nález o klasifikaci výbušných látek a předmětů třídy 1, samovolně se rozkládajících látek a znecitlivěných tuhých výbušných látek třídy 4.1, jiných nebezpečných látek a předmětů třídy 9 obsahujících výbušné látky a předměty na základě Dohody o mezinárodní silniční přepravě nebezpečných věcí ADR.
+Úřad dále
+plní informační povinnosti vyplývající z mezinárodní smlouvy, kterou je Česká republika vázána,
+před ověřováním každé stanovené střelné zbraně nebo stanoveného doplňku, které jsou předloženy k ověřování po opravě nebo úpravě, posuzuje technologický postup opravy nebo úpravy,
+spolupracuje v oblasti kontrolovaných výrobků a balisticky odolných materiálů a konstrukcí s obdobnými zahraničními úřady a zkušebnami,
+organizuje, koordinuje a provádí vědeckou činnost, výzkum a vývoj, které souvisí s odbornými činnostmi,
+zajišťuje u kontrolovaných výrobků mezilaboratorní zkoušení referenčních materiálů,
+poskytuje odborné informace a provádí odborná školení,
+podílí se na certifikaci systémů řízení jakosti,
+uchovává a porovnává referenční střelivo a referenční piezoelektrické snímače v rámci plnění povinností vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána,
+podílí se na tvorbě českých technických norem a technických předpisů v oblasti kontrolovaných výrobků a balisticky odolných materiálů a konstrukcí,
+vybírá správní poplatky a úplaty (§ 15) a
+zveřejňuje ve Věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví rozhodnutí Mezinárodní stálé komise pro zkoušky ručních palných zbraní.
+Úřad vede evidenci kontrolovaných výrobků, které používá při provádění ověřování a k odborným službám.
+Při plnění úkolů státní správy podle tohoto zákona nebo zvláštního právního předpisu je Úřad oprávněn pro výkon své působnosti vstupovat do centrálního registru zbraní, ve kterém jsou vedeny údaje o zbraních a střelivu, a provádět v něm záznamy.
+Zaměstnanci Úřadu, kteří provádějí ověřování, odbornou nebo kontrolní činnost podle tohoto zákona, jsou povinni zachovávat mlčenlivost o všech skutečnostech, o nichž se dozvěděli v souvislosti s prováděním ověřování kontrolovaných výrobků anebo při provádění odborné nebo kontrolní činnosti podle tohoto zákona, i když přestali být zaměstnanci Úřadu, a to po dobu pěti let, pokud zvláštní právní předpisy nestanoví jinak, s výjimkou informací, které musí být zveřejněny v zájmu ochrany bezpečnosti a v zájmu zajištění účinné kontroly trhu a činnosti Úřadu jako orgánu dozoru.
+Ministerstvo stanoví vyhláškou rozsah dokumentace nezbytné pro provedení klasifikace výbušných látek a předmětů třídy 1, samovolně se rozkládajících látek a znecitlivěných tuhých výbušných látek třídy 4.1, jiných nebezpečných látek a předmětů třídy 9 obsahujících výbušné látky a předměty na základě Dohody o mezinárodní silniční přepravě nebezpečných věcí ADR.
+Předkládání kontrolovaných výrobků Úřadu
+Žadatel, který předkládá Úřadu kontrolované výrobky k ověřování, (dále jen „žadatel“) je povinen v písemné žádosti o ověření uvést vedle náležitostí stanovených správním řádem
+typ výrobku včetně odvozených variant s údaji
+druh, značka, model a ráže pro stanovené střelné zbraně a stanovený doplněk,
+druh, značka a ráže pro stanovené střelivo,
+v případě dovozu název a sídlo výrobce,
+druh požadované činnosti podle § 6 odst. 1, § 7, 8, 10 nebo 11.
+K žádosti žadatel přikládá stanovené střelné zbraně, stanovené doplňky, stanovené střelivo, včetně spotřebitelského obalu, označené identifikačními údaji, jejichž rozsah a podrobnosti stanoví ministerstvo vyhláškou. Počet kusů střeliva ve vzorku předkládaném k ověřování stanoví ministerstvo vyhláškou.
+K žádosti přiloží též
+technickou a průvodní dokumentaci v rozsahu stanoveném vyhláškou ministerstva,
+doklady, které potvrzují správnost údajů uvedených v žádosti.
+Za poškození nebo zničení střelné zbraně nebo stanoveného doplňku, které Úřad převzal k ověření, odpovídá Úřad. Úřad se odpovědnosti zprostí, prokáže-li se, že ke škodě na zbrani nebo stanoveném doplňku došlo v souvislosti s vadou, kterou měla zbraň nebo stanovený doplněk v době předložení. Při náhradě škody se postupuje podle občanského zákoníku. Vzorky střeliva se nevracejí.
+Výrobce nebo dovozce je povinen na vyžádání Úřadu poskytnout další vzorky kontrolovaných výrobků, jsou-li potřebné pro jejich ověřování.
+Označování
+Kontrolované výrobky, které splňují stanovené technické požadavky a byly Úřadem ověřeny, se označují jednotnými zkušebními značkami a identifikační značkou úřadu, anebo národními zkušebními značkami.
+Stanovené střelné zbraně a stanovené doplňky označí Úřad dále dvojčíslím nebo symbolem roku zkoušky, nejedná-li se o stanovené střelné zbraně, u kterých byl vydán certifikát o homologaci.
+Ministerstvo vyhláškou stanoví grafickou podobu, provedení a umístění značek podle odstavců 1 a 2.
+Na stanovenou střelnou zbraň nebo stanovený doplněk, který nesplňuje stanovené technické požadavky při kusovém ověřování, vyrazí Úřad identifikační značku úřadu a číslo a rok zkoušky. Na stanovenou střelnou zbraň nebo stanovený doplněk, který nesplňuje stanovené technické požadavky při opakovaném kusovém ověřování, vyrazí Úřad přes dříve vyznačené značky uvedené v odstavcích 1 a 2 písmeno „X“. Samostatná identifikační značka, nebo identifikační značka a písmeno „X“ žadatele neopravňuje k používání a uvedení takto označené stanovené střelné zbraně nebo stanoveného doplňku na trh.
+Na žádost žadatele, který předložil k ověřování stanovenou střelnou zbraň nebo stanovený doplněk, budou tato zbraň nebo stanovený doplněk Úřadem označeny tak, aby nedošlo k narušení jejich historické či jiné hodnoty. Úřad provede označení na vhodném místě vzhledem k typu stanovené střelné zbraně nebo stanoveného doplňku.
+Kontrolované výrobky, které jsou označeny identifikačními údaji ve stanoveném rozsahu, označí Úřad kontrolní značkou. Grafickou podobu, provedení a umístění kontrolní značky stanoví ministerstvo vyhláškou. Kontrolní značka není zkušební značkou a žadatele neopravňuje k uvedení takto označeného kontrolovaného výrobku na trh.
+Platnost zkušební značky
+Zkušební značka je považována za platnou, jestliže je vyznačena v souladu s podmínkami označování podle tohoto zákona.
+Za platnou zkušební značku je považována i zkušební značka, která je vyznačena v souladu s mezinárodní smlouvou, kterou je Česká republika vázána.
+Ministerstvo zveřejní vyhláškou grafickou podobu zkušebních značek smluvních států mezinárodní smlouvy, kterou je Česká republika vázána, a které jsou uznávány za platné. Ministerstvo rovněž zveřejní vyhláškou grafickou podobu identifikačních značek zkušeben smluvních států mezinárodní smlouvy, kterou je Česká republika vázána, a případně dalších značek, jestliže jejich vyznačením podmiňuje taková mezinárodní smlouva platnost značek podle věty první.
+Jestliže zkušební značka není vyznačena v souladu s podmínkami podle tohoto zákona, posuzuje se platnost jejího vyznačení podle právního předpisu nebo mezinárodní smlouvy účinné v době jejího vyznačení.
+V pochybnostech rozhodne o platnosti zkušební značky Úřad. Anonymizované rozhodnutí Úřadu o platnosti zkušební značky zveřejní Úřad způsobem umožňujícím dálkový přístup.
+Kontrola
+Kontrolu dodržování povinností stanovených tímto zákonem provádí Úřad a jím pověření inspektoři Úřadu. Inspektoři Úřadu se prokazují služebními průkazy, jejichž vzor stanoví ministerstvo vyhláškou. Kontrola se provádí i bez předchozího ohlášení.
+Náhradu nákladů na posouzení souladu odebraných výrobků s požadavky zákona může Úřad uložit jen tehdy, bylo-li posouzením zjištěno, že výrobek nesplňuje požadavky tohoto zákona.
+Pokud inspektor Úřadu má důvodné podezření, že kontrolovaný výrobek nesplňuje požadavky tohoto zákona, zakáže jeho uvedení na trh nebo dodávání po dobu potřebnou k provedení kontroly.
+Inspektor Úřadu na základě provedené kontroly zakáže do zjednání nápravy uvádět na trh nebo dodávat kontrolované výrobky, které nesplňují požadavky zákona nebo zvláštních právních předpisů. Toto opatření oznámí kontrolované osobě ústně a následně o něm učiní písemný záznam do protokolu o kontrole.
+Pokud inspektor Úřadu má důvodné podezření, že kontrolované výrobky nesplňují požadavky tohoto zákona a zároveň ohrožují zdraví nebo bezpečnost, nařídí jejich zajištění do doby, než bude Úřadem pravomocně rozhodnuto o jejich propadnutí nebo zabrání, popřípadě do doby, kdy bude prokázáno, že se nejedná o výrobky, které by mohly ohrozit zdraví nebo bezpečnost. Toto opatření oznámí inspektor kontrolované osobě ústně a následně o něm učiní písemný záznam do protokolu o kontrole, ve kterém uvede též důvod zajištění, popis zajištěných výrobků a jejich množství.
+Nesouhlasí-li kontrolovaná osoba s opatřením uloženým podle odstavce 2 nebo 3, může proti němu podat námitky, které se uvedou v protokolu o kontrole, nebo je může podat Úřadu písemně nejpozději do 10 dnů ode dne doručení protokolu o kontrole. Podané námitky nemají odkladný účinek. Předseda Úřadu rozhodne o námitkách bez zbytečného odkladu, nejdéle však do 5 pracovních dnů, a jeho rozhodnutí je konečné. Písemné vyhotovení rozhodnutí o námitkách se doručí kontrolované osobě.
+Kontrolovaná osoba je povinna kontrolované výrobky zajištěné podle odstavce 3 bezodkladně vydat inspektorovi Úřadu. V případě, že kontrolovaná osoba jejich vydání odmítne, provede inspektor jejich odnětí.
+Náklady na uskladnění zajištěných kontrolovaných výrobků a náklady na zničení propadlých nebo zabraných kontrolovaných výrobků hradí kontrolovaná osoba. Kontrolovaná osoba není povinna uhradit náklady na uskladnění zajištěných kontrolovaných výrobků, jestliže se prokáže, že tyto výrobky odpovídají tomuto zákonu a neohrožují zdraví nebo bezpečnost.
+Pokud bylo prokázáno, že zajištěné kontrolované výrobky splňují požadavky tohoto zákona a neohrožují zdraví nebo bezpečnost, Úřad rozhodne o zrušení opatření o jejich zajištění. Pokud bylo zrušeno opatření o zajištění, zajištěné výrobky musí být kontrolované osobě bez zbytečných průtahů vráceny v neporušeném stavu, s výjimkou výrobků použitých pro posouzení. O vrácení výrobků se sepíše písemný záznam.
+Propadlé nebo zabrané výrobky Úřad může zničit nebo jinak znehodnotit.
+V případě, že kontrolované výrobky nesplňují podmínky pro uvedení na trh nebo bezprostředně ohrožují bezpečnost, Úřad rozhodne o zákazu další distribuce kontrolovaných výrobků.
+Pokud kontrolované výrobky mají technickou vadu a prokazatelně ohrožují zdraví nebo bezpečnost, Úřad rozhodne o stažení těchto výrobků z trhu.
+Úřad je povinen informovat včas a vhodným způsobem osoby, které mohou být vystaveny vážnému riziku vyvolanému kontrolovaným výrobkem, o tomto riziku.
+Oznamovací povinnost
+Úřad je povinen oznámit ministerstvu přijetí opatření týkajícího se kontrolovaného výrobku v případech, kdy výrobek představuje vážné riziko.
+Informace poskytované ministerstvu musí obsahovat veškeré údaje nezbytné pro identifikaci kontrolovaného výrobku, jeho původu, dodavatelského řetězce, ohrožení, které kontrolovaný výrobek představuje, povahu a trvání opatření přijatého Úřadem a také informace o dobrovolném opatření přijatém kontrolovanou osobou.
+Pokud riziko může přesáhnout území České republiky, je ministerstvo povinno neprodleně informovat o výskytu takového výrobku Komisi.
+Obdrží-li ministerstvo od Komise informaci o přijetí opatření vůči kontrolovanému výrobku anebo jejich sérii představující vážné riziko, předá tyto informace bez zbytečného odkladu Úřadu k dalšímu postupu.
+K zajištění fungování systému výměny informací podle odstavců 1 až 4 se obdobně použije právní předpis upravující postup, obsah a formu informace o výskytu nebezpečných nepotravinářských výrobků.
+Řízení
+Jestliže Úřad při ověřování zjistí, že kontrolované výrobky splňují stanovené technické požadavky, vydá podle povahy věci správní rozhodnutí, certifikát nebo označí výrobek zkušební značkou.
+Pokud Úřad na základě ověřování odmítne vydat certifikát nebo odmítne označit výrobek zkušební značkou nebo odejme certifikát, vydá o tom rozhodnutí.
+Odvolání proti rozhodnutí vydanému podle tohoto zákona nemá, s výjimkou řízení o ukládání pokut, odkladný účinek.
+Při vydání opatření podle § 20a odst. 2 se nepostupuje podle správního řádu.
+Po obdržení žádosti o ověřování kontrolovaných výrobků podle § 6 nebo 9 Úřad sdělí žadateli požadavky na ověřování podle tohoto zákona a prováděcích právních předpisů bez zbytečného odkladu a nejpozději do 90 dnů vydá certifikát nebo rozhodnutí podle povahy věci. Jedná-li se o zvlášť složitý případ, nebo není-li z jiných vážných důvodů možné dodržet lhůtu podle věty první, prodlužuje se tato lhůta o dalších 30 dnů.
+Pokud Úřad zjistí, že kontrolovaná osoba neplní podmínky uvedené v certifikátu, rozhodne o jeho odejmutí.
+Přestupky právnických osob a podnikajících fyzických osob
+Kontrolovaná osoba se dopustí přestupku tím, že
+neoprávněně použije zkušební nebo další značku, certifikát anebo jiný dokument vydaný Úřadem podle tohoto zákona,
+uvede na trh nebo distribuuje kontrolovaný výrobek, který nesplňuje stanovené technické požadavky podle § 4 odst. 1, nebo
+nesplní opatření podle § 20a odst. 2.
+Výrobce, dovozce nebo vývozce se dopustí přestupku tím, že
+uvede na trh kontrolovaný výrobek v rozporu s § 16 odst. 1 písm. a),
+v rozporu s § 16 odst. 1 písm. b) vyveze kontrolovaný výrobek,
+neoznačí alespoň jednu z hlavních částí střelné zbraně podle § 16 odst. 1 písm. c),
+v rozporu s § 16 odst. 1 písm. d) neoznačí vnější stranu nejmenšího spotřebitelského obalu stanoveného střeliva zkušební značkou uvedenou v certifikátu nebo nezajistí výrobní kontrolu ke zjištění, zda jsou ve výrobě dodrženy stanovené technické požadavky nebo o tom nevede evidenci,
+neponechá na hlavní části zbraně, která je vyrobena z kovu, měkké místo pro vyražení příslušné zkušební značky podle § 16 odst. 1 písm. e),
+neinformuje Úřad o změnách ve výrobě kontrolovaných výrobků podle § 16 odst. 1 písm. f), nebo
+neoznačí kontrolované výrobky identifikačními údaji bez zbytečného odkladu po jejich vyrobení nebo dovezení podle § 16 odst. 1 písm. g).
+Výrobce se dopustí přestupku tím, že neopatří kontrolovaný výrobek údaji podle § 16 odst. 2 písm. a).
+Distributor se dopustí přestupku tím, že v rozporu s § 16 odst. 3 uvede na trh kontrolovaný výrobek, který není označený platnou zkušební značkou.
+Opravce, kterému byla vydána zbrojní licence podle zvláštního právního předpisu, se dopustí přestupku tím, že
+v rozporu s § 16 odst. 4 písm. a) neprovede opravu nebo úpravu střelné zbraně tak, aby splňovala stanovené technické požadavky, nebo nepředloží Úřadu v písemné podobě postup opravy nebo úpravy, nebo
+nepředloží k ověřování opravenou střelnou zbraň, u níž byla provedena výměna některé z hlavních částí podle § 16 odst. 4 písm. b).
+Za přestupek lze uložit pokutu do
+5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) až c), odstavce 2 písm. a) až e) nebo g) nebo odstavce 4,
+1 000 000 Kč, jde-li o přestupek podle odstavce 3,
+500 000 Kč, jde-li o přestupek podle odstavce 2 písm. f) nebo odstavce 5.
+Společná ustanovení k přestupkům
+Přestupky podle tohoto zákona projednává Úřad.
+Pokuty vybírá Úřad.
+Pokus přestupku podle § 22a odst. 1 písm. b) a c), § 22a odst. 2 písm. a) a b) nebo § 22a odst. 4 je trestný.
+U přestupků podle § 22a nelze upustit od uložení správního trestu.
+Zmocnění
+Ministerstvo vydá vyhlášku k provedení § 6 odst. 1 písm. c), § 7 a 8, § 8a odst. 4, § 10 odst. 1 písm. c), § 11a odst. 2, § 15 odst. 2 a 3, § 16 odst. 1 písm. d), § 16 odst. 2 písm. a), § 17a, § 18 odst. 2, § 18 odst. 3 písm. a), § 19 odst. 3 a 6, § 19a odst. 3 a § 20 odst. 1.

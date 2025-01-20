@@ -1,0 +1,383 @@
+OBECNÁ USTANOVENÍ
+Obecná ustanovení o výkonu znalecké činnosti
+Výkonem znalecké činnosti se rozumí provádění znaleckých úkonů, zejména zpracování a podání znaleckého posudku, jeho doplnění nebo vysvětlení, a činnost, která bezprostředně směřuje k podání znaleckého posudku, jeho doplnění nebo vysvětlení.
+Nestanoví-li zákon jinak, platí ustanovení o znalci také pro znaleckou kancelář a znalecký ústav.
+Znalec je povinen vykonávat znaleckou činnost pouze v oboru a odvětví a případně specializaci, pro které má oprávnění vykonávat znaleckou činnost, s odbornou péčí, nezávisle, nestranně a ve sjednané nebo stanovené době.
+Znalec vykonává znaleckou činnost osobně; to platí i v případě, že znaleckou činnost vykonává ve znalecké kanceláři.
+Způsob výkonu znalecké činnosti
+K výkonu znalecké činnosti jsou oprávněni znalci, znalecké kanceláře a znalecké ústavy.
+Znalec může vykonávat znaleckou činnost samostatně, nebo jako zaměstnanec, společník nebo člen znalecké kanceláře. Je-li znalec v pracovněprávním nebo obdobném vztahu ke znaleckému ústavu, může vykonávat znaleckou činnost rovněž samostatně, nebo jako zaměstnanec, společník nebo člen znalecké kanceláře.
+Příslušnost
+Ve věcech výkonu znalecké činnosti a ve věcech žádostí o zápis do seznamu znalců, znaleckých kanceláří a znaleckých ústavů (dále jen „seznam znalců“) rozhoduje Ministerstvo spravedlnosti (dále jen „ministerstvo“).
+Seznam znaleckých oborů a seznam znaleckých odvětví
+Seznam znaleckých oborů je stanoven v příloze tohoto zákona.
+Seznam znaleckých odvětví jednotlivých znaleckých oborů stanoví ministerstvo vyhláškou.
+VÝKON ZNALECKÉ ČINNOSTI
+PODMÍNKY PRO VÝKON ZNALECKÉ ČINNOSTI
+Podmínky pro výkon znalecké činnosti znalce a slib znalce
+Znalcem může být fyzická osoba, která
+je odborně způsobilá k výkonu znalecké činnosti v daném oboru a odvětví a případně specializaci, pro které má být zapsána,
+je bezúhonná,
+má odpovídající materiálně technické zázemí a přístrojové vybavení, které dává záruku řádného výkonu znalecké činnosti,
+je plně svéprávná,
+nebyla v posledních 3 letech před podáním žádosti o zápis potrestána pokutou ve výši nejméně 100 000 Kč za přestupek podle § 39 odst. 1 písm. a) až c), e) až l), pokutou ve výši nejméně 100 000 Kč za přestupek podle § 40 odst. 1 písm. a) až g), ani pokutou ve výši nejméně 100 000 Kč za přestupek podle § 41 odst. 1 písm. a) až d), nebo které v posledních 5 letech před podáním žádosti o zápis nebylo zrušeno oprávnění vykonávat znaleckou činnost podle § 14 odst. 1 písm. e),
+není na základě pravomocného rozhodnutí soudu v úpadku,
+má kontaktní adresu na území České republiky v případě, že nemá sídlo nebo místo trvalého pobytu nebo místo pobytu podle druhu pobytu cizince na území České republiky, a
+po splnění podmínek uvedených pod písmeny a) až g) složila bez výhrady do rukou ministra spravedlnosti slib podle odstavce 2.
+Slib znalce zní: „Slibuji, že při své znalecké činnosti budu dodržovat právní předpisy, že znaleckou činnost budu vykonávat podle svého nejlepšího vědomí a svědomí, nezávisle a nestranně, že budu plně využívat všech svých znalostí a dbát o jejich rozvoj a že zachovám mlčenlivost o skutečnostech, o nichž jsem se při výkonu znalecké činnosti dozvěděl.“
+Podmínky pro výkon znalecké činnosti znalecké kanceláře
+Znaleckou kanceláří může být obchodní korporace, která
+bude vykonávat znaleckou činnost prostřednictvím alespoň 2 znalců oprávněných k výkonu znalecké činnosti ve stejném oboru a odvětví a případně specializaci, pro které si podala žádost o zápis do seznamu znalců,
+má vypracována pravidla pracovních postupů zajišťujících řádný výkon znalecké činnosti,
+má odpovídající materiálně technické zázemí, přístrojové vybavení a personální zázemí, které dává záruku řádného výkonu znalecké činnosti,
+je bezúhonná,
+není na základě pravomocného rozhodnutí soudu v úpadku,
+má kontaktní adresu na území České republiky v případě, že nemá sídlo v České republice, a
+nebyla v posledních 3 letech před podáním žádosti o zápis potrestána pokutou ve výši nejméně 100 000 Kč za přestupek podle § 39 odst. 1 písm. a) až c), e) až l), pokutou ve výši nejméně 100 000 Kč za přestupek podle § 40 odst. 1 písm. a) až g), ani pokutou ve výši nejméně 100 000 Kč za přestupek podle § 41 odst. 1 písm. a) až d), nebo které v posledních 5 letech před podáním žádosti o zápis nebylo zrušeno oprávnění vykonávat znaleckou činnost podle § 14 odst. 1 písm. e).
+Znalec může být zaměstnancem, společníkem nebo členem pouze jedné znalecké kanceláře; takový znalec není oprávněn vykonávat současně znaleckou činnost samostatně.
+Podmínky pro výkon znalecké činnosti znaleckého ústavu
+Znaleckým ústavem může být ten, kdo
+je vysokou školou nebo její součástí, veřejnou výzkumnou institucí, státním podnikem, ústavem, organizační složkou státu, vnitřní organizační jednotkou této složky nebo osobou veřejného práva,
+vykonává vědeckovýzkumnou činnost v příslušném oboru a odvětví a případně specializaci alespoň po dobu 3 let bezprostředně předcházejících dni podání žádosti o zápis do seznamu znalců,
+bude vykonávat znaleckou činnost pomocí alespoň 1 znalce oprávněného k výkonu znalecké činnosti ve stejném oboru a odvětví a případně specializaci, pro které si podal žádost o zápis do seznamu znalců, nebo prostřednictvím osob zapojených do vědeckovýzkumné činnosti v příslušném oboru, odvětví, případně specializaci,
+je bezúhonný,
+má odpovídající materiálně technické zázemí, přístrojové vybavení a personální zázemí, které dává záruku řádného výkonu znalecké činnosti,
+má vypracována pravidla pracovních postupů zajišťujících řádný výkon znalecké činnosti,
+má vnitřními předpisy stanoven postup, jak bude znalecké posudky v souladu s § 28 odst. 4 brát na vědomí,
+není na základě pravomocného rozhodnutí soudu v úpadku,
+má kontaktní adresu na území České republiky v případě, že nemá sídlo v České republice, a
+nebyl v posledních 3 letech před podáním žádosti o zápis potrestán pokutou ve výši nejméně 100 000 Kč za přestupek podle § 39 odst. 1 písm. a) až c), e) až l), pokutou ve výši nejméně 100 000 Kč za přestupek podle § 40 odst. 1 písm. a) až g), ani pokutou ve výši nejméně 100 000 Kč za přestupek podle § 41 odst. 1 písm. a) až d), nebo kterému v posledních 5 letech před podáním žádosti o zápis nebylo zrušeno oprávnění vykonávat znaleckou činnost podle § 14 odst. 1 písm. e).
+Je-li žadatelem o zápis do seznamu znalců organizační složka státu nebo vnitřní organizační jednotka této složky, je podmínka pro výkon znalecké činnosti uvedená v odstavci 1 písm. b) splněna, pokud prokáže dostatečnou odbornost nezbytnou k výkonu znalecké činnosti s odbornou péčí v daném oboru a odvětví a případně specializaci jiným způsobem; podmínka pro výkon znalecké činnosti uvedená v odstavci 1 písm. c) je splněna, pokud bude činnost vykonávat prostřednictvím osob ve služebním poměru, u kterých prokáže nezbytnou odbornost podle věty první.
+Odborná způsobilost
+Za odborně způsobilou podle § 5 odst. 1 písm. a) se považuje osoba, která
+získala vysokoškolské vzdělání odpovídajícího směru zaměřené na daný obor a dané odvětví nejméně v magisterském studijním programu, pokud je lze získat, jinak nejvyšší možné dosažitelné vzdělání zaměřené na daný obor a dané odvětví,
+získala 5 let aktivní odborné praxe zaměřené na daný obor a dané odvětví,
+získala jiné osvědčení o odborné způsobilosti zaměřené na daný obor a dané odvětví, nebo absolvovala specializační studium zaměřené na daný obor a dané odvětví, pokud je to nezbytné k výkonu znalecké činnosti s odbornou péčí,
+získala osvědčení o odborné způsobilosti vydané příslušnou komorou zřízenou ze zákona, jde-li o znalecké odvětví v odbornostech, ve kterých o odbornost a etiku výkonu povolání dbá profesní komora zřízená zákonem, a
+úspěšně složila vstupní zkoušku podle § 10.
+Aktivní odbornou praxí zaměřenou na daný obor a dané odvětví se rozumí pro účely tohoto zákona výkon odborných činností náležejících do daného oboru a daného odvětví po ukončení vysokoškolského studia, případně nejvyššího možného dosažitelného vzdělání, bezprostředně předcházející podání žádosti o zápis do seznamu znalců.
+Za osvědčení o odborné způsobilosti podle odstavce 1 písm. c) a d) se považuje také osvědčení o odborné způsobilosti získané v některém z členských států Evropské unie nebo v jiném smluvním státě Dohody o Evropském hospodářském prostoru nebo Švýcarské konfederaci.
+Splnění podmínek podle odstavce 1 se posuzuje též s přihlédnutím ke specializaci, pokud byla zvolena.
+V odůvodněných případech může ministerstvo na žádost žadatele o zápis do seznamu znalců splnění některé z podmínek podle odstavce 1 prominout, pokud jsou ostatní podmínky splněny v takové míře, která dává dostatečnou záruku, že znalecká činnost bude vykonávána s odbornou péčí; zejména lze prominout nesplnění podmínky podle odstavce 1 písm. a) získáním delší aktivní odborné praxe.
+Ministerstvo stanoví vyhláškou výčet oborů a odvětví,
+pro které je nutné doložit získání jiného osvědčení o odborné způsobilosti, nebo absolvovat specializační studium podle odstavce 1 písm. c), včetně uvedení toho, o jaké osvědčení nebo specializační studium se jedná, a
+pro které je nutno doložit osvědčení vydané profesní komorou podle odstavce 1 písm. d) včetně uvedení toho, o jakou komoru se jedná.
+Bezúhonnost
+Podmínku bezúhonnosti nesplňuje osoba, která byla pravomocně odsouzena za úmyslný trestný čin nebo trestný čin spáchaný z nedbalosti v souvislosti s výkonem znalecké nebo podnikatelské činnosti, nehledí-li se na ni, jako by nebyla odsouzena.
+Za účelem doložení bezúhonnosti si ministerstvo vyžádá výpis z evidence Rejstříku trestů. Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.
+Bezúhonnost se kromě výpisu z evidence Rejstříku trestů dokládá také
+u fyzické osoby, která se v posledních 3 letech zdržovala nepřetržitě po dobu delší než 3 měsíce v cizím státě, výpisem z evidence trestů nebo rovnocenným dokladem vydaným příslušným soudním nebo správním orgánem tohoto státu, nebo výpisem z evidence Rejstříku trestů, v jehož příloze jsou tyto informace obsaženy,
+u fyzické osoby, která není státním občanem České republiky, výpisem z evidence trestů nebo rovnocenným dokladem vydaným příslušným soudním nebo správním orgánem státu, jehož je tato osoba občanem, nebo výpisem z evidence Rejstříku trestů, v jehož příloze jsou tyto informace obsaženy,
+u právnické osoby, která v posledních 3 letech alespoň po dobu 3 měsíců nepřetržitě vykonávala činnost nebo měla sídlo mimo území České republiky, výpisem z evidence trestů nebo rovnocenným dokladem vydaným příslušným soudním nebo správním orgánem tohoto státu.
+Nevydává-li stát podle odstavce 3 výpis z evidence trestů nebo rovnocenný doklad, předloží osoba čestné prohlášení o bezúhonnosti.
+Prokazuje-li se bezúhonnost způsobem podle odstavce 3 nebo 4, musí tyto doklady žadatel přiložit k žádosti o zápis do seznamu znalců; tyto doklady nesmí být v okamžiku podání žádosti starší než 3 měsíce. Na vyžádání ministerstva žadatel doloží rozhodnutí o odsouzení. Je-li žadatelem právnická osoba, musí podmínku bezúhonnosti splňovat rovněž fyzická osoba, která je členem jejího statutárního orgánu nebo vykonává činnost člena jejího statutárního orgánu.
+Vstupní zkouška znalce
+Vstupní zkouška se skládá z obecné části, kterou se ověřují zejména znalosti právních předpisů upravujících výkon znalecké činnosti a řízení, v nichž se znalecká činnost vykonává, a náležitostí znaleckého posudku, a zvláštní části, kterou se ověřuje zejména schopnost vypracovat znalecký posudek a znalosti z oboru a odvětví, s přihlédnutím ke specializaci, pokud byla zvolena. Vstupní zkouška se koná v českém jazyce.
+Obecnou část vstupní zkoušky zajišťuje a organizuje Justiční akademie. Obecná část vstupní zkoušky se považuje za splněnou v případě, že žadatel při vykonání vstupní zkoušky uspěl v jiném oboru či odvětví, než pro které nově žádá o zápis do seznamu znalců, v uplynulých 3 letech přede dnem podání žádosti.
+Žadateli, který splní podmínky uvedené v § 5 odst. 1 písm. b) až g) a v § 8 odst. 1 písm. a) až d) a uhradí poplatek za umožnění vykonání vstupní zkoušky, bude umožněno do 6 měsíců od doručení žádosti podle § 11 odst. 2 vykonat vstupní zkoušku. Poplatek za umožnění vykonání obecné části vstupní zkoušky činí 3 000 Kč. Poplatek za umožnění vykonání zvláštní části vstupní zkoušky činí 5 000 Kč.
+Ten, kdo při vstupní zkoušce neuspěl, může do 1 měsíce ode dne, kdy byl vyrozuměn o jejím výsledku, požádat o její opakování. Ministerstvo umožní opakování vstupní zkoušky žadateli, který uhradil poplatek za vykonání části vstupní zkoušky, o jejíž opakování žádá, a to po uplynutí 6 měsíců ode dne konání vstupní zkoušky, při které žadatel neuspěl. Vstupní zkoušku lze opakovat pouze jedenkrát. Poplatek za umožnění opakování obecné části vstupní zkoušky činí 3 000 Kč. Poplatek za umožnění opakování zvláštní části vstupní zkoušky činí 5 000 Kč.
+Ten, kdo ve vstupní zkoušce neuspěl a nepodal včas žádost o její opakování, stanovení jiného termínu nebo jiného náhradního termínu, anebo ten, kdo neuspěl ani při jejím opakování, může podat další žádost o zápis do seznamu znalců nejdříve po uplynutí 5 let ode dne konání poslední neúspěšné vstupní zkoušky.
+Ministerstvo umožní vykonat vstupní zkoušku v jiném termínu tomu, kdo se nedostaví k vykonání vstupní zkoušky, svou neúčast řádně a včas omluví, prokáže vážné důvody své neúčasti, nejpozději do 5 dnů ode dne doručení omluvy požádá o umožnění vykonání vstupní zkoušky v jiném termínu a uhradí poplatek za umožnění vykonání zkoušky v jiném termínu ve výši 5 000 Kč.
+Ministerstvo umožní vykonat vstupní zkoušku v jiném náhradním termínu tomu, kdo se nedostaví k vykonání vstupní zkoušky v jiném termínu, svou neúčast řádně a včas omluví, prokáže důvody zvláštního zřetele hodné své neúčasti, nejpozději do 5 dnů ode dne doručení omluvy požádá o umožnění jejího vykonání a uhradí poplatek za umožnění vykonání zkoušky v jiném náhradním termínu ve výši 10 000 Kč.
+Žadatel, který se nedostaví ke vstupní zkoušce a svoji neúčast řádně a včas neomluví, se hodnotí stupněm neuspěl.
+Způsob vykonání vstupní zkoušky, její formu, obsah a průběh stanoví ministerstvo vyhláškou.
+VZNIK, POZASTAVENÍ A ZÁNIK OPRÁVNĚNÍ VYKONÁVAT ZNALECKOU ČINNOST
+Vznik oprávnění vykonávat znaleckou činnost
+Oprávnění vykonávat znaleckou činnost vzniká zápisem do seznamu znalců.
+Žádost o zápis do seznamu znalců podává žadatel na předepsaném formuláři. V žádosti žadatel uvede obor a odvětví a podle vlastního uvážení i specializaci, ve které chce vykonávat znaleckou činnost.
+Ministerstvo zapíše žadatele do seznamu znalců, splnil-li žadatel podmínky pro výkon znalecké činnosti, a to do 10 pracovních dnů ode dne jejich splnění nebo ode dne složení slibu, je-li žadatelem fyzická osoba. Rozhodnutí o zápisu do seznamu znalců se písemně nevyhotovuje. Rozhodnutí nabývá právní moci zápisem znalce do seznamu znalců.
+Ministerstvo vydá znalci průkaz znalce (dále jen „průkaz“) a potvrzení opravňující jej k objednávce a převzetí znalecké pečeti. Postup při vydávání průkazu, jednotný vzor průkazu a jeho náležitosti a jednotnou úpravu znalecké pečeti a barvu znalecké pečeti stanoví ministerstvo vyhláškou.
+Znalec je povinen oznámit ministerstvu změny ve skutečnostech, které jsou podmínkou výkonu znalecké činnosti znalce, nejpozději do 10 pracovních dnů ode dne, kdy tato změna nastala.
+Náležitosti formuláře žádosti o zápis do seznamu znalců stanoví ministerstvo vyhláškou a formulář zároveň uveřejní způsobem umožňujícím dálkový přístup.
+Zvláštní ustanovení o vzniku oprávnění vykonávat znaleckou činnost
+Ministerstvo zapíše do seznamu znalců fyzickou osobu jako znalce a obchodní korporaci jako znaleckou kancelář nebo toho, kdo je uveden v § 7 odst. 1 písm. a) jako znalecký ústav, aniž by splnili podmínky pro zápis do seznamu znalců podle příslušných ustanovení tohoto zákona, pokud
+získali v některém z členských států Evropské unie nebo v jiném smluvním státě Dohody o Evropském hospodářském prostoru nebo Švýcarské konfederaci oprávnění obdobné znaleckému oprávnění podle tohoto zákona a
+ministerstvo po složení rozdílové zkoušky uzná jejich kvalifikaci podle zákona o uznávání odborné kvalifikace.
+Rozdílovou zkouškou se ověřují znalosti právních předpisů upravujících výkon znalecké činnosti a řízení, v nichž se znalecká činnost vykonává, a náležitostí znaleckého úkonu. Na rozdílovou zkoušku se použijí ustanovení § 10 obdobně. Způsob vykonání rozdílové zkoušky, její formu, obsah a průběh stanoví ministerstvo vyhláškou.
+Fyzická osoba uvedená v odstavci 1 musí před zapsáním do seznamu znalců složit slib podle § 5 odst. 2 do rukou ministra spravedlnosti.
+Pozastavení oprávnění vykonávat znaleckou činnost
+Ministerstvo pozastaví oprávnění vykonávat znaleckou činnost,
+byl-li znalec vzat do vazby nebo nastoupil do výkonu trestu odnětí svobody, a to po dobu trvání výkonu vazby nebo výkonu trestu odnětí svobody, nebo
+požádá-li znalec písemně o pozastavení činnosti a uvede, na jakou dobu má být oprávnění vykonávat znaleckou činnost pozastaveno.
+Ministerstvo může v odůvodněných případech pozastavit oprávnění vykonávat znaleckou činnost, pokud
+bylo zahájeno trestní stíhání znalce pro trestný čin, a to do doby pravomocného skončení trestního stíhání; ministerstvo při pozastavení zohlední zejména, zda se jedná o trestný čin spáchaný v souvislosti s výkonem znalecké činnosti a zda se jedná o trestný čin, který ohrožuje důvěru v řádný výkon znalecké činnosti,
+existují zdravotní nebo jiné závažné důvody dlouhodobě znemožňující výkon znalecké činnosti, nebo
+bylo zahájeno řízení o omezení svéprávnosti, a to do doby nabytí právní moci rozhodnutí, kterým se toto řízení končí.
+Žádost o pozastavení oprávnění vykonávat znaleckou činnost lze podat na dobu nejdéle 3 let, a to i opakovaně, celková doba pozastavení oprávnění vykonávat znaleckou činnost však nesmí činit více než 6 let. V rozhodnutí o pozastavení oprávnění vykonávat znaleckou činnost se vždy stanoví doba, na kterou se toto oprávnění pozastavuje. Ministerstvo ukončí pozastavení oprávnění vykonávat znaleckou činnost na žádost znalce, pokud tomu nebrání závažné důvody.
+Po dobu pozastavení oprávnění vykonávat znaleckou činnost nesmí znalec vykonávat znaleckou činnost a bezodkladně o této skutečnosti informuje všechny své zadavatele dosud nerozpracovaných znaleckých posudků; tyto znalecké posudky již znalec nezpracuje. Pozastavením oprávnění vykonávat znaleckou činnost však není dotčena povinnost dokončit již rozpracované znalecké posudky a doplnit nebo vysvětlit již podané znalecké posudky, pokud to není v rozporu s důvodem pozastavení činnosti. Pokud by dokončení již rozpracovaných znaleckých posudků bylo v rozporu s důvodem pozastavení činnosti, musí být tato skutečnost uvedena v rozhodnutí o pozastavení činnosti a znalec o této skutečnosti bezodkladně informuje všechny své zadavatele dotčených rozpracovaných znaleckých posudků. Dojde-li k pozastavení oprávnění vykonávat znaleckou činnost, musí znalec vrátit zadavateli bez zbytečného odkladu podklady sloužící pro zpracování znaleckého posudku.
+Pozastavení oprávnění vykonávat znaleckou činnost a ukončení pozastavení oprávnění vykonávat znaleckou činnost zaznamená ministerstvo v seznamu znalců bezodkladně, nejpozději do 10 pracovních dnů ode dne, kdy rozhodnutí o pozastavení nebo ukončení pozastavení oprávnění vykonávat znaleckou činnost nabylo právní moci.
+Opravný prostředek proti rozhodnutí o pozastavení oprávnění vykonávat znaleckou činnost nemá odkladný účinek.
+Zánik oprávnění vykonávat znaleckou činnost
+Ministerstvo rozhodne o zrušení oprávnění vykonávat znaleckou činnost, pokud
+znalec přestal splňovat podmínky pro výkon znalecké činnosti,
+znalec nedoloží doklad o uzavřeném pojištění pro případ povinnosti nahradit újmu ve lhůtě podle § 22 odst. 4,
+znalec nemůže ze zdravotních nebo jiných závažných důvodů dlouhodobě vykonávat znaleckou činnost nebo ji nemůže vykonávat s odbornou péčí a oprávnění vykonávat znaleckou činnost nebylo pozastaveno,
+nastanou důvody uvedené v § 35 odst. 4, nebo
+znalec závažným způsobem porušil nebo opakovaně porušuje povinnost stanovenou tímto zákonem.
+Je-li to možné a nehrozí-li nebezpečí z prodlení, vyzve ministerstvo znalce před vydáním rozhodnutí o zrušení oprávnění vykonávat znaleckou činnost k nápravě ve stanovené přiměřené lhůtě.
+Oprávnění vykonávat znaleckou činnost zaniká
+smrtí znalce,
+zánikem znalecké kanceláře nebo znaleckého ústavu,
+oznámením o ukončení znalecké činnosti, a to k poslednímu dni kalendářního měsíce následujícího po měsíci, ve kterém bylo oznámení ministerstvu doručeno, nebo
+právní mocí rozhodnutí o zrušení oprávnění vykonávat znaleckou činnost.
+Po zániku oprávnění vykonávat znaleckou činnost musí ten, komu byly poskytnuty podklady sloužící pro vypracování znaleckého posudku, nebo ten, kdo má podklady u sebe, tyto podklady bez zbytečného odkladu vrátit zadavateli.
+Po zániku oprávnění vykonávat znaleckou činnost musí ten, komu byla vydána znalecká pečeť a průkaz, nebo ten, kdo má znaleckou pečeť a průkaz u sebe, odevzdat znaleckou pečeť a průkaz bez zbytečného odkladu ministerstvu. Ministerstvo bez zbytečného odkladu zaznamená zánik oprávnění vykonávat znaleckou činnost do seznamu znalců.
+SEZNAM ZNALCŮ
+Obecná ustanovení o seznamu znalců
+Seznam znalců je informační systém veřejné správy, jehož správcem je ministerstvo, a do něhož se zapisují znalci, znalecké kanceláře a znalecké ústavy. Údaje označené tímto zákonem jako veřejné jsou uveřejňovány způsobem umožňujícím dálkový přístup.
+K údajům, které jsou označené tímto zákonem jako neveřejné, má přístup ministerstvo. Na základě odůvodněné žádosti udělí správce seznamu znalců přístup v nezbytném rozsahu do neveřejné části rovněž jinému orgánu veřejné moci.
+Znalec má právo nahlížet do seznamu znalců na všechny údaje, které jsou o něm zapsány.
+Z údajů podle odstavce 2 lze v konkrétním případě využít vždy jen takové údaje, které jsou nezbytné ke splnění daného úkolu.
+Údaje z neveřejné části ze seznamu znalců ministerstvo vymaže po uplynutí 10 let od zániku oprávnění vykonávat znaleckou činnost.
+Údaje vedené v seznamu znalců
+Jako veřejný údaj se do seznamu znalců zapisuje
+jméno nebo název,
+obor a odvětví a případně specializace, pokud byla zvolena; jedná-li se o znaleckou kancelář nebo znalecký ústav, pak i jména znalců, prostřednictvím kterých znaleckou činnost v jednotlivých oborech, odvětvích a případně specializacích vykonává, případně osob zapojených do vědeckovýzkumné činnosti znaleckého ústavu podle § 7 odst. 1 písm. c) nebo § 7 odst. 2,
+údaj o tom, že znalec vykonává znaleckou činnost v rámci znalecké kanceláře,
+sídlo,
+kontaktní adresa na území České republiky v případě, že znalec nemá sídlo nebo místo trvalého pobytu nebo místo pobytu podle druhu pobytu cizince na území České republiky,
+identifikační číslo osoby,
+identifikátor datové schránky,
+telefonní kontakt,
+den zápisu do seznamu znalců,
+údaj o zápisu do seznamu znalců a tlumočníků podle zákona č. 36/1967 Sb., byl-li znalec nebo znalecký ústav zapsán podle tohoto zákona,
+údaj o spáchaném přestupku podle tohoto zákona a uloženém správním trestu, neuplynulo-li více než 5 let ode dne nabytí právní moci rozhodnutí o přestupku,
+údaj o tom, od kdy a na jak dlouhou dobu byl výkon znalecké činnosti znalce pozastaven, a ustanovení tohoto zákona, podle kterého došlo k pozastavení; to platí i v případě, že byla pozastavena činnost některému ze znalců působících ve znalecké kanceláři,
+údaj o zániku oprávnění vykonávat znaleckou činnost, jeho důvodu a datu.
+Na žádost znalce se do seznamu znalců zapisuje jako veřejný údaj
+adresa elektronické pošty,
+internetová stránka týkající se znalecké činnosti.
+Jako neveřejný údaj se do seznamu znalců zapisuje
+údaj o spáchaném přestupku podle tohoto zákona a uloženém správním trestu, uplynulo-li 5 let ode dne nabytí právní moci rozhodnutí o přestupku,
+údaj o uložené výtce,
+údaj o zahájení správního řízení podle tohoto zákona,
+adresa místa trvalého pobytu nebo místa pobytu, nemá-li znalec trvalý pobyt na území České republiky, a
+jiná skutečnost potřebná pro výkon dohledu.
+Znalci, který nemá do okamžiku zápisu do seznamu znalců přiděleno identifikační číslo osoby, přidělí identifikační číslo osoby ministerstvo.
+Změnu údajů zapisovaných do seznamu znalců je znalec povinen oznámit ministerstvu do 10 pracovních dnů ode dne, kdy ke změně došlo.
+Znalec je povinen k oznámení podle odstavce 5 přiložit doklad osvědčující danou změnu; to neplatí, pokud jde o změny již zapsané v základních registrech, veřejném rejstříku nebo v informačním systému evidence obyvatel, jedná-li se o občana České republiky, anebo v informačním systému cizinců, jedná-li se o cizince. Změny údajů získaných z těchto registrů, systémů, veřejného rejstříku nebo od znalce zapíše ministerstvo bez zbytečného odkladu do seznamu znalců.
+Využívání údajů z informačních systémů veřejné správy
+Ministerstvo za účelem správy seznamu znalců využívá ze základního registru obyvatel údaje v rozsahu
+příjmení,
+jméno, popřípadě jména,
+adresa místa pobytu,
+datum, místo a okres narození, u subjektu údajů, který se narodil v cizině, datum, místo a stát, kde se narodil,
+datum, místo a okres úmrtí, jde-li o úmrtí subjektu údajů mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil, a datum nabytí právní moci tohoto rozhodnutí a
+státní občanství, případně více státních občanství.
+Ministerstvo za účelem správy seznamu znalců využívá z informačního systému evidence obyvatel údaje v rozsahu
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum narození,
+místo a okres narození, v případě narození v cizině místo a stát,
+rodné číslo,
+státní občanství, popřípadě více státních občanství,
+adresa místa trvalého pobytu, včetně předchozích adres místa trvalého pobytu, případně též adresa, na kterou mají být doručovány písemnosti,
+omezení svéprávnosti,
+datum, místo a okres úmrtí; jde-li o úmrtí občana mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo, a
+den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti, popřípadě jako den, který nepřežil.
+Ministerstvo za účelem správy seznamu znalců využívá z informačního systému cizinců tyto údaje:
+jméno, popřípadě jména, příjmení,
+datum narození,
+rodné číslo,
+místo a stát narození; v případě, že se cizinec narodil na území České republiky, místo a okres narození,
+státní občanství, případně více státních občanství,
+druh a adresa místa pobytu na území České republiky,
+omezení svéprávnosti,
+datum, místo a okres úmrtí; jde-li o úmrtí mimo území České republiky, stát, na jehož území k úmrtí došlo, popřípadě datum úmrtí, a
+den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti, popřípadě jako den, který nepřežil.
+Ministerstvo za účelem správy seznamu znalců využívá ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci kromě veřejně přístupných údajů údaje v rozsahu
+jméno, popřípadě jména, a příjmení podnikající fyzické osoby nebo zahraniční osoby a
+adresa místa pobytu v České republice, popřípadě bydliště v zahraničí podnikající fyzické osoby nebo zahraniční osoby.
+Z údajů podle odstavců 1 až 4 lze v konkrétním případě využít vždy jen takové údaje, které jsou nezbytné ke splnění daného úkolu. Údaje, které jsou vedeny jako referenční údaje v základním registru obyvatel nebo v základním registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci, se využijí z informačního systému evidence obyvatel nebo informačního systému cizinců, pouze pokud jsou ve tvaru předcházejícím současný stav.
+PRÁVA A POVINNOSTI ZNALCŮ
+Vyloučení
+Znalec nesmí provést znalecký úkon, jestliže lze mít důvodnou pochybnost o jeho nepodjatosti pro jeho poměr k věci, účastníkovi řízení nebo jeho zástupci, zadavateli, orgánu veřejné moci, který znalecký posudek zadal nebo provádí řízení nebo při jiném postupu správního orgánu, kde má být znalecký posudek použit.
+Jakmile se znalec dozví o skutečnosti, pro kterou nesmí provést znalecký úkon, oznámí ji bezodkladně zadavateli. Ustanoví-li znalce orgán veřejné moci, pak tento orgán rozhodne, zda je znalec v dané věci z podání znaleckého posudku vyloučen.
+Odstavec 1 o vyloučení znalce se použije obdobně i pro konzultanta.
+Odmítnutí podání znaleckého úkonu
+Znalec odmítne provést znalecký úkon, pokud
+má pozastaveno oprávnění vykonávat znaleckou činnost,
+nemá oprávnění vykonávat znaleckou činnost v oboru, odvětví nebo specializaci, ve kterých je potřebné úkon vykonat,
+mu počet nebo povaha zadaných, dosud nezpracovaných znaleckých posudků neumožňuje podat další znalecký úkon s odbornou péčí a včas, nebo
+vykonává znaleckou činnost jako zaměstnanec, společník nebo člen znalecké kanceláře.
+Je-li zadavatelem orgán veřejné moci, nesmí znalec odmítnout vykonat znalecký úkon z jiného důvodu než z důvodu podle odstavce 1 nebo v případě, že mu závažné zdravotní okolnosti, závažná rodinná situace, mimořádné nebo neočekávané pracovní povinnosti neumožňují vykonat úkon s odbornou péčí a včas, nebo tak stanoví jiný zákon.
+Pro odmítnutí výkonu znalecké činnosti znaleckou kanceláří a znaleckým ústavem se použijí odstavce 1 a 2 přiměřeně.
+Mlčenlivost
+Znalec je povinen zachovávat mlčenlivost o skutečnostech, o kterých se dozvěděl v souvislosti s výkonem své znalecké činnosti, a to i po jejím skončení. Mlčenlivosti jej může zprostit jen zadavatel.
+Povinnost mlčenlivosti podle odstavce 1 se vztahuje i na konzultanty a další osoby, které se na znalecké činnosti podílely. O povinnosti mlčenlivosti je znalec povinen tyto osoby písemně poučit. Mlčenlivosti může tyto osoby zprostit jen zadavatel.
+Povinnost mlčenlivosti se nevztahuje na použití informací o skutečnostech podle odstavce 1 přiměřeným způsobem a v anonymizované podobě pro vědecké nebo vzdělávací účely. Povinnosti mlčenlivosti se nelze dovolat vůči orgánu veřejné moci, před kterým probíhá řízení, v němž má být znalecký posudek použit; povinnosti mlčenlivosti se nelze dovolat ani vůči orgánu vykonávajícímu dohled nad znaleckou činností.
+Povinnost mlčenlivosti se nevztahuje na řízení proti osobě, která vykonala znalecký úkon, nebo proti zadavateli v souvislosti s touto činností, ani na spory mezi nimi.
+Odpovědnost za výkon znalecké činnosti
+Znalec je povinen nahradit újmu, kterou způsobil v souvislosti s výkonem znalecké činnosti.
+Znalec se odpovědnosti zprostí, prokáže-li, že újmě nemohlo být zabráněno ani při vynaložení veškerého úsilí, které lze na něm požadovat.
+Pojištění znalců
+Znalec musí být pojištěn pro případ povinnosti nahradit újmu způsobenou v souvislosti s výkonem znalecké činnosti po celou dobu výkonu znalecké činnosti tak, aby výše limitu pojistného plnění byla úměrná možným újmám, které lze v rozumné míře předpokládat; osoba vykonávající jednorázově znaleckou činnost podle § 26 nemá povinnost být pojištěna.
+Znalecký ústav podle § 7 odst. 2 a znalec, který vykonává znaleckou činnost jako zaměstnanec, společník nebo člen znalecké kanceláře, nemá povinnost být pojištěn.
+Minimální limit pojistného plnění z pojištění znalce pro jednotlivé obory a odvětví stanoví ministerstvo vyhláškou.
+Znalec doloží ministerstvu doklad o uzavřeném pojištění pro případ odpovědnosti za újmu podle odstavce 1
+do 60 pracovních dnů ode dne zápisu do seznamu,
+do konce kalendářního roku, který předchází roku, na nějž se pojištění vztahuje,
+do 15 dnů ode dne, kdy došlo ke změně, která zakládá povinnost změny pojištění,
+do 1 týdne ode dne, kdy o to ministerstvo požádá.
+Pojistitel může povinné pojištění podle odstavce 1 vypovědět pouze z důvodů uvedených v ustanoveních občanského zákoníku upravujících pojistnou smlouvu.
+Konzultant
+Vyžaduje-li to povaha věci, je znalec oprávněn přibrat se souhlasem zadavatele konzultanta k posuzování zvláštních dílčích otázek. Tato okolnost spolu s důvody, které k ní vedly, musí být uvedena ve znaleckém posudku.
+Oznamovací povinnost znalce
+Znalec je povinen oznámit ministerstvu veškeré skutečnosti, které mohou vést k pozastavení nebo zániku znaleckého oprávnění, a to neprodleně, nejpozději však do 10 pracovních dnů ode dne, kdy nastala rozhodná skutečnost.
+USTANOVENÍ ZNALCE A OSOBY JEDNORÁZOVĚ VYKONÁVAJÍCÍ ZNALECKOU ČINNOST
+Ustanovení znalce
+Orgán veřejné moci ustanoví, nebrání-li tomu okolnosti, znalce se sídlem nebo kontaktní adresou v obvodu krajského soudu, v němž má orgán veřejné moci sídlo nebo pracoviště. Orgán veřejné moci se znalcem předem projedná zadání znaleckého posudku a lhůtu pro podání znaleckého posudku. Tuto lhůtu lze na žádost znalce výjimečně v odůvodněných případech prodloužit; lhůtu lze prodloužit opakovaně z důvodů hodných zvláštního zřetele. Znalec je povinen na žádost orgánu veřejné moci provést předběžný odhad předpokládané výše znalečného, které si provedení úkonu vyžádá.
+Orgán veřejné moci ustanoví znalecký ústav nebo znaleckou kancelář především ke zpracování znaleckých posudků ve zvlášť obtížných případech vyžadujících zvláštního posouzení.
+Osoba vykonávající jednorázově znaleckou činnost
+Orgán veřejné moci může výjimečně ustanovit k podání znaleckého posudku i jinou osobu, která není zapsána do seznamu znalců pro daný obor a odvětví a případně specializaci, má potřebné předpoklady pro to, aby podala znalecký posudek, a vyslovila se svým ustanovením souhlas, pokud
+pro daný obor a odvětví a případně specializaci není nikdo v seznamu znalců zapsán,
+žádný zapsaný znalec nemůže znalecký posudek podat, nebo
+by podání znaleckého posudku znalcem bylo spojeno s nepřiměřenými náklady nebo obtížemi.
+Orgán veřejné moci poučí osobu podle odstavce 1 o významu znaleckého posudku z hlediska obecného zájmu a o následcích křivé výpovědi a vědomě nepravdivého znaleckého posudku.
+Takto ustanovená osoba složí do rukou orgánu, který ji ustanovil, slib podle § 5 odst. 2; před složením slibu nesmí podat znalecký posudek. O složení slibu vyhotoví orgán veřejné moci zápis.
+Není-li odbornost takto ustanovené osoby uvedena v příloze k tomuto zákonu nebo ve vyhlášce vydané na základě § 4 odst. 2, je orgán veřejné moci, který takto osobu ustanovil k podání znaleckého posudku, povinen sdělit ministerstvu, pro který obor nebo odvětví byla tato osoba ustanovena. Součástí takového sdělení je i věcné vymezení daného oboru nebo odvětví.
+Pro účely jednorázového podání znaleckého posudku se na osobu podle odstavce 1 hledí, jako by byla
+znalcem, jedná-li se o fyzickou osobu,
+znaleckou kanceláří, jedná-li se o obchodní korporaci, nebo
+znaleckým ústavem, jedná-li se o toho, kdo je uveden v § 7 odst. 1 písm. a).
+ZNALECKÝ POSUDEK
+Způsob podání znaleckého posudku
+Znalecký posudek se podává v listinné podobě nebo, souhlasí-li s tím zadavatel, v elektronické podobě; lze jej podat též ústně do protokolu.
+Podává-li se znalecký posudek v listinné podobě, musí být každé jeho vyhotovení vlastnoručně podepsané a musí být připojen otisk znalecké pečeti. Podává-li se znalecký posudek v elektronické podobě, musí být každé jeho vyhotovení podepsáno kvalifikovaným elektronickým podpisem, musí být připojen certifikát pro elektronický podpis, na kterém je kvalifikovaný elektronický podpis založen a který obsahuje jméno znalce nebo název znalecké kanceláře nebo znaleckého ústavu a označení „znalec“, „znalecká kancelář“ nebo „znalecký ústav“, a musí být opatřen kvalifikovaným elektronickým časovým razítkem. Certifikát, na kterém je založeno elektronické časové razítko, musí mít platnost nejméně 5 let ode dne vyhotovení znaleckého posudku.
+Znalec má povinnost vyhotovit stejnopis znaleckého posudku podaného v listinné podobě a uchovat jej nejméně po dobu 10 let ode dne podání znaleckého posudku. Znalec má povinnost uchovat znalecký posudek podaný v elektronické podobě se všemi náležitostmi podle odstavce 2 nejméně po dobu 10 let ode dne podání znaleckého posudku.
+Způsob provedení znaleckého úkonu a náležitosti znaleckého úkonu, užívání znalecké pečeti a znalecké doložky stanoví ministerstvo vyhláškou.
+Náležitosti znaleckého posudku
+Podaný znalecký posudek musí být úplný, pravdivý a přezkoumatelný.
+Znalecký posudek musí obsahovat tyto náležitosti:
+titulní stranu,
+zadání,
+výčet podkladů,
+nález,
+posudek,
+odůvodnění v rozsahu umožňujícím přezkoumatelnost znaleckého posudku,
+závěr,
+je-li to možné, přílohy potřebné k zajištění přezkoumatelnosti znaleckého posudku,
+znaleckou doložku a
+otisk znalecké pečeti.
+V případě, že byl znalecký posudek zpracován znaleckou kanceláří, musí být mezi osobami, které se podílely na zpracování, uveden a podepsán vždy alespoň jeden znalec, jehož prostřednictvím znalecká kancelář vykonává znaleckou činnost, z oboru a odvětví, případně specializace, ve kterých byl znalecký posudek zpracován.
+V případě, že byl znalecký posudek zpracován znaleckým ústavem, musí být podepsán znalcem nebo osobou uvedenou v § 7 odst. 1 písm. c) nebo § 7 odst. 2 a dále musí být ve znaleckém posudku uvedeno, kdo se podílel na jeho zpracování a kdo je povinen znalecký posudek na žádost orgánu veřejné moci osobně stvrdit, doplnit nebo jeho obsah blíže vysvětlit. Znalecký posudek zpracovaný znaleckým ústavem musí být vzat na vědomí postupem upraveným vnitřními předpisy tohoto znaleckého ústavu. Údaj o vzetí na vědomí znaleckého posudku v něm musí být uveden, a to včetně data a podpisu odpovědné osoby.
+Znalecký posudek musí být kromě odůvodněných případů zpracován v souladu s obecně uznávanými postupy a standardy daného oboru a odvětví. V souladu s obecně uznávanými postupy a standardy obsahuje závěr posudku jednoznačné odpovědi na položené otázky; pokud podklady nebo metoda neumožňují znalci vyslovit jednoznačný závěr, uvede znalec skutečnosti snižující přesnost závěru.
+Znalec je povinen znalecký posudek na žádost orgánu veřejné moci, před nímž má být znalecký posudek použit, osobně stvrdit, doplnit nebo jeho obsah blíže vysvětlit.
+Na poslední stranu znaleckého posudku připojí znalec znaleckou doložku, která obsahuje označení seznamu, v němž je zapsán, označení oboru a odvětví, popřípadě specializaci, ve kterých je oprávněn podávat znalecké posudky, a číslo položky, pod kterou je znalecký posudek zapsán v evidenci znaleckých posudků (dále jen „evidence posudků“). Při podání znaleckého posudku ústně do protokolu se uvedou též údaje, které jsou předmětem znalecké doložky.
+Znaleckou pečetí lze opatřit pouze znalecký posudek.
+Postup při zpracování znaleckého posudku a jeho náležitosti stanoví ministerstvo vyhláškou.
+Evidence posudků
+Správcem evidence posudků je ministerstvo. Evidence posudků je informačním systémem veřejné správy a je vedena způsobem umožňujícím dálkový přístup.
+Znalec je povinen zapisovat údaje podle tohoto zákona do evidence posudků.
+Znalec do evidence posudků zapíše do 5 pracovních dnů ode dne zadání znaleckého posudku nebo ode dne, kdy nastala skutečnost, ke které se povinnost zápisu váže,
+den zadání znaleckého posudku,
+den podání, případně den vysvětlení nebo doplnění znaleckého posudku,
+předmět znaleckého posudku,
+obor a odvětví, případně specializaci, ve kterých má být podán znalecký posudek,
+označení zadavatele znaleckého posudku,
+označení znalce a osob, které se podílely na jeho zpracování,
+termín pro vyhotovení znaleckého posudku,
+příslušné jednací číslo orgánu veřejné moci a
+údaj o vyúčtovaném a přiznaném znalečném.
+V evidenci posudků je rovněž pro každého znalce veden
+celkový počet zpracovaných znaleckých posudků zadaných orgány veřejné moci v jednotlivých letech,
+celkový počet zpracovaných znaleckých posudků zadaných ostatními zadavateli v jednotlivých letech,
+celkový počet zpracovaných znaleckých posudků v jednotlivých letech,
+počet zadaných, dosud nezpracovaných znaleckých posudků zadaných orgány veřejné moci,
+počet zadaných, dosud nezpracovaných znaleckých posudků zadaných ostatními zadavateli,
+celkový počet zadaných, dosud nezpracovaných znaleckých posudků.
+Údaje podle odstavce 3 a odstavce 4 písm. a), b), d) a e) jsou neveřejné. Přístup k neveřejným údajům má ministerstvo a krajské soudy. Na základě odůvodněné žádosti udělí správce evidence posudků přístup v nezbytném rozsahu do neveřejné části rovněž jinému orgánu veřejné moci.
+Způsob vedení evidence posudků stanoví ministerstvo vyhláškou.
+Ministerstvo provede nejméně jedenkrát ročně kontrolu plnění povinností podle odstavců 2 a 3 u všech znalců.
+ZNALEČNÉ
+Znalečné
+Znalečným se rozumí souhrnná částka odměny, náhrady hotových výdajů a náhrady za ztrátu času včetně času stráveného na cestě.
+Odměna
+Znalci náleží za výkon znalecké činnosti odměna.
+Odměna za výkon znalecké činnosti se řídí smlouvou se zadavatelem; není-li odměna takto sjednána nebo je-li zadavatelem orgán veřejné moci, odměna se určí podle příslušných ustanovení tohoto zákona a vyhlášky podle odstavce 7.
+Smluvní odměna musí být písemně sjednána před započetím výkonu znalecké činnosti, a to tak, aby žádným způsobem nezávisela na výsledku této činnosti. Znalec ve znaleckém posudku povinně uvede, zda byla smluvní odměna sjednána.
+Odměna se určí podle množství účelně vynaložené práce a odborné náročnosti vyžadované k provedení znaleckého úkonu.
+Určenou odměnu lze zvýšit, je-li znalecký posudek mimořádně obtížný, nebo je-li nutné urychlené zpracování znaleckého posudku. Určená odměna se může přiměřeně krátit, jestliže úkon nebyl proveden v souladu s požadavky uvedenými v § 28 nebo ve stanovené lhůtě. Jde-li o zvlášť závažný případ nekvalitního provedení úkonu, může zadavatel určenou odměnu zcela odepřít. To platí i v případě sjednané odměny, pokud si strany neujednaly něco jiného.
+Odměna určená nebo sjednaná podle odstavců 1 až 5 se zvyšuje o částku odpovídající dani z přidané hodnoty, kterou je znalec, plátce daně z přidané hodnoty, povinen uplatnit podle zákona o dani z přidané hodnoty.
+Výši a způsob určení odměny, rozsah snížení, odepření nebo zvýšení odměny a způsob vyúčtování odměny stanoví ministerstvo vyhláškou.
+Náhrada hotových výdajů a náhrada za ztrátu času včetně času stráveného na cestě
+Nebylo-li sjednáno jinak, má znalec právo na náhradu hotových výdajů, které účelně vynaložil k provedení úkonu, a na náhradu za ztrátu času včetně času stráveného na cestě v přímé souvislosti s úkonem.
+Jiné náklady znalce, zejména náklady na běžné administrativní práce, jsou zahrnuty v odměně.
+Jestliže znalec přibral konzultanta, má znalec nárok na náhradu hotových výdajů konzultanta s tím spojených a na náhradu za ztrátu času konzultanta včetně času stráveného na cestě v přímé souvislosti s úkonem.
+Náhrada hotových výdajů a náhrada za ztrátu času včetně času stráveného na cestě podle odstavců 1 a 3 se podle zákona o dani z přidané hodnoty zahrnují jako vedlejší výdaje do základu daně, kterou je znalec, plátce daně z přidané hodnoty, povinen z náhrady hotových výdajů a z náhrady za ztrátu času včetně času stráveného na cestě uplatnit podle zákona o dani z přidané hodnoty.
+Náhrada hotových výdajů a náhrada za ztrátu času včetně času stráveného na cestě podle odstavců 1 a 3 se zvyšuje o částku odpovídající dani z přidané hodnoty, kterou je znalec, plátce daně z přidané hodnoty, povinen uplatnit podle zákona o dani z přidané hodnoty.
+Nemá-li znalec sídlo nebo místo trvalého pobytu nebo místo pobytu podle druhu pobytu cizince na území České republiky, považuje se pro účely náhrady hotových výdajů a náhrady za ztrátu času včetně času stráveného na cestě za sídlo znalce kontaktní adresa na území České republiky.
+Výši a způsob určení náhrady hotových výdajů a náhrady za ztrátu času včetně času stráveného na cestě, a vyúčtování náhrad stanoví ministerstvo vyhláškou.
+Poskytnutí zálohy
+Orgán veřejné moci může v odůvodněných případech poskytnout znalci přiměřenou zálohu na odměnu a náhrady.
+Vyúčtování a úhrada
+Byl-li znalecký posudek zadán orgánem veřejné moci, je znalec povinen vyúčtovat znalečné zároveň s podáním znaleckého posudku. Orgán veřejné moci, který rozhodl o ustanovení znalce, rozhodne o znalečném bez zbytečného odkladu, nejpozději do 30 dnů od doručení vyúčtování. Znalečné se uhradí bez zbytečného odkladu po právní moci rozhodnutí o znalečném, nejpozději do 15 dnů.
+DOHLED
+Výkon dohledu
+Dohled nad výkonem znalecké činnosti znalce vykonává ministerstvo (dále jen „orgán dohledu“).
+Orgán dohledu prověřuje, zda znalci postupují v souladu s tímto zákonem, právními předpisy vydanými k jeho provedení a obecně uznávanými postupy a standardy daného oboru a odvětví. Orgán dohledu je oprávněn posuzovat věcnou správnost znaleckého posudku. Při posuzování věcné správnosti znaleckého posudku orgán dohledu kontroluje zejména, zda znalec při zpracování posudku postupoval s odbornou péčí, včetně toho, zda je posudek v souladu s obecně uznávanými postupy a standardy daného oboru a odvětví.
+Ministerstvo si může vyžádat náhodně vybrané posudky znalce za účelem kontroly podle odstavce 2.
+V případě, že počet znaleckých posudků vypracovaných znalcem v uplynulých 5 letech nepřesahuje 3 znalecké posudky, orgán dohledu rozhodne o zrušení oprávnění vykonávat znaleckou činnost z důvodu nečinnosti, neexistují-li důvody zvláštního zřetele hodné, pro které by nemělo být rozhodnuto o zrušení oprávnění tohoto znalce; to neplatí, je-li znalec zapsán v seznamu znalců méně než 5 let.
+Nerozhodne-li orgán dohledu o zrušení oprávnění vykonávat znaleckou činnost podle odstavce 4, provede kontrolu podle odstavce 3 u všech znaleckých posudků, které byly tímto znalcem doposud zpracovány.
+Pro účely posouzení skutečností, které mají vliv na trvání oprávnění vykonávat znaleckou činnost, je ministerstvo oprávněno nahlížet do částí soudního nebo správního spisu, které tyto skutečnosti obsahují, jestliže nevyplývají z pravomocného rozhodnutí soudu nebo správního orgánu.
+Ministerstvo si může vyžádat výpis z evidence Rejstříku trestů v případě existence důvodného podezření, že znalec přestal splňovat podmínky pro výkon znalecké činnosti.
+Oznamovací povinnost orgánu veřejné moci
+Zjistí-li orgán veřejné moci skutečnosti nasvědčující tomu, že v souvislosti s výkonem znalecké činnosti došlo k porušení tohoto zákona, oznámí to bez zbytečného odkladu ministerstvu.
+Orgán činný v trestním řízení neprodleně vyrozumí orgán dohledu o vydání usnesení o zahájení trestního stíhání nebo o vzetí znalce do vazby.
+Orgán veřejné moci zašle bez zbytečného odkladu ministerstvu opis rozhodnutí ve věcech, které mají vliv na trvání oprávnění vykonávat znaleckou činnost.
+Výtka
+Drobné nedostatky ve výkonu znalecké činnosti a drobné poklesky v chování ministerstvo znalci písemně vytkne. Písemná výtka se zaznamená jako neveřejný údaj do seznamu znalců. Údaj o uložené výtce se v seznamu znalců vede po dobu 3 let.
+Poradní sbory
+Ministr spravedlnosti zřídí v oborech a odvětvích, u nichž to odůvodňuje jejich povaha, poradní sbory pro znalecké otázky.
+PŘESTUPKY
+Znalec, znalecká kancelář nebo znalecký ústav se dopustí přestupku tím, že
+v rozporu s § 1 odst. 3 vykoná znaleckou činnost v oboru, odvětví nebo případně specializaci, pro které nemá oprávnění vykonávat znaleckou činnost,
+v rozporu s § 1 odst. 3 nebo 4 nevykoná znaleckou činnost s odbornou péčí, nezávisle, nestranně, ve sjednané nebo stanovené době nebo osobně,
+v rozporu s § 13 vykoná činnost znalce v době pozastavení oprávnění vykonávat tuto činnost,
+v rozporu s § 16 odst. 5 nesplní svou oznamovací povinnost řádně nebo ve stanovené lhůtě,
+v rozporu s § 18 neoznámí zadavateli bezodkladně skutečnost, pro kterou nesmí vykonat znalecký úkon, nebo vykoná znalecký úkon ve věci, v níž měl být vyloučen,
+v rozporu s § 19 odmítne orgánu veřejné moci provést znalecký úkon, nebo v rozporu s § 28 odst. 6 odmítne písemný znalecký úkon osobně stvrdit, doplnit nebo jeho obsah blíže vysvětlit,
+v rozporu s § 20 odst. 1 nezachová mlčenlivost o skutečnostech, o kterých se dozvěděl v souvislosti s výkonem své znalecké činnosti,
+v rozporu s § 20 odst. 2 poruší povinnost poučit další osoby o povinnosti mlčenlivosti,
+v rozporu s § 24 nesplní svou oznamovací povinnost řádně nebo ve stanovené lhůtě,
+v rozporu s § 27 odst. 3 nevyhotoví stejnopis znaleckého posudku předloženého v listinné podobě nebo jej neuchová po dobu alespoň 10 let,
+v rozporu s § 28 nezajistí, aby znalecký posudek obsahoval veškeré požadované náležitosti,
+v rozporu s § 28 odst. 8 neoprávněně opatří znaleckou pečetí listinu, která není znaleckým posudkem,
+v rozporu s § 29 odst. 2 nezapisuje údaje do evidence posudků nebo je v rozporu s § 29 odst. 3 nezapisuje řádně,
+sjedná smluvní odměnu v rozporu s § 31 odst. 3,
+v rozporu s § 31, 32 nebo 34 vyúčtuje vyšší znalečné.
+Za přestupek se uloží
+pokuta do 75 000 Kč, jde-li o přestupek podle odstavce 1 písm. d), m) až o),
+pokuta do 250 000 Kč, jde-li o přestupek podle odstavce 1 písm. f), i), k) nebo l),
+pokuta do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) až c), e), g), h) nebo j).
+Ten, kdo znalecký posudek zpracoval, a ten, kdo se podílel na zpracování znaleckého posudku, může být spolupachatelem přestupku podle odstavce 1 písm. a), b), e) a k).
+Osoba podle § 26 odst. 1 se dopustí přestupku tím, že
+v rozporu s § 1 odst. 3 nebo 4 nevykoná znaleckou činnost s odbornou péčí, nezávisle, nestranně, ve sjednané nebo stanovené době nebo osobně,
+v rozporu s § 18 neoznámí zadavateli bezodkladně skutečnost, pro kterou nesmí vykonat znalecký úkon, nebo vykoná znalecký úkon ve věci, v níž měla být vyloučena,
+v rozporu s § 19 odmítne orgánu veřejné moci provést znalecký úkon, nebo v rozporu s § 28 odst. 6 odmítne písemný znalecký úkon osobně stvrdit, doplnit nebo jeho obsah blíže vysvětlit,
+v rozporu s § 20 odst. 1 nezachová mlčenlivost o skutečnostech, o kterých se dozvěděla v souvislosti s výkonem své znalecké činnosti,
+v rozporu s § 20 odst. 2 poruší povinnost poučit další osoby o povinnosti mlčenlivosti,
+v rozporu s § 27 odst. 3 nevyhotoví stejnopis znaleckého posudku předloženého v listinné podobě nebo jej neuchová po dobu alespoň 10 let,
+v rozporu s § 28 nezajistí, aby znalecký posudek obsahoval veškeré požadované náležitosti,
+v rozporu s § 31, 32 nebo 34 vyúčtuje vyšší znalečné.
+Za přestupek se uloží
+pokuta do 75 000 Kč, jde-li o přestupek podle odstavce 1 písm. h),
+pokuta do 250 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo g),
+pokuta do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), d), e) nebo f).
+Ten, kdo znalecký posudek zpracoval, a ten, kdo se podílel na zpracování znaleckého posudku, může být spolupachatelem přestupku podle odstavce 1 písm. a), b) a g).
+Jiná osoba než znalec, znalecká kancelář nebo znalecký ústav se dopustí přestupku tím, že
+se neoprávněně vydává za znalce, znaleckou kancelář nebo znalecký ústav,
+neoprávněně vykoná znaleckou činnost,
+neodevzdá po zániku znaleckého oprávnění znaleckou pečeť, průkaz a podklady sloužící pro vypracování znaleckého posudku podle § 14 odst. 4 a 5,
+poruší povinnost mlčenlivosti podle § 20 odst. 2 anebo povinnost mlčenlivosti podle § 20 odst. 1 po zániku oprávnění vykonávat znaleckou činnost.
+Za přestupek podle odstavce 1 se uloží pokuta do 500 000 Kč.
+Společná ustanovení k přestupkům
+Přestupky podle tohoto zákona projednává ministerstvo.
+Promlčecí doba činí 5 let ode dne, kdy byl přestupek spáchán. Byla-li promlčecí doba přerušena, odpovědnost za přestupek zaniká nejpozději 7 let od jeho spáchání.
+Do promlčecí doby přestupku podle § 39 odst. 1 písm. a), b) a k) a přestupku podle § 40 odst. 1 písm. a) a g) se nezapočítává doba, po kterou se vede řízení před orgánem veřejné moci, ve kterém byl znalecký posudek předložen jako důkaz.
+Při stanovení druhu a výměry správního trestu se přihlédne též ke skutečnosti, zda již byla v minulosti této osobě uložena výtka podle § 37.
+Údaj o pravomocném rozhodnutí, kterým byl znalec, znalecká kancelář nebo znalecký ústav uznán vinným ze spáchání přestupku, zaznamená ministerstvo do seznamu znalců bez zbytečného odkladu, nejpozději však do 10 pracovních dnů ode dne nabytí právní moci rozhodnutí o přestupku, a to i v případě, že došlo k pozastavení oprávnění vykonávat znaleckou činnost nebo zániku oprávnění vykonávat znaleckou činnost.
+USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ
+SPOLEČNÁ USTANOVENÍ
+Kde jiné právní předpisy hovoří o znalci, rozumí se tím také osoba vykonávající jednorázově znaleckou činnost.
+Tento zákon zapracovává příslušné předpisy Evropské unie.
+Seznam znaleckých oborů

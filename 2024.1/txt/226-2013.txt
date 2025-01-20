@@ -1,0 +1,130 @@
+Předmět úpravy
+Tento zákon upravuje v návaznosti na přímo použitelný předpis Evropské unie centrální evidenci systémů náležité péče za účelem kontroly uvádění nezákonně vytěženého dřeva a dřevařských výrobků vyrobených z tohoto dřeva (dále jen „centrální evidence“) na trh hospodářskými subjekty, stanoví působnost a pravomoc orgánů státní správy v oblasti uvádění dřeva a dřevařských výrobků na trh a správní tresty za přestupky v oblasti uvádění dřeva a dřevařských výrobků na trh.
+V návaznosti na přímo použitelný předpis Evropské unie tento zákon dále stanoví působnost správních úřadů (dále jen „příslušný orgán“) a organizační složky státu v oblasti režimu licencí FLEGT pro dovoz dřeva (dále jen „licence pro dovoz dřeva“).
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+domácí lesní produkcí dřevo vytěžené v lesích na území České republiky a dřevařské výrobky vyrobené z tohoto dřeva,
+ostatní produkcí dřevo a dřevařské výrobky pocházející z jiné než domácí lesní produkce; ostatní produkcí se rozumí také dřevo a dřevařské výrobky pocházející ze dřevin rostoucích a vytěžených mimo les,
+nezákonně vytěženým dřevem z produkce podle písmene a) dřevo vytěžené v rozporu s lesním zákonem nebo jiným právním předpisem upravujícím těžbu dřeva,
+pověřenou osobou organizační složka státu, která v rámci výkonu jí vymezeného předmětu činnosti splňuje odborné a technické předpoklady pro provádění odborných činností uvedených v § 10 a vůči které vykonává Ministerstvo zemědělství (dále jen „ministerstvo“) funkci zřizovatele.
+Centrální evidence
+Centrální evidence slouží k potřebám kontroly systému náležité péče u hospodářských subjektů a je informačním systémem veřejné správy, který obsahuje informace
+poskytované hospodářskými subjekty ze svých systémů náležité péče pro účely provádění kontrol,
+poskytované příslušnými orgány podle § 4 a správními orgány uvedenými v § 6a při uplatňování přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky,
+sloužící k celkovému hodnocení uplatňování přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky,
+sloužící k plánování kontrol hospodářských subjektů na základě analýzy rizik,
+sloužící k plánování kontrol u kontrolních organizací,
+sloužící ke komplexnímu posouzení a hodnocení rizik uvádění nezákonně vytěženého dřeva nebo dřevařských výrobků z tohoto dřeva na trh, včetně záznamů o kontrolách.
+Informace z centrální evidence podle odstavce 1 se zpřístupňují pro potřeby příslušných orgánů, Generálního ředitelství cel a pověřené osoby podle § 5 písm. a) na internetové stránce ministerstva. Hospodářským subjektům se zpřístupňují informace podle odstavce 1 písm. f). Informace se uchovávají po dobu nejméně 5 let.
+Ministerstvo stanoví vyhláškou rozsah informací a způsob, jakým tyto informace do centrální evidence předávají hospodářské subjekty, příslušné orgány podle § 4 a správní orgány uvedené v § 6a při uplatňování přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky.
+Příslušné orgány
+Příslušnými orgány podle přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, jsou ministerstvo, krajské úřady a Česká obchodní inspekce (dále jen „inspekce“).
+Příslušné orgány podle odstavce 1
+s výjimkou inspekce přijímají oznámení od kontrolních organizací o významných nebo opakovaných porušeních povinností ze strany hospodářských subjektů, které využívají systém náležité péče zavedený kontrolními organizacemi,
+zasílají do centrální evidence informace v rozsahu a způsobem stanovenými vyhláškou ministerstva,
+spolupracují podle čl. 12 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky.
+Příslušnými orgány podle přímo použitelného předpisu Evropské unie o zavedení režimu licencí pro dovoz dřeva jsou ministerstvo, Generální ředitelství cel a celní úřady.
+Využívání údajů z informačních systémů veřejné správy
+Příslušné orgány podle § 4 odst. 1 a pověřená osoba využívají při výkonu působnosti podle tohoto zákona ze základního registru obyvatel údaje v tomto rozsahu:
+jméno, popřípadě jména, příjmení,
+adresa místa pobytu, popřípadě též adresa, na kterou mají být doručovány písemnosti,
+datum, místo a okres narození; u fyzické osoby, která se narodila mimo území České republiky, datum, místo a stát narození,
+datum, místo a okres úmrtí; jde-li o úmrtí fyzické osoby mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který fyzická osoba nepřežila, a datum nabytí právní moci tohoto rozhodnutí,
+státní občanství, popřípadě více státních občanství.
+Příslušné orgány podle § 4 odst. 1 a pověřená osoba využívají při výkonu působnosti podle tohoto zákona z informačního systému evidence obyvatel údaje v tomto rozsahu:
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum narození,
+místo a okres narození; u fyzické osoby, která se narodila mimo území České republiky, místo a stát narození,
+státní občanství, popřípadě více státních občanství,
+adresa místa trvalého pobytu, včetně předchozích adres místa trvalého pobytu, popřípadě též adresa, na kterou mají být doručovány písemnosti,
+počátek trvalého pobytu, popřípadě datum zrušení údaje o místu trvalého pobytu nebo datum ukončení trvalého pobytu na území České republiky,
+datum, místo a okres úmrtí; jde-li o úmrtí fyzické osoby mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který fyzická osoba nepřežila, a datum nabytí právní moci tohoto rozhodnutí.
+Příslušné orgány podle § 4 odst. 1 a pověřená osoba využívají při výkonu působnosti podle tohoto zákona z informačního systému cizinců údaje v tomto rozsahu:
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum narození,
+místo a stát narození; v případě, že se cizinec narodil na území České republiky, místo a okres narození,
+státní občanství, popřípadě více státních občanství,
+druh a adresa místa pobytu na území České republiky,
+počátek pobytu, popřípadě datum ukončení pobytu na území České republiky,
+datum, místo a okres úmrtí; jde-li o úmrtí fyzické osoby mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který fyzická osoba nepřežila, a datum nabytí právní moci tohoto rozhodnutí.
+Příslušné orgány podle § 4 odst. 1 a pověřená osoba využívají při výkonu působnosti podle tohoto zákona ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci kromě veřejně přístupných údajů údaje v rozsahu
+jméno, popřípadě jména, příjmení podnikající fyzické osoby nebo zahraniční osoby a
+adresa místa pobytu v České republice, popřípadě bydliště v zahraničí podnikající fyzické osoby nebo zahraniční osoby.
+Údaje, které jsou vedeny jako referenční údaje v základním registru obyvatel nebo v základním registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci, se využijí z informačního systému evidence obyvatel nebo informačního systému cizinců, pouze pokud jsou ve tvaru předcházejícím současný stav.
+Ministerstvo
+pověřuje prováděním odborných činností uvedených v § 10 pověřenou osobu,
+neprodleně informuje Evropskou komisi (dále jen „Komise“) v případě, že kontrolní organizace již neplní funkce nebo již nesplňuje požadavky stanovené přímo použitelným předpisem Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, nebo přímo použitelným předpisem Evropské unie o procedurálních pravidlech pro uznávání kontrolních organizací a odejímání takových uznání,
+se na návrh Komise vyjadřuje k návrhům na uznání nebo odejmutí uznání kontrolní organizaci Komisí,
+zasílá Komisi v termínech podle přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, zprávu o uplatňování tohoto předpisu a zprávu o přijetí právních předpisů k adaptaci tohoto předpisu včetně jejich změn,
+je správcem centrální evidence podle jiného právního předpisu,
+je odvolacím orgánem proti rozhodnutí krajského úřadu vydanému podle tohoto zákona,
+oznamuje Komisi veškeré informace o tom, že dochází nebo došlo k porušení přímo použitelného předpisu Evropské unie o zavedení režimu licencí pro dovoz dřeva,
+zpracovává a zasílá Komisi v termínech podle přímo použitelného předpisu Evropské unie o zavedení režimu licencí pro dovoz dřeva výroční zprávu za předcházející rok,
+v případě pochybností o platnosti licence pro dovoz dřeva požaduje po licenčním orgánu vyvážející partnerské země v souladu s dohodou o partnerství uzavřenou s vyvážející partnerskou zemí dodatečné ověření platnosti licence pro dovoz dřeva a další vysvětlení; o výsledku bez zbytečného odkladu informuje Generální ředitelství cel.
+Krajský úřad
+provádí kontrolu dodržování čl. 4 a 6 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky a dodržování přímo použitelného předpisu Evropské unie o prováděcích pravidlech pro systém náležité péče a pro četnost a povahu kontrol kontrolních organizací, s výjimkou hospodářských subjektů, které využívají systém náležité péče zavedený kontrolní organizací,
+ukládá nápravné opatření podle čl. 10 odst. 5 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky,
+poskytuje pověřené osobě informace o porušování čl. 4 a 6 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, a o pravomocném uložení pokuty,
+projednává přestupky podle § 12 odst. 1,
+přijímá okamžitá prozatímní opatření podle čl. 10 odst. 5 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky.
+Pověření zaměstnanci krajského úřadu se při výkonu kontrolní činnosti prokazují průkazem, který je dokladem o jejich pověření ke kontrole.
+Ministerstvo stanoví vyhláškou vzor průkazu podle odstavce 2.
+Obecní úřad obce s rozšířenou působností a Vojenský lesní úřad zasílají
+krajskému úřadu a pověřené osobě informace o pravomocném rozhodnutí o přestupku za nezákonně vytěžené dřevo z domácí lesní produkce ve svém správním obvodu,
+pověřené osobě údaje z lesní hospodářské evidence v rozsahu a způsobem stanovenými vyhláškou podle § 3 odst. 3.
+Inspekce
+je oprávněna vyzvat obchodníka k poskytnutí informací podle přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky,
+poskytuje krajským úřadům a pověřené osobě informace o porušení článku 5 tohoto přímo použitelného předpisu Evropské unie, informace potřebné ke zjištění osob odpovědných za uvedené porušování povinností a informace o pravomocném uložení pokuty,
+projednává přestupky podle § 12 odst. 2.
+Generální ředitelství cel poskytuje příslušným orgánům nebo pověřené osobě o dovozu dřeva nebo dřevařských výrobků tyto informace:
+identifikační údaje deklaranta nebo dovozce, a to jméno, popřípadě jména, a příjmení, místo pobytu, popřípadě obchodní firmu, sídlo a identifikační číslo osoby, bylo-li přiděleno, nebo název a sídlo příjemce,
+popis, včetně obchodního názvu a druhu výrobku podle svého zařazení v kombinované nomenklatuře uvedené v příloze I nařízení Rady (EHS) č. 2658/87,
+informace o zemi odeslání a zemi původu vytěženého dřeva nebo dřevařského výrobku,
+množství vyjádřené v objemu, hmotnosti nebo počtu jednotek.
+Generální ředitelství cel předává ministerstvu informace nezbytné pro zpracování výroční zprávy v souladu s ustanovením § 5 písm. g) a h).
+Poskytnutí informací podle odstavců 1 a 2 není porušením mlčenlivosti podle daňového řádu.
+Celní úřad
+Celní úřad
+při dovozu přijímá a kontroluje licence pro dovoz dřeva,
+v případě pochybnosti o druhu dřeva použitého v dovážených dřevařských výrobcích požádá pověřenou osobu o odbornou spolupráci a odborné posouzení podle § 10 písm. h),
+v případě pochybnosti o platnosti licence pro dovoz dřeva požádá ministerstvo prostřednictvím Generálního ředitelství cel o ověření platnosti licence pro dovoz dřeva u licenčního orgánu podle § 5 písm. i),
+v případě pochybností podle písmene b) nebo c) může dřevařské výrobky zadržet postupem podle celního zákona do doby, než obdrží odborné posouzení podle § 10 písm. h) nebo než je prověřena platnost licence pro dovoz dřeva podle § 5 písm. i),
+v případech, kdy z výsledku kontroly druhu dřeva použitého v dřevařských výrobcích nebo výsledku ověření platnosti licence pro dovoz dřeva provedeného ministerstvem podle § 5 písm. i) vyplyne, že druh dřeva použitý v dovážených dřevařských výrobcích neodpovídá licenci pro dovoz dřeva nebo tato licence je neplatná, rozhodne o zničení dřevařských výrobků podle celních předpisů,
+v případech, kdy při dovozu dřevařských výrobků podléhajících licencím pro dovoz dřeva není předložena licence pro dovoz dřeva nebo je předložena neplatná licence pro dovoz dřeva, rozhodne o zničení dřevařských výrobků podle celních předpisů.
+Pověřená osoba
+Pověřená osoba
+kontroluje u hospodářských subjektů dodržování čl. 4 a 6 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, a dodržování přímo použitelného předpisu Evropské unie o prováděcích pravidlech pro systém náležité péče a pro četnost a povahu kontrol kontrolních organizací,
+v případě zjištěných nedostatků v rámci kontroly podle písmene a) dává podnět příslušnému krajskému úřadu k případnému uložení nápravného opatření, projednání přestupku nebo přijetí okamžitého prozatímního opatření,
+provádí kontrolu kontrolních organizací z hlediska požadavků stanovených v čl. 8 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, a v případě zjištěných nedostatků dává ministerstvu podklady pro informování Komise,
+při provádění kontroly postupuje podle kontrolního řádu, pokud přímo použitelný předpis Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, nebo přímo použitelný předpis Evropské unie o prováděcích pravidlech pro systém náležité péče a pro četnost a povahu kontrol kontrolních organizací nestanoví jinak,
+spravuje centrální evidenci,
+předkládá ministerstvu do 30. března každého druhého roku následujícího po 3. březnu 2013 podklady pro zprávu o uplatňování přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky,
+poskytuje hospodářským subjektům technickou pomoc a poradenství a usnadňuje jim výměnu a šíření příslušných informací o nezákonné těžbě dřeva,
+v oblasti režimu licencí pro dovoz dřeva zpracovává v souladu s § 9 písm. b) odborné posouzení druhu dřeva použitého ve dřevařském výrobku podle příloh II a III přímo použitelného předpisu Evropské unie o zavedení režimu licencí pro dovoz dřeva.
+Systém náležité péče
+Hospodářský subjekt může za základ systému náležité péče využít lesní hospodářský plán nebo protokolem převzatou lesní hospodářskou osnovu a navazující lesní hospodářskou evidenci doplněnou o údaje uvedené v čl. 6 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky.
+Přestupky
+Hospodářský subjekt se dopustí přestupku tím, že v rozporu s přímo použitelným předpisem Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, a v rozporu s přímo použitelným předpisem Evropské unie o prováděcích pravidlech pro systém náležité péče a pro četnost a povahu kontrol kontrolních organizací
+nepoužívá systém náležité péče nebo pravidelně neudržuje a nehodnotí svůj vlastní systém náležité péče,
+uvede na trh nezákonně vytěžené dřevo nebo dřevařské výrobky vyrobené z tohoto dřeva,
+nesplní nápravné opatření podle § 6 odst. 1 písm. b), nebo
+nesplní okamžité prozatímní opatření podle § 6 odst. 1 písm. e).
+Obchodník se dopustí přestupku tím, že v rozporu s čl. 5 přímo použitelného předpisu Evropské unie, kterým se stanoví povinnosti hospodářských subjektů uvádějících na trh dřevo a dřevařské výrobky, neposkytne při kontrole nebo na vyžádání požadované informace.
+Za přestupek lze uložit pokutu do
+50 000 Kč, jde-li o přestupek podle odstavce 2,
+200 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo c),
+3 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo d).
+Byl-li přestupek podle odstavce 1 spáchán opakovaně, uloží se pokuta do
+500 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b).
+Přestupek je spáchán opakovaně, jestliže od nabytí právní moci rozhodnutí o stejném přestupku, z něhož byl obviněný uznán vinným, do jeho spáchání neuplynulo 12 měsíců.
+Za přestupek podle odstavce 1 písm. b) lze spolu s pokutou uložit správní trest zveřejnění rozhodnutí o přestupku a správní trest zákazu činnosti do 1 roku. Správní trest zákazu činnosti lze uložit pouze tehdy, byl-li přestupek podle odstavce 1 písm. b) spáchán opakovaně.
+Za přestupek podle odstavce 1 písm. d) lze spolu s pokutou uložit správní trest zákazu činnosti do 1 roku.
+Spáchá-li přestupek uvedený v odstavci 1 písm. a) fyzická osoba, uloží se jí správní trest napomenutí. Při opakovaném spáchání tohoto přestupku se uloží fyzické osobě pokuta podle odstavce 3 písm. b).
+Pravomocné rozhodnutí o přestupku se zveřejňuje v centrální evidenci podle § 3 a zapisuje do evidence přestupků vedené Rejstříkem trestů.
+Společná ustanovení k přestupkům
+Přestupky podle tohoto zákona projednává
+krajský úřad, jde-li o přestupky podle § 12 odst. 1,
+inspekce, jde-li o přestupky podle § 12 odst. 2.
+Pokuty uložené krajským úřadem vybírá a vymáhá krajský úřad.
+Pokuty uložené inspekcí vybírá inspekce.

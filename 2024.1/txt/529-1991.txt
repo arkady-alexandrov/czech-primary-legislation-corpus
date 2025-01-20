@@ -1,0 +1,91 @@
+Předmět ochrany
+Podle tohoto zákona jsou chráněny topografie polovodičových výrobků (dále jen „topografie“), které jsou výsledkem tvůrčí činnosti původce a které nejsou v průmyslu polovodičových výrobků běžné. Ochrana podle tohoto zákona se vztahuje rovněž na části topografie, které jsou využitelné samostatně, jakož i na zobrazení sloužící k výrobě topografie.
+Jestliže topografie je tvořena z prvků všeobecně známých, je chráněna pouze tehdy, splňuje-li kombinace těchto prvků podmínky uvedené v odstavci 1.
+Ochrana podle odstavce 1 se nevztahuje na technologii užitou při vytváření topografie nebo výrobě polovodičového výrobku, ani na informace uložené v tomto výrobku.
+Topografií se pro účely tohoto zákona rozumí série jakkoli zafixovaných nebo zakódovaných vzájemně souvisejících zobrazení, znázorňujících trojrozměrné trvalé uspořádání vrstev, z nichž se polovodičový výrobek skládá, přičemž každé zobrazení znázorňuje vzor jedné vrstvy polovodičového výrobku nebo jeho části, popřípadě povrchu polovodičového výrobku v jednotlivých stupních výroby nebo jeho částí.
+Polovodičovým výrobkem se pro účely tohoto zákona rozumí konečná nebo mezitímní forma mikroelektronického výrobku, který je určen k plnění elektronické funkce a který se skládá ze základního tělesa obsahujícího vrstvu polovodičového materiálu a opatřeného alespoň jednou vrstvou vodivého, izolačního nebo polovodičového materiálu v předem daném uspořádání.
+Obchodním využitím se pro účely tohoto zákona rozumí prodej, pronájem, nabídka nebo jiný způsob obchodní distribuce topografie nebo polovodičového výrobku obsahujícího topografii nebo výrobku obsahujícího polovodičový výrobek.
+Právo na ochranu
+Právo na ochranu topografie přísluší jejímu původci nebo jeho právnímu nástupci.
+Jestliže topografie byla vytvořena ke splnění úkolu z pracovního poměru nebo obdobného vztahu, přísluší právo na ochranu zaměstnavateli nebo tomu, pro koho byla na základě smlouvy vytvořena, pokud smlouva nestanoví jinak.
+Právo na ochranu topografie je převoditelné.
+Právo na ochranu topografie zanikne uplynutím 15 let ode dne jejího vytvoření, jestliže topografie nebyla obchodně využívána jinak než skrytě nebo nebyla přihlášena u Úřadu průmyslového vlastnictví (dále jen „Úřad“).
+Právo na ochranu mohou uplatnit občané České republiky, jakož i osoby, které mají bydliště nebo sídlo na území státu, který je členem Světové obchodní organizace; jestliže stát, v němž má přihlašovatel bydliště nebo sídlo, není členem Světové obchodní organizace, lze právo na ochranu přiznat jen za podmínky vzájemnosti.
+Jestliže právo na ochranu neuplatní osoby uvedené v § 3, mohou je uplatnit osoby, které na základě výlučného souhlasu osoby uvedené v § 3 jako první v České republice využily topografii, která dosud ve světě nebyla využívána.
+Přihláška topografie
+Každý, kdo chce uplatnit právo na ochranu topografie (dále jen „přihlašovatel“), musí podat písemnou přihlášku topografie (dále jen „přihláška“) u Úřadu. Pro každou topografii musí být podána samostatná přihláška.
+Přihláška musí obsahovat:
+žádost o zápis do rejstříku topografií (dále jen „rejstřík“), s uvedením názvu topografie,
+podklady umožňující identifikaci topografie, a případně i samotný polovodičový výrobek obsahující topografii,
+datum prvního, nikoliv však skrytého obchodního využití topografie, je-li dřívější, než je datum podání přihlášky,
+doklad o nabytí práva na ochranu topografie podle ustanovení § 4 a údaje svědčící o právu na ochranu topografie podle ustanovení § 6.
+Přihlašovatel je oprávněn některé z požadovaných podkladů umožňujících identifikaci topografie nebo jejich částí označit jako obchodní nebo výrobní tajemství; v tomto případě musí být tyto podklady předloženy v dalším vyhotovení, jehož příslušné části označené jako obchodní nebo výrobní tajemství jsou nečitelné. Jako obchodní nebo výrobní tajemství nemohou být označeny podklady jako celek.
+Úřad může stanovit bližší formální náležitosti přihlášky.
+Zápis topografie
+Splňuje-li přihláška podmínky stanovené v ustanovení § 7, zapíše Úřad topografii do rejstříku. Úřad vydá přihlašovateli, jehož topografie byla zapsána do rejstříku (dále jen „majitel topografie“) osvědčení o zápisu topografie do rejstříku a zápis topografie do rejstříku oznámí ve Věstníku Úřadu průmyslového vlastnictví (dále jen „Věstník“).
+Jestliže přihláška neodpovídá požadavkům uvedeným v ustanovení § 7, Úřad vyzve přihlašovatele, aby ve stanovené lhůtě nedostatky odstranil. Neodstraní-li přihlašovatel vytčené nedostatky ve stanovené lhůtě, Úřad řízení o přihlášce zastaví. Na tento důsledek musí být přihlašovatel při stanovení lhůty upozorněn. Týkají-li se nedostatky přihlášky náležitostí uvedených v ustanovení § 7 odst. 2 písm. a) až c), považuje se za datum podání přihlášky den, kdy tyto nedostatky byly odstraněny. Byla-li přihláška podána v rozporu s ustanovením § 6 a § 9 odst. 1 písm. a), Úřad přihlášku zamítne.
+Po zápisu topografie do rejstříku Úřad zpřístupní podklady uvedené v ustanovení § 7 odst. 2 třetím osobám k nahlédnutí. Pořizování výpisů z těchto podkladů není třetím osobám dovoleno. Podklady, které obsahují obchodní tajemství, je Úřad oprávněn zpřístupnit třetím osobám, jen jsou-li účastníky řízení o výmazu topografie z rejstříku podle § 13, nebo na základě příkazu soudu, jsou-li účastníky řízení o porušení práv podle § 10.
+Vznik a doba trvání ochrany
+Ochrana topografie vzniká
+ke dni prvního nikoli skrytého obchodního využití topografie, jestliže tato topografie byla předmětem řádné přihlášky podané u Úřadu ve lhůtě 2 let od tohoto využití, nebo
+ke dni podání řádné přihlášky podle ustanovení § 7, jestliže topografie nebyla dříve obchodně využita (§ 11), popřípadě byla-li využita pouze skrytě.
+Doba trvání ochrany topografie skončí uplynutím 10 let od konce kalendářního roku, v němž tato ochrana vznikla.
+Zmeškání lhůty uvedené v odstavci 1 písm. a) nelze prominout.
+Účinky ochrany
+Bez souhlasu (licence) majitele topografie nikdo nemí:
+reprodukovat topografii nebo její samostatně využitelné části a zhotovovat zobrazení topografie pro výrobní účely,
+vyrábět polovodičový výrobek, ve kterém je chráněná topografie obsažena,
+obchodně využívat topografii nebo polovodičový výrobek, který obsahuje chráněnou topografii nebo její samostatně využitelné části, jakož i zobrazení topografie sloužící k jeho výrobě nebo je k tomuto účelu dovážet.
+Účinky ochrany lze vůči třetím osobám uplatnit až po zápisu topografie do rejstříku.
+Jestliže majitel topografie prokáže, že třetí osoba před datem uvedeným v § 9 odst. 1 topografii podvodně reprodukovala, obchodně využila, popřípadě ji za těmito účely dovezla, má právo se vůči této třetí osobě domáhat přiměřené náhrady.
+Účinky ochrany topografie se nevztahují na
+činnosti prováděné k neobchodním účelům,
+reprodukci topografie k účelům analýzy, výzkumu, vývoje nebo vzdělávání,
+obchodní využití topografie, která byla vytvořena na základě analýzy, výzkumu nebo vývoje podle ustanovení písmene b), pokud tato další topografie odpovídá podmínkám stanoveným v § 1 odst. 1,
+následné obchodní využívání topografie nebo polovodičového výrobku obsahujícího chráněnou topografii, uvedených do oběhu majitelem topografie nebo s jeho výslovným souhlasem.
+Účinky ochrany topografie se nevztahují na osobu, která v dobré víře získá polovodičový výrobek obsahující chráněnou topografii, uvedený do oběhu bez souhlasu majitele topografie. Od doby, kdy se tato osoba dozvěděla nebo lze důvodně předpokládat, že se dozvědět mohla, že tento výrobek obsahuje chráněnou topografii, je povinna zaplatit majiteli topografie na jeho žádost za další obchodní využívání tohoto výrobku přiměřenou náhradu, pro jejíž výši je rozhodný rozsah dalšího obchodního využívání.
+Výmaz topografie
+Úřad provede na návrh, který může podat každá osoba, výmaz topografie z rejstříku,
+není-li zapsaná topografie způsobilá k ochraně podle ustanovení § 1,
+nebyla-li přihláška topografie podána ve lhůtě podle ustanovení § 9 odst. 1 písm. a) nebo právo na ochranu zaniklo podle ustanovení § 5,
+byla-li přihlašovatelem nebo majitelem topografie osoba, která nemohla uplatnit právo na ochranu podle ustanovení § 6,
+jestliže podklady podle ustanovení § 7 odst. 2 písm. b) neodpovídají polovodičovému výrobku přiloženému k přihlášce.
+Výmaz topografie z rejstříku má účinky, jako by topografie nebyla do rejstříku zapsána.
+Návrh na výmaz topografie z rejstříku se podává u Úřadu písemně ve dvojím vyhotovení.
+Návrh na výmaz topografie z rejstříku musí být věcně odůvodněn a současně musí být předloženy důkazní prostředky, o které se návrh na výmaz opírá.
+Úřad vyzve majitele topografie, aby se k návrhu na výmaz topografie z rejstříku ve stanovené lhůtě vyjádřil. Majitel topografie předkládá své vyjádření k návrhu na výmaz písemně ve dvojím vyhotovení.
+Nevyjádří-li se majitel topografie ve stanovené lhůtě, Úřad provede výmaz topografie z rejstříku.
+Vyjádří-li se majitel topografie ve stanovené lhůtě proti návrhu na výmaz topografie z rejstříku, zašle Úřad jeho vyjádření navrhovateli výmazu a stanoví datum ústního projednávání návrhu.
+Neúčast účastníků řízení na stanoveném ústním projednávání návrhu na výmaz topografie z rejstříku není na překážku rozhodnutí Úřadu o návrhu.
+Vznikly-li Úřadu v řízení o výmaz topografie z rejstříku náklady na znalecký posudek, má Úřad právo na jejich náhradu vůči tomu účastníku řízení, který neměl ve věci úspěch.
+Odnětí ochrany a přepis
+Úřad na návrh odejme ochranu majiteli zapsané topografie, jestliže z rozhodnutí soudu zjistí, že mu právo na ochranu topografie ve smyslu ustanovení § 3 nepříslušelo.
+Návrh na odnětí ochrany podle odstavce 1 je oprávněna podat pouze osoba, které podle rozhodnutí soudu přísluší právo na ochranu topografie, nebo její právní nástupce.
+Na návrh osoby, které přísluší právo na ochranu topografie a která může uplatnit právo na ochranu podle ustanovení § 6, podaný do 1 měsíce od pravomocného rozhodnutí soudu, Úřad zapíše tuto osobu jako majitele topografie. Návrh na přepis majitele topografie je nutno doložit rozhodnutím soudu.
+Nebude-li podán návrh na přepis podle odstavce 3, Úřad provede výmaz topografie z rejstříku z moci úřední.
+Rejstřík a údaje o topografiích zveřejňované ve Věstníku
+Úřad vede rejstřík topografií, do něhož zaznamenává rozhodné údaje o přihláškách topografií a o zapsaných topografiích.
+Do rejstříku se u každé topografie zapisuje zejména:
+číslo zápisu (osvědčení);
+datum zápisu;
+datum zveřejnění zápisu topografie ve Věstníku;
+název topografie;
+datum podání přihlášky a její spisová značka, popřípadě datum prvního veřejného obchodního využití, je-li dřívější než datum podání přihlášky;
+přihlašovatel topografie (jméno nebo název), jeho bydliště (sídlo), popřípadě jeho zástupce;
+majitel topografie (jméno nebo název), sídlo (bydliště), popřípadě jeho zástupce;
+převod topografie;
+licence;
+výmaz topografie;
+odnětí ochrany, popřípadě její přepis;
+zánik ochrany.
+Poznámka spornosti podle občanského zákoníku se může týkat jen záznamu v rejstříku, jímž se vyznačuje nakládání se zapsanou topografií jako předmětem vlastnictví.
+Ve Věstníku zveřejňuje Úřad skutečnosti týkající se zapsaných topografií a další údaje týkající se ochrany topografií, jakož i úřední sdělení a rozhodnutí zásadní povahy.
+Úschova spisů
+Podklady umožňující identifikaci topografie podle ustanovení § 7 odst. 2 písm. b) Úřad uschovává po dobu 6 let od uplynutí doby ochrany.
+Jestliže přihláška nevedla k zápisu topografie do rejstříku, Úřad podklady podle ustanovení § 7 odst. 2 písm. b) uschovává 1 rok od data rozhodnutí o přihlášce.
+Po uplynutí lhůt uvedených v odstavcích 1 a 2 Úřad vyzve osobu zapsanou jako majitel topografie k převzetí podkladů; nepřevezme-li tato osoba podklady ve stanovené lhůtě, Úřad je zničí.
+Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že neoprávněně využívá chráněnou topografii.
+Za přestupek podle odstavce 1 lze uložit pokutu do 250 000 Kč nebo zákaz činnosti.
+Za přestupek podle odstavce 1, kterého se dopustí právnická nebo podnikající fyzická osoba, lze uložit též zveřejnění rozhodnutí o přestupku.
+Přestupek podle odstavce 1 projednává obecní úřad obce s rozšířenou působností.
+Přestupek podle odstavce 1 nelze projednat příkazem na místě.

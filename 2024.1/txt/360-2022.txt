@@ -1,0 +1,122 @@
+Předmět úpravy
+Tento zákon zapracovává příslušný předpis Evropské unie a upravuje minimální podíl nízkoemisních vozidel při zadávání veřejných zakázek podle zákona o zadávání veřejných zakázek a veřejných služeb podle zákona o veřejných službách v přepravě cestujících.
+Působnost
+Tento zákon se vztahuje na smlouvy uzavřené do 31. prosince 2030 na
+nadlimitní veřejné zakázky, jejichž předmětem je nákup, leasing nebo pronájem vozidla podle odstavce 3, které byl zadavatel podle § 4 odst. 1 a 3 zákona o zadávání veřejných zakázek (dále jen „zadavatel“) povinen zadat v zadávacím řízení podle zákona o zadávání veřejných zakázek,
+nadlimitní veřejné zakázky na služby podle přílohy č. 1 k tomuto zákonu, které byl zadavatel povinen zadat v zadávacím řízení podle zákona o zadávání veřejných zakázek s výjimkou koncesního řízení, pokud tyto služby budou poskytovány prostřednictvím vozidla podle odstavce 3,
+veřejné služby v přepravě cestujících podle zákona o veřejných službách v přepravě cestujících, u nichž průměrná roční hodnota nebo počet kilometrů za rok přesáhne hodnoty podle přímo použitelného předpisu Evropské unie upravujícího veřejné služby v přepravě cestujících po železnici a silnici, pokud budou tyto služby poskytovány prostřednictvím vozidla podle odstavce 3.
+Za nadlimitní veřejnou zakázku podle odstavce 1 se považuje i veřejná zakázka zadaná na základě rámcové dohody nebo v dynamickém nákupním systému v případě, kdy předpokládaná hodnota rámcové dohody nebo dynamického nákupního systému přesahuje finanční limit pro určení nadlimitní veřejné zakázky podle právního předpisu upravujícího finanční limity pro určení nadlimitních veřejných zakázek.
+Povinnosti stanovené tímto zákonem se vztahují ke smlouvám podle odstavce 1, které se týkají
+silničního vozidla kategorie N1, N2, N3, M1, M2 nebo silničního vozidla třídy I kategorie M3 anebo třídy A kategorie M3 podle přímo použitelného předpisu Evropské unie upravujícího schvalování motorových vozidel a přímo použitelného předpisu Evropské unie upravujícího požadavky pro schvalování typu motorových vozidel s výjimkou
+zemědělského nebo lesnického vozidla podle přímo použitelného předpisu Evropské unie upravujícího schvalování zemědělských a lesnických vozidel a dozor nad trhem s těmito vozidly,
+dvoukolového nebo tříkolového vozidla a čtyřkolky podle přímo použitelného předpisu Evropské unie upravujícího schvalování dvoukolových nebo tříkolových vozidel a čtyřkolek a dozor nad trhem s těmito vozidly,
+pásového vozidla,
+vozidla s vlastním pohonem zvlášť zkonstruovaného a vyrobeného k provádění určité práce, jež není vzhledem ke svým konstrukčním vlastnostem vhodné k přepravě osob ani zboží a které není strojním zařízením upevněným na podvozku motorového vozidla,
+vozidla zkonstruovaného a vyrobeného nebo upraveného k použití pouze ozbrojenými silami, Vojenskou policií nebo Vojenským zpravodajstvím,
+vozidla zkonstruovaného nebo vyrobeného k použití především na staveništích, v lomech, v přístavech nebo na letištích,
+vozidla používaného nebo zkonstruovaného a vyrobeného nebo upraveného k použití Ministerstvem vnitra za účelem udržování veřejného pořádku, složkami integrovaného záchranného systému, bezpečnostními sbory nebo obecní policií; toto vozidlo musí být technicky přizpůsobené přímo pro tento účel,
+vozidla zkonstruovaného a vyrobeného nebo upraveného k použití jako státní hmotné rezervy, nebo
+pancéřovaného vozidla, sanitního automobilu, pohřebního automobilu, vozidla přístupného pro invalidní vozík nebo autojeřábu podle přílohy I části A bodu 5 přímo použitelného předpisu o schvalování motorových vozidel a jejich přípojných vozidel, jakož i systémů, konstrukčních částí a samostatných technických celků určených pro tato vozidla a o dozoru nad trhem s nimi; za pancéřované vozidlo se pro účely tohoto zákona považuje i vozidlo určené pro přepravu peněz a jiných cenností v rámci plnění úkolů České národní banky podle zákona o České národní bance, nebo
+vozidla určeného k provozu na dráze trolejbusové.
+Nízkoemisní vozidlo
+Nízkoemisním vozidlem se pro účely tohoto zákona rozumí
+do 31. prosince 2025 silniční vozidlo kategorie M1, M2 nebo N1, které nepřesahuje emisní limit CO2 ve výši 50 g/km a 80 % emisních limitů pro látky znečišťující ovzduší v reálném provozu podle přílohy I přímo použitelného předpisu Evropské unie upravujícího schvalování typu motorových vozidel z hlediska emisí z lehkých osobních vozidel,
+od 1. ledna 2026 do 31. prosince 2030 silniční vozidlo kategorie M1, M2 nebo N1, jehož provoz nemá žádné emise CO2,
+silniční vozidlo kategorie N2 nebo N3 nebo silniční vozidlo třídy I kategorie M3 anebo třídy A kategorie M3 využívající alternativní palivo podle § 2 písm. b) zákona o pohonných hmotách s výjimkou paliva s vysokým rizikem nepřímé změny ve využívání půdy vyráběného ze surovin, u nichž je zjištěno značné rozšíření oblasti produkce na půdu s velkou zásobou uhlíku v souladu s integrovaným vnitrostátním plánem v oblasti energetiky a klimatu podle přímo použitelného předpisu Evropské unie upravujícího správu energetické unie schváleným podle zákona o podporovaných zdrojích energie; jde-li o vozidlo využívající tekuté biopalivo nebo syntetické či parafinické palivo, nesmí být smícháno s konvenčním fosilním palivem, nebo
+vozidlo určené k provozu na dráze trolejbusové.
+Minimální podíly nízkoemisních vozidel
+Zadavatel a objednatel podle zákona o veřejných službách v přepravě cestujících (dále jen „objednatel“) jsou povinni dodržet minimální podíly nízkoemisních vozidel, které činí
+pro silniční vozidla kategorie M1, M2 a N1
+29,7 % ode dne nabytí účinnosti tohoto zákona do 31. prosince 2025 a
+29,7 % od 1. ledna 2026 do 31. prosince 2030,
+pro silniční vozidla třídy I kategorie M3 a třídy A kategorie M3 a vozidla určená k provozu na dráze trolejbusové
+41 % ode dne nabytí účinnosti tohoto zákona do 31. prosince 2025 a
+60 % od 1. ledna 2026 do 31. prosince 2030 a
+pro silniční vozidla kategorie N2 a N3
+9 % ode dne nabytí účinnosti tohoto zákona do 31. prosince 2025 a
+11 % od 1. ledna 2026 do 31. prosince 2030.
+Pro účely výpočtu minimálních podílů podle odstavce 1 se zohlední vozidla podle § 2 odst. 3, která
+byla předmětem veřejných zakázek podle § 2 odst. 1 písm. a), nebo
+mají být využívána pro poskytování služeb v případě veřejných zakázek podle § 2 odst. 1 písm. b) nebo veřejných služeb v přepravě cestujících podle § 2 odst. 1 písm. c).
+Minimální podíly podle odstavce 1 se vypočítají jako podíly celkového počtu nízkoemisních vozidel vůči všem vozidlům, která se zohledňují podle odstavce 2, a to zvlášť v jednotlivých bodech odstavce 1 písm. a) až c).
+Poloviny minimálních podílů podle odstavce 1 písm. b) musí zadavatel nebo objednatel dosáhnout prostřednictvím vozidel bez spalovacího motoru nebo se spalovacím motorem, který vypouští
+méně než 1 g CO2/kWh, měřeno v souladu s přímo použitelným předpisem Evropské unie upravujícím schvalování typu motorových vozidel a motorů z hlediska emisí z těžkých nákladních vozidel (Euro VI) a přímo použitelným předpisem Evropské unie, kterým se provádí jeho čl. 12, nebo
+méně než 1 g CO2/km, měřeno v souladu s přímo použitelným předpisem Evropské unie upravujícím schvalování typu motorových vozidel z hlediska emisí z lehkých osobních vozidel a z užitkových vozidel (Euro 5 a Euro 6) a přímo použitelným předpisem Evropské unie, kterým se provádí jeho čl. 14.
+Pro posouzení splnění minimálních podílů v obdobích podle odstavce 1 je rozhodující
+v případě smluv uzavřených na veřejné zakázky podle § 2 odst. 1 písm. a) nebo b) datum uveřejnění oznámení o výsledku zadávacího řízení v Úředním věstníku Evropské unie nebo
+v případě smluv uzavřených na veřejné služby v přepravě cestujících podle § 2 odst. 1 písm. c) datum uzavření smlouvy.
+Společné plnění povinností
+Zadavatelé nebo objednatelé mohou plnit povinnosti podle § 4 společně, pokud společné plnění povinností vykážou podle § 8 odst. 1 a 2.
+Vykážou-li zadavatelé nebo objednatelé podle § 8 odst. 1 a 2 společné plnění povinností podle § 4, má se za to, že
+je-li minimální podíl nízkoemisních vozidel splněn v součtu za všechny zadavatele nebo objednatele, kteří vykázali společné plnění povinností podle § 4, minimální podíl podle § 4 splnil každý z těchto zadavatelů nebo objednatelů, nebo
+není-li minimální podíl nízkoemisních vozidel splněn v součtu za všechny zadavatele nebo objednatele, kteří vykázali společné plnění povinností podle § 4, minimální podíl podle § 4 nesplnil žádný z těchto zadavatelů nebo objednatelů.
+Náhradní plnění povinností
+Zadavatel nebo objednatel může do minimálních podílů nízkoemisních vozidel podle § 4 započítat i vozidla, která splní podmínky podle § 3 nebo § 4 odst. 4 v důsledku přestavby, k níž dojde v obdobích podle § 4 odst. 1, pokud náhradní plnění povinností vykáže podle § 8 odst. 3 a 4.
+Pro posouzení období přestavby podle odstavce 1 je rozhodný okamžik zápisu změny údajů v
+technickém průkazu silničního vozidla na základě schválení technické způsobilosti přestavěného vozidla v případě silničního vozidla, nebo
+průkazu způsobilosti drážního vozidla na základě schválení technické způsobilosti přestavěného vozidla v případě vozidla určeného k provozu na dráze trolejbusové.
+Vykazování plnění povinností
+Zadavatel je povinen do 30 dnů od uzavření smlouvy podle § 2 odst. 1 písm. a) nebo b) nebo od konce každého kalendářního čtvrtletí v případě rámcové dohody nebo dynamického nákupního systému, u nichž uveřejňuje výsledek souhrnně, písemně sdělit Ministerstvu pro místní rozvoj ve vztahu ke smlouvě, které se veřejná zakázka týká, počet
+vozidel spadajících do působnosti tohoto zákona,
+nízkoemisních vozidel, s výjimkou vozidel, která splňují podmínky podle § 4 odst. 4, a
+vozidel, která splňují podmínky podle § 4 odst. 4.
+Sděluje-li údaje podle odstavce 1 centrální zadavatel, je povinen současně sdělit údaje podle odstavce 1 v členění na jednotlivé zadavatele, za které tento centrální zadavatel plní povinnost podle odstavce 1.
+Objednatel je povinen předložit Ministerstvu dopravy písemnou souhrnnou zprávu o plnění povinností podle § 4, v níž uvede seznam smluv o veřejných službách v přepravě cestujících podle § 2 odst. 1 písm. c),
+do 31. ledna 2026 za období ode dne nabytí účinnosti tohoto zákona do 31. prosince 2025 a
+do 31. ledna 2031 za období od 1. ledna 2026 do 31. prosince 2030.
+V případě smluv uzavřených na základě nabídkového řízení podle zákona o veřejných službách v přepravě cestujících je objednatel povinen uvést ve zprávě podle odstavce 3
+evidenční číslo zakázky z oznámení o zahájení nabídkového řízení pro výběr dopravce k uzavření smlouvy o veřejných službách v přepravě cestujících uveřejněného ve Věstníku veřejných zakázek,
+datum uzavření smlouvy,
+odkaz na uveřejnění smlouvy, pokud byla uveřejněna, nebo text smlouvy, pokud nebyla uveřejněna, a
+ve vztahu k oznamovaným smlouvám, jichž se zpráva týká, počet
+vozidel spadajících do působnosti tohoto zákona včetně jejich kategorie,
+nízkoemisních vozidel s výjimkou vozidel, která splňují podmínky podle § 4 odst. 4, včetně jejich kategorie, a
+vozidel, která splňují podmínky podle § 4 odst. 4.
+V případě smluv uzavřených na základě přímého zadání podle zákona o veřejných službách v přepravě cestujících je objednatel povinen uvést ve zprávě podle odstavce 3
+datum zahájení jednání s dopravcem,
+datum uzavření smlouvy,
+odkaz na uveřejnění smlouvy, pokud byla uveřejněna, nebo text smlouvy, pokud nebyla uveřejněna, a
+ve vztahu k oznamovaným smlouvám, jichž se zpráva týká, počet
+vozidel spadajících do působnosti tohoto zákona včetně jejich kategorie,
+nízkoemisních vozidel s výjimkou vozidel, která splňují podmínky podle § 4 odst. 4, včetně jejich kategorie, a
+vozidel, která splňují podmínky podle § 4 odst. 4.
+Povinnost podle
+odstavce 1 se považuje za splněnou, pokud jsou údaje odeslány provozovateli Věstníku veřejných zakázek při plnění povinnosti podle § 126, 137 nebo 142 zákona o zadávání veřejných zakázek,
+odstavce 2 se považuje za splněnou, pokud jsou údaje odeslány provozovateli Věstníku veřejných zakázek v žádosti o uveřejnění formuláře podle podmínek stanovených v provozním řádu provozovatele Věstníku veřejných zakázek zveřejněném na jeho internetových stránkách.
+Společné plnění povinností podle § 5 může zadavatel nebo objednatel vykázat pouze prostřednictvím formuláře podle přílohy č. 2 nebo 3 k tomuto zákonu odeslaného ve strojově čitelném formátu prostřednictvím datové schránky nebo jako datovou zprávu podepsanou uznávaným elektronickým podpisem
+Ministerstvu pro místní rozvoj, jde-li o veřejné zakázky podle § 2 odst. 1 písm. a) nebo b), nebo
+Ministerstvu dopravy, jde-li o veřejné služby v přepravě cestujících podle § 2 odst. 1 písm. c).
+Společné plnění povinností podle § 5 je vykázáno, pokud 2 nebo více zadavatelů nebo objednatelů, kteří mají v úmyslu plnit povinnosti podle § 4 společně, odešlou formulář podle odstavce 1
+do 31. prosince 2025 za období ode dne nabytí účinnosti tohoto zákona do 31. prosince 2025, nebo
+do 31. prosince 2030 za období od 1. ledna 2026 do 31. prosince 2030.
+Náhradní plnění povinností podle § 6 může zadavatel vykázat pouze sdělením Ministerstvu pro místní rozvoj, jde-li o veřejné zakázky, nebo objednatel sdělením Ministerstvu dopravy, jde-li o veřejné služby v přepravě cestujících. V tomto sdělení zadavatel nebo objednatel jednoznačně identifikuje vozidla, která byla předmětem přestavby, a uvede popis technických změn provedených na vozidle.
+Náhradní plnění povinností podle § 6 je vykázáno, pokud zadavatel nebo objednatel odešle sdělení podle odstavce 3 prostřednictvím datové schránky nebo jako datovou zprávu podepsanou uznávaným elektronickým podpisem
+do 31. prosince 2025 za období ode dne nabytí účinnosti tohoto zákona do 31. prosince 2025, nebo
+do 31. prosince 2030 za období od 1. ledna 2026 do 31. prosince 2030.
+Zpracování údajů o vykázaném plnění povinností
+Na základě údajů vykázaných podle § 7 a 8 Ministerstvo pro místní rozvoj nebo Ministerstvo dopravy vypočítá dosažené podíly nízkoemisních vozidel podle § 4 odst. 3 a 4 ve vztahu k jednotlivým zadavatelům nebo objednatelům a předá výsledky těchto výpočtů bez zbytečného odkladu Úřadu pro ochranu hospodářské soutěže (dále jen „Úřad“) včetně podkladů pro tento výpočet.
+Dozor
+Dozor nad dodržováním tohoto zákona vykonává Úřad.
+Zadavatel nebo objednatel je povinen do 15 pracovních dnů ode dne doručení výzvy předložit Úřadu
+smlouvu na veřejnou zakázku a, je-li to ve výzvě požadováno, dokumenty vztahující se k jejímu uzavření včetně dokumentů, které jsou součástí dokumentace o zadávacím řízení,
+smlouvu o veřejných službách v přepravě cestujících a, je-li to ve výzvě požadováno, dokumenty vztahující se k jejímu uzavření včetně dokumentů, které jsou součástí dokumentace nabídkového řízení, nebo
+technický průkaz silničního vozidla vykázaného podle § 8 odst. 3 nebo průkaz způsobilosti drážního vozidla, jde-li o vozidlo určené k provozu na dráze trolejbusové vykázané podle § 8 odst. 3.
+Povinnost podle odstavce 2 je ve vztahu k dokumentům a informacím uloženým v elektronickém nástroji, který má certifikát shody podle § 213 odst. 4 zákona o zadávání veřejných zakázek, splněna i tehdy, pokud zadavatel zajistí Úřadu k těmto dokumentům a informacím přístup po celou dobu řízení o přestupku až do jeho pravomocného skončení. Platí, že takové dokumenty a informace jsou autentické, a to i v případě, že byly původně vytvořeny mimo elektronický nástroj, který má certifikát shody podle § 213 odst. 4 zákona o zadávání veřejných zakázek.
+Přestupky
+Zadavatel nebo objednatel se dopustí přestupku tím, že
+nesplní některou z povinností podle § 4,
+vykáže údaje podle § 8 odst. 3, které neodpovídají technickému průkazu silničního vozidla nebo průkazu způsobilosti drážního vozidla u vozidla určeného k provozu na dráze trolejbusové,
+zmaří výkon dozoru Úřadu tím, že ani na základě jeho opakované výzvy podle § 10 odst. 2 nepředloží dokumenty, jejichž doručení je předmětem výzvy, nebo
+nesplní povinnost podle § 10 odst. 2.
+Zadavatel se dopustí přestupku tím, že nesdělí Ministerstvu pro místní rozvoj údaje podle § 7 odst. 1.
+Centrální zadavatel se dopustí přestupku tím, že nesdělí Ministerstvu pro místní rozvoj údaje podle § 7 odst. 2.
+Objednatel se dopustí přestupku tím, že nepředloží Ministerstvu dopravy písemnou souhrnnou zprávu podle § 7 odst. 3.
+Za přestupek podle odstavce 1 písm. a), b) nebo c) lze uložit pokutu do 20 000 000 Kč.
+Za přestupek podle odstavce 1 písm. d) nebo odstavce 2, 3 nebo 4 lze uložit pokutu do 200 000 Kč.
+Přestupky podle tohoto zákona projednává Úřad.
+Alespoň jedna oprávněná úřední osoba podílející se na řízení o přestupku vedeném u Úřadu v každém stupni musí mít vysokoškolské vzdělání získané v magisterském studijním programu v oblasti vzdělávání Právo nebo obdobné vysokoškolské vzdělání získané studiem na vysoké škole nezařazeným do oblasti vzdělávání. Ustanovení zákona o odpovědnosti za přestupky a řízení o nich, která se týkají požadavků na vzdělání oprávněných úředních osob, se na řízení o přestupcích podle tohoto zákona nepoužijí.
+V případě přestupků podle tohoto zákona se § 13 odst. 1, § 15 až 17, 24, 25, § 35 písm. a), d) a e), § 38 písm. e), § 42, 45 a 48 až 50 zákona o odpovědnosti za přestupky a řízení o nich nepoužijí.
+Na řízení o přestupcích podle tohoto zákona se § 68 písm. b) a c), § 70, 71, 82, 87, § 88 odst. 1 a 2, § 89, § 93 odst. 1 písm. d), g) a h) a § 95 odst. 3 zákona o odpovědnosti za přestupky a řízení o nich nepoužijí.
+Seznam služeb pro účely § 2 odst. 1 písm. b)
+Formulář pro oznámení o společném plnění povinností podle § 4, jde-li o veřejné zakázky podle § 2 odst. 1 písm. a) nebo b)
+Formulář pro oznámení o společném plnění povinností podle § 4, jde-li o veřejné služby v přepravě cestujících podle § 2 odst. 1 písm. c)

@@ -1,0 +1,161 @@
+Předmět úpravy
+Tento zákon upravuje v návaznosti na přímo použitelný předpis Evropské unie
+některé postupy poskytovatelů služeb vytvářejících důvěru,
+některé požadavky na služby vytvářející důvěru,
+působnost Digitální a informační agentury (dále jen „Agentura“) v oblasti služeb vytvářejících důvěru a
+sankce za porušení povinností v oblasti služeb vytvářejících důvěru.
+Postupy kvalifikovaných poskytovatelů služeb vytvářejících důvěru
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru poskytuje kvalifikovanou službu vytvářející důvěru na základě písemné smlouvy.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru uchovává po dobu 10 let dokumenty související s vydáváním
+kvalifikovaných certifikátů pro elektronické podpisy nebo elektronické pečetě,
+kvalifikovaných certifikátů pro autentizaci internetových stránek a
+kvalifikovaných elektronických časových razítek.
+Po uplynutí doby uvedené v odstavci 1 kvalifikovaný poskytovatel služeb vytvářejících důvěru uchovává po dobu následujících 15 let údaje, na základě kterých byla ověřena totožnost žadatele o vydání kvalifikovaného certifikátu pro elektronické podpisy nebo elektronické pečetě nebo totožnost fyzické osoby oprávněné jednat za právnickou osobu žádající o vydání kvalifikovaného certifikátu pro elektronickou pečeť.
+Pokud nařízení Evropského parlamentu a Rady (EU) č. 910/2014 o elektronické identifikaci a službách vytvářejících důvěru pro elektronické transakce na vnitřním trhu a o zrušení směrnice 1999/93/ES (dále jen „Nařízení“) nebo tento zákon nestanoví jinak, postupuje se při nakládání s uchovávanými dokumenty podle zákona upravujícího archivnictví a spisovou službu.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru, který po ukončení své činnosti nemůže splnit povinnost vést a zpřístupnit evidenci podle čl. 24 odst. 2 písm. h) Nařízení, zajistí bezodkladně po ukončení své činnosti převzetí této evidence jiným kvalifikovaným poskytovatelem služeb vytvářejících důvěru.
+Nemůže-li kvalifikovaný poskytovatel služeb vytvářejících důvěru zajistit převzetí evidence podle odstavce 1, předá evidenci bezodkladně Agentuře.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat ze základního registru obyvatel údaje v rozsahu
+příjmení,
+jméno, popřípadě jména,
+adresa místa pobytu,
+datum, místo a okres narození, u subjektu údajů, který se narodil v cizině, datum, místo a stát, kde se narodil,
+datum úmrtí; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil,
+státní občanství, popřípadě více státních občanství, a
+čísla a druhy identifikačních dokladů.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci údaje v rozsahu
+jméno, popřípadě jména, a příjmení podnikající fyzické osoby nebo zahraniční osoby a
+adresa místa pobytu v České republice, popřípadě bydliště v zahraničí podnikající fyzické osoby nebo zahraniční osoby.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému evidence obyvatel údaje v rozsahu
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum narození,
+pohlaví,
+místo a okres narození, a u subjektu údajů, který se narodil v cizině, místo a stát, kde se narodil,
+rodné číslo,
+státní občanství,
+adresa místa trvalého pobytu,
+datum nabytí právní moci rozhodnutí soudu o schválení smlouvy o nápomoci nebo zastoupení členem domácnosti včetně čísla jednacího a označení soudu, který smlouvu nebo zastoupení schválil, datum nabytí právní moci rozhodnutí soudu o omezení svéprávnosti včetně čísla jednacího a označení soudu, který o omezení svéprávnosti rozhodl, datum nabytí právní moci rozhodnutí soudu o zrušení omezení svéprávnosti, datum odvolání podpůrce soudem a datum zániku zastoupení členem domácnosti,
+jméno, popřípadě jména, příjmení a rodné číslo opatrovníka,
+datum úmrtí a
+den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému cizinců údaje v rozsahu
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum narození,
+pohlaví,
+místo a stát, kde se subjekt údajů narodil,
+rodné číslo,
+státní občanství, popřípadě více státních občanství,
+adresa místa pobytu na území České republiky,
+datum nabytí právní moci rozhodnutí soudu o omezení svéprávnosti včetně čísla jednacího a označení soudu, který rozhodl o omezení svéprávnosti,
+datum úmrtí a
+den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému evidence občanských průkazů údaje v rozsahu
+číslo občanského průkazu, popřípadě série občanského průkazu,
+datum vydání občanského průkazu,
+označení správního orgánu, který občanský průkaz vydal,
+datum skončení platnosti občanského průkazu,
+datum skutečného skončení platnosti neplatného občanského průkazu.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty pro elektronické podpisy, elektronické pečetě nebo autentizaci internetových stránek je oprávněn k plnění svých povinností stanovených právním předpisem využívat z informačního systému evidence cestovních dokladů v rozsahu
+číslo a druh vydaného cestovního dokladu,
+datum vydání cestovního dokladu,
+datum skončení platnosti cestovního dokladu a
+označení orgánu, který cestovní doklad vydal.
+Informační systém, jehož prostřednictvím kvalifikovaný poskytovatel služeb vytvářejících důvěru využívá údaje podle odstavce 1, musí umožnit dálkové a nepřetržité vyhodnocování záznamů o poskytnutí a využití údajů pro potřeby evidenční ochrany údajů podle jiného právního předpisu.
+Podepisování dokumentu
+K podepisování elektronickým podpisem lze použít pouze kvalifikovaný elektronický podpis, podepisuje-li elektronický dokument, kterým
+činí úkon nebo právně jedná stát, územní samosprávný celek, právnická osoba zřízená zákonem nebo právnická osoba zřízená nebo založená státem, územním samosprávným celkem nebo právnickou osobou zřízenou zákonem nebo jejich orgán anebo jiná jejich součást (dále jen „veřejnoprávní podepisující“), nebo
+činí úkon osoba neuvedená v písmenu a) při výkonu své působnosti.
+K podepisování elektronickým podpisem lze použít pouze uznávaný elektronický podpis, podepisuje-li se elektronický dokument, kterým se činí úkon vůči veřejnoprávnímu podepisujícímu nebo jiné osobě v souvislosti s výkonem jejich působnosti.
+Uznávaným elektronickým podpisem se rozumí zaručený elektronický podpis založený na kvalifikovaném certifikátu pro elektronický podpis nebo kvalifikovaný elektronický podpis.
+K podepisování elektronickým podpisem lze použít zaručený elektronický podpis, uznávaný elektronický podpis, případně jiný typ elektronického podpisu, podepisuje-li se elektronický dokument, kterým se právně jedná jiným způsobem než způsobem uvedeným v § 5.
+Pečetění dokumentu
+Nestanoví-li jiný právní předpis jako náležitost úkonu nebo právního jednání obsaženého v dokumentu podpis nebo tato náležitost nevyplývá z povahy úkonu nebo právního jednání, veřejnoprávní podepisující a jiná právnická osoba, činí-li úkon při výkonu své působnosti, zapečetí dokument v elektronické podobě kvalifikovanou elektronickou pečetí.
+K pečetění elektronickou pečetí lze použít pouze uznávanou elektronickou pečeť, pečetí-li se elektronický dokument, kterým se činí úkon vůči veřejnoprávnímu podepisujícímu nebo jiné osobě v souvislosti s výkonem jejich působnosti.
+Uznávanou elektronickou pečetí se rozumí zaručená elektronická pečeť založená na kvalifikovaném certifikátu pro elektronickou pečeť nebo kvalifikovaná elektronická pečeť.
+K pečetění elektronickou pečetí lze použít zaručenou elektronickou pečeť, uznávanou elektronickou pečeť, případně jiný typ elektronické pečeti, pečetí-li se elektronický dokument, kterým se právně jedná jiným způsobem než způsobem uvedeným v § 8.
+Použití kvalifikovaného elektronického časového razítka
+Veřejnoprávní podepisující, který podepsal elektronický dokument, kterým činí úkon nebo právně jedná, způsobem podle § 5, a osoba, která podepsala elektronický dokument, kterým činí úkon při výkonu své působnosti, způsobem podle § 5, opatří podepsaný elektronický dokument kvalifikovaným elektronickým časovým razítkem.
+Veřejnoprávní podepisující, který zapečetil elektronický dokument, kterým činí úkon nebo právně jedná, způsobem podle § 8, a osoba, která zapečetila elektronický dokument, kterým činí úkon při výkonu své působnosti, způsobem podle § 8, opatří zapečetěný elektronický dokument kvalifikovaným elektronickým časovým razítkem.
+Ověřování platnosti zaručeného elektronického podpisu a zaručené elektronické pečetě
+Ustanovení čl. 32 odst. 1 písm. a) až e), g) a h) Nařízení se na ověřování platnosti zaručeného elektronického podpisu založeného na kvalifikovaném certifikátu pro elektronický podpis a na ověřování platnosti zaručené elektronické pečetě založené na kvalifikovaném certifikátu pro elektronické pečetě použijí obdobně.
+Působnost Agentury
+Agentura plní úkoly orgánu dohledu podle Nařízení a podle tohoto zákona.
+Agentura může dát kvalifikovanému poskytovateli služeb vytvářejících důvěru pokyn zneplatnit jím vydaný kvalifikovaný certifikát, pokud existuje důvodné podezření, že kvalifikovaný certifikát byl padělán, nebo pokud byl vydán na základě nepravdivých údajů. Agentura může dát pokyn zneplatnit kvalifikovaný certifikát také v případě zjištění, že podepisující nebo pečetící osoba používá prostředek pro vytváření elektronických podpisů nebo elektronických pečetí, který vykazuje bezpečnostní nedostatky umožňující padělání elektronických podpisů nebo elektronických pečetí nebo změnu podepisovaných nebo pečetěných dat.
+Agentura zveřejňuje způsobem umožňujícím dálkový přístup důvěryhodné seznamy obsahující informace týkající se kvalifikovaných poskytovatelů služeb vytvářejících důvěru spolu s informacemi o jimi poskytovaných kvalifikovaných službách vytvářejících důvěru.
+Agentura vede seznam certifikátů, na jejichž základě kvalifikovaní poskytovatelé služeb vytvářejících důvěru podepisují zaručeným elektronickým podpisem nebo pečetí zaručenou elektronickou pečetí vydané kvalifikované certifikáty nebo vydaná kvalifikovaná elektronická časová razítka. Seznam certifikátů zveřejňuje Agentura způsobem umožňujícím dálkový přístup.
+Agentura plní povinnost podle čl. 24 odst. 2 písm. h) Nařízení v případě převzetí evidence podle § 4 odst. 2.
+Agentura bezodkladně vyrozumí Úřad pro ochranu osobních údajů o zjištěních učiněných v souvislosti s plněním úkolů orgánu dohledu podle odstavce 1, pokud se týkají působnosti tohoto úřadu.
+Poskytování služeb vytvářejících důvěru Správou státních služeb vytvářejících důvěru
+Zřizuje se a vzniká Správa státních služeb vytvářejících důvěru (dále jen „Správa“) jako státní příspěvková organizace. Sídlem Správy je Praha.
+Zřizovatelskou funkci vůči Správě vykonává Agentura.
+Statutárním orgánem Správy je ředitel. Ředitele Správy jmenuje a odvolává člen vlády pověřený řízením Rady vlády pro informační společnost po dohodě s ministrem vnitra.
+Předmětem činnosti Správy je poskytování služeb vytvářejících důvěru pro potřeby České republiky. Bližší podmínky činnosti Správy, včetně podmínek, za jakých Správa poskytuje služby vytvářející důvěru, upravuje statut, který schvaluje člen vlády pověřený řízením Rady vlády pro informační společnost po dohodě s ministrem vnitra.
+Poskytuje-li Správa službu vytvářející důvěru, jejímž předmětem je certifikát, který není certifikátem pro elektronický podpis, certifikátem pro elektronickou pečeť nebo certifikátem pro autentizaci internetových stránek, vede evidenci certifikátů a osob nebo jejich součástí, kterým byl certifikát vydán.
+Evidence obsahuje
+údaje o fyzické osobě, které byl certifikát vydán, v rozsahu
+jméno, popřípadě jména a příjmení,
+datum, místo a okres narození; u fyzické osoby, která se narodila v cizině, datum, místo a stát, kde se narodila,
+datum úmrtí,
+adresa místa pobytu, případně též adresa, na kterou mají být doručovány písemnosti,
+údaje o právnické osobě nebo její součásti, které byl certifikát vydán, v rozsahu
+obchodní firma nebo název,
+adresa sídla,
+identifikační číslo osoby,
+údaje o certifikátu v rozsahu
+identifikátor,
+počátek a konec platnosti,
+datum a čas aktivace,
+datum a čas zneplatnění,
+další údaje v rozsahu
+identifikátor nosiče, na kterém je certifikát uložen,
+agendový identifikátor fyzické osoby pro agendu vydávání certifikátů.
+Údaje podle odstavce 2 písm. c) jsou veřejně přístupné způsobem umožňujícím dálkový přístup.
+Údaje podle odstavce 2 se evidují po dobu platnosti certifikátu a následujících 15 let od konce platnosti certifikátu.
+Přestupky fyzických, právnických a podnikajících fyzických osob
+Fyzická osoba se dopustí přestupku tím, že použije značku důvěry EU v rozporu s čl. 23 odst. 1 Nařízení.
+Za přestupek podle odstavce 1 lze uložit pokutu do 2 000 000 Kč.
+Právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že
+použije značku důvěry EU v rozporu s čl. 23 odst. 1 Nařízení, nebo
+v rozporu s čl. 24 odst. 2 písm. h) Nařízení neeviduje nebo nezpřístupňuje veškeré příslušné informace po ukončení činnosti kvalifikovaného poskytovatele služeb vytvářejících důvěru nebo nepředá Agentuře evidenci podle § 4 odst. 2.
+Poskytovatel služeb vytvářejících důvěru se dopustí přestupku tím, že
+nepřijme vhodná technická a organizační opatření k řízení rizik ohrožujících bezpečnost jím poskytovaných služeb podle čl. 19 odst. 1 Nařízení,
+v rozporu s čl. 19 odst. 2 Nařízení nevyrozumí o narušení bezpečnosti nebo ztrátě integrity bez zbytečného odkladu orgán dohledu podle tohoto zákona nebo osobu, na kterou může mít narušení bezpečnosti nebo ztráta integrity nepříznivý dopad, nebo
+v rozporu s čl. 21 odst. 3 Nařízení poskytuje služby vytvářející důvěru označené jako kvalifikované předtím, než byl status kvalifikovaného poskytovatele služeb vytvářejících důvěru a kvalifikované služby vyznačen v důvěryhodných seznamech.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru se dopustí přestupku tím, že
+v rozporu s čl. 20 odst. 1 Nařízení
+se nepodrobí auditu ze strany subjektu posuzování shody alespoň jednou za 24 měsíců, nebo
+nepředloží výslednou zprávu o posouzení shody,
+se nepodrobí auditu ze strany orgánu dohledu podle tohoto zákona nebo subjektu posuzování shody podle čl. 20 odst. 2 Nařízení,
+nezajistí, aby byl na jeho internetových stránkách k dispozici odkaz na příslušný důvěryhodný seznam podle čl. 23 odst. 2 Nařízení,
+neoznámí případné změny v poskytování služeb vytvářejících důvěru nebo záměr ukončit některou ze svých činností podle čl. 24 odst. 2 písm. a) Nařízení,
+zaměstnává zaměstnance nebo využívá subdodavatele v rozporu s čl. 24 odst. 2 písm. b) Nařízení,
+v rozporu s čl. 24 odst. 2 písm. c) Nařízení,
+neudržuje dostatečné finanční prostředky, nebo
+neuzavře vhodné pojištění odpovědnosti,
+nesplní informační povinnost podle čl. 24 odst. 2 písm. d) Nařízení,
+nepoužívá důvěryhodné systémy a produkty podle čl. 24 odst. 2 písm. e) Nařízení,
+nepoužívá důvěryhodné systémy k uchovávání dat podle čl. 24 odst. 2 písm. f) Nařízení,
+nepřijme vhodná opatření proti padělání a odcizení dat podle čl. 24 odst. 2 písm. g) Nařízení,
+v rozporu s čl. 24 odst. 2 písm. h) Nařízení neeviduje nebo nezpřístupňuje veškeré příslušné informace,
+nemá k dispozici aktualizovaný plán ukončení činnosti k zajištění kontinuity služby podle čl. 24 odst. 2 písm. i) Nařízení,
+neposkytuje kvalifikované služby vytvářející důvěru na základě písemné smlouvy podle § 2,
+neuchovává dokumenty podle § 3 odst. 1, nebo
+neuchovává údaje podle § 3 odst. 2.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikované certifikáty se dopustí přestupku tím, že
+neověří totožnost nebo zvláštní znaky fyzické anebo právnické osoby, jíž je kvalifikovaný certifikát vydán, podle čl. 24 odst. 1 Nařízení,
+nezajistí, aby jím vydaný kvalifikovaný certifikát obsahoval přesné, pravdivé a úplné údaje,
+v rozporu s čl. 24 odst. 2 písm. k) Nařízení nevede nebo neaktualizuje databázi jím vydaných kvalifikovaných certifikátů,
+nezveřejní zneplatnění jím vydaného kvalifikovaného certifikátu podle čl. 24 odst. 3 Nařízení,
+neposkytne kterékoliv spoléhající se straně informace o platnosti nebo zneplatnění jím vydaných kvalifikovaných certifikátů podle čl. 24 odst. 4 Nařízení,
+v rozporu s čl. 28 odst. 4 Nařízení změní status zneplatněného jím vydaného kvalifikovaného certifikátu pro elektronické podpisy,
+v rozporu s čl. 38 odst. 4 Nařízení změní status zneplatněného jím vydaného kvalifikovaného certifikátu pro elektronické pečetě, nebo
+vydá kvalifikovaný certifikát pro elektronický podpis, kvalifikovaný certifikát pro elektronickou pečeť nebo kvalifikovaný certifikát pro autentizaci internetových stránek, který nesplňuje požadavky stanovené Nařízením.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru poskytující kvalifikovanou službu ověřování platnosti kvalifikovaných elektronických podpisů a kvalifikovaných elektronických pečetí se dopustí přestupku tím, že
+nezajistí ověření platnosti kvalifikovaného elektronického podpisu nebo kvalifikované elektronické pečetě podle čl. 33 odst. 1 písm. a) Nařízení, nebo
+poskytuje kvalifikované služby ověřování kvalifikovaných elektronických podpisů nebo kvalifikovaných elektronických pečetí v rozporu s čl. 33 odst. 1 písm. b) Nařízení.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru poskytující kvalifikovanou službu uchovávání kvalifikovaných elektronických podpisů a kvalifikovaných elektronických pečetí se dopustí přestupku tím, že nepoužívá postupy a technologie podle čl. 34 odst. 1 Nařízení.
+Kvalifikovaný poskytovatel služeb vytvářejících důvěru vydávající kvalifikovaná elektronická časová razítka se dopustí přestupku tím, že nezajistí, aby jím vydaná kvalifikovaná elektronická časová razítka splňovala požadavky podle čl. 42 odst. 1 Nařízení.
+Za přestupek lze uložit pokutu do
+500 000 Kč, jde-li o přestupek podle odstavce 3 písm. c) a g),
+1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. b), odstavce 3 písm. a), e) a m),
+2 000 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 2 písm. a) a c), odstavce 3 písm. b), d), f), h) až l), n) a o) a odstavců 4 až 7.
+Přestupky podle tohoto zákona projednává Agentura.

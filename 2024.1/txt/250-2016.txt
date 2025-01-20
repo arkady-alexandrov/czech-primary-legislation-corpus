@@ -1,0 +1,640 @@
+OBECNÁ USTANOVENÍ
+Předmět úpravy
+Tento zákon upravuje podmínky odpovědnosti za přestupek, druhy správních trestů a ochranných opatření a zásady pro jejich ukládání, postup před zahájením řízení o přestupku a postup v řízení o přestupku.
+Časová působnost
+Odpovědnost za přestupek se posuzuje podle zákona účinného v době spáchání přestupku; podle pozdějšího zákona se posuzuje jen tehdy, je-li to pro pachatele přestupku (dále jen „pachatel“) příznivější.
+Přestupek je spáchán v době, kdy pachatel konal nebo v případě opomenutí byl povinen konat. Není rozhodující, kdy následek nastane nebo kdy měl nastat.
+Jestliže se zákon změní během páchání přestupku, použije se zákon, který je účinný při dokončení jednání, kterým je přestupek spáchán.
+Jestliže se zákon změní během páchání
+pokračujícího přestupku, použije se zákon účinný v době, kdy došlo k poslednímu dílčímu útoku,
+hromadného přestupku, použije se zákon účinný v době, kdy došlo k poslednímu útoku, nebo
+trvajícího přestupku, použije se zákon účinný v době, kdy došlo k odstranění protiprávního stavu.
+Při pozdějších změnách zákona, který je účinný při dokončení jednání, kterým je přestupek spáchán, se použije zákona nejmírnějšího.
+Pachateli lze uložit vždy jen takový druh správního trestu, který dovoluje uložit zákon účinný v době, kdy se o přestupku rozhoduje.
+O ochranném opatření se rozhodne vždy podle zákona účinného v době, kdy se o ochranném opatření rozhoduje.
+Územní působnost
+Podle právního řádu České republiky se posuzuje odpovědnost za přestupek, který byl spáchán na území České republiky.
+Přestupek se považuje za spáchaný na území České republiky, jednal-li pachatel
+zcela nebo zčásti na území České republiky, i když porušení nebo ohrožení zájmu chráněného zákonem nastalo nebo mělo nastat zcela nebo zčásti v cizině, nebo
+v cizině, pokud porušení nebo ohrožení zájmu chráněného zákonem nastalo nebo mělo nastat zcela nebo zčásti na území České republiky.
+Podle právního řádu České republiky se posuzuje odpovědnost za přestupek spáchaný v cizině státním občanem České republiky nebo osobou bez státní příslušnosti, která má na území České republiky povolen trvalý pobyt, anebo právnickou nebo podnikající fyzickou osobou, která má na území České republiky své sídlo nebo zde alespoň vykonává svoji činnost anebo zde má svůj nemovitý majetek, jestliže
+pachatel svým jednáním porušil povinnost, kterou má podle právního řádu České republiky i mimo území České republiky,
+pachatel spáchal přestupek proti majetku nebo proti občanskému soužití, pokud takové jednání nebylo projednáno v cizině, nebo
+tak stanoví mezinárodní smlouva, která je součástí právního řádu České republiky.
+Osobní působnost
+Jednání, které má znaky přestupku, jehož se dopustila osoba požívající výsad a imunit podle jiného zákona, nelze jako přestupek projednat.
+Jednání, které má znaky přestupku, jehož se dopustila osoba požívající výsad a imunit podle mezinárodního práva, nelze jako přestupek projednat.
+Správní trest uložený za přestupek nelze vykonat nebo v jeho výkonu pokračovat, jestliže osoba, jíž byl správní trest uložen, se stala později osobou uvedenou v odstavci 1 nebo 2, s výjimkou osoby, která se stala poslancem, senátorem nebo soudcem Ústavního soudu.
+Podle tohoto zákona se projednávají přestupky, kterých se dopustili poslanci a senátoři, pokud nepožádají orgán příslušný k projednání přestupku o projednání přestupku v disciplinárním řízení podle jiných zákonů. Podle tohoto zákona se dále projednávají přestupky, kterých se dopustili soudci Ústavního soudu, pokud nepožádají orgán příslušný k projednání přestupku o projednání přestupku v kárném řízení podle jiného zákona.
+Podle jiných zákonů se projedná jednání, které má znaky přestupku, dopustí-li se jej
+příslušník bezpečnostního sboru,
+osoba podléhající vojenské kázeňské pravomoci, nebo
+osoba během výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence.
+Není-li správnímu orgánu do vydání rozhodnutí o přestupku v prvním stupni známa skutečnost, že obviněný je osobou uvedenou v odstavci 5 písm. a) nebo b), jeho jednání se projedná jako přestupek podle tohoto zákona. Jestliže správní orgán po vydání rozhodnutí o přestupku v prvním stupni zjistí, že obviněný je osobou uvedenou v odstavci 5 písm. a) nebo b), vyrozumí o této skutečnosti bezodkladně příslušného služebního funkcionáře nebo příslušný služební orgán.
+Jednání, které má znaky přestupku, se projedná jako přestupek podle tohoto zákona, pokud jeho pachatel přestal být osobou uvedenou v odstavci 5 před vydáním rozhodnutí ve věci v prvním stupni.
+ZÁKLADY ODPOVĚDNOSTI ZA PŘESTUPEK
+SPOLEČNÁ USTANOVENÍ PRO FYZICKOU OSOBU, PRÁVNICKOU OSOBU A PODNIKAJÍCÍ FYZICKOU OSOBU
+Přestupek
+Přestupkem je společensky škodlivý protiprávní čin, který je v zákoně za přestupek výslovně označen a který vykazuje znaky stanovené zákonem, nejde-li o trestný čin.
+Pokus přestupku
+Pokus přestupku je jednání fyzické osoby, které bezprostředně směřuje k dokonání přestupku a kterého se fyzická osoba dopustila v úmyslu přestupek spáchat, jestliže k dokonání přestupku nedošlo.
+Pokus přestupku je též jednání právnické nebo podnikající fyzické osoby, které bezprostředně směřuje k dokonání přestupku, jestliže k dokonání přestupku nedošlo.
+Pokus přestupku je trestný, pokud tak stanoví zákon, a to stejně jako dokonaný přestupek.
+Odpovědnost za pokus přestupku zanikne, jestliže pachatel od dokonání přestupku dobrovolně upustil a odstranil nebezpečí, které jeho jednáním vzniklo zájmu chráněnému zákonem; tím není dotčena odpovědnost pachatele za jiný dokonaný přestupek, který již jednáním uvedeným v odstavci 1 nebo 2 spáchal.
+Pokračování v přestupku
+Pokračováním v přestupku se rozumí takové jednání, jehož jednotlivé dílčí útoky vedené jednotným záměrem naplňují skutkovou podstatu stejného přestupku, jsou spojeny stejným nebo podobným způsobem provedení, blízkou souvislostí časovou a souvislostí v předmětu útoku.
+Trvající přestupek
+Trvající přestupek je takový přestupek, jehož znakem je jednání pachatele spočívající ve vyvolání a následném udržování protiprávního stavu nebo jednání pachatele spočívající v udržování protiprávního stavu, který nebyl pachatelem vyvolán.
+Hromadný přestupek
+Hromadný přestupek je takový přestupek, u kterého zákon vyžaduje pro vznik odpovědnosti za přestupek více útoků spojených společným záměrem.
+Opomenutí
+Jednáním se pro účely tohoto zákona rozumí i opomenutí takového konání, k němuž byl pachatel povinen podle jiného právního předpisu nebo úředního rozhodnutí, v důsledku dobrovolného převzetí povinnosti konat nebo vyplývala-li jeho zvláštní povinnost z jeho předchozího ohrožujícího jednání nebo k němuž byl z jiného důvodu podle okolností a svých poměrů povinen.
+Spolupachatel
+Byl-li přestupek nebo jeho pokus spáchán úmyslným společným jednáním dvou nebo více fyzických osob, odpovídá každá z nich, jako by přestupek spáchala sama.
+Byl-li přestupek spáchán společným jednáním dvou nebo více osob, z nichž alespoň jedna je právnická osoba nebo podnikající fyzická osoba, odpovídá každá z nich, jako by přestupek spáchala sama.
+Zvláštní subjekt přestupku
+Jestliže ke spáchání přestupku zákon vyžaduje zvláštní vlastnost, způsobilost nebo postavení pachatele, může být
+pachatelem pouze ten, kdo požadovanou vlastnost, způsobilost nebo postavení má,
+spolupachatelem ten, kdo požadovanou vlastnost, způsobilost nebo postavení má, a stanoví-li tak zákon také ten, kdo požadovanou vlastnost, způsobilost nebo postavení nemá, pokud má požadovanou vlastnost, způsobilost nebo postavení alespoň jeden ze spolupachatelů.
+ODPOVĚDNOST FYZICKÉ OSOBY ZA PŘESTUPEK
+Fyzická osoba jako pachatel
+Fyzická osoba je pachatelem, jestliže svým zaviněným jednáním naplnila znaky přestupku nebo jeho pokusu, je-li trestný.
+Pachatelem je též fyzická osoba, která ke spáchání přestupku užila jiné fyzické osoby, jež není odpovědná za přestupek pro nedostatek věku nebo nepříčetnost anebo proto, že svým jednáním naplnila podmínky nutné obrany nebo krajní nouze nebo jiné okolnosti vylučující protiprávnost.
+Pachatelem je též fyzická osoba, která ke spáchání přestupku užila právnické osoby, která není za přestupek odpovědná.
+Stanoví-li tak zákon, je pachatelem rovněž fyzická osoba, která úmyslně
+zosnovala nebo řídila spáchání přestupku (organizátor),
+vzbudila v jiném rozhodnutí spáchat přestupek (návodce), nebo
+umožnila nebo usnadnila jinému spáchání přestupku (pomocník),
+jde-li o dokonaný přestupek nebo jeho pokus, je-li trestný.
+Odpovědnost zákonného zástupce nebo opatrovníka fyzické osoby
+Jestliže zákon stanoví, že pachatelem může být jen fyzická osoba, která má zvláštní vlastnost, způsobilost nebo postavení, a jednal-li nebo měl-li jednat za tuto osobu její zákonný zástupce nebo opatrovník, odpovídá za přestupek zákonný zástupce nebo opatrovník, i když on sám tuto zvláštní vlastnost, způsobilost nebo postavení nemá.
+Zavinění
+K odpovědnosti fyzické osoby za přestupek se vyžaduje zavinění. Postačí zavinění z nedbalosti, nestanoví-li zákon výslovně, že je třeba úmyslného zavinění.
+Přestupek je spáchán úmyslně, jestliže pachatel
+chtěl svým jednáním porušit nebo ohrozit zájem chráněný zákonem, nebo
+věděl, že svým jednáním může porušit nebo ohrozit zájem chráněný zákonem, a pro případ, že jej poruší nebo ohrozí, s tím byl srozuměn.
+Přestupek je spáchán z nedbalosti, jestliže pachatel
+věděl, že svým jednáním může porušit nebo ohrozit zájem chráněný zákonem, ale bez přiměřených důvodů spoléhal na to, že tento zájem neporuší nebo neohrozí, nebo
+nevěděl, že svým jednáním může porušit nebo ohrozit zájem chráněný zákonem, ač to vzhledem k okolnostem a svým osobním poměrům vědět měl a mohl.
+Omyl skutkový
+Kdo při spáchání činu nezná ani nepředpokládá jako možnou skutkovou okolnost, která je znakem přestupku, nejedná úmyslně; tím není dotčena odpovědnost za přestupek spáchaný z nedbalosti.
+Kdo při spáchání činu mylně předpokládá skutkové okolnosti, které by naplňovaly znaky mírnějšího úmyslného přestupku, bude potrestán jen za tento mírnější přestupek, nejde-li o přestupek spáchaný z nedbalosti.
+Kdo při spáchání činu mylně předpokládá skutkové okolnosti, které by naplňovaly znaky přísnějšího úmyslného přestupku, bude potrestán za pokus tohoto přísnějšího přestupku, je-li trestný.
+Kdo při spáchání činu mylně předpokládá skutkovou okolnost, která vylučuje jeho protiprávnost, nejedná úmyslně; tím není dotčena odpovědnost za přestupek spáchaný z nedbalosti.
+Omyl právní
+Kdo při spáchání přestupku neví, že jeho čin je protiprávní, nejedná zaviněně, nemohl-li se omylu vyvarovat.
+Omylu bylo možno se vyvarovat, pokud povinnost seznámit se s příslušnou právní úpravou vyplývala pro pachatele ze zákona nebo jiného právního předpisu, úředního rozhodnutí nebo smlouvy, z jeho zaměstnání, povolání, postavení nebo funkce, anebo mohl-li pachatel protiprávnost činu rozpoznat bez zřejmých obtíží.
+Věk
+Za přestupek není odpovědný ten, kdo v době jeho spáchání nedovršil patnáctý rok svého věku.
+Nepříčetnost
+Za přestupek není odpovědný ten, kdo pro duševní poruchu v době jeho spáchání nemohl rozpoznat protiprávnost svého jednání nebo své jednání ovládat; odpovědnosti se však nezbavuje ten, kdo se do stavu nepříčetnosti přivedl, byť i z nedbalosti, užitím návykové látky; návykovou látkou se rozumí alkohol, omamné látky, psychotropní látky a ostatní látky způsobilé nepříznivě ovlivnit psychiku člověka nebo jeho ovládací nebo rozpoznávací schopnosti nebo sociální chování.
+ODPOVĚDNOST PRÁVNICKÉ OSOBY ZA PŘESTUPEK
+Právnická osoba jako pachatel
+Právnická osoba je pachatelem, jestliže k naplnění znaků přestupku došlo jednáním fyzické osoby, která se za účelem posuzování odpovědnosti právnické osoby za přestupek považuje za osobu, jejíž jednání je přičitatelné právnické osobě a která porušila právní povinnost uloženou právnické osobě, a to při činnosti právnické osoby, v přímé souvislosti s činností právnické osoby nebo ku prospěchu právnické osoby nebo v jejím zájmu; za porušení právní povinnosti uložené právnické osobě se považuje též porušení právní povinnosti uložené organizační složce nebo jinému útvaru, který je součástí právnické osoby.
+Za osobu, jejíž jednání je přičitatelné právnické osobě, se za účelem posuzování odpovědnosti právnické osoby za přestupek považuje
+statutární orgán nebo člen statutárního orgánu,
+jiný orgán právnické osoby nebo jeho člen,
+zaměstnanec nebo osoba v obdobném postavení při plnění úkolů vyplývajících z tohoto postavení,
+fyzická osoba, která plní úkoly právnické osoby,
+fyzická osoba, kterou právnická osoba používá při své činnosti, nebo
+fyzická osoba, která za právnickou osobu jednala, jestliže právnická osoba výsledku takového jednání využila.
+Jestliže ke spáchání přestupku zákon vyžaduje zvláštní vlastnost, způsobilost nebo postavení pachatele, který je právnickou osobou, zvláštní vlastnost, způsobilost nebo postavení nemusí být dány u fyzické osoby, která se za účelem posuzování odpovědnosti právnické osoby za přestupek považuje za osobu, jejíž jednání je přičitatelné právnické osobě.
+Ustanovení odstavců 1 až 3 se použijí i tehdy,
+jestliže k jednání fyzické osoby, která se za účelem posuzování odpovědnosti právnické osoby za přestupek považuje za osobu, jejíž jednání je přičitatelné právnické osobě, došlo před vznikem právnické osoby,
+jestliže právnická osoba vznikla, ale soud rozhodl o neplatnosti právnické osoby, nebo
+je-li právní jednání, které mělo založit oprávnění k jednání za právnickou osobu, neplatné nebo neúčinné.
+Pachatelem je též právnická osoba, která ke spáchání přestupku užila jiné právnické osoby nebo fyzické osoby odlišné od fyzické osoby, která se za účelem posuzování odpovědnosti právnické osoby za přestupek považuje za osobu, jejíž jednání je přičitatelné právnické osobě, jestliže tyto osoby nejsou za přestupek odpovědné.
+Odpovědnost právnické osoby za přestupek není podmíněna zjištěním konkrétní fyzické osoby, která se považuje za osobu, jejíž jednání je přičitatelné právnické osobě. Správní orgán není povinen zjišťovat konkrétní fyzickou osobu, která se za účelem posuzování odpovědnosti právnické osoby za přestupek považuje za osobu, jejíž jednání je přičitatelné právnické osobě, zejména tehdy, je-li ze zjištěných skutečností zřejmé, že k jednání zakládajícímu odpovědnost právnické osoby za přestupek došlo při činnosti právnické osoby.
+Odpovědností právnické osoby za přestupek není dotčena odpovědnost za přestupek fyzických osob uvedených v odstavcích 1 a 2 a odpovědností za přestupek těchto fyzických osob není dotčena odpovědnost právnické osoby za přestupek.
+Zproštění odpovědnosti právnické osoby za přestupek
+Právnická osoba za přestupek neodpovídá, jestliže prokáže, že vynaložila veškeré úsilí, které bylo možno požadovat, aby přestupku zabránila.
+Právnická osoba se nemůže odpovědnosti za přestupek zprostit, jestliže z její strany nebyla vykonávána povinná nebo potřebná kontrola nad fyzickou osobou, která se za účelem posuzování odpovědnosti právnické osoby za přestupek považuje za osobu, jejíž jednání je přičitatelné právnické osobě, nebo nebyla učiněna nezbytná opatření k zamezení nebo odvrácení přestupku.
+ODPOVĚDNOST PODNIKAJÍCÍ FYZICKÉ OSOBY ZA PŘESTUPEK
+Podnikající fyzická osoba jako pachatel
+Podnikající fyzická osoba je pachatelem, jestliže k naplnění znaků přestupku došlo při jejím podnikání nebo v přímé souvislosti s ním a podnikající fyzická osoba svým jednáním porušila právní povinnost, která je uložena podnikající fyzické osobě nebo fyzické osobě.
+Podnikající fyzická osoba je pachatelem též v případě, jestliže k naplnění znaků přestupku došlo jednáním fyzické osoby, která se za účelem posuzování odpovědnosti podnikající fyzické osoby za přestupek považuje za osobu, jejíž jednání je přičitatelné podnikající fyzické osobě, a která při podnikání osoby, ve vztahu ke které se považuje za osobu, jejíž jednání je přičitatelné podnikající fyzické osobě, nebo v přímé souvislosti s ním anebo ku prospěchu této podnikající fyzické osoby nebo v jejím zájmu porušila právní povinnost, která je uložena podnikající fyzické osobě nebo fyzické osobě.
+Za osobu, jejíž jednání je přičitatelné podnikající fyzické osobě, se za účelem posuzování odpovědnosti podnikající fyzické osoby za přestupek považuje
+zaměstnanec nebo osoba v obdobném postavení při plnění úkolů vyplývajících z tohoto postavení,
+fyzická osoba, která plní úkoly podnikající fyzické osoby,
+fyzická osoba, kterou podnikající fyzická osoba používá při své činnosti, nebo
+fyzická osoba, která za podnikající fyzickou osobu jednala, jestliže podnikající fyzická osoba výsledku takového jednání využila.
+Posuzování odpovědnosti podnikající fyzické osoby za přestupek
+Na odpovědnost podnikající fyzické osoby za přestupek se použijí obdobně ustanovení § 20 a 21, s výjimkou § 20 odst. 1 a 2 a odst. 4 písm. a) a b).
+Přestane-li podnikající fyzická osoba, která je pachatelem, být podnikatelem, její odpovědnost za přestupek nezaniká.
+OKOLNOSTI VYLUČUJÍCÍ PROTIPRÁVNOST
+Krajní nouze
+Čin jinak trestný jako přestupek není přestupkem, jestliže jím někdo odvrací nebezpečí přímo hrozící zájmu chráněnému zákonem.
+Nejde o krajní nouzi, jestliže toto nebezpečí bylo možno za daných okolností odvrátit jinak nebo následek tímto odvracením způsobený je zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil, anebo byl-li ten, komu nebezpečí hrozilo, povinen je snášet.
+Nutná obrana
+Čin jinak trestný jako přestupek není přestupkem, jestliže jím někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný zákonem.
+Nejde o nutnou obranu, byla-li tato obrana zcela zjevně nepřiměřená způsobu útoku.
+Svolení poškozeného
+Čin jinak trestný jako přestupek není přestupkem, jestliže někdo jedná na základě svolení osoby, jejíž zájmy, o nichž tato osoba může bez omezení oprávněně rozhodovat, jsou činem dotčeny.
+Svolení podle odstavce 1 musí být dáno předem nebo současně s jednáním osoby páchající čin jinak trestný jako přestupek dobrovolně, určitě, vážně a srozumitelně; je-li takové svolení dáno až po spáchání činu, o přestupek nejde, mohl-li jednající důvodně předpokládat, že osoba, jejíž zájmy jsou dotčeny, by tento souhlas jinak udělila vzhledem k okolnostem případu a svým poměrům.
+S výjimkou případů svolení k lékařským zákrokům, které jsou v době činu v souladu s právním řádem a poznatky lékařské vědy a praxe, nelze za svolení považovat souhlas k ublížení na zdraví.
+Přípustné riziko
+Čin jinak trestný jako přestupek není přestupkem, jestliže někdo v souladu s dosaženým stavem poznání a informacemi, které měl k dispozici v době svého rozhodování o dalším postupu, vykonává v rámci svého zaměstnání, povolání, postavení nebo funkce nebo v rámci svého předmětu činnosti společensky prospěšnou činnost, jíž ohrozí nebo poruší zájem chráněný zákonem, nelze-li společensky prospěšného výsledku dosáhnout jinak.
+O přípustné riziko nejde, jestliže
+činnost podle odstavce 1 ohrozí život nebo zdraví člověka, aniž by k ní dal v souladu s jiným právním předpisem souhlas,
+výsledek, k němuž činnost podle odstavce 1 směřuje, zcela zřejmě neodpovídá míře rizika, nebo
+provádění činnosti podle odstavce 1 zřejmě odporuje požadavkům jiného právního předpisu, veřejnému zájmu nebo zásadám lidskosti nebo se příčí dobrým mravům.
+Oprávněné použití zbraně
+Přestupek nespáchá, kdo použije zbraně v mezích stanovených jiným právním předpisem.
+ZÁNIK ODPOVĚDNOSTI ZA PŘESTUPEK A ODPOVĚDNOST PRÁVNÍHO NÁSTUPCE
+Zánik odpovědnosti za přestupek
+Důvody zániku odpovědnosti za přestupek
+Odpovědnost za přestupek zaniká
+uplynutím promlčecí doby,
+smrtí fyzické osoby,
+zánikem právnické osoby, nemá-li právního nástupce, nebo
+vyhlášením amnestie.
+Délka promlčecí doby
+Promlčecí doba činí
+1 rok, nebo
+3 roky, jde-li o přestupek, za který zákon stanoví sazbu pokuty, jejíž horní hranice je alespoň 100 000 Kč.
+Běh promlčecí doby
+Promlčecí doba počíná běžet dnem následujícím po dni spáchání přestupku; dnem spáchání přestupku se rozumí den, kdy došlo k ukončení jednání, kterým byl přestupek spáchán. Je-li znakem přestupku účinek, promlčecí doba počíná běžet dnem následujícím po dni, kdy takový účinek nastal.
+Promlčecí doba počíná běžet
+u pokračujícího přestupku dnem následujícím po dni, kdy došlo k poslednímu dílčímu útoku,
+u hromadného přestupku dnem následujícím po dni, kdy došlo k poslednímu útoku, a
+u trvajícího přestupku dnem následujícím po dni, kdy došlo k odstranění protiprávního stavu.
+Dopustil-li se pachatel více přestupků, běží pro každý z nich promlčecí doba zvlášť.
+Stavení a přerušení promlčecí doby
+Do promlčecí doby se nezapočítává doba,
+po kterou se pro tentýž skutek vedlo trestní řízení,
+po kterou bylo řízení o přestupku přerušeno proto, že bylo možné očekávat uložení trestu obviněnému z přestupku za jiný skutek v trestním řízení, přičemž správní trest, který lze uložit v řízení o přestupku, je bezvýznamný vedle trestu, který by bylo možné uložit v trestním řízení,
+po kterou se o věci vedlo soudní řízení správní,
+po kterou trvalo podmíněné upuštění od uložení správního trestu.
+Promlčecí doba se přerušuje
+oznámením o zahájení řízení o přestupku,
+vydáním rozhodnutí, jímž je obviněný uznán vinným; je-li prvním úkonem v řízení vydání příkazu, přerušuje se běh promlčecí doby jeho doručením,
+vydáním rozhodnutí o schválení dohody o narovnání;
+přerušením promlčecí doby počíná promlčecí doba nová.
+Odpovědnost za přestupek zaniká nejpozději 3 roky od jeho spáchání; jde-li o přestupek, za který zákon stanoví sazbu pokuty, jejíž horní hranice je alespoň 100 000 Kč, odpovědnost za přestupek zaniká nejpozději 5 let od jeho spáchání. Do této doby se nezapočítává doba, po kterou trvala některá ze skutečností podle odstavce 1.
+Odpovědnost právního nástupce za přestupek
+Přechod odpovědnosti právnické osoby za přestupek
+Odpovědnost právnické osoby za přestupek přechází na jejího právního nástupce.
+Má-li právnická osoba více právních nástupců, odpovídá za přestupek každý z nich, jako by přestupek spáchal sám.
+Přechod odpovědnosti podnikající fyzické osoby za přestupek
+Odpovědnost podnikající fyzické osoby za přestupek přechází v případě její smrti na osobu, která pokračuje v její podnikatelské činnosti.
+Pokračuje-li v podnikatelské činnosti více osob, odpovídá za přestupek každá z nich, jako by přestupek spáchala sama.
+SPRÁVNÍ TRESTY A JEJICH UKLÁDÁNÍ
+Druhy správních trestů a obecné zásady pro jejich ukládání
+Druhy správních trestů
+Za přestupek lze uložit správní trest
+napomenutí,
+pokuty,
+zákazu činnosti,
+propadnutí věci nebo náhradní hodnoty,
+zveřejnění rozhodnutí o přestupku.
+Ukládání správních trestů
+Správní trest lze uložit samostatně nebo spolu s jinými správními tresty; napomenutí nelze uložit spolu s pokutou.
+Určení druhu a výměry správního trestu
+Při určení druhu správního trestu a jeho výměry se přihlédne zejména
+k povaze a závažnosti přestupku,
+k tomu, že o některém z více přestupků, které byly spáchány jedním skutkem nebo více skutky, nebylo rozhodnuto ve společném řízení,
+k přitěžujícím a polehčujícím okolnostem,
+u pokusu přestupku k tomu, do jaké míry se jednání pachatele přiblížilo k dokonání přestupku, jakož i k okolnostem a důvodům, pro které k jeho dokonání nedošlo,
+u spolupachatelů k tomu, jakou měrou jednání každého z nich přispělo ke spáchání přestupku,
+u fyzické osoby k jejím osobním poměrům a k tomu, zda a jakým způsobem byla pro totéž protiprávní jednání potrestána v jiném řízení před správním orgánem než v řízení o přestupku,
+u právnické nebo podnikající fyzické osoby k povaze její činnosti,
+u právního nástupce k tomu, v jakém rozsahu na něj přešly výnosy, užitky a jiné výhody ze spáchaného přestupku, a v případě více právních nástupců k tomu, zda některý z nich pokračuje v činnosti, při které byl přestupek spáchán,
+u pokračujícího, trvajícího a hromadného přestupku k tomu, zda k části jednání, jímž byl přestupek spáchán, došlo za účinnosti zákona, který za přestupek stanovil správní trest mírnější než zákon, který byl účinný při dokončení tohoto jednání.
+Povaha a závažnost přestupku
+Povaha a závažnost přestupku je dána zejména
+významem zákonem chráněného zájmu, který byl přestupkem porušen nebo ohrožen,
+významem a rozsahem následku přestupku,
+způsobem spáchání přestupku,
+okolnostmi spáchání přestupku,
+u fyzické osoby též druhem a mírou jejího zavinění, popřípadě pohnutkou,
+délkou doby, po kterou trvalo protiprávní jednání pachatele nebo po kterou trval protiprávní stav udržovaný protiprávním jednáním pachatele,
+počtem jednotlivých dílčích útoků, které tvoří pokračování v přestupku.
+Polehčující okolnosti
+Jako k polehčující okolnosti se přihlédne zejména k tomu, že pachatel
+spáchal přestupek ve věku blízkém věku mladistvých,
+spáchal přestupek, aby odvrátil útok nebo jiné nebezpečí, aniž byly zcela naplněny podmínky nutné obrany nebo krajní nouze, nebo překročil meze jiné okolnosti vylučující protiprávnost,
+napomáhal k odstranění škodlivého následku přestupku nebo dobrovolně nahradil způsobenou škodu,
+oznámil přestupek správnímu orgánu a při jeho objasňování účinně napomáhal, nebo
+spáchal přestupek pod vlivem hrozby nebo nátlaku anebo pod tlakem podřízenosti nebo závislosti na jiném.
+Přitěžující okolnosti
+Jako k přitěžující okolnosti se přihlédne zejména k tomu, že pachatel
+spáchal přestupek tak, že využil něčí bezbrannosti, podřízenosti nebo závislosti na jiné osobě,
+spáchal více přestupků,
+spáchal přestupek opakovaně,
+zneužil ke spáchání přestupku svého zaměstnání, postavení nebo funkce,
+spáchal přestupek jako člen organizované skupiny, nebo
+spáchal přestupek na dítěti, osobě těhotné, nemocné, zdravotně postižené, vysokého věku nebo nemohoucí.
+Ukládání správních trestů za více přestupků
+Za dva nebo více přestupků téhož pachatele projednaných ve společném řízení se uloží správní trest podle ustanovení vztahujícího se na přestupek nejpřísněji trestný. Jsou-li horní hranice sazeb pokut stejné, uloží se správní trest podle ustanovení vztahujícího se na přestupek nejzávažnější.
+Jsou-li společně projednávány dva nebo více přestupků, správní orgán může uložit pokutu ve vyšší sazbě, a to tak, že horní hranice sazby pokuty za přestupek nejpřísněji trestný se zvyšuje až o polovinu, nejvýše však do částky, která je součtem horních hranic sazeb pokut za jednotlivé společně projednávané přestupky.
+Spolu se správním trestem uloženým podle odstavce 1 nebo 2 lze uložit i jiný druh správního trestu, jestliže by jej bylo možno uložit za některý ze společně projednávaných přestupků.
+Podmíněné upuštění od uložení správního trestu
+Od uložení správního trestu lze podmíněně upustit, jestliže vzhledem k povaze a závažnosti spáchaného přestupku, kterým byla způsobena majetková újma (dále jen „škoda“), anebo jehož spácháním se pachatel bezdůvodně obohatil, a osobě pachatele lze důvodně očekávat, že již samotné projednání věci před správním orgánem postačí k jeho nápravě.
+Při podmíněném upuštění od uložení správního trestu se pachateli uloží, aby ve lhůtě stanovené správním orgánem nahradil škodu, kterou přestupkem způsobil, nebo aby vydal bezdůvodné obohacení získané přestupkem, a zároveň se stanoví způsob, jakým tak pachatel má učinit; jestliže pachatel ve stanovené lhůtě škodu způsobenou přestupkem neuhradí nebo nevydá bezdůvodné obohacení získané přestupkem anebo tak neučiní stanoveným způsobem, správní trest se mu uloží.
+Upuštění od uložení správního trestu
+Od uložení správního trestu lze upustit, jestliže o dvou nebo více přestupcích téhož pachatele nebylo konáno společné řízení a správní trest uložený za některý z těchto přestupků v samostatném řízení lze považovat za odpovídající správnímu trestu, který by byl jinak uložen ve společném řízení.
+Od uložení správního trestu lze též upustit, jestliže vzhledem k závažnosti přestupku, okolnostem jeho spáchání a osobě pachatele lze důvodně očekávat, že již samotné projednání věci před správním orgánem postačí k jeho nápravě.
+Mimořádné snížení výměry pokuty
+Pokutu lze uložit v částce nižší, než je zákonem stanovená dolní hranice sazby pokuty, jestliže
+vzhledem k okolnostem případu a osobě pachatele lze důvodně očekávat, že i tak lze jeho nápravy dosáhnout,
+je pokuta ukládána za pokus přestupku,
+pokuta uložená v rámci zákonem stanovené dolní hranice sazby by byla vzhledem k poměrům pachatele nepřiměřeně přísná, nebo
+pachatel spáchal přestupek, aby odvrátil útok nebo jiné nebezpečí, aniž byly zcela naplněny podmínky nutné obrany nebo krajní nouze, nebo překročil meze jiné okolnosti vylučující protiprávnost.
+Je-li výměra pokuty mimořádně snižována, musí být uložena pokuta alespoň ve výši jedné pětiny dolní hranice sazby pokuty stanovené zákonem.
+Jednotlivé správní tresty a jejich výkon
+Napomenutí
+Při ukládání napomenutí správní orgán upozorní pachatele na důsledky protiprávního jednání, jež mu podle zákona hrozí, pokud by se i v budoucnu dopouštěl podobného jednání.
+Pokuta
+Pokutu lze uložit ve výši stanovené zákonem. Není-li výše pokuty zákonem stanovena, pokutu lze uložit ve výši nepřesahující částku 1 000 Kč.
+Pokuta je splatná do 30 dnů ode dne, kdy rozhodnutí o přestupku nabylo právní moci, pokud správní orgán nestanoví lhůtu jinou.
+Zákaz činnosti
+Zakázat lze činnost, ke které je třeba veřejnoprávního oprávnění nebo kterou pachatel vykonává v pracovním nebo jiném obdobném poměru, došlo-li k přestupku při výkonu této činnosti nebo v přímé souvislosti s ní.
+Zákaz činnosti lze uložit jen tehdy, je-li to stanoveno zákonem, a nejvýše na dobu tam stanovenou. Není-li doba zákazu činnosti stanovena, lze zákaz činnosti uložit nejdéle na 3 roky.
+Do doby zákazu činnosti se započítává doba, po kterou pachatel na základě úředního opatření učiněného v souvislosti s projednávaným přestupkem již nesměl tuto činnost vykonávat.
+Po uplynutí poloviny doby, na niž byl uložen zákaz činnosti, může správní orgán, který zákaz činnosti uložil, od výkonu zbytku tohoto správního trestu upustit, jestliže pachatel prokáže způsobem svého života nebo provedením účinných opatření, že jeho další výkon není potřebný.
+Byla-li spolu se zákazem činnosti uložena též pokuta, která nebyla dosud uhrazena, popřípadě byla uhrazena pouze zčásti, nelze od výkonu zbytku zákazu činnosti upustit, dokud pachatel neprokáže, že pokutu nebo její zbylou část uhradil, anebo dokud nebylo rozhodnuto o rozložení úhrady pokuty na splátky nebo o odložení splatnosti pokuty.
+Zakázat nelze takovou činnost, jejíž výkon zákon ukládá.
+Propadnutí věci
+Propadnutí věci lze uložit jen, jde-li o věc,
+která byla ke spáchání přestupku užita nebo určena,
+kterou pachatel získal přestupkem nebo jako odměnu za něj, nebo
+kterou pachatel, byť i jen zčásti, nabyl za věc uvedenou pod písmenem b), pokud hodnota věci uvedené pod písmenem b) není ve vztahu k hodnotě nabyté věci zanedbatelná.
+Propadnutí věci lze uložit pouze tehdy, jde-li o věc náležející pachateli.
+Propadnutí věci nelze uložit, je-li hodnota věci v nápadném nepoměru k povaze přestupku. Vyžaduje-li to bezpečnost osob nebo majetku nebo jiný obdobný obecný zájem, k hodnotě věci se nepřihlíží.
+Vlastníkem propadlé věci se stává stát.
+Propadnutí náhradní hodnoty
+Jestliže pachatel věc, která by mohla být prohlášena za propadlou, před uložením propadnutí věci zničí, poškodí, zcizí, zatají, učiní neupotřebitelnou nebo zužitkuje, nebo jestliže jinak propadnutí takové věci zmaří, může mu být uloženo propadnutí náhradní hodnoty až do výše, která odpovídá hodnotě takové věci.
+Vlastníkem propadlé náhradní hodnoty se stává stát.
+Zveřejnění rozhodnutí o přestupku
+Zveřejnění rozhodnutí o přestupku lze uložit právnické nebo podnikající fyzické osobě, stanoví-li tak zákon. Při ukládání tohoto správního trestu dbá správní orgán na to, aby zásah do soukromí pachatele byl přiměřený povaze a závažnosti přestupku.
+Rozhodnutí o přestupku lze zveřejnit až po nabytí právní moci. Zveřejňuje se výroková část rozhodnutí o přestupku. Výroková část rozhodnutí, kterým se ukládá tento správní trest, obsahuje lhůtu, během níž se rozhodnutí zveřejní. Tato lhůta nesmí být kratší než 2 měsíce a delší než 6 měsíců a počíná běžet dnem nabytí právní moci rozhodnutí.
+Zveřejnění rozhodnutí o přestupku se provádí zveřejněním ve veřejném sdělovacím prostředku a vyvěšením na úřední desce správního orgánu.
+Zveřejnění rozhodnutí o přestupku vyvěšením na úřední desce správního orgánu provede na vlastní náklady správní orgán, který rozhodnutí vydal v prvním stupni, a to nejméně po dobu 15 dnů a nejdéle po dobu 2 měsíců.
+Zveřejnění rozhodnutí o přestupku ve veřejném sdělovacím prostředku, který určí správní orgán, zajistí správní orgán na náklady pachatele.
+Je-li pravomocné rozhodnutí, jímž byl uložen správní trest zveřejnění rozhodnutí o přestupku (dále jen „původní rozhodnutí“), zrušeno v přezkumném nebo novém řízení o přestupku anebo v soudním řízení správním, správní orgán nebo soud, který původní rozhodnutí zrušil, informuje do 30 dnů ode dne nabytí právní moci rozhodnutí, kterým se původní rozhodnutí ruší, o takovém rozhodnutí správní orgán, který původní rozhodnutí vydal; správní orgán, který původní rozhodnutí vydal, zveřejní každé pravomocné rozhodnutí, kterým se původní rozhodnutí ruší, a to na vlastní náklady a obdobným způsobem, jakým bylo zveřejněno původní rozhodnutí.
+Obsahem zveřejněného rozhodnutí o přestupku nesmějí být údaje umožňující identifikaci jiné osoby než pachatele.
+OCHRANNÁ OPATŘENÍ
+Druhy ochranných opatření
+Ochranná opatření jsou
+omezující opatření a
+zabrání věci nebo náhradní hodnoty.
+Omezující opatření
+Omezující opatření spočívá v zákazu navštěvovat určená veřejně přístupná místa nebo místa, kde se konají sportovní, kulturní a jiné společenské akce, popřípadě v povinnosti zdržet se styku s určitou osobou nebo vymezeným okruhem osob nebo v povinnosti podrobit se vhodnému programu pro zvládání agrese nebo násilného chování.
+Omezující opatření lze uložit fyzické osobě, stanoví-li tak zákon, a to za předpokladu, že existuje přímá souvislost mezi spáchaným přestupkem a omezujícím opatřením, které má být uloženo.
+Omezující opatření musí být přiměřené povaze a závažnosti spáchaného přestupku a osobním poměrům pachatele; lze je uložit pouze spolu se správním trestem, a to nejdéle na dobu 1 roku. Omezující opatření lze uložit s účinky též mimo správní obvod správního orgánu, který je ukládá.
+Dodržování uloženého omezujícího opatření kontroluje správní orgán, který je uložil, má-li omezující opatření účinky pouze v jeho správním obvodu. Má-li omezující opatření účinky též mimo správní obvod správního orgánu, který je uložil, dodržování omezujícího opatření kontroluje ve svém správním obvodu správní orgán, který je uložil, a dále správní orgán stejného druhu jako ten, který omezující opatření uložil a v jehož správním obvodu má omezující opatření účinky.
+Správní orgán, který omezující opatření uložil s účinky mimo svůj správní obvod, o této skutečnosti do 5 pracovních dnů ode dne nabytí právní moci rozhodnutí o uložení omezujícího opatření informuje správní orgán stejného druhu, v jehož správním obvodu má omezující opatření účinky.
+Je-li to s ohledem na povahu uloženého omezujícího opatření možné, jeho dodržování kontrolují též orgán Policie České republiky, v jehož územním obvodu má omezující opatření účinky, a obecní policie, která vykonává působnost ve správním obvodu obce, v němž má omezující opatření účinky. Správní orgán, který omezující opatření uložil, a správní orgán stejného druhu, v jehož správním obvodu má omezující opatření účinky, informují o uloženém omezujícím opatření orgán Policie České republiky a obecní policii.
+Omezující opatření spočívající v povinnosti podrobit se vhodnému programu pro zvládání agrese nebo násilného chování může být uloženo fyzické osobě, která se dopustila přestupku vykazujícího zejména znaky užití násilí v rodině nebo partnerském vztahu. Při ukládání omezujícího opatření podle věty první správní orgán po konzultaci s pachatelem stanoví konkrétní typ vhodného programu, včetně obsahu, rozsahu a způsobu jeho provádění tak, aby zohledňoval výchovné a preventivní působení na pachatele a zároveň odpovídal jeho individuálním potřebám. Za účelem kontroly dodržování tohoto omezujícího opatření si správní orgán vyžádá od poskytovatele vhodného programu pro zvládání agrese nebo násilného chování písemnou zprávu obsahující informace o dodržování podmínek uloženého omezujícího opatření ze strany pachatele. Náklady spojené s účastí pachatele v programu pro zvládání agrese nebo násilného chování je pachatel povinen uhradit poskytovateli tohoto programu, není-li tento program poskytován bezplatně.
+Zabrání věci
+Nebylo-li uloženo propadnutí věci uvedené v § 48 odst. 1, lze rozhodnout, že se taková věc zabírá, jestliže
+do 60 dnů ode dne, kdy přestupek vyšel najevo, se nezjistí skutečnosti odůvodňující zahájení řízení o přestupku proti určité osobě,
+náleží pachateli, proti němuž nelze vést řízení o přestupku nebo jemuž za přestupek nelze uložit správní trest,
+náleží pachateli, u něhož bylo od uložení správního trestu za přestupek upuštěno nebo podmíněně upuštěno,
+nenáleží pachateli nebo mu nenáleží zcela, nebo
+vlastník věci není znám,
+a jestliže to vyžaduje bezpečnost osob nebo majetku anebo jiný obdobný obecný zájem.
+Bez splnění podmínek podle odstavce 1 lze rozhodnout o zabrání věci pouze v případě, že je výnosem přestupku, byť nikoli bezprostředním.
+Vlastníkem zabrané věci se stává stát.
+O zabrání věci nelze rozhodnout, uplynulo-li od jednání majícího znaky přestupku 5 let.
+Zabrání náhradní hodnoty
+Jestliže ten, komu náleží věc, která by mohla být zabrána, ji před zabráním zničí, poškodí, zcizí, zatají, učiní neupotřebitelnou nebo zužitkuje, nebo jestliže jinak zabrání takové věci zmaří, může mu být uloženo zabrání náhradní hodnoty až do výše, která odpovídá hodnotě takové věci.
+Vlastníkem zabrané náhradní hodnoty se stává stát.
+ZVLÁŠTNÍ USTANOVENÍ O MLADISTVÝCH
+Mladistvý
+Mladistvým je ten, kdo v době spáchání přestupku dovršil patnáctý rok a nepřekročil osmnáctý rok svého věku.
+Ukládání správního trestu mladistvému
+Při ukládání správního trestu mladistvému se přihlíží k jeho osobnosti včetně jeho věku a rozumové a mravní vyspělosti, jakož i k jeho osobním poměrům tak, aby jeho další vývoj byl co nejméně ohrožen.
+Pokuta
+Horní hranice sazby pokuty se u mladistvého snižuje na polovinu, přičemž však nesmí přesahovat částku 5 000 Kč; to neplatí, je-li mladistvý podnikající fyzickou osobou.
+Zákaz činnosti
+Zákaz činnosti nelze mladistvému uložit, jestliže by výkon tohoto správního trestu bránil přípravě na jeho povolání.
+Zákaz činnosti lze mladistvému uložit nejdéle na dobu 1 roku.
+Upuštění od uložení správního trestu
+Od uložení správního trestu mladistvému lze též upustit, jestliže vzhledem k povaze spáchaného přestupku a k dosavadnímu způsobu života mladistvého lze důvodně očekávat, že uložení omezujícího opatření zajistí jeho nápravu lépe než správní trest.
+ŘÍZENÍ O PŘESTUPCÍCH
+PŘÍSLUŠNOST SPRÁVNÍCH ORGÁNŮ A ZMĚNY PŘÍSLUŠNOSTI
+Věcná příslušnost
+Nestanoví-li zákon jinak, je správním orgánem příslušným k řízení obecní úřad obce s rozšířenou působností.
+Obecní úřad je příslušný k řízení o přestupcích
+proti pořádku ve státní správě spáchaných porušením povinnosti stanovené v nařízení obce nebo kraje,
+proti pořádku v územní samosprávě,
+proti veřejnému pořádku,
+proti občanskému soužití a
+proti majetku.
+Komise pro projednávání přestupků
+Starosta může zřizovat jako zvláštní orgány obce komise pro projednávání přestupků (dále jen „komise“). Komise může projednávat přestupky proti pořádku ve státní správě spáchané porušením povinnosti stanovené v nařízení obce nebo kraje, přestupky proti pořádku v územní samosprávě, přestupky proti veřejnému pořádku, přestupky proti občanskému soužití, přestupky proti majetku a přestupky, o kterých to stanoví jiný zákon. Při zřízení komise starosta určí, které přestupky komise projednává namísto obecního úřadu.
+Starosta jmenuje a odvolává předsedu komise a další její členy. Předseda komise musí splňovat požadavky podle § 111.
+Komise má lichý počet členů.
+Místní příslušnost
+K řízení je místně příslušný správní orgán, v jehož správním obvodu byl přestupek spáchán.
+Nelze-li místní příslušnost správního orgánu určit podle odstavce 1 nebo byl-li přestupek spáchán v cizině a podezřelý z přestupku je státním občanem České republiky nebo osobou bez státní příslušnosti, která má na území České republiky povolen trvalý pobyt, je k řízení místně příslušný správní orgán, v jehož správním obvodu podezřelý z přestupku má nebo naposledy měl trvalý pobyt.
+Nelze-li místní příslušnost správního orgánu určit podle odstavce 1 nebo byl-li přestupek spáchán v cizině a podezřelý z přestupku je právnickou nebo podnikající fyzickou osobou, která má na území České republiky své sídlo, nebo zde vykonává svoji činnost, nebo zde má svůj nemovitý majetek, je k řízení místně příslušný správní orgán, v jehož správním obvodu podezřelý z přestupku má nebo naposledy měl sídlo, vykonává nebo vykonával svoji činnost, nebo má nebo měl svůj nemovitý majetek.
+Nelze-li místní příslušnost správního orgánu určit podle předchozích odstavců nebo je-li místně příslušných více správních orgánů, provede řízení správní orgán, v jehož správním obvodu vyšel přestupek nejdříve najevo.
+Vyloučení z projednávání a rozhodování věci
+Je-li podezřelým z přestupku územní samosprávný celek, jehož orgán je příslušným správním orgánem k řízení o tomto přestupku, nadřízený správní orgán usnesením pověří řízením o tomto přestupku jiný věcně příslušný podřízený správní orgán ve svém správním obvodu. Obdobně se postupuje, je-li podezřelým z přestupku člen zastupitelstva územního samosprávného celku, jehož orgán je příslušným správním orgánem k řízení o tomto přestupku.
+Je-li podezřelým z přestupku územní samosprávný celek, jehož orgán je odvolacím správním orgánem vůči správnímu orgánu příslušnému k řízení o tomto přestupku, nadřízený správní orgán odvolacího správního orgánu usnesením pověří řízením o tomto přestupku jiný věcně příslušný správní orgán ve správním obvodu jiného odvolacího správního orgánu. Obdobně se postupuje, je-li podezřelým z přestupku člen zastupitelstva územního samosprávného celku, jehož orgán je odvolacím správním orgánem vůči správnímu orgánu příslušnému k řízení o tomto přestupku.
+Předání věci
+Správní orgán věc bezodkladně i v průběhu řízení předá
+orgánu činnému v trestním řízení, nasvědčují-li zjištěné skutečnosti tomu, že byl spáchán trestný čin, nebo
+orgánu příslušnému podle jiného zákona k projednání skutku, který má znaky přestupku osoby uvedené v § 4 odst. 4 nebo § 4 odst. 5 písm. c), anebo osoby uvedené v § 4 odst. 5 písm. a) a b), pokud o skutku nebylo rozhodnuto v prvním stupni.
+Správní orgán věc bezodkladně předá věcně a místně příslušnému správnímu orgánu, pokud není věcně nebo místně příslušný. Příslušný správní orgán může využít předané podklady, není-li to na újmu práv účastníků řízení.
+O předání věci správní orgán vydá usnesení, které se pouze poznamená do spisu.
+PRÁVNÍ STYK S CIZINOU
+Uskutečňování právního styku s cizinou
+Při dožádání cizozemského správního orgánu o poskytnutí právní pomoci, při poskytování právní pomoci cizozemskému správnímu orgánu, při doručování písemnosti ve styku s cizinou a při uznávání a výkonu cizozemského rozhodnutí správního orgánu, kterým byl uložen správní trest, se ve věcech týkajících se přestupků postupuje podle mezinárodní smlouvy, která je součástí právního řádu České republiky, nebo podle zákona.
+Není-li v mezinárodní smlouvě stanovena vnitrostátní příslušnost k
+vyřizování dožádání cizozemského správního orgánu o poskytnutí právní pomoci,
+poskytování právní pomoci cizozemskému správnímu orgánu,
+doručování písemnosti ve styku s cizinou, nebo
+uznávání a výkonu cizozemského rozhodnutí, kterým byl uložen správní trest,
+je příslušným orgánem věcně a místně příslušný správní orgán, který se s cizozemským správním orgánem stýká prostřednictvím svého ústředního správního úřadu, do jehož působnosti rozhodovaná věc náleží.
+DORUČOVÁNÍ
+Doručování veřejnou vyhláškou
+Doručuje-li se veřejnou vyhláškou, postupuje správní orgán tak, že na úřední desku vyvěsí pouze oznámení o možnosti převzít doručovanou písemnost.
+Doručování zmocněnci
+Jestliže se nedaří doručovat zmocněnci účastníka řízení, doručuje správní orgán pouze účastníkovi řízení.
+ÚČASTNÍCI ŘÍZENÍ, DALŠÍ OSOBY VYSTUPUJÍCÍ V ŘÍZENÍ A ORGÁN SOCIÁLNĚ-PRÁVNÍ OCHRANY DĚTÍ
+Účastníci řízení
+Účastníkem řízení je
+obviněný,
+poškozený v části řízení, která se týká jím uplatněného nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení, a
+vlastník věci, která může být nebo byla zabrána, v části řízení, která se týká zabrání věci nebo náhradní hodnoty.
+Obviněný
+Podezřelý z přestupku se stává obviněným, jakmile vůči němu správní orgán učiní první úkon v řízení.
+Dokud není pravomocným rozhodnutím o přestupku vyslovena vina obviněného, hledí se na něj jako na nevinného. V pochybnostech správní orgán rozhodne ve prospěch obviněného.
+Poškozený
+Správní orgán bezodkladně vyrozumí o možnosti uplatnit nárok na náhradu škody nebo uplatnit nárok na vydání bezdůvodného obohacení a o nařízeném ústním jednání osobu, které byla spácháním přestupku způsobena škoda nebo na jejíž úkor se obviněný spácháním přestupku obohatil, pokud je mu tato osoba známa. Současně tuto osobu poučí, že nárok na náhradu škody nebo na vydání bezdůvodného obohacení může uplatnit nejpozději při prvním ústním jednání nebo v jiné lhůtě, kterou jí určí. Pokud by vyrozumění osoby podle věty první bylo spojeno s neúměrnými obtížemi nebo náklady, doručí je správní orgán veřejnou vyhláškou; ustanovení § 66 se nepoužije.
+Osoba, které byla spácháním přestupku způsobena škoda nebo na jejíž úkor se obviněný spácháním přestupku bezdůvodně obohatil, se stává poškozeným uplatněním nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení. Nárok na náhradu škody nebo nárok na vydání bezdůvodného obohacení může uplatnit u správního orgánu nejpozději při prvním ústním jednání nebo ve lhůtě určené správním orgánem, nekoná-li se ústní jednání, nebylo-li již o tomto nároku rozhodnuto v občanskoprávním nebo jiném řízení, nebo pokud takové řízení neprobíhá. Jestliže osoba, které byla spácháním přestupku způsobena škoda nebo na jejíž úkor se obviněný spácháním přestupku bezdůvodně obohatil, uplatnila nárok na náhradu této škody nebo nárok na vydání takového bezdůvodného obohacení v předcházejícím trestním řízení o totožném skutku, stává se poškozeným zahájením řízení.
+Pokud osoba uplatní nárok na náhradu škody způsobené spácháním přestupku nebo nárok na vydání bezdůvodného obohacení, kterým se obviněný spácháním přestupku obohatil na její úkor, a o takovém nároku již bylo rozhodnuto v občanskoprávním nebo jiném řízení nebo pokud takové řízení probíhá, správní orgán ji vyrozumí o nemožnosti rozhodovat o náhradě této škody nebo o vydání takového bezdůvodného obohacení; pokud občanskoprávní nebo jiné řízení o náhradě škody způsobené přestupkem nebo o vydání bezdůvodného obohacení probíhá, vyrozumí osobu také o výsledku řízení o přestupku.
+Osoba přímo postižená spácháním přestupku
+Osoba přímo postižená spácháním přestupku má v řízení, k jehož zahájení nebo pokračování dala souhlas, jakož i v řízení, které lze zahájit nebo v již zahájeném řízení pokračovat bez takového souhlasu, právo na vyrozumění o zahájení řízení, právo navrhovat důkazy a činit jiné návrhy po celou dobu řízení, právo na poskytnutí informací o řízení, právo vyjádřit v řízení své stanovisko, právo nahlížet do spisu, právo účastnit se ústního jednání a být přítomna při všech úkonech v řízení, právo vyjádřit se před vydáním rozhodnutí k jeho podkladům a právo na oznámení rozhodnutí.
+Zákonný zástupce a opatrovník mladistvého obviněného a orgán sociálně-právní ochrany dětí
+Zákonný zástupce a opatrovník mladistvého obviněného a orgán sociálně-právní ochrany dětí má právo na vyrozumění o zahájení řízení, právo navrhovat důkazy a činit jiné návrhy po celou dobu řízení, právo na poskytnutí informací o řízení potřebných k hájení práv a oprávněných zájmů mladistvého obviněného, právo vyjádřit v řízení své stanovisko, právo nahlížet do spisu, právo účastnit se ústního jednání a být přítomen při všech úkonech v řízení, právo vyjádřit se před vydáním rozhodnutí k jeho podkladům, právo na oznámení rozhodnutí, právo podat odvolání ve prospěch mladistvého obviněného proti rozhodnutí o přestupku nebo proti rozhodnutí o schválení dohody o narovnání a právo podat žádost o obnovu řízení nebo o vydání nového rozhodnutí. Zákonný zástupce a opatrovník mladistvého obviněného má právo zvolit mladistvému obviněnému zmocněnce.
+Je-li za tentýž skutek obviněn také zákonný zástupce nebo opatrovník mladistvého obviněného a nemá-li mladistvý obviněný jiného zákonného zástupce nebo opatrovníka, vykonává práva podle odstavce 1 pouze orgán sociálně-právní ochrany dětí. Správní orgán o tom rozhodne usnesením, které se oznamuje pouze mladistvému obviněnému, jeho zákonnému zástupci, opatrovníkovi a orgánu sociálně-právní ochrany dětí.
+Je-li důvodná obava, že zákonný zástupce nebo opatrovník mladistvého obviněného nebude řádně hájit zájmy mladistvého obviněného, vykonává práva podle odstavce 1 pouze orgán sociálně-právní ochrany dětí. Správní orgán o tom rozhodne usnesením, které se oznamuje pouze mladistvému obviněnému, jeho zákonnému zástupci, opatrovníkovi a orgánu sociálně-právní ochrany dětí.
+Ochrana osob vystupujících v řízení o přestupku
+Správní orgán vyloučí z nahlížení do spisu údaje o místě trvalého pobytu, popřípadě bydlišti, doručovací adrese, místě výkonu zaměstnání, povolání nebo podnikání osob vystupujících v řízení o přestupku na jejich žádost, vyžaduje-li to ochrana jejich soukromí nebo bezpečnosti. O žádosti podle věty první rozhodne správní orgán usnesením.
+Údaje podle odstavce 1 jsou vyloučeny z nahlížení do spisu, pokud byl přístup k těmto údajům omezen v předcházejícím trestním řízení o totožném skutku, je-li tato skutečnost správnímu orgánu známa. O vyloučení z nahlížení do spisu se učiní záznam do spisu.
+Nepřípustné zastoupení
+Správní orgán usnesením rozhodne o tom, že nepřipustí zastoupení na základě plné moci, pokud zmocněnec vystupuje v řízení o přestupcích v různých věcech opětovně, nejde-li o advokáta nebo jinou osobu poskytující právní služby soustavně a za úplatu podle jiného zákona.
+POSTUP PŘED ZAHÁJENÍM ŘÍZENÍ
+Oznamování přestupku
+Má-li orgán Policie České republiky nebo Vojenské policie (dále jen „orgán policie“) nebo jiný správní orgán důvodné podezření, že byl spáchán přestupek, a není-li sám příslušný k jeho projednání, oznámí tuto skutečnost bez zbytečného odkladu příslušnému správnímu orgánu. V oznámení uvede zejména, kdo je podezřelým z přestupku, pokud je mu znám, popis skutku, ve kterém je přestupek spatřován, místo a čas, kdy měl být přestupek spáchán, zákonné ustanovení obsahující skutkovou podstatu předmětného přestupku a důkazní prostředky, které jsou mu známy.
+Oznamování přestupku orgánem policie ve zvláštních případech
+Orgán policie učiní nezbytná šetření ke zjištění osoby podezřelé ze spáchání přestupku a k zajištění důkazních prostředků nezbytných pro pozdější dokazování před správním orgánem, nasvědčují-li okolnosti tomu, že byl spáchán přestupek
+proti veřejnému pořádku,
+proti občanskému soužití, v jehož důsledku došlo k ublížení na zdraví,
+proti majetku,
+proti pořádku ve státní správě spáchaný porušením povinnosti stanovené v nařízení obce nebo kraje,
+proti pořádku v územní samosprávě,
+podle zákona o silničním provozu, nejde-li o přestupek provozovatele vozidla podle § 125f,
+na úseku požární ochrany, nebo
+o němž to stanoví jiný zákon.
+O zjištěných skutečnostech sepíše orgán policie úřední záznam, který přiloží k oznámení. Orgán policie učiní oznámení příslušnému správnímu orgánu nejpozději do 30 dnů ode dne, kdy se o přestupku dozví.
+Orgán policie
+věc předá příslušnému orgánu, jde-li o jednání, které má znaky přestupku, nebo nasvědčují-li zjištěné skutečnosti, že jde o trestný čin, nebo
+věc odloží, není-li dáno podezření z přestupku nebo nelze-li přestupek projednat, anebo nezjistí-li do 30 dnů ode dne, kdy se o přestupku dozvěděl, skutečnosti odůvodňující podezření, že jej spáchala určitá osoba; pominou-li důvody odložení, věc oznámí, není-li na místě věc vyřídit jinak.
+Orgán policie na požádání vyrozumí do 30 dnů oznamovatele přestupku o provedených opatřeních.
+Součinnost
+Orgán veřejné moci provede bez zbytečného odkladu na žádost příslušného správního orgánu úkony potřebné k prověřování oznámení o přestupku, k projednání přestupku a k výkonu rozhodnutí. Pokud orgán veřejné moci není k provedení požadovaných úkonů příslušný, neprovede je a vyrozumí o tom příslušný správní orgán.
+Na žádost příslušného správního orgánu mu orgán veřejné moci bez zbytečného odkladu poskytne informace potřebné k prověřování oznámení o přestupku, k projednání přestupku a k výkonu rozhodnutí.
+Byl-li přestupek vykazující znaky užití násilí v rodině nebo partnerském vztahu spáchán na osobě mladší 18 let, nebo byla-li osoba mladší 18 let svědkem přestupku vykazujícího znaky užití násilí v rodině nebo partnerském vztahu, příslušný správní orgán o tom vyrozumí bez zbytečného odkladu orgán sociálně-právní ochrany dětí a zároveň jej informuje o všech podstatných skutečnostech, které zjistil.
+Odložení věci
+Správní orgán, aniž řízení zahájí, věc usnesením odloží, jestliže
+došlé oznámení neodůvodňuje zahájení řízení o přestupku nebo předání věci,
+podezřelý z přestupku požívá výsad a imunit podle mezinárodního práva,
+podezřelý z přestupku požívá výsad a imunit podle jiného zákona,
+podezřelý z přestupku v době spáchání skutku nedovršil patnáctý rok svého věku,
+podezřelý z přestupku nebyl v době spáchání skutku pro nepříčetnost za přestupek odpovědný,
+odpovědnost za přestupek zanikla,
+o totožném přestupku dříve zahájil řízení podle tohoto zákona proti téže osobě jiný správní orgán,
+fyzická osoba nebo podnikající fyzická osoba podezřelá ze spáchání přestupku zemřela, pokud odpovědnost podnikající fyzické osoby za přestupek nepřešla na osobu, která pokračuje v její podnikatelské činnosti,
+právnická osoba zanikla, pokud odpovědnost za přestupek nepřešla na jejího právního nástupce,
+o skutku již bylo pravomocně rozhodnuto správním orgánem nebo orgánem činným v trestním řízení způsobem uvedeným v § 77 odst. 2,
+o skutku již bylo rozhodnuto jako o disciplinárním deliktu a uložené opatření lze považovat za postačující, nebo
+nezjistí do 60 dnů od přijetí oznámení nebo ode dne, kdy se o přestupku dozvěděl, skutečnosti odůvodňující zahájení řízení proti určité osobě.
+Správní orgán, aniž řízení zahájí, věc usnesením odloží, jestliže se o totožném skutku vede trestní řízení.
+Usnesení o odložení věci podle odstavců 1 a 2 se pouze poznamená do spisu. Správní orgán o odložení věci vyrozumí osobu dotčenou jednáním podezřelého z přestupku, je-li mu známa. Pokud by vyrozumění osoby podle věty druhé bylo spojeno s neúměrnými obtížemi nebo náklady, doručí je správní orgán veřejnou vyhláškou; ustanovení § 66 se nepoužije.
+Správní orgán, aniž řízení zahájí, věc usnesením odloží, jestliže osoba přímo postižená spácháním přestupku nedala souhlas k zahájení řízení nebo tento souhlas vzala zpět, nejedná-li se o přestupek, který lze projednat i bez takového souhlasu; usnesení se pouze poznamená do spisu a osoba přímo postižená spácháním přestupku se o něm vhodným způsobem vyrozumí.
+Správní orgán, aniž řízení zahájí, může věc usnesením dále odložit, jestliže
+podezřelý z přestupku spáchal jedním skutkem více přestupků, které nebyly projednány ve společném řízení, a správní trest uložený za některý z nich lze považovat za postačující, nebo
+správní trest, který lze za přestupek uložit, je bezvýznamný vedle trestu, který byl podezřelému z přestupku uložen v trestním řízení za jiný skutek;
+usnesení se oznamuje podezřelému z přestupku; správní orgán o odložení věci vyrozumí osobu dotčenou jednáním podezřelého z přestupku, je-li mu známa. Pokud by vyrozumění osoby dotčené jednáním podezřelého z přestupku bylo spojeno s neúměrnými obtížemi nebo náklady, doručí je správní orgán veřejnou vyhláškou; ustanovení § 66 se nepoužije.
+Pokud správní orgán věc odloží podle odstavce 1 písm. d), oznámí tuto skutečnost orgánu sociálně-právní ochrany dětí a zákonnému zástupci nebo opatrovníkovi dítěte. Informuje je přitom o všech podstatných okolnostech, které v souvislosti s tímto skutkem zjistil.
+POSTUP V ŘÍZENÍ
+Zahájení řízení
+Překážky řízení
+Nikdo nemůže být obviněn z totožného přestupku za skutek, o němž již bylo proti téže osobě zahájeno řízení podle tohoto zákona nebo trestní řízení.
+Nikdo nemůže být obviněn z přestupku za skutek, o němž již bylo v jiném řízení proti téže osobě pravomocně rozhodnuto. Rozhodnutím podle věty první se rozumí rozhodnutí o tom, že se skutek nestal, nespáchal jej obviněný, spáchání skutku se nepodařilo obviněnému prokázat nebo že skutek je trestným činem nebo totožným přestupkem nebo není přestupkem, trestní stíhání bylo podmíněně zastaveno, trestní stíhání bylo zastaveno na základě schválení narovnání, bylo podmíněně odloženo podání návrhu na potrestání nebo bylo odstoupeno od trestního stíhání mladistvého.
+Zahájení řízení z moci úřední
+Správní orgán zahájí řízení o každém přestupku, který zjistí, a postupuje v řízení z moci úřední.
+Řízení je zahájeno doručením oznámení o zahájení řízení podezřelému z přestupku nebo ústním vyhlášením takového oznámení. O ústním vyhlášení oznámení o zahájení řízení vydá správní orgán účastníkům řízení na požádání potvrzení. Společné řízení je zahájeno doručením oznámení o zahájení řízení všem podezřelým z přestupku.
+Oznámení o zahájení řízení o přestupku obsahuje popis skutku, o kterém má být v řízení rozhodováno, a jeho předběžnou právní kvalifikaci.
+Má-li být v řízení rozhodováno také o jiném skutku, než pro který bylo oznámeno zahájení řízení, postupuje správní orgán obdobně podle odstavců 2 a 3. Pokud v průběhu řízení správní orgán změní právní kvalifikaci skutku, vyrozumí o tom obviněného.
+Zahájení řízení se souhlasem osoby přímo postižené spácháním přestupku
+Řízení o přestupku, o němž tak stanoví jiný zákon, lze zahájit a v již zahájeném řízení pokračovat pouze se souhlasem osoby přímo postižené spácháním přestupku. Je-li osob přímo postižených spácháním přestupku více, postačí souhlas pouze jedné z nich.
+Správní orgán poučí osobu přímo postiženou spácháním přestupku, je-li mu známa, o právu podle odstavce 1 a určí jí lhůtu k podání souhlasu. Lhůta nesmí být kratší než 30 dnů.
+Osoba přímo postižená spácháním přestupku může vzít souhlas podle odstavce 1 kdykoliv zpět, a to až do doby vydání rozhodnutí o odvolání.
+Osoba přímo postižená spácháním přestupku nemůže dát souhlas podle odstavce 1, jestliže jej nedala ve lhůtě podle odstavce 2 nebo již daný souhlas vzala zpět.
+Byla-li spácháním přestupku postižena osoba mladší 18 let nebo byl-li přestupek důvodem vykázání ze společného obydlí, zahájí správní orgán řízení nebo v již zahájeném řízení pokračuje bez souhlasu osoby přímo postižené spácháním přestupku.
+Průběh řízení
+Ústní jednání
+Správní orgán může nařídit ústní jednání.
+Správní orgán nařídí ústní jednání na požádání obviněného, je-li to nezbytné k uplatnění jeho práv; jinak návrh zamítne usnesením, které se oznamuje pouze obviněnému. O právu žádat nařízení ústního jednání musí být obviněný poučen. Správní orgán nařídí ústní jednání i bez požádání obviněného, je-li to nezbytné pro zjištění stavu věci. Správní orgán prvního stupně nařídí ústní jednání i bez požádání obviněného, je-li obviněným mladistvý.
+Správní orgán může nařídit ústní jednání na požádání poškozeného, je-li to třeba k rozhodnutí o nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení. O právu žádat nařízení ústního jednání musí být poškozený poučen. O zamítnutí návrhu poškozeného na nařízení ústního jednání se rozhodne usnesením, které se oznamuje pouze poškozenému.
+K ústnímu jednání správní orgán předvolá účastníky řízení. Ústní jednání lze konat bez přítomnosti obviněného jen tehdy, jestliže byl řádně předvolán a souhlasí s konáním ústního jednání bez vlastní přítomnosti nebo pokud se na předvolání nedostaví bez náležité omluvy nebo bez dostatečného důvodu.
+Řízení navazující na kontrolu
+V řízení navazujícím na výkon kontroly mohou být skutečnosti zjištěné při kontrole jediným podkladem rozhodnutí o přestupku.
+Dokazování
+Správní orgán může provést výslech obviněného; je-li to nezbytné k uplatnění práv obviněného, správní orgán výslech provede. Výslech obviněného nesmí být proveden za stejných podmínek, za jakých nesmí být vyslýchán svědek.
+Obviněný má právo nevypovídat. Správní orgán nesmí obviněného nutit k výpovědi nebo doznání. Správní orgán obviněného před výslechem poučí o právu nevypovídat a o zákazu provádět výslech.
+Účastníci řízení mají právo klást otázky sobě navzájem, svědkům a znalcům. Zákonný zástupce a opatrovník mladistvého obviněného, osoba přímo postižená spácháním přestupku, která má v řízení práva podle § 71, a orgán sociálně-právní ochrany dětí mají právo klást otázky účastníkům řízení, svědkům a znalcům. Dotazovaná osoba má právo odmítnout odpovědět a nesmí být tázána za stejných podmínek jako svědek. Správní orgán tuto osobu poučí o právu nevypovídat a o zákazu provádět výslech.
+Výslech svědka, který je osobou mladší 15 let, správní orgán provádí pouze v nezbytných případech; správní orgán při výslechu postupuje zvlášť šetrně a současně tak, aby nebylo nutné výslech znovu opakovat. Výslechu mohou být přítomni zákonný zástupce nebo opatrovník vyslýchané osoby, nebude-li jejich přítomnost na újmu práv vyslýchané osoby. K výslechu správní orgán přibere orgán sociálně-právní ochrany dětí nebo jinou osobu mající zkušenosti s výchovou mládeže, pokud by se zřetelem na předmět výslechu a stupeň duševního vývoje vyslýchané osoby přispěla k správnému vedení výslechu. Svědkovi, který je osobou mladší 15 let, lze klást otázky jen prostřednictvím oprávněné úřední osoby.
+Záruka za splnění povinnosti
+Správní orgán může k zajištění účelu řízení uložit obviněnému záruku za splnění povinnosti, která by mohla být uložena v řízení o přestupku, pokud má důvodné podezření, že se obviněný bude vyhýbat potrestání za přestupek nebo výkonu správního trestu nebo bude mařit či ztěžovat řízení o přestupku, výkon správního trestu nebo náhradu škody anebo vydání bezdůvodného obohacení poškozenému. Záruku za splnění povinnosti podle věty první lze uložit osobě podezřelé ze spáchání přestupku i před zahájením řízení o přestupku.
+Pokud pominou důvody pro uložení záruky, správní orgán rozhodnutí o uložení záruky zruší a vrátí ji obviněnému.
+Záruku za splnění povinnosti lze uložit též příkazem, popřípadě příkazovým blokem, jde-li o peněžitou záruku za splnění povinnosti.
+Zrušení, zánik a přeměna právnické osoby
+Správní orgán zakáže zrušení, zánik nebo přeměnu obviněné právnické osoby, pokud má důvodné podezření, že by se právnická osoba mohla svým zánikem vyhnout potrestání za přestupek nebo výkonu správního trestu nebo že by mohla zmařit uspokojení nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení, není-li takový postup zjevně nepřiměřený vzhledem k povaze a závažnosti přestupku, ze kterého je obviněna. Byla-li právnická osoba založena nebo zřízena na dobu určitou nebo k dosažení určitého účelu a po zahájení řízení o přestupku uplynula doba, na niž byla založena nebo zřízena, nebo se naplnil účel, pro který byla založena nebo zřízena, hledí se na ni od tohoto okamžiku do pravomocného ukončení řízení, jako by byla založena nebo zřízena na dobu neurčitou.
+Rozhodnutí o zákazu zrušení, zániku nebo přeměny se oznamuje pouze obviněné právnické osobě; odvolání proti tomuto rozhodnutí nemá odkladný účinek. Správní orgán zruší zákaz, pominou-li důvody pro jeho vydání.
+Rozhodnutí o zákazu zrušení, zániku nebo přeměny právnické osoby správní orgán zruší, pokud byly splněny veškeré povinnosti uložené právnické osobě jako pachateli přestupku pravomocným rozhodnutím o přestupku nebo nabylo právní moci usnesení o zastavení řízení o přestupku. Rozhodnutí podle věty první může být prvním úkonem v řízení.
+Správní orgán o zákazu podle odstavce 1 a o jeho zrušení uvědomí orgán veřejné moci nebo osobu, které vedou veřejný rejstřík nebo jiný zákonem určený rejstřík, registr nebo evidenci právnických osob. Orgán veřejné moci nebo osoba, které vedou veřejný rejstřík nebo jiný zákonem určený rejstřík, registr nebo evidenci právnických osob, po oznámení zákazu podle odstavce 1 nezapíší zrušení nebo přeměnu právnické osoby do takového rejstříku, registru nebo evidence, ani neprovedou její výmaz, ledaže je správní orgán uvědomil o zrušení tohoto zákazu.
+Pokud správní orgán vydá zákaz podle odstavce 1, obviněná právnická osoba nebude zrušena, nezanikne nebo nedojde k její přeměně.
+Přeměnou se pro účely tohoto zákona rozumí sloučení, splynutí nebo rozdělení právnické osoby, převod jmění na společníka, změna právní formy právnické osoby nebo přemístění sídla právnické osoby do zahraničí.
+Přerušení řízení
+Správní orgán usnesením přeruší řízení také tehdy, byla-li v téže věci podána kasační stížnost podle soudního řádu správního.
+Správní orgán může usnesením přerušit řízení, jestliže obviněný není schopen chápat smysl řízení pro přechodnou duševní poruchu, která nastala až po spáchání skutku, který je předmětem řízení.
+Správní orgán může usnesením přerušit řízení, pokud lze očekávat uložení trestu obviněnému za jiný skutek v trestním řízení, přičemž správní trest, který lze uložit v řízení o přestupku, je bezvýznamný vedle trestu, jehož uložení lze očekávat v trestním řízení.
+Zastavení řízení
+Správní orgán usnesením zastaví řízení, jestliže
+skutek, o němž se vede řízení, se nestal nebo není přestupkem,
+skutek nespáchal obviněný,
+spáchání skutku, o němž se vede řízení, nebylo obviněnému prokázáno,
+obviněný požívá výsad a imunit podle mezinárodního práva,
+obviněný požívá výsad a imunit podle jiného zákona,
+obviněný v době spáchání skutku nedovršil patnáctý rok svého věku,
+obviněný nebyl v době spáchání skutku pro nepříčetnost za přestupek odpovědný,
+odpovědnost za přestupek zanikla,
+o totožném přestupku dříve zahájil řízení podle tohoto zákona proti téže osobě jiný správní orgán,
+o skutku již bylo pravomocně rozhodnuto správním orgánem nebo orgánem činným v trestním řízení způsobem uvedeným v § 77 odst. 2,
+obviněný zemřel nebo zanikl,
+o skutku již bylo rozhodnuto jako o disciplinárním deliktu a uložené opatření lze považovat za postačující,
+správní orgán v průběhu řízení zjistí, že se jedná o přestupek, který lze projednat pouze se souhlasem osoby přímo postižené spácháním přestupku a tento souhlas nebyl dán, nebo
+osoba přímo postižená spácháním přestupku vzala zpět souhlas se zahájením řízení nebo pokračováním v řízení, nejedná-li se o přestupek, který lze projednat i bez takového souhlasu.
+Usnesení o zastavení řízení podle odstavce 1 písm. d), e), f), i), j), k), m) a n) se pouze poznamená do spisu.
+Pokud bylo řízení zastaveno podle odstavce 1 písm. d) nebo e), obviněný přestal být osobou požívající výsad a imunit podle jiného zákona nebo mezinárodního práva a nejsou-li dány jiné důvody zastavení řízení podle odstavce 1, 4 nebo 5, správní orgán zahájí řízení.
+Správní orgán řízení o přestupku usnesením zastaví, jestliže se o totožném skutku vede trestní řízení. Řízení lze po ukončení trestního řízení o tomto skutku znovu zahájit, ledaže bylo o skutku rozhodnuto, že se nestal, nespáchal jej obviněný, spáchání skutku se nepodařilo obviněnému prokázat nebo že skutek je trestným činem, trestní stíhání bylo podmíněně zastaveno, trestní stíhání bylo zastaveno na základě schválení narovnání, bylo podmíněně odloženo podání návrhu na potrestání nebo bylo odstoupeno od trestního stíhání mladistvého.
+Správní orgán může usnesením zastavit řízení, jestliže správní trest, který lze za přestupek uložit, je bezvýznamný vedle trestu, který byl obviněnému uložen za jiný skutek v trestním řízení.
+Pokud správní orgán zastaví řízení podle odstavce 1 písm. f), oznámí tuto skutečnost orgánu sociálně-právní ochrany dětí a zákonnému zástupci nebo opatrovníkovi dítěte. Informuje je přitom o všech podstatných okolnostech, které v souvislosti s tímto skutkem zjistil.
+Narovnání
+Správní orgán rozhodnutím schválí dohodu o narovnání, kterou uzavře obviněný a poškozený, jestliže
+takový způsob vyřízení věci není v rozporu s veřejným zájmem a je dostačující vzhledem k povaze a závažnosti přestupku, k míře, jakou byl přestupkem dotčen veřejný zájem a osobě obviněného a jeho osobním poměrům,
+obviněný prohlásí, že spáchal skutek, pro který je stíhán, nejsou-li důvodné pochybnosti o tom, že jeho prohlášení bylo učiněno svobodně, vážně a určitě,
+obviněný uhradil poškozenému škodu nebo mu vydal bezdůvodné obohacení a
+obviněný složil na účet správního orgánu peněžní částku určenou k veřejně prospěšným účelům.
+Příjemce, výši peněžité částky podle odstavce 1 písm. d) a lhůtu k jejímu uhrazení určí správní orgán na požádání obviněného. Výše této částky nesmí být zjevně nepřiměřená povaze a závažnosti přestupku a výši pokuty, kterou lze za tento přestupek uložit.
+Správní orgán před vydáním rozhodnutí podle odstavce 1 vyslechne obviněného a poškozeného o způsobu a okolnostech uzavření dohody o narovnání, zda dohoda o narovnání mezi nimi byla uzavřena dobrovolně a zda souhlasí s jejím schválením. Obviněného současně poučí o právních důsledcích schválení dohody o narovnání.
+Příjemcem částky podle odstavce 1 písm. d) může být pouze stát, kraj, obec, státní fond, státní příspěvková organizace, příspěvková organizace územního samosprávného celku, registrovaná církev nebo náboženská společnost nebo jimi zřízená právnická osoba, spolek, veřejně prospěšná právnická osoba, fundace, veřejná vysoká škola nebo dobrovolný svazek obcí.
+Právní mocí rozhodnutí podle odstavce 1 končí řízení.
+Zvláštní druhy řízení
+Společné řízení
+Pokud se podezřelý dopustil více přestupků, jejichž skutková podstata se týká porušení právních povinností vyskytujících se ve stejné oblasti veřejné správy, a k jejich projednání je příslušný týž správní orgán, projednají se ve společném řízení.
+Ve společném řízení se projednají rovněž přestupky více podezřelých, jestliže spolu souvisejí, jejichž skutková podstata se týká porušení právních povinností vyskytujících se ve stejné oblasti veřejné správy a k jejich projednání je příslušný týž správní orgán.
+Ve společném řízení se neprojedná přestupek, který byl spáchán po zahájení řízení o jiném přestupku.
+Pokud se více mladistvých podezřelých dopustilo více přestupků, které spolu souvisejí, jejichž skutková podstata se týká porušení právních povinností vyskytujících se ve stejné oblasti veřejné správy a k rozhodnutí o těchto přestupcích je příslušný týž správní orgán, projednají se ve společném řízení, jestliže je to vhodné z hlediska zjištění stavu věci, hospodárnosti a rychlosti řízení a s přihlédnutím k osobám mladistvých podezřelých. Pokud se mladistvý podezřelý a jiný podezřelý dopustili více přestupků, které spolu souvisejí, jejichž skutková podstata se týká porušení právních povinností vyskytujících se ve stejné oblasti veřejné správy a k rozhodnutí o těchto přestupcích je příslušný týž správní orgán, projednají se ve společném řízení, jestliže je to nezbytné z hlediska zjištění stavu věci a není to na újmu mladistvého podezřelého.
+K urychlení řízení nebo z jiného důležitého důvodu lze jednotlivý skutek ze společného řízení usnesením vyloučit a vést o něm samostatné řízení.
+Řízení o náhradě škody a o vydání bezdůvodného obohacení
+Správní orgán působí na obviněného, aby dobrovolně nahradil škodu způsobenou spácháním přestupku nebo vydal bezdůvodné obohacení získané na úkor poškozeného spácháním přestupku, pokud takový nárok poškozený uplatnil v řízení o přestupku nebo v předcházejícím trestním řízení.
+Správní orgán uloží obviněnému povinnost nahradit poškozenému škodu, jestliže byla tato škoda způsobena spácháním přestupku, nebyla obviněným dobrovolně nahrazena a její výše byla spolehlivě zjištěna; jinak poškozenému nárok na náhradu škody nepřizná a odkáže ho s jeho nárokem na soud nebo jiný orgán veřejné moci. Obdobně postupuje rovněž v případě, kdy by zjišťování škody vedlo ke značným průtahům v řízení.
+Náhradu škody lze přiznat též pouze v části uplatněného nároku; ve zbytku správní orgán nárok na náhradu škody poškozenému nepřizná a odkáže ho na soud nebo jiný orgán veřejné moci.
+Pokud byla škoda nahrazena, správní orgán vyrozumí poškozeného o nemožnosti rozhodovat o jím uplatněném nároku.
+Pokud poškozený uplatní nárok na náhradu škody opožděně, správní orgán jej usnesením odkáže na soud nebo jiný orgán veřejné moci a vyrozumí o výsledku řízení o přestupku.
+Při rozhodování o nároku na vydání bezdůvodného obohacení získaného spácháním přestupku na úkor poškozeného se obdobně použijí odstavce 2 až 5.
+Příkaz
+Správní orgán může o přestupku rozhodnout příkazem. Příkazem lze uložit správní trest napomenutí, pokuty, zákazu činnosti, nebo propadnutí věci nebo náhradní hodnoty.
+Příkazem nelze rozhodnout
+v řízení zahájeném se souhlasem osoby přímo postižené spácháním přestupku,
+o nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení, nebo
+má-li být uložen správní trest mladistvému, vyjma správního trestu pokuty ukládaného příkazem na místě, nebo osobě s omezenou svéprávností.
+Pokud byl proti příkazu podán odpor, nelze obviněnému v řízení uložit jiný druh správního trestu s výjimkou napomenutí nebo vyšší výměru správního trestu, než mu byly uloženy příkazem; to neplatí, pokud správní orgán v řízení změní právní kvalifikaci skutku.
+Ukládání pokuty příkazem na místě
+Správní orgán může příkazem na místě uložit pouze pokutu, pokud nestačí domluva a obviněný nebo osoba jednající za obviněného, který je právnickou nebo podnikající fyzickou osobou, souhlasí se zjištěným stavem věci, s právní kvalifikací skutku, s uložením pokuty a její výší a s vydáním příkazového bloku. Příkazem na místě lze uložit pokutu nejvýše 10 000 Kč. Mladistvému obviněnému lze příkazem na místě uložit pokutu nejvýše 2 500 Kč; to neplatí, je-li mladistvý podnikající fyzickou osobou.
+Pokutu příkazem na místě může kromě příslušného správního orgánu uložit
+orgán Policie České republiky za přestupek proti pořádku ve státní správě spáchaný porušením povinnosti stanovené v nařízení obce nebo kraje, za přestupek proti pořádku v územní samosprávě, za přestupek proti veřejnému pořádku, přestupek proti občanskému soužití a přestupek proti majetku,
+orgán Vojenské policie za přestupek proti pořádku ve státní správě nebo za přestupek na úseku všeobecné vnitřní správy, pokud k němu došlo na úseku státní správy v působnosti Vojenské policie, za přestupek proti veřejnému pořádku, proti občanskému soužití a přestupek proti majetku, jde-li o přestupek osoby podle § 3 písm. b) nebo c) zákona o Vojenské policii,
+orgán státní báňské správy za přestupek proti pořádku ve státní správě, pokud jím byly porušeny povinnosti vyplývající z ustanovení horních předpisů v působnosti orgánů státní báňské správy,
+orgán inspekce práce za přestupek proti pořádku ve státní správě, pokud jím byly porušeny právní předpisy o bezpečnosti práce, dopustil-li se tohoto přestupku zaměstnanec na svém pracovišti nebo podnikatel ve svých prostorách, a
+strážník obecní policie za přestupek, jehož projednání je v působnosti obce, za přestupek proti občanskému soužití, pokud nebyl spáchán porušením zákona o silničním provozu, a za přestupek proti pořádku ve státní správě spáchaný neoprávněným stáním vozidla na místní komunikaci nebo jejím úseku, které lze podle nařízení obce použít ke stání jen za cenu sjednanou v souladu s cenovými předpisy a při splnění podmínek stanovených tímto nařízením.
+Příkaz na místě a příkazový blok
+Je-li příkazem na místě ukládána pokuta nebo peněžitá záruka za splnění povinnosti, obdrží obviněný příkazový blok. Podpisem příkazového bloku obviněným se příkaz na místě stává pravomocným a vykonatelným rozhodnutím. Nemůže-li obviněný peněžitou povinnost na místě splnit, vydá se mu příkazový blok na peněžitou povinnost na místě nezaplacenou s poučením o způsobu zaplacení, o lhůtě splatnosti a o následcích nezaplacení.
+V příkazovém bloku se uvede
+jméno, popřípadě jména, a příjmení obviněného nebo osoby jednající za obviněného, který je právnickou nebo podnikající fyzickou osobou, a název právnické osoby,
+datum narození obviněného nebo identifikační číslo osoby, pokud je obviněným právnická nebo podnikající fyzická osoba, bylo-li jim přiděleno,
+adresa místa trvalého pobytu obviněného nebo osoby jednající za obviněného, který je právnickou nebo podnikající fyzickou osobou, popřípadě adresa místa hlášeného pobytu cizince, má-li hlášený pobyt na území České republiky, nebo adresa sídla obviněného, je-li právnickou nebo podnikající fyzickou osobou, nebo adresa místa, kde se nachází jeho nemovitý majetek, nebo adresa místa, kde vykonává svoji činnost v případě, že na území České republiky nemá sídlo nebo je nelze zjistit a má na území České republiky nemovitý majetek nebo zde vykonává svoji činnost,
+podpis obviněného nebo osoby jednající za obviněného, který je právnickou nebo podnikající fyzickou osobou,
+popis skutku s označením místa, času a způsobu jeho spáchání nebo v případě záruky za splnění povinnosti popis skutkových zjištění,
+právní kvalifikace skutku včetně formy zavinění a ustanovení právního předpisu, na jehož základě je povinnost ukládána,
+výše uložené pokuty nebo záruky za splnění povinnosti,
+označení správního orgánu,
+jméno, příjmení a funkce oprávněné úřední osoby, nebo služební číslo anebo identifikační číslo oprávněné úřední osoby,
+podpis oprávněné úřední osoby,
+datum a místo vydání příkazového bloku a
+poučení, že podpisem obviněného nebo osoby jednající za obviněného, který je právnickou nebo podnikající fyzickou osobou, se příkazový blok stává pravomocným a vykonatelným rozhodnutím.
+Správní orgány odebírají příkazové bloky od příslušného celního úřadu, plyne-li výnos do státního rozpočtu nebo jiného veřejného rozpočtu, s výjimkou rozpočtu kraje nebo rozpočtu obce, a od krajského úřadu, plyne-li výnos do rozpočtu kraje nebo do rozpočtu obce. Příkazové bloky vydává Ministerstvo financí.
+ROZHODNUTÍ O PŘESTUPKU
+Výroková část rozhodnutí o přestupku
+Ve výrokové části rozhodnutí o přestupku, kterým je obviněný uznán vinným, se kromě náležitostí podle správního řádu uvede
+popis skutku s označením místa, času a způsobu jeho spáchání,
+právní kvalifikace skutku,
+vyslovení viny,
+forma zavinění u obviněného, který je fyzickou osobou,
+druh a výměra správního trestu, popřípadě výrok o podmíněném upuštění od uložení správního trestu, o upuštění od uložení správního trestu nebo o mimořádném snížení výměry pokuty,
+výrok o započtení doby, po kterou obviněný na základě úředního opatření učiněného v souvislosti s projednávaným přestupkem již nesměl činnost vykonávat, do doby zákazu činnosti,
+výrok o uložení ochranného opatření,
+výrok o nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení a
+výrok o náhradě nákladů řízení.
+Ve výrokové části rozhodnutí o přestupku, kterým je obviněný uznán vinným jako právní nástupce, se kromě náležitostí podle odstavce 1 uvedou
+identifikační údaje osoby, která skutek spáchala, a
+údaj o tom, že osoba, které je rozhodnutím ukládán správní trest, je právním nástupcem právnické osoby, která se dopustila přestupku, popřípadě osobou, která pokračuje v podnikatelské činnosti zemřelé podnikající fyzické osoby, která se dopustila přestupku.
+Ve výrokové části rozhodnutí o schválení dohody o narovnání se kromě náležitostí podle správního řádu uvede
+popis skutku s označením místa, času a způsobu jeho spáchání,
+právní kvalifikace skutku,
+forma zavinění u obviněného, který je fyzickou osobou,
+výrok o schválení dohody o narovnání,
+obsah dohody o narovnání zahrnující výši nahrazené škody nebo výši vydaného bezdůvodného obohacení, popřípadě způsob jiného odčinění škody nebo bezdůvodného obohacení vzniklých přestupkem,
+výše částky určené k veřejně prospěšným účelům s uvedením jejího příjemce,
+výrok o zastavení řízení,
+výrok o náhradě nákladů řízení a
+údaj o tom, že osoba, která uzavřela dohodu o narovnání, je právním nástupcem právnické osoby, která se dopustila přestupku, popřípadě osobou, která pokračuje v podnikatelské činnosti zemřelé podnikající fyzické osoby, která se dopustila přestupku.
+Lhůta pro vydání rozhodnutí
+Pokud nelze rozhodnutí vydat bezodkladně, vydá je správní orgán nejpozději do 60 dnů ode dne zahájení řízení.
+NÁKLADY ŘÍZENÍ
+Náhrada nákladů řízení
+Správní orgán uloží obviněnému, který byl uznán vinným, povinnost nahradit náklady řízení paušální částkou. Pokud bylo rozhodnutí o přestupku zrušeno jiným orgánem veřejné moci a tato skutečnost má za následek nesplnění podmínek pro uložení náhrady nákladů řízení, správní orgán nahrazené náklady vrátí.
+Povinnost nahradit náklady řízení paušální částkou správní orgán neuloží, bylo-li o přestupku rozhodnuto příkazem na místě.
+Správní orgán přizná poškozenému na jeho návrh náhradu v řízení účelně vynaložených nákladů spojených s uplatněním nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení vůči obviněnému, pokud byl poškozený ve věci nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení úspěšný a prokázal jejich vznik a výši; pokud byl poškozený úspěšný alespoň v části svého nároku, správní orgán mu přizná vůči obviněnému náhradu poměrné části těchto nákladů.
+ŘÍZENÍ O ODVOLÁNÍ
+Osoby oprávněné podat odvolání
+Proti rozhodnutí o přestupku, kterým byla vyslovena vina, se může odvolat
+obviněný v plném rozsahu,
+poškozený pouze proti výroku o nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení a výroku o nákladech spojených s uplatněním nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení, nebo
+zákonný zástupce a opatrovník mladistvého obviněného a orgán sociálně-právní ochrany dětí ve prospěch mladistvého obviněného pouze proti výroku o vině, o správním trestu, o ochranném opatření, o nároku na náhradu škody nebo nároku na vydání bezdůvodného obohacení a o náhradě nákladů řízení.
+Vlastník věci se může odvolat pouze proti výroku o zabrání věci nebo náhradní hodnoty.
+Proti rozhodnutí o schválení dohody o narovnání se může odvolat ten, kdo schválenou dohodu o narovnání uzavřel, zákonný zástupce a opatrovník mladistvého obviněného a orgán sociálně-právní ochrany dětí.
+Odvolání a postup správního orgánu prvního stupně
+Obviněný může v odvolání nebo v průběhu odvolacího řízení uvádět nové skutečnosti nebo důkazy. Ostatní účastníci, orgán sociálně-právní ochrany dětí a zákonný zástupce a opatrovník mladistvého obviněného a osoba přímo postižená spácháním přestupku, která má v řízení práva podle § 71, mohou uvádět nové skutečnosti nebo důkazy ve svých vyjádřeních vztahujících se k novým skutečnostem nebo důkazům, které obviněný uvede v odvolání nebo v průběhu odvolacího řízení.
+Včasné a přípustné odvolání proti rozhodnutí o přestupku má vždy odkladný účinek, který nelze vyloučit.
+Pokud před předáním spisu odvolacímu správnímu orgánu nastal některý z důvodů pro zastavení řízení podle § 86 odst. 1 písm. f), h), i), j), k), m) nebo n), správní orgán, který napadené rozhodnutí vydal, zastaví řízení a zruší napadené rozhodnutí, ledaže by rozhodnutí o odvolání mohlo mít význam pro náhradu škody nebo vydání bezdůvodného obohacení.
+Řízení u odvolacího správního orgánu
+Odvolací správní orgán přezkoumává napadené rozhodnutí v plném rozsahu.
+Odvolací správní orgán nemůže změnit výrok napadeného rozhodnutí o správním trestu nebo výrok o náhradě škody anebo výrok o vydání bezdůvodného obohacení v neprospěch obviněného.
+Pokud důvod, pro který odvolací správní orgán rozhodl ve prospěch některého z účastníků řízení, prospívá též jinému účastníkovi řízení, rozhodne odvolací správní orgán též v jeho prospěch.
+ZVLÁŠTNÍ POSTUPY PO PRÁVNÍ MOCI ROZHODNUTÍ O PŘESTUPKU
+Nové rozhodnutí
+Správní orgán může novým rozhodnutím rozhodnout o upuštění od výkonu zbytku správního trestu zákazu činnosti na návrh pachatele, jeho zákonného zástupce, opatrovníka nebo orgánu sociálně-právní ochrany dětí.
+Správní orgán novým rozhodnutím zruší výrok o podmíněném upuštění od uložení správního trestu a uloží pachateli správní trest, jestliže pachatel ve lhůtě stanovené správním orgánem neuhradí škodu způsobenou přestupkem nebo nevydá bezdůvodné obohacení získané přestupkem.
+Správní orgán novým rozhodnutím rozhodne o účasti pachatele na amnestii tak, že zruší uložený správní trest nebo jeho dosud nevykonanou část nebo uloží správní trest v jiné výměře anebo nařídí vyřazení přestupku z evidence přestupků vedené Rejstříkem trestů (dále jen „evidence přestupků“).
+Přezkumné řízení
+Vyjdou-li najevo skutečnosti, které odůvodňují posouzení skutku, o kterém již bylo pravomocně rozhodnuto jako o přestupku, jako trestného činu, zruší příslušný správní orgán rozhodnutí o přestupku v přezkumném řízení. Rozhodnutí o přestupku správní orgán zruší v přezkumném řízení též tehdy, pokud bylo vydáno přesto, že o totožném skutku již pravomocně rozhodl orgán činný v trestním řízení tak, že se nestal, nespáchal jej obviněný, spáchání skutku se nepodařilo obviněnému prokázat nebo že skutek je trestným činem, trestní stíhání bylo podmíněně zastaveno, trestní stíhání bylo zastaveno na základě schválení narovnání, bylo podmíněně odloženo podání návrhu na potrestání nebo bylo odstoupeno od trestního stíhání mladistvého.
+Přezkumné řízení podle odstavce 1 se zahájí
+do 3 měsíců ode dne, kdy se správní orgán dozvěděl o důvodu pro zahájení přezkumného řízení, a
+nejpozději do 3 let od zahájení trestního stíhání nebo ode dne nabytí právní moci rozhodnutí orgánu činného v trestním řízení o tom, že se skutek nestal, skutek nespáchal obviněný, že spáchání skutku se nepodařilo obviněnému prokázat nebo že skutek je trestným činem, trestní stíhání bylo podmíněně zastaveno, trestní stíhání bylo zastaveno na základě schválení narovnání, bylo podmíněně odloženo podání návrhu na potrestání nebo bylo odstoupeno od trestního stíhání mladistvého.
+Přezkumné řízení podle odstavce 1 nelze zahájit po uplynutí 3 let od právní moci rozhodnutí o přestupku.
+Přezkum příkazu na místě
+Přezkumné řízení, v němž bude přezkoumáván příkaz na místě, lze zahájit nejpozději do 6 měsíců od právní moci tohoto příkazu.
+Podnět k provedení přezkumného řízení podaný po uplynutí lhůty uvedené v odstavci 1 vyřizuje správní orgán, který vydal příkaz na místě. Skutečnost, že přezkumné řízení nelze zahájit, sdělí správní orgán účastníkovi řízení jen v případě, že o vyrozumění požádal, a to ve lhůtě 30 dnů ode dne, kdy podnět obdržel.
+Přechod úhrady pokuty na právního nástupce
+Pokud po nabytí právní moci rozhodnutí o přestupku, kterým byla pachateli, jenž je právnickou osobou, uložena pokuta, došlo k zániku pachatele před uplynutím lhůty pro nařízení exekuce, aniž byla pokuta uhrazena, a pachatel má právního nástupce, pak povinnost uhradit pokutu přechází na tohoto právního nástupce. Má-li pachatel více právních nástupců, za uhrazení pokuty odpovídají právní nástupci společně a nerozdílně.
+SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+Výkon působnosti
+Působnost stanovená orgánům obce a kraje podle tohoto zákona je výkonem přenesené působnosti.
+Projednáváním přestupků nelze pověřit komisi rady obce.
+Ústředním správním úřadem ve věci přestupků je ten ústřední správní úřad, do jehož působnosti náleží úsek státní správy, na němž došlo k porušení právní povinnosti zakládající odpovědnost za přestupek.
+Ministerstvo vnitra je ústředním správním úřadem ve věci přestupků v případech, kdy nelze ústřední správní úřad určit podle odstavce 3 a k projednání přestupku jsou příslušné orgány obce nebo kraje.
+Amnestie
+Amnestii ve věcech přestupků uděluje prezident republiky.
+Prezident republiky může
+nařídit, aby se řízení o přestupku nezahajovalo nebo, bylo-li zahájeno, aby se v něm nepokračovalo,
+odpustit nebo zmírnit uložený správní trest nebo jeho zbytek, nebo
+nařídit vyřazení přestupku z evidence přestupků.
+Amnestie nabývá účinnosti dnem vyhlášení ve Sbírce zákonů a mezinárodních smluv.
+Přenos příslušnosti na základě veřejnoprávní smlouvy
+Obec může uzavřít veřejnoprávní smlouvu o přenosu příslušnosti k projednávání přestupků pouze s obcí s rozšířenou působností nebo s obcí s pověřeným obecním úřadem, v jejímž správním obvodu se obec nachází. Obec může veřejnoprávní smlouvou přenášet pouze veškerou příslušnost k projednávání přestupků.
+Evidence přestupků
+Stanoví-li tak zákon, pravomocná rozhodnutí o přestupku a pravomocná rozhodnutí o účasti na amnestii se zapisují do evidence přestupků.
+Správní orgán příslušný k projednání přestupku zapisovaného do evidence přestupků si po zahájení řízení o takovém přestupku nebo před vydáním příkazu, je-li prvním úkonem v řízení, opatří opis z evidence přestupků týkající se obviněného nebo podezřelého z přestupku.
+Postup při zápisu do evidence přestupků
+Údaje do evidence přestupků zapisuje správní orgán, který o přestupku rozhodoval v posledním stupni, prostřednictvím elektronického formuláře, jehož podobu zveřejní Rejstřík trestů způsobem umožňujícím dálkový přístup, nebo prostřednictvím elektronické aplikace přístupné způsobem umožňujícím dálkový přístup, kterou spravuje Rejstřík trestů.
+V případě, kdy o uložení pokuty příkazem na místě rozhodovala obecní policie, provádí zápis obecní úřad; v hlavním městě Praze a ve statutárních městech provádí zápis městská policie. Obecní policie sdělí obecnímu úřadu údaje potřebné pro provedení zápisu do pěti pracovních dnů ode dne uložení pokuty příkazem na místě.
+Zápis údajů do evidence přestupků se provede nejpozději do pěti pracovních dnů ode dne, kdy rozhodnutí nabylo právní moci, nebo ode dne, kdy příslušný správní orgán obdržel podklad pro provedení zápisu. Záznam se provede ke dni nabytí právní moci rozhodnutí nebo uložení pokuty příkazem na místě.
+Námitkové řízení
+Domnívá-li se osoba, že údaje vedené o ní v evidenci přestupků nejsou v souladu s provedeným řízením o přestupku, rozhodnutím o účasti na amnestii anebo s rozhodnutím soudu, který rozhodl o žalobě proti rozhodnutí o přestupku, může podat u správního orgánu, který zápis provedl, námitku.
+Zjistí-li správní orgán, který zápis do evidence přestupků provedl, že námitka je oprávněná, údaje v evidenci přestupků bezodkladně opraví a osobu, která námitku podala, o tom vyrozumí; jinak rozhodne o neoprávněnosti námitky.
+Požadavky na oprávněnou úřední osobu
+Úřední osoba oprávněná na základě vnitřního předpisu správního orgánu nebo pověření vedoucím správního orgánu k provádění úkonů správního orgánu v řízení o přestupku (dále jen „oprávněná úřední osoba“) musí prokázat odbornou způsobilost zkouškou složenou u Ministerstva vnitra, pokud nemá vysokoškolské vzdělání v magisterském studijním programu právo a právní věda, právo nebo bezpečnostně právní studia na vysoké škole v České republice; zajištěním zkoušky může Ministerstvo vnitra pověřit jím zřízenou státní příspěvkovou organizaci.
+Oprávněná úřední osoba musí splnit požadavky podle odstavce 1 nejpozději do 18 měsíců ode dne, kdy začala provádět úkony správního orgánu v řízení o přestupku.
+Požadavky podle odstavce 1 musí splňovat předseda rozkladové komise. Požadavky podle odstavce 1 nemusí splňovat osoba projednávající přestupek příkazem na místě, ministr nebo vedoucí jiného ústředního správního úřadu.
+Odbornou způsobilost podle odstavce 1 prokazuje oprávněná úřední osoba osvědčením o vykonání zkoušky vydaným Ministerstvem vnitra. Obsahem zkoušky je ověření znalostí organizace a činnosti veřejné správy a právních předpisů v oblasti odpovědnosti za přestupek.
+Nevyhoví-li uchazeč u zkoušky, může zkoušku dvakrát opakovat. Opakovanou zkoušku je možné vykonat nejdříve za 60 dnů a nejpozději do 120 dnů ode dne konání zkoušky, při níž uchazeč nevyhověl.
+Ministerstvo vnitra stanoví vyhláškou podrobnosti obsahu a provádění zkoušky a náležitosti osvědčení o vykonání zkoušky.

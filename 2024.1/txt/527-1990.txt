@@ -1,0 +1,279 @@
+Účel zákona
+Účelem zákona je upravit práva a povinnosti vznikající z vytvoření a z uplatnění vynálezů a zlepšovacích návrhů.
+VYNÁLEZY
+PATENT NA VYNÁLEZ
+Na vynálezy, které splňují podmínky stanovené tímto zákonem, uděluje Úřad průmyslového vlastnictví (dále jen „Úřad“) patenty.
+Patentovatelnost vynálezů
+Patenty se udělují na vynálezy, které jsou nové, jsou výsledkem vynálezecké činnosti a jsou průmyslově využitelné.
+Za vynálezy se nepovažují zejména
+objevy, vědecké teorie a matematické metody;
+estetické výtvory;
+plány, pravidla a způsoby vykonávání duševní činnosti, hraní her nebo vykonávání obchodní činnosti, jakož i programy počítačů;
+podávání informací.
+Patentovatelnost předmětů nebo činností uvedených v odstavci 2 je vyloučena za předpokladu, že se přihláška vynálezu nebo patent týkají pouze těchto předmětů nebo činností.
+Způsoby chirurgického nebo terapeutického ošetřování lidského nebo zvířecího těla a diagnostické metody používané na lidském nebo zvířecím těle se nepovažují za průmyslově využitelné vynálezy ve smyslu odstavce 1. Toto ustanovení se nevztahuje na výrobky, zejména látky nebo směsi, určené k použití při těchto způsobech ošetřování a při těchto diagnostických metodách.
+Výluky z patentovatelnosti
+Patenty se neudělují:
+na vynálezy, jejichž využití by se příčilo veřejnému pořádku nebo dobrým mravům; to nelze vyvodit pouze z toho, že využití vynálezu je zakázáno právním předpisem;
+na odrůdy rostlin a plemena zvířat nebo v zásadě biologické způsoby pěstování rostlin či chovu zvířat; toto ustanovení neplatí pro mikrobiologické způsoby a výrobky těmito způsoby získané.
+Novost
+Vynález je nový, není-li součástí stavu techniky.
+Stavem techniky je vše, k čemu byl přede dnem, od něhož přísluší přihlašovateli právo přednosti (§ 27), umožněn přístup veřejnosti písemně, ústně, využíváním nebo jiným způsobem.
+Stavem techniky je i obsah přihlášek vynálezů podaných v České republice s dřívějším právem přednosti, pokud budou v den, od něhož přísluší přihlašovateli právo přednosti, nebo po tomto dni zveřejněny (§ 31). To platí i pro mezinárodní přihlášky vynálezů s dřívějším právem přednosti, v nichž je Úřad určeným úřadem, a evropské patentové přihlášky (§ 35a) s dřívějším právem přednosti, u nichž je platně určeným státem Česká republika. Přihlášky vynálezů utajované podle zvláštních předpisů se pokládají pro účely tohoto ustanovení za zveřejněné uplynutím 18 měsíců od vzniku práva přednosti.
+Ustanovení odstavců 1 až 3 nevylučují patentovatelnost použití látky nebo směsi při způsobech uvedených v § 3 odst. 4, pokud její použití při těchto způsobech není součástí stavu techniky.
+Stavem techniky není takové zveřejnění vynálezu, ke kterému nedošlo dříve než šest měsíců před podáním přihlášky vynálezu a které přímo nebo nepřímo vyplývá
+ze zřejmého zneužití vzhledem k přihlašovateli nebo k jeho právnímu předchůdci,
+ze skutečnosti, že přihlašovatel nebo jeho právní předchůdce vystavil vynález na úřední nebo úředně uznané výstavě podle mezinárodní smlouvy.
+V tomto případě je přihlašovatel povinen při podání přihlášky vynálezu uvést, že vynález byl vystaven a do čtyř měsíců po podání přihlášky vynálezu doložit osvědčením, že vynález byl vystaven podle mezinárodní smlouvy.
+Vynálezecká činnost
+Vynález je výsledkem vynálezecké činnosti, jestliže pro odborníka nevyplývá zřejmým způsobem ze stavu techniky.
+Pro hodnocení vynálezecké činnosti však není rozhodný obsah přihlášek vynálezů, které ke dni, od něhož přísluší přihlašovateli právo přednosti, nebyly zveřejněny (§ 31).
+Průmyslová využitelnost
+Vynález se považuje za průmyslově využitelný, může-li jeho předmět být vyráběn nebo jinak využíván v průmyslu, zemědělství nebo jiných oblastech hospodářství.
+Právo na patent
+Právo na patent má původce vynálezu nebo jeho právní nástupce.
+Původcem vynálezu je ten, kdo jej vytvořil vlastní tvůrčí prací.
+Spolupůvodci mají právo na patent v rozsahu, v jakém se podíleli na vytvoření vynálezu.
+Podnikový vynález
+Vytvořil-li původce vynález ke splnění úkolu z pracovního poměru, z členského nebo jiného obdobného pracovněprávního vztahu (dále jen „pracovní poměr“) k zaměstnavateli, přechází právo na patent na zaměstnavatele, není-li smlouvou stanoveno jinak. Právo na původcovství tím není dotčeno.
+Původce, který vytvořil vynález v pracovním poměru, je povinen zaměstnavatele o této skutečnosti neprodleně písemně vyrozumět a předat mu podklady potřebné k posouzení vynálezu.
+Neuplatní-li zaměstnavatel ve lhůtě tří měsíců od vyrozumění podle ustanovení odstavce 2 vůči původci právo na patent, přechází toto právo zpět na původce. Zaměstnavatel i původce jsou v této lhůtě povinni zachovávat vůči třetím osobám o vynálezu mlčenlivost.
+Původce, který vytvořil vynález v pracovním poměru, na nějž zaměstnavatel uplatnil právo na patent, má právo vůči zaměstnavateli na přiměřenou odměnu. Pro její výši je rozhodný technický a hospodářský význam vynálezu a přínos dosažený jeho možným využitím nebo jiným uplatněním, přičemž se přihlíží k materiálnímu podílu zaměstnavatele na vytvoření vynálezu a k rozsahu pracovních úkolů původce. Dostane-li se již vyplacená odměna do zjevného nepoměru s přínosem dosaženým pozdějším využitím nebo jiným uplatněním vynálezu, má původce právo na dodatečné vypořádání.
+Práva a povinnosti vyplývající z ustanovení § 9 zůstávají po skončení pracovního poměru původce se zaměstnavatelem nedotčena.
+Účinek patentu
+Majitel patentu (§ 34) má výlučné právo využívat vynález, poskytnout souhlas k využívání vynálezu jiným osobám, nebo na ně patent převést.
+Účinky patentu nastávají ode dne oznámení o udělení patentu ve Věstníku Úřadu průmyslového vlastnictví (dále jen „Věstník“).
+Přihlašovateli přísluší přiměřená náhrada od toho, kdo po zveřejnění přihlášky vynálezu (§ 31) její předmět využíval. Právo na přiměřenou náhradu lze uplatnit ode dne, od něhož nastávají účinky patentu.
+V případě mezinárodní přihlášky, jíž se žádá o udělení patentu v České republice, která byla zveřejněna podle mezinárodní smlouvy, přísluší přihlašovateli právo na přiměřenou náhradu podle odstavce 3 až po zveřejnění jejího překladu v českém jazyce (§ 31).
+Rozsah ochrany vyplývající z patentu nebo z přihlášky vynálezu je vymezen zněním patentových nároků. K výkladu patentových nároků se použije i popis a výkresy.
+Pro období do udělení patentu je rozsah ochrany vyplývající z přihlášky vynálezu vymezen zněním patentových nároků obsažených v přihlášce zveřejněné podle § 31. Patent, jak byl udělen nebo pozměněn v řízení o zrušení podle § 23, však zpětně určuje rozsah ochrany vyplývající z přihlášky vynálezu, pokud tím není ochrana rozšířena.
+Zákaz přímého využívání
+Nikdo nesmí bez souhlasu majitele patentu
+vyrábět, nabízet, uvádět na trh nebo používat výrobek, který je předmětem patentu, nebo k tomu účelu výrobek dovážet či skladovat anebo s ním jiným způsobem nakládat;
+využívat způsob, který je předmětem patentu, popřípadě nabízet tento způsob k využití;
+nabízet, uvádět na trh, používat nebo k tomuto účelu dovážet či skladovat výrobek přímo získaný způsobem, který je předmětem patentu; přitom shodné výrobky se považují za získané způsobem, který je předmětem patentu, je-li nanejvýš pravděpodobné, že výrobek byl vyroben způsobem, který je předmětem patentu, a majiteli patentu se přes přiměřené úsilí nepodařilo určit skutečně užitý výrobní způsob, dokud se neprokáže opak. Při dokazování opaku je nutno šetřit práv vyplývajících z ochrany obchodního tajemství.
+Zákaz nepřímého využívání
+Nikdo nesmí bez souhlasu majitele patentu dodávat nebo k dodání nabízet jiné osobě, než je osoba oprávněná využívat patentovaný vynález, prostředky týkající se podstatného prvku tohoto vynálezu a sloužící v tomto ohledu k jeho uskutečnění, jestliže je vzhledem k okolnostem zřejmé, že tyto prostředky jsou způsobilé k uskutečnění patentovaného vynálezu a jsou k němu určeny.
+Odstavec 1 se nepoužije, pokud těmito prostředky jsou výrobky běžně se vyskytující na trhu, ledaže třetí osoba ovlivnila odběratele, aby se dopustil jednání zakázaného § 13.
+Osoby vykonávající činnosti uvedené v § 18 písm. c) až e) se nepovažují za osoby oprávněné využívat vynález ve smyslu odstavce 1.
+Vyčerpání práv
+Majitel patentu nemá právo zakázat třetím osobám nakládat s výrobkem, který je předmětem chráněného vynálezu, jestliže tento výrobek byl uveden na trh v České republice majitelem patentu nebo s jeho souhlasem, ledaže by tu byly důvody pro rozšíření práv z patentu na uvedené činnosti.
+Souhlas (licence) k využívání vynálezu chráněného patentem se poskytuje písemnou smlouvou (dále jen „licenční smlouva“).
+Licenční smlouva nabývá účinnosti vůči třetím osobám zápisem do patentového rejstříku (§ 69).
+Patent se převádí písemnou smlouvou, která nabývá účinnosti vůči třetím osobám zápisem do patentového rejstříku.
+Spolumajitelství patentu
+Přísluší-li práva z téhož patentu několika osobám (dále jen „spolumajitelé“), spravují se vztahy mezi nimi obecnými předpisy o podílovém spoluvlastnictví.
+Pokud není spolumajiteli dohodnuto jinak, má právo využívat vynález každý ze spolumajitelů patentu.
+K platnému uzavření licenční smlouvy je třeba, není-li dohodnuto jinak, souhlasu všech spolumajitelů; každý ze spolumajitelů je oprávněn uplatňovat nároky z porušení práv z patentu samostatně.
+K převodu patentu je zapotřebí souhlasu všech spolumajitelů. Spolumajitel je oprávněn bez souhlasu ostatních převést svůj podíl jen na některého ze spolumajitelů; na třetí osobu může převést svůj podíl jen v případě, že žádný ze spolumajitelů nepřijme ve lhůtě jednoho měsíce písemnou nabídku převodu.
+Omezení účinků patentu
+Patent nepůsobí proti tomu, kdo před vznikem práva přednosti (§ 27) využíval vynález nezávisle na původci nebo majiteli patentu nebo kdo k tomu vykonal prokazatelná opatření (dále jen „předchozí uživatel“).
+Nedojde-li k dohodě, může předchozí uživatel požadovat u soudu, aby majitel patentu jeho právo uznal.
+Práva majitele patentu nejsou porušena, využije-li se chráněného vynálezu:
+na lodích jiných zemí, které jsou členy Pařížské úmluvy na ochranu průmyslového vlastnictví (dále jen „Pařížská úmluva“), jimiž je Česká republika vázána (dále jen „unijní země“), v lodním tělese, ve strojích, v lodní výstroji, v přístrojích a v jiném příslušenství, když se tyto lodě dostanou přechodně nebo náhodně do České republiky, jestliže se tu těchto předmětů užije jenom pro potřeby lodi;
+při stavbě nebo provozu letadel či vozidel unijních zemí nebo u součásti těchto letadel či vozidel, dostanou-li se přechodně nebo náhodně do České republiky;
+při individuální přípravě léku v lékárně na základě lékařského předpisu včetně nakládání s lékem takto připraveným;
+při činnosti prováděné pro neobchodní účely;
+při činnosti prováděné s předmětem vynálezu pro experimentální účely včetně experimentů a testů nezbytných podle zvláštního právního předpisu před uvedením léčiva na trh.
+Nabídka licence
+Prohlásí-li u Úřadu přihlašovatel, popřípadě majitel patentu, že komukoli poskytne právo k využití vynálezu (nabídka licence), vznikne právo k využití vynálezu každému, kdo nabídku licence přijme a písemně to sdělí přihlašovateli nebo majiteli patentu. Úřad nabídku licence vyznačí v patentovém rejstříku.
+Prohlášení o nabídce licence nelze vzít zpět.
+Vznikem práva k využití vynálezu není dotčeno právo majitele patentu na úhradu ceny licence.
+Za udržování platnosti patentu, k němuž majitel nabídl licenci podle odstavce 1, se platí poplatky podle zvláštního právního předpisu pouze v poloviční výši.
+Nucená licence
+Nevyužívá-li majitel patentu bezdůvodně vynález vůbec nebo jej využívá nedostatečně a nepřijal-li v přiměřené lhůtě řádnou nabídku na uzavření licenční smlouvy, může Úřad na základě odůvodněné žádosti udělit nevýlučné právo k využívání vynálezu (nucenou licenci); tuto nucenou licenci nelze udělit před uplynutím 4 let od podání přihlášky vynálezu nebo 3 let od udělení patentu, přičemž platí lhůta, která uplyne později.
+Nucená licence může být rovněž udělena, jestliže jsou dány důvody ohrožení důležitého veřejného zájmu.
+V rozhodnutí o udělení nucené licence Úřad s přihlédnutím k okolnostem případu stanoví podmínky, rozsah a dobu trvání nucené licence. Nucenou licenci lze udělit převážně pro dodávky na domácí trh.
+Nucenou licenci nelze převádět jinak než v rámci převodu podniku nebo jeho části, v níž podnikatel vynález na základě nucené licence využívá (dále jen „držitel nucené licence“).
+Držitel nucené licence se může v průběhu doby jejího trvání vzdát práva využívat vynález podáním učiněným u Úřadu; dnem doručení tohoto podání účinnost rozhodnutí o udělení nucené licence zaniká.
+Na žádost majitele patentu, v níž doloží, že se změnily podmínky pro udělení nucené licence, aniž by bylo možné očekávat jejich opětovnou změnu, nebo že její držitel nucenou licenci po dobu jednoho roku nevyužívá, popřípadě neplní podmínky stanovené při udělení nucené licence, Úřad nucenou licenci zruší nebo změní podmínky, rozsah nebo dobu trvání nucené licence.
+Udělením nucené licence není dotčeno právo majitele patentu na úhradu ceny licence. Není-li cena licence dohodnuta zúčastněnými stranami, stanoví ji na žádost soud s přihlédnutím k významu vynálezu a obvyklým cenám smluvních licencí v dané oblasti techniky.
+Nucená licence se zapisuje do patentového rejstříku (§ 69).
+Doba platnosti patentu
+Patent platí dvacet let od podání přihlášky vynálezu.
+Za udržování patentu v platnosti je majitel povinen platit každoročně poplatky podle zvláštního právního předpisu.
+Práva třetích osob, které v dobré víře započaly po marném uplynutí lhůty k zaplacení poplatku s využíváním předmětu vynálezu nebo k takovému využívání provedly vážné a účinné přípravy, nejsou zaplacením tohoto poplatku v dodatečné lhůtě dotčena.
+Zánik patentu
+Patent zanikne, jestliže:
+uplyne doba jeho platnosti;
+majitel patentu nezaplatí ve stanovené lhůtě příslušné poplatky za udržování patentu v platnosti;
+majitel patentu se ho vzdá; v tomto případě patent zanikne dnem, kdy písemné prohlášení majitele patentu dojde Úřadu.
+Zrušení patentu
+Úřad patent zruší, zjistí-li se dodatečně,
+že vynález nesplňoval podmínky patentovatelnosti;
+že vynález není v patentu popsán tak jasně a úplně, aby jej mohl odborník uskutečnit;
+že předmět patentu přesahuje obsah původního podání přihlášky vynálezu nebo že předměty patentů udělených na základě rozdělení přihlášky přesahují obsah jejího původního podání nebo byl-li rozsah ochrany vyplývající z patentu rozšířen;
+že majitel patentu na něj nemá právo podle § 8; zrušení v tomto případě Úřad provede na návrh oprávněné osoby (§ 29).
+Týkají-li se důvody zrušení jen části patentu, patent se zruší částečně. Částečné zrušení patentu se provádí změnou jeho nároků, popisu nebo výkresů.
+Zrušení patentu má zpětnou účinnost ode dne počátku jeho platnosti.
+Návrh na zrušení patentu lze podat i po zániku patentu, prokáže-li navrhovatel právní zájem.
+ŘÍZENÍ O UDĚLENÍ PATENTU
+Přihláška vynálezu
+Řízení o udělení patentu se zahajuje podáním přihlášky vynálezu u Úřadu.
+Úřad je místem, u něhož občané České republiky, jakož i jiné osoby, které mají na území České republiky bydliště nebo sídlo, mohou podávat mezinárodní přihlášky.
+Úřad je místem, u něhož lze podat evropskou patentovou přihlášku podle Úmluvy o udělování evropských patentů uzavřené v Mnichově dne 5. října 1973 (dále jen „evropská patentová úmluva“); to neplatí pro rozdělenou evropskou patentovou přihlášku.
+Obsahuje-li evropská patentová přihláška a mezinárodní přihláška informace utajované podle zvláštního právního předpisu, je přihlašovatel povinen ji podat u Úřadu a současně přiložit souhlas Národního bezpečnostního úřadu k podání takové přihlášky.
+Přihlašovatel je povinen za podání přihlášky podle odstavců 1 a 2 zaplatit správní poplatek podle zvláštních předpisů a v případě mezinárodní přihlášky podle odstavce 2 zaplatit rovněž poplatky stanovené podle mezinárodní smlouvy pro mezinárodní řízení o přihlášce vynálezu; jejich výši oznámí Úřad ve Věstníku.
+V přihlášce vynálezu musí být uvedeno, kdo je jeho původce.
+Na žádost původce Úřad neuvede jeho jméno při zveřejnění přihlášky vynálezu a oznámení o udělení patentu.
+Přihláška vynálezu se může týkat pouze jednoho vynálezu nebo skupiny vynálezů navzájem spojených tak, že tvoří jedinou obecnou vynálezeckou myšlenku. Je-li v jedné přihlášce požadována ochrana na skupinu vynálezů, je požadavek jednotnosti vynálezu splněn, jestliže mezi těmito vynálezy existuje technický vztah, který se týká jednoho nebo více shodných nebo si odpovídajících zvláštních technických znaků. Zvláštními technickými znaky se rozumí takové technické znaky, které určují přínos každého z vynálezů uvažovaných jako celek ke stavu techniky.
+Vynález musí být v přihlášce vynálezu vysvětlen tak jasně a úplně, aby jej mohl odborník uskutečnit. Je-li vynálezem průmyslový produkční mikroorganismus, musí být uložen ve veřejné sbírce kultur ke dni, od něhož přísluší přihlašovateli právo přednosti.
+V pochybnostech může Úřad vyzvat přihlašovatele, aby předvedením předmětu přihlášky vynálezu nebo jiným vhodným způsobem prokázal jeho využitelnost. Neprokáže-li to, má se za to, že přihlašovaný předmět není využitelný.
+Podáním přihlášky vynálezu vzniká přihlašovateli právo přednosti.
+Právo přednosti, které vyplývá z mezinárodní smlouvy, musí přihlašovatel uplatnit již v přihlášce vynálezu a na výzvu Úřadu je ve lhůtě stanovené Úřadem prokázat, jinak se k němu nepřihlíží.
+Právo přednosti podle odstavce 2 lze uplatnit, je-li přihláška vynálezu podána ve státě nebo pro stát, který je smluvní stranou Pařížské úmluvy nebo který je členem Světové obchodní organizace; jestliže stát, v němž je učiněno první podání přihlášky vynálezu, není smluvní stranou Pařížské úmluvy ani členem Světové obchodní organizace, lze právo přednosti z tohoto podání přiznat jen za podmínky vzájemnosti.
+Bylo-li zahájeno u příslušného orgánu řízení ve sporu o právo na patent, Úřad řízení o přihlášce vynálezu přeruší.
+Po dobu přerušení řízení se staví běh lhůt stanovených tímto zákonem s výjimkou lhůty podle ustanovení § 31 odst. 1.
+Právo přednosti zůstává zachováno, požádá-li oprávněný přihlašovatel o pokračování řízení ve lhůtě tří měsíců od právní moci rozhodnutí o právu na patent. Úkony učiněné před přerušením řízení směřující k udělení patentu se považují za platné i pro další řízení.
+Úřad přepíše přihlášku vynálezu, popřípadě patent, na tu osobu, o níž soud rozhodne, že je původcem vynálezu.
+Úřad přepíše přihlašovatele nebo majitele patentu, jestliže příslušný orgán ve sporu o právo na patent rozhodne, že toto právo přísluší jiné osobě.
+Předběžný průzkum přihlášky vynálezu
+Úřad podrobí přihlášku vynálezu předběžnému průzkumu,
+zda neobsahuje předmět, který je zjevně v rozporu s ustanoveními § 3 odst. 1 nebo § 26 odst. 2,
+zda neobsahuje předmět podle ustanovení § 3 odst. 2 nebo § 4,
+zda nemá nedostatky, které brání jejímu zveřejnění,
+zda přihlašovatel zaplatil příslušné správní poplatky.
+Obsahuje-li přihláška vynálezu předmět, který je zjevně v rozporu s ustanoveními § 3 odst. 1 nebo § 26 odst. 2, nebo obsahuje předmět podle ustanovení § 3 odst. 2 nebo § 4, Úřad přihlášku zamítne. Před zamítnutím musí být přihlašovateli umožněno se k podkladům, na jejichž základě má být rozhodnuto, vyjádřit.
+Obsahuje-li přihláška vynálezu předmět, který má nedostatky bránící jejímu zveřejnění, popřípadě nezaplatí-li přihlašovatel příslušné správní poplatky, vyzve Úřad přihlašovatele, aby se ve stanovené lhůtě k těmto skutečnostem vyjádřil a vytčené nedostatky odstranil.
+V případě, že přihlašovatel neodstraní ve stanovené lhůtě nedostatky přihlášky vynálezu, které brání jejímu zveřejnění, nebo nezaplatí-li přihlašovatel příslušné správní poplatky, Úřad řízení zastaví. Na tento důsledek musí být přihlašovatel při stanovení lhůty upozorněn.
+Úřad přihlášku vynálezu zveřejní po uplynutí 18 měsíců od vzniku práva přednosti a toto zveřejnění oznámí ve Věstníku.
+Přihláška vynálezu může být zveřejněna před lhůtou uvedenou v odstavci 1, požádá-li o to přihlašovatel nejpozději ve lhůtě 12 měsíců od vzniku práva přednosti a zaplatí-li správní poplatek podle zvláštních předpisů. Úřad přihlášku vynálezu zveřejní před uplynutím lhůty uvedené v odstavci 1, byl-li již na vynález udělen patent; bez souhlasu přihlašovatele však Úřad přihlášku vynálezu nezveřejní před uplynutím 12 měsíců od vzniku práva přednosti.
+Úřad může spolu s přihláškou vynálezu zveřejnit zprávu o stavu techniky (rešerše) vztahující se k vynálezu uplatněnému v přihlášce.
+Po zveřejnění přihlášky vynálezu může kdokoli podat Úřadu připomínky k patentovatelnosti jejího předmětu; k připomínkám Úřad přihlédne při úplném průzkumu přihlášky vynálezu.
+Osoby, které podaly připomínky podle odstavce 1, nestávají se účastníky řízení o přihlášce vynálezu. Přihlašovatel vynálezu však musí být o připomínkách vyrozuměn.
+Úplný průzkum přihlášky vynálezu
+Úřad podrobí přihlášku vynálezu úplnému průzkumu, v němž zjišťuje, zda splňuje podmínky stanovené tímto zákonem pro udělení patentu.
+Úřad provede úplný průzkum přihlášky vynálezu na žádost přihlašovatele či jiné osoby, nebo jej může provést z moci úřední.
+Žádost o provedení úplného průzkumu musí být podána nejpozději do 36 měsíců od podání přihlášky vynálezu a nelze ji vzít zpět. Žadatel je povinen spolu se žádostí zaplatit správní poplatek podle zvláštních předpisů.
+Úřad zahájí úplný průzkum neprodleně po podání žádosti.
+Jestliže žádost o provedení úplného průzkumu nebyla řádně podána ve lhůtě uvedené v odstavci 3, popřípadě v téže lhůtě Úřad nezahájil úplný průzkum přihlášky vynálezu z moci úřední, Úřad řízení o přihlášce vynálezu zastaví.
+Nejsou-li podmínky stanovené pro udělení patentu splněny, Úřad přihlášku vynálezu zamítne. Před zamítnutím přihlášky vynálezu musí být přihlašovateli umožněno vyjádřit se k podkladům, na jejichž základě má být o přihlášce vynálezu rozhodnuto.
+V případě, že přihlašovatel neodstraní ve stanovené lhůtě vady přihlášky, které brání udělení patentu, Úřad řízení o přihlášce zastaví. Na tento důsledek musí být přihlašovatel při stanovení lhůty upozorněn.
+Splňuje-li předmět přihlášky vynálezu stanovené podmínky a přihlašovatel zaplatí příslušný správní poplatek podle zvláštních předpisů, Úřad udělí přihlašovateli patent; přihlašovatel se stává majitelem patentu. Majiteli patentu vydá Úřad patentovou listinu, v níž uvede jméno původce a jejíž součástí je popis vynálezu a patentové nároky, a udělení patentu oznámí ve Věstníku.
+Je-li přihlášek vynálezů se shodným předmětem více, může být udělen jen jeden patent.
+EVROPSKÁ PATENTOVÁ PŘIHLÁŠKA A EVROPSKÝ PATENT
+Evropská patentová přihláška s účinky pro Českou republiku (dále jen „evropská patentová přihláška“), které bylo přiznáno datum podání, má v České republice stejné účinky jako přihláška vynálezu podaná podle § 24 k témuž datu. Požívá-li evropská patentová přihláška právo přednosti z dřívějšího data, než je den podání evropské patentové přihlášky, platí pro přiznání účinků přihlášky toto dřívější datum.
+Byla-li evropská patentová přihláška vzata zpět nebo je-li považována za vzatou zpět, má to účinky jako zastavení řízení o přihlášce vynálezu podle § 64 odst. 2. Byla-li evropská patentová přihláška zamítnuta, má to stejný účinek jako zamítnutí přihlášky vynálezu podle § 34 odst. 1.
+Navrácení práv Evropským patentovým úřadem přihlašovateli evropské patentové přihlášky, popřípadě majiteli evropského patentu s účinky pro Českou republiku (dále jen „evropský patent“) platí rovněž v České republice.
+Jestliže evropská patentová přihláška byla Evropským patentovým úřadem zveřejněna, její přihlašovatel předložil překlad patentových nároků do jazyka českého a zaplatil správní poplatek za zpřístupnění podle zvláštního právního předpisu, Úřad tento překlad zpřístupní veřejnosti a tuto skutečnost oznámí ve Věstníku. Přihlašovatel se může po tomto zpřístupnění domáhat přiměřené náhrady podle § 11 odst. 3, bude-li mít patent udělený Evropským patentovým úřadem účinky v České republice (§ 35c).
+Pro výklad rozsahu ochrany vyplývající z evropské patentové přihlášky je rozhodný obsah evropské patentové přihlášky upravený zněním evropského patentu v jazyce, v němž před Evropským patentovým úřadem o evropské patentové přihlášce probíhalo řízení; vyplývá-li z evropského patentu ochrana širší než ze zveřejněné evropské patentové přihlášky, je ochrana poskytována jen v tom rozsahu, který vyplývá jak ze zveřejněné evropské patentové přihlášky, tak z uděleného evropského patentu. Jestliže překlad patentových nároků podle odstavce 4 neodpovídá jejich znění v jazyce řízení, lze ochranu z evropské patentové přihlášky uplatnit pouze v rozsahu, který je zřejmý z jejího překladu do jazyka českého.
+Předloží-li přihlašovatel Úřadu opravený překlad patentových nároků do jazyka českého, bude tento opravený překlad platit místo původního překladu ode dne oznámení o jeho zpřístupnění ve Věstníku; za toto zpřístupnění je přihlašovatel povinen zaplatit správní poplatek podle zvláštního právního předpisu. Práva třetích osob, které v dobré víře využívaly nebo provedly vážné a účinné přípravy k využívání předmětu evropské patentové přihlášky, který podle překladu předloženého přihlašovatelem nespadal do jejího rozsahu, využívat předmět evropské patentové přihlášky nejsou dodáním nového překladu dotčena.
+Změna evropské patentové přihlášky na národní přihlášku
+Úřad na žádost přihlašovatele evropské patentové přihlášky podanou ve smyslu čl. 136 odst. 2 evropské patentové úmluvy zahájí řízení o této přihlášce jako o přihlášce národní.
+Obdrží-li Úřad žádost podle odstavce 1, vyzve přihlašovatele, aby do 3 měsíců předložil ve trojím vyhotovení překlad evropské patentové přihlášky do českého jazyka a zaplatil poplatek za podání přihlášky vynálezu.
+Jestliže přihlašovatel splnil podmínky stanovené v odstavci 2 a Úřad žádost o změnu evropské patentové přihlášky obdržel do 20 měsíců ode dne vzniku práva přednosti, Úřad přizná národní přihlášce právo přednosti z původně podané evropské patentové přihlášky.
+Úřad na žádost přihlašovatele projedná evropskou patentovou přihlášku podanou podle odstavce 1 jako národní přihlášku užitného vzoru podle zvláštního právního předpisu. Ustanovení odstavců 2 a 3 se použijí obdobně.
+Účinky evropského patentu
+Patent udělený Evropským patentovým úřadem má stejné účinky jako patent udělený podle § 34 odst. 3.
+Účinky evropského patentu v České republice nastávají dnem, v němž bylo oznámeno udělení evropského patentu v Evropském patentovém věstníku; majitel patentu je povinen předat Úřadu do 3 měsíců od tohoto dne překlad patentového spisu do jazyka českého a zaplatit správní poplatek za jeho zveřejnění podle zvláštního právního předpisu. Majitel patentu je v téže lhůtě povinen předložit Úřadu adresu v České republice, kam mu budou zasílány úřední zprávy týkající se jeho patentu. Úřad udělení evropského patentu oznámí ve Věstníku a překlad evropského patentového spisu zveřejní.
+Nebude-li překlad evropského patentového spisu do jazyka českého předložen ve lhůtě podle odstavce 2, může jej majitel evropského patentu předložit v dodatečné lhůtě 3 měsíců, zaplatí-li současně správní poplatek podle zvláštního právního předpisu.
+Nebude-li překlad evropského patentového spisu do českého jazyka předložen ani ve lhůtě podle odstavce 3, evropský patent se v České republice pokládá za neúčinný od samého počátku.
+Po oznámení o udělení evropského patentu v Evropském patentovém věstníku zapíše Úřad evropský patent do českého rejstříku evropských patentů s údaji, které se zapisují do evropského patentového rejstříku.
+Rozsah ochrany z evropského patentu
+Pro stanovení rozsahu ochrany vyplývající z evropského patentu je rozhodné jeho znění v jazyce, v němž před Evropským patentovým úřadem probíhalo řízení o evropské patentové přihlášce; jestliže však z překladu patentového spisu poskytnutého Úřadu podle § 35c odst. 2 vyplývá ochrana užší než v jazyce řízení, třetí strany se mohou dovolávat tohoto překladu.
+Majitel evropského patentu je oprávněn předložit Úřadu opravený překlad evropského patentového spisu do českého jazyka. Opravený překlad bude platit místo původního překladu po zveřejnění tohoto opraveného překladu Úřadem; za toto zveřejnění je majitel evropského patentu povinen zaplatit poplatek podle zvláštního právního předpisu.
+Práva třetích osob, které na území České republiky v dobré víře využívaly nebo provedly vážné a účinné přípravy k využívání předmětu, který podle překladu platného v době před zveřejněním opraveného překladu Úřadem nespadal do rozsahu evropského patentu, využívat tento předmět nejsou dodáním nového překladu dotčena.
+Zákaz dvojí ochrany
+Pokud je národní patent udělen na vynález, na který byl témuž majiteli nebo jeho právnímu nástupci udělen evropský patent se stejným právem přednosti, národní patent se v rozsahu, ve kterém se shoduje s evropským patentem, stává neúčinným ke dni, k němuž uplynula lhůta pro podání odporu proti evropskému patentu, aniž byl odpor podán, anebo dnem právní moci rozhodnutí, jímž byl v řízení o odporu evropský patent zachován.
+Národní patent nenabývá účinky podle § 11 odst. 2 v rozsahu, ve kterém se shoduje s evropským patentem, je-li udělen až po uplynutí lhůty pro podání odporu proti evropskému patentu, aniž byl odpor podán, nebo po právní moci rozhodnutí, jímž byl v řízení o odporu evropský patent zachován.
+Zrušením evropského patentu podle § 35f odst. 5 nejsou ustanovení odstavců 1 a 2 dotčena.
+Zrušení evropského patentu
+Zruší-li Evropský patentový úřad evropský patent, popřípadě jej zachová v pozměněném znění, má toto rozhodnutí účinky v České republice.
+Zrušení evropského patentu, popřípadě jeho zachování v pozměněném znění podle odstavce 1 oznámí Úřad ve Věstníku.
+Je-li evropský patent v řízení o odporu zachován v pozměněném znění Evropským patentovým úřadem, je jeho majitel povinen do 3 měsíců ode dne oznámení této změny v Evropském patentovém věstníku předat Úřadu překlad pozměněného znění patentového spisu do českého jazyka a zaplatit poplatek za zveřejnění. Úřad zachování evropského patentu v pozměněném znění oznámí ve Věstníku a překlad pozměněného znění patentového spisu zveřejní.
+Nebude-li český překlad pozměněného znění evropského patentového spisu předložen ve lhůtě podle odstavce 3, pokládá se evropský patent v České republice za neúčinný od samého počátku.
+Uplynula-li marně lhůta stanovená evropskou patentovou úmluvou k podání odporu, popřípadě jestliže v řízení o odporu nebyl evropský patent zrušen, může být evropský patent zrušen Úřadem podle § 23; Úřad řízení o zrušení evropského patentu přeruší, probíhá-li před Evropským patentovým úřadem řízení o odporu týkající se téže věci. Jestliže v řízení o odporu nedošlo ke zrušení evropského patentu, Úřad na žádost bude v řízení o zrušení patentu pokračovat.
+V řízení o zrušení evropského patentu je závazným jeho znění v jazyce řízení.
+Za udržování evropského patentu v platnosti je majitel povinen platit poplatky podle zvláštního právního předpisu.
+Práva třetích osob, které v dobré víře započaly po marném uplynutí lhůty k zaplacení poplatku s využíváním předmětu vynálezu nebo k takovému využívání provedly vážné a účinné přípravy, nejsou zaplacením tohoto poplatku v dodatečné lhůtě dotčena.
+UDĚLOVÁNÍ DODATKOVÝCH OCHRANNÝCH OSVĚDČENÍ PRO LÉČIVA A PRO PŘÍPRAVKY NA OCHRANU ROSTLIN
+Úřad uděluje na látky chráněné na území České republiky platným patentem dodatková ochranná osvědčení (dále jen „osvědčení“), jestliže jsou účinnými látkami přípravků, které před uvedením na trh podléhají registraci podle zvláštních právních předpisů.
+Účinnou látkou je chemicky vyrobená látka nebo směs látek, mikroorganismus nebo směs mikroorganismů, které mají obecné nebo specifické léčebné nebo preventivní účinky ve vztahu k onemocněním lidí nebo zvířat nebo které jim mohou být podány za účelem určení nemoci, zlepšení nebo úpravy zdravotního stavu anebo které jsou určené k ochraně rostlin nebo rostlinných výrobků.
+Přípravkem podle odstavce 1 je účinná látka nebo směs obsahující jednu nebo více účinných látek zpracovaných do formy, která je uváděná na trh jako léčivo nebo jako přípravek na ochranu rostlin.
+Žádost o udělení osvědčení
+Žádost o udělení osvědčení podává majitel patentu, jehož předmětem je látka, s výjimkou patentu uděleného podle § 82, nebo způsob získání látky anebo užití látky jako léčiva, popřípadě jako přípravku na ochranu rostlin (dále jen „základní patent“), nebo jeho právní nástupce.
+Žádost o udělení osvědčení se podává do 6 měsíců ode dne rozhodnutí o registraci přípravku podle zvláštních právních předpisů; je-li registrace provedena před udělením základního patentu, musí být žádost o osvědčení podána ve lhůtě 6 měsíců ode dne udělení patentu.
+Žádost o udělení osvědčení musí obsahovat
+žádost o udělení osvědčení, v níž je uvedeno:
+jméno a adresa žadatele,
+jméno a adresa zástupce, je-li žadatel zastoupen,
+číslo základního patentu a název vynálezu,
+číslo a datum první registrace přípravku podle zvláštních právních předpisů;
+kopii rozhodnutí o registraci přípravku vydaného podle zvláštních právních předpisů, v níž je přípravek identifikován, včetně souhrnu údajů o přípravku u léčiva;
+chemické, generické či jiné názvosloví umožňující ztotožnit látku chráněnou základním patentem s registrovaným přípravkem.
+S podáním žádosti o udělení osvědčení je žadatel povinen zaplatit správní poplatek podle zvláštního právního předpisu.
+Podání žádosti o udělení osvědčení Úřad zapíše do patentového rejstříku a zveřejní ve Věstníku. Ve zveřejnění se uvede jméno a adresa žadatele, číslo základního patentu a název vynálezu, který je patentem chráněn, číslo a datum registrace, včetně označení přípravku, jehož uvedení na trh je touto registrací umožněno.
+Podmínky pro udělení osvědčení
+Úřad udělí osvědčení, jestliže k datu podání žádosti podle § 35i jsou splněny tyto podmínky:
+základní patent platí na území České republiky;
+přípravek obsahuje účinnou látku chráněnou základním patentem a je platně registrován jako léčivo nebo jako přípravek na ochranu rostlin podle zvláštních právních předpisů;
+na látku dosud nebylo uděleno osvědčení;
+registrace podle písmene b) je prvním povolením k uvedení hromadně vyráběného léčiva v České republice nebo prvním povolením k uvedení přípravku na ochranu rostlin na trh v České republice.
+Udělení osvědčení
+Splňuje-li žádost o udělení osvědčení náležitosti stanovené v § 35i a látka, pro niž je osvědčení žádáno, splňuje náležitosti podle § 35j, udělí Úřad osvědčení, které zapíše do patentového rejstříku. V osvědčení Úřad uvede
+jméno a adresu majitele osvědčení;
+číslo základního patentu a název vynálezu;
+číslo a datum první registrace, orgán, který vydal rozhodnutí o registraci, a označení přípravku, jehož uvedení na trh je touto registrací povoleno;
+dobu platnosti osvědčení.
+Udělení osvědčení Úřad zveřejní ve Věstníku. Ve zveřejnění budou uvedeny údaje podle odstavce 1.
+Nesplňuje-li žádost o udělení osvědčení náležitosti stanovené v § 35j, vyzve Úřad žadatele k jejich doplnění ve stanovené lhůtě. Nedoplní-li žadatel podání ve stanovené lhůtě, Úřad řízení zastaví; na tuto skutečnost musí být žadatel upozorněn.
+Nejsou-li splněny podmínky pro udělení osvědčení, žádost o udělení osvědčení bude zamítnuta.
+Zamítnutí žádosti o udělení osvědčení a zastavení řízení o udělení osvědčení zveřejní Úřad ve Věstníku; ve zveřejnění se uvedou údaje uvedené v § 35i odst. 5.
+Předmět a účinky osvědčení
+V mezích ochrany vyplývající ze základního patentu se ochrana osvědčením vztahuje na chemickou látku či směs látek, mikroorganismus nebo směs mikroorganismů, které jsou účinnou látkou registrovaného přípravku, a na každé užití předmětu patentu jako léčiva nebo přípravku na ochranu rostlin, které bylo povoleno před uplynutím doby platnosti osvědčení.
+Z osvědčení vyplývají stejná práva jako ze základního patentu; na osvědčení se vztahují stejná omezení a vyplývají z něj stejné povinnosti jako ze základního patentu.
+Platnost osvědčení
+Osvědčení platí po dobu odpovídající době, jež uplynula mezi dnem podání přihlášky základního patentu a dnem první registrace umožňující uvést přípravek na trh v České republice jako léčivý přípravek či jako přípravek na ochranu rostlin, zkrácené o 5 let, nejdéle však 5 let ode dne, kdy toto osvědčení nabylo účinnosti.
+Osvědčení nabývá účinnosti uplynutím zákonné doby platnosti základního patentu.
+Za udržování osvědčení v platnosti je majitel povinen platit každoročně poplatky podle zvláštního právního předpisu.
+Práva třetích osob, které v dobré víře započaly po marném uplynutí lhůty k zaplacení poplatku za udržování osvědčení v platnosti, s využíváním vynálezu nebo k takovému využívání provedly vážné a účinné přípravy, nejsou zaplacením tohoto poplatku v další lhůtě dotčena.
+Zánik osvědčení
+Osvědčení zaniká
+uplynutím doby jeho platnosti podle § 35m odst. 1;
+vzdá-li se jej jeho majitel;
+nezaplatí-li jeho majitel poplatky za udržování osvědčení v platnosti;
+jestliže přípravek nemůže být nadále uváděn na trh z důvodu zrušení či zániku registrace;
+zrušením osvědčení podle § 35o.
+Zánik osvědčení Úřad zapíše do patentového rejstříku a oznámí ve Věstníku.
+Zrušení osvědčení
+Úřad zruší osvědčení, jestliže
+nebyly splněny podmínky pro jeho udělení podle § 35j;
+základní patent zanikl dříve, než uplynula doba jeho platnosti;
+základní patent byl zrušen nebo základní patent byl omezen v takovém rozsahu, že látka, pro kterou bylo vydáno osvědčení, není nadále základním patentem chráněna; to platí i v případě zrušení základního patentu, k němuž došlo po jeho zániku.
+Návrh na zrušení osvědčení lze podat i po zániku základního patentu podle odstavce 1, prokáže-li navrhovatel právní zájem.
+SPOLEČNÁ USTANOVENÍ O ŘÍZENÍ PŘED ÚŘADEM
+Správní řízení
+Pro řízení před Úřadem platí správní řád s odchylkami uvedenými v tomto zákoně a s výjimkou ustanovení o ověřování plných mocí pro neurčitý počet řízení, o možnosti volby několika společných zmocněnců, o prominutí zmeškání úkonu, o přerušení řízení, o lhůtách pro vydání rozhodnutí a o ochraně před nečinností, dále z ustanovení o zvláštnostech řízení o rozkladu ustanovení o složení rozkladové komise a o možném způsobu ukončení řízení o rozkladu a dále ustanovení o účastnících řízení; ustanovení správního řádu o účastnících řízení podle zvláštního zákona se však použijí.
+Za úkony spojené s řízením podle tohoto zákona vybírá Úřad správní poplatky. Při zahájení řízení podle ustanovení § 23, 35f, 35o a § 68 odst. 1 a 2 je navrhovatel povinen složit kauci na náklady řízení, která bude navrhovateli vrácena, jestliže se v průběhu řízení prokáže, že návrh na zahájení řízení byl oprávněný. Kauce činí 2 500 Kč.
+Proti pravomocnému rozhodnutí Úřadu je přípustná žaloba proti rozhodnutí podle zvláštního právního předpisu.
+Prominutí lhůty
+Úřad promine zmeškání lhůty, k němuž došlo ze závažných důvodů, požádá-li o to účastník do dvou měsíců ode dne, kdy pominula překážka zmeškání, a učiní-li v této době zmeškaný úkon a zaplatí správní poplatek podle zvláštních předpisů.
+Zmeškání lhůty nelze prominout po uplynutí jednoho roku ode dne, kdy měl být úkon učiněn, jakož i při uplatnění nebo prokázání práva přednosti, při žádosti o provedení úplného průzkumu přihlášky vynálezu a při žádosti o pokračování řízení podle ustanovení § 28 odst. 3.
+Práva nabytá třetími osobami v době mezi zmeškáním lhůty a jejím prominutím zůstávají nedotčena.
+Nahlížení do spisu
+Úřad může povolit nahlížení do spisu třetím osobám, jen pokud prokáží právní zájem. Před zveřejněním přihlášky vynálezu je však přípustné sdělit pouze údaj, kdo je původcem vynálezu, přihlašovatelem vynálezu, údaj o právu přednosti, název přihlášky vynálezu a její spisovou značku.
+Určovací řízení
+Na žádost toho, kdo osvědčí právní zájem, Úřad rozhodnutím určí, zda předmět v žádosti popsaný spadá do rozsahu ochrany určitého patentu na vynález.
+Opravné řízení
+Proti rozhodnutí Úřadu, s výjimkou rozhodnutí o prominutí zmeškání lhůty podle ustanovení § 65, lze podat ve lhůtě jednoho měsíce od doručení rozhodnutí rozklad.
+O rozkladu rozhoduje předseda Úřadu na návrh jím ustavené odborné komise.
+Patentový rejstřík a Věstník Úřadu
+Úřad vede patentový rejstřík, do kterého zaznamenává rozhodné údaje o přihláškách vynálezů, řízení o nich a rozhodné údaje o udělených patentech.
+Úřad vede rejstřík evropských patentů platných na území České republiky. Pro zápisy do rejstříku evropských patentů se použije odstavec 1.
+Poznámka spornosti podle občanského zákoníku se může týkat jen záznamu v rejstříku, jímž se vyznačuje nakládání s patentem jako předmětem vlastnictví.
+Úřad vydává Věstník, v němž uveřejňuje zejména skutečnosti týkající se zveřejněných přihlášek vynálezů, udělených patentů a další údaje týkající se vynálezů, jakož i úřední sdělení a rozhodnutí zásadní povahy.
+Zastupování
+Osoby, které nemají na území České republiky bydliště nebo sídlo, musí být v řízení před Úřadem zastoupeny zástupcem podle zvláštních právních předpisů. To platí i pro předkládání překladů podle hlavy třetí.
+Pro řízení o vynálezech, které jsou utajovány podle zvláštního právního předpisu nebo mezinárodní smlouvy, jíž je Česká republika vázána, platí tento zákon s výjimkou jejich zveřejnění.
+ZLEPŠOVACÍ NÁVRHY
+Za zlepšovací návrhy se pokládají technická, výrobní nebo provozní zdokonalení, jakož i řešení problémů bezpečnosti a ochrany zdraví při práci a životního prostředí, s nimiž má zlepšovatel právo nakládat.
+Práva ze zlepšovacích návrhů nevzniknou, brání-li jim práva z patentu.
+Zlepšovatel je povinen nabídnout zlepšovací návrh svému zaměstnavateli, jestliže se zlepšovací návrh týká oboru práce nebo činnosti zaměstnavatele.
+Zlepšovatel má právo se zlepšovacím návrhem nakládat bez omezení, jestliže s ním zaměstnavatel ve lhůtě dvou měsíců od nabídky zlepšovacího návrhu neuzavřel smlouvu o přijetí nabídky zlepšovacího návrhu a odměně za něj (§ 74).
+Právo využívat zlepšovací návrh vzniká uzavřením smlouvy se zlepšovatelem o přijetí nabídky zlepšovacího návrhu a odměně za něj.
+PŘESTUPKY
+Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že neoprávněně využívá vynález chráněný patentem.
+Za přestupek podle odstavce 1 lze uložit pokutu do 250 000 Kč nebo zákaz činnosti.
+Za přestupek podle odstavce 1, kterého se dopustí právnická nebo podnikající fyzická osoba, lze uložit též zveřejnění rozhodnutí o přestupku.
+Přestupek podle odstavce 1 projednává obecní úřad obce s rozšířenou působností.
+Přestupek podle odstavce 1 nelze projednat příkazem na místě.

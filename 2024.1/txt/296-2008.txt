@@ -1,0 +1,456 @@
+LIDSKÉ TKÁNĚ A BUŇKY
+ÚVODNÍ USTANOVENÍ
+Předmět zákona
+Tento zákon se nevztahuje na podmínky pro zajištění jakosti a bezpečnosti
+tkání a buněk, jejichž odběr a použití se uskuteční u téhož člověka v rámci jednoho chirurgického zákroku,
+lidské krve a jejích složek,
+orgánů nebo části orgánů, pokud mají sloužit k témuž účelu jako celý orgán v lidském těle.
+Jsou-li lidské tkáně a buňky určeny k použití v produktech, na něž se vztahují jiné právní předpisy, vztahuje se tento zákon pouze na podmínky pro
+jejich darování, opatřování a vyšetřování,
+zajištění jejich sledovatelnosti od dárce k příjemci a od příjemce k dárci a
+jejich dovoz ze třetí země.
+Základní ustanovení
+Pro účely tohoto zákona se rozumí
+použitím u člověka použití lidských tkání a buněk, popřípadě lidských tkání nebo buněk (dále jen „tkáně a buňky“) v těle nebo na těle lidského příjemce tkání a buněk (dále jen „příjemce“) a mimotělní použití,
+opatřováním odběr tkání a buněk a s tím spojené postupy, kterými jsou získány tkáně a buňky,
+zpracováním postupy vykonávané při úpravě a balení tkání a buněk určených k použití u člověka a postupy při konzervaci tkání a buněk spočívající v použití chemických látek, změně podmínek prostředí nebo v postupech prováděných s cílem předejít biologickému nebo fyzikálnímu poškození tkání a buněk nebo toto poškození zpomalit,
+skladováním udržování tkání a buněk ve vhodných a kontrolovaných podmínkách do doby jejich distribuce,
+distribucí přeprava a dodání tkání a buněk určených k použití u člověka,
+zacházením příjem a použití tkání a buněk pro léčbu příjemce poskytovatelem zdravotních služeb (dále jen „poskytovatel“) a dále opatřování, vyšetřování, zpracování, skladování a distribuce,
+sledovatelností možnost
+zjistit místo, kde se tkáně a buňky nacházejí, a identifikovat je během každé etapy zacházení, a též jejich odstranění,
+identifikovat žijící nebo zemřelou osobu, která je zdrojem tkání a buněk (dále jen „dárce“),
+identifikovat poskytovatele, který opatřuje, zpracovává, skladuje, distribuuje nebo používá tkáně a buňky při léčbě příjemce, popřípadě právnickou nebo podnikající fyzickou osobu, které jsou tkáně a buňky dodávány,
+identifikovat příjemce u poskytovatele zdravotních služeb a
+najít a identifikovat všechny potřebné údaje týkající se produktů a materiálů, které přicházejí do styku s tkáněmi a buňkami,
+validací dokumentovaný důkaz, který poskytuje vysokou záruku, že hodnocený proces, standardní pracovní postup, části zařízení nebo prostředí opakovaně vytvářejí produkt splňující předem stanovené specifikace a ukazatele jakosti; procesem validace se rozumí vyhodnocení výkonnosti systému, která je vyžadována pro jeho používání,
+závažnou nežádoucí událostí jakákoliv nepříznivá skutečnost související s opatřováním, vyšetřováním, zpracováním, skladováním nebo distribucí, která by mohla zapříčinit hospitalizaci nebo onemocnění, případně prodloužení hospitalizace nebo onemocnění, nebo která by mohla vést ke smrti, k ohrožení života, poškození zdraví, omezení schopností, nebo k nemoci přenášené tkáněmi a buňkami,
+závažnou nežádoucí reakcí neočekávaná odezva dárce nebo příjemce, včetně přenosné nemoci, související s opatřováním nebo použitím tkání a buněk u člověka, která zapříčiní hospitalizaci, onemocnění nebo prodloužení hospitalizace nebo onemocnění, nebo která má za následek smrt, ohrožení života, poškození zdraví nebo omezení schopností,
+tkáňovým zařízením poskytovatel, jehož činnost spočívá ve zpracování, skladování nebo distribuci tkání a buněk, popřípadě i v opatřování nebo vyšetřování tkání a buněk; tkáňovým zařízením je též tkáňová banka; tuto činnost může provádět i jedno pracoviště poskytovatele,
+odběrovým zařízením poskytovatel, jehož činnost spočívá v opatřování tkání a buněk nebo v provádění části této činnosti, přičemž nezajišťuje jiné činnosti uvedené v písmenu k); tuto činnost může provádět i jedno pracoviště poskytovatele,
+diagnostickou laboratoří laboratoř, v níž se provádí laboratorní vyšetřování vzorků biologických materiálů odebraných dárcům pro posouzení zdravotní způsobilosti a výběr dárce,
+členským státem se rozumí členský stát Evropské unie a smluvní stát Dohody o Evropském hospodářském prostoru,
+třetí zemí jiný než členský stát,
+dodavatelem ze třetí země tkáňové zařízení nebo jiná osoba zřízená ve třetí zemi, která zajišťuje vývoz tkání a buněk a dodává je do Evropské unie,
+jednorázovým dovozem dovoz specifického druhu tkání nebo buněk ze třetí země určených k použití u konkrétního příjemce nebo příjemců, kteří jsou dovážejícímu tkáňovému zařízení a dodavateli ze třetí země známi ještě před jejich dovozem; za jednorázový dovoz se nepovažuje dovoz od stejného dodavatele ze třetí země, k němuž dochází pravidelně nebo opakovaně,
+kódem tkáňového zařízení jedinečný identifikátor sestávající z ISO kódu České republiky a čísla tkáňového zařízení uvedeného v databázi tkáňových zařízení Evropské unie,
+jedinečným číslem darování jedinečné číslo přiřazené konkrétnímu darování tkání a buněk v souladu se systémem pro přidělování těchto čísel,
+kódem přípravku identifikátor specifického druhu tkání a buněk, sestávající z identifikátoru kódovacího systému přípravků uvádějícího kódovací systém používaný daným tkáňovým zařízením a čísla přípravku tkání a buněk v příslušném kódovacím systému pro typ přípravku,
+číslem frakce číslo, které rozlišuje a jedinečným způsobem identifikuje tkáně a buňky, které mají stejné číslo darování, stejný kód přípravku a pocházejí ze stejného tkáňového zařízení,
+kódovací platformou Evropské unie informačně technologická platforma používaná Evropskou komisí (dále jen „Komise“), která je provozovatelem databáze tkáňových zařízení Evropské unie a databáze přípravků z tkání a buněk Evropské unie,
+propuštěním do oběhu distribuce nebo převoz do jiného tkáňového zařízení.
+Tkáňové zařízení, odběrové zařízení a diagnostická laboratoř mohou vykonávat činnosti podle tohoto zákona pouze tehdy, bylo-li poskytovateli vydáno podle § 19 povolení činnosti, pokud dále není stanoveno jinak. Toto povolení se nepožaduje u odběrového zařízení, které provádí opatřování tkání a buněk pro tkáňové zařízení podle § 10 odst. 2 písm. b); to neplatí, jde-li o laboratorní vyšetřování pro posouzení způsobilosti a výběr dárce tkání a buněk.
+Fyzické osoby zacházející s tkáněmi a buňkami jsou povinny
+dbát na maximální prospěšnost tkání a buněk při jejich použití u člověka a omezit na nejnižší možnou míru s nimi spojená rizika pro člověka,
+v případě výskytu závažné nežádoucí události, závažné nežádoucí reakce nebo podezření na ně provést neodkladně veškerá dostupná opatření směřující k zajištění nápravy a k omezení nepříznivého působení na nejnižší možnou míru,
+sdělovat informace v souladu s postupy podle odstavce 3 písm. e),
+nakládat s balením tkání a buněk v souladu s údaji a pokyny uvedenými na balení, popřípadě přiloženými k balení.
+Poskytovatelé zacházející s tkáněmi a buňkami zajistí
+sledování závažné nežádoucí události, závažné nežádoucí reakce nebo podezření na ně,
+oznamování, posuzování a zaznamenávání závažných nežádoucích událostí, závažných nežádoucích reakcí nebo podezření na ně podle § 5 odst. 4 a poskytování údajů o nich; zároveň neodkladně zajistí omezení nepříznivých dopadů těchto událostí, reakcí nebo podezření na ně na nejnižší možnou míru; způsob a rozsah oznamování závažné nežádoucí události nebo závažné nežádoucí reakce nebo podezření na ně, jejich posouzení a vyhodnocení, včetně určení příčin a přijetí opatření, stanoví prováděcí právní předpis,
+anonymizaci a ochranu údajů, včetně genetických informací, shromažďovaných v rámci splnění požadavků tohoto zákona tak, aby dárce ani příjemce nemohl být identifikován; oprávnění k přístupu k údajům potřebným pro zacházení s tkáněmi a buňkami ve zdravotnickém zařízení stanoví poskytovatel,
+vedení a uchování záznamů o tkáních a buňkách a zacházení s nimi, včetně vedení a uchování záznamů, které umožňují sledovatelnost při jimi zajišťovaných činnostech, a to způsobem, kterým není porušena ochrana údajů podle písmene c); sledovatelnost je nutno zajistit po dobu nejméně 30 let od použití tkání a buněk; minimální rozsah záznamů, které umožňují sledovatelnost, způsob jejich vedení a uchování stanoví prováděcí právní předpis,
+zavedení a používání postupů pro poskytování informací, kterými není porušena ochrana údajů podle písmene c), a opatření proti nedovolenému poskytování těchto informací, včetně poskytování informací pro sledovatelnost a provádění kontrol jakosti a bezpečnosti.
+Tkáňové zařízení, odběrové zařízení a provozovatel diagnostické laboratoře neprodleně oznámí zjištění rizika přenosu nemoci tkáněmi a buňkami nebo pochybnosti o tom, zda některé laboratorní vyšetření bylo řádně provedeno, odpovědné osobě tkáňového zařízení nebo odběrového zařízení, pro které vyšetřují vzorky biologických materiálů odebraných dárci (dále jen „vzorek od dárce“).
+Poskytovatelé jsou povinni zajišťovat dodržování písemných pokynů tkáňového zařízení, jestliže zacházejí s tkáněmi a buňkami propuštěnými tímto tkáňovým zařízením pro distribuci a použití, a jde-li o asistovanou reprodukci, také písemných pokynů poskytovatele, v jehož zdravotnickém zařízení bylo provedeno umělé oplodnění ženy, týkajících se poskytnutí informací o těhotenství a o zdravotním stavu novorozence, popřípadě plodu.
+Osoby, které zacházejí s tkáněmi a buňkami, jsou povinny postupovat v souladu s pokyny uveřejňovanými Státním ústavem pro kontrolu léčiv (dále jen „Ústav“) podle § 24.
+TKÁŇOVÉ ZAŘÍZENÍ, ODBĚROVÉ ZAŘÍZENÍ, DIAGNOSTICKÁ LABORATOŘ, SMLUVNÍ ZAJIŠTĚNÍ NĚKTERÝCH ČINNOSTÍ TKÁŇOVÉHO ZAŘÍZENÍ
+Tkáňové zařízení, odběrové zařízení, diagnostická laboratoř
+Tkáňové zařízení
+Tkáňové zařízení zpracuje do 1. března každého roku výroční zprávu o činnosti tkáňového zařízení za předcházející kalendářní rok. Tuto zprávu nejpozději k uvedenému datu zveřejní způsobem umožňujícím dálkový přístup. Formu a obsah výroční zprávy stanoví prováděcí právní předpis.
+V případě ukončení činnosti tkáňového zařízení zajistí poskytovatel uchování vzorků od dárce a dokumentace, dále sledovatelnost a dostupnost uskladněných tkání a buněk pro účel jejich použití. Poskytovatel do 15 dnů ode dne ukončení činnosti tkáňového zařízení oznámí Ústavu způsob zajištění povinnosti podle věty první a požádá o zrušení povolení činnosti podle § 20 odst. 5.
+Tkáňové zařízení zajistí
+vytvoření a udržování systému jakosti pro zabezpečení požadavků na
+organizaci a řízení tkáňového zařízení se zaměřením na jakost,
+výběr, posuzování zdravotní a odborné způsobilosti a školení osob, které se podílejí na činnostech tkáňového zařízení,
+dokumentaci, včetně záznamů, tak, aby byly činnosti tkáňového zařízení vymezeny, zaznamenány a dokumentace řádně vedena,
+prostory a vybavení, používané produkty a materiály tak, aby odpovídaly účelu jejich použití a pro příjemce a osoby uvedené v bodu 2 představovaly minimální riziko, včetně požadavků na pracovní postupy, a
+přezkoumání účinnosti systému jakosti, provádění vnitřních kontrol a přijímání případných opatření k nápravě, a to za účelem předcházení nežádoucím odchylkám, popřípadě jejich opakování, a za účelem zlepšování systému jakosti;
+prováděcí právní předpis stanoví požadavky na vytvoření a udržování systému jakosti, které přímo nebo nepřímo přispívají k jakosti a bezpečnosti tkání a buněk v souladu s body 1 až 5,
+výběr a používání takových produktů a materiálů přicházejících do styku s tkáněmi a buňkami,
+které neovlivní nepříznivě jakost a bezpečnost tkání a buněk,
+které jsou uvedeny v postupech schválených v rámci povolení činnosti tkáňového zařízení nebo jeho změn a
+jejichž jakost je ověřena před použitím,
+při opatřování postupy a požadavky podle § 7 odst. 1 písm. b) až d) a použití pouze tkání a buněk, které splňují požadavky na schválení pro zpracování; požadavky na příjem, kontrolu a schválení nebo vyřazení tkání a buněk, které mají být zpracovány, a na záznamy o těchto tkáních a buňkách stanoví prováděcí právní předpis,
+aby postupy, které mohou ovlivnit jakost a bezpečnost tkání a buněk, byly
+zavedeny a prováděny v souladu s Evropským lékopisem a Českým lékopisem, pokyny Komise a Evropské lékové agentury (dále jen „Agentura“),
+prováděny podle standardních pracovních postupů tkáňového zařízení a za kontrolovaných podmínek tak, aby byl zajištěn soulad mezi jednotlivými přípravky stejného typu,
+validovány před jejich zavedením a před zavedením každé změny, která může ovlivnit jakost a bezpečnost tkání a buněk, a aby validace byly pravidelně ověřovány,
+a to tak, aby byla tato jakost a bezpečnost zaručena; požadavky na postupy, které mají zejména vliv na jakost a bezpečnost tkání a buněk, zahrnující postupy zpracování, balení, označení, propouštění pro distribuci a použití, skladování, distribuce a stažení distribuovaných tkání a buněk, stanoví prováděcí právní předpis tak, aby bylo zajištěno, že nemůže být nepříznivě ovlivněna jakost a bezpečnost tkání a buněk,
+systém umožňující identifikaci a sledovatelnost
+tkání a buněk a dárců; za tím účelem je každému dárci, každému darování a každému balení tkání a buněk, které z něj pochází, přiřazen jednoznačný kód, kterým je, pokud je takové přiřazení podle tohoto zákona povinné, jednotný evropský kód,
+každého balení tkání a buněk v průběhu jejich odběru, zpracování, při propuštění a při distribuci, popřípadě odstranění,
+produktů a materiálů, které přicházejí do styku s tkáněmi a buňkami, a
+všech právnických a podnikajících fyzických osob, které mu dodaly nebo od něj přijaly tkáně a buňky;
+způsob vytvoření jednoznačných kódů pro identifikaci darování a konečného balení tkání a buněk stanoví prováděcí právní předpis,
+systém kontrol jakosti a bezpečnosti, přičemž pro provádění těchto kontrol musí být
+k dispozici potřebné vybavení, prostory a postupy,
+používány diagnostické zdravotnické prostředky in vitro podle zákona o zdravotnických prostředcích, nebo které byly validovány pro zamýšlený účel použití,
+laboratorní kontroly prováděny osobami, které jsou přitom nezávislé na jiných pracovištích tkáňového zařízení, a
+vedeny záznamy umožňující rekonstruovat podmínky, provedení, hodnocení a závěry kontroly; záznamy musí být dohledatelné;
+rozsah kontrol jakosti a bezpečnosti a požadavky na jejich provádění, včetně rozsahu laboratorních vyšetření vzorků od dárců a požadavků na jejich provádění, a dobu uchovávání záznamů stanoví prováděcí právní předpis,
+postupy balení, včetně obalů, a postupy skladování, kterými je zaručeno zachování jakosti a bezpečnost tkání a buněk a funkčnosti a celistvosti každého balení tkání a buněk,
+postupy a podmínky, které zaručují zachování jakosti a bezpečnosti tkání a buněk při jejich distribuci, a postupy a podmínky pro přesné rychlé a doložitelné stažení distribuovaných tkání a buněk z dalšího použití,
+postupy pro vyřizování žádostí o poskytnutí tkání a buněk, včetně pravidel pro přidělování tkání a buněk pro příjemce a pro poskytovatele, do jehož zdravotnického zařízení se tkáně a buňky poskytují, a dokumentování těchto postupů a dále, aby s pravidly uplatněnými pro přidělování tkání a buněk byl seznámen pacient, popřípadě poskytovatel, a to na jejich žádost,
+aby nedocházelo k záměně tkání a buněk a jejich znečištění; zavede postupy pro nakládání s tkáněmi a buňkami, které mají být vyřazeny, včetně ochrany prostředí a osob před znečištěním těmito tkáněmi a buňkami,
+při distribuci tkání a buněk dodržování pravidel správné distribuční praxe; pravidla správné distribuční praxe pro distribuci tkání a buněk stanoví prováděcí právní předpis.
+Tkáňové zařízení zajistí identifikaci a sledovatelnost tkání a buněk podle odstavce 1 písm. e) bodů 1 a 2 použitím jednotného evropského kódu od odběru až k použití u člověka nebo likvidaci a naopak. U tkání a buněk používaných k výrobě léčivých přípravků pro moderní terapii musí být zajištěna sledovatelnost alespoň k výrobci léčivých přípravků pro moderní terapii.
+Tkáňové zařízení, jde-li o tkáně a buňky jím propouštěné pro distribuci a použití, dále zajistí, aby
+byla stanovena, ověřena a uplatňována kritéria jakosti a bezpečnosti tkání a buněk a doby použitelnosti tkání a buněk v návaznosti na podmínky jejich skladování; v případě, že se během doby použitelnosti v důsledku nových poznatků změní kritéria jakosti nebo bezpečnosti tkání a buněk tak, že může být nežádoucím způsobem ovlivněna bezpečnost a účinnost léčby, stáhne na základě posouzení rizika nepoužité tkáně a buňky z léčebného použití; rozsah kritérií jakosti a bezpečnosti stanoví prováděcí právní předpis,
+byl stanoven a ověřen léčebný a nežádoucí účinek tkání a buněk, jde-li o tkáně a buňky určené pro použití při léčbě příjemce,
+byly dostupné vzorky od dárce uchovávané pro laboratorní vyšetření,
+každé balení propouštěných tkání a buněk bylo provázeno pokyny pro jejich odběratele a údaji o balení, včetně identifikace balení a identifikace tkáňového zařízení, které balení propustilo; pokyny a údaje uvádí na obalu tkání a buněk, popřípadě jsou přiloženy jako součást každého balení,
+nemohlo být propuštěno, distribuováno a použito u člověka žádné balení tkání a buněk, nejsou-li splněny požadavky na jakost a bezpečnost těchto tkání a buněk a požadavky tohoto zákona,
+o každém balení tkání a buněk byly vedeny dohledatelné záznamy umožňující rekonstruovat jeho vznik a použití, popřípadě odstranění,
+postupy a údaje odpovídaly postupům a údajům uvedeným v žádosti o povolení činnosti podle § 17 odst. 3 písm. a) a b) ověřeným podle § 19 odst. 1.
+Tkáňové zařízení, jde-li o jím propouštěné tkáně a buňky pro distribuci a použití nebo o tkáně a buňky jím distribuované z členského státu nebo dovezené ze třetí země, zajistí
+v případě závažné nežádoucí události, závažné nežádoucí reakce nebo podezření na ně
+neprodleně oznámení této skutečnosti Ústavu,
+bez zbytečného odkladu jejich šetření, včetně analýzy příčin,
+neprodleně oznámení závěrů šetření podle bodu 2 a přijatých opatření Ústavu a osobám, kterých se týká; jde-li o riziko nemoci přenášené tkáněmi a buňkami, popřípadě o dodatečně zjištěné riziko, neprodleně oznámí tuto skutečnost Ústavu, dodavateli ze třetí země a odběrateli tkání a buněk a příslušnému orgánu ochrany veřejného zdraví,
+že poskytovateli, který při léčbě příjemce používá tyto tkáně a buňky, budou poskytnuty písemné pokyny o tom,
+jak mají být plněny požadavky na sledovatelnost,
+jak má být postupováno při oznamování závažných nežádoucích událostí, závažných nežádoucích reakcí nebo podezření na ně a
+které údaje o skutečnostech podle bodů 1 a 2 a jakým způsobem mají být poskytnuty tkáňovému zařízení.
+Tkáňové zařízení zajistí řádné vykonávání činností podle odstavce 3 odpovědnou osobou tkáňového zařízení.
+Odborným předpokladem pro výkon funkce odpovědné osoby tkáňového zařízení je řádně ukončené vysokoškolské studium zahrnující alespoň 4 roky teoretické a praktické výuky v oblasti farmacie nebo všeobecného lékařství, biochemie nebo biologie, a nejméně 2 roky odborné praxe v tkáňovém zařízení nebo odběrovém zařízení, popřípadě 2 roky odborné praxe v činnosti obdobné činnosti tkáňového zařízení.
+Odpovědná osoba tkáňového zařízení odpovídá za to, že
+tkáně a buňky jsou opatřovány, vyšetřovány, zpracovány, skladovány a distribuovány a každé balení tkání a buněk je propuštěno v souladu s tímto zákonem; propuštění tkání a buněk a účel, pro který jsou tkáně a buňky propuštěny, odpovědná osoba potvrdí svým podpisem,
+systém jakosti tkáňového zařízení je provozován a řízen v souladu s tímto zákonem,
+je zajištěna sledovatelnost,
+jsou Ústavu poskytovány informace za účelem povolení činnosti tkáňového zařízení a změn povolení,
+jsou prováděna opatření požadovaná Ústavem, který je o jejich provedení informován,
+jsou shromažďovány údaje pro výroční zprávu podle § 4 odst. 1,
+je plněna oznamovací povinnost podle § 5 odst. 4 písm. a),
+přístup k chráněným údajům je umožněn pouze v souladu s oprávněním podle § 3 odst. 3 písm. c).
+Jestliže Ústav podá trestní oznámení z důvodu závažného porušení povinností odpovědné osoby tkáňového zařízení uvedených v odstavci 3 písm. a), oznámí neprodleně tkáňovému zařízení a dotčené odpovědné osobě, že tato odpovědná osoba nesmí do ukončení řízení v dané věci vykonávat činnost podle odstavce 3.
+Odběrové zařízení
+Odběrové zařízení zajistí
+postupy a požadavky podle § 5 odst. 1 písm. a), b), d) až f) a j) v rozsahu odpovídajícím prováděné činnosti,
+opatřování tkání a buněk od dárce tak, aby darování tkání a buněk nebylo zdrojem finanční ani jiné náhrady; dárce může obdržet pouze náhradu účelně, hospodárně a prokazatelně vynaložených výdajů spojených s darováním,
+při opatřování tkání a buněk
+identifikaci dárce,
+poučení dárce, jeho zákonného zástupce nebo osoby blízké a poskytnutí informací o darování a odběru podle zákona upravujícího provádění transplantací, jde-li o tkáně a buňky určené pro transplantaci, nebo podle zákona upravujícího poskytování zdravotních služeb, včetně poskytnutí informace o zaznamenání údajů o dárci a o jejich ochraně,
+informování dárce, popřípadě jeho zákonného zástupce o právu žádat informaci o zjištění vyplývajícím z laboratorních vyšetření a jeho vysvětlení, včetně poskytnutí informace a vysvětlení, pokud jsou jimi požadovány,
+souhlas k odběru a podmínky a přípustnost odběru podle zákona upravujícího provádění transplantací nebo zákona upravujícího zdravotní péči,
+posouzení zdravotní způsobilosti dárce a výběr dárce,
+odběr, značení po odběru, balení, přepravu a předání tkání a buněk tkáňovému zařízení; odběr provede jen tehdy, jsou-li splněny požadavky podle bodů 1 až 5;
+jde-li o tkáně a buňky, které nejsou předmětem úpravy podle zákona upravujícího provádění transplantací nebo zákona upravujícího zdravotní péči a které jsou určené ke zpracování podle tohoto zákona a k použití při léčbě příjemce, použije se pro postup podle bodů 2 a 4 obdobně zákon upravující provádění transplantací; v případě odběru tkání a buněk, který je zemřelému dárci proveden týmy dvou nebo více tkáňových zařízení, zajistí odběrové zařízení vhodný systém sledovatelnosti při všech takových odběrech; rozsah požadavků na opatřování a na postupy prováděné při opatřování tkání a buněk podle bodů 1 až 6, včetně rozsahu údajů identifikujících dárce, rozsahu poskytovaných informací při darování tkání a buněk a vymezení kritérií pro posouzení zdravotní způsobilosti a výběr dárců tkání a buněk pro autologní použití tkání a buněk, kterým se rozumí odběr tkání a buněk a jejich použití u téhož člověka, a alogenní použití tkání a buněk, kterým se rozumí odběr tkání a buněk jednomu člověku a jejich použití u jiného člověka, stanoví prováděcí právní předpis tak, aby nebyla nepříznivě ovlivněna jakost a bezpečnost tkání a buněk a byla zajištěna ochrana dárce, příjemce a budoucího dítěte z asistované reprodukce,
+provádění odběru vzorků od dárce, včetně odběru uchovávaných vzorků, a jednoznačnou identifikaci vzorku od dárce pro každé darování tkání a buněk; požadavky na vzorky od dárce stanoví prováděcí právní předpis,
+aby tkáně a buňky byly poskytovány pouze tkáňovému zařízení, které tkáně a buňky zpracovává a propouští, a to včetně tkání a buněk určených pro použití při výrobě léčivých přípravků; požadavky na poskytování tkání a buněk tkáňovému zařízení stanoví prováděcí právní předpis.
+V případě ukončení činnosti odběrového zařízení zajistí poskytovatel uchování dokumentace a sledovatelnost. Poskytovatel do 15 dnů ode dne ukončení činnosti odběrového zařízení oznámí Ústavu způsob zajištění povinnosti podle věty první a požádá o zrušení povolení činnosti podle § 20 odst. 5.
+Odběrové zařízení zajistí řádné vykonávání činností podle odstavce 3 odpovědnou osobou odběrového zařízení.
+Odborným předpokladem pro výkon funkce odpovědné osoby odběrového zařízení je řádně ukončené vysokoškolské studium zahrnující alespoň 4 roky teoretické a praktické výuky v oblasti farmacie nebo všeobecného lékařství, biochemie nebo biologie a nejméně 1 rok odborné praxe v tkáňovém zařízení nebo odběrovém zařízení.
+Odpovědná osoba odběrového zařízení odpovídá za to, že
+tkáně a buňky jsou opatřovány v souladu s tímto zákonem,
+systém jakosti odběrového zařízení je provozován a řízen v souladu s tímto zákonem,
+jsou Ústavu poskytovány informace za účelem povolení činnosti odběrového zařízení a změn povolení,
+jsou prováděna opatření požadovaná Ústavem, který je o jejich provedení informován.
+Diagnostická laboratoř
+Provozovatel diagnostické laboratoře, kterým může být právnická nebo podnikající fyzická osoba, zajistí postupy a požadavky podle § 5 odst. 1 písm. a), d) a f) v rozsahu odpovídajícím prováděné činnosti.
+V případě ukončení činnosti diagnostické laboratoře zajistí její provozovatel uchování dokumentace. Provozovatel do 15 dnů ode dne ukončení činnosti diagnostické laboratoře oznámí Ústavu způsob zajištění povinnosti podle věty první a požádá o zrušení povolení činnosti (§ 20 odst. 5).
+Smluvní zajištění některých činností tkáňového zařízení
+Tkáňové zařízení, které tkáně a buňky zpracovává a propouští pro distribuci a použití, může činnost, která spočívá v opatřování, vyšetřování nebo distribuci, nebo část činnosti, která je součástí opatřování, vyšetřování, zpracování, skladování nebo distribuce, zadat na základě písemné smlouvy.
+Tkáňové zařízení může smlouvu podle odstavce 1 uzavřít pouze s
+tkáňovým zařízením, odběrovým zařízením nebo provozovatelem diagnostické laboratoře, pokud mají povolení činnosti s oprávněním pro dotčenou činnost,
+odběrovým zařízením, které provádí opatřování tkání a buněk za podmínek a podle požadavků a postupů zavedených tkáňovým zařízením, které tyto tkáně a buňky přebírá, a to pokud Ústav ověří a schválí toto opatřování tkání a buněk v rámci vydání povolení činnosti tkáňového zařízení podle § 17 až 20, nebo
+poskytovatelem, který je držitelem dokladu obdobného povolení podle písmene a) vydaného orgánem členského státu příslušným pro tkáně a buňky.
+Jde-li pouze o distribuci podle § 2 písm. e), může tkáňové zařízení uzavřít smlouvu o přepravě tkání a buněk také s právnickou nebo podnikající fyzickou osobou, která není provozovatelem uvedeným v odstavci 2. Tato osoba musí být držitelem povolení k distribuci tkání a buněk uděleného podle § 20a.
+Tkáňové zařízení může smlouvu podle odstavce 1 uzavřít též s poskytovatelem, který je držitelem povolení podle zákona o léčivech, v němž je tato činnost zahrnuta a jedná se o činnost prováděnou v rámci vyšetřování laboratorních vzorků nebo o část činnosti prováděnou v rámci zpracování tkání a buněk.
+Tkáňové zařízení uvedené v odstavci 1 stanoví požadavky na dodávané produkty, materiály a služby v písemné smlouvě uzavřené s jejich dodavatelem, je-li to nutné pro zajištění jakosti a bezpečnosti tkání a buněk.
+Ze smluv podle odstavců 1, 3 nebo 5 musí vyplývat, že budou splněny pro činnosti zajišťované na jejich základě požadavky tohoto zákona a že nedojde ke změně, která by mohla mít dopad na zjištění jakosti a bezpečnosti tkání a buněk tkáňovým zařízením. Tkáňové zařízení vede evidenci smluv a poskytne opis smlouvy Ústavu na jeho žádost.
+Odpovědnost tkáňového zařízení, které tkáně a buňky propouští pro distribuci a použití, za splnění požadavků tohoto zákona a za jakost a bezpečnost těchto tkání a buněk není ustanoveními odstavců 1, 5 a 6 dotčena.
+DOVOZ A VÝVOZ TKÁNÍ A BUNĚK MEZI ČESKOU REPUBLIKOU A TŘETÍMI ZEMĚMI A DISTRIBUCE MEZI ČESKOU REPUBLIKOU A ČLENSKÝM STÁTEM
+Dovoz tkání a buněk ze třetích zemí
+Dovoz tkání a buněk ze třetí země pro jejich použití při léčbě příjemce zajišťuje tkáňové zařízení, pokud
+nejsou k dispozici vhodné tkáně a buňky pocházející z České republiky nebo z jiného členského státu splňující požadavky tohoto zákona,
+je držitelem povolení činnosti v rozsahu dovozu tkání a buněk vztahujícím se na typ tkání a buněk, které jsou předmětem dovozu,
+jsou splněny podmínky k dovozu podle ustanovení zákona upravujícího provádění transplantací, a to i v případě, kdy dovážené tkáně a buňky nejsou určeny k transplantaci,
+dovážené tkáně a buňky splňují požadavky na jakost a bezpečnost rovnocenné požadavkům podle tohoto zákona a lze je sledovat od dárce k příjemci a od příjemce k dárci,
+jednotlivá balení tkání a buněk obsahují údaje o balení a pokyny podle § 5 odst. 3 písm. d) uvedené v českém jazyce a
+má uzavřenu písemnou smlouvu s dodavatelem ze třetí země podle § 11a odst. 1 s výjimkou případů uvedených v § 11a odst. 2 (dále jen „dovážející tkáňové zařízení“).
+Dovoz tkání a buněk ze třetích zemí pro jejich použití při výrobě léčivých přípravků lze uskutečnit, pokud jsou splněny podmínky podle odstavce 1 písm. c) a požadavky podle zákona o léčivech.
+Tkáňové zařízení uzavře s dodavatelem ze třetí země písemnou smlouvu, pokud alespoň jedna z činností darování, opatřování, vyšetřování, zpracování, skladování nebo dovozu do Evropské unie tkání a buněk, jež mají být dovezeny do Evropské unie, probíhá mimo ni; v písemné smlouvě musí být
+vymezeny požadavky na jakost a bezpečnost tkání a buněk, jejichž splněním se zajistí rovnocennost požadavků na jakost a bezpečnost dovážených tkání a buněk s požadavky stanovenými tímto zákonem,
+sjednán souhlas s tím, že Ústav může provádět kontrolu činností dodavatele ze třetí země, včetně jeho zařízení, a to po dobu platnosti této smlouvy a dále po dobu 24 měsíců ode dne skončení její platnosti, a odpovídající povinnost smluvních stran umožnit Ústavu provádět tuto kontrolu,
+podrobné informace o požadavcích dovážejícího tkáňového zařízení s cílem zajistit, aby byly splněny požadavky na jakost a bezpečnost dovážených tkání a buněk stanovené zákonem a vzájemně odsouhlasené role a povinnosti obou stran při zajišťování rovnocennosti požadavků na jakost a bezpečnost pro dovážené tkáně a buňky,
+ujednání s cílem zajistit, aby dodavatel ze třetí země poskytl dovážejícímu tkáňovému zařízení dokumentaci, vztahující se k činnosti tohoto dodavatele ze třetí země, obsahující minimálně tyto informace:
+podrobný popis kritérií používaných pro identifikaci a hodnocení dárce, informace poskytované dárci nebo jeho rodině, způsob, jakým je získáván souhlas dárce nebo jeho rodiny, a zda bylo nebo nebylo darování dobrovolné a neplacené,
+podrobné informace o diagnostické laboratoři nebo jiném obdobném pracovišti, které dodavatel ze třetí země využívá k vyšetřování tkání a buněk, a o testech, které při tomto vyšetřování provádí,
+podrobné informace o postupech používaných během zpracovávání tkání a buněk, včetně podrobností ohledně validace postupu zpracování,
+u každé činnosti prováděné dodavatelem ze třetí země podrobný popis prostor, nejdůležitějšího vybavení, materiálů a kritérií používaných pro kontrolu kvality a kontrolu prostředí,
+podrobné informace o podmínkách pro propuštění tkání a buněk dodavatelem ze třetí země,
+podrobnosti o případných subdodavatelích využívaných dodavatelem ze třetí země, včetně jména, místa a prováděné činnosti,
+shrnutí poslední inspekce provedené u dodavatele ze třetí země příslušným orgánem třetí země, včetně data, typu inspekce a hlavních závěrů,
+shrnutí posledního auditu provedeného u dodavatele ze třetí země dovážejícím tkáňovým zařízením nebo jeho jménem,
+veškeré příslušné vnitrostátní nebo mezinárodní akreditace,
+ujednání s cílem zajistit, aby dodavatel ze třetí země informoval dovážející tkáňové zařízení o jakékoli závažné nežádoucí události nebo reakci anebo podezření na ně, jež mohou ovlivnit jakost a bezpečnost tkání a buněk, které byly nebo mají být dovezeny dovážejícím tkáňovým zařízením,
+ujednání s cílem zajistit, aby dodavatel ze třetí země informoval dovážející tkáňové zařízení o jakýchkoli podstatných změnách svých činností, včetně částečného nebo úplného zrušení nebo pozastavení povolení vyvážet tkáně a buňky nebo o jiných takových rozhodnutích příslušného orgánu třetí země týkajících se nesplnění podmínek, jež mohou ovlivnit jakost a bezpečnost tkání a buněk, které byly nebo mají být dovezeny dovážejícím tkáňovým zařízením,
+sjednán souhlas s tím, že Ústav může provádět inspekci činností dodavatele ze třetí země, včetně inspekcí na místě, pokud by k ní Ústav hodlal přistoupit v rámci inspekce dovážejícího tkáňového zařízení,
+ujednání zaručující dovážejícímu tkáňovému zařízení právo provádět pravidelný audit dodavatele ze třetí země,
+podmínky, na nichž se strany shodly a které musí být splněny při přepravě tkání a buněk mezi dodavatelem ze třetí země a dovážejícím tkáňovým zařízením,
+ujednání s cílem zajistit, aby záznamy o dárci týkající se dovážených tkání a buněk byly uchovávány dodavatelem ze třetí země nebo jeho subdodavatelem v souladu s právními předpisy o ochraně osobních údajů po dobu 30 let ode dne provedení odběru tkání nebo buněk a aby bylo zajištěno jejich náležité uchování v případě, že by dodavatel ze třetí země ukončil činnost,
+ustanovení o pravidelném přezkumu a v nezbytných případech i o změně této písemné smlouvy, včetně úprav odrážejících případné změny v požadavcích na jakost a bezpečnost tkání a buněk stanovených zákonem,
+seznam veškerých standardních pracovních postupů dodavatele ze třetí země souvisejících s jakostí a bezpečností dovážených tkání a buněk a závazek poskytnout na požádání Ústavu nebo dovážejícího tkáňového zařízení popis těchto standardních pracovních postupů.
+Tkáňové zařízení v případě neodkladné potřeby podle § 13 odst. 1 nebo jednorázového dovozu není povinno
+uzavřít s dodavatelem ze třetí země písemnou smlouvu podle odstavce 1, pokud
+je zajištěna sledovatelnost od dárce k příjemci a od příjemce k dárci a
+dovezené tkáně a buňky se použijí pouze pro příjemce, pro kterého byly konkrétně dovezeny,
+poskytnout Ústavu informace a dokumentaci stanovené prováděcím právním předpisem podle § 17 odst. 5, pokud jsou splněny podmínky podle písmene a) bodů 1 a 2.
+Jednorázový dovoz pro konkrétního příjemce může tkáňové zařízení uskutečnit pouze jednou.
+Vývoz tkání a buněk do třetích zemí
+Vývoz tkání a buněk do třetích zemí pro jejich použití k léčbě příjemce zajišťuje tkáňové zařízení, jde-li o jím propuštěné tkáně a buňky pro použití k léčbě příjemce, pokud
+vyvážené tkáně a buňky splňují požadavky tohoto zákona a požadavky právních předpisů třetí země; splnění požadavků právních předpisů třetí země prokazuje tkáňové zařízení, které vývoz uskutečňuje, dokladem vydaným příslušným orgánem třetí země; nevydává-li se takový doklad, lze tuto skutečnost osvědčit prohlášením tkáňového zařízení,
+je držitelem povolení činnosti s oprávněním distribuovat typ tkání a buněk, popřípadě srovnatelný typ tkání a buněk, které jsou předmětem vývozu; tkáňové zařízení může zajistit distribuci tkání a buněk do třetí země prostřednictvím osoby, které mají být tkáně a buňky ve třetí zemi dodány nebo jí písemně pověřenou osobou za podmínky, že jde o distribuci tkání a buněk podle právních předpisů státu, do kterého mají být tkáně a buňky vyvezeny, a
+jsou splněny podmínky k vývozu podle zákona upravujícího provádění transplantací, a to i v případě, kdy vyvážené tkáně a buňky nejsou určeny k transplantaci.
+Vývoz tkání a buněk do třetích zemí pro jejich použití při výrobě léčivých přípravků lze uskutečnit, pokud jsou splněny
+podmínky podle odstavce 1 písm. c) a
+požadavky podle tohoto zákona na darování, opatřování, vyšetřování a propuštění tkání a buněk pro účel použití při výrobě léčivých přípravků a požadavky právních předpisů třetí země; splnění požadavků právních předpisů třetí země prokazuje tkáňové zařízení propouštějící tyto tkáně a buňky pro vývoz dokladem vydaným příslušným orgánem třetí země; nevydává-li se takový doklad, lze tuto skutečnost osvědčit prohlášením tkáňového zařízení.
+Distribuce tkání a buněk mezi Českou republikou a jiným členským státem
+Distribuci tkání a buněk mezi Českou republikou a jiným členským státem zajišťuje tkáňové zařízení, pokud
+tkáně a buňky splňují požadavky na jakost a bezpečnost rovnocenné požadavkům stanoveným v tomto zákoně,
+je držitelem povolení činnosti s oprávněním propouštět a distribuovat daný typ tkání a buněk, popřípadě srovnatelný typ tkání a buněk, a
+jsou splněny podmínky k dovozu nebo vývozu podle zákona upravujícího provádění transplantací, a to i v případě, kdy tkáně a buňky nejsou určeny k transplantaci.
+Neodkladná potřeba tkání a buněk
+Distribuci z členského státu nebo dovoz ze třetí země v případě neodkladné potřeby tkání a buněk pro použití při léčbě konkrétního příjemce zajišťuje tkáňové zařízení, které je držitelem povolení činnosti s oprávněním propouštět a distribuovat daný typ tkání a buněk, popřípadě srovnatelný typ tkání a buněk. Povolení k dovozu z členského státu nebo dovozu ze třetí země v případě neodkladné potřeby vydává Ministerstvo zdravotnictví podle zákona upravujícího provádění transplantací. V případě neodkladné potřeby tkání a buněk pro použití při léčbě konkrétního příjemce se požadavky na ověřování jakosti a bezpečnosti tkání a buněk a požadavky na kódování tkání a buněk pro dovážené tkáně a buňky neuplatní. Neodkladnou potřebou se rozumí jakákoli neočekávaná situace, pro kterou není jiná možnost řešení než bezodkladně dovézt nebo distribuovat tkáně a buňky pro okamžité použití u konkrétního příjemce nebo příjemců, jejichž zdraví by bez takového dovozu nebo distribuce bylo vážně ohroženo.
+Uskutečnění distribuce nebo dovozu podle odstavce 1 oznámí tkáňové zařízení Ministerstvu zdravotnictví neprodleně, nejpozději však do 3 pracovních dnů od dodání tkání a buněk poskytovateli pro použití při léčbě příjemce. Formu a rozsah oznámení stanoví prováděcí právní předpis.
+Je-li nutné uskutečnit distribuci nebo dovoz podle odstavce 1, je podmínkou distribuce nebo dovozu souhlas odpovědné osoby tkáňového zařízení a ošetřujícího lékaře, a to po vyhodnocení rizika a prospěšnosti použití tkání a buněk pro konkrétního příjemce.
+ORGÁNY VYKONÁVAJÍCÍ STÁTNÍ SPRÁVU V OBLASTI TKÁNÍ A BUNĚK
+Ministerstvo zdravotnictví
+Ministerstvo zdravotnictví
+podporuje opatřování tkání a buněk neziskovým způsobem a opatření za účelem zajištění dostupnosti a soběstačnosti v oblasti jejich použití,
+rozhoduje o odvoláních proti rozhodnutím Ústavu vydaných podle tohoto zákona,
+informuje Komisi o
+opatřeních přijatých k rozvoji dobrovolného neplaceného dárcovství tkání a buněk každé tři roky,
+právních předpisech přijímaných v oblasti působnosti předpisů Evropské unie.
+Státní ústav pro kontrolu léčiv
+Ústav
+vydává rozhodnutí podle tohoto zákona,
+provádí kontrolu dodržování tohoto zákona,
+sleduje výskyt, řešení a hodnocení závažných nežádoucích reakcí, závažných nežádoucích událostí nebo podezření na ně; o oznámených závažných nežádoucích reakcích a událostech předává jednou za rok zprávu Komisi; informace o závažných nežádoucích reakcích a událostech poskytuje příslušným orgánům členských států s cílem zabezpečit odpovídající opatření, aby závadné tkáně a buňky nebyly používány,
+rozhoduje v případech pochybností, zda jde o tkáně a buňky, na jejichž zpracování, skladování a distribuci se vztahují ustanovení tohoto zákona.
+V oblasti jakosti a bezpečnosti tkání a buněk Ústav zajišťuje
+spolupráci s příslušnými orgány členských států, Komisí a Agenturou, včetně zastupování v pracovních skupinách a výborech uvedených orgánů; na odůvodněnou žádost příslušného orgánu jiného členského státu nebo Komise Ústav provádí kontroly a poskytuje informace o výsledcích kontrol a popřípadě o kontrolních opatřeních provedených podle tohoto zákona,
+propojení informačních systémů jím vedených s informačními systémy členských států a ve vztahu k těmto systémům zajišťuje výměnu informací vyžadovaných předpisy Evropské unie, jakož i výměnu dalších údajů požadovaných Komisí,
+předkládání zprávy Komisi podle jejích požadavků o činnostech prováděných podle tohoto zákona, včetně zprávy o opatřeních přijatých v souvislosti s výkonem kontroly, a to každé 3 roky nejpozději do 7. dubna příslušného roku,
+zveřejnění informací, pokynů a jiných záznamů podle § 24 odst. 1,
+na základě důvodné žádosti příslušného orgánu jiného členského státu, do něhož jsou následně distribuovány tkáně a buňky dovezené do České republiky ze třetí země, provedení kontroly
+v dovážejícím tkáňovém zařízení a
+u dodavatele ze třetí země, který uzavřel smlouvu podle § 11a odst. 1.
+V oblasti kódování tkání a buněk Ústav zajišťuje činnosti uvedené v § 20c.
+Ústav oznámí
+příslušnému orgánu jiného členského státu zjištění, že
+v databázi tkáňových zařízení Evropské unie jsou vedeny nesprávné informace o tomto jiném členském státu, nebo
+došlo k závažnému porušení ustanovení souvisejících s jednotným evropským kódem, které se týká tohoto jiného členského státu,
+Komisi a příslušnému orgánu jiného členského státu zjištění, že je třeba aktualizovat databázi přípravků z tkání a buněk Evropské unie.
+PODMÍNKY PRO ZACHÁZENÍ S TKÁNĚMI A BUŇKAMI
+Způsobilost pro zacházení s tkáněmi a buňkami
+Nakládat s tkáněmi a buňkami při jejich darování, opatřování, vyšetřování, zpracování, skladování a distribuci mohou pouze fyzické osoby starší 18 let, způsobilé k právním úkonům, bezúhonné, zdravotně a odborně způsobilé pro konkrétní druh činnosti v souladu s požadavky vytvořenými a udržovanými provozovatelem v rámci systému jakosti.
+Podmínka dovršení 18 let podle odstavce 1 se nevztahuje na osoby, které zacházejí s tkáněmi a buňkami při výuce.
+Fyzické osoby zacházející s tkáněmi a buňkami, které nejsou zdravotnickými pracovníky nebo jinými odbornými pracovníky podle zákonů upravujících způsobilost k výkonu zdravotnických povolání, se považují za bezúhonné pro účely tohoto zákona, pokud nebyly pravomocně odsouzeny k nepodmíněnému trestu odnětí svobody pro úmyslný trestný čin spáchaný v souvislosti se zacházením s tkáněmi a buňkami, popřípadě s humánními léčivy. Splnění podmínky bezúhonnosti se dokládá výpisem z evidence Rejstříku trestů nebo dokladem odpovídajícím výpisu z evidence Rejstříku trestů, vydaného jednak státem, jehož je fyzická osoba občanem, jakož i státy, na jejichž území se fyzická osoba v posledních 3 letech zdržovala nepřetržitě déle než 6 měsíců. Jestliže stát uvedený ve větě druhé splnění podmínky bezúhonnosti nepotvrzuje, doloží toto splnění fyzická osoba svým prohlášením. Doklady nebo prohlášení v cizím jazyce musí být opatřeny úředně ověřeným překladem do českého jazyka.
+Povolení činnosti
+Žádost o povolení činnosti musí obsahovat
+doklad osvědčující, že jde o poskytovatele, nebo doklad osvědčující, že jde o právnickou nebo podnikající fyzickou osobu, která provozuje laboratoř,
+doklad o právu používat prostory a vybavení pro činnosti, které jsou předmětem žádosti, a
+údaje a dokumentaci dokládající předpoklady žadatele plnit povinnosti podle tohoto zákona.
+Žádost o povolení činnosti tkáňového zařízení nebo odběrového zařízení dále obsahuje
+údaje upřesňující typy tkání a buněk a
+doklady osvědčující plnění požadavků kladených na odpovědnou osobu podle § 6 odst. 2 nebo § 8 odst. 2, včetně údajů nezbytných pro její identifikaci, a to v rozsahu jméno, popřípadě jména, a příjmení a kontaktní údaje.
+Žádost o povolení činností tkáňového zařízení propouštějícího tkáně a buňky pro distribuci a použití též obsahuje údaje a dokumentaci
+o propouštěných tkáních a buňkách a postupech zajišťovaných tkáňovým zařízením,
+o léčebném, popřípadě nežádoucím účinku tkání a buněk a o jeho ověření a
+pro hodnocení rizik, které tkáně a buňky mohou představovat.
+Žádost o povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země obsahuje údaje a dokumentaci podle odstavců 1 až 3 a dále vedle obecných náležitostí podle správního řádu
+informace o dovážejícím tkáňovém zařízení, a to
+název pracoviště, ve kterém tkáňové zařízení provádí svou činnost,
+adresa zdravotnického zařízení, v němž tkáňové zařízení vykonává svou činnost,
+adresa místa, kde dochází k příjmu dovozu, a
+status tkáňového zařízení; statusem se rozumí informace, zda je žadatel již držitelem povolení činnosti dovážejícího tkáňového zařízení, zda nově žádá o povolení činnosti nebo zda žádá o změnu ve stávajícím povolení činnosti,
+kontaktní údaje žadatele, a to
+elektronická adresa, telefonní číslo a číslo faxu,
+jméno osoby oprávněné jednat jménem žadatele, jde-li o právnickou osobu, a jméno odpovědné osoby podle § 6 odst. 2,
+internetová adresa stránek dovážejícího tkáňového zařízení, pokud existuje, a
+poštovní adresa, je-li odlišná od sídla tkáňového zařízení nebo adresy uvedené podle písmene a) bodů 2 a 3,
+podrobnosti o tkáních a buňkách, jež mají být dováženy, a to
+seznam druhů tkání a buněk, jež mají být dováženy,
+jméno dodavatele ze třetí země pro každý druh tkáně a buněk, který má být dovážen,
+specifikace činností podle druhu tkání a buněk a osob, které je provádějí, a to
+uvádějící u každého druhu tkání nebo buněk, které z činností darování, odběru, vyšetřování, zpracování, konzervace nebo skladování před dovozem provádí dodavatel ze třetí země nebo subdodavatel ze třetí země,
+výčet všech činností, které dovážející tkáňové zařízení po dovozu provádí u každého druhu tkání nebo buněk, a
+u každého druhu tkání nebo buněk názvy třetích zemí, v nichž probíhají činnosti před dovozem,
+údaje o dodavatelích ze třetích zemí, se kterými tkáňové zařízení má uzavřenou písemnou smlouvu podle § 11a odst. 1, a to
+název dodavatele ze třetí země,
+jméno osoby oprávněné jednat jménem dodavatele ze třetí země,
+adresa sídla dodavatele ze třetí země,
+poštovní adresa dodavatele ze třetí země, je-li odlišná od sídla dodavatele ze třetí země, a
+elektronická adresa a telefonní číslo dodavatele ze třetí země,
+dokumentace, která musí být přiložena k žádosti, a to
+kopie písemné dohody s dodavatelem nebo dodavateli ze třetí země,
+podrobný popis pohybu dovezených tkání a buněk od jejich odběru až po přijetí v dovážejícím tkáňovém zařízení a
+kopie osvědčení o povolení k vývozu dodavatele ze třetí země nebo, pokud se žádné specifické osvědčení o povolení k vývozu nevydává, osvědčení od příslušného orgánu nebo orgánů třetí země povolující činnosti dodavatele ze třetí země v odvětví tkání a buněk, včetně vývozu. Tato dokumentace musí rovněž obsahovat kontaktní údaje na příslušný orgán nebo orgány třetí země. V případě třetích zemí, kde tato dokumentace není k dispozici, je třeba poskytnout jiné dokumenty, které dokládají oprávnění dodavatele ze třetí země k vývozu podle právních předpisů této třetí země, jako jsou zejména zprávy o auditu dodavatele ze třetí země.
+Dovážející tkáňové zařízení na žádost Ústavu předloží a v případě potřeby Ústavu poskytne dokumentaci týkající se dovážejícího tkáňového zařízení a dokumentaci týkající se dodavatele nebo dodavatelů ze třetích zemí.
+Strukturu, rozsah a nezbytné náležitosti údajů a dokumentace uvedených v odstavcích 1 až 5 stanoví prováděcí právní předpis.
+Ústav rozhodne o žádosti o povolení činnosti do 90 dnů od jejího doručení.
+Ústav může požadovat od žadatele další informace a dokumentaci pro rozhodnutí o žádosti. Ústav může provádět šetření na místě předpokládané činnosti žadatele za účelem ověření skutečností uvedených v žádosti a předpokladů plnit ustanovení tohoto zákona. Zjistí-li Ústav nedostatky, písemně vyzve žadatele k jejich odstranění ve stanovené lhůtě a řízení o vydání povolení činnosti přeruší. Pokud žadatel nedostatky ve stanovené lhůtě neodstraní, Ústav žádost zamítne.
+Ústav vydá povolení činnosti po ověření skutečností uvedených v žádosti a ověření předpokladů žadatele plnit povinnosti stanovené v tomto zákoně.
+Ústav v rozhodnutí o povolení činnosti uvede rozsah činností a typ tkání a buněk, pro které se povolení vydává. Ústav v rozhodnutí o povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země uvede typ dovážených tkání a buněk a dodavatele ze třetí země. Ústav může v rozhodnutí o povolení činnosti uložit zvláštní povinnosti, popřípadě podmínky, vyplývající zejména ze specifického charakteru tkání a buněk nebo jejich použití, anebo ze specifického charakteru postupů. Pokud je rozhodnutím povolována činnost tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země, může Ústav takovým rozhodnutím dále omezit druhy tkání a buněk, které mohou být dováženy, nebo dodavatele ze třetích zemí, kteří smí být využíváni.
+Ústav po nabytí právní moci rozhodnutí o povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země vydá tkáňovému zařízení osvědčení o vydání povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země.
+Osvědčení o vydání povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země vydané Ústavem obsahuje tyto náležitosti:
+název dovážejícího tkáňového zařízení,
+kód databáze tkáňových zařízení Evropské unie,
+kontaktní údaje dovážejícího tkáňového zařízení,
+druh dovážených tkání a buněk,
+činnosti dovážejícího tkáňového zařízení ve třetích zemích,
+podmínky stanovené pro dovoz,
+informace o dodavatelích ze třetích zemí,
+datum udělení osvědčení o vydání povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země a
+datum ukončení platnosti osvědčení o vydání povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země.
+Vzor osvědčení o vydání povolení činnosti tkáňového zařízení v rozsahu dovozu tkání a buněk ze třetí země stanoví prováděcí právní předpis.
+Tkáňové zařízení, odběrové zařízení nebo provozovatel diagnostické laboratoře je povinen předem požádat Ústav o změnu povolení činnosti v případě zamýšlených změn oproti podmínkám, za kterých bylo povolení vydáno; obdobně postupuje i v případě změny odpovědné osoby nebo změny činnosti, popřípadě části činnosti, zajišťované smluvně podle § 10 odst. 1. Žádost o změnu musí obsahovat údaje o požadované změně v rozsahu stanoveném v § 17.
+Dovážející tkáňové zařízení je v případě zamýšlené podstatné změny svých činností povinno předem požádat o změnu povolení činnosti v rozsahu dovozu tkání a buněk ze třetí země. Za takové změny jsou považovány zejména změny druhu dovážených tkání a buněk, činností prováděných ve třetích zemích, které mohou ovlivnit kvalitu a bezpečnost dovážených tkání a buněk, nebo dodavatelů ze třetích zemí. Jestliže dovážející tkáňové zařízení provede jednorázový dovoz tkání nebo buněk pocházejících od dodavatele ze třetí země, na kterého se nevztahuje stávající povolení činnosti v rozsahu dovozu tkání a buněk ze třetí země, není tento dovoz považován za podstatnou změnu, pokud má dovážející tkáňové zařízení oprávnění na dovoz stejného druhu tkání nebo buněk od jiného dodavatele nebo dodavatelů ze třetích zemí. Žádost o změnu povolení činnosti musí obsahovat údaje o požadované změně v rozsahu stanoveném v § 17.
+Ústav o žádosti podle odstavce 1 nebo 2 rozhodne do 30 dnů ode dne jejího doručení, přičemž postupuje podle § 18 a 19 obdobně. Jsou-li Ústavu známy nové skutečnosti, může zahájit řízení o změně povolení činnosti z moci úřední a rozhodne do 30 dnů ode dne zahájení řízení, přičemž postupuje podle § 18 a 19 obdobně. V případě, kdy je potřebné provést šetření na místě, prodlužují se lhůty uvedené ve větě první a druhé na 90 dnů.
+Změny údajů nezbytných pro zajištění součinnosti Ústavu s držitelem povolení činnosti, a to zejména změnu telefonního spojení, čísla faxu, adresy elektronické pošty a domovské stránky informačního prostředku umožňujícího dálkový přístup, je držitel povolení činnosti povinen neprodleně oznámit Ústavu. Na změny uvedené ve větě první se odstavec 1 nepoužije.
+Povolení činnosti Ústav zruší na žádost toho, komu bylo vydáno, popřípadě za podmínek uvedených v § 22 odst. 2.
+Pokud držitel povolení činnosti po dobu nejméně 3 let ode dne nabytí právní moci tohoto povolení nevykonává činnosti uvedené v tomto povolení nebo po dobu 3 let vykonávání těchto činností přeruší, povolení činnosti zaniká.
+Povolení činnosti může být omezeno jen na povolení k distribuci tkání a buněk. Pro obsah žádosti o povolení k distribuci tkání a buněk se ustanovení § 17 neužije; žádost se předkládá Ústavu a musí obsahovat
+doklad osvědčující, že jde o právnickou nebo podnikající fyzickou osobu,
+postupy a podmínky, které zaručují zachování jakosti a bezpečnosti tkání a buněk při jejich distribuci,
+postupy a podmínky pro přesné, rychlé a doložitelné stažení distribuovaných tkání a buněk z dalšího použití,
+údaje a dokumentaci dokládající předpoklady žadatele při distribuci tkání a buněk plnit povinnosti podle tohoto zákona.
+Strukturu, rozsah a nezbytné náležitosti údajů a dokumentace uvedených v odstavci 1 stanoví prováděcí právní předpis.
+Při rozhodování o žádosti o povolení k distribuci tkání a buněk podle odstavce 1 Ústav postupuje podle § 18 a 19 obdobně a pro změny tohoto povolení, jeho zrušení a zánik platí § 20 obdobně.
+Pro držitele povolení k distribuci tkání a buněk platí při jejich distribuci stejné povinnosti, jaké má při jejím provádění provozovatel tkáňového zařízení. Držitel povolení k distribuci tkání a buněk je povinen při jejich distribuci dodržovat pravidla správné distribuční praxe stanovená prováděcím právním předpisem vydaným podle § 5 odst. 1 písm. k).
+KÓDOVÁNÍ TKÁNÍ A BUNĚK
+Jednotným evropským kódem se opatřují všechny distribuované tkáně a buňky, které jsou propuštěny do oběhu k použití u člověka. Jednotný evropský kód je jedinečným identifikátorem, který sestává ze
+sekvence identifikace darování; sekvence identifikace darování sestává z kódu tkáňového zařízení a jedinečného čísla darování a
+sekvence identifikace přípravku; sekvence identifikace přípravku sestává z kódu přípravku, čísla frakce a data ukončení doby použitelnosti.
+V případech jiných než uvedených ve větě první, není-li dále stanoveno jinak, musí být alespoň v doprovodné dokumentaci použita nejméně sekvence identifikace darování.
+Jednotný evropský kód podle odstavce 1 se nepoužije, jde-li o
+darování reprodukčních buněk mezi mužem a ženou, kteří spolu tvoří neplodný pár a podstupují léčbu neplodnosti společně,
+tkáně a buňky, pokud zůstanou v rámci jednoho tkáňového zařízení a v jednom zdravotnickém zařízení,
+tkáně a buňky dovezené ze třetí země, pokud zůstanou od dovozu až po použití u člověka v rámci jednoho tkáňového zařízení a v jednom zdravotnickém zařízení.
+Tvorbu a strukturu jednotného evropského kódu, požadavky na jeho použití, strukturu kódu přípravku a technická pravidla systému přidělování jedinečných čísel darování stanoví prováděcí právní předpis.
+Tkáňové zařízení zajistí
+přidělení jednotného evropského kódu všem tkáním a buňkám, u nichž musí být tento kód použit, a to nejpozději před jejich distribucí k použití u člověka,
+přidělení sekvence identifikace darování tkáním a buňkám po odběru nebo při dovozu tkání a buněk ze třetí země; v případě kolekce se konečnému přípravku přidělí nové identifikační číslo darování, přičemž sledovatelnost k jednotlivým případům darování zajistí tkáňové zařízení, v němž je kolekce prováděna; kolekcí se rozumí fyzický kontakt nebo mísení tkání a buněk z jednoho nebo více odběrů od stejného dárce nebo od dvou nebo více dárců v jedné nádobě; sekvenci identifikace darování po přidělení nelze měnit s výjimkou, kdy je potřebné opravit chybu způsobenou nesprávným zadáním, přičemž jakákoli oprava musí být řádně zdokumentována,
+použití jednoho z používaných kódovacích systémů přípravků a odpovídajících čísel přípravků z tkání a buněk obsažených v databázi přípravků z tkání a buněk Evropské unie, a to nejpozději před jejich distribucí k použití u člověka,
+použití příslušného čísla frakce a data ukončení doby použitelnosti; v případě tkání a buněk, u nichž nebylo stanoveno datum ukončení doby použitelnosti, musí být jako datum ukončení doby použitelnosti uvedeno číslo „00000000“, a to nejpozději před jejich distribucí k použití u člověka,
+uvedení jednotného evropského kódu na štítku dotčených tkání a buněk nesmazatelnou a trvalou formou a jeho uvedení v příslušné doprovodné dokumentaci nejpozději před distribucí tkání a buněk k použití u člověka; tkáňové zařízení může označení přípravku svěřit jinému poskytovateli, který s tkáněmi a buňkami zachází, za podmínky, že je zajištěn soulad s tímto zákonem, a to zejména, pokud jde o jedinečnost kódu; pokud umístění jednotného evropského kódu na štítku brání velikost štítku, musí být kód jednoznačně spojen s tkáněmi a buňkami, na jejichž obalu je tento štítek uveden, a to prostřednictvím doprovodné dokumentace, a
+přijetí nezbytných opatření v případě nesprávného umístění jednotného evropského kódu na štítku.
+Tkáňové zařízení neprodleně, nejpozději však do 10 pracovních dnů ode dne, kdy byla zjištěna dotčená skutečnost, informuje Ústav, pokud
+informace uvedené v databázi tkáňových zařízení Evropské unie vyžadují aktualizaci nebo opravu,
+databáze přípravků z tkání a buněk Evropské unie vyžaduje aktualizaci, nebo
+zaznamená, že došlo k závažnému porušení požadavků v souvislosti s jednotným evropským kódem týkajících se tkání a buněk získaných od jiných tkáňových zařízení Evropské unie.
+Ústav v oblasti kódování tkání a buněk zajistí:
+po vydání povolení činnosti podle tohoto zákona vložení údajů do databáze tkáňových zařízení Evropské unie; tyto údaje zahrnují
+název tkáňového zařízení,
+kód tkáňového zařízení,
+adresu tkáňového zařízení, popřípadě adresu pracoviště poskytovatele, které je tkáňovým zařízením,
+kontaktní údaje, kterými jsou elektronická adresa, telefonní číslo a číslo faxu,
+název orgánu, který povolení činnosti vydal,
+název orgánu odpovědného za udržování a aktualizaci údajů v databázi tkáňových zařízení Evropské unie,
+vedení tkání a buněk, pro něž bylo povolení činnosti uděleno,
+uvedení činností, pro něž bylo povolení činnosti uděleno, a
+údaje týkající se veškerých podmínek nebo výjimek uvedených v povolení činnosti,
+přidělení jedinečného čísla tkáňového zařízení všem tkáňovým zařízením, kterým bylo uděleno povolení činnosti podle tohoto zákona; jestliže tkáňové zařízení používá pro přidělování jedinečných čísel darování více systémů kódování, přiděluje se každému systému kódování samostatné jedinečné číslo,
+přidělování jedinečných čísel darování podle prováděcího právního předpisu podle § 20b odst. 3, který je kompatibilní s jednotným evropským kódem, a
+validaci údajů o tkáňových zařízeních vedených v databázi tkáňových zařízení Evropské unie a bez zbytečného odkladu jejich aktualizaci, a to pokud
+je novému tkáňovému zařízení uděleno povolení činnosti,
+se změní údaje o tkáňovém zařízení uvedeném v databázi tkáňových zařízení Evropské unie, nebo nejsou-li údaje správně zaznamenány,
+se změní údaje, které jsou obsahem povolení činnosti tkáňového zařízení, včetně povolení pro nový druh tkání nebo buněk, povolení pro novou činnost, podmínek nebo výjimek v povolení činnosti, nebo
+dojde k částečnému nebo úplnému pozastavení povolení pro určitou činnost nebo druh tkání nebo buněk, částečnému nebo úplnému zrušení povolení činnosti tkáňového zařízení nebo zániku povolení činnosti tkáňového zařízení.
+KONTROLNÍ ČINNOST A OPATŘENÍ
+Ústav kontroluje, zda jsou dodržovány požadavky tohoto zákona; kontroly provádí
+ve zdravotnických zařízeních, v nichž se zachází s tkáněmi a buňkami; jde-li o tkáňové nebo odběrové zařízení, nejméně jednou za 2 roky,
+došlo-li nebo je-li podezření, že došlo k závažné nežádoucí reakci nebo závažné nežádoucí události,
+u právnických nebo podnikajících fyzických osob, které zajišťují plnění vyplývající ze smluv uzavřených podle § 10.
+Ústav provádí rovněž kontroly u dodavatelů ze třetích zemí, kteří uzavřeli smlouvu podle § 11a odst. 1, je-li potřebné ověřit, zda jsou zajištěny požadavky na jakost a bezpečnost dovážených tkání a buněk srovnatelné s požadavky podle tohoto zákona. O případných opatřeních, která budou přijata, rozhodne Ústav, a to na základě konzultací s příslušným orgánem členského státu, který předložil žádost o provedení kontroly.
+Ústav zakáže distribuci tkání a buněk, dovoz tkání a buněk ze třetí země nebo používání tkání a buněk nebo nařídí jejich stažení z použití, popřípadě jejich odstranění a zároveň stanoví rozsah zákazu, stažení nebo odstranění, pokud
+tkáně a buňky jsou nebo mohou být za běžných podmínek použití škodlivé,
+tkáně a buňky nemají léčebnou účinnost,
+zdravotní riziko převažuje nad prospěšností tkání a buněk, nebo
+došlo k závažnému porušení povinnosti stanovené tímto zákonem.
+Ústav může podle charakteru a závažnosti zjištění pozastavit nebo zrušit povolení činnosti, a to v celém rozsahu nebo pro určitou činnost, postup nebo pro určitý typ tkání a buněk, pokud
+se změní údaje nebo podmínky ověřené pro povolení činnosti a není splněna povinnost k nahlášení změny, nebo
+došlo k porušení povinnosti stanovené tímto zákonem.
+V rozhodnutí o pozastavení Ústav stanoví omezení práv a povinností během pozastavení a vymezí lhůtu pro odstranění příčin pozastavení. Odvolání proti rozhodnutí o pozastavení nemá odkladný účinek.
+Ústav v případě ohrožení života a zdraví lidí tkáněmi a buňkami neprodleně informuje o svých opatřeních osoby, jejichž činnosti se ohrožení týká, a osoby, které mohou být ohroženy. Orgány vykonávající státní správu v oblasti tkání a buněk a zdravotní péče, krajské úřady, profesní organizace lékařů, zdravotní pojišťovny a poskytovatelé jsou povinni na vyžádání Ústavu poskytnout údaje nezbytně nutné pro vyhledání ohrožené osoby.
+Fyzická osoba, která je Ústavem pověřena kontrolní činností, (dále jen „inspektor“) se prokazuje průkazem inspektora, jde-li o zaměstnance Ústavu, nebo písemným pověřením k jednotlivé kontrole, jde-li o jinou osobu.
+Inspektoři mohou v případě zjištění, že kontrolovaná osoba porušila
+závažným způsobem podmínky a povinnosti stanovené tímto zákonem, pozastavit
+platnost povolení činnosti,
+výkon oprávnění vyplývajícího z rozhodnutí vydaných podle zákonů upravujících zdravotní péči,
+distribuci nebo použití tkání a buněk.
+Inspektoři, kteří jsou pověřeni kontrolní činností u dodavatelů ze třetích zemí, kteří uzavřeli smlouvu podle § 11a odst. 1,
+vyhodnocují a ověřují postupy a činnosti prováděné v zařízeních dodavatelů ze třetích zemí, které jsou významné pro rovnocennost požadavků na jakost a bezpečnost tkání a buněk, jež jsou nebo mají být dováženy, s požadavky stanovenými tímto zákonem,
+přezkoumávají veškeré dokumenty nebo záznamy, které jsou pro uvedené hodnocení a ověřování významné.
+Odborným předpokladem pro výkon funkce inspektora je řádně ukončené vysokoškolské studium v oblasti farmacie nebo všeobecného lékařství, biochemie nebo biologie a dále nejméně 3 roky odborné praxe v takové činnosti, která má vztah k oblasti, v níž inspektor vykonává kontrolní činnost.
+ZVEŘEJŇOVÁNÍ ÚDAJŮ
+Ústav zveřejňuje způsobem umožňujícím dálkový přístup
+seznamy držitelů povolení činnosti s uvedením rozsahu činností,
+informace o závažných nežádoucích událostech a závažných nežádoucích reakcích a informace o opatřeních Ústavu,
+informace o rozhodnutích vydaných podle tohoto zákona,
+pokyny Komise, Agentury a Ústavu vztahující se k podmínkám pro zajištění jakosti a bezpečnosti tkání a buněk.
+Zveřejnění nebo poskytnutí informace související s jakostí a bezpečností tkání a buněk se závažným dopadem na zdraví nebo život osob se nepovažuje za porušení obchodního tajemství podle zvláštního právního předpisu.
+PŘESTUPKY
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že neoprávněně zachází s tkáněmi a buňkami.
+Tkáňové zařízení, odběrové zařízení nebo jiný poskytovatel zacházející s tkáněmi a buňkami se dopustí přestupku tím, že v rozporu s
+§ 3 odst. 3 písm. b) nezajistí
+oznámení závažné nežádoucí události, závažné nežádoucí reakce nebo podezření na ně, nebo
+poskytování údajů,
+§ 3 odst. 3 písm. c) nezajistí anonymizaci údajů, nebo
+§ 3 odst. 3 písm. d) nezajistí sledovatelnost po dobu nejméně 30 let od použití tkání a buněk.
+Držitel povolení k distribuci tkání a buněk se dopustí přestupku tím, že v rozporu s § 20a odst. 4 při jejich distribuci poruší pravidla správné distribuční praxe.
+Tkáňové zařízení, odběrové zařízení nebo provozovatel diagnostické laboratoře se dopustí přestupku tím, že
+nesplní oznamovací povinnost podle § 3 odst. 4,
+nezajistí vedení záznamů uvedených v § 5 odst. 1 písm. f) bodě 4 nebo jejich dohledatelnost,
+nezajistí, aby s tkáněmi a buňkami nakládala fyzická osoba splňující požadavky podle § 16 odst. 1,
+provádí činnost v rozporu s povolením činnosti podle tohoto zákona, nebo
+v rozporu s § 20 odst. 1 nakládá s tkáněmi a buňkami bez rozhodnutí Ústavu o změně povolení činnosti nebo změně odpovědné osoby anebo změně činnosti nebo její části zajišťované smluvně.
+Tkáňové zařízení nebo odběrové zařízení se dopustí přestupku tím, že nezajistí
+použití jen takových produktů nebo materiálů, které jsou vymezeny v § 5 odst. 1 písm. b),
+identifikaci podle § 5 odst. 1 písm. e),
+aby funkci odpovědné osoby vykonávala osoba splňující požadavky podle § 6 odst. 2 nebo § 8 odst. 2,
+v rozporu s § 7 odst. 1 písm. b), aby darování tkání a buněk nebylo zdrojem finanční nebo jiné náhrady, nebo
+při opatřování tkání a buněk postup podle § 7 odst. 1 písm. c).
+Tkáňové zařízení se dopustí přestupku tím, že
+v rozporu s § 4 odst. 1 nezveřejní výroční zprávu,
+nezajistí v rozporu s § 5 odst. 1 písm. c) použití pouze takových tkání a buněk, které splňují požadavky na jejich schválení pro zpracování,
+nezajistí dodržování pravidel správné distribuční praxe při distribuci tkání a buněk podle § 5 odst. 1 písm. k),
+zajistí dovoz tkání a buněk ze třetí země v rozporu s § 11 odst. 1,
+zajistí vývoz tkání a buněk do třetí země v rozporu s § 11b odst. 1,
+zajistí distribuci tkání a buněk mezi Českou republikou a jiným členským státem v rozporu s § 12,
+v rozporu s § 13 odst. 1 zajistí distribuci z členského státu nebo dovoz ze třetí země v případě neodkladné potřeby tkání a buněk bez příslušného oprávnění,
+nesplní oznamovací povinnost podle § 13 odst. 2,
+v rozporu s § 20 odst. 2 nakládá s tkáněmi a buňkami bez rozhodnutí Ústavu o změně povolení činnosti v rozsahu dovozu tkání a buněk ze třetí země,
+nezajistí splnění povinností v oblasti kódování tkání a buněk podle § 20b odst. 4, nebo
+nesplní informační povinnost podle § 20b odst. 5.
+Tkáňové zařízení, jde-li o tkáně a buňky jím propouštěné pro distribuci a použití, se dopustí přestupku tím, že nezajistí v rozporu s
+§ 5 odst. 3 písm. a) stažení nepoužitých tkání a buněk,
+§ 5 odst. 3 písm. e), aby nebylo propuštěno, distribuováno nebo použito u člověka balení tkání a buněk, které nesplňuje požadavky na jakost a bezpečnost tkání a buněk nebo požadavky tohoto zákona, nebo
+§ 5 odst. 3 písm. g), aby postupy nebo údaje odpovídaly údajům nebo postupům uvedeným v žádosti.
+Tkáňové zařízení, jde-li o tkáně a buňky jím propouštěné pro distribuci a použití nebo o jím distribuované tkáně a buňky z členského státu nebo jím dovezené ze třetí země, se dopustí přestupku tím, že nesplní oznamovací povinnost podle § 5 odst. 4 písm a) bodu 1 nebo 3.
+Odběrové zařízení se dopustí přestupku tím, že nezajistí poskytování tkání a buněk podle § 7 odst. 1 písm. e) pouze tkáňovému zařízení.
+Poskytovatel se dopustí přestupku tím, že v případě ukončení činnosti tkáňového zařízení nezajistí splnění požadavků na uchování dokumentace, sledovatelnost nebo dostupnost uskladněných tkání a buněk pro účel použití podle § 4 odst. 2.
+Poskytovatel se dopustí přestupku tím, že nezajistí dodržování písemných pokynů tkáňového zařízení podle § 3 odst. 5.
+Za přestupek lze uložit pokutu
+do 500 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), odstavce 4 písm. b) a e), odstavce 5 písm. a), odstavce 6 písm. a), e) až k) a odstavce 8,
+do 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. b) a c), odstavce 3, odstavce 4 písm. a), c) a d), odstavce 5 písm. b), c) a e), odstavce 6 písm. b) a d), odstavce 7 písm. a) a c), odstavce 9 až 11,
+do 3 000 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 5 písm. d), odstavce 6 písm. c) a odstavce 7 písm. b).
+Přestupky podle tohoto zákona projednává Ústav, s výjimkou přestupků podle § 25 odst. 6 písm. c) spáchaných zajištěním dovozu, vývozu nebo distribuce tkání a buněk v rozporu s § 11 odst. 2, § 11b odst. 2 a § 12 a přestupků podle § 25 odst. 6 písm. d), které projednává Ministerstvo zdravotnictví.
+SPOLEČNÁ A PŘECHODNÁ USTANOVENÍ
+Náhrady výdajů
+Za provedení odborných úkonů na žádost vybírá Ústav náhradu výdajů. Osoba, na jejíž žádost se mají provést odborné úkony spojené s povolením činnosti, změnou tohoto povolení, s vydáním osvědčení nebo stanoviska, anebo s kontrolní činností, je povinna uhradit výdaje, které vznikly Ústavu. Seznam odborných úkonů a výši úhrady výdajů za ně stanoví prováděcí právní předpis.
+Náhrady výdajů podle odstavce 1 jsou vedeny na zvláštním účtu Ústavu. Prostředky na tomto účtu používá Ústav přímo pro zajištění své činnosti.
+Ústav
+je oprávněn požadovat od osoby, na jejíž žádost se odborné úkony mají provést, přiměřenou zálohu, popřípadě i uhrazení výdajů předem, je-li zřejmé, že budou provedeny a jaká bude jejich výše,
+může na žádost prominout náhradu výdajů nebo jejich část, jde-li o úkony, na jejichž provedení je veřejný zájem nebo mohou mít zvlášť významné důsledky pro širší okruh osob.
+Ústav vrátí osobě, která mu poskytla náhradu výdajů podle odstavce 1, a to na její žádost,
+náhradu v plné výši, pokud ji osoba zaplatila, aniž k tomu byla povinna, nebo vyžadovaný odborný úkon nebyl proveden,
+rozdíl mezi výší zaplacené náhrady a výší náhrady stanovené prováděcím právním předpisem,
+poměrnou část zaplacené náhrady odpovídající odborným úkonům, které nebyly do doby ukončení řízení provedeny.
+Ústav je rovněž oprávněn požadovat náhradu výdajů za provedení odborných úkonů od osoby, která nesplněním nebo porušením povinnosti stanovené tímto zákonem způsobila nutnost provedení takových úkonů.
+Využívání rodných čísel
+Tkáňové zařízení nebo odběrové zařízení je oprávněno za podmínek stanovených zvláštním právním předpisem upravujícím ochranu osobních údajů zaznamenat rodné číslo pro potřeby identifikace dárce. Za tímto účelem je provozovatel oprávněn vyžadovat předložení dokladu, ve kterém je rodné číslo uvedeno. Rodné číslo dárce se uchová pro potřeby sledovatelnosti podle § 3 odst. 3 písm. d).
+Zmocňovací ustanovení
+Ministerstvo zdravotnictví vydá vyhlášku k provedení § 3 odst. 3 písm. b) a d), § 4 odst. 1, § 5 odst. 1 písm. a), c) až f) a k), § 5 odst. 3 písm. a), § 7 odst. 1 písm. c) až e), § 13 odst. 2, § 17 odst. 6, § 19 odst. 5, § 20a odst. 2, § 20b odst. 3 a § 27 odst. 1 a odst. 4 písm. b).

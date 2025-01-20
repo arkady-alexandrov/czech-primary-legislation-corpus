@@ -1,0 +1,39 @@
+Tento zákon upravuje působnost vlády, ministerstev, jiných správních úřadů, krajů a obcí v oblasti cen.
+Vláda vykonává působnost při regulaci cen, pokud tak stanoví jiný zákon.
+Ministerstvo financí (dále jen „ministerstvo“) vykonává působnost při uplatňování, regulaci a kontrole cen výrobků, výkonů, prací a služeb (dále jen „zboží“), cen dalšího majetku a majetkových práv, pokud tento zákon nestanoví jinak.
+Ministerstvo vydává právní předpisy pro regulaci a sjednávání cen, určení nepřiměřeného hospodářského prospěchu a neoprávněného majetkového prospěchu v souvislosti s porušením cenových předpisů, cenovou evidenci, poskytování cenových informací, kontrolu cen.
+Ministerstvo zdravotnictví vykonává působnost při uplatňování a regulaci cen u zdravotních výkonů, léčivých přípravků, potravin pro zvláštní lékařské účely, stomatologických výrobků a zdravotnických prostředků.
+Státní ústav pro kontrolu léčiv vydává rozhodnutí o stanovení maximálních cen léčivých přípravků, potravin pro zvláštní lékařské účely podle cenových předpisů a provádí cenovou kontrolu u léčivých přípravků, potravin pro zvláštní lékařské účely, zdravotnických prostředků a stomatologických výrobků.
+Ministerstvo dopravy stanoví rozhodnutím ceny a podmínky jejich uplatnění (tarify) v mezinárodní dopravě.
+Český telekomunikační úřad vykonává působnost při uplatňování, regulaci a kontrole cen poštovních služeb, včetně poštovních služeb do zahraničí, a cen za přístup k poštovní infrastruktuře. Ministerstvo nevykonává působnost při uplatňování, regulaci, sjednávání a kontrole cen v oblasti elektronických komunikací.
+Cenovou kontrolu v oblasti cen za užití dráhy, cen za přidělení kapacity dráhy a cen za poskytnutí služby prostřednictvím zařízení služeb vykonává vedle ministerstva rovněž Úřad pro ochranu hospodářské soutěže. Cenovou kontrolu v oblasti cen za plnění poskytnuté v případech stanovených zákonem o dráhách provozovateli dráhy, který je součástí vertikálně integrovaného podniku, nebo odštěpnému závodu provozovatele dráhy, předmětem jehož činnosti je provozování dráhy, vykonává Úřad pro ochranu hospodářské soutěže.
+Energetický regulační úřad
+vykonává působnost při uplatňování, regulaci, sjednávání a kontrole cen v oblasti energetiky,
+vydává právní předpisy pro regulaci, sjednávání a kontrolu cen v oblasti energetiky,
+vydává rozhodnutí o regulaci cen včetně pravidel pro klíčování nákladů, výnosů a hospodářského výsledku regulovaných a neregulovaných činností.
+Celní úřad pro Středočeský kraj
+vykonává působnost při uplatňování, regulaci a kontrole cen u cigaret,
+vydává rozhodnutí o regulaci cen u cigaret.
+Specializovaný finanční úřad provádí cenovou kontrolu právnických a fyzických osob.
+Specializovaný finanční úřad na základě cenových kontrol ukládá za porušení cenových předpisů pokuty.
+Státní energetická inspekce provádí kontrolu dodržování cenových předpisů v oblasti podpory výroby elektřiny z obnovitelných zdrojů energie, kombinované výroby elektřiny a tepla a druhotných energetických zdrojů.
+Státní energetická inspekce ukládá za porušení cenových předpisů v oblasti podpory výroby elektřiny z obnovitelných zdrojů energie, kombinované výroby elektřiny a tepla a druhotných energetických zdrojů pokuty podle zvláštního právního předpisu.
+Celní úřady provádějí kontrolu dodržování cenových předpisů u cigaret a za jejich porušení ukládají pokuty podle zvláštního právního předpisu.
+Kraj v rozsahu a za podmínek stanovených v rozhodnutí ministerstva může nařízením kraje
+stanovit maximální ceny, pokud nejsou stanoveny ministerstvem,
+stanovit maximální ceny nižší, než jsou maximální ceny stanovené ministerstvem.
+Krajský úřad provádí cenovou kontrolu. Krajský úřad ukládá, vybírá a vymáhá pokuty za porušení cenových předpisů.
+Působnost podle odstavců 1 a 2 se vztahuje na veškerý prodej uskutečňovaný na území kraje bez ohledu na to, zda fyzická osoba nebo právnická osoba, která prodej uskutečňuje, má na území kraje trvalý pobyt nebo sídlo.
+Obec v rozsahu a za podmínek stanovených v rozhodnutí ministerstva může nařízením obce
+stanovit maximální ceny, pokud nejsou stanoveny ministerstvem,
+stanovit maximální ceny nižší, než jsou maximální ceny stanovené ministerstvem,
+stanovit maximální ceny vyšší, než jsou maximální ceny stanovené ministerstvem, nebo určit případy, na které se maximální ceny stanovené ministerstvem nevztahují.
+Obecní úřad provádí cenovou kontrolu. Obecní úřad ukládá, vybírá a vymáhá pokuty za porušení cenových předpisů.
+Působnost podle odstavců 1 a 2 se vztahuje na veškerý prodej uskutečňovaný na území obce bez ohledu na to, zda fyzická osoba nebo právnická osoba, která prodej uskutečňuje, má na území obce trvalý pobyt nebo sídlo.
+Stanoví-li maximální cenu téhož zboží kraj i obec, platí na území obce maximální cena stanovená obcí.
+Pokuta uložená za porušení cenových předpisů je příjmem
+rozpočtu obce, jestliže pokutu uložila obec nebo došlo k porušení cenové regulace stanovené obcí,
+rozpočtu kraje, jestliže pokutu uložil krajský úřad a nejde o pokutu za porušení cenové regulace stanovené obecním úřadem,
+státního rozpočtu v ostatních případech.
+Pokutu uloží ten orgán, který jako první zahájil řízení o porušení cenových předpisů.
+Působnosti stanovené krajskému úřadu nebo obecnímu úřadu podle tohoto zákona jsou výkonem přenesené působnosti.

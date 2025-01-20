@@ -1,0 +1,203 @@
+STŘET ZÁJMŮ A NESLUČITELNOST NĚKTERÝCH FUNKCÍ
+ÚVODNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon upravuje
+povinnost veřejných funkcionářů vykonávat svoji funkci tak, aby nedocházelo ke střetu mezi jejich osobními zájmy a zájmy, které jsou povinni z titulu své funkce prosazovat nebo hájit,
+povinnost veřejných funkcionářů oznamovat skutečnosti, které umožňují veřejnou kontrolu jejich činností konaných vedle výkonu funkce veřejného funkcionáře, veřejnou kontrolu majetku nabytého za dobu výkonu funkce a dalších příjmů, darů nebo jiného prospěchu, získaných za dobu výkonu funkce, popřípadě závazků, které veřejný funkcionář má,
+omezení některých činností veřejných funkcionářů a neslučitelnost výkonu funkce veřejného funkcionáře s jinými funkcemi,
+odpovědnost veřejných funkcionářů za porušení povinností stanovených tímto zákonem, včetně správních trestů, které lze veřejnému funkcionáři za porušení těchto povinností uložit.
+Veřejný funkcionář
+Pro účely tohoto zákona se veřejným funkcionářem rozumí
+poslanec Poslanecké sněmovny Parlamentu České republiky (dále jen „poslanec“),
+senátor Senátu Parlamentu České republiky (dále jen „senátor“),
+prezident republiky, člen vlády nebo vedoucí jiného ústředního správního úřadu, v jehož čele není člen vlády,
+náměstek člena vlády nebo nejvyšší státní tajemník,
+vedoucí Kanceláře Poslanecké sněmovny, vedoucí Kanceláře Senátu nebo vedoucí Kanceláře prezidenta republiky,
+inspektor Úřadu pro ochranu osobních údajů,
+předseda Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví,
+člen Rady Českého telekomunikačního úřadu,
+člen Rady Energetického regulačního úřadu,
+člen bankovní rady České národní banky,
+prezident, viceprezident a člen Nejvyššího kontrolního úřadu,
+předseda nebo člen Úřadu pro dohled nad hospodařením politických stran a politických hnutí,
+veřejný ochránce práv a jeho zástupce,
+člen Rady pro rozhlasové a televizní vysílání,
+člen zastupitelstva kraje nebo člen Zastupitelstva hlavního města Prahy, který je pro výkon funkce dlouhodobě uvolněn nebo který před svým zvolením do funkce člena zastupitelstva nebyl v pracovním poměru, ale vykonává funkce ve stejném rozsahu jako člen zastupitelstva, který je pro výkon funkce dlouhodobě uvolněn,
+člen zastupitelstva obce, městské části nebo městského obvodu územně členěného statutárního města nebo městské části hlavního města Prahy, který je pro výkon funkce dlouhodobě uvolněn nebo který před svým zvolením do funkce člena zastupitelstva nebyl v pracovním poměru, ale vykonává funkce ve stejném rozsahu jako člen zastupitelstva, který je pro výkon funkce dlouhodobě uvolněn, nebo
+starosta obce, městské části nebo městského obvodu územně členěného statutárního města nebo městské části hlavního města Prahy, místostarosta obce s pověřeným obecním úřadem, obce s rozšířenou působností, městské části nebo městského obvodu územně členěného statutárního města, zástupce starosty městské části hlavního města Prahy nebo členové rady obce s rozšířenou působností, městské části nebo městského obvodu územně členěného statutárního města, městské části hlavního města Prahy, kraje nebo hlavního města Prahy, kteří nejsou pro výkon funkce dlouhodobě uvolněni.
+Pokud nejde o veřejného funkcionáře podle odstavce 1, rozumí se pro účely tohoto zákona veřejným funkcionářem také
+ředitel bezpečnostního sboru a vedoucí příslušník bezpečnostního sboru 1. a 2. řídicí úrovně podle zvláštního právního předpisu v bezpečnostním sboru, s výjimkou příslušníků zpravodajských služeb,
+člen statutárního orgánu, člen řídicího, dozorčího nebo kontrolního orgánu právnické osoby zřízené zákonem, státní příspěvkové organizace, příspěvkové organizace územního samosprávného celku, s výjimkou právnických osob vykonávajících činnost školy nebo školského zařízení a s výjimkou členů správních rad veřejných vysokých škol a statutárního orgánu nebo členů statutárního orgánu, členů řídicího, dozorčího nebo kontrolního orgánu samosprávných stavovských organizací zřízených zákonem,
+vedoucí zaměstnanec 2. až 4. stupně řízení podle zvláštního právního předpisu právnické osoby zřízené zákonem, státní příspěvkové organizace, příspěvkové organizace územního samosprávného celku, s výjimkou právnických osob vykonávajících činnost školy nebo školského zařízení,
+vedoucí organizační složky státu, vedoucí zaměstnanec 2. až 4. stupně řízení podle zvláštního právního předpisu v organizační složce státu, s výjimkou zpravodajské služby, nebo představený podle zákona o státní službě, nejde-li o vedoucího oddělení nebo o příslušníka zpravodajské služby,
+vedoucí úředník územního samosprávného celku podílející se na výkonu správních činností zařazený do obecního úřadu, do úřadu městského obvodu nebo úřadu městské části územně členěného statutárního města, do krajského úřadu, do Magistrátu hlavního města Prahy nebo úřadu městské části hlavního města Prahy,
+soudce,
+státní zástupce,
+voják z povolání ve vojenské hodnosti podplukovník a vyšší vojenské hodnosti, s výjimkou příslušníků zpravodajských služeb, nebo
+ředitel veřejné výzkumné instituce podle zákona o veřejných výzkumných institucích.
+Povinnosti podle tohoto zákona se na osobu uvedenou v odstavci 2, která podává oznámení podle § 9 až 11 a § 12 odst. 4 evidenčnímu orgánu, vztahují pouze tehdy, jestliže v rámci výkonu své činnosti
+je oprávněna nakládat s finančními prostředky orgánu veřejné správy jako příkazce operace ve smyslu zákona o finanční kontrole, pokud hodnota finanční operace přesáhne 250 000 Kč,
+bezprostředně se podílí na rozhodování při zadávání veřejné zakázky nebo na rozhodování při výkonu práv a povinností zadavatele při realizaci zadávané veřejné zakázky,
+rozhoduje ve správním řízení, s výjimkou příkazu na místě, nebo
+se podílí na vedení trestního stíhání.
+Povinnosti podle tohoto zákona se nevztahují na osobu uvedenou v odstavci 2 písm. a) nebo h), pokud je její příslušnost k bezpečnostnímu sboru nebo jeho určenému útvaru utajovanou informací podle zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti nebo pokud se na ni vztahují zvláštní postupy k utajení a zajištění bezpečnosti.
+STŘET ZÁJMŮ
+Veřejný funkcionář je povinen zdržet se každého jednání, při kterém mohou jeho osobní zájmy ovlivnit výkon jeho funkce. Osobním zájmem se pro účely tohoto zákona rozumí takový zájem, který přináší veřejnému funkcionáři, osobě blízké veřejného funkcionáře, právnické osobě ovládané veřejným funkcionářem nebo osobou blízkou veřejného funkcionáře zvýšení majetku, majetkového nebo jiného prospěchu, zamezení vzniku případného snížení majetkového nebo jiného prospěchu nebo jinou výhodu; to neplatí, jde-li jinak o prospěch nebo zájem obecně zřejmý ve vztahu k neomezenému okruhu adresátů.
+Dojde-li ke střetu řádného výkonu funkce ve veřejném zájmu se zájmem osobním, nesmí veřejný funkcionář upřednostňovat svůj osobní zájem před zájmy, které je jako veřejný funkcionář povinen prosazovat a hájit.
+Veřejný funkcionář nesmí ohrozit veřejný zájem tím, že
+využije svého postavení, pravomoci nebo informací získaných při výkonu své funkce k získání majetkového nebo jiného prospěchu nebo výhody pro sebe nebo jinou osobu,
+se bude odvolávat na svou funkci v záležitostech, které souvisejí s jeho osobními zájmy, zejména s jeho povoláním, zaměstnáním nebo podnikáním, nebo
+dá za úplatu nebo jinou výhodu ke komerčním reklamním účelům svolení k uvedení svého jména, popřípadě jmen a příjmení nebo svolení ke svému vyobrazení ve spojení s vykonávanou funkcí.
+OMEZENÍ NĚKTERÝCH ČINNOSTÍ VEŘEJNÝCH FUNKCIONÁŘŮ A NESLUČITELNOST VÝKONU FUNKCE VEŘEJNÉHO FUNKCIONÁŘE S JINÝMI FUNKCEMI
+Veřejný funkcionář uvedený v § 2 odst. 1 písm. c) až m) nesmí
+podnikat nebo provozovat jinou samostatnou výdělečnou činnost,
+být členem statutárního orgánu, členem řídícího, dozorčího nebo kontrolního orgánu právnické osoby, která podniká (dále jen „podnikající právnická osoba“), pokud zvláštní právní předpis nestanoví jinak, nebo
+být v pracovněprávním nebo obdobném vztahu nebo ve služebním poměru, nejde-li o vztah nebo poměr, v němž působí jako veřejný funkcionář.
+Omezení podle odstavce 1 se nevztahuje na správu vlastního majetku a na činnost vědeckou, pedagogickou, publicistickou, literární, uměleckou nebo sportovní, nejde-li o vlastní podnikání v těchto oborech.
+Veřejní funkcionáři uvedení v odstavci 1 jsou povinni činnosti tam uvedené ukončit bez zbytečného odkladu poté, co začali vykonávat svou funkci, nejpozději však do 30 dnů ode dne zahájení výkonu funkce. Není-li k ukončení činnosti z důvodů nezávislých na vůli veřejného funkcionáře možné dodržet lhůtu uvedenou v předchozí větě, veřejný funkcionář o této skutečnosti v dané lhůtě informuje evidenční orgán a provede současně všechna potřebná opatření směřující k ukončení činnosti. Ustanovení zvláštních právních předpisů tím nejsou dotčena.
+Veřejný funkcionář uvedený v § 2 odst. 1 nesmí být provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku ani společníkem, členem nebo skutečným majitelem právnické osoby, která je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku. To neplatí v případě, kdy je vydavatelem periodického tisku politická strana, politické hnutí nebo politický institut, právnická osoba jimi ovládaná, nebo právnická osoba ovládaná územním samosprávným celkem anebo pokud je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku právnická osoba, která nemá povinnost vyhotovit výroční zprávu podle zákona upravujícího účetnictví.
+Veřejný funkcionář uvedený v odstavci 1 je bez zbytečného odkladu poté, co začal vykonávat svou funkci, nejpozději však do 60 dnů ode dne zahájení výkonu funkce, povinen ukončit provozování rozhlasového nebo televizního vysílání nebo vydávání periodického tisku nebo ukončit svou účast nebo členství v právnické osobě, která je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku, nebo přestat být jejím skutečným majitelem. Není-li z důvodů nezávislých na vůli veřejného funkcionáře možné dodržet lhůtu uvedenou v předchozí větě, veřejný funkcionář o této skutečnosti v dané lhůtě informuje Úřad pro dohled nad hospodařením politických stran a politických hnutí a provede současně všechna potřebná opatření směřující ke splnění povinnosti uvedené podle věty první. Ustanovení zvláštních právních předpisů tím nejsou dotčena.
+Obchodní společnost, ve které veřejný funkcionář uvedený v § 2 odst. 1 písm. c) nebo jím ovládaná osoba vlastní podíl představující alespoň 25 % účasti společníka v obchodní společnosti, se nesmí účastnit zadávacích řízení podle zákona upravujícího zadávání veřejných zakázek jako účastník nebo poddodavatel, prostřednictvím kterého dodavatel prokazuje kvalifikaci. Zadavatel je povinen takovou obchodní společnost vyloučit ze zadávacího řízení. Zadavatel nesmí obchodní společnosti uvedené ve větě první zadat veřejnou zakázku malého rozsahu, takové jednání je neplatné.
+Je zakázáno poskytnout dotaci podle právního předpisu upravujícího poskytování dotací nebo investiční pobídku podle právního předpisu upravujícího investiční pobídky veřejnému funkcionáři uvedenému v § 2 odst. 1 písm. c) a právnické osobě, jejímž skutečným majitelem je tento veřejný funkcionář. To neplatí pro poskytnutí dotace, na kterou má žadatel při splnění podmínek stanovených právním předpisem právní nárok. Smlouva o poskytnutí dotace nebo investiční pobídky uzavřená v rozporu s tímto ustanovením je neplatná; k neplatnosti soud přihlédne i bez návrhu.
+Poslanci nebo senátorovi, který zastupuje stát v řídících, dozorčích nebo kontrolních orgánech podnikající právnické osoby, pokud v ní má stát, jím ovládané právnické osoby, Česká národní banka, nebo všechny tyto osoby společně, podíl nebo hlasovací práva, nenáleží za tuto činnost odměna, podíl na zisku nebo jiné plnění, s výjimkou plnění, které veřejný funkcionář obdrží v podobě úhrady pojistného na pojištění odpovědnosti za výkon funkce nebo které obdrží v souvislosti se svou účastí na jednání těchto orgánů v souladu s běžnými zvyklostmi do výše 10 000 Kč ročně.
+Veřejnému funkcionáři uvedenému v § 2 odst. 1 písm. o) a p), který je krajem, hlavním městem Prahou, obcí, městskou částí nebo městským obvodem územně členěného statutárního města nebo městskou částí hlavního města Prahy určen, aby vykonával funkci člena řídícího, dozorčího nebo kontrolního orgánu podnikající právnické osoby, pokud v ní kraj, hlavní město Praha, obec, městská část nebo městský obvod územně členěného statutárního města nebo městská část hlavního města Prahy nebo jimi ovládaná právnická osoba má podíl nebo hlasovací práva, nenáleží za tuto činnost odměna, podíl na zisku nebo jiné plnění, s výjimkou plnění, které veřejný funkcionář obdrží v podobě úhrady pojistného na pojištění odpovědnosti za výkon funkce nebo které obdrží v souvislosti se svou účastí na jednání těchto orgánů v souladu s běžnými zvyklostmi do výše 10 000 Kč ročně.
+S funkcí poslance nebo senátora je neslučitelný výkon funkce v pracovním nebo služebním poměru k České republice, pokud jde o funkce jmenované nebo o funkce, v nichž se při výkonu státní správy rozhoduje,
+na ministerstvu nebo na jiném správním úřadu,
+na státním zastupitelství nebo soudu,
+v bezpečnostních sborech, ozbrojených silách České republiky, Nejvyšším kontrolním úřadu, Kanceláři prezidenta republiky, Kanceláři Poslanecké sněmovny, Kanceláři Senátu, státních fondech a v Kanceláři Veřejného ochránce práv.
+Veřejný funkcionář uvedený v § 2 odst. 1 písm. c) až p) a odst. 2 písm. b) až g) se nesmí po dobu 1 roku od skončení výkonu funkce stát společníkem anebo působit v orgánech podnikající právnické osoby, anebo uzavřít pracovněprávní vztah se zaměstnavatelem vykonávajícím podnikatelskou činnost, pokud taková právnická osoba nebo zaměstnavatel v posledních 3 letech přede dnem skončení funkce veřejného funkcionáře uzavřeli smlouvu se státem, územním samosprávným celkem nebo právnickou osobou zřízenou zákonem nebo zřízenou či založenou státem nebo územním samosprávným celkem, jednalo-li se o nadlimitní veřejnou zakázku, a pokud veřejný funkcionář nebo orgán, ve kterém veřejný funkcionář působil, o takové smlouvě rozhodoval.
+Omezení veřejného funkcionáře uvedená v odstavci 1 platí obdobně pro právnické osoby, které jsou podnikající právnickou osobou nebo zaměstnavatelem uvedenými v odstavci 1 zřízeny nebo ovládány.
+PODÁVÁNÍ OZNÁMENÍ O OSOBNÍM ZÁJMU, O ČINNOSTECH, MAJETKU, PŘÍJMECH A ZÁVAZCÍCH
+Čestné prohlášení
+Veřejný funkcionář podává formou čestného prohlášení oznámení o
+osobním zájmu (dále jen „oznámení o osobním zájmu“),
+jiných vykonávaných činnostech (dále jen „oznámení o činnostech“),
+majetku, který vlastní ke dni předcházejícímu dni zahájení výkonu funkce, a majetku nabytém v průběhu výkonu funkce (dále jen „oznámení o majetku“),
+příjmech a závazcích (dále jen „oznámení o příjmech a závazcích“).
+Oznámení o osobním zájmu
+Veřejný funkcionář je povinen při jednání ústavního orgánu, jiného státního orgánu, orgánu územního samosprávného celku nebo orgánu právnické osoby vzniklé ze zákona, ve kterém vystoupí v rozpravě, předloží návrh nebo je oprávněn hlasovat, oznámit svůj poměr k projednávané věci, jestliže se zřetelem k výsledku projednání věci by mu mohla vzniknout osobní výhoda nebo újma anebo má-li na věci jiný osobní zájem; to neplatí, jde-li jinak o prospěch nebo zájem obecně zřejmý ve vztahu k neomezenému okruhu adresátů.
+Oznámení podle odstavce 1 podává příslušný veřejný funkcionář ústně v průběhu jednání, nejpozději však před tím, než orgán přistoupí k hlasování; oznámení je vždy součástí zápisu z jednání.
+Oznámení o činnostech
+Veřejný funkcionář je povinen přesně, úplně a pravdivě oznámit, že
+podniká nebo provozuje jinou samostatnou výdělečnou činnost, a předmět, způsob a místo výkonu podnikání nebo této činnosti,
+je společníkem nebo členem podnikající právnické osoby, a o jakou podnikající právnickou osobu jde (obchodní firma nebo název, identifikační číslo osoby a sídlo),
+je členem statutárního orgánu, členem řídícího, dozorčího nebo kontrolního orgánu podnikající právnické osoby, a o jakou podnikající právnickou osobu jde (obchodní firma nebo název, identifikační číslo osoby a sídlo),
+vykonává činnost v pracovněprávním nebo obdobném vztahu nebo ve služebním poměru, nejde-li o vztah nebo poměr, v němž působí jako veřejný funkcionář,
+je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku, anebo společníkem, členem nebo ovládající osobou právnické osoby, která je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku.
+Oznámení o majetku
+Veřejný funkcionář je povinen přesně, úplně a pravdivě oznámit
+majetek, který vlastní ke dni předcházejícímu dni zahájení výkonu funkce, a
+majetek, který nabyl v průběhu výkonu funkce.
+V oznámení o majetku veřejný funkcionář uvede
+věci nemovité,
+cenné papíry, zaknihované cenné papíry nebo práva s nimi spojená,
+podíl v obchodní korporaci nepředstavovaný cenným papírem nebo zaknihovaným cenným papírem, a
+jiné věci movité určené podle druhu,
+jejichž cena, která je v daném místě a čase obvyklá, přesahuje v jednotlivém případě částku 500 000 Kč, jde-li o oznámení o majetku podle odstavce 1 písm. a), nebo
+pokud je nabyl v průběhu kalendářního roku a jejich hodnota ve svém souhrnu, do něhož se nezapočítávají věci, jejichž cena je nižší než 50 000 Kč, přesáhla částku 500 000 Kč, jde-li o oznámení o majetku podle odstavce 1 písm. b).
+V oznámení o majetku veřejný funkcionář dále uvede způsob nabytí a cenu majetku uvedeného v odstavci 2 písm. a) a d), s výjimkou způsobu nabytí a ceny u věcí nemovitých podle odstavce 2 písm. a), jde-li o oznámení podle odstavce 1 písm. a). U jiných věcí movitých podle odstavce 2 písm. d) se v oznámení podle odstavce 1 písm. a) uvádí cena, která je v daném místě a čase obvyklá. V oznámení podle odstavce 1 písm. b) se uvádí cena, za kterou veřejný funkcionář věc nemovitou nebo jinou věc movitou nabyl.
+Oznámení o příjmech a závazcích
+Veřejný funkcionář je povinen přesně, úplně a pravdivě oznámit nesplacené závazky, které má ke dni předcházejícímu dni zahájení výkonu funkce. V tomto oznámení uvede nesplacené závazky převyšující v jednotlivém případě částku 100 000 Kč.
+Veřejný funkcionář je povinen přesně, úplně a pravdivě oznámit, že
+během výkonu funkce získal jakékoliv peněžité příjmy nebo jiné majetkové výhody, zejména dary, s výjimkou darů uvedených v oznámení o majetku podle § 10, odměny, příjmy z podnikatelské nebo jiné samostatné výdělečné činnosti, dividendy nebo jiné příjmy z účasti nebo činnosti v podnikajících právnických osobách (dále jen „příjmy nebo jiné majetkové výhody“), pokud souhrnná výše příjmů nebo jiných majetkových výhod přesáhne v kalendářním roce 100 000 Kč; za peněžitý příjem nebo jinou majetkovou výhodu se pro tento účel nepovažují plat, odměna nebo další náležitosti, na které má veřejný funkcionář nárok v souvislosti s výkonem funkce podle zvláštních právních předpisů, a příjmy manžela nebo partnera veřejného funkcionáře; do tohoto souhrnu se nezapočítávají dary, jejichž cena je nižší než 10 000 Kč,
+má nesplacené závazky, zejména půjčky, úvěry, nájemné, závazky ze smlouvy o nájmu s právem koupě nebo směnečné závazky, pokud souhrnná výše závazků přesáhla k 31. prosinci kalendářního roku, za nějž se oznámení podává, částku 100 000 Kč.
+Veřejný funkcionář je povinen v oznámení uvést výši, druh a zdroj každého příjmu podle odstavce 2 písm. a) a výši a druh závazku podle odstavce 1 a odstavce 2 písm. b), včetně toho, vůči komu takový závazek má; fyzickou osobu označí jménem, popřípadě jmény a příjmením, právnickou osobu označí obchodní firmou nebo názvem, identifikačním číslem osoby a sídlem.
+Lhůty a způsob podávání oznámení
+Oznámení podle § 9, § 10 odst. 1 písm. a) a § 11 odst. 1 podávaná ke dni předcházejícímu dni zahájení výkonu funkce je veřejný funkcionář povinen učinit do 30 dnů ode dne, kdy jej do registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech a závazcích (dále jen „registr oznámení“) zapsala právnická osoba nebo její orgán nebo organizační složka uvedené v § 14a odst. 2.
+Oznámení podle § 9, § 10 odst. 1 písm. b) a § 11 odst. 2 je veřejný funkcionář povinen činit nejpozději do 30. června následujícího kalendářního roku po celou dobu výkonu funkce.
+V případě, že došlo k ukončení výkonu funkce veřejného funkcionáře, je osoba, která byla veřejným funkcionářem, povinna učinit oznámení podle § 9, § 10 odst. 1 písm. b) a § 11 odst. 2 nejpozději do 30 dnů ode dne, kdy tuto skutečnost do registru oznámení zapíše právnická osoba nebo její orgán nebo organizační složka uvedené v § 14a odst. 2, a to podle stavu ke dni ukončení výkonu funkce. V oznámení podle § 10 odst. 1 písm. b) uvede osoba, která byla veřejným funkcionářem, majetek podle § 10 odst. 2 písm. d) pouze, pokud jeho hodnota ve svém souhrnu přesáhla ke dni ukončení výkonu funkce částku 500 000 Kč. V oznámení podle § 11 odst. 2 uvede osoba, která byla veřejným funkcionářem, peněžité příjmy nebo jiné majetkové výhody anebo nesplacené závazky pouze, pokud ke dni ukončení výkonu funkce souhrnná výše peněžitých příjmů nebo jiných majetkových výhod nebo souhrnná výše nesplacených závazků přesáhla částku 100 000 Kč.
+Veřejný funkcionář nebo osoba, která byla veřejným funkcionářem, je povinen oznámení činit ve lhůtách stanovených v odstavcích 1 až 3 i tehdy, jestliže nedošlo ke skutečnostem, které jsou uvedeny v § 9 až 11.
+Oznámení podle § 9 až 11 a podle odstavce 4 podává veřejný funkcionář nebo osoba, která byla veřejným funkcionářem, evidenčnímu orgánu v elektronické podobě prostřednictvím registru oznámení, s výjimkou soudců, kteří podávají oznámení podle § 9 až 11 a podle odstavce 4 písemně Nejvyššímu soudu. Uživatelské jméno a přístupové heslo do registru oznámení na základě žádosti veřejného funkcionáře nebo osoby, která byla veřejným funkcionářem, vydá právnická osoba nebo její orgán nebo organizační složka příslušná k zápisu podle § 14a odst. 2. Oznámení do registru oznámení může veřejný funkcionář nebo osoba, která byla veřejným funkcionářem, podat též prostřednictvím portálu veřejné správy datovou zprávou s ověřenou totožností veřejného funkcionáře nebo osoby, která byla veřejným funkcionářem, způsobem, kterým se lze přihlásit do jeho datové schránky. Po podání oznámení do registru odešle správce registru neprodleně veřejnému funkcionáři nebo osobě, která byla veřejným funkcionářem, do jeho datové schránky informaci o uskutečněném a zaevidovaném oznámení. Po podání oznámení soudcem mu Nejvyšší soud neprodleně odešle na jeho adresu informaci o uskutečněném a zaevidovaném oznámení.
+Oznámení se podávají ve struktuře a formátu, které stanoví Ministerstvo spravedlnosti vyhláškou. Soudci podávají oznámení na formuláři, jehož strukturu a formát stanoví Ministerstvo spravedlnosti vyhláškou.
+EVIDENCE OZNÁMENÍ O ČINNOSTECH, OZNÁMENÍ O MAJETKU A OZNÁMENÍ O PŘÍJMECH A ZÁVAZCÍCH A JEJÍ VEDENÍ
+Registr oznámení
+Zřizuje se registr oznámení jako informační systém veřejné správy, jehož správcem je Ministerstvo spravedlnosti, nestanoví-li tento zákon jinak.
+V registru oznámení jsou ukládány elektronické dokumenty podávané veřejnými funkcionáři podle § 12 odst. 5, s výjimkou oznámení podávaných soudci, která se ukládají v písemné podobě u Nejvyššího soudu; v oznámení veřejný funkcionář uvede své jméno, popřípadě jména, příjmení, datum a místo narození, právnickou osobu nebo její orgán nebo organizační složku, ve kterých působí, s uvedením funkce, kterou v této právnické osobě nebo jejím orgánu nebo v organizační složce zastává, a údaje požadované podle § 9 až 11 a § 12 odst. 4.
+Každý má právo na základě žádosti bezplatně nahlížet prostřednictvím veřejné datové sítě v rozsahu stanoveném tímto zákonem do registru oznámení.
+Žádost musí obsahovat v případě fyzické osoby jméno, popřípadě jména, příjmení, datum narození, trvalý pobyt a adresu pro doručování žadatele a v případě právnické osoby obchodní firmu nebo název, identifikační číslo osoby a sídlo, a údaje o fyzické osobě, která jedná v zastoupení právnické osoby, a její oprávnění jednat v zastoupení právnické osoby. Žádost musí dále obsahovat jméno, popřípadě jména a příjmení veřejného funkcionáře, nebo funkci veřejného funkcionáře a právnickou osobu nebo její orgán nebo organizační složku, ve které veřejný funkcionář působí. Žádost lze podat
+prostřednictvím provozovatele poštovních služeb na listině s úředně ověřeným podpisem žadatele,
+elektronicky prostřednictvím elektronické adresy podatelny správce registru oznámení, je-li žádost opatřena uznávaným nebo zaručeným elektronickým podpisem žadatele,
+elektronicky prostřednictvím datové schránky žadatele.
+Po ověření žádosti pro umožnění přístupu do registru oznámení udělí správce registru oznámení žadateli uživatelské jméno a přístupové heslo, které bez zbytečného odkladu, nejpozději však do 30 dnů ode dne obdržení žádosti, doručí prostřednictvím provozovatele poštovních služeb do vlastních rukou žadatele, prostřednictvím elektronické pošty nebo prostřednictvím datové schránky žadatele. Uživatelské jméno a přístupové heslo do registru oznámení jsou platné po dobu 6 měsíců ode dne jejich prvního použití. Sdělit třetí osobě uživatelské jméno a přístupové heslo k nahlížení do registru oznámení je zakázáno.
+Každý má právo sdělit evidenčnímu orgánu skutečnosti, které nasvědčují nepravdivosti nebo neúplnosti údajů uvedených v oznámeních evidovaných v registru oznámení. Evidenční orgán do 30 dnů ode dne obdržení sdělení oznámí tomu, kdo sdělení podal, jak bylo s jeho sdělením naloženo.
+Evidenční orgán porovnává údaje uvedené v registru oznámení s údaji uvedenými v jiných informačních systémech, ke kterým má přístup. Pokud se evidenční orgán dozví, že došlo k jednání, které má znaky přestupku podle tohoto zákona, oznámí takovou skutečnost bezodkladně správnímu orgánu příslušnému k projednání přestupků podle tohoto zákona.
+Veškeré údaje vedené v registru oznámení týkající se veřejných funkcionářů uvedených v § 2 odst. 2 mohou být použity a dále zpracovávány pouze za účelem zjištění případného porušení povinností veřejného funkcionáře.
+Vedení registru oznámení
+Evidenčním orgánem je Ministerstvo spravedlnosti; jde-li o veřejné funkcionáře uvedené v § 2 odst. 2 písm. f), je evidenčním orgánem Nejvyšší soud.
+Vedením registru oznámení se rozumí
+přijímání a evidence oznámení učiněných podle § 9 až 11 a § 12 odst. 4,
+uchovávání žádostí podaných evidenčnímu orgánu podle § 13 odst. 3 a 4 po dobu 5 let ode dne podání žádosti,
+uchovávání oznámení podaných evidenčnímu orgánu podle § 9 až 11 a § 12 odst. 4 po dobu 5 let ode dne skončení výkonu funkce veřejného funkcionáře,
+dohlížení nad úplností údajů, které jsou součástí oznámení podle § 9 až 11 a § 12 odst. 4 a vyžadování doplnění těchto údajů,
+přijímání sdělení podle § 13 odst. 6,
+porovnávání údajů a poskytování dokladů podle § 13 odst. 7 správnímu orgánu příslušnému jednat o přestupcích podle tohoto zákona,
+ověřování žádostí a udělování uživatelského jména a přístupového hesla k nahlížení do registru oznámení a
+výkon dalších činností souvisejících s činnostmi podle písmen a) až g).
+Nejvyšší soud vede zvláštní registr písemných oznámení soudců jako soubor dokladů podávaných veřejnými funkcionáři uvedenými v § 2 odst. 2 písm. f) a zajišťuje ve vztahu k nim činnosti podle odstavce 2 písm. a), c), d), e) a h). Do tohoto zvláštního registru nelze nahlížet. Informace obsažené ve zvláštním registru písemných oznámení soudců se neposkytují podle zákona upravujícího svobodný přístup k informacím.
+Správce registru oznámení je povinen vést registr oznámení tak, aby v něm bylo možné vyhledávat podle jména, popřípadě jmen a příjmení veřejných funkcionářů, podle právnických osob nebo jejich orgánů anebo organizačních složek, ve kterých veřejní funkcionáři působí, podle funkce, kterou v této právnické osobě nebo jejím orgánu anebo její organizační složce veřejný funkcionář zastává, a podle období, za něž bylo oznámení podáno. Správce registru oznámení vede registr oznámení tak, aby u každého veřejného funkcionáře bylo zřejmé, zda oznámení podle § 9 až 11 a § 12 odst. 4 podal ve lhůtách stanovených v § 12 odst. 1 až 3.
+Správce registru oznámení zajistí ochranu zveřejněných osobních údajů proti možnosti automatizovaného ukládání v internetových vyhledávačích (indexování).
+Zápis do registru oznámení
+Neprodleně, nejpozději však do 15 dnů ode dne zahájení nebo skončení výkonu funkce, se do registru oznámení zapíše jméno, popřípadě jména a příjmení veřejného funkcionáře, datum a místo jeho narození, právnická osoba nebo její orgán nebo organizační složka, ve kterých veřejný funkcionář působí, jeho funkci, kterou v této právnické osobě nebo jejím orgánu nebo organizační složce zastává, adresu pro doručování elektronické pošty a data zahájení a skončení výkonu jeho funkce, s výjimkou utajované informace podle zákona o ochraně utajovaných informací a o bezpečnostní způsobilosti.
+Údaje podle odstavce 1 do registru oznámení zapisují tyto právnické osoby nebo jejich orgány nebo organizační složky:
+Kancelář Poslanecké sněmovny Parlamentu České republiky, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. a), vedoucího Kanceláře Poslanecké sněmovny a veřejné funkcionáře uvedené v § 2 odst. 2 písm. d), jsou-li u ní zaměstnáni,
+Kancelář Senátu Parlamentu České republiky, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. b), vedoucího Kanceláře Senátu a veřejné funkcionáře uvedené v § 2 odst. 2 písm. d), jsou-li u ní zaměstnáni,
+Kancelář prezidenta republiky, jde-li o vedoucího Kanceláře prezidenta republiky a veřejné funkcionáře uvedené v § 2 odst. 2 písm. d), jsou-li u ní zaměstnáni,
+ministerstvo nebo jiný ústřední správní úřad, v jehož čele není člen vlády, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. c), d), f) až i) a n) a § 2 odst. 2 písm. b) až d), g) a h), pokud tito veřejní funkcionáři vykonávají funkci v oboru působnosti ministerstva nebo jiného ústředního správního úřadu, s výjimkou člena statutárního orgánu příspěvkové organizace územního samosprávného celku a vedoucího zaměstnance 2. až 4. stupně řízení příspěvkové organizace územního samosprávného celku,
+Česká národní banka, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. j) a § 2 odst. 2 písm. c), jsou-li jejími zaměstnanci,
+Nejvyšší kontrolní úřad, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. k) a § 2 odst. 2 písm. d), jsou-li u něho zaměstnáni,
+Kancelář Veřejného ochránce práv, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. m) a § 2 odst. 2 písm. d), jsou-li u ní zaměstnáni,
+bezpečnostní sbor, jde-li o veřejné funkcionáře uvedené v § 2 odst. 2 písm. a) a d), jsou-li jeho příslušníky nebo u něho zaměstnáni,
+krajský úřad, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. o) a q) a § 2 odst. 2 písm. b), c) a e), jedná-li se o členy zastupitelstva jeho kraje, členy statutárního orgánu příspěvkové organizace jeho kraje, vedoucí zaměstnance 2. až 4. stupně řízení příspěvkové organizace jeho kraje nebo vedoucí úředníky zařazené do tohoto krajského úřadu,
+Magistrát hlavního města Prahy, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. o) a q) a § 2 odst. 2 písm. b), c) a e), jedná-li se o členy Zastupitelstva hlavního města Prahy, členy statutárního orgánu příspěvkové organizace hlavního města Prahy, vedoucí zaměstnance 2. až 4. stupně řízení příspěvkové organizace hlavního města Prahy nebo vedoucí úředníky zařazené do Magistrátu hlavního města Prahy,
+obecní úřad, úřad městského obvodu nebo úřad městské části územně členěného statutárního města a úřad městské části hlavního města Prahy, jde-li o veřejné funkcionáře uvedené v § 2 odst. 1 písm. p) a q) a § 2 odst. 2 písm. b), c) a e), jedná-li se o členy zastupitelstva jeho obce, městského obvodu nebo městské části statutárního města a městské části hlavního města Prahy, členy statutárního orgánu příspěvkové organizace jeho obce, městského obvodu nebo městské části statutárního města nebo městské části hlavního města Prahy, vedoucí zaměstnance 2. až 4. stupně řízení příspěvkové organizace jeho obce, městského obvodu nebo městské části statutárního města nebo městské části hlavního města Prahy nebo vedoucí úředníky zařazené do tohoto úřadu,
+veřejná výzkumná instituce, jde-li o veřejného funkcionáře uvedeného v § 2 odst. 2 písm. i), jejímž je statutárním orgánem,
+Ministerstvo spravedlnosti, jde-li o veřejné funkcionáře uvedené v § 2 odst. 2 písm. f); zápis je povinno bez prodlení oznámit Nejvyššímu soudu,
+veřejná vysoká škola, jde-li o veřejné funkcionáře uvedené v § 2 odst. 2 písm. b) a c), jedná-li se o veřejné funkcionáře vykonávající funkci v rámci její činnosti,
+Akademie věd České republiky, jde-li o veřejné funkcionáře uvedené v § 2 odst. 2 písm. d), jedná-li se o veřejné funkcionáře vykonávající funkci v rámci její činnosti,
+Grantová agentura České republiky, jde-li o veřejné funkcionáře uvedené v § 2 odst. 2 písm. d), jedná-li se o veřejné funkcionáře vykonávající funkci v rámci její činnosti,
+Technologická agentura České republiky, jde-li o veřejné funkcionáře uvedené v § 2 odst. 2 písm. d), jedná-li se o veřejné funkcionáře vykonávající funkci v rámci její činnosti.
+Právnická osoba nebo její orgán anebo organizační složka uvedené v odstavci 1 neprodleně poté, co do registru oznámení zapíší údaje podle odstavce 1, informují příslušného veřejného funkcionáře o tom, že byly do registru oznámení zapsány údaje podle odstavce 1, a o datu, dokdy je veřejný funkcionář povinen podat oznámení podle § 9 až 11 a § 12 odst. 4.
+Orgány uvedené v odstavci 1 písm. i) až k) vykonávají činnost podle odstavce 1 v přenesené působnosti.
+Rozsah nahlížení do registru oznámení
+Každý může prvním dnem po lhůtě uvedené v § 12 odst. 1, 2 nebo 3 nahlížet do registru oznámení u veřejných funkcionářů uvedených v
+§ 2 odst. 1 písm. a) až o) a u členů rady kraje nebo hlavního města Prahy, kteří nejsou pro výkon funkce dlouhodobě uvolněni, v rozsahu všech skutečností oznámených podle § 9 až 11 a § 12 odst. 4, s výjimkou data a místa narození veřejného funkcionáře a identifikace nemovité věci,
+§ 2 odst. 1 písm. p) a u primátora a náměstka primátora statutárního města, starosty městské části nebo městského obvodu územně členěného statutárního města nebo městské části hlavního města Prahy, místostarosty městské části nebo městského obvodu územně členěného statutárního města, zástupce starosty městské části hlavního města Prahy a členů rady statutárního města, městské části nebo městského obvodu územně členěného statutárního města a městské části hlavního města Prahy, kteří nejsou pro výkon funkce dlouhodobě uvolněni, v rozsahu všech skutečností oznámených podle § 9, § 10 odst. 2 písm. a) až c), § 11 odst. 2 písm. a) a § 12 odst. 4, s výjimkou data a místa narození veřejného funkcionáře a identifikace nemovité věci,
+§ 2 odst. 1 písm. q), s výjimkou primátora a náměstka primátora statutárního města, starosty městské části nebo městského obvodu územně členěného statutárního města nebo městské části hlavního města Prahy, místostarosty městské části nebo městského obvodu územně členěného statutárního města, zástupce starosty městské části hlavního města Prahy a členů rady statutárního města, městské části nebo městského obvodu územně členěného statutárního města, městské části hlavního města Prahy, kraje nebo hlavního města Prahy v rozsahu všech skutečností oznámených podle § 9, § 10 odst. 2 písm. a) až c) a § 12 odst. 4, s výjimkou data a místa narození veřejného funkcionáře a identifikace nemovité věci, nebo
+§ 2 odst. 2 pouze v rozsahu skutečností oznámených podle § 9, § 10 odst. 2 písm. a) a c), § 11 odst. 2 písm. a) a § 12 odst. 4, s výjimkou data a místa narození veřejného funkcionáře a identifikace nemovité věci.
+Oprávnění podle odstavce 1 nahlížet do registru oznámení a získávat z něj údaje se nevztahuje na údaje o veřejných funkcionářích, kteří jsou soudci, státními zástupci nebo příslušníky Policie České republiky nebo Generální inspekce bezpečnostních sborů. Informace obsažené v registru oznámení o těchto veřejných funkcionářích se neposkytují podle zákona upravujícího svobodný přístup k informacím.
+Z registru oznámení jsou v rozsahu potřebném pro výkon své působnosti oprávněny získávat informace též
+orgány příslušné k projednání přestupků podle tohoto zákona,
+soudy a orgány činné v trestním řízení, nebo
+zpravodajské služby České republiky.
+PŘESTUPKY
+Přestupky fyzických osob
+Veřejný funkcionář s výjimkou veřejného funkcionáře uvedeného v § 2 odst. 2 písm. f) nebo g) se dopustí přestupku tím, že
+v rozporu s § 4 odst. 1 nebo § 5 odst. 3 vykonává funkci nebo činnost, která je neslučitelná s výkonem funkce veřejného funkcionáře,
+v rozporu s § 4a odst. 1
+je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku,
+je společníkem, členem nebo skutečným majitelem právnické osoby, která je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku,
+pobírá odměnu v rozporu s § 5 odst. 1 nebo 2,
+nepodá oznámení o osobním zájmu podle § 8 odst. 1,
+v oznámení podle § 9 až 11 nebo § 12 odst. 4 uvede zjevně nepřesné, neúplné nebo nepravdivé údaje, nebo
+neučiní oznámení ve lhůtě podle § 12 odst. 1, 2 nebo 3.
+Fyzická osoba se dopustí přestupku tím, že
+poruší zákaz výkonu činnosti po stanovenou dobu od skončení výkonu funkce veřejného funkcionáře podle § 6,
+po skončení výkonu funkce veřejného funkcionáře neučiní oznámení ve lhůtě podle § 12 odst. 3 nebo v něm uvede zjevně nepřesné, neúplné nebo nepravdivé údaje,
+v rozporu s § 13 odst. 5 sdělí třetí osobě uživatelské jméno a přístupové heslo k nahlížení do registru oznámení, nebo
+v rozporu s § 13 odst. 8 používá nebo dále zpracovává údaje vedené v registru oznámení k jinému účelu než ke zjištění případného porušení povinností při výkonu funkce veřejného funkcionáře stanovených tímto zákonem.
+Za přestupek lze uložit pokutu
+od 1 000 Kč do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) až f) anebo odst. 2 písm. b) až d),
+od 5 000 Kč do 250 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b) bodu 1 a c),
+od 25 000 Kč do 500 000 Kč, jde-li o přestupek podle odstavce 2 písm. a),
+do 250 000 Kč nebo do výše 3 % hodnoty aktiv právnické osoby, jejímž je veřejný funkcionář společníkem, členem nebo skutečným majitelem a která je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku, podle toho, která částka je vyšší, jde-li o přestupek podle odstavce 1 písm. b) bodu 2.
+Za přestupky podle odstavce 1 písm. a) až e) a odstavce 2 písm. a) a b) nelze uložit napomenutí. Od uložení správního trestu podle odstavce 3, jde-li o přestupky podle odstavce 1 písm. a) až e) a odstavce 2 písm. a) a b), nelze v rozhodnutí o přestupku upustit.
+Přestupky podle odstavců 1 a 2 nelze projednat v příkazním řízení.
+Přestupky právnických a podnikajících fyzických osob
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+v rozporu s § 13 odst. 5 sdělí třetí osobě uživatelské jméno a přístupové heslo k nahlížení do registru oznámení, nebo
+v rozporu s § 13 odst. 8 používá nebo dále zpracovává údaje vedené v registru oznámení k jinému účelu než ke zjištění případného porušení povinností při výkonu funkce veřejného funkcionáře stanovených tímto zákonem.
+Za přestupek podle odstavce 1 lze uložit pokutu od 1 000 Kč do 50 000 Kč.
+Společná ustanovení k přestupkům
+Přestupky podle § 23 odst. 1, s výjimkou přestupku podle § 23 odst. 1 písm. b), projednává obecní úřad obce s rozšířenou působností, v jejímž územním obvodu má veřejný funkcionář pobyt. Přestupky podle § 23 odst. 2 písm. a) a b) projednává obecní úřad obce s rozšířenou působností, v jejímž územním obvodu má fyzická osoba, která byla veřejným funkcionářem, trvalý pobyt. Přestupky podle § 23 odst. 2 písm. c) a d) a podle § 24 odst. 1 projednává Úřad pro ochranu osobních údajů. Přestupek podle § 23 odst. 1 písm. b) projednává Úřad pro dohled nad hospodařením politických stran a politických hnutí.
+Pokuty uložené za přestupky podle tohoto zákona vybírá a vymáhá orgán, který je uložil.
+Pro určení horní hranice pokuty za přestupek podle § 23 odst. 3 písm. d) se hodnota aktiv stanoví podle zákona upravujícího dozor nad dodržováním zákona o střetu zájmů.

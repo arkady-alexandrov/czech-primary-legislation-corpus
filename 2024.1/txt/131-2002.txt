@@ -1,0 +1,19 @@
+Podle tohoto zákona se postupuje při kladných nebo záporných kompetenčních sporech o pravomoc nebo věcnou příslušnost (dále jen „pravomoc“) vydat rozhodnutí, jehož stranami jsou
+soudy a orgány moci výkonné, územní, zájmové nebo profesní samosprávy,
+soudy v občanském soudním řízení a soudy ve správním soudnictví.
+Kompetenčním sporem je spor, ve kterém si jedna strana osobuje pravomoc vydat rozhodnutí v totožné věci individuálně určených účastníků, o níž bylo druhou stranou vydáno pravomocné rozhodnutí. Kompetenčním sporem je též spor, ve kterém jeho strany popírají svou pravomoc vydat rozhodnutí v totožné věci individuálně určených účastníků.
+Kompetenční spor projedná a rozhodne o něm zvláštní senát složený ze tří soudců Nejvyššího soudu a tří soudců Nejvyššího správního soudu. Jeho členy a stejný počet jejich náhradníků jmenují s jejich souhlasem předseda Nejvyššího soudu a předseda Nejvyššího správního soudu na dobu tří let.
+Předsedu zvláštního senátu vždy na první polovinu funkčního období zvláštního senátu zvolí členové ze soudců jmenovaných předsedou Nejvyššího správního soudu a na druhou polovinu ze soudců jmenovaných předsedou Nejvyššího soudu. První jednání zvláštního senátu svolá a řídí nejstarší člen zvláštního senátu.
+Za člena vyloučeného z projednávání určité věci nastupuje jeho náhradník. Zvláštní senát rozhoduje většinou hlasů všech členů.
+Zvláštní senát jedná a rozhoduje v sídle Nejvyššího správního soudu. Státní správu zvláštního senátu vykonává předseda Nejvyššího správního soudu.
+Působení ve zvláštním senátu a jeho činnost je výkonem soudnictví.
+Řízení je zahájeno dnem, kdy návrh na zahájení řízení o kompetenčním sporu došel zvláštnímu senátu.
+Návrh na zahájení řízení o kompetenčním sporu je oprávněna podat některá z jeho stran nebo účastník řízení ve věci, v níž se otázka pravomoci vydat rozhodnutí stala spornou.
+Účastníky řízení vedle stran kompetenčního sporu jsou i účastníci řízení, v němž se otázka pravomoci stala spornou.
+Na řízení před zvláštním senátem se přiměřeně užijí ustanovení části třetí hlavy první soudního řádu správního.
+Zvláštní senát rozhodne usnesením o tom, kdo je příslušný vydat rozhodnutí ve věci uvedené v návrhu na zahájení řízení.
+Jestliže ten, kdo je stranou v kompetenčním sporu, vydal rozhodnutí ve věci uvedené v návrhu na zahájení řízení a podle rozhodnutí zvláštního senátu není vydání takového rozhodnutí v jeho pravomoci, zvláštní senát současně vysloví nicotnost takového rozhodnutí.
+Jestliže ten, kdo je stranou v kompetenčním sporu, vydal rozhodnutí, kterým svou pravomoc o věci rozhodovat popřel, a podle rozhodnutí zvláštního senátu je vydání rozhodnutí ve věci uvedené v návrhu na zahájení řízení v jeho pravomoci, zvláštní senát takové rozhodnutí současně zruší.
+Proti rozhodnutí zvláštního senátu nejsou opravné prostředky přípustné.
+Pravomocné rozhodnutí zvláštního senátu je závazné pro strany kompetenčního sporu, účastníky řízení, v němž tento spor vznikl, jakož i pro všechny orgány moci výkonné, orgány územního samosprávného celku, jakož i fyzické nebo právnické osoby nebo jiné orgány, pokud jim bylo svěřeno rozhodování o právech a povinnostech fyzických a právnických osob v oblasti veřejné správy, a soudy.
+Řízení o kompetenčních sporech, o nichž rozhodovaly soudy podle občanského soudního řádu, v nichž nebylo do dne účinnosti tohoto zákona rozhodnuto, převezme a řízení dokončí podle tohoto zákona zvláštní senát.

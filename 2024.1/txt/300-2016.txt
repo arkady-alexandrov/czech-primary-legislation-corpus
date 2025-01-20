@@ -1,0 +1,106 @@
+Předmět a účel úpravy
+Tento zákon zapracovává příslušný předpis Evropské unie a upravuje práva a povinnosti související s vytvořením, užíváním a provozem centrální evidence účtů a bezpečnostních schránek (dále jen „centrální evidence účtů“) jako jednoho z prostředků sloužících k odhalování trestné činnosti a stíhání pachatelů trestných činů, zajištění významných hospodářských a finančních zájmů a bezpečnosti České republiky nebo Evropské unie.
+Zřízení centrální evidence účtů
+Zřizuje se centrální evidence účtů o
+účtech vedených úvěrovými institucemi na území České republiky pro jejich klienty,
+účtech označených v souladu s pravidly mezinárodní standardizace (IBAN) vedených institucemi na území České republiky pro jejich klienty,
+bezpečnostních schránkách pronajímaných úvěrovými institucemi na území České republiky.
+Správcem centrální evidence účtů je Česká národní banka.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+úvěrovou institucí banka, zahraniční banka, která vykonává svou činnost na území České republiky prostřednictvím pobočky, a spořitelní a úvěrní družstvo,
+institucí
+úvěrová instituce a
+instituce elektronických peněz, zahraniční instituce elektronických peněz, vydavatel elektronických peněz malého rozsahu, platební instituce, zahraniční platební instituce a poskytovatel platebních služeb malého rozsahu, kterým Česká národní banka přidělila kód platebního styku,
+účtem účet zřízený v České republice na základě smlouvy o účtu podle § 2662 občanského zákoníku nebo smlouvy o jednorázovém vkladu podle § 2680 občanského zákoníku a obdobné účty a účty zřízené podle dřívějších právních předpisů nebo podle zahraničního práva,
+klientem
+majitel účtu vedeného institucí nebo osoba oprávněná nakládat s peněžními prostředky na takovém účtu,
+svěřenský fond nebo jemu svou strukturou nebo funkcemi podobné zařízení řídící se právem jiného státu, pro které jsou peněžní prostředky na účtu podle bodu 1 vedeny,
+nájemce bezpečnostní schránky pronajímané úvěrovou institucí,
+svěřenský fond nebo jemu svou strukturou nebo funkcemi podobné zařízení řídící se právem jiného státu, pro které je bezpečnostní schránka podle bodu 3 pronajata, a
+osoba, která doloží, že jedná jménem klienta podle bodů 1 až 4 nebo za tohoto klienta,
+skutečným majitelem skutečný majitel podle zákona upravujícího evidenci skutečných majitelů.
+Údaje v centrální evidenci účtů
+Do centrální evidence účtů se zapisují tyto údaje a jejich změny a opravy:
+označení jednoznačně identifikující instituci, která účet vede nebo která pronajímá bezpečnostní schránku,
+datum zřízení účtu nebo datum zahájení pronájmu bezpečnostní schránky,
+číslo účtu a číslo účtu IBAN, bylo-li přiděleno, nebo identifikační číslo bezpečnostní schránky,
+identifikační údaje klienta, jak jsou vedeny institucí, v tomto rozsahu:
+u fyzické osoby všechna jména a příjmení užívaná v souvislosti s účtem vedeným institucí nebo bezpečnostní schránkou pronajímanou úvěrovou institucí, datum narození, rodné číslo, bylo-li přiděleno, a adresa pobytu, popřípadě i adresa pro doručování,
+u právnické osoby nebo podnikající fyzické osoby jméno včetně odlišujícího dodatku nebo dalšího označení, identifikační číslo osoby, popřípadě standardizovaný mezinárodní identifikátor právnických osob nebo obdobné číslo přidělované v zahraničí, a sídlo,
+u účtu určeného pro majetek ve svěřenském fondu nebo jemu svou strukturou nebo funkcemi podobnému zařízení řídícímu se právem jiného státu nebo bezpečnostní schránky pronajaté pro takový majetek příslušné označení takového fondu nebo uspořádání a identifikační údaje jeho správce, obhospodařovatele nebo osoby v obdobném postavení v rozsahu podle bodu 1 nebo 2,
+identifikační údaje skutečného majitele klienta v rozsahu podle písmene d) bodu 1, pokud jsou institucí tyto údaje k účtu nebo bezpečnostní schránce vedeny,
+datum vzniku a datum zániku oprávnění klienta k nakládání s peněžními prostředky na účtu,
+datum zrušení účtu nebo datum ukončení pronájmu bezpečností schránky.
+Zápis údajů do centrální evidence účtů
+Instituce předává České národní bance k zápisu do centrální evidence účtů elektronicky dálkovým přístupem nejpozději do dvanácté hodiny každého pracovního dne informaci o údajích, k jejichž vzniku, změně nebo opravě došlo v předchozím pracovním dni nebo předchozích dnech pracovního klidu, nebo informaci o tom, že žádná z těchto skutečností nenastala. Podrobnosti náležitostí, strukturu a formát informace předávané k zápisu do centrální evidence účtů a další podrobnosti ke způsobu předání stanoví Česká národní banka vyhláškou.
+Česká národní banka předává do centrální evidence účtů údaje o účtech svých klientů a bezpečnostních schránkách pronajímaných svým klientům obdobně, jako by šlo o údaje oznamované úvěrovými institucemi.
+Poskytování údajů z centrální evidence účtů
+O údaje z centrální evidence účtů je oprávněn žádat pouze
+orgán činný v trestním řízení,
+Finanční analytický úřad,
+orgán Finanční správy České republiky,
+orgán Celní správy České republiky,
+zpravodajská služba České republiky (dále jen „zpravodajská služba“),
+orgán vykonávající působnost úřadu pro vyhledávání majetku z trestné činnosti v České republice podle předpisu Evropské unie upravujícího spolupráci mezi úřady pro vyhledávání majetku z trestné činnosti (dále jen „orgán pro vyhledávání majetku z trestné činnosti“),
+Ministerstvo financí podle zákona o koordinaci spolupráce s Evropským úřadem pro boj proti podvodům.
+Poskytnutí údajů z centrální evidence účtů, které jsou předmětem bankovního tajemství nebo povinnosti zachovávat je v tajnosti podle zákona o spořitelních a úvěrních družstvech, může požadovat orgán uvedený v odstavci 1 (dále jen „žadatel“), pokud jsou splněny podmínky stanovené jinými právními předpisy upravujícími oprávnění žadatele k jejich vyžádání.
+Žadatel vede evidenci žádostí o poskytnutí údajů z centrální evidence účtů, která obsahuje datum odeslání žádosti, identifikační údaje, které jednoznačně určují fyzickou osobu, která jménem žadatele o údaje z centrální evidence účtů požádala, a text žádosti.
+Údaje v evidenci podle odstavce 3 uchovává žadatel po dobu 10 let ode dne následujícího po dni odeslání žádosti.
+Je-li žadatelem orgán pro vyhledávání majetku z trestné činnosti, může požadovat poskytnutí údajů z centrální evidence účtů, jestliže to je nezbytné pro plnění konkrétního úkolu týkajícího se trestné činnosti podle přílohy č. 1 přímo použitelného právního předpisu Evropské unie upravujícího Europol nebo pro poskytnutí odpovědi na odůvodněnou žádost Europolu; odstavec 2 se přitom nepoužije.
+Orgán pro vyhledávání majetku z trestné činnosti vede v evidenci žádostí o poskytnutí údajů z centrální evidence účtů podle odstavce 3 také identifikační údaje jednoznačně určující fyzickou osobu, která podání žádosti nařídila, a identifikační údaje příjemce vyžádaných údajů.
+Žádost o poskytnutí údajů z centrální evidence účtů obsahuje označení příslušného řízení, v rámci kterého oprávněný orgán žádá o poskytnutí údajů z centrální evidence účtů, a spisovou značku, pod kterou je toto řízení vedeno. Zpravodajská služba v žádosti uvede spisovou značku rozhodnutí soudu, kterým jí bylo povoleno požadovat poskytnutí zprávy podle zákona upravujícího činnost zpravodajských služeb; výpis z rozhodnutí soudu nebo jiný doklad o splnění podmínek pro podání žádosti podle jiných právních předpisů se nepředkládá. Orgán pro vyhledávání majetku z trestné činnosti dále v žádosti uvede identifikační údaje jednoznačně určující fyzickou osobu, která jeho jménem o údaje z centrální evidence účtů požádala, dále případně fyzickou osobu, která podání žádosti nařídila, a příjemce vyžádaných údajů. Žádost se neodůvodňuje.
+Žádost podle odstavce 1 podává žadatel výhradně prostřednictvím k tomu určené datové schránky žadatele do datové schránky zřízené Českou národní bankou pro centrální evidenci účtů.
+Identifikátory datových schránek, jejichž prostřednictvím mohou žadatelé podávat žádosti, a jejich změny, oznamuje České národní bance
+soud prostřednictvím Ministerstva spravedlnosti,
+státní zastupitelství prostřednictvím Nejvyššího státního zastupitelství,
+Finanční analytický úřad prostřednictvím Ministerstva financí,
+Bezpečnostní informační služba a Úřad pro zahraniční styky a informace prostřednictvím Ministerstva vnitra,
+Vojenské zpravodajství prostřednictvím Ministerstva obrany,
+orgán Finanční správy České republiky prostřednictvím Generálního finančního ředitelství,
+orgán Celní správy České republiky prostřednictvím Generálního ředitelství cel,
+orgán pro vyhledávání majetku z trestné činnosti prostřednictvím Policejního prezidia České republiky,
+Ministerstvo financí pro účely zajištění koordinace spolupráce s Evropským úřadem pro boj proti podvodům za podmínek stanovených zákonem o koordinaci spolupráce s Evropským úřadem pro boj proti podvodům.
+Formální náležitosti, strukturu a formát oznámení podle odstavce 3 a způsob jeho doručení stanoví Česká národní banka vyhláškou.
+Česká národní banka poskytne údaje z centrální evidence účtů pouze tehdy, jestliže
+žádost byla podána způsobem stanoveným v § 7 odst. 2,
+identifikátor odesílající datové schránky se shoduje s identifikátorem oznámeným podle § 7 odst. 3 a
+žádost obsahuje, kromě údajů podle § 7 odst. 1, alespoň
+číslo účtu nebo identifikační číslo bezpečnostní schránky a označení jednoznačně identifikující instituci, u které je účet veden nebo která bezpečnostní schránku pronajímá,
+rodné číslo, nebo jméno a příjmení společně s datem narození,
+identifikační číslo osoby, standardizovaný mezinárodní identifikátor právnických osob, nebo současně jméno a identifikační číslo přidělované v zahraničí v případě právnické osoby nebo podnikající fyzické osoby, nebo
+identifikační údaje správce, obhospodařovatele nebo osoby v obdobném postavení v rozsahu podle bodu 2 nebo 3, anebo jeho příslušné označení v případě svěřenského fondu nebo jemu svou strukturou nebo funkcemi podobnému zařízení řídícího se právem jiného státu.
+Česká národní banka poskytne žadateli údaje v rozsahu podle § 4 o všech účtech a bezpečnostních schránkách u všech institucí, které jsou ke konkrétnímu klientovi nebo skutečnému majiteli klienta vedeny v centrální evidenci účtů.
+Údaje podle odstavce 2 odešle Česká národní banka do datové schránky žadatele, z níž byla odeslána žádost, a to nejpozději do 24 hodin od doručení žádosti. Stejným způsobem a ve stejné lhůtě sdělí žadateli, že k žádosti nebyl v centrální evidenci účtů nalezen žádný odpovídající údaj.
+Pokud žádost neodpovídá požadavkům podle odstavce 1, Česká národní banka odešle do datové schránky žadatele nejpozději do 24 hodin od doručení zprávu o důvodu nepřijetí žádosti.
+Formální náležitosti, strukturu a formát žádosti podle odstavce 1 stanoví Česká národní banka vyhláškou.
+Ochrana dat
+Při provozu centrální evidence účtů uplatňuje Česká národní banka taková organizační, personální a jiná opatření, aby s informacemi, které získá při provádění tohoto zákona, nepřišla do styku neoprávněná osoba. Obdobná opatření uplatňují i žadatelé při nakládání s údaji, které z centrální evidence účtů získají.
+Přístup k údajům zpracovávaným v centrální evidenci účtů mají pouze určení zaměstnanci České národní banky, kteří bezprostředně zajišťují provoz této evidence. V nezbytně nutném rozsahu se s uchovávanými údaji mohou seznamovat příslušní zaměstnanci České národní banky při provádění kontroly provozu centrální evidence účtů a při dohledu nad plněním povinností institucí podle § 12 a řízení o přestupcích podle § 13.
+Uchovávání údajů v centrální evidenci účtů
+Česká národní banka shromažďuje a uchovává údaje v centrální evidenci účtů podle § 4 a 5 a údaje o úkonech podle § 7 a 8 v elektronické podobě.
+Česká národní banka uchovává
+údaje podle § 4 po dobu 10 let od prvního dne roku následujícího po roce, ve kterém došlo ke zrušení účtu nebo skončení nájmu bezpečnostní schránky,
+informace o datové schránce žadatele oznámené podle § 7 odst. 3 po dobu 10 let ode dne následujícího po přijetí oznámení změny,
+údaje o obsahu žádosti podle § 7 odst. 1 s označením žadatele a o obsahu odpovědi, o datu a čase přijetí žádosti a odeslání odpovědi po dobu 10 let ode dne následujícího po odeslání odpovědi.
+Kontrola poskytnutí údajů z centrální evidence účtů
+Kontrolu poskytnutí údajů z centrální evidence účtů vykonává Poslanecká sněmovna, která k tomu účelu zřizuje kontrolní orgán. Kontrolní orgán se skládá z poslanců určených Poslaneckou sněmovnou.
+Česká národní banka předkládá kontrolnímu orgánu podle odstavce 1 nejméně dvakrát ročně zprávu o poskytnutí údajů z centrální evidence účtů. Zpráva musí obsahovat tyto údaje: označení žadatele, datum a čas přijetí žádosti, datum a čas odeslání odpovědi a údaje uvedené v § 7 odst. 1.
+Kontrolu podle odstavce 1 provádí kontrolní orgán v příslušných orgánech podle § 6 odst. 1. Tím není dotčeno právo kontrolního orgánu požadovat informace a účast na jednání kontrolního orgánu od jiných osob.
+Na postup podle tohoto ustanovení se kontrolní řád nepoužije.
+Dohled
+Dohled nad plněním povinností úvěrových institucí podle tohoto zákona vykonává Česká národní banka.
+Při výkonu dohledu se u
+bank a zahraničních bank, které vykonávají svou činnost na území České republiky prostřednictvím pobočky, obdobně použijí ustanovení o činnosti České národní banky při výkonu dohledu podle zákona upravujícího činnost bank,
+spořitelních a úvěrních družstev obdobně použijí ustanovení o činnosti České národní banky při výkonu dohledu nad činností spořitelních a úvěrních družstev podle zákona upravujícího činnost spořitelních a úvěrních družstev,
+institucí neuvedených v písmenech a) a b) obdobně použijí ustanovení o činnosti České národní banky při výkonu dohledu nad jejich činností podle zákona upravujícího platební styk.
+Přestupek
+Instituce se dopustí přestupku tím, že nesplní povinnost předat České národní bance údaje k zápisu do centrální evidence způsobem nebo ve lhůtě stanovenými podle § 5 odst. 1.
+Za přestupek podle odstavce 1 lze uložit pokutu do 10 000 000 Kč.
+Přestupek podle tohoto zákona projednává Česká národní banka.
+Pořízení a financování provozu centrální evidence účtů
+V souladu se Smlouvou o fungování Evropské unie a ji provádějícím přímo použitelným předpisem Evropské unie Česká republika hradí České národní bance v plné výši náklady spojené s pořízením a provozem centrální evidence účtů.
+Podrobná pravidla pořízení a provozu centrální evidence účtů a úhrady souvisejících nákladů upraví Česká republika, jednající prostřednictvím Ministerstva financí, a Česká národní banka smlouvou.
+Zpráva o provozu a využití centrální evidence účtů
+Česká národní banka uveřejňuje na svých internetových stránkách alespoň jednou ročně souhrnnou zprávu o provozu a využití centrální evidence účtů.
+Součástí zprávy podle odstavce 1 je i počet žádostí podle skupin žadatelů, uvedených v § 7 odst. 3, a souhrnná informace o kontrolách provozu centrální evidence účtů.

@@ -1,0 +1,423 @@
+ZEMĚMĚŘICTVÍ
+Úvodní ustanovení
+Zákon vymezuje zeměměřické činnosti a upravuje práva a povinnosti při jejich výkonu, ověřování výsledků zeměměřických činností, geodetické referenční systémy a státní mapová díla.
+Pro účely tohoto zákona se rozumí
+zeměměřictvím souhrn geodetických, fotogrammetrických a kartografických činností včetně technických činností v katastru nemovitostí,
+geodetickým referenčním systémem souřadnicový, výškový nebo tíhový systém jednoznačně definovaný pro zeměměřické činnosti v České republice,
+geodetickými základy soubor zařízení, technických parametrů geodetických referenčních systémů, katalogových dat a matematických vztahů a konstant, které slouží k jednoznačné prostorové a časové lokalizaci prostorových informací v závazných geodetických referenčních systémech, kde zařízení zahrnují základní bodová pole a státní síť permanentních stanic pro přesné určování polohy,
+bodovými poli soubor bodů základního bodového pole polohového, výškového a tíhového a soubor zhušťovacích bodů a bodů podrobných bodových polí,
+značkou měřická značka bodu bodového pole včetně signalizačního a ochranného zařízení bodu bodového pole,
+kartografickým dílem výsledek kartografického znázornění zemského povrchu, kosmu, kosmických těles nebo jejich částí, objektů, jevů a jejich prostorových vztahů v grafické nebo digitální formě spolu s textovými a jinými doplňky,
+základním státním mapovým dílem kartografické dílo se základním všeobecně využitelným obsahem, souvisle zobrazující území podle jednotných zásad, vytvářené a vydávané orgánem státní správy ve veřejném zájmu,
+tematickým státním mapovým dílem kartografické dílo zobrazující zpravidla na podkladě základního státního mapového díla tematické skutečnosti určené a vydávané orgánem státní správy ve veřejném zájmu,
+inženýrskou geodézií souhrn geodetických metod a postupů pro účely průzkumu, projektování, výstavby nebo montáže a při užívání stavebních objektů a technologických zařízení,
+dálkovým průzkumem Země sběr údajů o území z kosmických nebo leteckých nosičů a zpracování těchto údajů za účelem získání informací o poloze, druhu a stavu objektů a jevů na zemském povrchu a v připovrchových vrstvách,
+ortofotem České republiky georeferencované bezešvé ortofotografické zobrazení území České republiky vzniklé na podkladě leteckých měřických snímků,
+základní bází geografických dat České republiky (dále jen „databáze“) databázový soubor vybraných geografických, topografických a geodetických dat z celého území České republiky (dále jen „data“),
+technickou mapou obce mapové dílo velkého měřítka vedené na prostředcích výpočetní techniky s podrobným zákresem přírodních a technických objektů a zařízení vyjadřující jejich skutečný stav,
+permanentní stanicí pro přesné určování polohy soubor technických zařízení, který provádí souvislý záznam dat ze signálů globálních navigačních družicových systémů a umožňuje poskytovat tato data nebo případné další služby a výstupy, které z těchto dat vycházejí, jednotlivým uživatelům.
+Zeměměřické činnosti
+Zeměměřickými činnostmi jsou měřické, výpočetní a další související odborné činnosti při určování rozměrů a prostorových vztahů metodami zeměměřictví vykonávané zpravidla
+za účelem budování a rozvoje geodetických základů, správy katastru nemovitostí, správy prostorových informací v územně orientovaných informačních systémech, tvorby kartografických děl a dokumentace státních hranic, hranic územních jednotek a nemovitých věcí (dále jen „nemovitost“), nebo
+ve výstavbě.
+V případě pochybností, zda jde o zeměměřické činnosti, rozhoduje Český úřad zeměměřický a katastrální (dále jen „Úřad“).
+Zeměměřické činnosti jsou oprávněny vykonávat pouze odborně způsobilé osoby.
+Za odborně způsobilou osobu k výkonu zeměměřických činností se považuje fyzická osoba s ukončeným středoškolským nebo vysokoškolským vzděláním zeměměřického směru.
+Zeměměřické činnosti ve veřejném zájmu
+Zeměměřickými činnostmi ve veřejném zájmu jsou
+budování, obnova a údržba bodových polí,
+vyhotovení nového souboru geodetických informací katastru nemovitostí,
+vyhotovení geometrického plánu a dokumentace o vytyčení hranice pozemku,
+tvorba a vedení databázových souborů obsahujících prostorové informace pro potřeby obrany státu,
+tvorba a vedení databáze,
+tvorba, obnova a vydávání základních a tematických státních mapových děl,
+vyhotovení zeměměřických podkladů a dokumentace pro výkon státní správy,
+vyměřování státních hranic,
+budování, obnova a údržba státní sítě permanentních stanic pro přesné určování polohy,
+tvorba a obnova ortofota České republiky,
+zeměměřické činnosti ve výstavbě uvedené v § 12 odst. 2,
+založení a vedení technických map obcí.
+Výsledky zeměměřických činností ve veřejném zájmu využívají
+orgány státní správy zeměměřictví a katastru nemovitostí České republiky (dále jen „orgány zeměměřictví a katastru“),
+orgány Ministerstva obrany a jím zřízené nebo založené právnické osoby v rozsahu potřeb obrany státu,
+jiné orgány státní správy a orgány územní samosprávy v rozsahu své působnosti.
+Orgány zeměměřictví a katastru, které vytvářejí a vedou prostorová data z území České republiky, poskytují pro infrastrukturu pro prostorové informace v Evropském společenství tato základní prostorová data:
+základní státní mapová díla pro veřejné použití,
+geodetické údaje o zařízeních geodetických základů,
+databáze,
+ortofoto České republiky,
+databázový soubor geografického názvosloví,
+údaje ze základního registru územní identifikace, adres a nemovitostí (dále jen „registr územní identifikace“).
+Zeměměřické činnosti ve veřejném zájmu, vyžadující použití měřidel, mohou být vykonávány pouze s použitím těchto měřidel splňujících požadavky zvláštního právního předpisu.
+Obsah, správa, užití a rozšiřování dat databáze
+Databáze obsahuje data o objektech v kategoriích
+sídelní, hospodářské a kulturní objekty,
+komunikace,
+rozvodné sítě a produktovody,
+vodstvo,
+územní jednotky včetně chráněných území,
+vegetace a povrch,
+terénní reliéf,
+geodetické body.
+Správce vytváří a vede databázi jako součást informačního systému veřejné správy. Data databáze jsou všeobecně využitelná jako data základní.
+Data databáze jsou závazná pro tvorbu státních mapových děl v měřítku 1 : 5 000 a menším a podkladem pro tvorbu informačních systémů veřejné správy obsahujících data. Ustanovení věty první se nevztahuje na státní mapová díla a informační systémy určené pro potřeby zajišťování obrany státu a krizového řízení.
+Správce databáze je oprávněn od orgánů státní správy, orgánů územní samosprávy a právnických osob jimi zřízených vyžadovat za účelem vedení databáze data, která tyto orgány a právnické osoby spravují, a to:
+prostorové a popisné informace o geografických objektech vedených v databázi,
+výsledky zeměměřických činností využívané ve veřejném zájmu,
+identifikátory geografických objektů vedených v informačních systémech veřejné správy.
+Orgány státní správy, orgány územní samosprávy a právnické osoby jimi zřízené jsou povinny poskytnout data uvedená v odstavci 4 správci databáze bezplatně, nebrání-li tomu omezení vyplývající z jiných právních předpisů. Nelze-li tato data poskytnout, oznámí orgány státní správy, orgány územní samosprávy nebo právnické osoby jimi zřízené správci databáze písemně důvody jejich neposkytnutí.
+Poskytování výsledků zeměměřických činností
+Zeměměřický úřad zveřejňuje údaje databáze, ortofota České republiky, státního mapového díla, databázového souboru geografického názvosloví a bodových polí bezplatně jako otevřená data. To neplatí, jde-li o údaje, k nimž je přístup vyloučen nebo omezen z důvodů ochrany kritické infrastruktury podle krizového zákona.
+Zeměměřický úřad poskytuje na základě žádosti údaje podle odstavce 1 a další údaje z dokumentovaných výsledků zeměměřických činností, ze spravovaných bází dat a z provozu státní sítě permanentních stanic pro přesné určování polohy také ve formě stanovené prováděcím právním předpisem. Prováděcí právní předpis dále stanoví úplatu za ně.
+Zeměměřický úřad údaje podle odstavce 2 poskytne bezodkladně poté, co žadatel uhradí úplatu za jejich poskytnutí, nejpozději do 20 dnů od uhrazení úplaty.
+Zeměměřický úřad zamítne žádost nebo její část, pokud
+požadované údaje neexistují,
+údaje jsou požadovány v jiné formě, než jaká je pro jejich poskytnutí stanovena prováděcím právním předpisem,
+nebyla uhrazena úplata za jejich poskytnutí, nebo
+poskytnutí údajů brání omezení vyplývající z jiného právního předpisu.
+Prováděcí právní předpis stanoví výši úplaty tak, aby celkový příjem z poskytování údajů nepřesahoval náklady na jejich reprodukci, zpřístupňování a šíření.
+Poskytování výsledků zeměměřických činností Ministerstvem obrany
+Ministerstvo obrany poskytuje na základě žádosti údaje z dokumentovaných výsledků zeměměřických činností a ze spravovaných bází dat určených pro potřeby obrany státu orgánům státní správy, orgánům územní samosprávy, veřejným výzkumným institucím a dalším subjektům pro výkon jejich působnosti za účelem potřeby obrany státu, zajišťování bezpečnosti, krizového řízení, integrovaného záchranného systému a výzkumu rizikových jevů a procesů bezplatně.
+Ministerstvo obrany údaje podle odstavce 1 poskytne bezodkladně, nejpozději do 20 dnů od podání žádosti, a to pouze v rozsahu nezbytném k dosažení účelu podle odstavce 1.
+Ministerstvo obrany zamítne žádost nebo její část, pokud
+požadované údaje neexistují,
+údaje jsou požadovány k jinému účelu než k účelu podle odstavce 1,
+rozsah požadovaných údajů zjevně neodpovídá rozsahu nezbytnému k dosažení účelu podle odstavce 1,
+poskytnutí údajů brání omezení vyplývající z jiného právního předpisu, mezinárodní smlouvy, která je součástí právního řádu, nebo oprávněného zájmu České republiky anebo třetí strany, nebo
+údaje jsou požadovány v jiné formě, než v jaké jsou dokumentovány.
+Společné ustanovení k poskytování výsledků zeměměřických činností
+Na poskytování údajů podle § 5 a 5a se nepoužije zákon o svobodném přístupu k informacím a zákon o právu na informace o životním prostředí; tyto údaje se podle zákona o svobodném přístupu k informacím a zákona o právu na informace o životním prostředí neposkytnou.
+Práva a povinnosti při výkonu zeměměřických činností
+Povinnosti při výkonu zeměměřických činností
+Osoby oprávněné vykonávat zeměměřické činnosti jsou povinny
+oznamovat změny a zjištěné závady v geodetických údajích bodů bodových polí orgánu zeměměřictví a katastru, který údaje poskytl, a to do 30 dnů po zjištění této skutečnosti,
+poskytnout orgánům uvedeným v § 4 odst. 2 písm. a) bezplatně výsledky zeměměřických činností využívané ve veřejném zájmu a doklady prokazující přesnost výsledků,
+poskytnout orgánům uvedeným v § 4 odst. 2 písm. b) bezplatně výsledky zeměměřických činností využitelné pro potřeby obrany státu.
+Vlastník stavby, která tvoří polohopisný obsah kartografických děl, je povinen předložit na vyzvání orgánům státní správy a orgánům územní samosprávy uvedeným v § 4 odst. 2 geodetickou část dokumentace jejího skutečného provedení k nahlédnutí, popřípadě k využití pro vedení kartografických děl.
+Orgány státní správy a orgány územní samosprávy jsou povinny poskytovat osobám oprávněným vykonávat zeměměřické činnosti ve veřejném zájmu nezbytnou součinnost.
+Vstup na nemovitosti
+Pověření zaměstnanci orgánů uvedených v § 4 odst. 2 a osoby oprávněné vykonávat zeměměřické činnosti jsou oprávněni při výkonu zeměměřických činností v nezbytném rozsahu vstupovat a vjíždět na pozemky po předchozím oznámení vlastníkovi nebo oprávněnému uživateli pozemků. Do staveb mohou tyto osoby vstupovat se souhlasem vlastníka nebo oprávněného uživatele stavby. Společně s nimi mohou na pozemky vstupovat a vjíždět a do staveb vstupovat i jejich pomocní pracovníci. Vlastník nebo oprávněný uživatel pozemku nesmí těmto osobám ve vstupu a vjíždění na pozemek bránit.
+Pověřený zaměstnanec orgánu uvedeného v § 4 odst. 2 písm. a) a b) prokazuje oprávnění ke vstupu na nemovitost při výkonu zeměměřických činností a dohledu služebním průkazem.
+Ostatní osoby se prokazují
+úředním průkazem vydaným některým ze státních orgánů uvedených v § 4 odst. 2, nebo
+živnostenským listem k výkonu zeměměřických činností, popřípadě jeho ověřenou kopií.
+Vlastník nebo provozovatel zařízení, které může ohrozit život nebo zdraví, umožní pověřeným zaměstnancům orgánů státní správy a územní samosprávy a osobám, oprávněným vykonávat zeměměřické činnosti, vstup do tohoto zařízení a je povinen je poučit o bezpečnosti a ochraně zdraví při práci. Všechny tyto osoby jsou povinny dodržovat předpisy upravující činnosti v těchto zařízeních.
+Zřizování značek bodů bodového pole
+Orgány státní správy a osoby, které jsou oprávněny vykonávat zeměměřické činnosti, jsou oprávněny v nezbytném rozsahu užívat nemovitosti ke zřizování, udržování, přemísťování, odstraňování a obnovování značek.
+Správcem značky je orgán zeměměřictví a katastru s výjimkou značek zřízených na základě zeměměřických činností vykonávaných pro potřeby obrany státu, jejichž správcem je Ministerstvo obrany nebo právnické osoby jím zřízené. Správce značky vykonává činnosti vyplývající z odstavce 1 a vede o značce dokumentaci.
+Osoba, která zřizuje značku, je před jejím zřízením povinna projednat její umístění s vlastníkem nemovitosti. Správce značky je povinen vlastníka nemovitosti a oprávněného uživatele nemovitosti, není-li jím vlastník, písemně poučit o omezeních, která mu zřízením značky vznikají. Takové omezení výkonu vlastnických nebo uživatelských práv musí být spojeno s poskytnutím přiměřené náhrady (§ 10 odst. 3).
+Vlastník nebo oprávněný uživatel nemovitosti je povinen strpět umístění značek na nemovitosti a zdržet se všeho, co by tyto značky mohlo poškodit, učinit nepouživatelnými nebo co by je mohlo zničit.
+Jsou-li činnostmi podle odstavce 1 dotčeny jiné zákonem chráněné zájmy, postupuje se po předchozím projednání s orgány státní správy, kterým přísluší ochrana těchto zájmů.
+Správce značky je povinen zajistit její údržbu, přemístění, odstranění a obnovu.
+K ochraně značky základního bodového pole se podle potřeby vymezí a vyhlásí ochranné pásmo podle stavebního zákona. V ochranném pásmu nesmí být prováděna činnost, jež by mohla ohrozit značku nebo ztížit anebo znemožnit její využívání.
+Body podrobného polohového bodového pole a jejich značky mohou zřizovat a v dohodě s jejich správcem a na jeho náklad udržovat, přemísťovat, odstraňovat a obnovovat i osoby oprávněné vykonávat zeměměřické činnosti.
+Má-li být značka ze závažných důvodů přemístěna, odstraněna nebo učiněno jiné opatření k její ochraně, je vlastník nebo oprávněný uživatel nemovitosti povinen to předem oznámit jejich správci.
+Vlastník nebo oprávněný uživatel nemovitosti je povinen oznámit správci značky poškození, ohrožení a zničení značky do 30 dnů ode dne zjištění této skutečnosti.
+Správce značky je povinen zpravidla do 60 dnů ode dne doručení oznámení podle odstavce 4 rozhodnout o přemístění či odstranění značky nebo o uložení opatření k ochraně značky vlastníku a oprávněnému uživateli nemovitosti.
+Značky bodů základních bodových polí a ochranná pásma značek bodů základních bodových polí jsou vedeny v registru územní identifikace jako účelové územní prvky. Editorem údajů o značkách bodů základních bodových polí a o ochranných pásmech značek bodů základních bodových polí je Zeměměřický úřad.
+O značkách bodů základních bodových polí se v registru územní identifikace vedou
+identifikační údaje, kterými jsou kód, číslo bodu a název bodu,
+lokalizační údaje, kterými jsou souřadnice bodu v souřadnicovém systému Jednotné trigonometrické sítě katastrální,
+údaje o vazbách na ostatní územní prvky.
+O ochranných pásmech značek bodů základních bodových polí se v registru územní identifikace vedou
+identifikační údaje, kterými jsou kód ochranného pásma, číslo bodu a název bodu,
+lokalizační údaje, kterými jsou hranice a definiční bod,
+údaje o vazbách na ostatní územní prvky.
+Náhrada za majetkové újmy a náhrada za omezení využívání nemovitosti
+Pověření zaměstnanci orgánů uvedených v § 4 odst. 2 a osoby oprávněné vykonávat zeměměřické činnosti jsou povinni šetřit práva a majetek vlastníka a oprávněného uživatele nemovitosti a po ukončení zeměměřických činností uvést nemovitost do původního stavu. Přitom jsou povinni dbát, aby co nejméně rušili hospodaření a užívání nemovitosti. Mohou také, po předchozím upozornění, v nezbytném rozsahu provádět na vlastní náklad nutné úpravy terénu, oklešťovat a odstraňovat porosty překážející zeměměřickým činnostem a využívání značek.
+Není-li možné nemovitost uvést do původního stavu a vznikla-li vlastníku nebo oprávněnému uživateli nemovitosti majetková újma v důsledku výkonu zeměměřických činností, má právo na náhradu. Majetkovou újmu hradí ten, kdo ji výkonem zeměměřických činností způsobil. Právo na náhradu majetkové újmy musí být uplatněno u polních kultur nejpozději do 30 dnů ode dne jejího vzniku, v ostatních případech do jednoho roku ode dne jejího vzniku, jinak zaniká.
+Je-li vlastník nebo oprávněný uživatel nemovitosti omezen umístěním značky v obvyklém využívání nemovitosti, má právo na přiměřenou náhradu za toto omezení. Náhradu za omezení hradí správce značky, u kterého je nutno toto právo uplatnit do jednoho roku ode dne oznámení o umístění značky na nemovitosti, jinak zaniká.
+Nedojde-li k dohodě o náhradě a její výši podle odstavců 2 a 3, rozhoduje soud.
+Povinnosti při výkonu zeměměřických činností pro potřeby obrany státu a v objektech se zvláštním režimem ochrany
+Orgány státní správy a osoby jsou povinny při výkonu zeměměřických činností dbát zájmů obrany státu. Ve věcech dotýkajících se utajovaných informací se řídí zvláštním zákonem.
+Vymezení obsahu, prostoru a způsobu výkonu zeměměřických činností pro potřeby obrany státu přísluší Ministerstvu obrany.
+Výsledky zeměměřických činností určené pro potřeby obrany státu spravuje Ministerstvo obrany, jeho orgány a právnické osoby jím zřízené.
+V objektech se zvláštním režimem ochrany a provozu je k výkonu zeměměřických činností potřebný předchozí souhlas příslušného ministerstva.
+Ověřování výsledků zeměměřických činností
+Výsledky zeměměřických činností využívané pro státní mapová díla, správu katastru nemovitostí a pro státní mapová díla a tvorbu a vedení databázových souborů obsahujících prostorové informace pro potřeby obrany státu musí být ověřeny autorizovaným zeměměřickým inženýrem, není-li dále stanoveno jinak.
+Výsledky zeměměřických činností ve výstavbě musí být ověřeny autorizovaným zeměměřickým inženýrem, v případě, že se jedná o geodetický podklad pro výstavbu, dokumentaci o vytyčovací síti, dokumentaci o vytyčení prostorové polohy, rozměru a tvaru stavby pro účely výstavby a o dohledu na dodržování její prostorové polohy a geodetickou část dokumentace skutečného provedení stavby.
+Výsledky zeměměřických činností vyhotovené orgány zeměměřictví a katastru jako součást výkonu jejich působnosti musí být ověřeny těmito orgány.
+Výsledky zeměměřických činností využívané pro státní mapová díla a tvorbu a vedení databázových souborů obsahujících prostorové informace pro potřeby obrany státu vyhotovené Ministerstvem obrany stanoveným vojenským zařízením nebo vojenským útvarem jako součást výkonu jeho působnosti (dále jen „výsledky zeměměřických činností vyhotovené vojenským zařízením“) musí být ověřeny Ministerstvem obrany. Vymezení dalších výsledků zeměměřické činnosti vyhotovených vojenským zařízením neuvedených ve větě první, které musí být ověřeny Ministerstvem obrany, přísluší Ministerstvu obrany.
+Přeshraniční poskytování služeb v České republice podle odstavců 1 a 2 je možné pouze na základě autorizace.
+Ověřování výsledků zeměměřických činností autorizovanými zeměměřickými inženýry
+Autorizovaný zeměměřický inženýr je povinen
+při ověřování výsledků zeměměřických činností jednat odborně, nestranně a vycházet ze spolehlivě zjištěného stavu věci, přitom vždy prověřit soulad postupů jejich vyhotovitele, náležitostí a přesnosti ověřovaných výsledků zeměměřických činností s právními předpisy,
+při ověřování výsledků zeměměřických činností využívaných ve výstavbě prověřit soulad postupů jejich vyhotovitele s písemně dohodnutými podmínkami s objednatelem, pokud tyto podmínky nejsou v rozporu s právními předpisy,
+při ověřování výsledků zeměměřických činností využívaných pro potřeby obrany státu prověřit soulad postupů jejich vyhotovitele s dalšími podmínkami výkonu zeměměřických činností vymezenými na základě § 11 odst. 2,
+poskytnout orgánu zeměměřictví a katastru potřebnou součinnost při využívání touto osobou ověřených výsledků zeměměřických činností a při dohledu na zeměměřické činnosti, jejichž výsledky jsou využívány pro státní mapová díla nebo správu katastru nemovitostí,
+při ověřování výsledků zeměměřických činností dbát platných obecně závazných právních předpisů, jakož i předpisů vydaných Českou komorou zeměměřičů,
+vést evidenci výsledků, které ověřil, odděleně podle § 16f odst. 1 písm. a) až c), s uvedením jména, popřípadě jmen, a příjmení fyzické osoby, která zeměměřické činnosti vykonala, katastrálního území, kde byly zeměměřické činnosti vykonány, nebo jiného prostorového vymezení území v případě výsledků podle § 16f odst. 1 písm. c), data a pořadového čísla ověření v rámci kalendářního roku; v případě evidence ověřovaných výsledků zeměměřických činností využívaných pro potřeby obrany státu lze namísto katastrálního území uvést označení mapového listu základního státního mapového díla měřítka 1 : 25 000 pokrývajícího území, kde byly zeměměřické činnosti vykonány,
+potvrdit vykonanou praxi v zeměměřických činnostech osobě, která tuto praxi pod jeho vedením vykonala.
+Ověření odborné správnosti výsledku zeměměřické činnosti se vyznačí textem: „Náležitostmi a přesností odpovídá právním předpisům.“. K textu se připojí vlastnoruční podpis autorizovaného zeměměřického inženýra, datum ověření výsledků zeměměřických činností, číslo z evidence ověřovaných výsledků a otisk razítka se státním znakem (dále jen „autorizační razítko“), jehož obsahem je
+jméno, popřípadě jména, a příjmení autorizovaného zeměměřického inženýra a označení podle § 16e odst. 2,
+číslo položky, pod kterou je autorizovaný inženýr veden v rejstříku autorizovaných zeměměřických inženýrů,
+rozsah autorizace podle § 16f odst. 1.
+Ověření odborné správnosti výsledku zeměměřické činnosti v elektronické podobě se vyznačí textem: „Náležitostmi a přesností odpovídá právním předpisům.“ a číslem z evidence ověřovaných výsledků. Výsledek zeměměřické činnosti v elektronické podobě a text a číslo podle věty první autorizovaný zeměměřický inženýr podepíše kvalifikovaným elektronickým podpisem a opatří kvalifikovaným elektronickým časovým razítkem. Kvalifikovaný certifikát, na kterém je založen elektronický podpis autorizovaného zeměměřického inženýra, obsahuje údaje podle odstavce 2 písm. a) až c). Kvalifikovaný certifikát, na kterém je založeno kvalifikované elektronické časové razítko, musí mít platnost nejméně 5 let od data ověření výsledku zeměměřické činnosti.
+Ověření kopie geometrického plánu se vyznačí textem: „Ověřuje se, že tato kopie souhlasí s geometrickým plánem.“. K textu se připojí vlastnoruční podpis autorizovaného zeměměřického inženýra, datum ověření kopie, číslo z evidence ověřených kopií a stejnopisů a otisk autorizačního razítka.
+V případě, že výsledek zeměměřické činnosti byl vyhotoven v elektronické podobě, může autorizovaný zeměměřický inženýr vyhotovit jeho stejnopis v listinné podobě. Stejnopis autorizovaný zeměměřický inženýr označí slovem „Stejnopis“ a připojí k němu vlastnoruční podpis, datum vyhotovení stejnopisu, číslo z evidence ověřených kopií a stejnopisů a otisk autorizačního razítka.
+Podrobnosti o užití autorizačního razítka a kvalifikovaného certifikátu podle odstavce 3 stanoví vnitřní předpis Komory.
+Ověřování výsledků zeměměřických činností orgány zeměměřictví a katastru
+Výsledky zeměměřických činností vyhotovené orgány zeměměřictví a katastru jako součást výkonu jejich působnosti musí být ověřeny, že svými náležitostmi a přesností odpovídají právním předpisům.
+Ověřování výsledků zeměměřických činností vyhotovených orgány zeměměřictví a katastru jako součást výkonu jejich působnosti provádějí zaměstnanci těchto orgánů, kteří prokázali odbornou způsobilost a byli k této činnosti pověřeni.
+Zaměstnanec orgánu zeměměřictví a katastru je odborně způsobilý k ověřování výsledků zeměměřických činností vyhotovených orgány zeměměřictví a katastru jako součást výkonu jejich působnosti, pokud
+má ukončené vysokoškolské vzdělání zeměměřického směru magisterského studijního programu a poté vykonal v České republice nejméně 5 let odborné praxe v zeměměřických činnostech a
+úspěšně složil úřednickou zkoušku v oboru služby zeměměřictví a katastr nemovitostí podle zákona o státní službě.
+Zaměstnanec orgánu zeměměřictví a katastru je odborně způsobilý k ověřování výsledků zeměměřických činností vyhotovených orgány zeměměřictví a katastru jako součást výkonu jejich působnosti také v případě, že je autorizovaným zeměměřickým inženýrem.
+Orgán zeměměřictví a katastru vede evidenci výsledků zeměměřických činností, které byly ověřeny jako součást výkonu jeho působnosti. Evidence obsahuje
+jméno, popřípadě jména, a příjmení zaměstnance, který zeměměřické činnosti vykonal,
+jméno, popřípadě jména, a příjmení zaměstnance, který výsledek zeměměřické činnosti ověřil,
+název katastrálního území, kde byly zeměměřické činnosti vykonány,
+pořadové číslo ověření v rámci kalendářního roku a
+datum ověření.
+Ověření výsledku zeměměřické činnosti vyhotoveného orgánem zeměměřictví a katastru jako součást výkonu jeho působnosti se vyznačí textem: „Náležitostmi a přesností odpovídá právním předpisům.“. K textu se připojí vlastnoruční podpis zaměstnance, datum ověření výsledků zeměměřických činností, číslo z evidence ověřovaných výsledků zeměměřických činností a otisk úředního razítka.
+Ověření výsledku zeměměřické činnosti v elektronické podobě vyhotoveného orgánem zeměměřictví a katastru jako součást výkonu jeho působnosti se vyznačí textem: „Náležitostmi a přesností odpovídá právním předpisům.“ a číslem z evidence ověřovaných výsledků zeměměřických činností. Výsledek zeměměřické činnosti v elektronické podobě a text a číslo podle věty první zaměstnanec podepíše kvalifikovaným elektronickým podpisem a opatří kvalifikovaným elektronickým časovým razítkem. Kvalifikovaný certifikát, na kterém je založeno kvalifikované elektronické časové razítko, musí mít platnost nejméně 5 let od data ověření výsledku zeměměřické činnosti.
+Ověřování výsledků zeměměřických činností Ministerstvem obrany
+Výsledky zeměměřických činností vyhotovené vojenským zařízením musí být ověřeny, že svými náležitostmi a přesností odpovídají právním předpisům a dalším podmínkám výkonu zeměměřických činností vymezeným na základě § 11 odst. 2.
+Ověřování výsledků zeměměřických činností vyhotovených vojenským zařízením provádějí vojáci v činné službě a zaměstnanci zařazení v Ministerstvu obrany, kteří prokázali odbornou způsobilost a byli k této činnosti pověřeni.
+Voják v činné službě nebo zaměstnanec zařazený v Ministerstvu obrany je odborně způsobilý k ověřování výsledků zeměměřických činností vyhotovených vojenským zařízením, pokud
+má ukončené vysokoškolské vzdělání zeměměřického směru magisterského studijního programu a poté vykonal v České republice nejméně 5 let odborné praxe v zeměměřických činnostech pro potřeby obrany státu a
+úspěšně složil zkoušku odborné způsobilosti podle § 16c.
+Ministerstvo obrany vede evidenci výsledků zeměměřických činností, které ověřilo. Evidence obsahuje
+jméno, popřípadě jména, a příjmení fyzické osoby, která zeměměřické činnosti vykonala,
+jméno, popřípadě jména, a příjmení vojáka v činné službě nebo zaměstnance, který výsledek zeměměřické činnosti ověřil,
+název katastrálního území nebo označení mapového listu základního státního mapového díla měřítka 1 : 25 000 pokrývajícího území, kde byly zeměměřické činnosti vykonány,
+pořadové číslo ověření v rámci kalendářního roku a
+datum ověření.
+Ověření výsledku zeměměřické činnosti vyhotoveného vojenským zařízením se vyznačí textem: „Náležitostmi a přesností odpovídá právním předpisům.“. K textu se připojí vlastnoruční podpis vojáka v činné službě nebo zaměstnance zařazeného v Ministerstvu obrany, datum ověření výsledku zeměměřických činností, číslo z evidence ověřovaných výsledků zeměměřických činností a otisk úředního razítka.
+Ověření výsledku zeměměřické činnosti vyhotoveného vojenským zařízením v elektronické podobě se vyznačí textem: „Náležitostmi a přesností odpovídá právním předpisům.“ a číslem z evidence ověřovaných výsledků zeměměřických činností. Výsledek zeměměřické činnosti v elektronické podobě a text a číslo podle věty první voják v činné službě nebo zaměstnanec zařazený v Ministerstvu obrany podepíše kvalifikovaným elektronickým podpisem a opatří kvalifikovaným elektronickým časovým razítkem. Kvalifikovaný certifikát, na kterém je založeno kvalifikované elektronické časové razítko, musí mít platnost nejméně 5 let od data ověření výsledku zeměměřické činnosti.
+Zkouška odborné způsobilosti
+Zkoušku odborné způsobilosti pro ověřování výsledků zeměměřických činností vyhotovených vojenským zařízením (dále jen „zkouška odborné způsobilosti“) může vykonat pouze fyzická osoba, která o její vykonání požádala a splňuje podmínky stanovené v § 16b odst. 3 písm. a).
+Písemná žádost o vykonání zkoušky odborné způsobilosti se podává Ministerstvu obrany.
+Fyzická osoba ke své žádosti o vykonání zkoušky odborné způsobilosti připojí
+doklad o řádném ukončení vysokoškolského studia ve studijním oboru zeměměřického směru alespoň magisterského studijního programu,
+potvrzení o vykonané odborné praxi v činnostech, pro jejichž ověřování žádá o udělení úředního oprávnění, a to v celkovém rozsahu nejméně pěti let,
+přehled výsledků zeměměřických činností, na nichž se fyzická osoba podílela, s uvedením jejich názvu, kalendářního roku a měsíce zpracování, pořadového čísla ověření, pod kterým k tomu oprávněná osoba výsledek zeměměřické činnosti ověřila, a údaje o adrese místa, kde je dokumentace o výsledku zeměměřické činnosti uložena, a
+samostatně zpracovaný výsledek zeměměřické činnosti z oblasti zeměměřických činností, pro které žádá o udělení osvědčení o odborné způsobilosti.
+Zkouška odborné způsobilosti se koná před odbornou zkušební komisí nejpozději do 3 měsíců ode dne doručení písemné žádosti o udělení osvědčení o odborné způsobilosti Ministerstvu obrany. Zkouška odborné způsobilosti se skládá v českém jazyce.
+Členy odborné zkušební komise pro udělení osvědčení o odborné způsobilosti jmenuje a odvolává ministr obrany. Odborná zkušební komise pro udělení osvědčení o odborné způsobilosti má lichý počet členů a je nejméně tříčlenná.
+Zkouškou odborné způsobilosti se prokazují teoretické a praktické znalosti zeměměřických činností pro potřeby obrany státu, znalosti souvisejících právních předpisů a schopnosti jejich aplikace a odborná způsobilost ověřit výsledky zeměměřických činností v praxi.
+O úspěšném vykonání zkoušky odborné způsobilosti vystaví zkušební komise osvědčení, a to ve dvou stejnopisech. Jeden stejnopis osvědčení se předá do vlastních rukou fyzické osobě, která zkoušku odborné způsobilosti úspěšně vykonala, druhý se založí u Ministerstva obrany.
+Fyzická osoba, která nesložila úspěšně zkoušku odborné způsobilosti, je oprávněna ji jednou opakovat do 6 měsíců od neúspěšného konání zkoušky. Pokud v tomto termínu ani opakovaně úspěšně zkoušku odborné způsobilosti nesloží, může podat novou žádost o její vykonání až po uplynutí 2 let od neúspěšného vykonání zkoušky.
+Ustanovení odstavců 1, 4, 5 a 8 se použijí obdobně pro vykonání rozdílové zkoušky podle zákona o uznávání odborné kvalifikace. Ustanovení odstavce 6 se použije pro vykonání rozdílové zkoušky přiměřeně. Ustanovení odstavců 2 a 3 se použijí pro podání žádosti o vykonání rozdílové zkoušky obdobně. Ustanovení odstavce 7 se použije pro vydání osvědčení o úspěšném vykonání rozdílové zkoušky obdobně.
+Dohled
+Činnosti autorizovaných zeměměřických inženýrů při ověřování výsledků zeměměřických činností využívaných pro státní mapová díla a správu katastru nemovitostí podléhají státnímu dohledu, který vykonávají zeměměřické a katastrální inspektoráty (dále jen „inspektorát“).
+Autorizace
+Autorizovaný zeměměřický inženýr
+Autorizovaný zeměměřický inženýr je ten, komu byla Českou komorou zeměměřičů (dále jen „Komora“) udělena autorizace a je zapsán v rejstříku autorizovaných zeměměřických inženýrů vedeném Komorou.
+Fyzická osoba autorizovaná podle tohoto zákona je oprávněna používat označení „autorizovaný zeměměřický inženýr“.
+Autorizací se pro účely tohoto zákona rozumí oprávnění autorizovaných zeměměřických inženýrů k ověřování výsledků zeměměřických činností podle tohoto zákona.
+Udělení autorizace
+Komora uděluje autorizaci pro ověřování
+výsledků zeměměřických činností využívaných pro správu katastru nemovitostí, zejména geometrického plánu, kopie nebo stejnopisu geometrického plánu, výsledků zeměměřických činností pro obnovu katastrálního operátu a dokumentace o vytyčení hranice pozemku,
+výsledků zeměměřických činností využívaných pro státní mapová díla, nejsou-li ověřovány na základě oprávnění podle písmene a), zejména dokumentace o zřízení, obnovení nebo přemístění bodu podrobného polohového bodového pole a o zaměření předmětů měření, které jsou obsahem základních státních mapových děl a databáze, a
+výsledků zeměměřických činností využívaných ve výstavbě.
+Autorizaci pro ověřování výsledků zeměměřických činností uvedených v odstavci 1 písm. a) až c) může Komora udělit také samostatně pro každou z těchto kategorií.
+Komora udělí na podkladě písemné žádosti autorizaci tomu, kdo
+je občanem České republiky, nebo
+je státním příslušníkem členského státu Evropské unie, jiného smluvního státu Dohody o Evropském hospodářském prostoru nebo Švýcarské konfederace, nebo jiného smluvního státu, se kterým má Evropská unie a její členské státy uzavřenou komplexní hospodářskou a obchodní dohodu pokrývající profesi zeměměřičů (dále jen „členský stát“), nebo jeho rodinným příslušníkem, nebo je státním příslušníkem jiného než členského státu, pokud mu
+v České republice nebo jiném členském státě bylo přiznáno právní postavení dlouhodobě pobývajícího rezidenta v Evropském společenství,
+v České republice byl povolen pobyt za účelem vědeckého výzkumu,
+v České republice byl udělen azyl nebo doplňková ochrana, nebo je rodinným příslušníkem osoby uvedené v bodě 1 nebo 2, pokud mu byl na území České republiky povolen dlouhodobý pobyt nebo udělen azyl nebo doplňková ochrana za účelem sloučení rodiny,
+v České republice nebo jiném členském státě byl povolen pobyt za účelem studia, výměnných pobytů žáků, neplacené odborné přípravy nebo dobrovolné služby, nebo
+v České republice nebo jiném členském státě byl povolen pobyt, protože je obětí obchodování s lidmi nebo obdržel pomoc k nedovolenému přistěhovalectví a spolupracuje s příslušnými orgány, a
+je plně svéprávný,
+je bezúhonný,
+získal vysokoškolské vzdělání ve studijním oboru zeměměřického směru v magisterském studijním programu,
+vykonal v České republice nejméně 5 let odborné praxe v zeměměřických činnostech, pro které žádá o udělení autorizace,
+úspěšně složil autorizační zkoušku,
+uhradil Komoře poplatek, který stanoví stavovský předpis nejvýše částkou 5 000 Kč (dále jen „poplatek za autorizační zkoušku“), a
+složil předepsaný slib.
+Autorizaci udělí Komora také fyzické osobě, které uzná odbornou kvalifikaci a bezúhonnost podle zákona o uznávání odborné kvalifikace a která složí předepsaný slib.
+Komora umožní složení předepsaného slibu každému uchazeči o autorizaci, který splnil podmínky uvedené v odstavci 3 písm. a) až h), a to nejpozději do jednoho měsíce od úspěšného složení autorizační zkoušky.
+Autorizace se uděluje ke dni složení předepsaného slibu. Text slibu zní: „Slibuji na svou občanskou čest a své svědomí, že jako autorizovaný zeměměřický inženýr budu při své práci usilovat o vytváření kvalitních zeměměřických děl, budu ctít zájmy klientů, jakož i zájmy veřejné, budu respektovat přírodní a kulturní hodnoty a budu se vždy řídit profesní etikou autorizovaného zeměměřického inženýra.“
+Komora zapíše osobu, které byla udělena autorizace, do rejstříku autorizovaných zeměměřických inženýrů vedeného Komorou a vydá této osobě osvědčení o autorizaci s vyznačeným rozsahem autorizace podle odstavce 1.
+Za bezúhonného se pro účely tohoto zákona považuje ten, kdo nebyl pravomocně odsouzen
+pro trestný čin spáchaný v souvislosti s výkonem zeměměřických činností,
+pro trestný čin spáchaný úmyslně k nepodmíněnému trestu odnětí svobody v trvání alespoň 1 roku.
+Podrobnosti o obsahu zkoušek odborné způsobilosti, obsahu odborné praxe a formu osvědčení o autorizaci stanoví vnitřní předpis.
+Autorizační zkouška
+Autorizační zkouškou se prokazují teoretické a praktické znalosti zeměměřických činností, pro které žádá fyzická osoba o udělení autorizace, znalosti souvisejících právních předpisů a schopnosti jejich aplikace, znalosti vnitřních předpisů Komory a odborná způsobilost ověřit výsledky zeměměřických činností v praxi.
+K autorizační zkoušce Komora připustí do 6 měsíců od obdržení písemné žádosti každého uchazeče, který splnil podmínky uvedené v § 16f odst. 3 písm. a) až f) a zaplatil poplatek za autorizační zkoušku, jinak žádost zamítne.
+Uchazeč, který nesložil úspěšně zkoušku, je oprávněn ji jednou opakovat do 6 měsíců od neúspěšného konání zkoušky. Pokud v tomto termínu ani opakovaně úspěšně zkoušku nesloží, může podat novou žádost o udělení autorizace až po uplynutí 2 let od neúspěšného vykonání zkoušky.
+Ustanovení odstavců 2 a 3 se použijí obdobně pro vykonání rozdílové zkoušky podle zákona o uznávání odborné kvalifikace. Ustanovení odstavce 1 se použije pro vykonání rozdílové zkoušky přiměřeně.
+Rejstřík autorizovaných zeměměřických inženýrů
+Rejstřík autorizovaných zeměměřických inženýrů je veřejným rejstříkem.
+Rejstřík autorizovaných zeměměřických inženýrů obsahuje tyto údaje:
+jméno, popřípadě jména, a příjmení autorizovaného zeměměřického inženýra,
+adresa, okres a kraj místa trvalého pobytu,
+datum narození,
+místo a okres narození,
+typ a číslo identifikačního dokladu,
+rozsah autorizace a datum udělení autorizace,
+číslo položky, pod kterou je autorizovaný zeměměřický inženýr veden v rejstříku autorizovaných zeměměřických inženýrů,
+identifikátor datové schránky, je-li tato datová schránka zpřístupněna,
+údaj o rozhodnutí o spáchání přestupku na úseku zeměměřictví včetně data nabytí právní moci tohoto rozhodnutí,
+údaj o pozastavení autorizace a o ukončení pozastavení autorizace včetně data nabytí právní moci tohoto rozhodnutí,
+údaj o rozhodnutí o odejmutí autorizace včetně data nabytí právní moci tohoto rozhodnutí a
+datum zániku autorizace.
+Komora neprodleně provádí změny v údajích obsažených v rejstříku autorizovaných zeměměřických inženýrů, jakmile jsou jí známy.
+Komora je povinna zajistit uveřejnění rejstříku autorizovaných zeměměřických inženýrů včetně jeho změn i způsobem umožňujícím dálkový přístup.
+Každý má právo bezplatně nahlížet prostřednictvím veřejné datové sítě na údaje v rejstříku autorizovaných zeměměřických inženýrů o autorizovaných zeměměřických inženýrech v rozsahu podle odstavce 1 písm. a), b), f) a g).
+Autorizovaný zeměměřický inženýr má právo nahlížet na údaje, které jsou o něm v rejstříku autorizovaných zeměměřických inženýrů vedeny, v plném rozsahu.
+Orgány veřejné moci mohou přistupovat k údajům vedeným v rejstříku autorizovaných zeměměřických inženýrů v rozsahu nezbytném pro plnění konkrétního úkolu při výkonu jejich působnosti.
+Zánik, odejmutí a pozastavení autorizace
+Autorizace zaniká, jestliže autorizovaný zeměměřický inženýr zemře nebo je prohlášen za mrtvého.
+Komora odejme autorizaci tomu,
+komu byla omezena svéprávnost,
+komu bylo Komorou uloženo disciplinární opatření odejmutí autorizace,
+komu byla autorizace udělena na podkladě nesprávných nebo neúplných údajů,
+kdo se písemně vzdá autorizace, nebo
+kdo opakovaně spáchá přestupek na úseku zeměměřictví.
+Komora vyškrtne osobu, jejíž autorizace zanikla nebo které byla autorizace odejmuta, z rejstříku autorizovaných zeměměřických inženýrů.
+Osoba, které byla odejmuta autorizace podle odstavce 2 písm. b), může požádat o udělení autorizace nejdříve po uplynutí tří let ode dne nabytí právní moci rozhodnutí o odejmutí autorizace.
+Osoba, které byla odejmuta autorizace podle odstavce 2 písm. e), může požádat o udělení autorizace nejdříve po uplynutí pěti let ode dne nabytí právní moci rozhodnutí o odejmutí autorizace.
+Komora autorizovanému zeměměřickému inženýrovi pozastaví autorizaci
+na dobu výkonu trestu odnětí svobody, ke kterému byl odsouzen za trestný čin spáchaný v souvislosti s výkonem činnosti, pro kterou mu byla autorizace udělena,
+na dobu trvání trestu zákazu výkonu činnosti autorizovaného zeměměřického inženýra,
+na dobu trvání disciplinárního opatření, jímž byla pozastavena autorizace, nebo
+pokud o to písemně požádá.
+Komora může autorizovanému zeměměřickému inženýrovi pozastavit autorizaci,
+bylo-li proti němu v souvislosti s výkonem jeho činnosti zahájeno trestní řízení pro trestný čin, a to až do vynesení pravomocného rozhodnutí,
+bylo-li zahájeno řízení o jeho svéprávnosti, a to až do pravomocného rozhodnutí, kterým se toto řízení končí, nebo
+jestliže po dobu nejméně pěti let nevykonával činnost, pro kterou mu byla autorizace udělena, a to až do přezkoušení odborné způsobilosti.
+O pozastavení autorizace učiní Komora záznam do rejstříku autorizovaných zeměměřických inženýrů.
+Autorizovaný zeměměřický inženýr je povinen oznámit Komoře všechny skutečnosti, které by mohly být důvodem pro odejmutí nebo pozastavení autorizace, a to do 15 dnů poté, kdy nastaly. Opomenutí má za následek disciplinární řízení.
+Komora
+Působnost Komory
+Zřizuje se Komora jako samosprávná stavovská organizace autorizovaných zeměměřických inženýrů se sídlem v Praze. Komora je právnickou osobou.
+Komora sdružuje všechny autorizované zeměměřické inženýry.
+Do působnosti Komory náleží zejména
+udělovat, odnímat a pozastavovat autorizaci,
+vést rejstřík autorizovaných zeměměřických inženýrů a tento rejstřík včetně jeho změn uveřejnit i způsobem umožňujícím dálkový přístup,
+organizovat autorizační zkoušky,
+vést disciplinární řízení,
+vydávat vnitřní předpisy Komory,
+vydávat standardy výkonů a dokumentace,
+zajišťovat odborné vzdělávání a napomáhat šíření odborných informací,
+spolupracovat s orgány státní správy a místní samosprávy,
+posuzovat návrhy obecně závazných právních předpisů dotýkajících se výkonu zeměměřických činností,
+spolupracovat s institucemi podnikatelského a obchodního charakteru,
+spolupracovat s obdobnými zahraničními institucemi,
+hájit stavovské zájmy autorizovaných zeměměřických inženýrů a
+podporovat sociální zájmy autorizovaných zeměměřických inženýrů.
+Podrobnosti o organizaci Komory, o jejích orgánech, o působnosti a pravomoci těchto orgánů a o počtech jejich členů stanoví organizační řád Komory. Podrobnosti o volbách a disciplinárním řízení stanoví volební a disciplinární řády. Podrobnosti o podmínkách autorizace stanoví autorizační řád. Podrobnosti o právech a povinnostech autorizovaných zeměměřických inženýrů stanoví profesní a etický řád.
+Orgány Komory
+Komora má tyto orgány:
+sněm,
+představenstvo,
+předsedu Komory,
+dozorčí radu,
+stavovský soud a
+autorizační radu.
+Funkce v orgánech Komory jsou čestné; za jejich výkon přísluší jen náhrada hotových výdajů a náhrada za ztrátu času.
+K zajištění administrativních a odborných činností Komory slouží kancelář Komory, popřípadě též její regionální pobočky.
+Sněm
+Sněm je nejvyšším orgánem Komory. Představenstvo je povinno svolat sněm nejméně jednou za tři roky. Požádá-li o to dozorčí rada nebo jedna třetina členů, je představenstvo povinno svolat sněm nejpozději do 3 měsíců. Podmínky schopnosti se usnášet, výkon hlasovacího práva a další organizační záležitosti sněmu určují vnitřní předpisy Komory.
+Sněm
+schvaluje řády Komory, zejména etický, organizační, volební, disciplinární a jednací,
+schvaluje standardy výkonů a dokumentace,
+schvaluje výši příspěvků členů Komory,
+schvaluje výši náhrad za ztrátu času výkonem funkcí v orgánech Komory,
+projednává a schvaluje zprávy o činnosti ostatních orgánů Komory,
+může zrušit nebo změnit rozhodnutí představenstva,
+může rozhodnout o zřízení dalších pomocných orgánů a stanovit jejich práva a povinnosti,
+usnáší se i o dalších otázkách, které si vyhradí k rozhodování, a
+schvaluje rozpočet.
+Sněm volí přímou a tajnou volbou z řádných členů Komory členy představenstva, dozorčí rady a stavovského soudu na dobu 3 let a členy těchto orgánů také tajným hlasováním odvolává.
+Představenstvo
+Představenstvo je statutárním orgánem Komory. V rozsahu své působnosti zejména
+svolává řádný nebo mimořádný sněm a připravuje podklady pro jeho jednání,
+spravuje majetek Komory a prostřednictvím kanceláře Komory zabezpečuje veškeré administrativní činnosti Komory,
+chrání a prosazuje zájmy členů Komory,
+navrhuje členy autorizační rady,
+odpovídá za řádné vedení rejstříku autorizovaných zeměměřických inženýrů, informuje členy o činnosti Komory a vykonává publikační, dokumentační a ediční činnost a
+rozhoduje ve všech věcech v působnosti Komory, pokud o nich nerozhodují jiné orgány.
+Představenstvo Komory volí a odvolává ze svého středu předsedu a alespoň 2 místopředsedy Komory. Předseda zastupuje Komoru navenek. Předsedu zastupuje po dobu jeho nepřítomnosti v plném rozsahu představenstvem určený místopředseda.
+Dozorčí rada
+Dozorčí rada je nejvyšším kontrolním orgánem Komory. V rámci své působnosti zejména
+kontroluje veškerou činnost Komory, především plnění usnesení sněmu, dodržování povinností stanovených tímto zákonem, jinými obecně závaznými právními předpisy a vnitřními předpisy vydanými Komorou,
+má právo nahlížet do veškerých dokladů Komory, vyžadovat stanoviska a další podklady a
+dohlíží nad řádným výkonem činnosti autorizovaných zeměměřických inženýrů.
+Dozorčí rada volí a odvolává ze svého středu předsedu a dva místopředsedy. Předseda zastupuje tento orgán navenek a řídí jeho činnost, jménem dozorčí rady podává návrhy na zahájení disciplinárního řízení. Předsedu zastupuje po dobu jeho nepřítomnosti v plném rozsahu dozorčí radou určený místopředseda.
+Dozorčí rada může rozhodnout o ustavení dozorčích komisí a přenést na ně část své pravomoci. Jejich předsedy volí dozorčí rada.
+Autorizační rada
+Autorizační rada je orgán Komory oprávněný rozhodovat na podkladě vykonaného autorizačního řízení o udělení autorizace.
+Autorizační rada v rozsahu své působnosti
+jmenuje zkušební komise a
+navrhuje autorizační řád a stanoví obsah a způsob provádění autorizačních zkoušek.
+Členy autorizační rady Komory jmenuje na dobu tří let předseda Úřadu v tomto složení:
+1 zástupce Úřadu,
+1 zástupce Ministerstva pro místní rozvoj a
+3 zástupci představenstva Komory.
+V případě, že člen autorizační rady závažným způsobem poruší autorizační řád Komory, může předseda Úřadu na návrh řádného člena Komory nebo z vlastního podnětu člena autorizační rady odvolat. O odvolání členů autorizační rady informuje předseda Úřadu bez zbytečného odkladu subjekty, které odvolané členy autorizační rady nominovaly, a vyzve je, aby mu nejpozději do 30 dnů sdělily návrhy na obsazení autorizační rady.
+Stavovský soud
+Stavovský soud rozhoduje o uložení disciplinárního opatření v disciplinárním řízení, které se zahajuje na návrh dozorčí rady.
+Stavovský soud volí a odvolává ze svého středu předsedu a místopředsedu. Předseda zastupuje tento orgán navenek, řídí jeho činnost a podepisuje jeho rozhodnutí. Místopředseda zastupuje předsedu po dobu jeho nepřítomnosti, a to v plném rozsahu.
+Stavovský soud může rozhodnout o ustavení dílčích, nejméně tříčlenných disciplinárních senátů a přenést na ně svoji rozhodovací pravomoc. Jejich předsedu volí stavovský soud.
+Disciplinární provinění a disciplinární řízení
+Za závažné nebo opětovné porušení povinností autorizovaného zeměměřického inženýra stanovené tímto zákonem nebo vnitřním předpisem Komory, které není přestupkem podle oddílu osmého ani trestným činem, (dále jen „disciplinární provinění“) Komora autorizovanému zeměměřickému inženýrovi uloží některé z těchto disciplinárních opatření:
+písemnou důtku,
+pokutu až do výše 50 000 Kč,
+pozastavení autorizace na dobu nejvýše 3 let, nebo
+odejmutí autorizace.
+Výnos pokut připadá Komoře.
+Návrh na zahájení disciplinárního řízení podává dozorčí rada nebo předseda Úřadu. Návrh na zahájení disciplinárního řízení může být podán do šesti měsíců ode dne, kdy se Komora nebo Úřad o disciplinárním provinění dozvěděly, nejpozději však do 3 let ode dne, kdy k disciplinárnímu provinění došlo. Návrh musí mít písemnou formu a musí být skutkově vymezen. Důvody uvedené v návrhu na zahájení disciplinárního řízení nesmí být po zahájení řízení měněny.
+Stavovský soud, popřípadě pověřené disciplinární senáty jsou oprávněny vyžadovat předložení dokladů, jejichž obsah budou považovat za významný pro rozhodnutí.
+Nestanoví-li tento zákon nebo vnitřní předpisy Komory něco jiného nebo nevyplývá-li něco jiného z povahy věci, použijí se v disciplinárním řízení ustanovení správního řádu.
+Proti rozhodnutí o uložení disciplinárního opatření může autorizovaný zeměměřický inženýr, kterému bylo disciplinární opatření uloženo, popřípadě dozorčí rada Komory, podat písemné odvolání, a to do 15 dnů ode dne doručení rozhodnutí. Odvolání se podává prostřednictvím stavovského soudu. Řádně a včas podané odvolání má odkladný účinek.
+O odvolání proti rozhodnutí o uložení disciplinárního opatření rozhoduje s konečnou platností představenstvo Komory, které přezkoumávané rozhodnutí buď potvrdí, nebo zruší. Zruší-li představenstvo Komory napadené rozhodnutí, je stavovský soud vázán právním názorem odvolacího orgánu.
+Rozhodnutí o odvolání, jímž bylo uloženo disciplinární opatření pozastavení nebo odejmutí autorizace, přezkoumává podle zvláštních předpisů na návrh provinivšího se autorizovaného zeměměřického inženýra věcně a místně příslušný soud ve správním soudnictví; návrh se podává ve lhůtě stanovené zvláštními předpisy.
+Geodetické referenční systémy a státní mapová díla
+Výsledky zeměměřických činností využívané ve veřejném zájmu musí být dokumentovány v geodetických referenčních systémech závazných na celém území České republiky.
+Geodetické referenční systémy závazné na celém území České republiky a databáze geodetických údajů, databáze geografických údajů a státní mapová díla vytvářená pro celé území České republiky, včetně zásad jejich používání, stanoví vláda nařízením.
+Přestupky
+Přestupku se dopustí ten, kdo
+znemožňuje nebo ztěžuje výkon zeměměřických činností, které mají být využívány pro katastr nemovitostí nebo základní státní mapové dílo, kontrolu zeměměřických činností nebo dohled na ověřování jejich výsledků,
+provádí činnost, jež by mohla v ochranném pásmu značky základního bodového pole ohrozit značku nebo ztížit anebo znemožnit její využívání,
+vykoná zeměměřickou činnost, aniž je k tomu odborně způsobilý,
+použije označení „autorizovaný zeměměřický inženýr“, ačkoli nesplňuje zákonné podmínky pro používání takového označení, nebo
+vykonává činnosti autorizovaného zeměměřického inženýra podle tohoto zákona, ačkoli není osobou, která je podle tohoto zákona oprávněna tuto činnost vykonávat.
+Vlastník stavby, která tvoří polohopisný obsah kartografických děl, se dopustí přestupku tím, že v rozporu s § 6 odst. 2 nepředloží orgánům státní správy nebo orgánům územní samosprávy geodetickou část dokumentace skutečného provedení takové stavby.
+Vlastník nebo oprávněný uživatel nemovitosti se dopustí přestupku tím, že zničí, poškodí anebo přemístí značku nebo ji učiní nepoužitelnou.
+Za přestupek podle odstavce 1, 2 nebo 3 může Zeměměřický úřad nebo inspektorát a při výkonu zeměměřických činností pro potřeby obrany státu a v objektech se zvláštním režimem Ministerstvo obrany uložit pokutu až do výše 25 000 Kč. Je-li přestupek podle odstavce 1, 2 nebo 3 spáchán právnickou nebo podnikající fyzickou osobou, lze uložit pokutu do 250 000 Kč.
+Promlčecí doba u přestupku podle odstavce 1, 2 nebo 3 činí 3 roky. Byla-li promlčecí doba přerušena, odpovědnost za přestupek zaniká nejpozději 5 let od jeho spáchání.
+Osoba oprávněná vykonávat zeměměřické činnosti se dopustí přestupku tím, že
+neposkytne příslušným orgánům státní správy bezplatně výsledky zeměměřických činností využívané ve veřejném zájmu,
+nepředloží na vyzvání příslušným orgánům státní správy k nahlédnutí, popřípadě k využití geodetickou část dokumentace skutečného provedení stavby, nebo
+neoznámí změny a zjištěné závady v geodetických údajích bodových polí orgánu zeměměřictví a katastru, který údaje poskytl, ve lhůtě 30 dnů po zjištění této skutečnosti.
+Autorizovaný zeměměřický inženýr se dopustí přestupku tím, že
+nedodržuje podmínky nebo povinnosti stanovené tímto zákonem pro ověřování výsledků zeměměřických činností využívaných pro katastr nemovitostí České republiky nebo základní státní mapové dílo,
+odmítne potvrdit vykonanou praxi v zeměměřických činnostech osobě, která pod jeho vedením praxi vykonala, nebo
+ověří výsledek zeměměřické činnosti vykonaný osobou, která není k této činnosti odborně způsobilá.
+Za přestupek podle odstavce 1 nebo 2 může Zeměměřický úřad nebo inspektorát a při výkonu zeměměřických činností pro potřeby obrany státu a v objektech se zvláštním režimem Ministerstvo obrany uložit pokutu do 250 000 Kč.
+K řízení o přestupku podle odstavce 2 písm. a) nebo c) je místně příslušný ten inspektorát, v jehož územní působnosti se nachází nemovitost, které se výsledek zeměměřické činnosti týká.
+Promlčecí doba u přestupku podle odstavce 1 nebo 2 činí 5 let. Byla-li promlčecí doba přerušena, odpovědnost za přestupek zaniká nejpozději 8 let od jeho spáchání.
+O pravomocném rozhodnutí o spáchání přestupku autorizovaným zeměměřickým inženýrem informuje orgán, který jej vydal, Komoru.
+Opakovaným spácháním přestupku na úseku zeměměřictví se rozumí porušení povinnosti podle tohoto zákona, jehož se osoba dopustila v době do 5 let od právní moci rozhodnutí, kterým mu byla uložena pokuta za předchozí přestupek na úseku zeměměřictví.
+Společná a přechodná ustanovení
+Platnost dosavadních oprávnění
+Platnost oprávnění vydaných podle § 3 odst. 1 vyhlášky Českého úřadu geodetického a kartografického č. 60/1973 Sb., o ověřování geometrických plánů a jiných výsledků geodetických prací, a podle § 3 odst. 2 vyhlášky Českého úřadu geodetického a kartografického č. 10/1974 Sb., o geodetických pracích ve výstavbě, ve znění vyhlášky Českého úřadu geodetického a kartografického č. 38/1974 Sb., končí uplynutím jednoho roku od účinnosti tohoto zákona. Platnost oprávnění vydaných v dohodě s Českým báňským úřadem podle § 3 odst. 2 vyhlášky Českého úřadu geodetického a kartografického č. 60/1973 Sb., o ověřování geometrických plánů a jiných výsledků geodetických prací, končí uplynutím tří let od účinnosti tohoto zákona.
+Na základě písemné žádosti bude fyzické osobě, která splňuje podmínky stanovené tímto zákonem, uděleno úřední oprávnění v rozsahu uvedeném
+v § 13 odst. 1 písm. a), jestliže je držitelem oprávnění podle § 3 odst. 1 písm. a) vyhlášky Českého úřadu geodetického a kartografického č. 60/1973 Sb., o ověřování geometrických plánů a jiných výsledků geodetických prací,
+v § 13 odst. 1 písm. b), jestliže je držitelem oprávnění podle § 3 odst. 1 písm. b) vyhlášky Českého úřadu geodetického a kartografického č. 60/1973 Sb., o ověřování geometrických plánů a jiných výsledků geodetických prací,
+v § 13 odst. 1 písm. c), jestliže je držitelem oprávnění podle vyhlášky Českého úřadu geodetického a kartografického č. 10/1974 Sb., o geodetických pracích ve výstavbě, ve znění vyhlášky Českého úřadu geodetického a kartografického č. 38/1974 Sb.
+Zmocňovací ustanovení
+Úřad vyhláškou stanoví
+předmět a obsah správy bodových polí a náležitosti podání týkajících se bodových polí,
+předmět a obsah správy databáze,
+formu poskytování údajů z dokumentovaných výsledků zeměměřických činností, ze spravovaných bází dat a z provozu státní sítě permanentních stanic pro přesné určování polohy Zeměměřickým úřadem a úplatu za ně,
+předmět a obsah správy základních a tematických státních mapových děl, kromě děl, která jsou výsledky činností uvedených v § 11 odst. 3, a postup při standardizaci geografického názvosloví,
+předmět a obsah výsledků zeměměřických činností využívaných pro státní mapová díla nebo správu katastru nemovitostí a náležitosti dokumentace o skutečném provedení stavby,
+obsah digitální technické mapy kraje podle § 4b odst. 4 včetně zjednodušeného způsobu vedení údajů, které nedosahují požadované úplnosti, rozdělení údajů na veřejné a neveřejné, charakteristiky přesnosti a strukturu digitální technické mapy kraje,
+výměnný formát digitální technické mapy kraje,
+formy a podmínky poskytování údajů z digitální technické mapy kraje,
+údaje, které stavebník předává do digitální technické mapy kraje při vzniku, změně nebo zániku objektu nebo zařízení, a jejich strukturu,
+podrobný obsah seznamů podle § 4d odst. 3 písm. c) a d).
+Ministerstvo obrany vyhláškou stanoví
+náležitosti a formu ověřování výsledků zeměměřických činností pro potřeby obrany státu,
+obsah a způsob provádění zkoušky odborné způsobilosti,
+obsah a způsob provádění rozdílové zkoušky.
+Obce mohou pro účely vedení technické mapy obce stanovit obecně závaznou vyhláškou
+obsah technické mapy nad rámec základního obsahu technické mapy obce,
+povinnost vlastníka stavby ohlásit a doložit změny týkající se obsahu technické mapy obce,
+podmínky zpracování a předávání geodetické části dokumentace skutečného provedení stavby při plnění povinnosti stanovené podle písmene b).

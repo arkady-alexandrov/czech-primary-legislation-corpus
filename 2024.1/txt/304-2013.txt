@@ -1,0 +1,560 @@
+VEŘEJNÉ REJSTŘÍKY PRÁVNICKÝCH A FYZICKÝCH OSOB
+PŘEDMĚT ÚPRAVY A JEJÍ ZÁKLADNÍ PRINCIPY
+Veřejné rejstříky
+Veřejnými rejstříky právnických a fyzických osob podle tohoto zákona (dále jen „veřejný rejstřík“) se rozumí spolkový rejstřík, nadační rejstřík, rejstřík ústavů, rejstřík společenství vlastníků jednotek, obchodní rejstřík a rejstřík obecně prospěšných společností.
+Do veřejného rejstříku se zapisují zákonem stanovené údaje o právnických a fyzických osobách (dále jen „zapsaná osoba“).
+Veřejný rejstřík je informačním systémem veřejné správy.
+Veřejný rejstřík je veden v elektronické podobě. Veřejný rejstřík vede soud (dále jen „rejstříkový soud“).
+Rejstříkový soud
+Rejstříkový soud vede pro každou zapsanou osobu, odštěpný závod jejího obchodního závodu (dále jen „závod“), závod zahraniční osoby nebo její odštěpný závod a pobočný spolek nebo jinou obdobnou organizační jednotku zahraničního spolku vyvíjejícího činnost na území České republiky zvláštní vložku. Součástí veřejného rejstříku je sbírka listin.
+Rejstříkový soud zveřejní zápis do veřejného rejstříku, jeho změnu nebo výmaz (dále jen „zápis“), jakož i uložení listin, včetně listin v elektronické podobě (dále jen „listina“) do sbírky listin bez zbytečného odkladu po zápisu.
+Rejstříkový soud oznámí zveřejňované údaje nejpozději do 5 pracovních dnů ode dne zápisu také příslušnému správci daně z příjmů, orgánu vykonávajícímu státní statistickou službu, příslušnému živnostenskému úřadu a orgánu, který vydal jiné podnikatelské oprávnění.
+Rozsah a způsob zveřejnění zápisu a způsob zveřejnění listin ve sbírce listin upraví vláda nařízením.
+Princip formální publicity
+Rejstříkový soud uveřejní údaje o zapsané osobě a listiny uložené ve sbírce listin způsobem umožňujícím dálkový přístup a umožní získat úředně ověřený elektronický opis.
+O skutečnostech zapsaných do veřejného rejstříku a listinách uložených do sbírky listin před 1. lednem 1997 vydá rejstříkový soud vždy jen listinný opis, ledaže jsou i zápisy o těchto skutečnostech nebo listiny již uchovávány v elektronické podobě; to neplatí, jde-li o spolkový rejstřík.
+O skutečnostech zapsaných do spolkového rejstříku a listinách uložených do sbírky listin před 1. lednem 2017 vydá rejstříkový soud vždy jen listinný opis, ledaže jsou i zápisy o těchto skutečnostech nebo listiny již uchovány v elektronické podobě.
+Jde-li o společnost s ručením omezeným, akciovou společnost nebo závod a odštěpný závod zahraniční kapitálové společnosti zapsané podle § 50, údaje zapsané v obchodním rejstříku a listiny uložené ve sbírce listin uveřejněné způsobem umožňujícím dálkový přístup uveřejní rejstříkový soud také prostřednictvím systému propojení rejstříků. Ministerstvo spravedlnosti zajistí, aby při postupu podle věty první byly současně zprostředkovány údaje umožňující přidělení jedinečného evropského identifikačního kódu.
+Na žádost vydá rejstříkový soud listinný úředně ověřený částečný nebo úplný opis zápisu nebo listiny uložené ve sbírce listin nebo potvrzení o tom, že určitý údaj ve veřejném rejstříku není, ledaže žadatel výslovně požádá o opis úředně neověřený.
+Úředním ověřením se potvrzuje shoda opisu se zápisem ve veřejném rejstříku nebo s listinou uloženou ve sbírce listin.
+Úhrada nákladů za vydání opisu nesmí překročit výši skutečných a účelných administrativních nákladů.
+Z veřejného rejstříku se vydává ověřený výstup z informačního systému veřejné správy podle zákona upravujícího informační systémy veřejné správy.
+Zapisuje-li se rodné číslo do veřejného rejstříku, neuvádí se v opisu z veřejného rejstříku ani se neuveřejňuje. Je-li rodné číslo uvedeno v listinách zakládaných do sbírky listin, uveřejňují se tyto listiny postupem podle tohoto zákona, včetně rodného čísla.
+Ministerstvo financí uveřejní způsobem umožňujícím dálkový přístup informace o osobách zapsaných v České republice a údaje o tom, ve kterém veřejném rejstříku jsou tyto osoby zapsány, zahrnující
+jméno,
+den vzniku právnické osoby, den jejího zrušení s uvedením právního důvodu a den jejího zániku,
+sídlo, adresu místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu,
+identifikační číslo osoby, bylo-li jí přiděleno,
+účel nebo předmět činnosti,
+jméno, adresu sídla nebo místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, každého člena statutárního orgánu spolu s uvedením způsobu, jakým právnickou osobu zastupuje, a den vzniku a zániku výkonu funkce,
+členství v právnické osobě a její jméno, je-li členem právnické osoby,
+členství v orgánu právnické osoby a její jméno, je-li členem orgánu právnické osoby, a
+označení rejstříku, ve kterém je osoba zapsána.
+Ministerstvo financí uveřejní způsobem umožňujícím dálkový přístup informace o svěřenských fondech a jim strukturou nebo funkcemi podobných zařízeních řídících se právem jiného státu a působících na území České republiky (dále jen „zahraniční svěřenský fond“) zapsaných v České republice zahrnující
+označení svěřenského fondu nebo zahraničního svěřenského fondu,
+den vzniku svěřenského fondu nebo zahraničního svěřenského fondu, den jeho zrušení nebo zániku správy s uvedením právního důvodu a den jeho zániku,
+identifikační číslo svěřenského fondu nebo zahraničního svěřenského fondu,
+účel svěřenského fondu nebo zahraničního svěřenského fondu a
+jméno a doručovací adresu každého svěřenského správce, jde-li o fyzickou osobu, jméno a adresu sídla, jde-li o právnickou osobu, spolu s uvedením způsobu, jakým jedná, a den vzniku a zániku funkce.
+Ministerstvo financí umožní získat o údajích uvedených v odstavcích 1 a 2 elektronický opis.
+Princip materiální publicity
+Proti osobě, která právně jedná důvěřujíc údaji zapsanému do veřejného rejstříku, nemá ten, jehož se zápis týká, právo namítnout, že zápis neodpovídá skutečnosti.
+Údaje a obsah listin, jejichž zveřejnění zákon ukládá, může zapsaná osoba namítat vůči třetím osobám až od okamžiku jejich zveřejnění, ledaže by prokázala, že třetí osobě byly známy dříve. Těchto údajů a obsahu listin se však zapsaná osoba nemůže dovolávat u jednání uskutečněných do uplynutí patnáctého dne po zveřejnění, jestliže třetí osoba prokáže, že o nich nemohla vědět.
+Třetí osoby se mohou vždy dovolat nezveřejněných údajů a obsahu listin, neodnímá-li jim skutečnost nezveřejnění účinnost.
+Jestliže obsah zápisu ve veřejném rejstříku odporuje donucujícímu ustanovení zákona a nelze-li dosáhnout nápravy jinak, rejstříkový soud vyzve zapsanou osobu ke zjednání nápravy. Jde-li o právnickou osobu a ta ve stanovené lhůtě nezjedná nápravu, může soud i bez návrhu, je-li takový postup v zájmu ochrany třetích osob, rozhodnout o jejím zrušení s likvidací.
+Jestliže existuje nesoulad mezi zněním zápisu ve veřejném rejstříku v českém a cizím jazyce nebo listin uložených ve sbírce listin v českém jazyce a dobrovolně uloženým překladem těchto listin do cizího jazyka podle § 74 odst. 1, nelze se vůči třetím osobám dovolávat znění zveřejněného nebo uloženého do sbírky listin v cizím jazyce. Třetí osoba se může dovolávat znění zveřejněného nebo uloženého do sbírky listin v cizím jazyce, ledaže zapsaná osoba prokáže, že třetí osoba znala znění obsahu zápisu nebo listiny uložené v českém jazyce.
+Účinky zveřejnění zápisu nebo usnesení o zamítnutí zápisu člena orgánu právnické osoby
+Od okamžiku zveřejnění zápisu osoby, která je členem orgánu právnické osoby, se nikdo nemůže vůči třetím osobám dovolávat porušení právních předpisů nebo zakladatelského právního jednání při její volbě nebo jmenování, ledaže zapsaná osoba prokáže, že třetí osoba o tomto porušení věděla. Tím není dotčeno právo dovolávat se neplatnosti volby nebo jmenování postupem podle jiného zákona.
+Jestliže rejstříkový soud zamítne návrh na zápis osoby, která je členem orgánu právnické osoby, hledí se na její povolání do funkce, jako by se nestalo; tím nejsou dotčena práva třetích osob nabytá v dobré víře. Zamítavé rozhodnutí rejstříkový soud po nabytí právní moci zveřejní.
+NÁVRH NA ZÁPIS
+Návrh na zápis a souhlas zapisovaných osob
+Nestanoví-li jiný zákon jinak, může návrh na zápis podat pouze osoba uvedená v tomto zákoně.
+Návrh na zápis musí být podán bez zbytečného odkladu po vzniku rozhodné skutečnosti.
+Nesplní-li osoba podle odstavce 1 povinnost podat návrh na zápis do 15 dnů ode dne, kdy jí tato povinnost vznikla, může návrh na zápis podat každý, kdo na něm doloží právní zájem a k návrhu na zápis přiloží listiny, jimiž mají být doloženy skutečnosti zapisované do veřejného rejstříku.
+Navrhovatel podle § 11 současně s návrhem na zápis doloží souhlas osob, které se podle tohoto nebo jiného zákona zapisují v rámci zápisu osoby, ledaže takovýto souhlas plyne z jiných k návrhu na zápis dokládaných listin; u výmazu osoby zapsané v rámci zápisu právnické osoby se souhlas nevyžaduje. Není-li souhlas těchto osob udělen prohlášením osvědčeným veřejnou listinou, musí být jejich podpis na listině o udělení souhlasu úředně ověřen.
+Předpoklady zápisu
+Způsobilost být členem orgánu právnické osoby se dokládá čestným prohlášením osoby, která má být zapsána.
+Navrhovatel při návrhu na zápis doloží právní důvod užívání prostor, v nichž je umístěno sídlo osoby, jíž se zápis týká; to neplatí, je-li právní důvod zjistitelný z informačního systému veřejné správy nebo jeho části, která je veřejnou evidencí, rejstříkem nebo seznamem.
+K doložení právního důvodu užívání prostor postačí písemné prohlášení vlastníka nemovitosti nebo jednotky, kde jsou prostory umístěny, popřípadě prohlášení osoby oprávněné s nemovitostí, bytem nebo nebytovým prostorem jinak nakládat, že s umístěním sídla osoby souhlasí. Prohlášení nesmí být starší než 3 měsíce a podpisy na něm musí být úředně ověřeny.
+Zapsaná osoba musí mít právní důvod užívání prostor uvedených v odstavci 1 po celou dobu, po kterou jsou tyto prostory zapsané ve veřejném rejstříku jako její sídlo.
+Je-li navrhovatelem zahraniční osoba, sdělí rejstříkovému soudu doručovací adresu na území České republiky nebo zmocněnce pro přijímání písemností s doručovací adresou v České republice; to platí obdobně pro každou změnu těchto údajů.
+Je-li proti právnické osobě vedeno trestní stíhání nebo vykonává-li trest uložený podle zákona upravujícího trestní odpovědnost právnických osob a řízení proti nim, doloží navrhovatel při návrhu na zápis její přeměny nebo při návrhu na její výmaz, že soud povolil přeměnu nebo zánik této právnické osoby.
+Rejstříkový soud tomu, kdo na tom má právní zájem, sdělí informaci, zda je proti zapsané nebo zapisované osobě vedeno trestní stíhání podle zákona upravujícího trestní odpovědnost právnických osob a řízení proti nim.
+Listina prokazující splnění povinností podle § 13 až 16 se přikládá k návrhu na zápis.
+Formuláře návrhu na zápis
+Návrh na zápis lze podat pouze na formuláři.
+Formuláře se vyplňují na internetových stránkách Ministerstva spravedlnosti.
+Návrh na zápis musí být doložen listinami o skutečnostech, které mají být do veřejného rejstříku zapsány, a listinami, které se zakládají do sbírky listin v souvislosti s tímto zápisem.
+Povinnost podat návrh na zápis na formuláři podle § 18 neplatí v případech, kdy se zápis provádí nebo mění z úřední povinnosti nebo nebyl-li pro zapisované osoby předepsán formulář podle § 18.
+Ministerstvo spravedlnosti stanoví vyhláškou náležitosti formulářů na podávání návrhů na zápis. Formuláře Ministerstvo spravedlnosti zároveň uveřejní způsobem umožňujícím dálkový přístup; tato služba není zpoplatněna.
+Podoba návrhu na zápis
+Návrh na zápis lze podat v listinné nebo elektronické podobě; to platí obdobně pro dokládání listin o skutečnostech uvedených v návrhu na zápis a listin zakládaných do sbírky listin. Vláda stanoví, v jakém formátu se listiny v elektronické podobě podávají a které listiny lze podávat pouze v elektronické podobě.
+Podpis na návrhu na zápis v listinné podobě musí být úředně ověřen.
+Návrh na zápis v elektronické podobě musí být podepsán způsobem, se kterým jiný právní předpis spojuje účinky vlastnoručního podpisu.
+Návrh na zápis a listiny uchovává rejstříkový soud pouze v elektronické podobě, ledaže to charakter takového návrhu nebo listiny neumožňuje. Návrh na zápis a listiny doručené v listinné podobě převede rejstříkový soud bez zbytečného odkladu do elektronické podoby.
+Návrh na zápis se podává a zápis ve veřejném rejstříku se provádí v českém jazyce. Navrhovatel může požádat, aby zápis ve veřejném rejstříku byl proveden také v jakémkoliv cizím jazyce.
+VEŘEJNÉ REJSTŘÍKY A SKUTEČNOSTI DO NICH ZAPISOVANÉ
+Skutečnosti zapisované do veřejného rejstříku
+Do veřejného rejstříku se zapíše
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, zapsané osoby,
+předmět činnosti nebo podnikání nebo vymezení účelu osoby, vyžaduje-li to jiný zákon,
+právní forma právnické osoby,
+den vzniku a zániku právnické osoby,
+u fyzické osoby, bez ohledu na důvod zápisu, datum narození, rodné číslo, bylo-li jí přiděleno, a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu,
+identifikační číslo osoby, které zapsané osobě přidělí rejstříkový soud; identifikační číslo osoby poskytne rejstříkovému soudu správce základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci,
+název statutárního orgánu, neplyne-li ze zákona, počet členů statutárního orgánu, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která je členem statutárního orgánu, s uvedením způsobu, jak za právnickou osobu jedná, a den vzniku a zániku její funkce; je-li členem statutárního orgánu právnická osoba, také jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která ji při výkonu funkce zastupuje,
+má-li být zřízen kontrolní orgán, jeho název, neplyne-li ze zákona, počet členů kontrolního orgánu, jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, nebo sídlo osoby, která je členem kontrolního orgánu, a den vzniku a zániku její funkce; je-li členem kontrolního orgánu právnická osoba, také jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která ji při výkonu funkce zastupuje,
+jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, prokuristy, jakož i způsob, jakým jedná, včetně uvedení údaje o tom, že se prokura vztahuje jen na určitou pobočku nebo na určitý závod, jejich identifikace a údaj o tom, zda je prokurista oprávněn zcizit nebo zatížit nemovitou věc,
+další skutečnost, o které to stanoví tento nebo jiný zákon, nebo jiná důležitá skutečnost, o jejíž zápis požádá zapsaná osoba, má-li na takovém zápisu právní zájem, a
+den, k němuž byl zápis proveden.
+Navrhne-li to zapsaná osoba společně s návrhem na zápis a je-li to ve veřejném zájmu, může rejstříkový soud rozhodnout, že se údaje zapsané do veřejného rejstříku o členech orgánů a o sídle zapsané osoby znepřístupní veřejnosti; to neplatí pro obchodní společnosti a družstva podle zákona upravujícího právní poměry obchodních společností a družstev (dále jen „obchodní korporace“). Rozhodne-li rejstříkový soud podle věty první, může opis zápisu podle § 3 až 5 obdržet pouze zapsaná osoba nebo ten, kdo na tom má právní zájem, a § 2 odst. 2 se nepoužije. Údaje o členech orgánu odborové organizace se zpřístupní veřejnosti jen na základě písemné žádosti odborové organizace.
+Spolkový rejstřík
+Do spolkového rejstříku se zapisují
+spolky, odborové organizace, mezinárodní odborové organizace, organizace zaměstnavatelů a mezinárodní organizace zaměstnavatelů (dále jen „spolek“),
+pobočné spolky a
+další osoby, o nichž tak stanoví jiný zákon.
+Návrh na zápis ve věcech pobočného spolku podle odstavce 1 písm. b) podává spolek podle odstavce 1 písm. a).
+Do spolkového rejstříku se dále zapisují, požádají-li o to,
+zahraniční spolky, vyvíjející činnost na území České republiky, a
+pobočné spolky nebo jiné obdobné organizační jednotky zahraničních spolků vyvíjejících činnost na území České republiky (dále jen „zahraniční pobočný spolek“).
+Návrh na zápis podává zahraniční spolek.
+Návrh na změnu nebo výmaz zápisu může podat osoba uvedená v § 26 nebo 27.
+Doplňující skutečnosti zapisované do spolkového rejstříku
+Do spolkového rejstříku se o spolku zapíše také
+předmět vedlejší hospodářské činnosti, je-li vykonávána,
+název nejvyššího orgánu,
+je-li zřízena podle stanov rozhodčí komise, její název, počet členů a jejich jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, a den vzniku a zániku jejich funkcí a adresa pro doručování podání v řízení před rozhodčí komisí podle zákona upravujícího řízení před rozhodčí komisí spolku,
+název, sídlo a identifikační číslo všech jeho pobočných spolků a
+u spolku, který přemístil sídlo do zahraničí, adresa tohoto sídla a údaj o zápisu do evidence státu, v níž je zapsán, pokud právo takového státu zápis přikazuje.
+Do spolkového rejstříku se o pobočném spolku zapíše také
+název, sídlo a identifikační číslo hlavního spolku,
+rozsah jeho práv a povinností podle stanov hlavního spolku, jakož i rozsah ručení hlavního spolku za dluhy pobočného spolku podle stanov hlavního spolku a
+u pobočného spolku, který přemístil sídlo do zahraničí, adresa tohoto sídla a údaj o zápisu do evidence státu, v níž je zapsán, pokud právo takového státu zápis přikazuje.
+Skutečnosti zapisované do spolkového rejstříku o zahraničním pobočném spolku
+Do spolkového rejstříku se o zahraničním pobočném spolku zapíše
+název a sídlo nebo umístění zahraničního pobočného spolku a jeho identifikační číslo,
+název a sídlo zahraničního spolku,
+právo státu, kterým se zahraniční spolek řídí, a přikazuje-li toto právo zápis nebo je-li zahraniční spolek do evidence zapsán, také evidence, do které je zapsán, a číslo zápisu,
+účel, popřípadě také předmět činnosti zahraničního pobočného spolku,
+údaj o osobě oprávněné jednat za zahraniční pobočný spolek v rozsahu zapisovaných údajů vyžadovaných tímto zákonem u člena statutárního orgánu,
+zrušení zahraničního spolku nebo zahraničního pobočného spolku, jmenování, identifikační údaje a oprávnění likvidátora a ukončení likvidace zahraničního spolku nebo zahraničního pobočného spolku,
+zahájení insolvenčního nebo jiného obdobného řízení týkajícího se zahraničního spolku nebo zahraničního pobočného spolku, prohlášení a zrušení konkursu nebo údaj o jiném obdobném rozhodnutí týkajícím se zahraničního spolku nebo zahraničního pobočného spolku a
+ukončení činnosti zahraničního pobočného spolku v České republice.
+Nadační rejstřík
+Do nadačního rejstříku se zapisují nadace a nadační fondy.
+Návrh na zápis založeného nadačního fondu do nadačního rejstříku podává zakladatel; není-li to možné a neurčil-li zakladatel něco jiného, podá návrh na zápis jménem nadačního fondu jeho správní rada.
+Návrh na změnu nebo výmaz zápisu může podat osoba uvedená v § 31.
+Doplňující skutečnosti zapisované do nadačního rejstříku
+Do nadačního rejstříku se o nadaci a nadačním fondu zapíše také
+výše nadačního kapitálu, je-li podle jiného zákona povinně vytvářen,
+výše vkladu každého zakladatele a rozsah splnění vkladové povinnosti,
+omezení určená dárcem pro nakládání s jeho darem,
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, zakladatele a
+údaj o tom, že byl převeden závod nebo jeho část nebo byl dán do zástavy, nájmu nebo propachtován, a popřípadě údaj o zániku závazků z těchto smluv a usnesení soudu o nabytí závodu nebo jeho části děděním.
+Navrhne-li to nadace nebo nadační fond, které podle svého zakladatelského právního jednání slouží k podpoře zakladatele nebo osob blízkých zakladateli, nebo jejichž činnost směřuje k podpoře zakladatele nebo osob blízkých zakladateli, údaje podle odstavce 1 písm. b) až d) a listiny zakládané do sbírky listin, ve kterých jsou tyto údaje uvedeny, se znepřístupní veřejnosti.
+Rejstřík ústavů
+Do rejstříku ústavů se zapisují ústavy.
+Návrh na zápis založeného ústavu do rejstříku ústavů podává zakladatel; není-li to možné a neurčil-li zakladatel něco jiného, podá návrh na zápis jménem ústavu jeho ředitel nebo jiná osoba v působnosti statutárního orgánu.
+Návrh na změnu nebo výmaz zápisu může podat osoba uvedená v § 35.
+Doplňující skutečnosti zapisované do rejstříku ústavů
+Do rejstříku ústavů se o ústavu zapíše také
+údaj o výši vkladu,
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, zakladatele,
+počet členů správní rady, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, členů správní rady a den vzniku a zániku funkce každého člena; je-li členem správní rady právnická osoba, také jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která ji při výkonu funkce zastupuje, a
+údaj o tom, že byl převeden závod nebo jeho část nebo byl dán do zástavy, nájmu nebo propachtován, a popřípadě údaj o zániku závazků z těchto smluv a usnesení soudu o nabytí závodu nebo jeho části děděním.
+Rejstřík společenství vlastníků jednotek
+Do rejstříku společenství vlastníků jednotek se zapisují společenství vlastníků jednotek.
+Návrh na zápis založeného společenství vlastníků jednotek do rejstříku společenství vlastníků jednotek podávají všichni členové výboru nebo předseda společenství vlastníků jednotek.
+Návrh na změnu nebo výmaz zápisu může podat osoba uvedená v § 39.
+Obchodní rejstřík
+Do obchodního rejstříku se zapisují
+obchodní společnosti a družstva podle zákona upravujícího právní poměry obchodních společností a družstev,
+fyzické osoby,
+které jsou podnikateli, mají bydliště v České republice a požádají o zápis, a
+uvedené v § 43, které podnikají na území České republiky, a požádají o zápis, a
+další osoby, stanoví-li povinnost jejich zápisu tento nebo jiný zákon.
+Fyzickou osobou se pro potřeby § 42 rozumí
+státní občan členského státu Evropské unie, jiného státu tvořícího Evropský hospodářský prostor nebo Švýcarské konfederace,
+rodinný příslušník osoby uvedené v písmeni a) oprávněný pobývat na území České republiky,
+státní občan třetího státu, kterému bylo v členském státě Evropské unie přiznáno právní postavení dlouhodobě pobývajícího rezidenta,
+rodinný příslušník osoby uvedené v písmeni c), kterému bylo na území České republiky vydáno povolení k dlouhodobému pobytu, a
+další fyzická osoba, které vzniklo právo podnikat podle živnostenského zákona nebo jiného zákona.
+Zahraniční fyzická osoba s bydlištěm mimo Evropskou unii neuvedená v § 43 a zahraniční právnická osoba se sídlem mimo Evropskou unii, podnikající na území České republiky, popřípadě jejich závod nebo odštěpný závod, se zapisují do obchodního rejstříku. Návrh na zápis podává zahraniční osoba.
+Fyzická osoba, která je podnikatelem podnikajícím na území České republiky, se zapíše do obchodního rejstříku vždy, jestliže výše jejích výnosů nebo příjmů snížených o daň z přidané hodnoty, je-li součástí výnosů nebo příjmů, dosáhla nebo přesáhla za 2 po sobě bezprostředně následující účetní období v průměru částku 120 000 000 Kč.
+Fyzická osoba, která splní kteroukoliv z podmínek podle odstavce 1, podá bez zbytečného odkladu návrh na zápis do obchodního rejstříku.
+Fyzická osoba, která přestala splňovat podmínky, na jejichž základě byla povinna podat návrh na zápis do obchodního rejstříku podle odstavce 2, může podat návrh na výmaz zápisu z obchodního rejstříku.
+Návrh na zápis založené veřejné obchodní společnosti a komanditní společnosti do obchodního rejstříku podávají všichni společníci.
+Návrh na zápis založené společnosti s ručením omezeným do obchodního rejstříku podávají všichni jednatelé.
+Návrh na zápis založené akciové společnosti do obchodního rejstříku podávají všichni členové představenstva nebo správní rady.
+Návrh na zápis založeného družstva do obchodního rejstříku podávají všichni členové představenstva nebo předseda družstva.
+Návrh na změnu nebo výmaz zápisu může podat osoba uvedená v § 42.
+Návrh na zápis zástavního práva nebo jiného práva k podílu v obchodní korporaci, který není představován cenným papírem nebo zaknihovaným cenným papírem, bylo-li toto právo zřízeno jako věcné právo, může podat také osoba, v jejíž prospěch bylo toto právo zřízeno, nebo společník obchodní korporace, k jehož podílu bylo takové právo zřízeno.
+Doplňující skutečnosti zapisované do obchodního rejstříku
+Do obchodního rejstříku se zapíše také
+výše základního kapitálu společnosti s ručením omezeným nebo akciové společnosti a v případě akciové společnosti i rozsah jeho splacení,
+výše vkladu každého společníka, je-li podle jiného zákona předpokládán zápis těchto osob do obchodního rejstříku, a rozsah splnění vkladové povinnosti,
+údaj o tom, že byl převeden závod nebo jeho část nebo že byl dán do zástavy, nájmu nebo propachtován, případný údaj o zániku závazků z těchto smluv, a usnesení soudu o nabytí závodu nebo jeho části děděním,
+údaj o tom, že se obchodní korporace podřídila zákonu jako celku postupem podle § 777 odst. 5 zákona o obchodních společnostech a družstvech,
+údaj o tom, že členovi orgánu byl pozastaven výkon funkce podle zákona upravujícího právní poměry obchodních společností a družstev,
+zástavní právo k podílu v obchodní korporaci, ledaže je představován cenným papírem nebo zaknihovaným cenným papírem, označení zastaveného podílu v korporaci, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, zástavního věřitele, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, společníka, k jehož podílu se zástavní právo zřizuje, není-li zapsán do obchodního rejstříku, a údaj o zajištěném dluhu,
+jiná věcná práva k podílu v obchodní korporaci, ledaže je představován cenným papírem nebo zaknihovaným cenným papírem, a jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, společníka, k jehož podílu se jiné věcné právo zřizuje, není-li zapsán do obchodního rejstříku,
+u veřejné obchodní společnosti jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, jejích společníků,
+u komanditní společnosti jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, jejích společníků s uvedením, který ze společníků je komplementář a který komanditista, označení podílu, může-li komanditista vlastnit více podílů, a výše komanditní sumy každého komanditisty a její změny,
+u společnosti s ručením omezeným jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, jejích společníků, výše podílu každého společníka, označení podílu, může-li společník vlastnit více podílů, název druhu podílu a popis práv a povinností s ním spojených alespoň odkazem na společenskou smlouvu uloženou ve sbírce listin, upravuje-li společenská smlouva více druhů podílů, a údaj o tom, že byl na podíl vydán kmenový list,
+u akciové společnosti počet, forma a jmenovitá hodnota akcií nebo údaj o tom, že společnost vydává akcie, které nemají jmenovitou hodnotu (kusové akcie), a v jakém počtu, údaj o tom, zda budou vydány akcie jako cenný papír nebo zaknihovaný cenný papír nebo budou imobilizovány, název druhu akcií a popis práv a povinností s nimi spojených alespoň odkazem na stanovy uložené ve sbírce listin, vydala-li společnost akcie různých druhů, a případné omezení převoditelnosti akcií na jméno; má-li společnost jediného akcionáře, zapisuje se i jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, tohoto akcionáře,
+u družstva údaj o tom, zda se jedná o družstvo, bytové družstvo nebo sociální družstvo a výše základního členského vkladu, popřípadě vstupního vkladu,
+u státního podniku označení toho, kdo jménem státu vykonává funkci zakladatele státního podniku, výše kmenového jmění, minimální výše kmenového jmění, kterou je státní podnik povinen zachovávat, a určený majetek a
+údaj o zahájení řízení o zrušení obchodní korporace podle § 105a.
+Do obchodního rejstříku se o obchodní korporaci zapíše také označení a sídlo nebo umístění jejího odštěpného závodu a označení a sídlo nebo umístění její pobočky zapsané v zahraničí, včetně čísla jejího zápisu v zahraniční evidenci.
+Navrhnou-li to všichni zakladatelé, zapíše rejstříkový soud do obchodního rejstříku obchodní firmu (dále jen „firma“) řádně založené obchodní korporace; přílohou návrhu je zakladatelské právní jednání. Není-li podán návrh na zápis obchodní korporace, jejíž zakladatelé o zápis firmy požádali, do 1 měsíce od zápisu firmy, rejstříkový soud firmu vymaže.
+Skutečnosti zapisované o zahraniční osobě
+Do obchodního rejstříku se o závodu zahraniční osoby a o odštěpném závodu zapíše
+označení, liší-li se od názvu nebo firmy zahraniční osoby, sídlo nebo umístění závodu nebo odštěpeného závodu a jeho identifikační číslo,
+předmět podnikání nebo činnosti závodu nebo odštěpného závodu,
+jméno zahraniční osoby, její právní forma a výše upsaného základního kapitálu v příslušné měně, je-li vyžadován,
+právo státu, kterým se zahraniční osoba řídí, a přikazuje-li toto právo zápis nebo je-li osoba do evidence zapsána, také evidence, do které je tato osoba zapsána, a číslo zápisu,
+zapisované údaje požadované tímto zákonem u člena statutárního orgánu nebo prokuristy,
+zapisované údaje požadované tímto zákonem pro vedoucího odštěpného závodu a adresa místa jeho pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu,
+zrušení zahraniční osoby, jmenování, identifikační údaje a oprávnění likvidátora a ukončení likvidace zahraniční osoby,
+zahájení insolvenčního nebo jiného obdobného řízení týkajícího se zahraniční osoby, prohlášení a zrušení konkursu, povolení reorganizace, schválení reorganizačního plánu, splnění reorganizačního plánu nebo jeho podstatných částí nebo údaj o jiném obdobném rozhodnutí týkajícím se zahraniční osoby a
+ukončení provozu závodu nebo odštěpného závodu v České republice.
+Do obchodního rejstříku se o závodu zahraniční osoby a odštěpném závodu zahraniční osoby, která má sídlo v některém z členských států Evropské unie nebo v jiném státě tvořícím Evropský hospodářský prostor, zapíše
+označení, liší-li se od firmy zahraniční osoby, sídlo nebo umístění závodu nebo odštěpného závodu a jeho identifikační číslo,
+předmět činnosti nebo podnikání závodu nebo odštěpného závodu,
+evidence, do které je zahraniční osoba zapsána, je-li zapsána, a číslo zápisu,
+jméno zahraniční osoby a její právní forma,
+zapisované údaje požadované tímto zákonem u člena statutárního orgánu nebo prokuristy,
+zapisované údaje požadované tímto zákonem pro vedoucího odštěpného závodu a adresu místa jeho pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu,
+zrušení zahraniční osoby, jmenování, identifikační údaje a oprávnění likvidátora a ukončení likvidace zahraniční osoby,
+zahájení insolvenčního nebo jiného obdobného řízení týkajícího se zahraniční osoby, prohlášení a zrušení konkursu, povolení reorganizace, schválení reorganizačního plánu, splnění reorganizačního plánu nebo jeho podstatných částí nebo údaj o jiném obdobném rozhodnutí týkajícím se zahraniční osoby a
+ukončení provozu závodu nebo odštěpného závodu v České republice.
+Skutečnosti zapisované o odštěpném závodu
+Do obchodního rejstříku se o odštěpném závodu zapíše
+jeho označení, sídlo nebo umístění,
+předmět činnosti nebo podnikání,
+jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, jeho vedoucího a
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, podnikatele.
+Odštěpný závod se zapíše do obchodního rejstříku u rejstříkového soudu, v jehož obvodu je podle sídla podnikatel zapsán.
+Odštěpný závod umístěný v obvodu jiného rejstříkového soudu se zapíše do obchodního rejstříku také u tohoto soudu.
+Rejstřík obecně prospěšných společností
+Do rejstříku obecně prospěšných společností se zapisují obecně prospěšné společnosti.
+Návrh na změnu nebo výmaz zápisu může podat osoba uvedená v § 52.
+Doplňující skutečnosti zapisované do rejstříku obecně prospěšných společností
+Do rejstříku obecně prospěšných společností se o obecně prospěšné společnosti zapíše také
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, zakladatele,
+počet členů správní rady, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, členů správní rady a den vzniku a zániku funkce každého člena; je-li členem správní rady právnická osoba, také jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která ji při výkonu funkce zastupuje, a
+druh obecně prospěšných služeb, k jejichž poskytování byla obecně prospěšná společnost založena, a předmět doplňkové činnosti, bude-li provozována.
+Přeměna právnické osoby
+Zápis fúze právnické osoby
+Při fúzi právnických osob se do veřejného rejstříku u každé zanikající právnické osoby zapíše údaj, že zanikla sloučením nebo splynutím, s uvedením názvu, sídla a identifikačního čísla nástupnické právnické osoby, popřípadě všech ostatních zanikajících právnických osob.
+Při zápisu přeshraniční fúze se zapíše i údaj o zápisu zahraniční nástupnické právnické osoby do obchodního nebo jiného příslušného veřejného rejstříku nebo jemu odpovídající evidence vedené podle práva jiného členského státu Evropské unie nebo jiného státu tvořícího Evropský hospodářský prostor (dále jen „zahraniční veřejný rejstřík“), včetně čísla tohoto zápisu.
+U nástupnické právnické osoby se zapíše také
+při sloučení údaj, že došlo ke sloučení, že na ni přešlo jmění zanikající právnické osoby, název, sídlo a identifikační číslo zanikající právnické osoby a případné změny dosud zapsaných údajů o nástupnické právnické osobě a
+při splynutí, údaj, že vznikla splynutím, že na ni přešlo jmění zanikajících právnických osob, a název, sídlo a identifikační číslo zanikajících právnických osob.
+Identifikační číslo u zahraniční právnické osoby se zapisuje pouze v případě, že jí bylo přiděleno.
+Zápis převodu jmění na společníka právnické osoby
+Při převodu jmění na společníka se do obchodního rejstříku u zanikající obchodní společnosti zapíše údaj, že zanikla s převodem jmění na společníka, a jméno, adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, nebo sídlo a identifikační číslo společníka, na něhož přešlo jmění zanikající obchodní společnosti.
+Je-li přejímajícím společníkem zahraniční osoba, zapíše se také případný údaj o zápisu převodu jmění na společníka do zahraničního veřejného rejstříku, včetně čísla nebo jiné identifikace tohoto zápisu.
+U osoby, na niž jmění zaniklé obchodní společnosti přechází, se zapíše údaj o přechodu a sídlo a identifikační číslo zanikající obchodní společnosti.
+Zápis rozdělení právnické osoby
+Při rozdělení právnické osoby se do veřejného rejstříku u zanikající nebo rozdělované právnické osoby zapíše údaj, že zanikla rozštěpením nebo že došlo k odštěpení části jejího jmění, s uvedením názvu, sídla a identifikačního čísla všech nástupnických právnických osob.
+Při zápisu přeshraničního rozdělení právnické osoby se zapíše i údaj o zápisu zahraniční nástupnické právnické osoby do zahraničního veřejného rejstříku, včetně čísla tohoto zápisu.
+U nástupnické osoby se zapíše také
+při rozštěpení se založením nových právnických osob, že vznikla rozštěpením, že na ni přešlo jmění zanikající právnické osoby, které bylo uvedeno v projektu rozdělení, název, sídlo a identifikační číslo právnické osoby, jejímž rozštěpením vznikla, a název, sídlo a identifikační číslo ostatních právnických osob, které současně rozštěpením vznikly; to platí obdobně pro odštěpení se založením nových právnických osob a
+při rozštěpení sloučením právnických osob údaj, že na ni přešlo jmění zanikající právnické osoby, které bylo uvedeno v projektu rozštěpení, název, sídlo a identifikační číslo právnické osoby, která rozštěpením zanikla, a název, sídlo a identifikační číslo ostatních právnických osob, na které přešly ostatní části jmění zanikající právnické osoby, a případné změny dosud zapsaných údajů o nástupnické právnické osobě; to platí obdobně pro odštěpení sloučením.
+Identifikační číslo u zahraniční právnické osoby se zapisuje pouze v případě, že jí bylo přiděleno.
+Zápis změny právní formy právnické osoby
+Při zápisu změny právní formy právnické osoby se do veřejného rejstříku u právnické osoby, která mění právní formu, zapisuje, že změnila právní formu s uvedením původní a nové právní formy, a dále údaje zapisované při vzniku právnické osoby, jejíž právní formu dosavadní právnická osoba nabývá.
+Návrh na zápis přeměny právnické osoby a zápis přeměny
+Návrh na zápis fúze právnických osob nebo zápis rozdělení právnické osoby podávají všechny zanikající nebo rozdělované a nástupnické právnické osoby společně, popřípadě společně všechny osoby, jež jsou členy statutárních orgánů nástupnických osob.
+Návrh na zápis převodu jmění na společníka podávají společně zanikající právnická osoba a společník, na něhož se jmění převádí.
+Návrh na zápis změny právní formy právnické osoby podává právnická osoba, jejíž právní forma se mění.
+Jestliže mají zanikající, rozdělované a nástupnické osoby sídla v obvodech různých rejstříkových soudů, podává se návrh na zápis u kteréhokoliv z nich.
+Rejstříkový soud provede zápis skutečností souvisejících s přeměnou k témuž dni. Jestliže rejstříkový soud rozhodl o zápisu usnesením, ostatní rejstříkové soudy, v jejichž obvodech mají zúčastněné právnické osoby sídla, provedou do veřejného rejstříku příslušné zápisy až po nabytí právní moci usnesení o povolení zápisu.
+Zápis fúze právnických osob, převodu jmění na společníka nebo rozdělení právnické osoby povolí rejstříkový soud u zanikající, rozdělované a nástupnické právnické osoby pouze k témuž dni. Zápis přeshraniční fúze do obchodního rejstříku, jestliže je nástupnickou společností česká obchodní společnost nebo nástupnickým družstvem české družstvo, povolí rejstříkový soud pro všechny zanikající a nástupnické právnické osoby zapisované do obchodního rejstříku k témuž dni, jestliže má nebo má mít nástupnická právnická osoba své sídlo na území České republiky.
+Zápis zrušení a likvidace právnické osoby a dalších skutečností
+Do veřejného rejstříku se zapíše také
+den prohlášení právnické osoby za neplatnou nebo den zrušení právnické osoby, vždy s uvedením právního důvodu,
+vstup do likvidace, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, likvidátora; je-li likvidátorem právnická osoba, také jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která ji při výkonu funkce zastupuje,
+zahájení insolvenčního řízení,
+omezení práva dlužníka nakládat s majetkovou podstatou na základě rozhodnutí insolvenčního soudu,
+prohlášení a zrušení konkursu,
+jméno a sídlo insolvenčního správce,
+povolení reorganizace, schválení reorganizačního plánu a splnění reorganizačního plánu nebo jeho podstatných částí,
+rozhodnutí soudu o nařízení výkonu rozhodnutí postižením podílu některého společníka ve společnosti nebo exekuční příkaz na postižení podílu některého společníka ve společnosti, jakož i rozhodnutí soudu o zastavení výkonu tohoto rozhodnutí nebo rozhodnutí o zastavení exekuce nebo sdělení, že exekuce skončila jinak než zastavením, včetně důvodu rozhodnutí,
+rozhodnutí soudu o nařízení výkonu rozhodnutí prodejem závodu nebo jeho části nebo exekuční příkaz na prodej závodu nebo jeho části, jakož i rozhodnutí soudu o zastavení výkonu tohoto rozhodnutí nebo rozhodnutí o zastavení exekuce nebo sdělení, že exekuce skončila jinak než zastavením, včetně důvodu rozhodnutí,
+rozhodnutí soudu o nařízení předběžného opatření spočívajícího v omezení nebo zákazu nakládání s podílem společníka ve společnosti, závodem nebo podstatnou částí majetku společnosti, jakož i zrušení nebo zánik tohoto předběžného opatření, včetně důvodu rozhodnutí,
+ukončení likvidace,
+právní důvod výmazu právnické osoby a
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, opatrovníka právnické osoby.
+EVIDENCE SVĚŘENSKÝCH FONDŮ
+Na evidenci svěřenských fondů se ustanovení tohoto zákona o veřejném rejstříku použijí obdobně.
+Do evidence svěřenských fondů se zapisují svěřenské fondy a zahraniční svěřenské fondy, přičemž zahraniční svěřenský fond působí na území České republiky zejména, pokud
+je z území České republiky spravován,
+je tvořen majetkem, který je převážně umístěn na území České republiky,
+je v něm spravována nemovitá věc nacházející se na území České republiky,
+jeho svěřenský správce nebo osoba v obdobném postavení má bydliště nebo sídlo na území České republiky,
+jeho svěřenský správce nebo osoba v obdobném postavení ve vztahu ke spravovanému majetku navázali na území České republiky obchodní vztah, nebo
+účelu sledovaného jeho vytvořením má být dosaženo na území České republiky.
+Na svěřenský fond nebo zahraniční svěřenský fond se ustanovení tohoto zákona o zapsané osobě použijí obdobně. Práva a povinnosti stanovené tímto zákonem zapsané osobě vykonává ve vztahu ke svěřenskému fondu svěřenský správce. Kde se v tomto zákoně stanoví o členu orgánu právnické osoby, rozumí se tím i svěřenský správce.
+Nezjedná-li svěřenský správce na výzvu soudu podle § 9 odst. 1 věty první nápravu, může soud i bez návrhu, je-li takový postup v zájmu ochrany třetích osob, rozhodnout o zrušení svěřenského fondu. Neodstraní-li svěřenský správce nedostatky ani ve stanovené lhůtě, vyrozumí soud před zahájením řízení o zrušení svěřenského fondu o této skutečnosti zakladatele, obmyšleného a další osobu oprávněnou k výkonu dohledu nad správou svěřenského fondu a poskytne jim přiměřenou lhůtu k nápravě.
+Ustanovení § 14 a části první hlavy III se nepoužijí.
+Návrh na zápis zřízeného svěřenského fondu do evidence svěřenských fondů podává svěřenský správce.
+Návrh na změnu nebo výmaz zápisu může podat svěřenský správce.
+Skutečnosti zapisované do evidence svěřenských fondů
+Do evidence svěřenských fondů se zapíše
+označení svěřenského fondu,
+účel svěřenského fondu, popřípadě také předmět činnosti, podnikání nebo vedlejší hospodářské činnosti, je-li vykonávána,
+den vzniku a zániku svěřenského fondu,
+identifikační číslo svěřenského fondu, které mu přidělí rejstříkový soud; identifikační číslo svěřenského fondu poskytne rejstříkovému soudu správce základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci,
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která je svěřenským správcem, byl-li jmenován nebo jinak určen; je-li správcem fyzická osoba, datum narození, státní občanství a rodné číslo, bylo-li jí přiděleno,
+počet svěřenských správců a způsob, jakým jednají,
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která je zakladatelem; je-li zakladatelem fyzická osoba, datum narození, státní občanství a rodné číslo, bylo-li jí přiděleno,
+jde-li o svěřenský fond zřízený za soukromým účelem, jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, osoby, která je obmyšleným; je-li obmyšleným fyzická osoba, datum narození, státní občanství a rodné číslo, bylo-li jí přiděleno; nebyl-li obmyšlený určen nebo jde-li o svěřenský fond zřízený k veřejně prospěšnému účelu, způsob, jak bude obmyšlený určen,
+jméno a sídlo nebo adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, další osoby oprávněné k výkonu dohledu nad správou svěřenského fondu; jde-li o fyzickou osobu, také datum narození, státní občanství a rodné číslo, bylo-li jí přiděleno,
+údaj o tom, že byl převeden závod nebo jeho část nebo byl dán do zástavy, nájmu nebo propachtován, a popřípadě údaj o zániku závazků z těchto smluv a usnesení soudu o nabytí závodu nebo jeho části děděním,
+další skutečnost, o které to stanoví tento nebo jiný zákon, nebo jiná důležitá skutečnost, o jejíž zápis požádá svěřenský správce, a
+den, k němuž byl zápis proveden.
+Údaje o osobách uvedených v § 65d písm. g) až i) se neuvádějí v opisu z evidence svěřenských fondů ani se neuveřejňují, ledaže byl ke zpřístupnění dán souhlas; ustanovení § 12 věta druhá se použije obdobně. Je-li svěřenský správce fyzickou osobou, v opisu z evidence svěřenských fondů se uvádějí a uveřejňují pouze údaje o jeho jménu, státu bydliště, státním občanství, roce a měsíci narození a doručovací adrese a případně údaje, k jejichž uveřejnění dal svěřenský správce souhlas; § 12 věta druhá se použije obdobně.
+Jsou-li údaje, které se podle odstavce 1 neuvádějí v opisu z evidence svěřenských fondů ani se neuveřejňují, uvedeny v listinách zakládaných do sbírky listin, tyto listiny se neuveřejňují.
+Úplný opis zápisu nebo listiny podle § 3 až 5 může obdržet pouze svěřenský správce nebo ten, kdo na tom má právní zájem, a § 2 odst. 2 se nepoužije. Ministerstvo spravedlnosti umožní dálkový přístup k těmto údajům také
+soudu pro účely soudního řízení,
+orgánům činným v trestním řízení pro účely trestního řízení a státnímu zastupitelství též pro účely výkonu jiné než trestní působnosti,
+správci daně, poplatku nebo jiného obdobného peněžitého plnění pro účely výkonu jejich správy,
+zpravodajské službě pro účely plnění úkolů podle zákona, který upravuje činnost zpravodajských služeb,
+Finančnímu analytickému úřadu, České národní bance a dalším orgánům při výkonu činností podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu nebo zákona o provádění mezinárodních sankcí za účelem udržování mezinárodního míru a bezpečnosti, ochrany základních lidských práv a boje proti terorismu,
+České národní bance při výkonu dohledu nad osobami působícími na finančním trhu a při výkonu činností podle zákona o ozdravných postupech a řešení krize na finančním trhu,
+Národnímu bezpečnostnímu úřadu, Ministerstvu vnitra nebo zpravodajské službě pro účely bezpečnostního řízení podle zákona, který upravuje ochranu utajovaných informací a bezpečnostní způsobilost,
+Nejvyššímu kontrolnímu úřadu pro účely výkonu jeho působnosti podle jiného právního předpisu,
+povinné osobě podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu v souvislosti s prováděním identifikace a kontroly klienta, a
+tomu, o němž tak stanoví jiný zákon.
+Ministerstvo spravedlnosti umožní přístup podle odstavce 3 věty druhé, bude-li zjistitelná identita konkrétních fyzických osob, které k údajům přistupují. Ministerstvo spravedlnosti umožní dálkový přístup na žádost po prokázání totožnosti fyzické osoby, která má k údajům přistupovat, s využitím elektronické identifikace podle zákona upravujícího elektronickou identifikaci, nebo v případě orgánu veřejné moci také prostřednictvím ohlášení agendy podle zákona upravujícího základní registry.
+Žádost o zřízení dálkového přístupu podle odstavce 4 lze Ministerstvu spravedlnosti zaslat pouze v elektronické podobě na formuláři, který Ministerstvo spravedlnosti uveřejní na svých internetových stránkách; žádost obsahuje
+označení žadatele,
+právní důvod pro zřízení dálkového přístupu,
+jméno, adresu místa pobytu a datum a místo narození fyzické osoby, která má k údajům přistupovat,
+popřípadě začátek nebo konec platnosti oprávnění fyzické osoby, která má k údajům přistupovat, ne delší než 2 roky ode dne jeho zřízení.
+Žádá-li o zřízení dálkového přístupu zpravodajská služba, prokázání totožnosti fyzické osoby, která má k údajům přistupovat, se neprovádí a údaje podle odstavce 5 písm. c) se do žádosti neuvádí.
+Formulář žádosti o zřízení dálkového přístupu se vyplňuje na internetových stránkách Ministerstva spravedlnosti. Formulář se podepisuje způsobem, se kterým jiný právní předpis spojuje účinky vlastnoručního podpisu.
+Do evidence svěřenských fondů se zapíše také
+den zrušení nebo zániku správy svěřenského fondu, s uvedením právního důvodu,
+zahájení insolvenčního řízení,
+omezení práva nakládat s majetkovou podstatou na základě rozhodnutí insolvenčního soudu,
+prohlášení konkursu,
+jméno a sídlo insolvenčního správce,
+rozhodnutí soudu o nařízení výkonu rozhodnutí prodejem závodu nebo jeho části nebo exekuční příkaz na prodej závodu nebo jeho části, jakož i rozhodnutí soudu o zastavení výkonu tohoto rozhodnutí nebo rozhodnutí o zastavení exekuce nebo sdělení, že exekuce skončila jinak než zastavením, včetně důvodu rozhodnutí, a
+právní důvod výmazu svěřenského fondu.
+Skutečnosti zapisované do evidence svěřenských fondů o zahraničním svěřenském fondu
+Do evidence svěřenských fondů se o zahraničním svěřenském fondu zapíše
+označení zahraničního svěřenského fondu a jeho identifikační číslo,
+právo státu, kterým se zahraniční svěřenský fond řídí, a přikazuje-li toto právo zápis, také evidence, do které je zapsán, a číslo zápisu,
+účel zahraničního svěřenského fondu, popřípadě také předmět činnosti, podnikání nebo vedlejší hospodářské činnosti, je-li vykonávána,
+zapisované údaje požadované tímto zákonem u svěřenského správce,
+zrušení zahraničního svěřenského fondu,
+prohlášení konkursu nebo zahájení jiného obdobného řízení týkajícího se zahraničního svěřenského fondu a
+ukončení činnosti zahraničního svěřenského fondu v České republice.
+SBÍRKA LISTIN
+Sbírka listin obsahuje
+zakladatelské právní jednání právnické osoby, statut nadace, statut nadačního fondu nebo ústavu, je-li vydán, statut svěřenského fondu, veřejnou listinu o osvědčení průběhu ustavující schůze družstva a o rozhodnutí ustavující schůze družstva o přijetí stanov, stanovy družstva, stanovy spolku, usnesení ustavující schůze spolku, byl-li spolek založen usnesením ustavující schůze, rozhodnutí příslušného orgánu spolku o založení, zrušení nebo přeměně pobočného spolku, stanovy odborové organizace, mezinárodní odborové organizace, organizace zaměstnavatelů nebo mezinárodní organizace zaměstnavatelů a oznámení o založení odborové organizace, mezinárodní odborové organizace, organizace zaměstnavatelů nebo mezinárodní organizace zaměstnavatelů, a jejich pozdější změny; po každé změně musí být uloženo také jejich platné úplné znění,
+rozhodnutí o volbě nebo jmenování, odvolání nebo doklad o jiném ukončení funkce osob, které jsou členem statutárního orgánu, likvidátorem, insolvenčním správcem nebo vedoucím odštěpného závodu nebo které jako zákonem upravený orgán nebo jako jeho členové jsou oprávněny zavazovat právnickou osobu nebo ji zastupovat před soudem nebo se takto podílejí na řízení nebo kontrole právnické osoby, a rozhodnutí o ručení člena orgánu při úpadku obchodní korporace podle zákona upravujícího právní poměry obchodních společností a družstev, rozhodnutí o jmenování, odvolání nebo doklad o jiném ukončení funkce svěřenského správce,
+výroční zprávy nebo výroční finanční zprávy, řádné, mimořádné a konsolidované účetní závěrky, nejsou-li součástí výroční zprávy nebo výroční finanční zprávy, stanoví-li povinnost jejich uložení do sbírky listin zákon upravující účetnictví osob a vyžaduje-li jejich vyhotovení jiný zákon, návrh rozdělení zisku nebo jiných vlastních zdrojů anebo vypořádání ztráty a jejich konečnou podobu, nejsou-li součástí účetní závěrky, a zprávu auditora o ověření účetní závěrky,
+rozhodnutí o zrušení právnické osoby, rozhodnutí, jímž se ruší rozhodnutí o zrušení právnické osoby, rozhodnutí o přeměně právnické osoby, rozhodnutí o zrušení rozhodnutí o přeměně právnické osoby, rozhodnutí soudu o neplatnosti právnické osoby, konečnou zprávu o průběhu likvidace a rozhodnutí soudu o jmenování opatrovníka právnické osobě, rozhodnutí o zrušení svěřenského fondu, doklad o jiném důvodu skončení správy svěřenského fondu, rozhodnutí, že majetek svěřenského fondu bude převeden do jiného svěřenského fondu nebo do vlastnictví právnické osoby,
+projekt přeměny; byl-li projekt přeměny uveřejněn způsobem umožňujícím dálkový přístup podle zákona upravujícího přeměny obchodních společností a družstev, vzniká povinnost uložit projekt přeměny do sbírky listin až spolu s návrhem na zápis,
+smlouvu o sloučení nadace, nadačního fondu nebo ústavu, rozhodnutí o jejím schválení, rozhodnutí soudu o neplatnosti smlouvy o sloučení a rozhodnutí správní rady o změně právní formy nadace, nadačního fondu nebo ústavu,
+smlouvu o sloučení spolků, smlouvu o splynutí spolků a smlouvu o rozdělení sloučením, projekt rozdělení spolků se založením nových spolků a rozhodnutí o změně právní formy spolku,
+oznámení o zrušení nebo neschválení projektu přeměny, byl-li po jeho založení zrušen nebo neschválen; to platí obdobně pro oznámení o zrušení nebo neschválení smlouvy o sloučení nebo změně právní formy podle písmene f) a g),
+rozhodnutí soudu, kterým byla vyslovena neplatnost projektu přeměny nebo neplatnost usnesení valné hromady nebo členské schůze, kterým byl projekt přeměny schválen,
+posudek znalce na ocenění nepeněžitého vkladu při založení nadace, nadačního fondu, ústavu, společnosti s ručením omezeným nebo akciové společnosti nebo při zvýšení jejich základního nebo nadačního kapitálu, posudek znalce na ocenění nepeněžitého vkladu do družstva, posudek znalce na ocenění jmění při přeměnách obchodních společností a družstev a posudek znalce na ocenění majetku při úplatném nabytí majetku akciové společnosti od zakladatelů podle zákona upravujícího právní poměry obchodních společností a družstev,
+rozhodnutí soudu vydaná podle zákona upravujícího řešení úpadku, hrozícího úpadku a oddlužení fyzických a právnických osob ve vztahu k zapsané osobě, svěřenskému správci nebo majetku ve svěřenském fondu, a to
+usnesení o zahájení insolvenčního řízení,
+usnesení o předběžných opatřeních,
+rozhodnutí o úpadku nebo jiné rozhodnutí o insolvenčním návrhu,
+usnesení o prohlášení konkursu a o schválení konečné zprávy,
+usnesení o povolení reorganizace a usnesení o schválení reorganizačního plánu a jeho změn a
+usnesení, jímž se insolvenční řízení končí,
+zprávu o vztazích mezi ovládající osobou a osobou ovládanou a mezi ovládanou osobou a osobami ovládanými stejnou ovládající osobou, není-li součástí výroční zprávy, a zprávu znalce o jejím přezkoumání,
+rozhodnutí soudu o zrušení nebo zúžení rozsahu společného jmění manželů; v případě nabytí právní moci rozhodnutí soudu o rozvodu manželů musí být uložena dohoda o vypořádání společného jmění nebo rozhodnutí soudu, popřípadě prohlášení podnikatele, že k dohodě ani rozhodnutí soudu nedošlo,
+rozhodnutí soudu o nařízení výkonu rozhodnutí postižením účasti povinného v obchodní korporaci, jakož i rozhodnutí soudu o zastavení výkonu rozhodnutí, vyrozumění o zahájení exekuce, exekuční příkaz na postižení podílu některého společníka ve společnosti, jakož i rozhodnutí o zastavení exekuce nebo sdělení, že exekuce skončila jinak než zastavením,
+rozhodnutí podle písmene o) týkající se výkonu rozhodnutí nebo exekuce postižením prodeje závodu obchodní korporace nebo jeho části, rozhodnutí podle písmene o) týkající se výkonu rozhodnutí nebo exekuce postižením závodu nebo jeho části ve svěřenském fondu,
+rozhodnutí soudu o neplatnosti rozhodnutí orgánu právnické osoby,
+rozhodnutí příslušného státního orgánu o udělení státního souhlasu působit jako soukromá vysoká škola podle zákona upravujícího právní poměry vysokých škol,
+doklad o koupi závodu podle ustanovení občanského zákoníku o koupi závodu,
+rozhodnutí soudu o změně nadačního účelu, rozhodnutí soudu o nahrazení původního účelu veřejně prospěšného svěřenského fondu podobným účelem,
+rozhodnutí správní rady nadace o zvýšení nebo snížení nadačního kapitálu,
+rozhodnutí soudu o přemístění sídla nadace, nadačního fondu nebo ústavu do zahraničí,
+smlouvu o vložení daru do nadační jistiny, ve které je omezena dispozice s tímto majetkem, smlouvu nebo jiný doklad o zvýšení majetku ve svěřenském fondu zřízeném za soukromým účelem, k němuž došlo jinak než z výnosů majetku, který byl do svěřenského fondu vyčleněn,
+rozhodnutí valné hromady o tom, že zaměstnanci nemusí splatit celý emisní kurs upsaných akcií nebo je mohou nabývat za jiných zvýhodněných podmínek,
+u právnické osoby, která přemístila své sídlo do zahraničí, doklad o zápisu do příslušné evidence cílového státu, jehož právem se tato osoba řídí, pokud právo cílového státu takový zápis přikazuje, a
+další listiny, o kterých tak stanoví zákon, nebo o jejichž uložení požádá zapsaná osoba, má-li na tom právní zájem.
+Do sbírky listin se ukládá i zpráva o podnikatelské činnosti a o stavu jejího majetku, stanoví-li tak jiný právní předpis.
+Navrhne-li to zapsaná osoba společně s návrhem na zápis a je-li to ve veřejném zájmu, může rejstříkový soud rozhodnout, že se listina ukládaná do sbírky listin, ve které jsou uvedeny údaje o členech orgánů a o sídle zapsané osoby, znepřístupní veřejnosti; to neplatí pro obchodní korporace.
+Navrhne-li to nadace nebo nadační fond, které podle svého zakladatelského jednání slouží k podpoře zakladatele nebo osob blízkých zakladateli, nebo jejichž činnost směřuje k podpoře zakladatele nebo osob blízkých zakladateli, listina ukládaná do sbírky listin, ve které jsou uvedeny údaje o osobách, kterým lze poskytovat příspěvky, o podmínkách poskytování příspěvků nebo o vkladech, se znepřístupní veřejnosti.
+Rozhodne-li rejstříkový soud podle odstavce 1 nebo 2, může opis listiny podle § 3 až 5 obdržet pouze zapsaná osoba a ten, kdo na tom má právní zájem. Ustanovení § 2 odst. 2 se nepoužije.
+Sbírka listin u zahraničních osob
+Do sbírky listin se o zahraniční osobě, jejím závodu, odštěpném závodu a pobočném spolku uloží
+účetní záznamy týkající se zahraniční osoby v souladu s povinností jejich kontroly, zpracování a zveřejnění podle právního řádu, jímž se zahraniční osoba řídí; jestliže účetní záznamy nejsou vypracovány v souladu s předpisy Evropské unie nebo rovnocenným způsobem a jde-li o odštěpný závod zahraniční úvěrové a finanční instituce, a v případě, že není splněna podmínka vzájemnosti, uloží se do sbírky listin také účetní záznamy, které se vztahují k činnosti odštěpného závodu, uvedené v § 66 písm. c),
+společenská smlouva, stanovy a obdobné listiny, jimiž byla zahraniční osoba založena, a jejich změny a úplná znění,
+osvědčení evidence státu, kde má zahraniční osoba sídlo, že je v této evidenci zapsána, jestliže právo tohoto státu takovouto evidenci přikazuje, a
+údaj nebo doklad o zatížení majetku zahraniční osoby v jiném státě, je-li platnost zajišťovacího prostředku vázána na jeho zveřejnění.
+Povinnost uložení účetních záznamů podle § 69 písm. a), která se vztahuje k činnosti odštěpného závodu, neplatí pro zahraniční právnickou osobu, která se řídí právem členského státu Evropské unie nebo jiného státu tvořícího Evropský hospodářský prostor, a její odštěpný závod a pro zahraniční fyzickou osobu, která je státním občanem jiného členského státu Evropské unie nebo jiného státu tvořícího Evropský hospodářský prostor, a její odštěpný závod.
+U zahraniční osoby a jejího odštěpného závodu podle odstavce 1 se do sbírky listin uloží jen listiny uvedené v § 69 písm. a) části věty před středníkem a listiny uvedené v § 69 písm. b) a c).
+Působí-li na území České republiky několik odštěpných závodů jedné zahraniční osoby, mohou být listiny uvedené v § 69 písm. a) a b) uloženy ve složce sbírky listin jen jedné z nich, a to podle volby zahraniční osoby. V takovém případě musí být ve složce sbírky listin ostatních odštěpných závodů téže zahraniční osoby uveden odkaz na rejstříkový soud zvoleného odštěpného závodu, včetně čísla zápisu.
+Zapsaná osoba předloží bez zbytečného odkladu od vzniku rozhodné skutečnosti rejstříkovému soudu listiny zakládané do sbírky listin.
+Rozhodnutí soudu, která se ukládají do sbírky listin, založí rejstříkový soud. Jestliže je určitý údaj zapsán ve veřejném rejstříku, avšak ve sbírce listin není uložena odpovídající listina, poznamená rejstříkový soud tuto skutečnost do sbírky listin a vyzve zapsanou osobu, aby listinu bez zbytečného odkladu předložila.
+Jazykové verze listin ve sbírce listin
+Listiny, jimiž se dokládají zapisované skutečnosti a které se neukládají do sbírky listin, listiny ukládané do sbírky listin podle § 66 písm. k) až l), q), r) a x), projekt přeshraniční přeměny a listiny podle § 69 až 71 vyhotovené v cizím jazyce se předkládají v originálním znění a současně v překladu do českého jazyka, ledaže rejstříkový soud sdělí zapsané osobě, že překlad nevyžaduje; takové sdělení může rejstříkový soud učinit na své úřední desce i pro neurčitý počet řízení v budoucnu.
+Je-li vyžadován překlad a jedná-li se o překlad z jazyka, který není úředním jazykem členského státu Evropské unie nebo jiného státu tvořícího Evropský hospodářský prostor, musí být úředně ověřen.
+Listiny ukládané do sbírky listin podle § 66 písm. a) až j), m) až o), s) až w) a y) ledaže jde o projekt přeshraniční přeměny, se vyhotovují a ukládají do sbírky listin v českém jazyce. Ve sbírce listin lze uložit i překlad takové listiny do jakéhokoliv cizího jazyka. Nepůjde-li o překlad listiny do úředního jazyka členského státu Evropské unie nebo jiného státu tvořícího Evropský hospodářský prostor, musí být úředně ověřen.
+Byl-li projekt přeshraniční přeměny v souladu se zákonem upravujícím přeměny obchodních společností a družstev vyhotoven ve více jazykových verzích a rozhodným zněním není verze v českém jazyce, uloží se do sbírky listin i úředně ověřený překlad rozhodného znění projektu přeshraniční přeměny do českého jazyka.
+ŘÍZENÍ VE VĚCECH VEŘEJNÉHO REJSTŘÍKU
+Příslušnost rejstříkového soudu
+K řízení o návrhu na zápis je příslušný krajský soud, v jehož obvodu je obecný soud osoby, jíž se zápis ve veřejném rejstříku týká, ledaže tento nebo jiný zákon stanoví jinak.
+K řízení o návrhu na zápis pobočného spolku je příslušný soud, v jehož obvodu je rejstříkový soud hlavního spolku.
+K řízení o návrhu na zápis zahraniční osoby je příslušný krajský soud, v jehož obvodu je umístěn její závod, odštěpný závod nebo pobočný spolek. K řízení o návrhu na zápis zahraničního spolku je příslušný krajský soud, jemuž byl návrh na zápis doručen jako prvnímu.
+Rejstříkový soud, který je příslušný k řízení o návrhu na zápis podle odstavců 1 až 3, je příslušný i k řízení o jiném zápisu, stanoví-li jiný právní předpis, že o těchto zápisech musí být rozhodnuto společně.
+Změní-li se okolnosti, podle nichž se posuzuje místní příslušnost, rejstříkový soud usnesením přenese svou příslušnost na soud nově příslušný; nesouhlasí-li tento soud s přenesením příslušnosti, rozhodne jeho nadřízený soud.
+Po nabytí právní moci usnesení o přenesení místní příslušnosti se příslušné zápisy převedou do veřejného rejstříku vedeného u nově příslušného soudu.
+Působnost státního zastupitelství
+Státní zastupitelství může vstoupit do zahájeného řízení.
+Zahájení rejstříkového řízení
+Řízení se zahajuje na návrh. Má-li být dosažena shoda mezi zápisem skutečnosti a skutečným stavem, lze řízení zahájit i bez návrhu.
+Zpětvzetí návrhu na zápis není účinné, ledaže se jedná o zápis skutečnosti, jejíž účinnost nebo platnost nastává podle jiného zákona zápisem.
+Řízení k dosažení shody mezi skutečným stavem a zápisem skutečnosti založené rozhodnutím nejvyššího orgánu právnické osoby může soud zahájit, kromě případů, kdy soud vysloví neplatnost takového rozhodnutí, jen jestliže se na rozhodnutí hledí jako by nebylo přijato, je na zahájení takového řízení právní zájem a nebude-li jím podstatně zasaženo do práva třetí osoby nabytého v dobré víře, nejdéle však do 3 let ode dne zápisu skutečností založených rozhodnutím nejvyššího orgánu právnické osoby.
+Soud nebo jiný orgán veřejné moci upozorní rejstříkový soud na neshodu mezi skutečným stavem a zapsaným údajem vždy, jakmile tato skutečnost při jeho činnosti vyjde najevo.
+Je-li podkladem pro zápis rozhodnutí soudu nebo správního orgánu, zapíše se příslušný údaj do veřejného rejstříku, aniž by rejstříkový soud vydával rozhodnutí o povolení zápisu.
+Jestliže za právnickou osobu podal návrh na výmaz z veřejného rejstříku likvidátor jmenovaný soudem nebo jiným orgánem veřejné moci a je-li k návrhu doloženo prohlášení likvidátora o tom, že bezúspěšně prověřil možnost uplatnit neplatnost nebo neúčinnost právních jednání právnické osoby a že majetek této osoby nepostačuje ani k úhradě nákladů insolvenčního řízení, soud provede zápis na základě tohoto návrhu, aniž by o tom vydával rozhodnutí. Soud provede tento zápis na základě návrhu tohoto likvidátora také tehdy, je-li k návrhu doloženo jeho prohlášení, že nezjistil žádné věřitele právnické osoby ani žádný její majetek. Ustanovení § 90 odst. 1 se nepoužije.
+Návrh podle odstavce 1 soud odmítne, jestliže v době rozhodování o návrhu na výmaz probíhá insolvenční řízení, v němž se řeší úpadek nebo hrozící úpadek právnické osoby nebo jestliže v průběhu řízení o tomto návrhu vyšly najevo skutečnosti, které zpochybňují pravdivost prohlášení likvidátora.
+Rejstříkový soud provede zápis přeshraniční fúze podle § 55 u zanikající společnosti s ručením omezeným nebo akciové společnosti na základě zpřístupnění údajů v systému propojení rejstříků o zápisu přeshraniční fúze u zahraniční nástupnické společnosti do zahraničního veřejného rejstříku. Ustanovení § 78 až 81 a 84 se nepoužijí.
+Rejstříkový soud vymaže z obchodního rejstříku závod a odštěpný závod zahraniční kapitálové společnosti zapsaný podle § 50 na základě zpřístupnění údaje o zániku zahraniční kapitálové společnosti, nebyla-li zrušena při přeměně, v systému propojení rejstříků. Ustanovení § 78 až 81 a 84 se nepoužijí.
+Rejstříkový soud zapíše do obchodního rejstříku údaje podle § 48 odst. 2, jejich změnu nebo výmaz na základě provedení zápisu odštěpného závodu podle § 51, jeho změny nebo výmazu anebo na základě zpřístupnění údajů o pobočce společnosti s ručením omezeným nebo akciové společnosti zapsané v zahraničí v systému propojení rejstříků. Ustanovení § 78 až 81 a § 84 se nepoužijí.
+Účastníci řízení
+Účastníkem řízení je osoba, která podala návrh na zápis, k němuž je oprávněna podle tohoto nebo jiného zákona, a zapsaná osoba.
+Přerušení řízení
+Rejstříkový soud nepřeruší řízení podle zákona upravujícího občanské soudní řízení v případě, že probíhá řízení, v němž je řešena otázka, která může mít význam pro rozhodnutí rejstříkového soudu.
+Odmítnutí návrhu na zápis
+Rejstříkový soud usnesením návrh na zápis odmítne, jestliže
+byl podán osobou, která k návrhu není oprávněna,
+nebyl podán předepsaným způsobem,
+neobsahuje všechny předepsané náležitosti,
+je nesrozumitelný nebo neurčitý,
+k němu nebyly připojeny listiny, jimiž mají být podle tohoto nebo jiného zákona doloženy údaje o zapisovaných skutečnostech, nebo
+účel zakládané právnické osoby je v rozporu s ustanovením § 145 občanského zákoníku.
+Ustanovení § 86 se nepoužije, jestliže
+k návrhu nebyla připojena listina proto, že se podle práva, kterým se řídí zapisovaná zahraniční osoba, nevydává, nebo
+listina byla nesprávně označena nebo nesplňuje všechny formální požadavky stanovené jiným zákonem, a to za předpokladu, že rozhodné skutečnosti jsou doloženy jinými listinami, které byly k návrhu připojeny.
+Rejstříkový soud vydá ve lhůtě 3 pracovních dnů ode dne doručení návrhu soudu usnesení, kterým vyzve navrhovatele k odstranění vad návrhu nebo k doplnění chybějících listin; opakovaná výzva se nepřipouští. Ustanovení § 43 občanského soudního řádu se použije přiměřeně. Lhůta podle § 96 počíná běžet dnem následujícím po dni, kdy bylo rejstříkovému soudu doručeno podání, jímž byly vady odstraněny nebo listiny doplněny.
+V usnesení, kterým rejstříkový soud návrh na zápis odmítne, se uvedou důvody odmítnutí, včetně poučení, jak lze nedostatky odstranit.
+Přezkum návrhu na zápis
+Nebyl-li návrh na zápis odmítnut podle § 86, rejstříkový soud zkoumá, zda údaje o skutečnostech, které se do veřejného rejstříku zapisují, vyplývají z listin, které mají být k návrhu doloženy, a zda navrhované jméno není zaměnitelné s jiným již existujícím zapsaným jménem, popřípadě není-li klamavé.
+Rejstříkový soud také zkoumá, zda provedení zápisu nebrání probíhající trestní stíhání proti právnické osobě nebo výkon trestu, který jí byl uložen podle zákona upravujícího trestní odpovědnost právnických osob a řízení proti nim.
+Rejstříkový soud také zkoumá, zda zápisu osoby jako člena voleného orgánu obchodní korporace nebrání překážka výkonu funkce zapsaná v evidenci osob vyloučených z funkce člena voleného orgánu obchodní korporace podle zákona upravujícího právní poměry obchodních společností a družstev. Existenci překážky výkonu funkce v jiném členském státě Evropské unie nebo Evropského hospodářského prostoru může soud ověřit prostřednictvím systému propojení rejstříků.
+Jestliže je podán návrh na zápis vnitrostátní fúze společnosti s ručením omezeným, akciové společnosti nebo družstva, rejstříkový soud dále přezkoumá, zda se společnost s ručením omezeným, akciová společnost nebo družstvo ve lhůtě 3 let přede dnem zveřejnění projektu vnitrostátní fúze nezúčastnily přeshraniční fúze, a zúčastnily-li se jí, zda jsou splněny podmínky jiného zákona o zapojení zaměstnanců v nástupnické společnosti s ručením omezeným, akciové společnosti nebo družstvu po zápisu vnitrostátní fúze do obchodního rejstříku.
+Rejstříkový soud provede zápis, aniž by o tom vydával rozhodnutí, mají-li navrhované zapisované skutečnosti podklad v přiloženém notářském zápisu; v takovém případě rejstříkový soud kromě skutečností podle § 90 zkoumá pouze to, zda notářský zápis splňuje požadavky kladené na něj jiným zákonem.
+Postup podle odstavce 1 se použije jen tehdy,
+je-li navrhovatelem a jediným účastníkem řízení zapsaná osoba, které se zápis týká,
+jde-li o zápis založené právnické osoby na základě návrhu na zápis, nebo
+jde-li o zápis přeměny obchodní korporace, nadace, nadačního fondu nebo ústavu a všechny osoby zúčastněné na přeměně i nově založené právnické osoby mají obecný soud v obvodu téhož rejstříkového soudu.
+Rejstříkový soud postupuje podle odstavce 1 také tehdy, mají-li navrhované zapisované skutečnosti podklad v přiloženém osvědčení, které bylo sepsáno notářem podle jiného zákona, jde-li o osvědčení o
+provedení úkonů a splnění formalit pro přemístění zapsaného sídla podle nařízení Rady Evropských společenství o statutu evropské společnosti (SE) nebo podle nařízení Rady Evropských společenství o statutu evropské družstevní společnosti a zákonů vydaných k jejich provedení,
+splnění zákonem stanovených požadavků pro zápis evropské společnosti nebo evropské družstevní společnosti vzniklé fúzí, nebo
+splnění zákonem stanovených požadavků pro zápis přeshraniční přeměny.
+Rejstříkový soud rozhodne o zápisu usnesením, ledaže se jedná o případ podle § 81, § 82 odst. 1 a § 92. Jednání nemusí být nařízeno.
+V případě osoby, která nemusí podávat návrh na zápis na formuláři, rejstříkový soud rozhodne vždy usnesením.
+Rejstříkový soud provede zápis ke dni uvedenému v návrhu, nejdříve však ke dni jeho provedení.
+Jestliže rejstříkový soud rozhodl o zápisu usnesením, provede se zápis po nabytí právní moci usnesení ke dni uvedenému v návrhu, nejdříve však ke dni jeho provedení. Neobsahuje-li návrh na zápis takovýto den nebo navržený den zápisu předchází den nabytí právní moci usnesení, provede se zápis bez zbytečného odkladu po nabytí právní moci usnesení.
+Má-li být dosažena shoda se skutečným stavem, může rejstříkový soud rozhodnout, že zápis bude proveden již na základě vykonatelného usnesení.
+Změna údajů ve veřejném rejstříku vyvolaná změnou referenčních údajů v základním registru se zapíše bez řízení.
+Chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti v zápisu podle § 91 a 92 opraví předseda senátu kdykoliv i bez návrhu, aniž by o tom vydával rozhodnutí, a vyrozumí o tom účastníky řízení zasláním výpisu z veřejného rejstříku obsahujícího tuto opravu; ustanovení § 102 se použije obdobně.
+Jde-li o závody a odštěpné závody zahraničních kapitálových společností zapsané podle § 50, zapíše se bez řízení do obchodního rejstříku změna vyvolaná zpřístupněním údajů v systému propojení rejstříků v rozsahu údaje o označení závodu a odštěpného závodu zahraniční kapitálové společnosti, liší-li se od firmy zahraniční kapitálové společnosti, a údajů podle § 50 písm. c) až e), g) a h).
+Rozhodnutí o návrhu na zápis a jeho provedení
+Rejstříkový soud provede zápis nebo rozhodne o návrhu usnesením ve lhůtě stanovené jiným zákonem, jinak nejpozději do 5 pracovních dnů.
+V případě návrhu na zápis přeměny právnických osob nebo v případě, že se spis nenachází u rejstříkového soudu, protože byl předložen jinému soudu, zejména k rozhodnutí o opravném prostředku nebo o příslušnosti soudu, provede soud zápis nebo rozhodne o návrhu bez zbytečného odkladu.
+Není-li návrh podán v českém jazyce, popřípadě nejsou-li do českého jazyka přeloženy listiny, které podle jiného zákona dokládají údaje o zapisovaných skutečnostech, lhůta podle odstavce 1 začne běžet až doručením překladu.
+Lhůta podle § 96 odst. 1 běží ode dne podání návrhu. Byl-li však soudní poplatek z návrhu zaplacen až v průběhu řízení nebo došlo-li ke změně návrhu, běží lhůta podle § 96 odst. 1 až ode dne zaplacení soudního poplatku nebo ode dne, kdy rejstříkovému soudu došel změněný návrh.
+Vydá-li rejstříkový soud rozhodnutí, které mu brání pokračovat v řízení, zejména přeruší-li řízení nebo rozhoduje-li o místní příslušnosti, začne běžet lhůta podle odstavce 1 znovu ode dne odpadnutí překážky v řízení.
+Neprovede-li rejstříkový soud zápis ani o návrhu nerozhodne ve lhůtě uvedené v § 96 odst. 1, považuje se navrhovaný zápis za provedený dnem následujícím po uplynutí této lhůty; to neplatí, byl-li před uplynutím této lhůty návrh vzat účinně zpět.
+Rejstříkový soud promítne zápis do 2 pracovních dnů ode dne, kdy se takový zápis považuje podle odstavce 1 za provedený.
+Ustanovení § 98 se nepoužije, brání-li provedení zápisu probíhající trestní stíhání proti právnické osobě nebo výkon trestu, který jí byl uložen podle zákona upravujícího trestní odpovědnost právnických osob a řízení proti nim; v takovém případě rejstříkový soud o návrhu rozhodne bez zbytečného odkladu.
+Rejstříkový soud do 3 pracovních dnů ode dne provedení zápisu přeshraniční přeměny podle zákona upravujícího přeměny obchodních společností a družstev odešle oznámení o tomto zápisu a informaci o jeho obsahu tomu, kdo vede zahraniční veřejný rejstřík, v němž je zapsána zahraniční právnická osoba zúčastněná na přeshraniční přeměně, ledaže postupuje podle § 3a.
+Zapsaná osoba a osoby, které se podle jiného zákona zapisují do veřejného rejstříku v rámci zápisu zapsané osoby, se mohou do 1 měsíce od zápisu návrhem domáhat u rejstříkového soudu výmazu nebo změny zápisu provedeného podle § 98; zmeškání této lhůty nelze prominout. Ustanovení § 78 odst. 1 tím není dotčeno.
+Osoby zapisované podle jiného zákona do veřejného rejstříku v rámci zápisu zapsané osoby se mohou v případě svého výmazu z veřejného rejstříku domáhat změny zápisu také tehdy, byl-li proveden jinak než podle § 98; ustanovení § 102 se použije přiměřeně.
+Vyrozumění o zápisu
+O zápisu provedeném podle § 92 a 98 rejstříkový soud vyrozumí účastníky řízení zasláním výpisu z veřejného rejstříku obsahujícího tento zápis; o zápisu provedeném podle § 82 odst. 1 rejstříkový soud vyrozumí pouze likvidátora zaniklé právnické osoby. Vyrozumění zašle rejstříkový soud také osobám, které se zapisují podle jiného zákona v rámci zápisu zapsané osoby. Výpis musí být odeslán nejpozději do 3 dnů od zápisu.
+O zápisu zahraniční právnické osoby poskytující právní služby podle jiného zákona, zápisu jejího odštěpného závodu nebo o zápisu přemístění jejího sídla na území České republiky vyrozumí rejstříkový soud Českou advokátní komoru.
+Následky porušení povinnosti předložit listiny
+Předseda senátu může uložit pořádkovou pokutu zapsané osobě také tehdy, jestliže neuposlechla výzvy rejstříkového soudu, aby mu sdělila skutečnosti nebo předložila listiny potřebné k rozhodnutí v řízení zahájeném bez návrhu nebo aby mu předložila listiny, které podle tohoto nebo jiného zákona mají být založeny do sbírky listin; pořádkovou pokutu lze uložit do výše 100 000 Kč.
+Neplní-li zapsaná osoba povinnosti podle § 104 opakovaně nebo může-li takové neplnění mít závažné důsledky pro třetí osoby a je na tom právní zájem, může rejstříkový soud i bez návrhu zahájit řízení o zrušení zapsané osoby s likvidací, ledaže jsou splněny podmínky pro postup podle § 105a; rejstříkový soud na tuto skutečnost zapsanou osobu upozorní a poskytne jí přiměřenou lhůtu k odstranění nedostatků.
+Nepředloží-li obchodní korporace řádnou nebo mimořádnou účetní závěrku za nejméně 2 po sobě jdoucí účetní období k založení do sbírky listin, vyzve ji rejstříkový soud, aby ve lhůtě 1 měsíce ode dne doručení výzvy předložila všechny chybějící účetní závěrky k založení do sbírky listin, jinak bude postupovat podle § 104.
+Výzva podle odstavce 1 se doručuje obchodní korporaci do vlastních rukou, náhradní doručení je vyloučeno; předpisy platné pro doručování v občanském soudním řízení se použijí obdobně.
+Nepodaří-li se výzvu podle odstavce 1 obchodní korporaci doručit, zahájí rejstříkový soud řízení o jejím zrušení; údaj o zahájení řízení o zrušení obchodní korporace zapíše rejstříkový soud bez řízení do veřejného rejstříku.
+Nevyjde-li v průběhu řízení o zrušení obchodní korporace najevo, že majetek obchodní korporace postačuje alespoň na úhradu nákladů likvidace, rozhodne rejstříkový soud, pokud by tím nebylo podstatně zasaženo do práv třetích osob, o zrušení obchodní korporace bez likvidace; jinak rozhodne o zrušení obchodní korporace s likvidací.
+Rejstříkový soud může vydat rozhodnutí o zrušení obchodní korporace bez likvidace nejdříve po uplynutí 1 roku ode dne zápisu údaje o zahájení řízení o zrušení obchodní korporace podle odstavce 3 do veřejného rejstříku.
+Rejstříkový soud o zrušení obchodní korporace nerozhodne, jestliže v době jeho rozhodování probíhá insolvenční řízení, v němž se řeší úpadek nebo hrozící úpadek obchodní korporace.
+Rozhodne-li rejstříkový soud o zrušení obchodní korporace bez likvidace, provede na základě tohoto rozhodnutí zápis ve veřejném rejstříku. Ustanovení § 78 se nepoužije.
+Za neuposlechnutí výzvy podle § 104 se závažnými důsledky pro třetí osoby se považuje zejména nepředložení aktualizovaných listin podle § 66 písm. a) až c) a j).
+Má se za to, že člen statutárního orgánu právnické osoby, která neplní povinnosti podle § 105, porušuje péči řádného hospodáře.
+Následky porušení povinností ve vztahu k obchodním listinám a internetovým stránkám společnosti
+Ustanovení § 104 se použije obdobně, neuvádí-li zapsaná osoba na svých obchodních listinách údaje stanovené jiným zákonem nebo neplní-li povinnost průběžného uveřejňování povinných skutečností způsobem umožňujícím dálkový přístup podle zákona upravujícího právní poměry obchodních společností a družstev.
+ZÁPIS NOTÁŘEM
+Předpoklady zápisu notářem
+Notář provede zápis na žádost osoby oprávněné k podání návrhu na zápis, jestliže
+zapisované skutečnosti mají podklad v notářském zápisu pro zápis do veřejného rejstříku, v notářském zápisu pro zápis do evidence svěřenských fondů nebo v notářském zápisu o rozhodnutí orgánu právnické osoby sepsaných podle jiného zákona (dále jen „podkladový notářský zápis“), anebo zapisované skutečnosti byly přezkoumány notářem v rámci přezkumu splnění předpokladů pro sepsání podkladového notářského zápisu,
+podkladový notářský zápis obsahuje vyjádření notáře o tom, že obsah právního jednání je v souladu s právními předpisy a se zakladatelským jednáním právnické osoby, popřípadě že byly splněny formality nebo právní jednání, ke kterým jsou právnická osoba nebo její orgán povinny, a
+notáři byly předloženy všechny listiny, které tento nebo jiný zákon požadují pro zápis do veřejného rejstříku nebo pro založení do sbírky listin.
+Notář zkoumá, zda zápisu osoby jako člena voleného orgánu obchodní korporace nebrání překážka výkonu funkce zapsaná v evidenci osob vyloučených z funkce člena voleného orgánu obchodní korporace podle zákona upravujícího právní poměry obchodních společností a družstev. Existenci překážky výkonu funkce v jiném členském státě Evropské unie nebo Evropského hospodářského prostoru může notář ověřit prostřednictvím systému propojení rejstříků.
+Mají-li být některá právní jednání uskutečněna nebo některé z požadavků pro zápis do veřejného rejstříku splněny až po rozhodnutí orgánu právnické osoby nebo po jiném právním jednání, o kterém je podkladový notářský zápis, provede notář zápis do veřejného rejstříku pouze, je-li jejich uskutečnění nebo splnění osvědčeno notářským zápisem o osvědčení pro zápis do veřejného rejstříku sepsaným podle zákona upravujícího postavení notáře a jeho činnost (dále jen „notářský zápis o osvědčení“) a jsou-li takové požadavky splněny.
+Zápis do veřejného rejstříku provede notář, který sepsal podkladový notářský zápis. Má-li být proveden zápis do veřejného rejstříku notářem na základě více podkladových notářských zápisů, popřípadě také na základě notářského zápisu o osvědčení, provede notář zápis pouze, sepsal-li všechny takové notářské zápisy.
+Na žádost osoby oprávněné k podání návrhu na zápis provede zápis zapisovaných skutečností notář, který sepsal osvědčení podle jiného zákona, jde-li o osvědčení
+o provedení úkonů a splnění formalit pro přemístění zapsaného sídla podle nařízení Rady Evropských společenství o statutu evropské společnosti (SE) nebo podle nařízení Rady Evropských společenství o statutu evropské družstevní společnosti a zákonů vydaných k jejich provedení,
+o splnění zákonem stanovených požadavků pro zápis evropské společnosti nebo evropské družstevní společnosti vzniklé fúzí, nebo
+o splnění zákonem stanovených požadavků pro zápis přeshraniční přeměny.
+Nejsou-li podmínky podle § 108 až 110 splněny, notář odmítne provést zápis do veřejného rejstříku; to nebrání zapsané osobě podat návrh na zápis podle § 78.
+Provedení zápisu notářem
+Jsou-li splněny podmínky pro zápis požadovaných zapisovaných skutečností, provede notář zápis podle tohoto nebo jiného zákona do veřejného rejstříku dálkovým přístupem bez zbytečného odkladu po podání žádosti o zápis.
+Notář písemnosti, které mu byly předloženy v listinné podobě a které se zakládají do sbírky listin, převede do elektronické podoby, ledaže to jejich povaha neumožňuje. Spolu s elektronickým stejnopisem podkladového notářského zápisu, pořízeným podle jiného zákona, písemnosti podle věty první po provedení zápisu bez zbytečného odkladu vloží dálkovým přístupem do sbírky listin. Při postupu podle § 111 vloží notář do sbírky listin také elektronický stejnopis notářského zápisu o osvědčení.
+Notář písemnosti, které mu byly předloženy v listinné podobě a které se nezakládají do sbírky listin, převede do elektronické podoby a bez zbytečného odkladu je zašle příslušnému rejstříkovému soudu.
+Notář doručí bez zbytečného odkladu po provedení zápisu příslušnému rejstříkovému soudu ty listiny, u kterých jejich charakter neumožňuje jejich převod do elektronické podoby podle odstavce 1 a 2.
+Notář vydá osobě zapsané postupem podle § 113 z veřejného rejstříku ověřený výstup z informačního systému veřejné správy podle zákona upravujícího informační systémy veřejné správy; ustanovení § 4 a 5 se použijí obdobně. Tento výstup zašle notář nejpozději do 3 pracovních dnů ode dne zápisu také osobám, které se zapisují do veřejného rejstříku podle jiného zákona v souvislosti se zápisem zapsané osoby.
+Chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti v zápisu opraví notář, který zápis provedl, kdykoliv i bez návrhu, a vyrozumí o tom zapsanou osobu zasláním výpisu z veřejného rejstříku obsahujícího tuto opravu; ustanovení § 102 se použije přiměřeně.
+Obrana proti zápisu notářem
+Zapsaná osoba, jakož i osoby zapisované v souvislosti s jejím zápisem, se mohou u rejstříkového soudu domáhat výmazu nebo změny zápisu provedeného notářem nebo obnovení původního zápisu za stejných podmínek, za jakých se téhož mohou domáhat proti zápisu rejstříkovým soudem.
+Povaha zápisu notářem
+Předpokládá-li tento nebo jiný zákon zápis určité skutečnosti soudem, rozumí se tím také zápis notářem podle této části zákona.
+ŘÍZENÍ VE VĚCECH EVIDENCE SVĚŘENSKÝCH FONDŮ A ZÁPIS NOTÁŘEM
+Nestanoví-li se v této části jinak, použijí se pro řízení ve věcech evidence svěřenských fondů a pro zápis notářem obdobně ustanovení části druhé a třetí tohoto zákona, není-li to z povahy věci vyloučeno.
+K řízení o návrhu na zápis je příslušný krajský soud, v jehož obvodu je obecný soud svěřenského správce. K provedení prvního zápisu svěřenského fondu, který byl zřízen pořízením pro případ smrti, a k řízení o návrhu na další zápis týkající se tohoto svěřenského fondu je příslušný krajský soud, v jehož obvodu je soud, u něhož je vedeno řízení o pozůstalosti; má-li svěřenský správce bydliště nebo sídlo mimo území České republiky, je příslušný Městský soud v Praze.
+Účastníkem řízení je osoba, která podala návrh na zápis, k němuž je oprávněna podle tohoto nebo jiného zákona, a svěřenský správce.
+Zápis svěřenského fondu, který byl zřízen pořízením pro případ smrti, provede rejstříkový soud na podkladě usnesení soudu vydaného v řízení o pozůstalosti poté, co bylo zjištěno, že byl zřízen svěřenský fond, aniž by vydával rozhodnutí o povolení zápisu.
+Předseda senátu může uložit pořádkovou pokutu podle § 104 svěřenskému správci. Tato pokuta nepostihuje majetek ve svěřenském fondu.
+Neplní-li svěřenský správce povinnosti podle § 104 opakovaně nebo může-li takové neplnění mít závažné důsledky pro třetí osoby a je na tom právní zájem, může soud i bez návrhu zahájit řízení o zrušení svěřenského fondu; soud na tuto skutečnost svěřenského správce upozorní a poskytne mu přiměřenou lhůtu k odstranění nedostatků. Neodstraní-li svěřenský správce nedostatky ani v této lhůtě, vyrozumí soud před zahájením řízení o zrušení svěřenského fondu o této skutečnosti zakladatele, obmyšleného a další osobu oprávněnou k výkonu dohledu nad správou svěřenského fondu a poskytne jim přiměřenou lhůtu k nápravě.
+SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+Tento zákon zapracovává příslušné předpisy Evropské unie.
+Není-li v tomto zákoně stanoveno jinak, použijí se na řízení o návrhu na zápis ustanovení zákona upravujícího občanské soudní řízení.
+Odborová organizace, mezinárodní odborová organizace, organizace zaměstnavatelů a mezinárodní organizace zaměstnavatelů vznikají dnem následujícím po dni, v němž bylo doručeno rejstříkovému soudu oznámení o založení této právnické osoby; to platí obdobně, pokud dochází ke změně nebo zániku odborové organizace.
+Rejstříkový soud provede zápis do 5 pracovních dnů.
+Ustanovení části první hlavy II, částí druhé a třetí se na zápis vzniku odborové organizace, mezinárodní odborové organizace, organizace zaměstnavatelů a mezinárodní organizace zaměstnavatelů nepoužijí.
+Návrh na zápis změny a na výmaz právnické osoby podle odstavce 1 lze podat pouze na formuláři, jehož náležitosti stanoví vyhláškou Ministerstvo spravedlnosti.
+Odborová organizace má právo na zápis svého sídla do veřejného rejstříku podle sídla zaměstnavatele, u kterého působí, nebo jeho části, u které působí.
+Zapsaná osoba přizpůsobí do 6 měsíců ode dne nabytí účinnosti tohoto zákona zapsaný stav stavu požadovanému tímto zákonem, ledaže se jedná o osobu zapsanou do spolkového rejstříku.
+Osoba zapsaná do spolkového rejstříku přizpůsobí do 3 let ode dne nabytí účinnosti tohoto zákona zapsaný stav stavu požadovanému tímto zákonem.
+Nepřizpůsobí-li zapsaná osoba zapsaný stav stavu požadovanému tímto zákonem ve lhůtě podle odstavců 1 a 2, rejstříkový soud ji k tomu vyzve a stanoví ve výzvě dodatečnou přiměřenou lhůtu ke splnění této povinnosti; uplyne-li dodatečná lhůta marně, soud na návrh rejstříkového soudu nebo osoby, která na tom osvědčí právní zájem, zapsanou osobu zruší a nařídí její likvidaci. Část věty první za středníkem se nevztahuje na odborové organizace, mezinárodní odborové organizace, organizace zaměstnavatelů a mezinárodní organizace zaměstnavatelů.
+Obchodní rejstřík podle dosavadních právních předpisů se dnem nabytí účinnosti tohoto zákona považuje za obchodní rejstřík podle tohoto zákona.
+Nadační rejstřík podle dosavadních právních předpisů se dnem nabytí účinnosti tohoto zákona považuje za nadační rejstřík podle tohoto zákona.
+Rejstřík obecně prospěšných společností podle dosavadních právních předpisů se dnem nabytí účinnosti tohoto zákona považuje za rejstřík obecně prospěšných společností podle tohoto zákona.
+Rejstřík společenství vlastníků jednotek podle dosavadních právních předpisů se dnem nabytí účinnosti tohoto zákona považuje za rejstřík společenství vlastníků jednotek podle tohoto zákona.
+Registr zájmových sdružení právnických osob podle dosavadních právních předpisů se považuje za spolkový rejstřík podle tohoto zákona.
+Pro účely tohoto zákona vykonávají působnost krajských úřadů v oblasti evidování zájmových sdružení právnických osob rejstříkové soudy.
+Krajské úřady předají do 1 měsíce po nabytí účinnosti tohoto zákona příslušným rejstříkovým soudům spisy.
+Údaje, které rejstříkový soud převezme ze základního registru osob, zapíše bez řízení.
+Evidence občanských sdružení, odborových organizací, organizací zaměstnavatelů a jejich organizačních jednotek, které jsou oprávněny jednat svým jménem, vedená Ministerstvem vnitra podle zákona č. 83/1990 Sb., o sdružování občanů, ve znění pozdějších předpisů, se považuje za spolkový rejstřík podle tohoto zákona.
+Ministerstvo vnitra předá příslušným rejstříkovým soudům do 3 měsíců po dni nabytí účinnosti tohoto zákona spisy a do 1 měsíce po dni nabytí účinnosti tohoto zákona v elektronické podobě o občanském sdružení, jeho organizační jednotce, odborové organizaci, mezinárodní odborové organizaci, organizaci zaměstnavatelů, mezinárodní organizaci zaměstnavatelů údaje o
+názvu,
+číslu registrace,
+identifikačním číslu osoby,
+dni vzniku,
+právní formě a
+sídle vyjádřené referenční vazbou kódu adresního místa na referenční údaj o adrese v základním registru územní identifikace.
+Údaje, které rejstříkový soud převezme ze základního registru osob, zapíše bez řízení; tímto zápisem je splněna povinnost podle § 3045 odst. 2 občanského zákoníku.
+Spolek nebo pobočný spolek založený podle zákona upravujícího sdružování občanů, o kterém jsou ve spolkovém rejstříku zapsány pouze údaje podle § 125 odst. 2, se považuje za neaktivní (dále jen „neaktivní spolek“).
+Zápis údaje o neaktivním spolku do spolkového rejstříku zajistí prostřednictvím nastavení informačního systému veřejných rejstříků Ministerstvo spravedlnosti.
+Údaj o neaktivním spolku ze spolkového rejstříku rejstříkový soud vymaže, aniž by o tom vydával rozhodnutí,
+přizpůsobí-li spolek nebo pobočný spolek zapsaný stav stavu požadovanému tímto zákonem,
+je-li do spolkového rejstříku zapsán vstup do likvidace spolku nebo pobočného spolku a údaje identifikující likvidátora, nebo
+je-li do spolkového rejstříku zapsáno zahájení insolvenčního řízení a údaje identifikující insolvenčního správce.
+Údaj o neaktivním spolku do spolkového rejstříku rejstříkový soud opětovně zapíše, aniž by o tom vydával rozhodnutí, bylo-li
+zrušeno rozhodnutí o zrušení spolku nebo pobočného spolku, nebo
+insolvenční řízení zastaveno nebo byl-li zrušen konkurs na majetek spolku nebo pobočného spolku z jiného důvodu než pro splnění rozvrhového usnesení nebo proto, že je majetek spolku nebo pobočného spolku zcela nepostačující.
+Člen statutárního orgánu neaktivního spolku ručí za splnění povinnosti, která je obsahem závazku, z něhož je neaktivní spolek v důsledku jeho jednání zavázán.
+Je-li údaj o neaktivním spolku zapsán více než rok, ustanovení o zákazu zaměnitelnosti názvu právnické osoby se ve vztahu k neaktivnímu spolku nepoužije.
+Mezinárodní nevládní organizace, kterým bylo podle zákona č. 116/1985 Sb., o podmínkách činnosti organizací s mezinárodním prvkem v Československé socialistické republice, ve znění pozdějších předpisů, povoleno vyvíjet činnost, se považují za právnické osoby, které zřídily v České republice zahraniční pobočný spolek podle občanského zákoníku.
+Mezinárodní nevládní organizace a zvláštní organizace pro zastoupení zájmů České republiky v mezinárodních nevládních organizacích, které byly zřízeny nebo kterým bylo povoleno mít sídlo v České republice podle zákona č. 116/1985 Sb., o podmínkách činnosti organizací s mezinárodním prvkem v Československé socialistické republice, ve znění pozdějších předpisů, se považují za spolky podle občanského zákoníku.
+Evidence mezinárodních nevládních organizací a jejich organizačních jednotek, které jsou oprávněny jednat svým jménem, vedená Ministerstvem vnitra podle zákona č. 116/1985 Sb., o podmínkách činnosti organizací s mezinárodním prvkem v Československé socialistické republice, ve znění pozdějších předpisů, se považuje za spolkový rejstřík podle tohoto zákona.
+Ministerstvo vnitra předá příslušným rejstříkovým soudům do 3 měsíců po dni nabytí účinnosti tohoto zákona spisy a do 1 měsíce po dni nabytí účinnosti tohoto zákona v elektronické podobě o mezinárodní nevládní organizaci údaje o
+názvu,
+číslu jednacím,
+identifikačním číslu osoby,
+dni vzniku,
+právní formě a
+sídle vyjádřené referenční vazbou kódu adresního místa na referenční údaj o adrese v základním registru územní identifikace.
+Údaje, které rejstříkový soud převezme ze základního registru osob, zapíše bez řízení.
+Po dobu 3 let ode dne nabytí účinnosti tohoto zákona vydá rejstříkový soud ohledně osob, na které se vztahují § 124 až 127, namísto úředně ověřeného opisu podle § 4 pouze potvrzení o zápisu právnické osoby do veřejného rejstříku.

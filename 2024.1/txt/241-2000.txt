@@ -1,0 +1,208 @@
+ZÁKON O HOSPODÁŘSKÝCH OPATŘENÍCH PRO KRIZOVÉ STAVY
+ZÁKLADNÍ USTANOVENÍ
+Předmět úpravy
+Zákon upravuje přípravu hospodářských opatření pro stav nebezpečí, nouzový stav, stav ohrožení státu a válečný stav (dále jen „krizové stavy“) a přijetí hospodářských opatření po vyhlášení krizových stavů.
+Zákon stanoví pravomoc
+vlády,
+ústředních správních úřadů, České národní banky, krajských úřadů, obecních úřadů obce s rozšířenou působností (dále jen „správní úřad“) a
+orgánů územních samosprávných celků
+při přípravě a přijetí hospodářských opatření pro krizové stavy. Stanoví též práva a povinnosti fyzických a právnických osob při přípravě a přijetí hospodářských opatření pro krizové stavy.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+hospodářským opatřením pro krizové stavy organizační, materiální nebo finanční opatření přijímané správním úřadem v krizových stavech pro zabezpečení nezbytné dodávky výrobků, prací a služeb, bez níž nelze zajistit překonání krizových stavů, (dále jen „nezbytná dodávka“),
+dodavatelem nezbytné dodávky fyzická osoba s trvalým pobytem nebo právnická osoba se sídlem na území České republiky a organizační složka právnické osoby se sídlem v zahraničí podnikající na území České republiky, která má jako předmět své činnosti nebo podnikání zapsanou činnost umožňující dodat předmět nezbytné dodávky nebo která je schopna dodat předmět nezbytné dodávky,
+plánem nezbytných dodávek samostatná část krizového plánu zpracovaná správním úřadem v systému nouzového hospodářství,
+systémem hospodářské mobilizace organizační, materiální, personální a jiná opatření, kterými ústřední správní úřad zabezpečuje mobilizační dodávku pro potřeby ozbrojených sil a ozbrojených bezpečnostních sborů za stavu ohrožení státu a válečného stavu,
+plánem hospodářské mobilizace samostatná část krizového plánu zpracovaná ústředním správním úřadem v systému hospodářské mobilizace,
+plánem opatření hospodářské mobilizace samostatná část plánu krizové připravenosti zpracovaná dodavatelem mobilizační dodávky v systému hospodářské mobilizace,
+mobilizační dodávkou nezbytná dodávka pro podporu ozbrojených sil a ozbrojených bezpečnostních sborů uskutečňovaná po vyhlášení stavu ohrožení státu a válečného stavu,
+podnikající fyzickou osobou fyzická osoba, která je podnikatelem podle zvláštního zákona,
+uchováním výrobních schopností uchování provozuschopných výrobně technologických zařízení a dokumentace ve vlastnictví dodavatele mobilizační dodávky nebo dodavatele nezbytné dodávky určených k zahájení nebo rozšíření výroby předmětu mobilizační nebo nezbytné dodávky a pro jinou výrobu nevyužívaných,
+infrastrukturou k přípravě a přijetí hospodářských opatření pro krizové stavy (dále jen „infrastruktura“)
+stavby určené pro účely hospodářských opatření pro krizové stavy ve vlastnictví České republiky, k nimž má příslušnost hospodařit správní úřad,
+stavby sloužící pro účely hospodářských opatření pro krizové stavy, k nimž má Česká republika zřízeno věcné břemeno a které jsou ve vlastnictví právnických nebo podnikajících fyzických osob,
+technické zabezpečení staveb podle bodu 1 vnitřními rozvody inženýrských a telekomunikačních sítí, počínaje přípojkou k veřejnému rozvodu těchto sítí,
+technologické vybavení staveb podle bodu 1,
+pozemní komunikace, dráhy, přístavy a letiště sloužící pro dopravní obsluhu staveb podle bodu 1.
+Dodavatel, který se podílí na splnění nezbytné dodávky, je považován za dodavatele nezbytné dodávky ve smyslu tohoto zákona.
+Hospodářská opatření pro krizové stavy jsou přijímána po vyhlášení krizových stavů a jsou určena
+k uspokojení základních potřeb fyzických osob na území České republiky umožňující přežití krizových stavů bez těžké újmy na zdraví (dále jen „základní životní potřeba“),
+pro podporu činnosti ozbrojených sil, ozbrojených bezpečnostních sborů, záchranných sborů, havarijních služeb a zdravotnické záchranné služby,
+pro podporu výkonu státní správy.
+Přípravu hospodářských opatření pro krizové stavy organizují správní úřady.
+Systém hospodářských opatření pro krizové stavy zahrnuje
+systém nouzového hospodářství,
+systém hospodářské mobilizace,
+použití státních hmotných rezerv,
+výstavbu a údržbu infrastruktury,
+regulační opatření.
+PŮSOBNOST ORGÁNŮ V SYSTÉMU HOSPODÁŘSKÝCH OPATŘENÍ PRO KRIZOVÉ STAVY
+Vláda
+Vláda v systému hospodářských opatření pro krizové stavy rozhoduje o
+bezplatném použití státních hmotných rezerv,
+použití regulačních opatření,
+použití opatření systému hospodářské mobilizace.
+Vláda schvaluje Plán vytváření a udržování státních hmotných rezerv k zajištění bezpečnosti České republiky (dále jen „Plán“). Plán připravuje a vládě jednou za 2 roky předkládá Správa státních hmotných rezerv na základě podkladů, které si vyžádá od ústředních správních úřadů. Správa státních hmotných rezerv předloží vládě návrh aktualizace Plánu v kratším intervalu, než je uveden ve větě druhé, pokud pro to existují závažné důvody.
+Pro pořízení položek uvedených v Plánu lze využít postupu uvedeného v § 29 písm. a) zákona č. 134/2016 Sb., o zadávání veřejných zakázek, ve znění pozdějších předpisů, jsou-li současně naplněny všechny podmínky v tomto písmenu uvedené.
+Ústřední správní úřad
+Ústřední správní úřad v systému hospodářských opatření pro krizové stavy v okruhu své působnosti
+vypracovává koncepci hospodářských opatření pro krizové stavy jako součásti koncepce rozvoje svěřeného odvětví,
+zpracovává a aktualizuje plán nezbytných dodávek jako podklad pro zpracování Plánu,
+uplatňuje požadavky na vytvoření státních hmotných rezerv u Správy státních hmotných rezerv,
+kontroluje přípravu hospodářských opatření pro krizové stavy u právnických a podnikajících fyzických osob zapojených do systému nouzového hospodářství nebo do systému hospodářské mobilizace a poskytuje potřebné informace o hospodářských opatřeních pro krizové stavy těmto osobám,
+odpovídá za přípravu činností umožňující uskutečnění regulačních opatření,
+se podílí na systému dalšího profesního vzdělávání pracovníků správních úřadů a dodavatelů mobilizačních dodávek v oblasti hospodářských opatření pro krizové stavy, který zajišťuje Správa státních hmotných rezerv.
+Ústřední správní úřad v okruhu své působnosti zajišťuje nezbytnou dodávku,
+kterou krajský úřad nemůže zajistit v rámci svého správního obvodu,
+jejíž význam přesahuje správní obvod kraje, nebo
+jedná-li se o podporu činnosti ozbrojených sil, ozbrojených bezpečnostních sborů, záchranných sborů, havarijních služeb nebo zdravotnické záchranné služby zřízených v okruhu jeho působnosti.
+Orgány kraje
+Hejtman kraje (dále jen „hejtman“) zajišťuje připravenost kraje v systému hospodářských opatření pro krizové stavy; ostatní orgány kraje se na této připravenosti podílejí. Za tímto účelem hejtman
+řídí a kontroluje přípravu a provedení hospodářských opatření pro krizové stavy,
+zajišťuje přidělení zásob pro humanitární pomoc,
+nařizuje regulační opatření podle § 21.
+Krajský úřad v systému hospodářských opatření pro krizové stavy
+zpracovává plán nezbytných dodávek kraje s využitím plánů nezbytných dodávek obcí s rozšířenou působností, jejichž zpracování koordinuje,
+zabezpečuje nezbytnou dodávku k uspokojení základních životních potřeb obyvatel kraje,
+zajišťuje činnosti umožňující přijetí regulačních opatření.
+Na území hlavního města Prahy plní úkoly krajského úřadu v systému hospodářských opatření pro krizové stavy Magistrát hlavního města Prahy.
+Orgány obce s rozšířenou působností
+Starosta obce s rozšířenou působností zajišťuje připravenost správního obvodu obce s rozšířenou působností v systému hospodářských opatření pro krizové stavy; ostatní orgány obce s rozšířenou působností se na této připravenosti podílejí.
+Obecní úřad obce s rozšířenou působností v systému hospodářských opatření pro krizové stavy
+zpracovává plán nezbytných dodávek obce s rozšířenou působností,
+plní úkoly uložené krajským úřadem,
+zajišťuje činnosti umožňující přijetí regulačních opatření.
+Na území hlavního města Prahy plní úkoly obecního úřadu obce s rozšířenou působností v systému hospodářských opatření pro krizové stavy úřad městské části stanovené Statutem hlavního města Prahy.
+Starosta městské části stanovené Statutem hlavního města Prahy má v systému hospodářských opatření pro krizové stavy stejné pravomoci jako starosta obce s rozšířenou působností.
+SYSTÉM HOSPODÁŘSKÝCH OPATŘENÍ PRO KRIZOVÉ STAVY
+Systém nouzového hospodářství
+Systém nouzového hospodářství zabezpečuje, aby nezbytné dodávky pro
+uspokojení základních životních potřeb,
+podporu činnosti záchranných sborů, havarijních služeb, zdravotnické záchranné služby a Policie České republiky,
+podporu výkonu státní správy
+probíhaly způsobem obvyklým pro období mimo krizové stavy.
+Nezbytnou dodávku hradí orgán krizového řízení, který o ní rozhodl.
+Pokud krajský úřad ve svém správním obvodu nenalezne dodavatele nezbytné dodávky, uplatní požadavek na její zajištění u toho ústředního správního úřadu, kterému zvláštní právní předpis svěřuje v daném okruhu působnost, (dále jen „věcně příslušný ústřední správní úřad“).
+Pokud věcně příslušný ústřední správní úřad prokazatelně nemůže zajistit nezbytnou dodávku v okruhu své působnosti, požádá Správu státních hmotných rezerv o vytvoření pohotovostních zásob nebo o uhrazení nákladů na uchování výrobních schopností.
+Pohotovostní zásoby
+Pohotovostní zásoby vytváří Správa státních hmotných rezerv v systému státních hmotných rezerv.
+O použití pohotovostních zásob rozhoduje vedoucí ústředního správního úřadu, na základě jehož požadavku byly pohotovostní zásoby vytvořeny. V souladu s tímto rozhodnutím Správa státních hmotných rezerv poskytne pohotovostní zásoby příjemci, kterým může být správní úřad nebo orgán územní samosprávy nebo sbor či služba podle § 10 odst. 1 písm. b). Příjemce je oprávněn poskytnout pohotovostní zásoby fyzické nebo právnické osobě nebo jiné organizační složce státu.
+Poskytnuté pohotovostní zásoby, mimo zásob, které byly spotřebovány, je příjemce povinen vrátit do 60 dnů po zrušení krizového stavu. Po této lhůtě je příjemce oprávněn užívat poskytnuté pohotovostní zásoby pouze na základě smlouvy uzavřené se Správou státních hmotných rezerv. Návrh smlouvy zpracuje Správa státních hmotných rezerv na základě žádosti předložené příjemcem do 60 dnů po zrušení krizového stavu. Pokud příjemce žádost v uvedené lhůtě nepředloží, je užívání pohotovostních zásob neoprávněným použitím majetku, k němuž má Správa státních hmotných rezerv příslušnost hospodařit. V případě nevrácení poskytnutých pohotovostních zásob se postupuje podle právních předpisů upravujících hospodaření s majetkem státu.
+Zásoby pro humanitární pomoc
+Zásoby pro humanitární pomoc jsou součástí systému nouzového hospodářství podle § 10. Jsou vytvářeny Správou státních hmotných rezerv v systému státních hmotných rezerv.
+O vydání zásob pro humanitární pomoc rozhoduje předseda Správy státních hmotných rezerv na základě požadavku hejtmana nebo starosty obce s rozšířenou působností. Přidělení zásob pro humanitární pomoc fyzickým osobám vážně postiženým krizovou situací zajišťuje hejtman nebo starosta obce s rozšířenou působností, kterému byly zásoby pro humanitární pomoc poskytnuty. Vydané zásoby se neuhrazují, ani nevracejí.
+Nakládání se zásobami pro humanitární pomoc se řídí stejnými zásadami jako nakládání s ostatními složkami státních hmotných rezerv, nestanoví-li zákon jinak.
+Systém hospodářské mobilizace
+Mobilizační dodávka
+Na základě požadavků ozbrojených sil a ozbrojených bezpečnostních sborů zpracovává a aktualizuje ústřední správní úřad, kterému zvláštní právní předpis svěřuje pravomoc k jejich řízení, (dále jen „objednatel mobilizační dodávky“) plán hospodářské mobilizace. Plán hospodářské mobilizace je podkladem pro zpracování Plánu.
+Objednatel mobilizační dodávky o jejím zajištění uzavře s dodavatelem mobilizační dodávky písemnou smlouvu. Pro zajištění mobilizační dodávky se nepoužije smlouva o uzavření budoucí smlouvy.
+Dodavatel mobilizační dodávky je oprávněn podmínit svoje plnění požadavkem na zajištění prokazatelně nezbytných materiálních prostředků, případně na finanční úhradu přípravy mobilizační dodávky, včetně úhrady za uchování výrobních schopností. Tyto výdaje jsou hrazeny z rozpočtové kapitoly Správy státních hmotných rezerv.
+Každé uzavření, změnu nebo zrušení smlouvy o mobilizační dodávce oznámí smluvní strany věcně příslušnému ústřednímu správnímu úřadu a Správě státních hmotných rezerv.
+Postup po vyhlášení krizového stavu
+Dodavatel mobilizační dodávky je povinen přednostně plnit mobilizační dodávku a neprodleně informovat objednatele mobilizační dodávky o všech okolnostech, které by mohly přednostní plnění mobilizační dodávky ohrozit nebo znemožnit.
+Objednatel mobilizační dodávky je povinen nahradit dodavateli mobilizační dodávky škodu vzniklou v důsledku prodlení s plněním dodávky, která je předmětem plnění podle jiné smlouvy, pokud dodavatel mobilizační dodávky prokáže, že mu škoda vznikla v přímé souvislosti s přednostním plněním mobilizační dodávky a tento důvod byl jedinou příčinou jeho prodlení s plněním podle jiné smlouvy. Obdobně je objednatel mobilizační dodávky povinen nahradit dodavateli mobilizační dodávky i úrok z prodlení, poplatek z prodlení a smluvní nebo jinou pokutu.
+Plán opatření hospodářské mobilizace
+Dodavatel mobilizační dodávky je povinen zpracovat plán opatření hospodářské mobilizace. Vybrané údaje tohoto plánu předává do 30 dnů po zpracování objednateli mobilizační dodávky, věcně příslušnému ústřednímu správnímu úřadu, Správě státních hmotných rezerv a územně příslušnému krajskému úřadu. Předané údaje je povinen aktualizovat
+v době, kdy není vyhlášen žádný z krizových stavů, nejpozději do 30 dnů ode dne, kdy nastala jejich změna,
+v době po vyhlášení krizových stavů neprodleně.
+Subjekt hospodářské mobilizace
+Dodavatel mobilizační dodávky může být jmenován subjektem hospodářské mobilizace. V odůvodněných případech na návrh věcně příslušného ústředního správního úřadu může být subjektem hospodářské mobilizace jmenován i dodavatel nezbytné dodávky, který ji zajišťuje pro stav ohrožení státu a válečný stav. Při jmenování subjektu hospodářské mobilizace se zkoumá, zda mu jeho ekonomická situace a technické předpoklady umožní plnit mobilizační nebo nezbytnou dodávku v požadovaných termínech a kvalitě a zda splní požadavky kladené na ochranu utajovaných informací podle zvláštního právního předpisu.
+Subjekt hospodářské mobilizace je jmenován a odvolán rozhodnutím předsedy Správy státních hmotných rezerv. Řízení o jmenování subjektu hospodářské mobilizace je možné zastavit rovněž v případě, že účastník řízení ani po opakované výzvě nepředložil potřebné důkazy nebo v průběhu řízení byl zrušen podle zvláštního právního předpisu.
+Subjektu hospodářské mobilizace vydá Správa státních hmotných rezerv osvědčení o jmenování, kterým se prokazuje třetím osobám při uplatnění svých práv. Osvědčení je veřejnou listinou. Osvědčení je jeho držitel povinen vrátit Správě státních hmotných rezerv nejpozději do 30 dnů poté, co rozhodnutí předsedy Správy státních hmotných rezerv o odvolání subjektu hospodářské mobilizace nabylo právní moci. Při zrušení právnické osoby nebo po smrti podnikající fyzické osoby je likvidátor, právní nástupce nebo dědic povinen vrátit osvědčení ve stejné lhůtě.
+Důvodem pro odvolání subjektu hospodářské mobilizace jsou tyto skutečnosti:
+smlouva podle § 13 odst. 2 pozbude účinnosti,
+je vydáno rozhodnutí insolvenčního soudu o úpadku dodavatele mobilizační dodávky, nebo insolvenční soud zamítne insolvenční návrh proto, že majetek dodavatele mobilizační dodávky nebude postačovat k úhradě nákladů insolvenčního řízení,
+právnická osoba byla zrušena podle zvláštního právního předpisu nebo podnikající fyzická osoba zemřela.
+Správa státních hmotných rezerv vydá subjektům hospodářské mobilizace osvědčení o jmenování podle odstavce 3 nejpozději do 1. ledna 2002.
+Věcně příslušný ústřední správní úřad, který navrhl jmenování subjektu hospodářské mobilizace podle odstavce 1 věty druhé, má po dobu, po kterou trvá jmenování subjektu hospodářské mobilizace, práva a povinnosti objednatele mobilizační dodávky.
+Postavení subjektu hospodářské mobilizace
+Subjekt hospodářské mobilizace je osvobozen od povinnosti poskytnout věcné prostředky stanovené zvláštním právním předpisem a je oprávněn v souladu s plánem opatření hospodářské mobilizace požadovat pro své zaměstnance zajišťující mobilizační dodávku zproštění mimořádné služby. Subjekt hospodářské mobilizace uplatní v době před vyhlášením krizových stavů u územně příslušného krajského úřadu požadavek na zajištění pracovních sil a věcných prostředků nezbytných pro splnění mobilizační dodávky.
+Státní hmotné rezervy
+Pořizování státních hmotných rezerv a nakládání s nimi se řídí zvláštním právním předpisem.
+Infrastruktura
+Požadavky na výstavbu infrastruktury vyplývají z krizových plánů.
+Požadavky na výstavbu nových objektů infrastruktury k zajištění hospodářských opatření pro krizové stavy, jejichž výstavba má být hrazena z rozpočtové kapitoly Správy státních hmotných rezerv, uplatní ústřední správní úřad u Správy státních hmotných rezerv.
+Údržbu objektů infrastruktury zajišťuje správní úřad, který k nim má příslušnost hospodařit.
+Regulační opatření
+Regulační opatření slouží ke snížení spotřeby nedostatkových surovin a výrobků a dodávek služeb nebo k usměrnění spotřeby a dodávek v souladu s krizovými plány v případech, kdy krizová situace nabývá takového rozsahu, že běžné ekonomické nástroje nejsou při zajišťování nezbytných dodávek dostatečně účinné.
+Regulační opatření mohou být nařízena jen v případě, že účinku s nimi spojeného nelze dosáhnout jinak. Mohou být nařízena jen na nezbytně nutnou dobu. K jejich zrušení musí dojít nejpozději při zrušení krizových stavů.
+Pokud na vyhlášený krizový stav bezprostředně navazuje vyhlášení jiného krizového stavu, může orgán oprávněný k vyhlášení krizového stavu rozhodnout o ponechání některých dříve nařízených regulačních opatření v platnosti.
+Za stavu nebezpečí může hejtman nebo starosta obce s rozšířenou působností v území, pro které byl vyhlášen stav nebezpečí, uložit právnické osobě nebo podnikající fyzické osobě, mající bydliště, sídlo, místo podnikání nebo sídlo organizační složky podniku v příslušném územním obvodu, povinnost
+dodávat výrobky, práce nebo služby, které jsou předmětem jejich činnosti nebo podnikání, a to v přiměřeném množství,
+skladovat ve svých prostorách materiál určený pro překonání stavu nebezpečí a odstranění jeho následků nebo toto skladování strpět,
+přemístit dopravní a mechanizační prostředky, jakož i výrobní nebo provozní prostředky movité povahy a zásoby na určené místo.
+Za stavu nebezpečí může hejtman nařídit
+regulaci prodávaného zboží v obchodní síti a stanovit
+způsob, jakým bude regulováno množství zboží prodávané spotřebiteli,
+maximální množství zboží, které lze spotřebiteli prodat,
+okruh spotřebitelů, kterým budou vybrané položky zboží dodávány přednostně,
+regulační opatření, kterými se mění způsob řízení a organizace dopravy.
+Povinnosti nařízené podle odstavců 1 a 2 jsou krizovými opatřeními podle § 3 odst. 2 krizového zákona.
+Náklady spojené s použitím některého regulačního opatření podle odstavce 2 včetně zvýšených nákladů, které by osobě uvedené v odstavci 1 jinak nevznikly, nese správní úřad, který regulační opatření vyhlásil, pokud se s příslušným ústředním správním úřadem o způsobu jejich úhrady nedohodne jinak. O způsobu úhrady může rozhodnout rovněž vláda.
+Za nouzového stavu, za stavu ohrožení státu a za válečného stavu může hejtman nebo starosta obce s rozšířenou působností v území, pro které byl vyhlášen krizový stav, nařídit opatření uvedená v odstavcích 1 a 2, pokud již taková opatření nenařídila vláda.
+Za nouzového stavu může vláda nařízením
+uložit právnickým a podnikajícím fyzickým osobám povinnost ve stanoveném termínu oznámit vládou určeným správním úřadům aktuální objem zásob ve stanovených druzích materiálu či věcných prostředcích, aktuální údaje o výrobní či provozní kapacitě a disponibilních zdrojích pracovních sil,
+přijmout opatření, která mohou omezit nebo zakázat obchodování s kótovanými cennými papíry,
+přijmout opatření, která mohou omezit nebo zakázat provoz v oblasti silniční dopravy, drážní dopravy, letecké činnosti provozované v České republice civilními letadly, provozu na dopravně významné vodní cestě a užívání pozemních komunikací, a stanovit zvláštní podmínky pro provádění ochrany, údržby a obnovy na pozemních komunikacích a celostátní dráze,
+rozšířit nebo omezit distribuci pitné vody a potravin a stanovit podmínky, za nichž lze změnit organizaci a řízení této distribuce.
+Za nouzového stavu může vláda nařízením přijímat také opatření uvedená v § 21 odst. 1 a 2.
+Za nouzového stavu může Ministerstvo zdravotnictví opatřením obecné povahy rozšířit, omezit nebo zakázat distribuci léčiv, zdravotnických prostředků nebo diagnostických zdravotnických prostředků in vitro; tím není dotčeno oprávnění Ministerstva zdravotnictví vydat opatření obecné povahy týkající se distribuce léčiv, zdravotnických prostředků a diagnostických zdravotnických prostředků in vitro podle jiných právních předpisů.
+Opatření obecné povahy podle odstavce 3 se vydává bez řízení o návrhu opatření obecné povahy. Toto opatření obecné povahy nabývá účinnosti dnem vyvěšení na úřední desce Ministerstva zdravotnictví a vyvěšuje se na dobu nejméně 15 dnů. Ministerstvo zdravotnictví zašle toto opatření obecné povahy Státnímu ústavu pro kontrolu léčiv, který jej bezodkladně vyvěsí na své úřední desce na dobu nejméně 15 dnů. Toto opatření obecné povahy v den následující po dni nabytí jeho účinnosti opatří Ministerstvo zdravotnictví záznamem o jeho účinnosti.
+Zjistí-li Státní ústav pro kontrolu léčiv, že pominuly nebo se změnily důvody pro vydání opatření obecné povahy podle odstavce 3, podá o tom bezodkladně informaci Ministerstvu zdravotnictví společně s podklady, které jej k tomuto závěru vedou.
+Pokud pominuly nebo se změnily důvody pro vydání opatření obecné povahy podle odstavce 3, Ministerstvo zdravotnictví je bezodkladně zruší nebo změní; odstavec 4 se použije obdobně.
+Za stavu ohrožení státu a válečného stavu může vláda nařízením
+omezit, zakázat či přikázat vývoz a dovoz vybraných druhů zboží,
+upravit na stavbách, které určí, průběh stavebních prací včetně jejich přerušení, omezit u vybraných staveb jejich zahajování,
+na návrh guvernéra České národní banky omezit nebo zakázat nakládání s peněžními prostředky na účtech u osob oprávněných poskytovat platební služby.
+Za stavu ohrožení státu a válečného stavu může vláda nařízením přijímat také opatření uvedená v § 21 odst. 1 a 2 a v § 22 odst. 1.
+Za stavu ohrožení státu a válečného stavu může guvernér České národní banky rozhodnutím vyhlášeným formou sdělení ve Sbírce zákonů a mezinárodních smluv
+rozhodnout o zásadních měnově politických opatřeních,
+stanovit kurs české koruny vůči cizím měnám,
+omezit nebo zakázat bezhotovostní a hotovostní převody mezi poskytovateli finančních služeb,
+přerušit správní řízení vedená Českou národní bankou,
+omezit nebo zakázat výkon činností povolených Českou národní bankou,
+omezit nebo zakázat nákup a vývoz devizových hodnot a čerpání prostředků z devizových účtů, zavést nabídkovou povinnost devizových hodnot a stanovit její rozsah,
+omezit nebo zakázat osobám oprávněným poskytovat platební služby poskytování úvěrů a prodej úvěrových produktů,
+omezit nebo zakázat vývoz české koruny.
+Za stavu ohrožení státu a válečného stavu může Ministerstvo zdravotnictví vydat opatření obecné povahy podle § 22 odst. 3.
+KONTROLA
+Správní úřad kontroluje ve své působnosti přípravu hospodářských opatření pro krizové stavy a po vyhlášení krizových stavů jejich plnění a účinnost.
+Správa státních hmotných rezerv kontroluje správní úřady, subjekty hospodářské mobilizace a dodavatele mobilizačních a nezbytných dodávek v celém rozsahu přípravy plánovaných hospodářských opatření pro krizové stavy a prověřuje jejich plnění a účinnost. Kontroluje rovněž využívání finančních prostředků přidělených z její rozpočtové kapitoly právnickým a podnikajícím fyzickým osobám zapojeným do systému hospodářských opatření pro krizové stavy.
+PŘESTUPKY
+Přestupky fyzických osob
+Fyzická osoba se dopustí přestupku tím, že
+nesplní některou z povinností podle § 23 odst. 1, § 23 odst. 3 písm. f) nebo § 23 odst. 3 písm. h), nebo
+nesplní některou z povinností podle § 21 odst. 2 písm. b) nebo § 22 odst. 1 písm. c).
+Za přestupek lze uložit pokutu
+do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+do 20 000 Kč, jde-li o přestupek podle odstavce 1 písm. b).
+Za stavu ohrožení státu nebo válečného stavu se horní hranice pokuty uvedené v odstavci 2 písm. b) zvyšuje na dvojnásobek.
+Přestupky právnických a podnikajících fyzických osob
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+nesplní některou z povinností podle § 23 odst. 1, 3 nebo 4,
+nesplní některou z povinností podle § 21 odst. 1 nebo 2 nebo § 22 odst. 1 nebo 3,
+jako subjekt hospodářské mobilizace použije osvědčení o jmenování v rozporu s § 17,
+v rozporu s § 16 odst. 3 nevrátí osvědčení o jmenování subjektem hospodářské mobilizace nebo takové osvědčení použije v době, kdy rozhodnutí o odvolání subjektu hospodářské mobilizace nabylo právní moci, nebo
+nepředá nebo neaktualizuje vybrané údaje podle § 15.
+Za přestupek lze uložit pokutu
+do 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+do 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b),
+do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo d),
+do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. e).
+Za stavu ohrožení státu nebo válečného stavu se horní hranice pokuty uvedené v odstavci 2 písm. b) až d) zvyšuje na dvojnásobek.
+Společná ustanovení k přestupkům
+Do promlčecí doby se nezapočítává doba stavu ohrožení státu nebo válečného stavu.
+Přestupky podle § 25 odst. 1 a § 25a odst. 1 písm. a) a b) projednává
+obecní úřad obce s rozšířenou působností ve svém správním obvodu v případech regulačních opatření nařízených starostou obce s rozšířenou působností,
+krajský úřad ve svém správním obvodu v případech regulačních opatření nařízených hejtmanem,
+Česká národní banka v případech regulačních opatření vyhlášených guvernérem České národní banky,
+ústřední správní úřad podle své působnosti v případech nařízení vlády,
+Ministerstvo zdravotnictví v případech opatření obecné povahy podle § 22 odst. 3.
+Přestupky podle § 25a odst. 1 písm. c) až e) projednává Správa státních hmotných rezerv.
+Uložení pokuty podle § 25 a 25a nezbavuje povinnou osobu povinnosti odstranit ve lhůtě stanovené příslušným správním úřadem protiprávní stav.
+USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ
+Každý, komu jsou podle tohoto zákona sděleny informace, je povinen zajistit jejich ochranu před zneužitím.
+Z povinnosti poskytovat informace jsou vyjmuty informace chráněné zvláštním právním předpisem.
+Působnosti stanovené hejtmanovi, krajskému úřadu, starostovi obce s rozšířenou působností nebo obecnímu úřadu obce s rozšířenou působností podle tohoto zákona jsou výkonem přenesené působnosti.
+Správní úřady při přípravě a přijetí opatření podle tohoto zákona využívají informační systémy pro podporu hospodářských opatření pro krizové stavy. Informační systémy pro podporu hospodářských opatření pro krizové stavy musí splňovat pravidla obdobně jako informační systémy krizového řízení podle krizového zákona.
+V době krizového stavu se na rozhodování a ukládání povinností podle tohoto zákona nevztahuje správní řád, s výjimkou základních zásad činnosti správních orgánů; to neplatí, jde-li o rozhodování a ukládání povinností podle § 16, 25, 25a nebo 26 tohoto zákona a o vydání opatření obecné povahy podle § 22 odst. 3 tohoto zákona.

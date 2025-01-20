@@ -1,0 +1,171 @@
+Úvodní ustanovení
+K rozhodování sporu spadajícího jinak do pravomoci českých soudů je příslušný též finanční arbitr (dále jen „arbitr“), jedná-li se o spor mezi spotřebitelem a
+poskytovatelem platebních služeb při nabízení a poskytování platebních služeb,
+vydavatelem elektronických peněz při vydávání a zpětné výměně elektronických peněz,
+věřitelem nebo zprostředkovatelem při nabízení, poskytování nebo zprostředkování spotřebitelského úvěru nebo jiného úvěru, zápůjčky, či obdobné finanční služby,
+osobou obhospodařující nebo provádějící administraci fondu kolektivního investování nebo nabízející investice do fondu kolektivního investování nebo srovnatelného zahraničního investičního fondu při obhospodařování nebo provádění administrace fondu kolektivního investování nebo nabízení investic do fondu kolektivního investování nebo srovnatelného zahraničního investičního fondu,
+pojistitelem nebo pojišťovacím zprostředkovatelem při distribuci životního pojištění nebo při výkonu práv a plnění povinností ze životního pojištění,
+osobou provozující směnárenskou činnost při provádění směnárenského obchodu,
+stavební spořitelnou nebo zprostředkovatelem při nabízení, poskytování nebo zprostředkování stavebního spoření,
+osobou poskytující investiční služby při poskytování investičních služeb,
+osobou, která vede jiný než platební účet, při vedení tohoto účtu,
+příjemcem jednorázového vkladu při přijímání nebo vracení tohoto vkladu,
+penzijní společností nebo zprostředkovatelem při nabízení, poskytování nebo zprostředkování penzijního připojištění se státním příspěvkem,
+penzijní společností nebo zprostředkovatelem při nabízení, poskytování nebo zprostředkování doplňkového penzijního spoření,
+osobou, která poskytuje nebo distribuuje panevropský osobní penzijní produkt, při poskytování nebo distribuci panevropského osobního penzijního produktu,
+osobou poskytující službu směny měn, která je před zahájením platební transakce nabízena plátci prostřednictvím bankomatu nebo v místě prodeje zboží nebo poskytování služeb, při poskytování této služby směny měn,
+poskytovatelem dlouhodobého investičního produktu při poskytování tohoto produktu.
+Sjednání rozhodčí smlouvy nevylučuje pravomoc arbitra.
+Arbitr usiluje zejména o smírné vyřešení sporu.
+Úkoly spojené s odborným, organizačním a technickým zabezpečením činnosti arbitra plní Kancelář finančního arbitra, která je organizační složkou státu, účetní jednotkou a jejíž příjmy a výdaje jsou součástí rozpočtové kapitoly Ministerstva financí.
+V čele Kanceláře finančního arbitra je arbitr.
+Organizaci a úkoly Kanceláře finančního arbitra upravuje statut, který vydá arbitr.
+Pracovní poměr a odměňování arbitra, zástupce arbitra a dalších zaměstnanců v Kanceláři finančního arbitra se řídí zákoníkem práce.
+Spory podle § 1 rozhoduje arbitr a v rozsahu stanoveném tímto zákonem zástupce arbitra.
+Institucí se pro účely tohoto zákona rozumí
+poskytovatel platebních služeb,
+vydavatel elektronických peněz,
+věřitel nebo zprostředkovatel při nabízení, poskytování nebo zprostředkování spotřebitelského úvěru, nebo jiného úvěru, zápůjčky, či obdobné finanční služby,
+osoba obhospodařující fond kolektivního investování, provádějící administraci fondu kolektivního investování nebo nabízející investice do fondu kolektivního investování nebo srovnatelného zahraničního investičního fondu,
+pojistitel nebo pojišťovací zprostředkovatel při distribuci životního pojištění nebo při výkonu práv a plnění povinností ze životního pojištění,
+osoba provozující směnárenskou činnost,
+stavební spořitelna a zprostředkovatel při nabízení, poskytování nebo zprostředkování stavebního spoření,
+osoba poskytující investiční služby při poskytování investičních služeb,
+osoba, která vede jiný než platební účet, při vedení tohoto účtu,
+příjemce jednorázového vkladu při přijímání nebo vracení tohoto vkladu,
+penzijní společnost nebo zprostředkovatel při nabízení, poskytování nebo zprostředkování penzijního připojištění se státním příspěvkem,
+penzijní společnost nebo zprostředkovatel při nabízení, poskytování nebo zprostředkování doplňkového penzijního spoření,
+osoba, která poskytuje nebo distribuuje panevropský osobní penzijní produkt,
+osoba poskytující službu směny měn, která je před zahájením platební transakce nabízena plátci prostřednictvím bankomatu nebo v místě prodeje zboží nebo poskytování služeb, při poskytování této služby směny měn,
+poskytovatel dlouhodobého investičního produktu při poskytování tohoto produktu.
+Navrhovatelem pro účely tohoto zákona může být pouze spotřebitel.
+Trvalým nosičem dat se pro účely tohoto zákona rozumí jakýkoli nástroj, který umožňuje uživateli uchování informací určených jemu osobně tak, aby mohly být využívány po dobu přiměřenou účelu těchto informací, a který umožňuje reprodukci těchto informací v nezměněné podobě.
+Arbitr a jeho zástupce
+Arbitra a zástupce arbitra jmenuje vláda na návrh ministra financí na funkční období 5 let z osob splňujících podmínky stanovené tímto zákonem. Funkční období počíná dnem jmenování, je-li funkce arbitra nebo jeho zástupce neobsazena, jinak dnem následujícím po dni skončení funkčního období dosavadního arbitra nebo jeho zástupce. Vláda jmenuje arbitra nebo zástupce arbitra nejpozději 2 měsíce před řádným uplynutím funkčního období arbitra nebo zástupce arbitra [§ 6 odst. 3 písm. a)]. V ostatních případech [§ 6 odst. 3 písm. b), c), d)] vláda jmenuje arbitra nebo zástupce arbitra tak, aby období ode dne skončení výkonu funkce arbitra nebo zástupce arbitra do dne jmenování nového arbitra nebo zástupce arbitra nepřesáhlo 2 měsíce.
+Arbitrem a zástupcem arbitra mohou být jmenovány pouze osoby, které jsou bezúhonné, plně svéprávné, mají dobrou pověst a jejichž zkušenosti dávají záruku, že budou svou funkci řádně zastávat. Předpokladem pro jmenování arbitrem a zástupcem arbitra je též vysokoškolské vzdělání získané řádným ukončením studia v magisterském studijním programu v oblasti práva na vysoké škole v České republice a prokázání 5 let praxe v oblasti finančního trhu nebo ochrany zájmů spotřebitelů na finančním trhu.
+Zástupce arbitra zastupuje v době nepřítomnosti arbitra v plném rozsahu jeho pravomoci a odpovědnosti. Arbitr může zástupce arbitra trvale pověřit výkonem části své rozhodovací pravomoci.
+Pro jmenování, odvolání z funkce a právní postavení zástupce arbitra platí ustanovení tohoto zákona o arbitrovi.
+Za bezúhonného se nepovažuje ten, kdo byl pravomocně odsouzen pro úmyslný trestný čin, trestný čin proti majetku, hospodářský trestný čin nebo pro trestný čin spáchaný v souvislosti s financováním terorismu, pokud jeho odsouzení pro trestné činy nebylo zahlazeno anebo se na něj z jiného důvodu nehledí, jako by nebyl odsouzen.
+Arbitr vykonává svou funkci nezávisle a nestranně. Musí se zdržet všeho, co by mohlo budit pochybnosti o jeho nepodjatosti.
+Za výkon své funkce odpovídá arbitr vládě.
+Arbitr předkládá Poslanecké sněmovně a vládě jedenkrát ročně, a to vždy do 31. března za uplynulý kalendářní rok, zprávu o své činnosti, která obsahuje rovněž informaci o nákladech vynaložených na zajištění výkonu činnosti. Zpráva též obsahuje informace o projednávaných sporech bez uvedení identifikačních údajů navrhovatelů. Uvedením identifikačních údajů instituce ve zprávě není porušena povinnost mlčenlivosti podle § 22.
+Výkon funkce arbitra a zástupce arbitra je neslučitelný s funkcí prezidenta republiky, poslance nebo senátora Parlamentu, člena Nejvyššího kontrolního úřadu nebo bankovní rady České národní banky a soudce, jakož i s jakoukoliv další činností ve veřejné správě a s činností v řídících, dozorčích a kontrolních orgánech podnikatelských subjektů.
+Výkon funkce arbitra a zástupce arbitra je neslučitelný též s jinou výdělečnou činností, s výjimkou správy vlastního majetku a činnosti vědecké, pedagogické, publicistické, literární nebo umělecké, není-li taková činnost na újmu výkonu funkce a její důstojnosti a neohrožuje-li důvěru v nezávislost a nestrannost výkonu funkce.
+Výkon funkce arbitra nebo zástupce arbitra končí dnem, kdy
+uplynulo jeho funkční období,
+nabyl právní moci rozsudek soudu, kterým byl arbitr nebo zástupce arbitra odsouzen pro úmyslný trestný čin, trestný čin proti majetku, hospodářský trestný čin nebo pro trestný čin spáchaný v souvislosti s financováním terorismu,
+bylo předsedovi vlády doručeno písemné prohlášení arbitra nebo zástupce arbitra, že se své funkce vzdává,
+arbitr nebo zástupce arbitra zemřel, nebo ke dni, ke kterému byl prohlášen za mrtvého.
+Po dobu výkonu funkce se na arbitra nebo zástupce arbitra nevztahuje branná povinnost, pokud jí podléhají.
+Vláda arbitra odvolá, pokud přestal být způsobilý vykonávat svou funkci.
+Vláda může arbitra odvolat, pokud při výkonu své funkce závažným způsobem nebo opakovaně porušil povinnosti vyplývající pro výkon jeho funkce z tohoto zákona a ze zvláštních právních předpisů.
+Řízení před arbitrem
+Řízení se zahajuje na návrh navrhovatele.
+Podání návrhu má na promlčení a prekluzi tytéž právní účinky, jako kdyby byla v téže věci podána žaloba u soudu.
+Návrh je nepřípustný, jestliže
+spor nenáleží do působnosti arbitra,
+ve věci samé již rozhodl soud nebo v téže věci probíhá řízení před soudem,
+ve věci samé již rozhodl arbitr nebo v téže věci probíhá řízení před arbitrem,
+ve věci samé již bylo rozhodnuto v rozhodčím řízení nebo v téže věci probíhá rozhodčí řízení.
+Návrh obsahuje
+označení účastníků řízení,
+doklad o tom, že instituce byla neúspěšně vyzvána k nápravě,
+úplné a srozumitelné vylíčení rozhodných skutečností,
+důkazní prostředky nebo označení důkazů,
+označení, čeho se navrhovatel domáhá,
+prohlášení, že navrhovatel nepodal v téže věci žalobu k soudu nebo k rozhodčímu soudu anebo rozhodci a že neuzavřel s institucí dohodu o mimosoudním vyrovnání a je si vědom závaznosti nálezu,
+plnou moc, je-li navrhovatel zastoupen na základě plné moci,
+datum a podpis navrhovatele.
+Návrh lze podat též na formuláři vydaném arbitrem. Vzor podání uveřejní arbitr též způsobem umožňujícím dálkový přístup.
+Má-li návrh nedostatky, arbitr navrhovatele uvědomí o tom, o jaké vady se jedná a jak mají být odstraněny, a vyzve jej, aby je ve lhůtě do 15 dnů odstranil. V odůvodněných případech může arbitr lhůtu na žádost navrhovatele a před uplynutím lhůty o 15 dní prodloužit, a to i opakovaně.
+Arbitr vyzve po podání návrhu instituci, aby se do 15 dnů k návrhu vyjádřila. V odůvodněných případech může lhůtu na žádost instituce a před uplynutím lhůty o 15 dnů prodloužit, a to i opakovaně.
+Zásady řízení
+Arbitr je povinen rozhodovat podle svého nejlepšího vědomí a svědomí, nestranně, spravedlivě a bez průtahů a pouze na základě skutečností zjištěných v souladu s tímto zákonem a zvláštními právními předpisy.
+Arbitr nařídí ústní jednání na návrh účastníka řízení nebo z vlastního podnětu.
+Arbitr není vázán návrhem a aktivně opatřuje důkazy. Při svém rozhodování vychází arbitr ze skutkového stavu věci a volně hodnotí důkazy.
+Účastníci řízení mají právo nahlížet do spisu a právo obdržet kopie písemností založených do spisu.
+V průběhu řízení je arbitr oprávněn vyžadovat od účastníků řízení předložení veškerých důkazů na podporu jejich tvrzení, a to včetně podání ústního vysvětlení.
+Instituce je povinna do 15 dnů
+na výzvu předložit arbitrovi požadované doklady a účastnit se jednání,
+vyhovět žádosti arbitra o poskytnutí vysvětlení a žádosti o předložení dokumentace vztahující se k předmětu sporu,
+umožnit arbitrovi nahlédnout do svých spisů a elektronických záznamů, které se týkají vedeného sporu.
+V odůvodněných případech může arbitr lhůtu na žádost instituce a před uplynutím lhůty o 15 dní prodloužit, a to i opakovaně.
+Arbitr může písemně pověřit zaměstnance v Kanceláři finančního arbitra nebo jiné fyzické osoby, aby prováděli šetření ve věci. Instituce je povinna plnit své povinnosti podle odstavce 6 i vůči těmto osobám. Před prováděním šetření se pověřená osoba prokáže písemným pověřením.
+Pověřená fyzická osoba je povinna dodržovat povinnosti stanovené zaměstnancům v § 303 zákoníku práce.
+Arbitr se může v průběhu řízení obracet i na fyzické a právnické osoby, které nejsou účastníky řízení, pokud jejich vysvětlení může mít význam pro průběh nebo výsledek řízení. Pro tyto případy se obdobně použijí odstavce 6 a 7. Dožádaná fyzická nebo právnická osoba nemá nárok na náhradu nákladů spojených s plněním povinností podle tohoto ustanovení.
+Arbitr je oprávněn využívat k plnění úkolů podle tohoto zákona údaje z katastru nemovitostí bezplatně.
+Jednací jazyk
+Navrhovatel má právo na vedení řízení v jazyce, ve kterém je sepsána jeho smlouva s institucí nebo ve kterém s institucí obvykle písemně jednal.
+Zastavení řízení
+Arbitr řízení zastaví usnesením též, jestliže
+následně zjistil, že návrh je nepřípustný podle § 9,
+navrhovatel neodstranil přes výzvu arbitra nedostatky návrhu nebo neposkytl přes výzvu arbitra potřebnou součinnost; o tom musí být navrhovatel arbitrem poučen,
+navrhovatel vzal svůj návrh zpět,
+je návrh zjevně bezdůvodný nebo šikanózní.
+Jestliže by řešení sporu svojí právní nebo skutkovou složitostí vážně ohrozilo účel řízení před arbitrem, může arbitr řízení zastavit do 60 dnů ode dne jeho zahájení, a to i v případě, že navrhovatele v této lhůtě vyzve, aby nedostatky návrhu odstranil; o tom musí být navrhovatel arbitrem poučen. Lhůta 60 dnů neběží ode dne doručení výzvy arbitra do dne odstranění nedostatků. Lhůta 60 dnů neběží ani v době ode dne doručení výzvy instituci podle § 11 nebo podle § 12 odst. 6 do dne, kdy instituce splní povinnost uloženou v uvedené výzvě.
+Nález
+Arbitr rozhoduje ve věci samé bez zbytečného odkladu nálezem, nejdéle však do 90 dnů od shromáždění všech podkladů nutných pro rozhodnutí; nelze-li ve zvlášť složitých případech, vzhledem k povaze věci rozhodnout ani v této lhůtě, lhůta se přiměřeně prodlouží, nejvýše o dalších 90 dnů. Arbitr účastníky řízení bezodkladně vyrozumí o prodloužení lhůty a její délce.
+Písemné vyhotovení nálezu se doručuje účastníkům řízení bez zbytečného odkladu do vlastních rukou.
+Nález obsahuje výrok, odůvodnění a poučení o námitkách.
+Námitky
+Do 15 dnů ode dne doručení písemného vyhotovení nálezu nebo usnesení mohou účastníci řízení podat proti nálezu nebo usnesení odůvodněné námitky. Práva podat námitky se lze vzdát. Včas podané námitky mají odkladný účinek.
+Arbitr rozhodnutím o námitkách nález potvrdí nebo změní, nebo usnesení potvrdí, změní nebo zruší. Arbitr rozhodne o námitkách do 30 dnů ode dne jejich doručení arbitrovi; ve zvlášť složitých případech rozhodne nejdéle do 60 dnů; nelze-li vzhledem k povaze věci rozhodnout ani v této lhůtě, může ji arbitr přiměřeně prodloužit.
+Písemné vyhotovení rozhodnutí o námitkách se doručuje účastníkům řízení do vlastních rukou.
+Rozhodnutí o námitkách je konečné.
+Právní moc a vykonatelnost nálezu
+Doručený nález, který již nelze napadnout námitkami, je v právní moci.
+Nález je soudně vykonatelný podle občanského soudního řádu, jakmile uplyne lhůta k plnění.
+Není-li v nálezu stanovena lhůta k plnění, je nález vykonatelný, jakmile nabyl právní moci.
+V nálezu, jímž arbitr vyhovuje, byť i jen zčásti, návrhu navrhovatele, uloží současně instituci povinnost zaplatit sankci ve výši 10 % z částky, kterou je instituce podle nálezu povinna zaplatit navrhovateli, nejméně však 15 000 Kč. Zaplacení 15 000 Kč uloží i v případech, kdy předmětem sporu není peněžitá částka. Sankce je příjmem státního rozpočtu.
+Náklady řízení
+Každý účastník řízení nese své náklady řízení sám, s výjimkou nákladů tlumočení podle § 13, které nese instituce.
+Řízení se nezpoplatňuje.
+Mezinárodní spolupráce
+Arbitr spolupracuje na základě vzájemnosti s obdobnými orgány mimosoudního řešení spotřebitelských sporů v jiných státech, zejména ve státech tvořících Evropský hospodářský prostor a s orgány Evropské unie.
+Arbitr vede základní informace o orgánech uvedených v odstavci 1. Arbitr tyto informace vhodným způsobem uveřejňuje.
+V případě sporů vzniklých při přeshraničním nabízení, poskytování nebo zprostředkování služeb obdobných službám vymezeným v § 1 odst. 1 tohoto zákona, k jejichž řešení není arbitr příslušný, poskytne arbitr spotřebiteli na žádost informaci o orgánu, který je k řešení předmětného sporu příslušný.
+Informační povinnost arbitra
+Arbitr vhodným způsobem umožňujícím dálkový přístup uveřejňuje jednou ročně, nejpozději do 30. června následujícího kalendářního roku, výroční zprávu o své činnosti, včetně popisu vybraných projednávaných sporů bez uvedení identifikačních údajů navrhovatelů. Uvedením identifikačních údajů instituce ve výroční zprávě není porušena povinnost mlčenlivosti podle § 22.
+Výroční zpráva obsahuje zejména
+počet zahájených řízení, včetně rozlišení podle jednotlivých druhů sporů,
+jakékoli systémové nebo závažné problémy, které vedou ke sporům, k jejichž řešení je arbitr příslušný,
+procentní podíl řízení, která byla arbitrem zastavena, včetně zákonných ustanovení, na základě kterých k zastavení řízení došlo,
+průměrnou délku řízení,
+informaci o spolupráci arbitra s obdobnými orgány mimosoudního řešení spotřebitelských sporů v jiných státech.
+Arbitr poskytne na žádost výroční zprávu na trvalém nosiči dat.
+Arbitr informuje orgány vykonávající dohled nad institucemi o zjištěných nedostatcích v činnosti institucí.
+Arbitr poskytuje navrhovatelům na jejich žádost pomoc v souvislosti se zahájením řízení, zejména při sepsání, podání nebo doplnění návrhu, a kdykoli v průběhu řízení. O možnosti poskytování této pomoci a o postupu navrhovatelů v řízení podle tohoto zákona arbitr vhodným způsobem informuje veřejnost.
+Arbitr vhodným způsobem informuje při výkonu své funkce veřejnost o svém postupu podle tohoto zákona a o projednávaných sporech bez uvedení identifikačních údajů navrhovatelů. Uveřejněním projednávaných sporů s uvedením identifikačních údajů instituce není porušena povinnost mlčenlivosti podle § 22.
+Arbitr provozuje aktualizované internetové stránky, na kterých poskytuje jasné a srozumitelné informace zejména o
+svých kontaktních údajích, včetně poštovní a e-mailové adresy,
+tom, že je jako orgán mimosoudního řešení spotřebitelských sporů uveden v seznamu vedeném Ministerstvem průmyslu a obchodu,
+arbitrovi a jeho zástupci a o způsobu jejich jmenování a délce jejich mandátu,
+členství arbitra v mezinárodních organizacích sdružujících orgány mimosoudního řešení spotřebitelských sporů,
+druzích sporů, které je arbitr příslušný rozhodovat,
+procesních pravidlech, jimiž se řešení sporu řídí,
+jazycích, v nichž může být arbitrovi předložen návrh na zahájení řízení a v nichž je řízení vedeno,
+právních předpisech, které upravují předměty sporů, k jejichž řešení je arbitr příslušný,
+předběžných požadavcích, které musí strany před zahájením řízení splňovat, včetně požadavku na předložení dokladu o tom, že instituce byla neúspěšně vyzvána k nápravě,
+tom, zda účastnící řízení mohou ukončit svoji účast v řízení před arbitrem,
+tom, že každý účastník nese své náklady řízení sám, s výjimkou nákladů na tlumočení, a že řízení není zpoplatněno,
+průměrné délce řízení před arbitrem,
+právním účinku usnesení nebo nálezu a vykonatelnosti nálezu.
+Na žádost poskytne arbitr informace uvedené v odstavci 7 na trvalém nosiči dat.
+Arbitr zveřejní na svých internetových stránkách ve formě odkazu na příslušné internetové stránky Evropské komise seznam obdobných subjektů mimosoudního řešení spotřebitelských sporů.
+Arbitr vhodným způsobem informuje účastníky řízení o právu na právní pomoc a o tom, že nemají povinnost právního zastoupení.
+Arbitra může povinnosti mlčenlivosti o skutečnostech, o nichž se dozvěděl při výkonu činnosti podle tohoto zákona, zprostit pouze vláda.
+Pořádková pokuta
+Arbitr může rozhodnutím uložit pořádkovou pokutu až do výše 100 000 Kč instituci, jestliže v řízení ztěžuje jeho postup tím, že
+se na výzvu podle § 11 nevyjádří ve stanovené lhůtě k podanému návrhu, nebo
+nesplní povinnosti stanovené v § 12 odst. 6, 7 a 9.
+Arbitr může rozhodnutím uložit pořádkovou pokutu až do výše 50 000 Kč fyzické nebo právnické osobě, jestliže v řízení ztěžuje jeho postup tím, že
+na výzvu nepředloží arbitrovi nebo pověřené osobě požadované doklady vztahující se k předmětu sporu,
+se neúčastní jednání,
+nevyhoví žádosti arbitra nebo pověřené osoby o poskytnutí vysvětlení a žádosti o předložení dokumentace vztahující se k předmětu sporu, nebo
+neumožní arbitrovi nebo pověřené osobě nahlédnout do svých spisů a elektronických záznamů vztahujících se k předmětu sporu.
+Pořádkovou pokutu podle odstavce 1 a odstavce 2 lze uložit opakovaně.
+Proti rozhodnutí o uložení pořádkové pokuty lze podat námitky do 15 dnů ode dne doručení rozhodnutí. Včas podané námitky mají odkladný účinek. Pro řízení o námitkách se § 16 použije obdobně.
+Ustanovení společná a přechodná
+Řízení
+V řízení podle tohoto zákona se postupuje podle správního řádu, nestanoví-li tento zákon jinak.
+Instituce splní povinnost podle § 19 odst. 1 poprvé do 3 měsíců ode dne nabytí účinnosti tohoto zákona.

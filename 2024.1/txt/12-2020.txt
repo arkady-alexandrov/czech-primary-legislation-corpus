@@ -1,0 +1,89 @@
+PRÁVO NA DIGITÁLNÍ SLUŽBY
+Předmět úpravy
+Tento zákon upravuje právo fyzických a právnických osob na poskytnutí digitálních služeb orgány veřejné moci při výkonu jejich působnosti, právo fyzických a právnických osob činit digitální úkony, povinnost orgánů veřejné moci poskytovat digitální služby a přijímat digitální úkony a některá další práva a povinnosti související s poskytováním digitálních služeb.
+Vymezení pojmů
+Uživatelem služby je fyzická osoba nebo právnická osoba, kterým je poskytována digitální služba nebo které činí digitální úkon, a které při poskytování digitální služby nebo při činění digitálního úkonu nemají postavení orgánu veřejné moci.
+Digitální službou je úkon vykonávaný orgánem veřejné moci vůči uživateli služby v rámci agendy a vedený v katalogu služeb jako úkon v elektronické podobě; za digitální službu se považuje i úkon vykonávaný vůči uživateli služby kontaktním místem veřejné správy v rámci agendy.
+Digitálním úkonem je úkon vykonávaný uživatelem služby vůči orgánu veřejné moci v rámci agendy a vedený v katalogu služeb jako úkon v elektronické podobě.
+Katalogem služeb je část údajů vedená v základním registru agend, orgánů veřejné moci, soukromoprávních uživatelů údajů a některých práv a povinností (dále jen „registr práv a povinností“), které se týkají úkonů orgánů veřejné moci vykonávaných v rámci agendy vůči subjektům, které přitom nemají postavení orgánů veřejné moci, a úkonů subjektů, které při jejich vykonávání nemají postavení orgánů veřejné moci, vůči orgánům veřejné moci.
+Digitální a informační agentura
+Zřizuje se Digitální a informační agentura (dále jen „Agentura“) se sídlem v Praze.
+Agentura je ústředním správním úřadem pro elektronickou identifikaci a služby vytvářející důvěru a pro informační systémy veřejné správy.
+Agentura
+plní koordinační úlohu v oblasti digitálních služeb a digitálních úkonů podle tohoto zákona,
+plní koordinační úlohu pro informační technologie,
+plní koordinační úlohu v oblasti evidence a sdílení dat,
+zajišťuje systém podpory centrálních způsobů komunikace veřejné správy,
+zajišťuje odborný rozvoj, školení, sdílení znalostí, osvětu a vzdělávání v oblasti své působnosti,
+provozuje kompetenční centra.
+V čele Agentury je ředitel, kterého jmenuje a odvolává vláda na návrh člena vlády stojícího v čele Rady vlády pro informační společnost. Ředitel se považuje za služební orgán podle zákona o státní službě.
+Ředitel Agentury je oprávněn dávat státnímu zaměstnanci zařazenému k výkonu státní služby v Agentuře příkazy k výkonu státní služby podle zákona o státní službě.
+Právo na digitální službu
+Uživatel služby má právo využívat digitální službu a orgán veřejné moci má povinnost poskytovat digitální službu.
+Práva a povinnosti podle jiných zákonů nejsou tímto zákonem dotčena.
+Právo činit digitální úkon
+Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím
+své datové schránky,
+kontaktního místa veřejné správy v případě digitálního úkonu, o kterém tak stanoví prováděcí právní předpis,
+sítě elektronických komunikací dokumentem podepsaným uznávaným elektronickým podpisem nebo opatřeným uznávanou elektronickou pečetí za podmínek stanovených jinými zákony,
+informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace, autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo
+jiného způsobu, pokud tak stanoví právní předpis.
+Nestanoví-li zákon výslovně závaznou podobu úkonu vůči orgánu veřejné moci, má uživatel služby právo činit úkon jako digitální úkon.
+Orgány veřejné moci zveřejňují prostřednictvím Agentury elektronické formuláře, které po prokázání totožnosti uživatele služby s využitím elektronické identifikace zajistí automatizované doplnění údajů nezbytných pro poskytnutí digitální služby vedených v základním registru nebo agendovém informačním systému, které jsou orgánu veřejné moci zpřístupněné pro výkon agendy, nebo využívaných orgánem veřejné moci na základě souhlasu uživatele služby. Formát, strukturu a obsah formuláře stanoví orgán veřejné moci zveřejněním. Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel služby právo učinit digitální úkon podle své volby v jakémkoli výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu.
+Právo na osvědčení digitálního úkonu
+Uživatel služby má právo na elektronické osvědčení digitálního úkonu.
+Osvědčení o digitálním úkonu obsahuje důvěryhodné zachycení obsahu digitálního úkonu nebo jinou identifikaci digitálního úkonu, určení osoby, která jej učinila, adresáta digitálního úkonu a způsob, datum a čas provedení digitálního úkonu. Osvědčení musí být opatřeno kvalifikovanou elektronickou pečetí a kvalifikovaným elektronickým časovým razítkem orgánu veřejné moci.
+Orgán veřejné moci, který je veřejnoprávním původcem, je povinen bezodkladně po učinění digitálního úkonu poskytnout uživateli služby osvědčení o digitálním úkonu, který vůči němu uživatel služby učinil.
+Osvědčení o digitálním úkonu poskytuje orgán veřejné moci podle volby uživatele služby zasláním do datové schránky, na kontaktní místo veřejné správy nebo zpřístupněním prostřednictvím portálu veřejné správy.
+Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu
+Stanoví-li právní předpis požadavek úředního ověření vlastnoručního podpisu nebo uznávaného elektronického podpisu, považuje se za splněný využitím elektronického podpisu na dokumentu nedílně spojeném
+s kvalifikovaným elektronickým podpisem osoby oprávněné provádět ověřování pravosti podpisu, která postupem podle jiného právního předpisu ověřila, že podepisující dokument před ní podepsal nebo uznal podpis za vlastní, a kvalifikovaným elektronickým časovým razítkem, nebo
+se záznamem informačního systému veřejné správy opatřeným kvalifikovanou elektronickou pečetí a kvalifikovaným elektronickým časovým razítkem jeho správce o provedení elektronické identifikace podepisujícího prostřednictvím kvalifikovaného systému elektronické identifikace s úrovní záruky vysoká.
+Stanoví-li právní předpis požadavek úředního ověření podpisu, považuje se za splněný využitím uznávaného elektronického podpisu, pokud lze s využitím údajů základního registru obyvatel (dále jen „registr obyvatel“) nebo portálu veřejné správy ověřit, že kvalifikovaný certifikát pro elektronický podpis, na jehož základě podepisující vytvořil uznávaný elektronický podpis na dokumentu, patří podepisujícímu.
+Ustanovení § 6 odst. 1 písm. b) a § 6 odst. 2 se nepoužijí pro plnou moc k právnímu jednání podle § 441 odst. 2 poslední věty občanského zákoníku.
+Právo na využívání údajů
+Orgán veřejné moci nevyžaduje údaje vedené v základním registru nebo agendovém informačním systému, které jsou mu zpřístupněné pro výkon agendy nebo na základě souhlasu uživatele služby.
+Uživatel služby má právo udělit souhlas s využíváním údajů o sobě, o svých právech a povinnostech nebo právních skutečnostech, které se ho týkají, vedených v základním registru nebo agendovém informačním systému; orgán veřejné moci je povinen tyto údaje využívat.
+Uživatel služby může udělit souhlas k využívání údajů v rozsahu a trvání podle své volby na základě vlastního rozhodnutí nebo na základě žádosti orgánu veřejné moci. V rozsahu uděleného souhlasu se neuplatní povinnost mlčenlivosti orgánu veřejné moci. Uživatel služby je oprávněn souhlas kdykoliv odvolat.
+Souhlas uživatele služby k využívání údajů se podává Agentuře. Agentura zveřejní elektronický formulář k udělení a odvolání souhlasu na portálu veřejné správy.
+Právo na zápis práva, povinnosti nebo právní skutečnosti
+Uživatel služby má právo na zápis práva, povinnosti nebo právní skutečnosti, která se jej týká a vyplývá z úkonu orgánu veřejné moci uvedeného v katalogu služeb, do registru práv a povinností, nejsou-li právo, povinnost nebo právní skutečnost zapsány v základním registru nebo agendovém informačním systému.
+Právo na zápis práva, povinnosti nebo právní skutečnosti uplatní uživatel služby prostřednictvím Agentury u příslušného orgánu veřejné moci, který učinil podkladový úkon. Příslušný orgán veřejné moci osvědčí existenci práva, povinnosti nebo právní skutečnosti a potvrdí ji Agentuře, která ji zapíše do registru práv a povinností.
+Příslušný orgán veřejné moci průběžně aktualizuje zápis práva, povinnosti nebo právní skutečnosti; zjistí-li rozpor mezi zápisem podle odstavců 1 až 3 a skutečným stavem, odstraní jej prostřednictvím Agentury bez zbytečného odkladu.
+Právo na prokázání právní skutečnosti
+Uživatel služby má právo prokázat nebo osvědčit právní skutečnost
+odkazem na údaje vedené v základním registru nebo agendovém informačním systému a zpřístupněné orgánu veřejné moci pro výkon agendy, nebo
+výpisem z informačního systému veřejné správy v elektronické podobě, který zaručuje věrohodnost původu a neporušenost obsahu výpisu.
+Uživatel služby není povinen pro uplatnění svého práva, splnění povinnosti nebo doložení právní skutečnosti, která se ho týká, předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný údaj, pokud prokázal svoji totožnost a údaje o něm nebo o jeho právech, povinnostech nebo právních skutečnostech, které se ho týkají, jsou vedeny v základním registru nebo agendovém informačním systému a jsou orgánu veřejné moci zpřístupněné pro výkon agendy.
+Předloží-li uživatel služby dokumenty v elektronické podobě, orgán veřejné moci není oprávněn žádat tytéž dokumenty v listinné podobě. Požadavky jiných právních předpisů na vznik nebo podobu elektronických dokumentů, kterými se právně jedná, tím nejsou dotčeny.
+Právo na zápis kontaktního údaje
+Uživatel služby má právo na zápis kontaktního údaje o elektronické adrese nebo telefonním čísle (dále jen „kontaktní údaj“) do základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci nebo do registru obyvatel pro zasílání informací podle tohoto zákona a pro zasílání dalších informací souvisejících s poskytováním digitální služby, jejichž okruh si vybere.
+Právo na zápis kontaktního údaje uplatní uživatel služby u Agentury. Agentura zveřejní elektronický formulář k zápisu kontaktního údaje na portálu veřejné správy a zřídí službu pro zasílání informací na kontaktní údaje.
+Právo na informace v souvislosti s poskytováním digitálních služeb
+Uživatel služby je oprávněn přistupovat k údajům vedeným o něm v základních registrech a agendových informačních systémech. Orgán veřejné moci zajistí prostřednictvím digitální služby portálu veřejné správy přístup uživatele služby k těmto údajům.
+Uživatel služby má právo na poskytnutí informace o končící platnosti občanského průkazu, cestovního dokladu nebo řidičského průkazu; informaci zasílá orgán veřejné moci, který ho vydal, nejpozději 30 dnů před uplynutím jeho platnosti do datové schránky.
+Uživatel služby má právo na zápis dokladu, průkazu nebo osvědčení do portálu veřejné správy za účelem zasílání informace o končící platnosti dokladu, průkazu nebo osvědčení na kontaktní údaj. Údaje o takto zapsaném dokladu, průkazu nebo osvědčení, nejsou-li vedeny v agendovém informačním systému, zapíše správce portálu veřejné správy do registru práv a povinností.
+Uživatel služby má právo na poskytnutí informace o změně údajů vedených o své osobě nebo svých právech a povinnostech v základních registrech nebo agendových informačních systémech neprodleně po jejich změně do datové schránky. Správce příslušného základního registru nebo agendového informačního systému poskytne uživateli služby informaci podle věty první v rozsahu údajů, které nevyužívá z jiného základního registru nebo agendového informačního systému.
+Orgán veřejné moci poskytuje informace podle odstavce 2 také na kontaktní údaj.
+Právo na elektronickou identifikaci a autentizaci
+Není-li v katalogu služeb pro využití digitální služby stanovena úroveň záruky prostředku pro elektronickou identifikaci, uživatel služby má právo provést svou identifikaci a autentizaci prostředkem pro elektronickou identifikaci podle své volby nejméně v úrovni značná.
+Uživatel služby má právo, aby před osobním provedením úkonu, pro který je v katalogu služeb uvedena možnost doplnění fyzického prokázání totožnosti autentizací s využitím dat potřebných pro elektronickou identifikaci a autentizaci, orgán veřejné moci vyžadoval autentizaci jako podmínku provedení digitálního úkonu. Orgán veřejné moci vystaví na žádost uživatele služby, který provedl autentizaci, potvrzení o autentizaci.
+Uživatel služby uplatní požadavek na vyžadování autentizace podle odstavce 2 u Agentury. Agentura zveřejní elektronický formulář k uplatnění požadavku na portálu veřejné správy.
+Agentura spravuje elektronickou aplikaci pro autentizaci podle odstavce 2. Agentura umožní využít aplikaci i při fyzickém prokazování totožnosti pomocí identifikačního dokladu vůči fyzické osobě nebo právnické osobě.
+Umožní-li fyzická osoba nebo právnická osoba doplnění fyzického prokázání totožnosti pomocí identifikačního dokladu autentizací s využitím dat potřebných pro elektronickou identifikaci a autentizaci spojených s identifikačním dokladem, vystaví na žádost toho, kdo provedl autentizaci, potvrzení o autentizaci.
+Uživatel služby má právo na informaci, zda kombinace identifikačních údajů, které mu o sobě poskytla fyzická osoba nebo které obdržel od jiné osoby na základě prokazatelného právního vztahu, který měl právo uzavřít, odpovídá kombinaci údajů vedených o fyzické osobě jako referenční údaje v registru obyvatel.
+Právo podle odstavce 1 uplatní uživatel služby u správce národního bodu pro identifikaci a autentizaci.
+Uživatel služby je povinen při uplatnění práva podle odstavce 1 prokázat správci národního bodu pro identifikaci a autentizaci svou totožnost a sdělit mu kombinaci poskytnutých identifikačních údajů v rozsahu
+příjmení,
+jméno, popřípadě jména,
+adresa místa pobytu,
+datum narození a
+čísla a druhy identifikačních dokladů.
+Údaj podle odstavce 3 písm. c), d) nebo e) lze sdělit pouze společně s údaji podle odstavce 3 písm. a) a b).
+V případě, že kombinace identifikačních údajů, které uživateli služby o sobě poskytla fyzická osoba, odpovídá kombinaci údajů vedených o fyzické osobě jako referenční údaje v registru obyvatel, správce národního bodu pro identifikaci a autentizaci vydá uživateli služby bezvýznamový směrový identifikátor fyzické osoby. V opačném případě správce národního bodu pro identifikaci a autentizaci vyrozumí uživatele služby, že shoda kombinací údajů nebyla nalezena anebo odpovídá více fyzickým osobám. Pokud byla v rámci kombinace údajů podle věty první tohoto odstavce sdělena kombinace údajů podle odstavce 3 písmen a), b) a e), správce národního bodu pro identifikaci a autentizaci sdělí uživateli služby též údaje podle odstavce 3 písm. a), b) a e) ve tvaru odpovídajícím současnému stavu.
+Uživatel služby nesmí získaný bezvýznamový směrový identifikátor sdělovat třetím osobám s výjimkou orgánu veřejné moci.
+Informaci, zda kombinace identifikačních údajů, které uživateli služby o sobě poskytla fyzická osoba, odpovídá kombinaci údajů vedených o fyzické osobě jako referenční údaje v registru obyvatel, podá správce národního bodu pro identifikaci a autentizaci rovněž na základě sdělené kombinace poskytnutých identifikačních údajů vedených jako referenční údaje, jsou-li poskytnuté identifikační údaje ve tvaru předcházející současný stav a jsou-li vedeny v informačním systému evidence obyvatel, informačním systému cizinců, informačním systému evidence občanských průkazů nebo informačním systému evidence cestovních dokladů. S identifikačními údaji lze dále poskytnout údaj o rodném čísle, je-li veden v informačním systému evidence obyvatel nebo informačním systému cizinců.
+Právní nástupce uživatele služby má právo požádat o vytvoření nových bezvýznamových směrových identifikátorů fyzické osoby na základě předání seznamu bezvýznamových směrových identifikátorů fyzické osoby svého právního předchůdce správci národního bodu pro identifikaci a autentizaci.
+Právo na technologickou neutralitu
+Orgán veřejné moci zpřístupní digitální službu uživateli služby bez závislosti na konkrétní platformě či technologii, ledaže by takové řešení bylo nepřiměřeně ekonomicky náročné, nesplňovalo požadavky na bezpečnost informačního systému veřejné správy nebo mu bránil jiný právním předpisem chráněný veřejný zájem.
+Orgán veřejné moci poskytne uživateli výstupy digitální služby v otevřeném, a je-li to možné, též strojově čitelném formátu.

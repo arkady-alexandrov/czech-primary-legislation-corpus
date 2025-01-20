@@ -1,0 +1,347 @@
+Předmět zákona
+Tento zákon upravuje výši pojistného na veřejné zdravotní pojištění (dále jen „pojistné“), penále, způsob jejich placení, kontrolu, vedení centrálního registru pojištěnců, přerozdělování pojistného a zřízení zvláštního účtu veřejného zdravotního pojištění.
+POJISTNÉ
+Výše pojistného
+Výše pojistného činí 13,5 % z vyměřovacího základu za rozhodné období.
+Výši pojistného je jeho plátce povinen si sám vypočítat. Pojistné se zaokrouhluje na celé koruny směrem nahoru.
+Vyměřovací základ
+Vyměřovacím základem zaměstnance je úhrn příjmů ze závislé činnosti, s výjimkou náhrad výdajů poskytovaných procentem z platové základny představitelům státní moci a některých státních orgánů a soudcům, které jsou nebo by byly, pokud by podléhaly zdanění v České republice, předmětem daně z příjmů fyzických osob podle zákona o daních z příjmů a nejsou od této daně osvobozeny a které mu zaměstnavatel zúčtoval v souvislosti se zaměstnáním. Zúčtovaným příjmem se pro účely věty první rozumí plnění, které bylo v peněžní nebo nepeněžní formě nebo formou výhody poskytnuto zaměstnavatelem zaměstnanci nebo předáno v jeho prospěch, popřípadě připsáno k jeho dobru anebo spočívá v jiné formě plnění prováděné zaměstnavatelem za zaměstnance.
+Vyměřovací základ zaměstnance podle odstavce 1 se snižuje o
+náhradu škody podle zákoníku práce a právních předpisů upravujících služební poměry,
+odstupné a další odstupné, odchodné a odbytné, na která vznikl nárok podle zvláštních právních předpisů, a odměna při skončení funkčního období, na kterou vznikl nárok podle zvláštních právních předpisů,
+věrnostní přídavek horníků,
+plnění, které bylo poskytnuto poživateli starobního důchodu nebo invalidního důchodu pro invaliditu třetího stupně po uplynutí jednoho roku ode dne skončení zaměstnání,
+jednorázovou sociální výpomoc poskytnutou zaměstnanci k překlenutí jeho mimořádně obtížných poměrů vzniklých v důsledku živelní pohromy, požáru, ekologické nebo průmyslové havárie nebo jiné mimořádně závažné události.
+Pro stanovení vyměřovacího základu zaměstnance, kterému byly zúčtovány příjmy po skončení zaměstnání, se použijí odstavce 1 a 2 obdobně.
+Pojistné za zaměstnance se stanoví z vyměřovacího základu podle odstavců 1 až 3, nejméně však z minimálního vyměřovacího základu, není-li dále stanoveno jinak.
+Je-li zaměstnanci vyplácen příjem v cizí měně, přepočte se na českou měnu způsobem stanoveným zákonem upravujícím daně z příjmů. Zaměstnavatel je povinen vést ve svých záznamech pro stanovení a odvod pojistného kurz, který použil.
+Minimálním vyměřovacím základem je minimální mzda.
+Je-li zaměstnancem zaměstnavatele zaměstnávajícího více než 50 % osob se zdravotním postižením z celkového průměrného přepočteného počtu svých zaměstnanců osoba, které byl přiznán invalidní důchod, je u ní vyměřovacím základem částka přesahující částku, která je vyměřovacím základem u osoby, za kterou je plátcem pojistného stát.
+Minimální vyměřovací základ neplatí pro osobu:
+s těžkým tělesným, smyslovým nebo mentálním postižením, která je držitelem průkazu ZTP nebo ZTP/P podle zvláštního právního předpisu;
+která dosáhla věku potřebného pro nárok na starobní důchod, avšak nesplňuje další podmínky pro jeho přiznání;
+která celodenně osobně a řádně pečuje alespoň o jedno dítě do sedmi let věku nebo nejméně o dvě děti do 15 let věku. Podmínka celodenní péče se považuje za splněnou, je-li dítě předškolního věku umístěno v jeslích (mateřské škole), popřípadě v obdobném zařízení na dobu, která nepřevyšuje čtyři hodiny denně, a jde-li o dítě plnící povinnou školní docházku, po dobu návštěvy školy, s výjimkou umístění v zařízení s týdenním či celoročním pobytem. Za takovou osobu se považuje vždy pouze jedna osoba, a to buď otec nebo matka dítěte, nebo osoba, která převzala dítě do trvalé péče nahrazující péči rodičů;
+která současně vedle zaměstnání vykonává samostatnou výdělečnou činnost a odvádí zálohy na pojistné vypočtené alespoň z minimálního vyměřovacího základu stanoveného pro osoby samostatně výdělečně činné,
+za kterou je plátcem pojistného stát (§ 3c),
+která je pouze příjemcem odměny pěstouna,
+pokud tyto skutečnosti trvají po celé rozhodné období. Vyměřovacím základem u těchto zaměstnanců je jejich skutečný příjem.
+Minimální vyměřovací základ zaměstnance se snižuje na poměrnou část odpovídající počtu kalendářních dnů, pokud
+zaměstnání netrvalo po celé rozhodné období,
+zaměstnanci bylo poskytnuto pracovní volno pro důležité osobní překážky v práci,
+zaměstnanec se stal v průběhu rozhodného období osobou, za kterou platí pojistné i stát, nebo osobou uvedenou v odstavci 8 písm. a) až c).
+Pokud je vyměřovací základ zaměstnance nižší než minimální vyměřovací základ, je zaměstnanec povinen doplatit zdravotní pojišťovně prostřednictvím svého zaměstnavatele pojistné ve výši 13,5 % z rozdílu těchto základů. Má-li zaměstnanec více zaměstnavatelů, je povinen doplatit pojistné podle předchozí věty prostřednictvím toho zaměstnavatele, kterého si zvolí, a to vždy současně s odvodem pojistného v následujícím kalendářním měsíci. Pokud je vyměřovací základ nižší z důvodů překážek na straně organizace, je tento rozdíl povinen doplatit zaměstnavatel.
+Pro účely pojistného na veřejné zdravotní pojištění se mzdové nároky zaměstnanců vyplacené Úřadem práce České republiky – krajskou pobočkou nebo pobočkou pro hlavní město Prahu (dále jen „krajská pobočka Úřadu práce“) podle zákona o ochraně zaměstnanců při platební neschopnosti zaměstnavatele a o změně některých zákonů považují za příjmy zúčtované zaměstnavatelem zaměstnanci, a to v rozsahu, ve kterém je zaměstnavatel zaměstnancům nezúčtoval. Tyto příjmy jsou vyměřovacím základem zaměstnanců pro daný kalendářní měsíc, případně jeho poměrnou částí, pokud zaměstnavatel vyplatil zaměstnancům mzdu pouze za část měsíce.
+Vyměřovacím základem pracovníka v pracovním vztahu uzavřeném podle cizích právních předpisů je úhrn příjmů zúčtovaných mu zaměstnavatelem v souvislosti s tímto pracovním vztahem, a to ve výši, ve které jsou nebo by byly předmětem daně z příjmů fyzických osob podle zákona o daních z příjmů, s výjimkou příjmů, které tomuto pracovníku nahrazují výdaje jím za zaměstnavatele vynaložené v souvislosti s tímto pracovním vztahem nebo škodou vzniklou v souvislosti s tímto pracovním vztahem, a příjmů uvedených v odstavci 2. Ustanovení o minimálním vyměřovacím základu podle odstavce 6 se použije obdobně.
+Do vyměřovacího základu zaměstnance, kterému podle zákoníku práce nepřísluší náhrada mzdy nebo platu za dovolenou v rozsahu, ve kterém mu tato náhrada přísluší podle právních předpisů členského státu Evropské unie, do něhož byl zaměstnanec vyslán, se zahrnuje náhrada mzdy nebo platu za dovolenou ve výši, v jaké by příslušela tato náhrada za dovolenou podle zákoníku práce, i když nebyla zaměstnavatelem zúčtována; je-li náhrada mzdy nebo platu za dovolenou příslušející podle právních předpisů členského státu vyšší než tato náhrada, která by příslušela podle zákoníku práce, zahrnuje se do vyměřovacího základu zaměstnance též rozdíl mezi těmito náhradami, a to v tom kalendářním měsíci, v němž byla výše tohoto rozdílu zjištěna.
+Vyměřovacím základem osoby samostatně výdělečně činné je 50 % daňového základu; daňovým základem se pro účely tohoto zákona rozumí dílčí základ daně z příjmů ze samostatné činnosti podle zákona o daních z příjmů, které jsou nebo by byly, pokud by podléhaly zdanění v České republice, předmětem daně z příjmů fyzických osob.
+Osoba samostatně výdělečně činná je povinna odvést pojistné z vyměřovacího základu podle odstavce 1. Je-li vyměřovací základ podle odstavce 1 nižší než minimální vyměřovací základ, je osoba samostatně výdělečně činná povinna odvést pojistné z minimálního vyměřovacího základu, není-li dále stanoveno jinak. Minimálním vyměřovacím základem se rozumí dvanáctinásobek 50 % průměrné mzdy; za průměrnou mzdu se pro účely tohoto zákona považuje částka, která se vypočte jako součin všeobecného vyměřovacího základu pro účely důchodového pojištění za kalendářní rok, který o dva roky předchází kalendářnímu roku, pro který se průměrná mzda zjišťuje, a přepočítacího koeficientu pro úpravu tohoto všeobecného vyměřovacího základu s tím, že vypočtená částka se zaokrouhluje na celé koruny nahoru.
+Minimální vyměřovací základ neplatí pro osobu
+uvedenou v § 3 odst. 8 písm. a) až c),
+která současně vedle samostatné výdělečné činnosti je zaměstnancem a odvádí pojistné z tohoto zaměstnání vypočtené alespoň z minimálního vyměřovacího základu stanoveného pro zaměstnance,
+za kterou je plátcem pojistného stát (§ 3c),
+pokud tyto skutečnosti trvají po celé rozhodné období. Vyměřovacím základem u těchto osob je 50 % daňového základu.
+Minimální vyměřovací základ osoby samostatně výdělečně činné se sníží na poměrnou část odpovídající počtu kalendářních měsíců, pokud osoba samostatně výdělečně činná
+nevykonávala samostatnou výdělečnou činnost po celé rozhodné období,
+měla nárok na výplatu nemocenského nebo peněžité pomoci v mateřství jako osoba samostatně výdělečně činná,
+se stala osobou uvedenou v odstavci 3,
+pokud tyto skutečnosti trvaly po celý kalendářní měsíc.
+Vyměřovacím základem osoby samostatně výdělečně činné, jejíž daň z příjmů je rovna paušální dani pro zvolené pásmo paušálního režimu, je pro
+první pásmo paušálního režimu minimální vyměřovací základ podle odstavce 2,
+druhé pásmo paušálního režimu částka 319 200 Kč a
+třetí pásmo paušálního režimu částka 470 400 Kč.
+Vyměřovacím základem osoby samostatně výdělečně činné, jejíž daň z příjmů je rovna jiné paušální dani než pro zvolené pásmo paušálního režimu, je vyměřovací základ pro pásmo paušálního režimu určující výši paušální daně.
+Vyměřovací základ osoby samostatně výdělečně činné, jejíž daň z příjmů je rovna paušální dani, se sníží na poměrnou část odpovídající počtu kalendářních měsíců, po které byla osoba samostatně výdělečně činná poplatníkem v paušálním režimu. Pro vyměřovací základ osoby samostatně výdělečně činné, jejíž daň z příjmů je rovna paušální dani, a osoby samostatně výdělečně činné, která byla alespoň po část rozhodného období poplatníkem v paušálním režimu a jejíž daň z příjmů není rovna paušální dani, se nepoužijí odstavce 3 a 4.
+Vyměřovacím základem u osoby, která po celý kalendářní měsíc nemá příjmy ze zaměstnání, ze samostatné výdělečné činnosti a není za ni plátcem pojistného stát (§ 3c) (dále jen „osoba bez zdanitelných příjmů“) je minimální mzda.
+Vyměřovací základ pro pojistné hrazené státem za osobu, za kterou je podle zvláštního právního předpisu plátcem pojistného stát, se stanoví ve výši 14 074 Kč na kalendářní měsíc.
+Vyměřovací základ se od 1. ledna kalendářního roku vždy zvyšuje o součet růstu cen a jedné poloviny růstu reálné mzdy podle odstavců 3 až 5 a zaokrouhluje se na celé koruny nahoru. Výši takto zvýšeného vyměřovacího základu stanoví vláda nařízením do 30. září kalendářního roku, který o jeden rok předchází kalendářnímu roku, na něhož se vyměřovací základ určuje, a to poprvé k 1. lednu 2024.
+Růst cen se stanoví jako procentní přírůstek indexu spotřebitelských cen v červnu kalendářního roku, který o jeden rok předchází kalendářnímu roku, do něhož spadá termín zvýšení vyměřovacího základu oproti tomuto indexu v červnu kalendářního roku, který o dva roky předchází kalendářnímu roku, do něhož spadá termín zvýšení vyměřovacího základu s tím, že tento růst se stanoví se zaokrouhlením na jedno platné desetinné místo a podíl pro jeho stanovení činí vždy nejméně 1. Výpočet růstu cen se provádí z originálních bazických úhrnných indexů spotřebitelských cen (životních nákladů) za domácnosti celkem zjištěných Českým statistickým úřadem.
+Období pro zjišťování růstu reálné mzdy se stanoví tak, že prvním rokem tohoto období je kalendářní rok následující po posledním kalendářním roce období pro zjišťování růstu reálné mzdy použitého při předchozím zvýšení vyměřovacího základu, při kterém bylo přihlédnuto k růstu reálné mzdy, a posledním rokem tohoto období je kalendářní rok, který o dva roky předchází kalendářnímu roku, do něhož spadá termín zvýšení vyměřovacího základu. Pokud je ve stanoveném období podíl pro stanovení růstu reálné mzdy podle odstavce 5 nižší než 1, přihlédne se k růstu reálné mzdy až při tom zvýšení vyměřovacího základu, při kterém je tento podíl vyšší než 1.
+Růst reálné mzdy se stanoví v procentech po zaokrouhlení na jedno platné desetinné místo podle podílu, v jehož čitateli je podíl všeobecného vyměřovacího základu za poslední kalendářní rok období pro zjišťování růstu reálné mzdy a všeobecného vyměřovacího základu za kalendářní rok, který bezprostředně předchází prvnímu kalendářnímu roku tohoto období, a ve jmenovateli je podíl průměrného ročního indexu spotřebitelských cen za domácnosti celkem vypočteného z originálních bazických indexů spotřebitelských cen zjištěných Českým statistickým úřadem za poslední kalendářní rok tohoto období a uvedeného průměrného ročního indexu za kalendářní rok, který bezprostředně předchází prvnímu kalendářnímu roku tohoto období.
+Vyměřovacím základem u osoby, která je po celý kalendářní měsíc pojištěncem podle § 2 odst. 1 písm. b) bodu 9 nebo 11 zákona o veřejném zdravotním pojištění, je minimální mzda.
+Rozhodné období
+Rozhodné období, z něhož se zjišťuje vyměřovací základ, je kalendářní měsíc, za který se pojistné platí, pokud se dále nestanoví jinak.
+U osoby samostatně výdělečně činné je rozhodným obdobím kalendářní rok, za který se pojistné platí.
+U osoby uvedené v § 3d je rozhodným obdobím období ode dne jejího narození do konce kalendářního měsíce, v němž tato osoba dovršila 60 dnů věku.
+Odvod pojistného za zaměstnance
+Zaměstnavatel odvádí část pojistného, které je povinen hradit za své zaměstnance. Současně odvádí i část pojistného, které je povinen hradit zaměstnanec, srážkou z jeho mzdy nebo platu, a to i bez souhlasu zaměstnance.
+Pojistné podle odstavce 1 se platí za jednotlivé kalendářní měsíce a je splatné od 1. do 20. dne následujícího kalendářního měsíce.
+Pojistné se odvádí na účet Všeobecné zdravotní pojišťovny České republiky nebo jiné zdravotní pojišťovny provádějící veřejné zdravotní pojištění (dále jen „příslušná zdravotní pojišťovna“), u níž je pojištěnec pojištěn.
+Právní nástupce zaměstnavatele ručí za pojistné, které měl platit předchůdce. Příslušná zdravotní pojišťovna je povinna na žádost právního nástupce vykázat evidovanou výši dlužného pojistného.
+Odvod pojistného za osoby samostatně výdělečně činné
+Osoby samostatně výdělečně činné platí pojistné formou záloh na pojistné a doplatku pojistného, pokud se dále nestanoví jinak. Kde se v dalších ustanoveních hovoří o pojistném, rozumí se tím též zálohy na pojistné a doplatek pojistného.
+Osoba samostatně výdělečně činná platí zálohy na pojistné na účet příslušné zdravotní pojišťovny za celý kalendářní měsíc. Záloha na pojistné je splatná od prvního dne kalendářního měsíce, na který se platí, do osmého dne následujícího kalendářního měsíce. Zálohy na pojistné se neplatí za kalendářní měsíce, v nichž byla osoba samostatně výdělečně činná uznána po celý kalendářní měsíc neschopnou práce, nebo jí byla nařízena karanténa podle zvláštních právních předpisů.
+Odvod pojistného poplatníka v paušálním režimu
+Při placení záloh na pojistné osoby samostatně výdělečně činné, která je poplatníkem v paušálním režimu, a pojistného osoby samostatně výdělečně činné, jejíž daň z příjmů je rovna paušální dani, se postupuje podle zákona upravujícího daně z příjmů.
+Osoba zahajující samostatnou výdělečnou činnost hradí v prvním kalendářním roce této činnosti měsíční zálohy na pojistné vypočtené z minimálního vyměřovacího základu, pokud si sama nestanoví zálohu vyšší. Pokud za osobu zahajující samostatnou výdělečnou činnost je plátcem pojistného i stát, není tato osoba povinna v prvním kalendářním roce této činnosti platit zálohy na pojistné; pojistné zaplatí formou doplatku podle odstavce 4.
+Ve druhém roce a v následujících letech výkonu samostatné výdělečné činnosti se výše zálohy na pojistné stanoví procentní sazbou uvedenou v § 2 z měsíčního vyměřovacího základu. Měsíční vyměřovací základ činí průměr, který z vyměřovacího základu určeného podle § 3a pro stanovení pojistného ze samostatné výdělečné činnosti za předcházející kalendářní rok připadá na jeden kalendářní měsíc s tím, že se přihlíží jen k těm kalendářním měsícům, v nichž byla samostatná výdělečná činnost vykonávána alespoň po část tohoto měsíce. Takto vypočtené zálohy se poprvé zaplatí za kalendářní měsíc, ve kterém byl nebo měl být podán přehled podle § 24 odst. 2, a naposledy za kalendářní měsíc předcházející kalendářnímu měsíci, ve kterém byl nebo měl být takový přehled předložen v dalším kalendářním roce.
+Osoba samostatně výdělečně činná, která je současně zaměstnancem a samostatná výdělečná činnost není hlavním zdrojem jejích příjmů, není povinna platit zálohy na pojistné; pojistné zaplatí nejpozději do 8 dnů po dni, ve kterém byl, popřípadě měl být podán přehled podle § 24 odst. 2 za kalendářní rok, za který se pojistné platí.
+Zdravotní pojišťovna na žádost osoby samostatně výdělečně činné poměrně sníží výši zálohy na pojistné, a to v případě, že příjem této osoby ze samostatné výdělečné činnosti je po odpočtu výdajů vynaložených na dosažení, zajištění a udržení příjmu, který připadá v průměru na 1 kalendářní měsíc v období od 1. ledna kalendářního roku do konce kalendářního měsíce předcházejícího podání žádosti, nejméně však v období 3 po sobě jdoucích kalendářních měsíců, nejméně o jednu třetinu nižší než příjem připadající v průměru na 1 kalendářní měsíc v předcházejícím roce, v němž alespoň po část měsíce byla vykonávána samostatná výdělečná činnost. Snížení lze provést na dobu nejdéle do konce kalendářního měsíce, který předchází kalendářnímu měsíci, v němž byl nebo měl být podán přehled podle § 24 odst. 2.
+Doplatek rozdílu mezi zálohami a skutečnou výší pojistného vypočteného podle § 3a je splatný vždy nejpozději do 8 dnů po dni, ve kterém byl, popřípadě měl být podán přehled podle § 24 odst. 2 za kalendářní rok, za který se pojistné platí.
+Je-li úhrn záloh na pojistné zaplacených za rozhodné období vyšší než pojistné stanovené podle § 2 odst. 1, jedná se o přeplatek pojistného (§ 14).
+Na částky převedené orgány Finanční správy České republiky ze společného osobního daňového účtu osoby samostatně výdělečně činné, jejíž daň z příjmů nebyla rovna paušální dani a která má povinnost nebo možnost podat přehled o daňovém základu, se hledí jako na zálohy zaplacené příslušné zdravotní pojišťovně.
+Záloha na pojistné poplatníka v paušálním režimu
+Záloha na pojistné osoby samostatně výdělečně činné, která je poplatníkem v paušálním režimu, se pro zvolené pásmo paušálního režimu stanoví procentní sazbou uvedenou v § 2 z jedné dvanáctiny vyměřovacího základu stanoveného v § 3a odst. 5 pro dané zvolené pásmo paušálního režimu.
+Odvod pojistného za osoby bez zdanitelných příjmů
+Osoba bez zdanitelných příjmů platí pojistné na účet příslušné zdravotní pojišťovny za celý kalendářní měsíc. Pojistné je splatné od prvního dne kalendářního měsíce, za který se platí, do osmého dne následujícího kalendářního měsíce.
+Osoba bez zdanitelných příjmů, která pracuje v zahraničí pro zaměstnavatele, který nemá na území České republiky sídlo, ani místo podnikání, může projednat s příslušnou zdravotní pojišťovnou jiný způsob hrazení pojistného. Příslušná zdravotní pojišťovna může na žádost takové osoby povolit placení pojistného za delší, než měsíční období, avšak vždy jen dopředu.
+Odvod pojistného za děti cizinců
+Za osoby uvedené v § 3d platí pojistné zákonný zástupce, opatrovník nebo poručník na účet příslušné zdravotní pojišťovny za celý kalendářní měsíc. Pojistné je splatné od prvního dne kalendářního měsíce, za který se platí, do osmého dne následujícího kalendářního měsíce.
+Odvod pojistného hrazeného státem
+Za osoby, za které je plátcem pojistného stát, hradí měsíčně pojistné ministerstvo financí České republiky na zvláštní účet zřízený podle § 20, a to do 25. dne předcházejícího kalendářního měsíce.
+V případě sezónních výkyvů v platbách za poskytované zdravotní služby hrazené z veřejného zdravotního pojištění podle zákona o veřejném zdravotním pojištění (dále jen „hrazené služby“) je ministr financí zmocněn v průběhu rozpočtového roku poskytnout návratnou finanční výpomoc splatnou v témže roce a změnit frekvenci a výši plateb státu do systému veřejného zdravotního pojištění uvnitř rozpočtového roku na základě žádosti správce zvláštního účtu. Žádost bude posuzována podle vývoje příjmů a výdajů ve státním rozpočtu. Úpravy plateb podle tohoto zmocnění nesmí ovlivnit částku rozpočtovanou ve schváleném státním rozpočtu na platbu státu podle § 3c tohoto zákona.
+Odvod pojistného při souběhu příjmů
+Má-li pojištěnec současně více příjmů podle § 3 nebo § 3a, odvádí pojistné ze všech těchto příjmů.
+Přeplatek pojistného
+Nárok na vrácení přeplatku se promlčuje za 10 let od uplynutí kalendářního roku, v němž vznikl.
+Přeplatek pojistného, činí-li úhrnná výše tohoto přeplatku nejméně 200 Kč, se vrací plátci pojistného nebo jeho právnímu nástupci, pokud není jiného splatného závazku vůči příslušné zdravotní pojišťovně. Je-li takový závazek, použije se přeplatku pojistného k jeho úhradě. Příslušná zdravotní pojišťovna je povinna vrátit přeplatek pojistného do jednoho měsíce ode dne, kdy tento přeplatek zjistila. Byla-li v souladu s tímto ustanovením podána žádost o vrácení přeplatku pojistného a příslušná zdravotní pojišťovna vrátila tento přeplatek po uplynutí lhůty stanovené pro rozhodnutí o přeplatku pojistného, je povinna zaplatit penále. Za den platby se považuje u bezhotovostních převodů z účtu banky den, kdy bylo uskutečněno odepsání z účtu zdravotní pojišťovny, u plateb v hotovosti den, kdy banka, pošta nebo jiná oprávněná osoba hotovost přijala nebo převzala. Za žádost o vrácení přeplatku pojistného se považuje vždy podání přehledu podle § 24 odst. 2, vyplývá-li z něho přeplatek pojistného a jestliže plátce pojistného nepožádal o použití přeplatku pojistného na úhradu zálohy na pojistné na další období.
+Vrácený přeplatek na pojistném se v následujícím kalendářním měsíci zúčtuje s poukázanými finančními prostředky podle § 21 odst. 1.
+Úhrada dlužného pojistného
+Dlužné pojistné jsou osoby uvedené v předchozích ustanoveních povinny doplatit. Doplatek je splatný na účet té zdravotní pojišťovny, u které byla osoba pojištěna v období, za něž dluží pojistné. Pokud byla osoba pojištěna u několika zdravotních pojišťoven, je doplatek pojistného stanoven poměrně podle doby pojištění u každé zdravotní pojišťovny a je splatný na účet každé takové pojišťovny. Nedoplatky pojistného, jejichž výše v úhrnu nepřesahuje u jednoho plátce pojistného a jedné pojišťovny 200 Kč, nelze vymáhat.
+Má-li plátce pojistného vůči zdravotní pojišťovně splatný závazek, je povinen ho splácet v tomto pořadí:
+pokuty,
+přirážka k pojistnému,
+nejstarší nedoplatky pojistného,
+běžné platby pojistného,
+penále.
+Jednotlivé dlužné částky podle písmen a) až e) je plátce pojistného povinen odvádět samostatně na příslušné účty zdravotní pojišťovny.
+Pokud plátce pojistného nedodrží pořadí podle odstavce 2, je oprávněna jeho platbu ve stanoveném pořadí použít příslušná zdravotní pojišťovna. Takovou skutečnost je povinna plátci pojistného oznámit.
+Promlčení pojistného
+Právo předepsat dlužné pojistné se promlčuje za 10 let ode dne splatnosti. Byl-li proveden úkon ke zjištění výše pojistného nebo jeho vyměření, plyne nová promlčecí lhůta ode dne, kdy se o tom plátce pojistného dozvěděl.
+Právo vymáhat pojistné se promlčuje ve lhůtě 10 let od právní moci platebního výměru, jímž bylo vyměřeno. Promlčecí doba neběží po dobu řízení u soudu.
+Způsob placení pojistného
+Pojistné se platí v české měně
+na účet zdravotní pojišťovny vedený u poskytovatele platebních služeb,
+vyplacením v hotovosti zaměstnanci příslušné zdravotní pojišťovny pověřenému přijímat pojistné.
+Za den platby pojistného se považuje
+v případě placení na účet zdravotní pojišťovny vedený u poskytovatele platebních služeb den, kdy dojde k připsání pojistného na účet poskytovatele platebních služeb zdravotní pojišťovny,
+v případě vyplacení hotovosti přímo zaměstnanci příslušné zdravotní pojišťovny den, kdy příslušný zaměstnanec hotovost přijal.
+Poskytovatel platebních služeb, u kterého je veden účet příslušné zdravotní pojišťovny, je povinen poskytnout zdravotní pojišťovně informaci o dni, kdy došlo k připsání částky na účet poskytovatele platebních služeb příslušné zdravotní pojišťovny a o čísle účtu plátce nebo jeho jiném jedinečném identifikátoru.
+Držitel poštovní licence, který přijal platbu k úhradě poštovním poukazem, ji předá k provedení převodu poskytovateli platebních služeb, který vede jeho účet, do 2 pracovních dnů ode dne, kdy platbu přijal; pro další převod této platby se uplatní lhůty podle zákona o platebním styku.
+Pokud držitel poštovní licence nedodrží lhůtu podle odstavce 4, je povinen uhradit příslušné zdravotní pojišťovně úrok ve výši dvojnásobku diskontní sazby České národní banky platné v první den kalendářního čtvrtletí, v němž měl uhrazenou částku nejpozději převést. Držitel poštovní licence je rovněž povinen převést příslušné zdravotní pojišťovně úrok, který mu uhradí poskytovatel platebních služeb za nedodržení lhůt podle zákona o platebním styku.
+PENÁLE
+Nebylo-li pojistné nebo záloha na pojistné zaplaceno ve stanovené lhůtě anebo bylo-li zaplaceno v nižší částce, než ve které mělo být zaplaceno, je plátce pojistného povinen platit penále. Pokud bylo pojistné nebo záloha na pojistné zaplaceno jiné než příslušné zdravotní pojišťovně, popřípadě jinému subjektu, nebo pokud platba byla poukázána pod nesprávným variabilním symbolem, považuje se pojistné nebo záloha na pojistné za nezaplacené ve stanovené lhůtě. Výše penále se stanoví podle předpisů práva občanského o výši úroku z prodlení.
+Nebyl-li přeplatek na pojistném vrácen příslušnou zdravotní pojišťovnou ve stanovené lhůtě (§ 14 odst. 2), je příslušná zdravotní pojišťovna ode dne následujícího po dni splatnosti do dne platby včetně povinna platit za každý den penále ve výši 0,05 % dlužné částky.
+Každá platba penále se zaokrouhluje na celé koruny směrem nahoru.
+Penále se nepředepíše, nepřesáhne-li v úhrnu 100 Kč za jeden kalendářní rok.
+Zdravotní pojišťovna penále nepředepíše, pokud plátce prokáže, že provedl platbu na účet příslušné zdravotní pojišťovny, ale pod nesprávným variabilním symbolem.
+Pro účely zvláštních právních předpisů se za dlužné pojistné považuje i dlužné penále.
+Pokud jde o splatnost penále, způsob jeho placení, vymáhání, promlčení a vracení přeplatku na penále, postupuje se stejně jako u pojistného.
+PŘEROZDĚLOVÁNÍ POJISTNÉHO
+Obecná ustanovení o přerozdělování
+Všeobecná zdravotní pojišťovna České republiky zřizuje a spravuje zvláštní účet veřejného zdravotního pojištění (dále jen „zvláštní účet“). Zvláštní účet slouží k přerozdělování pojistného a dalších příjmů zvláštního účtu. Všeobecná zdravotní pojišťovna České republiky (dále jen „správce zvláštního účtu“) vede zvláštní účet odděleně od ostatních účtů a fondů, které spravuje.
+Předmětem přerozdělování je pojistné vybrané všemi zdravotními pojišťovnami a příjmy zvláštního účtu, kterými jsou
+celkové platby státu za pojištěnce, za něž je stát plátcem pojistného,
+jiná plnění, která jsou na základě tohoto zákona nebo zvláštních právních předpisů příjmem zvláštního účtu,
+úroky připsané na zvláštní účet a
+zálohy na pojistné osob samostatně výdělečně činných, které jsou poplatníky v paušálním režimu, s výjimkou části záloh převyšující pojistné těchto osob, pokud je jejich daň rovna paušální dani pojistné osob samostatně výdělečně činných, jejichž daň je rovna paušální dani, jejich příslušenství spravované orgány Finanční správy České republiky a přeplatek na společném osobním daňovém účtu, který se stal podle zákona o daních z příjmů příjmem zvláštního účtu.
+Z prostředků na zvláštním účtu se hradí náklady na jeho vedení a na účetní operace. O úhrn těchto nákladů se snižuje celková částka určená k přerozdělování (dále jen „částka určená k přerozdělování“).
+Přerozdělování se provádí podle indexů a podle nákladných hrazených služeb.
+Přerozdělováním podle indexů se rozumí měsíční přerozdělování pojistného jednotlivým zdravotním pojišťovnám podle nákladových indexů věkových skupin a farmaceuticko-nákladových skupin a podle korekcí pro souběh skupin podle § 21. Věkovou skupinou se rozumí každá z nákladových věkových skupin pojištěnců uvedených v příloze č. 1 k tomuto zákonu. Farmaceuticko-nákladovou skupinou se rozumí nákladová skupina, do níž jsou podle spotřeby léčivých přípravků zařazeni pojištěnci s onemocněním v chronickém stadiu. Nákladový index věkové skupiny a farmaceuticko-nákladové skupiny vyjadřuje, jak se v přímé souvislosti s příslušností pojištěnce do dané skupiny liší předpokládané roční náklady na hrazené služby takového pojištěnce oproti předpokládaným průměrným ročním nákladům na jednoho pojištěnce v systému veřejného zdravotního pojištění. Nákladový index pojištěnce vyjadřuje, kolikrát se předpokládané roční náklady na hrazené služby daného pojištěnce liší od předpokládaných průměrných ročních nákladů na jednoho pojištěnce v systému veřejného zdravotního pojištění. Do průměrných nákladů na jednoho pojištěnce v systému veřejného zdravotního pojištění nejsou zahrnuty náklady, které jsou předmětem přerozdělování podle odstavce 6. Způsob výpočtu nákladového indexu pojištěnce upravuje příloha č. 2 k tomuto zákonu.
+Přerozdělováním podle nákladných hrazených služeb se rozumí měsíční zálohové přerozdělování pojistného jednotlivým zdravotním pojišťovnám podle § 21a s ročním vyúčtováním podle § 21c, prováděné podle příslušnosti pojištěnců ke zdravotní pojišťovně, za které byly těmito zdravotními pojišťovnami uhrazeny nákladné hrazené služby.
+Zdravotní pojišťovny pro účely přerozdělování oceňují způsobem stanoveným prováděcím právním předpisem vydaným podle § 21f písm. d) náklady na zdravotní služby vykázané poskytovateli zdravotních služeb za předchozí kalendářní rok.
+Při změně zdravotní pojišťovny podle zákona o veřejném zdravotním pojištění je zdravotní pojišťovna, u které byl pojištěnec pojištěn, povinna bezplatně předat nové zdravotní pojišťovně pojištěnce údaje o spotřebě léčivých přípravků pojištěnce potřebné pro zařazení pojištěnce do farmaceuticko-nákladových skupin. Rozsah, způsob a lhůty předávání těchto údajů stanoví Ministerstvo zdravotnictví vyhláškou.
+Systém přerozdělování
+Částku určenou k přerozdělování přerozděluje správce zvláštního účtu mezi zdravotní pojišťovny podle proměnlivých parametrů přerozdělování, kterými jsou nastavitelné parametry přerozdělování a vypočítané parametry přerozdělování. Postup pro stanovení proměnlivých parametrů přerozdělování je uveden v příloze č. 2 k tomuto zákonu.
+Nastavitelnými parametry přerozdělování jsou
+seznam farmaceuticko-nákladových skupin; seznam farmaceuticko-nákladových skupin obsahuje farmaceuticko-nákladové skupiny zařazené do přerozdělování pro příslušné období přerozdělování a dále pravidla, podle kterých se do těchto skupin zařazují pojištěnci,
+seznam kombinací věkové skupiny s farmaceuticko-nákladovou skupinou a dvou farmaceuticko-nákladových skupin navzájem (dále jen „kombinace skupin“), který stanoví, pro které kombinace skupin budou počítány korekce pro souběh skupin,
+koeficient pro výpočet zajišťovací konstanty, jímž se stanoví objem prostředků, které budou přerozdělovány v přerozdělování podle nákladných hrazených služeb, a
+hranice spotřeby léčiv pro zařazení pojištěnce do farmaceuticko-nákladové skupiny, která označuje minimální spotřebu obvyklých denních terapeutických dávek léčivých přípravků, a pokud nemá léčivý přípravek přiřazen údaj o počtu obvyklých denních terapeutických dávek v seznamu vydávaném podle § 39n odst. 1 zákona o veřejném zdravotním pojištění, použije se údaj o počtu definovaných denních dávek podle tohoto seznamu (dále jen „obvyklá denní terapeutická dávka“), nutnou pro zařazení pojištěnce do farmaceuticko-nákladové skupiny podle seznamu farmaceuticko-nákladových skupin.
+Vypočítanými parametry přerozdělování jsou
+nákladové indexy věkových skupin a farmaceuticko-nákladových skupin,
+korekce pro souběh skupin, pokud byly stanoveny kombinace skupin, pro které mají být korekce počítány; korekcí pro souběh skupin se rozumí nákladový index, který se při počítání nákladového indexu pojištěnce započítává u pojištěnce s předem definovanou kombinací skupin, a
+zajišťovací konstanta, která slouží ke stanovení hranice nákladovosti pojištěnce, při jejímž překročení jsou zdravotním pojišťovnám za příslušného pojištěnce hrazeny prostředky v přerozdělování podle nákladných hrazených služeb, a pro stanovení výše prostředků z přerozdělování podle nákladných hrazených služeb, která zdravotním pojišťovnám za tyto pojištěnce náleží.
+Obdobím přerozdělování je kalendářní rok.
+Nastavitelné parametry přerozdělování stanovené prováděcím právním předpisem podle § 21f písm. a) se použijí pro výpočet vypočítaných parametrů přerozdělování.
+Zdravotní pojišťovny zašlou Ministerstvu zdravotnictví do 31. července v anonymizované podobě údaje za předcházející kalendářní rok stanovené prováděcím právním předpisem vydaným podle § 21f písm. a). Ministerstvo zdravotnictví do 15. září vypočte a zašle Dozorčímu orgánu nad přerozdělováním prostředků veřejného zdravotního pojištění (dále jen „Dozorčí orgán“) a zdravotním pojišťovnám vypočítané parametry přerozdělování, které se použijí pro následující období přerozdělování. Ve stejné lhůtě Ministerstvo zdravotnictví zašle Dozorčímu orgánu a zdravotním pojišťovnám údaje, na jejichž základě byly vypočítané parametry vypočteny, a to bez uvedení údajů o příslušnosti pojištěnců ke zdravotní pojišťovně.
+Měsíční přerozdělování podle indexů
+Příslušná zdravotní pojišťovna sdělí do osmého dne kalendářního měsíce správci zvláštního účtu
+počty svých pojištěnců v jednotlivých věkových skupinách a farmaceuticko-nákladových skupinách pojištěných u těchto pojišťoven k prvnímu dni tohoto kalendářního měsíce, a to včetně počtu pojištěnců s kombinací těchto skupin v případech, kdy se na tyto kombinace vztahují platné korekce pro souběh skupin,
+počty svých pojištěnců pojištěných k prvnímu dni tohoto kalendářního měsíce u těchto pojišťoven v členění podle zákona o veřejném zdravotním pojištění, za které je od prvního dne tohoto kalendářního měsíce plátcem pojistného stát,
+výši pojistného vybraného za předchozí kalendářní měsíc,
+počty pojištěnců podle písmen a) a b), platné k prvnímu dni kalendářního měsíce předcházejícího o 3 měsíce příslušné přerozdělování a
+v případě, že došlo oproti předchozímu kalendářnímu roku ke změně nastavitelných parametrů přerozdělování podle § 20a odst. 2 písm. a), b) nebo d), v kalendářním měsíci lednu počty pojištěnců podle písmene a), platné k prvnímu dni kalendářních měsíců října, listopadu a prosince předchozího kalendářního roku tak, jak byly známy příslušné zdravotní pojišťovně v těchto měsících, v jednotlivých věkových skupinách, farmaceuticko-nákladových skupinách a kombinacích těchto skupin v případech, kdy se na tyto kombinace vztahují platné korekce pro souběh skupin, účinných ke dni tohoto sdělení.
+Údaje podle odstavce 1 sděluje zdravotní pojišťovna v elektronické podobě datovou zprávou vytvořenou v elektronické aplikaci, kterou k zajištění jednotné formy sdělovaných údajů zdravotními pojišťovnami správci zvláštního účtu vytváří a aktualizuje Ministerstvo zdravotnictví a kterou zdravotním pojišťovnám za tímto účelem bezplatně poskytuje.
+Správce zvláštního účtu vypočítá rozdíly mezi počty pojištěnců sdělenými podle odstavce 1 písm. d) a počty pojištěnců známými příslušné pojišťovně v kalendářním měsíci o 3 měsíce předcházejícím příslušné přerozdělování a sdělenými správci zvláštního účtu podle odstavce 1 písm. b) a
+podle odstavce 1 písm. e), pokud byly takto sděleny, a
+podle odstavce 1 písm. a) v ostatních případech.
+O rozdíly podle věty první upraví správce zvláštního účtu počty pojištěnců sdělené příslušnou pojišťovnou v kalendářním měsíci podle odstavce 1 písm. a) a b).
+Počty pojištěnců, za které je plátcem pojistného stát, sdělené příslušnými zdravotními pojišťovnami správci zvláštního účtu podle odstavce 1 písm. b) a upravené podle odstavce 3, jsou podkladem pro platbu pojistného státem. Správce zvláštního účtu oznámí celkový počet pojištěnců podle věty první Ministerstvu financí do dvanáctého dne kalendářního měsíce.
+Správce zvláštního účtu oznámí do patnáctého dne kalendářního měsíce každé zdravotní pojišťovně celkovou částku, která na ni připadá z přerozdělování podle indexů. Celkovou částku pro příslušnou zdravotní pojišťovnu tvoří podíl na standardizovaného pojištěnce, vynásobený počtem standardizovaných pojištěnců příslušné zdravotní pojišťovny.
+Počet standardizovaných pojištěnců příslušné zdravotní pojišťovny se stanoví jako součet nákladových indexů všech jejích pojištěnců.
+Podíl na standardizovaného pojištěnce se stanoví tak, že se částka určená k přerozdělování v kalendářním měsíci, snížená o celkovou částku měsíčních záloh pro takový kalendářní měsíc z přerozdělování podle nákladných hrazených služeb podle § 21a odst. 4, vydělí celkovým počtem standardizovaných pojištěnců všech zdravotních pojišťoven.
+Přerozdělování podle nákladných hrazených služeb
+Nákladnými hrazenými službami se rozumí hrazené služby poskytnuté pojištěncům, u nichž výše úhrady příslušnou zdravotní pojišťovnou za jednoho pojištěnce překročila v jednom období přerozdělování částku odpovídající součtu příjmu zdravotní pojišťovny na tohoto pojištěnce z přerozdělování podle indexů a zajišťovací konstanty (dále jen „nákladný pojištěnec“). Postup výpočtu příjmu zdravotní pojišťovny na pojištěnce z přerozdělování podle indexů a zajišťovací konstanty stanoví příloha č. 2 k tomuto zákonu.
+Příslušná zdravotní pojišťovna má nárok na úhradu kompenzace za nákladné hrazené služby, která tvoří
+80 % částky, o kterou náklady na nákladné hrazené služby překročí částku podle odstavce 1, nejvýše však částku ve výši čtyřnásobku zajišťovací konstanty, a dále
+95 % částky, o kterou náklady na nákladné hrazené služby překročí součet šestinásobku zajišťovací konstanty a příjmu zdravotní pojišťovny na příslušného pojištěnce z přerozdělování podle indexů.
+Kompenzace za nákladné hrazené služby se poskytuje formou měsíčních zálohových plateb a ročního vyúčtování po skončení příslušného kalendářního roku.
+Celkový objem finančních prostředků na měsíční zálohové platby zdravotním pojišťovnám je pro každý kalendářní měsíc stanoven procentním podílem z částky určené k přerozdělování v tomto kalendářním měsíci. Tento podíl odpovídá podílu celkové částky kompenzací za nákladné hrazené služby přiznaných v posledním účetně uzavřeném kalendářním roce všem zdravotním pojišťovnám a celkové částky určené k přerozdělování v posledním účetně uzavřeném kalendářním roce.
+Příslušné zdravotní pojišťovně náleží měsíční zálohová platba ve výši procentního podílu z celkového objemu finančních prostředků na měsíční zálohové platby podle odstavce 4. Tento podíl odpovídá podílu celkové částky kompenzací za nákladné hrazené služby přiznaných příslušné pojišťovně v posledním účetně uzavřeném kalendářním roce a celkové částky kompenzací za nákladné hrazené služby přiznaných v posledním účetně uzavřeném kalendářním roce všem pojišťovnám.
+Správce zvláštního účtu oznámí do patnáctého dne kalendářního měsíce všem zdravotním pojišťovnám výši měsíční zálohy, která na ně připadá z přerozdělování podle nákladných hrazených služeb.
+Měsíční platby
+Přesahuje-li pojistné vybrané příslušnou zdravotní pojišťovnou za předchozí kalendářní měsíc součet částek, které na ni připadají z přerozdělování podle indexů a z přerozdělování podle nákladných hrazených služeb a které jí oznámil správce zvláštního účtu podle § 21 odst. 5 a § 21a odst. 6, uhradí tato zdravotní pojišťovna přebývající finanční prostředky na zvláštní účet do dvacátého pátého dne kalendářního měsíce, v němž jí byly částky oznámeny. Zdravotní pojišťovně, která povinnost podle věty první nesplní, vyměří Ministerstvo zdravotnictví penále ve výši 0,1 % z dlužné částky za každý kalendářní den následující po dni splatnosti do dne platby včetně. Penále je příjmem zvláštního účtu. Penále nesmí zdravotní pojišťovna hradit z prostředků základního fondu zdravotního pojištění nebo z prostředků rezervního fondu.
+Nedosahuje-li pojistné vybrané příslušnou zdravotní pojišťovnou za předchozí kalendářní měsíc součet částek, které na ni připadají z přerozdělování podle indexů a z přerozdělování podle nákladných hrazených služeb a které jí oznámil správce zvláštního účtu podle § 21 odst. 5 a § 21a odst. 6, poukáže správce zvláštního účtu této zdravotní pojišťovně chybějící finanční prostředky do 15 pracovních dnů ode dne, kdy zdravotní pojišťovně tyto částky oznámil. Nesplní-li správce zvláštního účtu povinnost podle věty první, vyměří Ministerstvo zdravotnictví správci zvláštního účtu penále ve výši 0,1 % z dlužné částky za každý den následující po dni splatnosti do dne platby včetně. Penále je příjmem zdravotní pojišťovny, vůči které správce zvláštního účtu nesplnil povinnost podle věty první. Penále nesmí správce zvláštního účtu hradit z prostředků zvláštního účtu, základního fondu zdravotního pojištění nebo z prostředků rezervního fondu. Podle věty druhé se nepostupuje, pokud důvodem nesplnění povinnosti správcem zvláštního účtu je nesplnění povinnosti některé zdravotní pojišťovny podle odstavce 1.
+Vyúčtování nákladných hrazených služeb a společná kontrolní skupina
+Zdravotní pojišťovna vyúčtuje správci zvláštního účtu v termínu stanoveném pro předkládání výročních zpráv po účetním uzavření kalendářního roku všechny své nákladné pojištěnce za takový rok, celkovou úhradu za jednotlivé pojištěnce, do níž se započítávají i náhrady za zdravotní služby čerpané v zahraničí, a výši kompenzací za nákladné hrazené služby podle § 21a odst. 2. Zdravotní pojišťovna sestaví vyúčtování svých nákladných pojištěnců v elektronické aplikaci podle § 21 odst. 2. Správce zvláštního účtu je oprávněn údaje uvedené ve větě první požadovat i v jiném termínu, rozhodne-li tak Dozorčí orgán; v takovém případě jsou zdravotní pojišťovny povinny předložit údaje ve lhůtě do 30 kalendářních dnů ode dne jejich vyžádání.
+Na kontrole oprávněnosti a správnosti vyúčtování nákladných hrazených služeb se podílejí všechny zdravotní pojišťovny. Správce zvláštního účtu provádí kontrolu prostřednictvím společné kontrolní skupiny složené z revizních lékařů všech zdravotních pojišťoven. Pro účely tohoto zákona jsou revizní lékaři delegovaní jednotlivými zdravotními pojišťovnami do kontrolní skupiny oprávněni kontrolovat vyúčtování nákladných hrazených služeb předložené kteroukoli zdravotní pojišťovnou. Správce zvláštního účtu prostřednictvím společné kontrolní skupiny provádí též kontrolu správnosti zařazení pojištěnců do farmaceuticko-nákladových skupin.
+Příslušná zdravotní pojišťovna je povinna sdělit správci zvláštního účtu bez zbytečných průtahů případy, kdy na základě kontroly snížila poskytovateli úhradu nákladných hrazených služeb a výši tohoto snížení. Správce zvláštního účtu toto snížení provede v rámci ročního vyúčtování kompenzací za nákladné hrazené služby.
+Správce zvláštního účtu vypočte do 90 dnů ode dne převzetí vyúčtování celkové částky, na které mají jednotlivé zdravotní pojišťovny nárok podle § 21a odst. 2, a porovná je s celkovou výší jim poskytnutých zálohových plateb. Zjistí-li správce zvláštního účtu rozdíl mezi nároky a výší zálohových plateb větší než 0,01 % celkové výše zálohových plateb, vypořádá tento rozdíl v následujícím měsíci, a to tak, že zdravotní pojišťovně spolu s částkou podle § 21a odst. 6 oznámí též opravnou částku ve výši tohoto rozdílu. O tuto opravnou částku se v příslušném měsíci upraví výsledný nárok nebo závazek zdravotní pojišťovny podle § 21b a o výši tohoto nároku nebo závazku se upraví částka určená k přerozdělování v příslušném měsíci.
+Dozor nad přerozdělováním
+Na dodržování pravidel přerozdělování a hospodaření se zvláštním účtem dohlíží Dozorčí orgán. Členy Dozorčího orgánu jsou
+1 zástupce jmenovaný Ministerstvem financí,
+1 zástupce jmenovaný Ministerstvem zdravotnictví,
+1 zástupce jmenovaný Ministerstvem práce a sociálních věcí,
+1 zástupce pověřený Všeobecnou zdravotní pojišťovnou České republiky a
+1 zástupce z každé další zdravotní pojišťovny pověřený zdravotní pojišťovnou, kterou v Dozorčím orgánu zastupuje.
+Členové Dozorčího orgánu uvedení v odstavci 1 písm. a) až d) mají každý 1 hlas. Členové Dozorčího orgánu uvedení v odstavci 1 písm. e) mají dohromady 1 hlas.
+Dozorčí orgán provádí kontrolu správnosti údajů poskytnutých podle § 20 odst. 8 a § 21 odst. 1. Pokud zdravotní pojišťovna při kontrole neposkytne potřebnou součinnost, podá Dozorčí orgán Ministerstvu zdravotnictví podnět ke kontrole podle zákonů upravujících činnost zdravotních pojišťoven. Při kontrole podle věty první se nepoužijí ustanovení kontrolního řádu o přestupcích.
+Dozorčí orgán předává Ministerstvu zdravotnictví kontrolní protokoly o kontrolách provedených podle odstavce 3.
+Zjistí-li Ministerstvo zdravotnictví při kontrole chyby v údajích sdělených zdravotní pojišťovnou podle § 21 odst. 1, v jejímž důsledku byla částka připadající na tuto zdravotní pojišťovnu podle § 21 odst. 5 vypočtena vyšší, než měla být, oznámí tuto skutečnost správci zvláštního účtu. Správce zvláštního účtu vypořádá tento rozdíl v následujícím měsíci, a to tak, že zdravotní pojišťovně spolu s částkou podle § 21a odst. 6 oznámí též částku, o niž v příslušném měsíci upraví výsledný nárok zdravotní pojišťovny podle § 21b, a o výši této částky správce zvláštního účtu upraví částku určenou k přerozdělování.
+Přestupek
+Zdravotní pojišťovna se dopustí přestupku tím, že
+při kontrole podle § 21d odst. 3 neposkytne Dozorčímu orgánu potřebnou součinnost, nebo
+nepředá nové zdravotní pojišťovně pojištěnce údaje o spotřebě léčivých přípravků pojištěnce potřebné pro zařazení pojištěnce do farmaceuticko-nákladových skupin.
+Za přestupek podle odstavce 1 lze uložit pokutu do 500 000 Kč.
+Přestupek podle odstavce 1 písm. a) projednává Ministerstvo financí. Přestupek podle odstavce 1 písm. b) projednává Ministerstvo zdravotnictví.
+Zmocňovací ustanovení
+Ministerstvo zdravotnictví společně s Ministerstvem financí vyhláškou stanoví
+vždy do 30. dubna kalendářního roku pro následující období přerozdělování
+nastavitelné parametry přerozdělování a jejich hodnoty a
+požadavky na obsah, strukturu a formát údajů pro výpočet vypočítaných parametrů přerozdělování,
+jednací řád Dozorčího orgánu,
+pravidla pro hospodaření se zvláštním účtem a
+způsob oceňování nákladů na zdravotní služby pro účely přerozdělování.
+Věkové skupiny pojištěnců pro přerozdělování pojistného podle indexů
+Rozhodujícím datem pro zařazení pojištěnce do věkové skupiny je den dosažení celého roku života, tedy den narozenin pojištěnce. Pojištěnec se přeřazuje do vyšší věkové skupiny vždy k tomu dni, kdy dosáhl požadovaný věk.
+Do skupin č. 1 a 20 bude pojištěnec zařazen ode dne narození až do dne předcházejícího dni jeho prvních narozenin. Do skupin č. 2 a 21 bude pojištěnec zařazen ode dne svých prvních narozenin včetně až do dne, který předchází dni jeho pátých narozenin.
+Do dalších skupin bude pojištěnec zařazen obdobně.
+Podrobná úprava systému přerozdělování
+Nastavitelné parametry přerozdělování
+Seznam farmaceuticko-nákladových skupin
+Seznam farmaceuticko-nákladových skupin se sestavuje ve formátu tabulky, v níž každý řádek představuje jednu farmaceuticko-nákladovou skupinu. Sloupce této tabulky jsou v tomto pořadí:
+číslo farmaceuticko-nákladové skupiny,
+kód farmaceuticko-nákladové skupiny,
+název farmaceuticko-nákladové skupiny,
+definiční seznam anatomicko-terapeuticko-chemických skupin léčiv (dále jen „definiční skupiny léčiv“) pro farmaceuticko-nákladovou skupinu na příslušném řádku nebo několik těchto seznamů oddělených slovy „a zároveň“,
+vyřazovací pravidla s ostatními farmaceuticko-nákladovými skupinami uvozená slovy „ne, pokud zároveň“.
+Farmaceuticko-nákladové skupiny může Ministerstvo zdravotnictví zařadit do seznamu farmaceuticko-nákladových skupin, pokud splňují podmínku stability a podmínku zvýšení předpovědní síly přerozdělování podle oddílu E.
+Seznam kombinací věkové skupiny s farmaceuticko-nákladovou skupinou a dvou farmaceuticko-nákladových skupin navzájem
+Kombinace skupin může Ministerstvo zdravotnictví zařadit do přerozdělování, pokud splňují podmínku stability a podmínku zvýšení předpovědní síly přerozdělování podle oddílu E.
+Koeficient pro výpočet zajišťovací konstanty
+Ministerstvo zdravotnictví stanoví hodnotu koeficientu pro výpočet zajišťovací konstanty pro každé období přerozdělování v rozmezí 70 až 250, a to tak, aby celková předpokládaná částka na přerozdělování podle nákladných hrazených služeb v příslušném období přerozdělování činila nejméně 5 a nejvýše 15 procent celkové předpokládané přerozdělované částky v tomto období přerozdělování.
+Hranice spotřeby léčiv pro zařazení pojištěnce do farmaceuticko-nákladové skupiny
+Ministerstvo zdravotnictví stanoví hodnotu hranice spotřeby léčiv pro každé období přerozdělování v rozmezí 121 až 365, a to s přihlédnutím k předpokládanému počtu pojištěnců zařazených ve farmaceuticko-nákladových skupinách a ke stabilitě systému přerozdělování.
+Pravidla pro zařazení farmaceuticko-nákladových skupin a kombinací skupin do systému přerozdělování
+Ověření podmínek pro zařazení nákladových skupin do systému přerozdělování provádí Ministerstvo zdravotnictví v ověřovacím modelu systému přerozdělování, který se shoduje se systémem přerozdělování podle tohoto zákona, přičemž pracuje s posledními dostupnými údaji obdrženými Ministerstvem zdravotnictví od zdravotních pojišťoven podle § 20c (dále jen „ověřovací model“).
+Podmínka stability
+Podmínka stability je pro farmaceuticko-nákladovou skupinu naplněna, pokud
+je do příslušné skupiny zařazeno alespoň 200 osob a
+úhrn ročních nákladů osob zařazených do příslušné skupiny převyšuje 24000násobek průměrných měsíčních nákladů podle oddílu K.
+Podmínka stability je pro kombinaci dvou farmaceuticko-nákladových skupin naplněna, pokud je do příslušné kombinace skupin zařazeno alespoň 200 osob.
+Podmínka stability je pro kombinaci farmaceuticko-nákladové skupiny s věkovou skupinou naplněna, pokud je do příslušné kombinace skupin zařazeno alespoň 2500 osob.
+Podmínka zvýšení předpovědní síly přerozdělování
+Pro farmaceuticko-nákladovou skupinu je podmínka zvýšení předpovědní síly přerozdělování naplněna, pokud jsou pro příslušnou farmaceuticko-nákladovou skupinu současně splněny tyto podmínky:
+Předpovědní síla ověřovacího modelu, sestaveného bez zahrnutí této skupiny a kombinací skupin, měřená koeficientem determinace R2 podle oddílu M, klesne alespoň o 0,0001 ve srovnání s ověřovacím modelem sestaveným bez kombinací skupin, avšak se všemi farmaceuticko-nákladovými skupinami.
+Přírůstek nebo úbytek nákladů příslušný k této farmaceuticko-nákladové skupině, odhadnutý v ověřovacím modelu sestaveném bez zahrnutí kombinací skupin postupem podle oddílu M, je statisticky významný na hladině 1 procento.
+Pro kombinaci skupin je podmínka zvýšení předpovědní síly přerozdělování naplněna, pokud jsou pro příslušnou kombinaci skupin současně splněny tyto podmínky:
+Předpovědní síla ověřovacího modelu sestaveného bez zahrnutí této kombinace skupin, měřená koeficientem determinace R2 podle oddílu M, klesne alespoň o 0,0002 ve srovnání s ověřovacím modelem, do kterého jsou zahrnuty všechny nákladové skupiny a všechny kombinace skupin.
+Přírůstek nebo úbytek nákladů příslušný k této kombinaci skupin, odhadnutý postupem podle oddílu M, je statisticky významný na hladině 1 procento.
+Vstupní údaje a klasifikace pojištěnců za účelem výpočtu vypočítaných parametrů přerozdělování
+Přehled údajů
+Do výpočtu vypočítaných parametrů přerozdělování vstupují údaje vztahující se k poslednímu účetně uzavřenému kalendářnímu roku, která Ministerstvo zdravotnictví obdrželo od zdravotních pojišťoven podle § 20c.
+Jednotliví pojištěnci jsou pro účely přerozdělování charakterizováni unikátním anonymním číselným identifikátorem (dále jen „anonymní identifikátor“), který jim přiděluje správce centrálního registru pojištěnců. Anonymní identifikátory jsou vytvářeny jako náhodně přidělovaná číselná řada a jsou pojištěncům přidělovány za účelem ochrany osobních údajů pojištěnců podle zákona o ochraně osobních údajů a jako bezpečnostní opatření podle zákona o kybernetické bezpečnosti. Jednotliví pojištěnci mají přiřazeny tyto údaje:
+Náklady oceněné podle § 20 odst. 7 (dále jen „náklady“).
+Počet měsíců pojištění (dále jen „počet měsíců“); měsíc se považuje za měsíc pojištění, pokud byl k prvnímu dni tohoto měsíce pojištěnec evidován některou zdravotní pojišťovnou jako účastník veřejného zdravotního pojištění (dále jen „měsíc pojištění“). Ve vstupních údajích jsou uvedeni pouze pojištěnci s alespoň 1 měsícem pojištění. Počet těchto osob je dále označován jako „počet pojištěnců“.
+Příslušnost do věkové skupiny; příslušnosti pojištěnce do věkových skupin se určí postupem podle oddílu G.
+Příslušnosti do farmaceuticko-nákladových skupin; příslušnosti pojištěnce do farmaceuticko-nákladových skupin se určí postupem podle oddílu H.
+Příslušnosti do kombinací skupin; příslušnosti pojištěnce do kombinací skupin se určí podle oddílu I.
+Seznamem pojištěnců se označuje výčet anonymních identifikátorů ve vzestupném pořadí od nejnižší hodnoty po nejvyšší hodnotu.
+Příslušnosti do věkových skupin
+Ministerstvo zdravotnictví zařadí pojištěnce na základě pohlaví a roku a měsíce narození do věkové skupiny podle převládající měsíční příslušnosti do věkových skupin v posledním účetně uzavřeném kalendářním roce; v případě, že jsou u pojištěnce dány 2 věkové skupiny se stejným počtem měsíčních příslušností, zařadí Ministerstvo zdravotnictví pojištěnce do věkové skupiny s vyšším definičním věkem. Měsíční příslušnosti do věkových skupin jsou za tímto účelem určeny podle dosaženého věku k poslednímu dni měsíce. Započítávají se pouze měsíce, k jejichž prvnímu dni byl pojištěnec účastníkem veřejného zdravotního pojištění.
+Příslušnosti do farmaceuticko-nákladových skupin
+Zařazení pojištěnců do farmaceuticko-nákladových skupin provádí Ministerstvo zdravotnictví na základě údajů sdělených jednotlivými zdravotními pojišťovnami podle § 20c a seznamu léčivých přípravků, u nichž Státní ústav pro kontrolu léčiv (dále jen „Ústav“) rozhodl o výši a podmínkách úhrady, a který je vydáván Ústavem podle zákona o veřejném zdravotním pojištění (dále jen „seznam léčiv“).
+Ministerstvo zdravotnictví zařadí pojištěnce do farmaceuticko-nákladové skupiny, pokud naplnil podmínku spotřeby léčiv pro tuto skupinu a zároveň se na tuto skupinu nevztahují vyřazovací pravidla s jinými farmaceuticko-nákladovými skupinami, pro které pojištěnec naplnil podmínku spotřeby léčiv. Za pojištěnce, který naplnil podmínku spotřeby léčiv, se považuje takový pojištěnec, u něhož úhrn obvyklých denních terapeutických dávek léčiv příslušných definičních skupin léčiv překročil v každém z definičních seznamů definičních skupin léčiv této farmaceuticko-nákladové skupiny hranici spotřeby léčiv stanovenou jako nastavitelný parametr přerozdělování pro období přerozdělování, pro které jsou vypočítané parametry přerozdělování počítány. Do tohoto úhrnu se započítávají léčivé přípravky vyzvednuté nebo podané pojištěnci v posledních 12 měsících jeho pojištění, avšak za dobu nejvýše posledních dvou účetně uzavřených let.
+Příslušnosti do kombinací skupin
+Ministerstvo zdravotnictví zařadí pojištěnce do kombinace dvou farmaceuticko-nákladových skupin, jestliže patří do obou těchto skupin a příslušná kombinace je pro období přerozdělování, pro které jsou vypočítané parametry modelu přerozdělování počítány, stanovena jako nastavitelný parametr modelu přerozdělování.
+Ministerstvo zdravotnictví zařadí pojištěnce do kombinace farmaceuticko-nákladové skupiny s věkovou skupinou, jestliže patří do obou těchto skupin a příslušná kombinace je pro období přerozdělování, pro které jsou vypočítané parametry modelu přerozdělování počítány, stanovena jako nastavitelný parametr modelu přerozdělování.
+Nákladové skupiny
+Nákladovými skupinami jsou pro účely výpočtu vypočítaných parametrů označeny věkové skupiny, farmaceuticko-nákladové skupiny a kombinace skupin.
+Nákladové skupiny se pro jednotlivého pojištěnce uvádějí v tomto pořadí:
+Věkové skupiny seřazené vzestupně podle svého číselného označení uvedeného v příloze č. 1 k tomuto zákonu.
+Farmaceuticko-nákladové skupiny seřazené podle pořadí uvedeného v seznamu farmaceuticko-nákladových skupin podle oddílu A; použije se seznam farmaceuticko-nákladových skupin, který byl stanoven jako nastavitelný parametr pro období přerozdělování, pro které jsou vypočítané parametry modelu přerozdělování počítány.
+Kombinace skupin seřazené v pořadí podle seznamu kombinací skupin podle oddílu B; použije se seznam kombinací skupin, který byl stanoven jako nastavitelný parametr pro období přerozdělování, pro které jsou vypočítané parametry modelu přerozdělování počítány.
+Výpočet vypočítaných parametrů přerozdělování
+Matematické objekty nutné pro výpočet vypočítaných parametrů přerozdělování
+Do výpočtu vypočítaných parametrů přerozdělování se započítávají pojištěnci s alespoň 1 měsícem pojištění, a to vzestupně podle svého anonymního identifikátoru. Řazení podle předchozí věty se použije i pro složky vektorů veličin týkajících se jednotlivých pojištěnců.
+Pro výpočet vypočítaných parametrů se označí:
+n počet pojištěnců vstupujících do výpočtu vypočítaných parametrů přerozdělení,
+m počet nákladových skupin podle oddílu J,
+y = (y1, y2, ..., yn)' vektor nákladů pojištěnců a
+w = (w1, w2, ..., wn)' vektor počtu měsíců pojištění pojištěnců.
+Sestaví se matice příslušností pojištěnců do nákladových skupin R typu n × m takto:
+Ri,j=1⇔pojištěnec i je zařazen v nákl. skupině j0 jinak, i=1,…,n;j=1,…,m.
+Sestaví se matice počtů měsíců W typu n × n takto:
+Wi,j=wi⇔i=j0 jinak, i=1,…,n;j=1,…,n.
+Dále se pro účely výpočtu vypočítaných parametrů přerozdělování označí:
+W celkový počet měsíců pojištění, který se vypočte podle vzorce
+W=∑i=1nwi,
+ȳ průměrné měsíční náklady, které se vypočtou podle vzorce
+y¯=∑i=1nyiW.
+Výpočet zajišťovací konstanty
+Zajišťovací konstanta se označí C a vypočte se takto:
+C=CK·y¯
+kde CK je koeficient pro výpočet zajišťovací konstanty podle oddílu C.
+Zajišťovací konstanta se zaokrouhluje na celé tisíce.
+Výpočet nákladových indexů
+Nákladové indexy se určí postupem popsaným v bodech 1 až 6. Jeho součástí je iterační výpočet, zahrnující opakování bodů 2 až 5, až do splnění konvergenční podmínky v bodu 5. Indexem v pravém horním rohu jednotlivých veličin, uzavřeným v závorkách, označujeme číslo iterace k, ke které se tato veličina vztahuje.
+Definuje se k = 0 a ϒ(1) = y.
+Hodnota k se zvýší o 1.
+Sestaví se regresní model, jehož prostřednictvím se metodou vážených nejmenších čtverců odhadne vektor ϒ(k) takto:
+3.1. Složky vektoru vysvětlovaných nákladů ϒ(k) se označí ϒ1(k), ϒ2(k), ..., ϒn(k).
+3.2. Vážený průměr vektoru vysvětlovaných nákladů se označuje ϒ¯(k) a vypočte se podle vzorce ϒ¯(k)=∑i=1nϒi(k)W.
+3.3. Vektor centrovaných měsíčních vysvětlovaných nákladů se označuje u(k) a vypočte se podle vzorce:
+u(k)=W-1·ϒ(k)-ϒ¯(k).
+3.4. Metodou vážených nejmenších čtverců s vahami w a s regresní maticí R se vypočte vektor odhadnutých přírůstků nebo úbytků nákladů příslušných nákladovým skupinám a(k) podle vzorce:
+a(k)=R'·W·R-1R'·W·u(k).
+3.5. Odhadnuté centrované měsíční vysvětlované náklady u(k)^ se vypočtou podle vzorce:
+u(k)^=R·a(k).
+3.6. Odhadnuté vysvětlované náklady ϒ(k)^ se vypočtou podle vzorce:
+ϒ(k)^=W·u(k)^+ϒ¯(k).
+Z reálných nákladů, odhadnutých vysvětlovaných nákladů a zajišťovací konstanty se vypočte simulované zajištění z(k) podle vzorce:
+z(k)=max0;0,8·y-ϒ(k)^+C+max0;0,15·y-ϒ(k)^+6·C,
+kde 0 označuje nulový vektor o délce n a funkce „max“ se uplatňuje na každou složku svých argumentů zvlášť, takže jejím výsledkem je vektor o délce n.
+Vektor vysvětlovaných nákladů pro další iteraci se označí ϒ(k+1) a vypočte se podle vzorce:
+ϒ(k+1)=y-z(k).
+
+5.1. Je-li k = 1, postupuje se opět podle bodu 2.
+5.2. Je-li k &gt; 1, označí se kvalita přiblížení vysvětlovaných nákladů Q a vypočte se podle vzorce:
+Q=∑i=1nϒi(k-1)-ϒi(k)∑i=1nyi.
+Platí-li
+Q ≥ 0,0005,
+postupuje se opět podle bodu 2.
+Platí-li
+Q &lt; 0,0005,
+je splněna konvergenční podmínka a iterační algoritmus je ukončen. Definuje se I = k, kde písmeno I označuje celkový počet iterací, a postupuje se podle bodu 6.
+Nákladové indexy se označí ȧ1; ȧ2, ..., ȧm a vypočtou se podle vzorce:
+ȧi=αi(I)ϒ¯(I),i=1,…,m,
+kde αi(I), i = 1, ..., m, jsou složky vektoru α(I) odhadnutých přírůstků nebo úbytků nákladů, příslušných nákladovým skupinám, a jsou zaokrouhleny na čtyři platná desetinná místa. Nákladové indexy přísluší nákladovým skupinám v pořadí podle oddílu J. Nákladový index příslušný kombinaci skupin se označí jako korekce pro souběh skupin.
+Koeficient determinace R2 se vypočte podle vzorce:
+R2=1-u(I)^-u(I)'·W·u(I)^-u(I)u(I)'·W·u(I).
+Klasifikace pojištěnců pro účely měsíčního přerozdělování podle indexů
+Klasifikace pojištěnců do věkových skupin
+Pro účely měsíčního přerozdělování zdravotní pojišťovny své pojištěnce zařadí do věkové skupiny podle pohlaví a podle dosaženého věku k prvnímu dni měsíce, v němž přerozdělování probíhá. Seznam věkových skupin a definice dosaženého věku jsou uvedeny v příloze č. 1 k tomuto zákonu.
+Klasifikace do farmaceuticko-nákladových skupin
+Pro účely měsíčního přerozdělování podle indexů zařazují pojištěnce do farmaceuticko-nákladových skupin zdravotní pojišťovny, a to na základě spotřeby léčiv těchto pojištěnců a podle seznamu farmaceuticko-nákladových skupin a seznamu léčiv.
+Za pojištěnce, který naplnil podmínku spotřeby léčiv, potřebnou pro zařazení do farmaceuticko-nákladové skupiny, se považuje takový pojištěnec, u něhož úhrn obvyklých denních terapeutických dávek léčiv příslušných definičních skupin léčiv překročil v každém z definičních seznamů definičních skupin léčiv této farmaceuticko-nákladové skupiny stanovenou hranici spotřeby léčiv. Do tohoto úhrnu se započítávají léčiva vydaná nebo podaná pojištěnci, s datem vyúčtování v posledních 12 měsících předcházejících měsíci, pro který měsíční přerozdělování probíhá. Zdravotní pojišťovna zařadí pojištěnce do farmaceuticko-nákladové skupiny, jestliže je u něj naplněna podmínka spotřeby léčiv pro zařazení do této skupiny a pokud se na tuto farmaceuticko-nákladovou skupinu nevztahují vyřazovací pravidla s jinými farmaceuticko-nákladovými skupinami, pro které pojištěnec naplnil podmínku spotřeby léčiv.
+Za datum vyúčtování se považuje den, k němuž je příslušná pohledávka poskytovatele pojišťovnou uznána a uzavřena.
+Klasifikace do kombinací skupin
+Pojištěnec je zařazen do kombinace dvou farmaceuticko-nákladových skupin, jestliže je zařazen do obou těchto skupin a příslušná kombinace je pro příslušné období přerozdělování stanovena jako nastavitelný parametr přerozdělování.
+Pojištěnec je zařazen do kombinace farmaceuticko-nákladové skupiny s věkovou skupinou, jestliže je zařazen do obou těchto skupin a příslušná kombinace je pro příslušné období přerozdělování stanovena jako nastavitelný parametr přerozdělování.
+Nákladový index pojištěnce a příjem na pojištěnce z přerozdělování podle indexů
+Nákladový index pojištěnce
+Nákladový index pojištěnce se vypočítá jako součet čísla 1, nákladového indexu věkové skupiny, do níž je pojištěnec zařazen, nákladových indexů všech farmaceuticko-nákladových skupin, do nichž je pojištěnec zařazen podle své spotřeby léčiv, a korekcí pro souběh skupin stanovených pro příslušné období přerozdělování.
+Příjem na pojištěnce z přerozdělování podle indexů
+Příjem zdravotní pojišťovny na pojištěnce z přerozdělování podle indexů se počítá pro konkrétní období přerozdělování a pro konkrétního pojištěnce.
+Příjem zdravotní pojišťovny na pojištěnce z přerozdělování podle indexů se spočte jako součet měsíčních příjmů zdravotní pojišťovny na tohoto pojištěnce z přerozdělování podle indexů v měsících spadajících do příslušného období přerozdělování, v nichž byl pojištěnec příslušný k této zdravotní pojišťovně.
+Měsíční příjem zdravotní pojišťovny na pojištěnce z přerozdělování podle indexů se spočte jako součin nákladového indexu pojištěnce pro příslušný kalendářní měsíc podle oddílu Q a podílu na standardizovaného pojištěnce použitého v příslušném kalendářním měsíci podle § 21 odst. 7.

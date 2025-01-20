@@ -1,0 +1,596 @@
+PŘÍSPĚVEK NA ZVÝŠENÉ ŽIVOTNÍ NÁKLADY
+Příspěvek na zvýšené životní náklady poskytovaný podle § 42 vyhlášky č. 182/1991 Sb., kterou se provádí zákon o sociálním zabezpečení a zákon České národní rady o působnosti orgánů České republiky v sociálním zabezpečení, ve znění pozdějších předpisů, náleží naposledy za měsíc prosinec 2007.
+DAŇ ZE ZEMNÍHO PLYNU A NĚKTERÝCH DALŠÍCH PLYNŮ
+Předmět úpravy
+V této části jsou zapracovány příslušné předpisy Evropské unie a upraveny podmínky zdaňování zemního plynu a některých dalších plynů (dále jen „plyn“) daní z plynu.
+Správu daně vykonávají orgány Celní správy České republiky.
+Vymezení pojmů
+Pro účely této části se rozumí
+daňovým územím území České republiky,
+dodavatelem právnická nebo podnikající fyzická osoba, která nabývá plyn bez daně za účelem jeho dalšího prodeje,
+konečným spotřebitelem fyzická nebo právnická osoba, která není držitelem povolení k nabytí plynu bez daně; konečným spotřebitelem není provozovatel distribuční soustavy, provozovatel přepravní soustavy a provozovatel podzemního zásobníku plynu,
+výrobou i vtláčení plynu do podzemního zásobníku plynu nebo těžba,
+kódem nomenklatury číselné označení výrobků uvedené v nařízení Rady o celní a statistické nomenklatuře a o Společném celním sazebníku, ve znění platném k 1. lednu 2002,
+identifikačními údaji
+obchodní firma nebo jméno,
+sídlo nebo místo pobytu,
+daňové identifikační číslo, bylo-li přiděleno.
+Pro účely této části se považuje za
+bezúhonného ten, kdo nebyl pravomocně odsouzen za hospodářský trestný čin, nebo ten, na něhož se hledí, jako by nebyl odsouzen,
+den dodání první den, kdy může nabyvatel nakládat s plynem jako vlastník, nebo den odečtu z měřicího zařízení, popřípadě den zjištění skutečné spotřeby plynu dodaného prostřednictvím plynárenského zařízení.
+Plátce daně
+Plátcem daně je
+dodavatel, který na daňovém území dodal plyn konečnému spotřebiteli,
+provozovatel distribuční soustavy, provozovatel přepravní soustavy a provozovatel podzemního zásobníku plynu,
+fyzická nebo právnická osoba, která použila plyn zdaněný nižší sazbou daně k účelu, kterému odpovídá vyšší sazba daně,
+fyzická nebo právnická osoba, která použila plyn osvobozený od daně k jiným účelům, než na které se osvobození od daně vztahuje, nebo
+fyzická nebo právnická osoba, která spotřebovala nezdaněný plyn, s výjimkou plynu osvobozeného od daně.
+Plátce daně podá návrh na registraci k dani u správce daně nejpozději v den vzniku povinnosti daň přiznat a zaplatit.
+Postavení plátce daně bez povinnosti se registrovat má dodavatel a výrobce plynu, kterému nevznikla povinnost daň přiznat a zaplatit.
+Předmět daně
+Předmětem daně je plyn uvedený pod kódy nomenklatury 2711 11, 2711 21, 2711 29 a 2705
+určený k použití, nabízený k prodeji nebo používaný pro pohon motorů nebo pro jiné účely, s výjimkou plynu uvedeného v písmenech b) a c),
+určený k použití, nabízený k prodeji nebo používaný pro výrobu tepla bez ohledu na způsob spotřeby tepla (dále jen „výroba tepla“), nebo
+určený k použití, nabízený k prodeji nebo používaný
+pro stacionární motory,
+v souvislosti s provozy a stroji používanými při stavbách, stavebně inženýrských pracích a veřejných pracích, nebo
+pro vozidla určená k používání mimo veřejné cesty nebo pro vozidla, která nejsou schválená k používání převážně na veřejných silnicích.
+Vznik povinnosti daň přiznat a zaplatit
+Povinnost daň přiznat a zaplatit vzniká dnem
+dodání plynu konečnému spotřebiteli na daňovém území,
+spotřeby plynu provozovatelem distribuční soustavy, provozovatelem přepravní soustavy nebo provozovatelem podzemního zásobníku plynu,
+spotřeby plynu, u něhož byla uplatněna sazba daně nižší než sazba daně stanovená pro daný účel použití,
+spotřeby plynu osvobozeného od daně k jiným účelům, než na které se osvobození od daně vztahuje, nebo
+spotřeby nezdaněného plynu, s výjimkou plynu osvobozeného od daně.
+Povinnost daň přiznat a zaplatit nevzniká, pokud fyzická nebo právnická osoba, která nabyla zdaněný plyn nebo plyn osvobozený od daně, dodá takový plyn jiné fyzické nebo právnické osobě.
+Dodáním plynu konečnému spotřebiteli se rozumí i dodání plynu do prostor čerpací stanice, která dodává plyn pro pohon motorů.
+Základ a sazba daně
+Základem daně je množství plynu v MWh spalného tepla.
+Sazby daně jsou stanoveny takto:
+264,80 Kč/MWh spalného tepla pro plyn uvedený pod kódy nomenklatury 2711 29 a 2705, který je předmětem daně podle § 4 písm. a),
+v období od 1. ledna 2008 do 31. prosince 2011 činí sazba daně 0 Kč/MWh spalného tepla pro plyn uvedený pod kódy nomenklatury 2711 11 a 2711 21, který je předmětem daně podle § 4 písm. a),
+v období od 1. ledna 2012 do 31. prosince 2014 činí sazba daně 34,20 Kč/MWh spalného tepla pro plyn uvedený pod kódy nomenklatury 2711 11 a 2711 21, který je předmětem daně podle § 4 písm. a),
+v období od 1. ledna 2015 do 31. prosince 2017 činí sazba daně 68,40 Kč/MWh spalného tepla pro plyn uvedený pod kódy nomenklatury 2711 11 a 2711 21, který je předmětem daně podle § 4 písm. a),
+v období od 1. ledna 2018 do 31. prosince 2019 činí sazba daně 136,80 Kč/MWh spalného tepla pro plyn uvedený pod kódy nomenklatury 2711 11 a 2711 21, který je předmětem daně podle § 4 písm. a),
+od 1. ledna 2020 činí sazba daně 264,80 Kč/MWh spalného tepla pro plyn uvedený pod kódy nomenklatury 2711 11 a 2711 21, který je předmětem daně podle § 4 písm. a),
+30,60 Kč/MWh spalného tepla pro plyn, který je předmětem daně podle § 4 písm. b),
+30,60 Kč/MWh spalného tepla pro plyn, který je předmětem daně podle § 4 písm. c).
+Nelze-li vyjádřit spalné teplo plynu v MWh, stanoví se spalné teplo ve výši 15 MWh na tunu plynu.
+Výpočet daně
+Výše daně se vypočítá vynásobením základu daně sazbou daně.
+Osvobození od daně
+Od daně je osvobozen plyn určený k použití, nabízený k prodeji nebo použitý
+pro výrobu tepla v domácnostech a v domovních kotelnách uvedený pod kódy nomenklatury 2711 11 a 2711 21,
+k výrobě elektřiny,
+pro kombinovanou výrobu elektřiny a tepla v generátorech s minimální stanovenou účinností podle zvláštního právního předpisu, pokud je teplo z kombinované výroby elektřiny a tepla dodáváno domácnostem,
+jako pohonná hmota pro plavby po vodách na daňovém území; toto osvobození se netýká plynu použitého jako pohonná hmota pro soukromá rekreační plavidla vymezená v zákoně o spotřebních daních, nebo
+k jinému účelu než pro pohon motorů nebo pro výrobu tepla, i když při takovém použití vzniká technologické teplo.
+Nabýt plyn osvobozený od daně podle odstavce 1 písm. b) až e) jinak než výrobou může pouze konečný spotřebitel, který je držitelem povolení k nabytí plynu osvobozeného od daně.
+Plyn nabytý prostřednictvím plynárenského zařízení je podle odstavce 1 písm. b) až e) osvobozen pouze tehdy, pokud je odebrán prostřednictvím plynárenského zařízení do odběrného místa vybaveného měřidlem, jehož typ a výrobní číslo je uvedeno v povolení k nabytí plynu osvobozeného od daně.
+Od daně je osvobozen plyn použitý při výrobě nebo zpracování plynu a výrobků, které jsou předmětem daně z minerálních olejů a daně z pevných paliv v prostorách podniku, ve kterém byl tento plyn vyroben. Toto osvobození od daně se však nevztahuje na spotřebu plynu pro účely nesouvisející s výrobou nebo zpracováním uvedených výrobků, zejména pak pro pohon vozidel.
+Od daně je osvobozen plyn maximálně do výše technicky zdůvodněných skutečných ztrát při dopravě a skladování. Správce daně je oprávněn posoudit, zda vzniklé ztráty plynu odpovídají charakteru činnosti plátce daně a obvyklé výši ztrát jiných plátců daně při stejné nebo obdobné činnosti, a o zjištěný rozdíl upravit základ daně.
+Od daně je osvobozen plyn, který se v okamžiku vstupu na daňové území nachází v běžných nádržích motorových dopravních prostředků, pracovních strojů, klimatizačních, chladírenských a jiných podobných zařízení a slouží k jejich vlastnímu pohonu a provozu. Běžnou nádrží se pro účely této části rozumí nádrž, která umožňuje přímé použití plynu.
+Povolení k nabytí plynu osvobozeného od daně
+O vydání povolení k nabytí plynu osvobozeného od daně rozhoduje správce daně.
+Návrh na vydání povolení k nabytí plynu osvobozeného od daně obsahuje
+identifikační údaje navrhovatele,
+předpokládané roční množství odebraného plynu osvobozeného od daně v MWh spalného tepla,
+typ a výrobní číslo měřicího zařízení, kterým je osazeno odběrné místo, určené pro odběr plynu osvobozeného od daně, je-li plyn nabýván prostřednictvím plynárenského zařízení,
+výpis z obchodního rejstříku, nebo výpis z živnostenského rejstříku nebo výpis z jiného obdobného rejstříku, je-li navrhovatel zahraniční osobou; výpis nesmí být v den podání návrhu starší více než 30 dnů.
+Návrh na vydání povolení k nabytí plynu osvobozeného od daně rovněž obsahuje popis účelu a způsobu použití plynu osvobozeného od daně, včetně odkazu na ustanovení této části, podle něhož je plyn osvobozen od daně. Pokud je plyn nabýván prostřednictvím plynárenského zařízení, musí návrh obsahovat také schéma zobrazující odběrné plynové zařízení instalované v odběrném místě navrhovatele odpovídající skutečnému stavu, včetně zařízení pro konečné využití plynu osvobozeného od daně.
+Je-li navrhovatelem, statutárním orgánem navrhovatele nebo členem statutárního orgánu navrhovatele zahraniční fyzická osoba, přikládá navrhovatel k návrhu podle § 9 odst. 2 doklady odpovídající výpisům z evidence Rejstříku trestů vydané státem, jehož je tato osoba občanem, jakož i státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě po dobu více než 3 měsíců. To platí obdobně i v případě státního občana České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu více než 3 měsíců v zahraničí. Zdržovala-li se zahraniční fyzická osoba v době podle věty první v České republice, vyžádá si správce daně výpis z evidence Rejstříku trestů. V případě právnické osoby si správce daně vyžádá současně výpis z evidence Rejstříku trestů.
+Správce daně vydá povolení k nabytí plynu osvobozeného od daně, jsou-li splněny následující podmínky:
+návrh na vydání povolení obsahuje všechny náležitosti uvedené v § 9 odst. 2 a 3,
+navrhovatel je bezúhonný,
+navrhovatel není v úpadku podle insolvenčního zákona a
+navrhovateli nebylo v posledním roce zrušeno povolení podle § 11 odst. 4 písm. b) nebo c).
+Povolení k nabytí plynu osvobozeného od daně se vydává na dobu 5 let.
+Držitel povolení k nabytí plynu osvobozeného od daně je povinen oznámit správci daně každou změnu údajů uvedených v § 9 odst. 2 písm. c) a d) a v § 9 odst. 3 do 15 dnů ode dne jejich změny.
+Dojde-li ke změně typu a čísla měřicího zařízení, kterým je osazeno odběrné místo určené pro odběr plynu osvobozeného od daně, správce daně na základě oznámení rozhodne do 30 dnů o změně původního povolení k nabytí plynu osvobozeného od daně.
+Povolení k nabytí plynu osvobozeného od daně zanikne
+uplynutím doby, na kterou bylo povolení vydáno,
+zánikem právnické osoby, je-li držitel povolení právnickou osobou,
+dnem nabytí právní moci usnesení soudu o prohlášení konkursu na majetek držitele povolení,
+dnem nabytí právní moci usnesení soudu o zamítnutí insolvenčního návrhu pro nedostatek majetku držitele povolení, nebo
+dnem zániku živnostenského oprávnění nebo jiného obdobného oprávnění držitele povolení.
+Správce daně zruší povolení k nabytí plynu osvobozeného od daně, jestliže
+držitel povolení o zrušení povolení požádá,
+držitel povolení použil plyn osvobozený od daně k jiným účelům, než na které se osvobození od daně vztahuje, a nepřiznal daň odpovídající jinému účelu použití plynu, nebo
+držiteli povolení byla opakovaně uložena pokuta za nevedení evidence podle § 19.
+Nabytí plynu bez daně
+Nabýt plyn bez daně může na daňovém území pouze dodavatel, a to pouze na základě povolení k nabytí plynu bez daně. To neplatí pro nabytí plynu bez daně výrobou a nabytí plynu operátorem trhu.
+Povolení k nabytí plynu bez daně
+O vydání povolení k nabytí plynu bez daně rozhoduje správce daně.
+Návrh na vydání povolení k nabytí plynu bez daně obsahuje
+identifikační údaje navrhovatele,
+předpokládané roční množství odebraného plynu bez daně v MWh,
+výpis z obchodního rejstříku, výpis z živnostenského rejstříku, nebo výpis z jiného obdobného rejstříku, je-li navrhovatelem zahraniční osoba; výpis nesmí být v den podání návrhu starší více než 30 dnů,
+doklad prokazující, že navrhovatel je držitelem licence na obchod s plynem, pokud bude plyn odebírán převážně prostřednictvím plynárenského zařízení.
+Je-li navrhovatelem, statutárním orgánem navrhovatele nebo členem statutárního orgánu navrhovatele zahraniční fyzická osoba, přikládá navrhovatel k návrhu podle § 13 odst. 2 doklady odpovídající výpisům z evidence Rejstříku trestů vydané státem, jehož je tato osoba občanem, jakož i státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě po dobu více než 3 měsíců. To platí obdobně i v případě státního občana České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu více než 3 měsíců v zahraničí. Zdržovala-li se zahraniční fyzická osoba v době podle věty první v České republice, vyžádá si správce daně výpis z evidence Rejstříku trestů. V případě právnické osoby si správce daně vyžádá současně výpis z evidence Rejstříku trestů.
+Správce daně vydá povolení k nabytí plynu bez daně, jsou-li splněny následující podmínky:
+návrh na vydání povolení obsahuje všechny náležitosti uvedené v § 13 odst. 2,
+navrhovatel je bezúhonný,
+navrhovatel není v úpadku podle insolvenčního zákona a
+navrhovateli nebylo v posledním roce zrušeno povolení podle § 15 odst. 2 písm. b) nebo c).
+Povolení k nabytí plynu bez daně se vydává na dobu 5 let.
+Povolení k nabytí plynu bez daně zanikne
+uplynutím doby, na kterou bylo povolení vydáno,
+zánikem právnické osoby, je-li držitel povolení právnickou osobou,
+dnem nabytí právní moci usnesení soudu o prohlášení konkursu na majetek držitele povolení,
+dnem nabytí právní moci usnesení soudu o zamítnutí insolvenčního návrhu pro nedostatek majetku držitele povolení,
+dnem zániku nebo zrušení licence podle § 13 odst. 2 písm. d), nebo
+dnem zániku živnostenského oprávnění nebo jiného obdobného oprávnění držitele povolení.
+Správce daně zruší povolení k nabytí plynu bez daně, jestliže
+držitel povolení o zrušení povolení požádá,
+držitel povolení nabývá plyn bez daně převážně za jiným účelem než za účelem jeho dalšího prodeje, nebo
+držitel povolení opakovaně porušil zákaz stanovený v § 16, nebo povinnost stanovenou v § 17, nebo mu byla opakovaně uložena pokuta za nevedení evidence podle § 18.
+Zákaz dodání plynu
+Dodavatel nesmí na daňovém území dodat plyn osvobozený od daně podle § 8 odst. 1 písm. b) až e) fyzické nebo právnické osobě, která není držitelem povolení k nabytí plynu osvobozeného od daně.
+Dodavatel nesmí na daňovém území dodat plyn bez daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí plynu bez daně.
+Daňový doklad a doklad o prodeji
+Při dodání plynu konečnému spotřebiteli vystavuje dodavatel daňový doklad. Při dodání plynu bez daně jinému dodavateli vystavuje dodavatel doklad o prodeji.
+Daňový doklad podle odstavce 1, který je dodavatel povinen vystavit do 15 dnů ode dne dodání plynu konečnému spotřebiteli, obsahuje tyto údaje:
+identifikační údaje dodavatele,
+identifikační údaje konečného spotřebitele,
+typ a výrobní číslo měřicího zařízení, kterým je osazeno odběrné místo, je-li plyn dodáván prostřednictvím plynárenského zařízení,
+množství dodaného plynu v MWh spalného tepla, s výjimkou plynu osvobozeného od daně,
+množství dodaného plynu osvobozeného od daně v MWh spalného tepla,
+účel použití,
+výši daně celkem v Kč,
+den dodání,
+datum vystavení daňového dokladu,
+číslo daňového dokladu.
+Pokud je konečnému spotřebiteli na základě povolení k nabytí plynu osvobozeného od daně dodán plyn osvobozený od daně, musí být na daňovém dokladu uvedeno, že se jedná o plyn osvobozený od daně s odkazem na příslušné ustanovení této části, na základě něhož je tento plyn osvobozen od daně. Pokud je dodáván bioplyn osvobozený od daně, musí být tato skutečnost uvedena na daňovém dokladu.
+Doklad o prodeji podle odstavce 1, který je dodavatel povinen vystavit do 15 dnů ode dne dodání plynu bez daně jinému dodavateli, obsahuje tyto údaje:
+identifikační údaje dodavatele, který dodává plyn,
+identifikační údaje dodavatele, který nabývá plyn,
+množství dodaného plynu v MWh spalného tepla,
+den dodání,
+datum vystavení dokladu o prodeji,
+číslo dokladu o prodeji.
+Daňový doklad nebo doklad o prodeji lze vystavit se souhlasem fyzické nebo právnické osoby, která jej přijímá, v elektronické podobě, pokud je podepsán uznávaným elektronickým podpisem nebo zapečetěn uznávanou elektronickou pečetí dodavatele.
+Evidence
+Dodavatel vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství
+nabytého plynu,
+dodaného plynu, s výjimkou plynu osvobozeného od daně a plynu dodaného bez daně, s uvedením účelu použití plynu,
+dodaného plynu osvobozeného od daně,
+dodaného plynu bez daně,
+plynu použitého pro vlastní spotřebu, s výjimkou plynu osvobozeného od daně, s uvedením účelu použití plynu, pokud dodavatel dodává takový plyn sám sobě,
+plynu osvobozeného od daně použitého pro vlastní spotřebu, pokud dodavatel dodává takový plyn sám sobě.
+Evidence podle odstavce 1 se člení podle fyzických nebo právnických osob, od kterých je plyn nabýván a kterým je plyn dodáván, a obsahuje jejich identifikační údaje. Evidence plynu podle odstavce 1 písm. b) nemusí být členěna podle jednotlivých fyzických nebo právnických osob.
+Pokud dodavatel nabývá bioplyn osvobozený od daně, vede odděleně evidenci bioplynu přiměřeně podle odstavců 1 a 2.
+Plátce daně podle § 3 odst. 1 písm. e) a držitel povolení k nabytí plynu osvobozeného od daně vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství
+nabytého plynu,
+spotřebovaného plynu, s výjimkou plynu osvobozeného od daně, s uvedením účelu použití plynu,
+spotřebovaného plynu osvobozeného od daně.
+Evidence podle odstavce 1 se člení podle fyzických nebo právnických osob, od kterých je plyn nabýván, a obsahuje jejich identifikační údaje.
+Provozovatel distribuční soustavy, provozovatel přepravní soustavy a provozovatel podzemního zásobníku plynu vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství
+plynu použitého pro vlastní spotřebu s výjimkou plynu osvobozeného od daně, s uvedením účelu použití plynu,
+plynu osvobozeného od daně použitého pro vlastní spotřebu.
+Evidence podle § 18 až 20 se uchovává po dobu 10 let od konce zdaňovacího období, ke kterému se evidence vztahuje.
+Vracení daně osobám požívajícím výsad a imunit
+Pro účely této části se osobou požívající výsad a imunit podle mezinárodních smluv, které jsou součástí českého právního řádu (dále jen „osoba požívající výsad a imunit“), rozumí
+diplomatická mise a konzulární úřad, s výjimkou konzulárních úřadů vedených honorárními konzulárními úředníky, akreditované pro Českou republiku jako orgány cizích států,
+zvláštní mise,
+zastupitelství mezinárodní organizace,
+orgány Evropské unie,
+člen diplomatické mise nebo konzulárního úřadu se sídlem v tuzemsku, s výjimkou člena služebního personálu a soukromé služební osoby, který je akreditován pro Českou republiku a nemá místo pobytu v tuzemsku,
+úředník zastupitelství mezinárodní organizace, který nemá místo pobytu na daňovém území České republiky a není státním občanem České republiky, pokud je trvale přidělen k výkonu svých úředních funkcí na daňovém území, a státní úředník cizího státu, který je členem zvláštní mise akreditované pro Českou republiku a který nemá místo pobytu na daňovém území,
+člen rodiny osoby uvedené v písmenu e) nebo f), pokud s ní žije ve společně hospodařící domácnosti na daňovém území, dosáhl věku 15 let, není státním občanem České republiky a je registrován Ministerstvem zahraničních věcí.
+Společně hospodařící domácností se pro účely této části rozumí společenství fyzických osob, které spolu trvale žijí a společně uhrazují náklady na své potřeby.
+Osobám požívajícím výsad a imunit vzniká nárok na vrácení daně dnem dodání zdaněného plynu.
+Zaplacená daň se vrací na základě uplatňování principu vzájemnosti, který potvrzuje Ministerstvo zahraničních věcí, nebo v souladu s mezinárodními smlouvami, kterými je Česká republika vázána a které upravují postavení mezinárodních organizací a jejich úředníků.
+Nárok na vrácení daně se prokazuje daňovým dokladem.
+Osoba požívající výsad a imunit uplatní nárok na vrácení daně v daňovém přiznání. Daňové přiznání se podává do konce zdaňovacího období následujícího po zdaňovacím období, ve kterém nárok vznikl.
+Orgány Evropské unie se sídlem na daňovém území podávají daňové přiznání prostřednictvím Ministerstva financí správci daně místně příslušnému podle jejich sídla na daňovém území.
+Osobě požívající výsad a imunit se vrátí zaplacená daň do 30 dnů ode dne, kdy byl nárok na vrácení daně vyměřen.
+Osoby požívající výsad a imunit mají pro účely vrácení daně procesní postavení plátce bez povinnosti se registrovat.
+Nárok na vrácení daně zanikne uplynutím 1 roku od konce zdaňovacího období, ve kterém nárok na vrácení daně vznikl. Nárok na vrácení daně orgánům Evropské unie nezaniká.
+Zdaňovací období
+Zdaňovacím obdobím je kalendářní měsíc.
+Daňové přiznání a splatnost daně
+Plátci daně, kterým vznikla povinnost daň přiznat a zaplatit, jsou povinni předložit daňové přiznání a zaplatit daň do dvacátého pátého dne po skončení zdaňovacího období, ve kterém tato povinnost vznikla.
+Dodatečné daňové přiznání na nižší daňovou povinnost může plátce daně uplatnit nejpozději do 6 měsíců ode dne, kdy uplynula lhůta pro podání daňového přiznání za zdaňovací období, jehož se dodatečné daňové přiznání týká. Tuto lhůtu nelze prodloužit ani nelze povolit navrácení v předešlý stav.
+Přestupky
+Právnická nebo podnikající fyzická osoba se jako dodavatel dopustí přestupku tím, že
+dodá na daňovém území plyn osvobozený od daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí plynu osvobozeného od daně,
+dodá na daňovém území plyn bez daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí plynu bez daně, nebo
+nevystaví daňový doklad nebo doklad o prodeji podle § 17.
+Za přestupek podle odstavce 1 lze uložit pokutu do
+100 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), nebo
+200 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b).
+K řízení o přestupcích podle této části je příslušný správce daně.
+Společná ustanovení
+Správce daně zveřejní způsobem umožňujícím dálkový přístup seznam plátců daně, konečných spotřebitelů, kteří jsou držiteli povolení k nabytí plynu osvobozeného od daně, a držitelů povolení k nabytí plynu bez daně. Seznam obsahuje tyto údaje:
+identifikační údaje,
+typ a výrobní číslo měřicího zařízení, kterým je osazeno odběrné místo určené pro odběr plynu osvobozeného od daně, které je uvedeno v povolení k nabytí plynu osvobozeného od daně, je-li plyn nabýván prostřednictvím plynárenského zařízení,
+správce daně příslušného osobě uvedené v tomto seznamu,
+datum vydání, zániku a zrušení povolení k nabytí plynu osvobozeného od daně a povolení k nabytí plynu bez daně.
+Pokud vznikne povinnost daň přiznat a zaplatit v období od 1. ledna 2008 do 31. ledna 2008, podá plátce daně návrh na registraci k dani u celního úřadu nejpozději do 31. ledna 2008.
+Pokud právnická nebo podnikající fyzická osoba podá návrh na vydání povolení k nabytí plynu bez daně nebo na vydání povolení k nabytí plynu osvobozeného od daně nejpozději do 15. ledna 2008, považuje se taková osoba od počátku roku 2008 za držitele povolení k nabytí plynu bez daně nebo za držitele povolení k nabytí plynu osvobozeného od daně, bylo-li návrhu vyhověno.
+Předmětem daně není plyn, který byl prostřednictvím plynárenského zařízení dodán konečnému spotřebiteli do 1. ledna 2008. U konečných spotřebitelů vybavených měřením typu A nebo B podle zvláštního právního předpisu se množství plynu dodaného do 1. ledna 2008 určí odečtem měřicího zařízení k 31. prosinci 2007. U konečných spotřebitelů vybavených měřením typu C podle zvláštního právního předpisu se množství plynu dodané do 1. ledna 2008 určí odečtem měřicího zařízení k 31. prosinci 2007, podle typového diagramu dodávky přiřazeného podle zvláštního právního předpisu a platného pro období od data minulého dne dodání do 31. prosince 2007 a od 1. ledna 2008 do data dalšího dne dodání, nebo rozdělením naměřeného množství plynu od data minulého dne dodání do 31. prosince 2007 a od 1. ledna 2008 do data dalšího dne dodání podle zvláštního právního předpisu.
+DAŇ Z PEVNÝCH PALIV
+Předmět úpravy
+V této části jsou zapracovány příslušné předpisy Evropské unie a upraveny podmínky zdaňování pevných paliv daní z pevných paliv.
+Správu daně vykonávají orgány Celní správy České republiky.
+Vymezení pojmů
+Pro účely této části se rozumí
+daňovým územím území České republiky,
+dodavatelem právnická nebo podnikající fyzická osoba, která nabývá pevná paliva bez daně za účelem jejich dalšího prodeje,
+konečným spotřebitelem fyzická nebo právnická osoba, která není držitelem povolení k nabytí pevných paliv bez daně,
+kódem nomenklatury číselné označení výrobků uvedené v nařízení Rady celní a statistické nomenklatuře a o Společném celním sazebníku, ve znění platném k 1. lednu 2002,
+výrobou i těžba,
+identifikačními údaji
+obchodní firma nebo jméno,
+sídlo nebo místo pobytu,
+daňové identifikační číslo, bylo-li přiděleno.
+Pro účely této části se považuje za
+bezúhonného ten, kdo nebyl pravomocně odsouzen za hospodářský trestný čin, nebo ten, na něhož se hledí, jako by nebyl odsouzen,
+den dodání první den, kdy může nabyvatel s pevnými palivy nakládat jako vlastník.
+Plátce daně
+Plátcem daně je
+dodavatel, který na daňovém území dodal pevná paliva konečnému spotřebiteli,
+fyzická nebo právnická osoba, která použila pevná paliva osvobozená od daně k jiným účelům, než na které se osvobození od daně vztahuje, nebo
+fyzická nebo právnická osoba, která spotřebovala nezdaněná pevná paliva, s výjimkou pevných paliv osvobozených od daně.
+Plátce daně podá návrh na registraci k dani u správce daně nejpozději v den vzniku povinnosti daň přiznat a zaplatit.
+Postavení plátce daně bez povinnosti se registrovat má dodavatel, kterému nevznikla povinnost daň přiznat a zaplatit.
+Předmět daně
+Předmětem daně jsou tato pevná paliva:
+černé uhlí, brikety, bulety a podobná pevná paliva vyrobená z černého uhlí uvedená pod kódem nomenklatury 2701,
+hnědé uhlí, hnědouhelné brikety, též aglomerované hnědé uhlí kromě gagátu (černého jantaru) uvedené pod kódem nomenklatury 2702,
+koks a polokoks z černého uhlí, hnědého uhlí nebo rašeliny, též aglomerovaný, retortové uhlí uvedené pod kódem nomenklatury 2704,
+ostatní uhlovodíky uvedené pod kódy nomenklatury 2706, 2708, 2713 až 2715, pokud jsou určeny k použití, nabízeny k prodeji nebo používány pro výrobu tepla,
+rašelina, včetně rašelinového steliva, též aglomerovaná, uvedená pod kódem nomenklatury 2703, pokud je určena k použití, nabízena k prodeji nebo používána pro výrobu tepla.
+Vznik povinnosti daň přiznat a zaplatit
+Povinnost daň přiznat a zaplatit vzniká dnem
+dodání pevných paliv konečnému spotřebiteli na daňovém území,
+spotřeby pevných paliv osvobozených od daně pro jiné účely, než na které se osvobození od daně vztahuje, nebo
+spotřeby nezdaněných pevných paliv, s výjimkou pevných paliv osvobozených od daně.
+Povinnost daň přiznat a zaplatit nevzniká, pokud fyzická nebo právnická osoba, která nabyla zdaněná pevná paliva nebo pevná paliva osvobozená od daně, dodá taková pevná paliva jiné fyzické nebo právnické osobě.
+Základ a sazba daně
+Základem daně je množství pevných paliv vyjádřené v GJ spalného tepla v původním vzorku.
+Sazba daně činí 8,50 Kč/GJ spalného tepla v původním vzorku.
+Spalné teplo v původním vzorku se prokazuje výsledky měření akreditované laboratoře, které nesmí být starší než 1 rok. Pokud nelze spalné teplo v původním vzorku takto prokázat, stanoví se spalné teplo ve výši 33 GJ na tunu pevných paliv.
+Akreditovaná laboratoř má způsobilost zkušební laboratoře uznané národním akreditačním orgánem k provádění zkoušek nebo vzorkování vymezených v Osvědčení o akreditaci podle ČSN EN ISO 17025.
+Výpočet daně
+Výše daně se vypočítá vynásobením základu daně sazbou daně.
+Osvobození od daně
+Od daně jsou osvobozena pevná paliva určená k použití, nabízená k prodeji nebo použitá
+k výrobě elektřiny,
+pro kombinovanou výrobu elektřiny a tepla v generátorech s minimální stanovenou účinností podle zvláštního právního předpisu, pokud je teplo z kombinované výroby elektřiny a tepla dodáváno domácnostem,
+jako pohonná hmota nebo palivo pro plavby po vodách na daňovém území. Toto osvobození se netýká pevných paliv používaných pro soukromá rekreační plavidla vymezená v zákoně o spotřebních daních,
+v chemických redukčních procesech ve vysokých pecích,
+k výrobě koksu,
+k jinému účelu než pro pohon motorů nebo pro výrobu tepla, i když při takovém použití vzniká technologické teplo, nebo
+k technologickým účelům v podniku, ve kterém byla pevná paliva vyrobena.
+Nabýt pevná paliva osvobozená od daně podle odstavce 1 jinak než výrobou může pouze konečný spotřebitel, který je držitelem povolení k nabytí pevných paliv osvobozených od daně.
+Od daně jsou dále osvobozena pevná paliva maximálně do výše technicky zdůvodněných skutečných ztrát při dopravě a skladování. Správce daně je oprávněn posoudit, zda vzniklé ztráty pevných paliv odpovídají charakteru činnosti plátce daně a obvyklé výši ztrát jiných plátců daně při stejné nebo obdobné činnosti, a o zjištěný rozdíl upravit základ daně.
+Povolení k nabytí pevných paliv osvobozených od daně
+O vydání povolení k nabytí pevných paliv osvobozených od daně rozhoduje správce daně.
+Návrh na vydání povolení k nabytí pevných paliv osvobozených od daně obsahuje
+identifikační údaje navrhovatele,
+předpokládané roční množství odebraných pevných paliv osvobozených od daně v GJ spalného tepla v původním vzorku,
+výpis z obchodního rejstříku, nebo výpis z živnostenského rejstříku, nebo výpis z jiného obdobného rejstříku, je-li navrhovatel zahraniční osobou; výpis nesmí být v den podání návrhu starší více než 30 dnů.
+Návrh na vydání povolení k nabytí pevných paliv osvobozených od daně musí rovněž obsahovat popis účelu a způsob použití pevných paliv osvobozených od daně včetně odkazu na ustanovení této části, podle něhož jsou pevná paliva osvobozena od daně.
+Je-li navrhovatelem, statutárním orgánem navrhovatele nebo členem statutárního orgánu navrhovatele zahraniční fyzická osoba, přikládá navrhovatel k návrhu podle § 9 odst. 2 doklady odpovídající výpisům z evidence Rejstříku trestů vydané státem, jehož je tato osoba občanem, jakož i státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě po dobu více než 3 měsíců. To platí obdobně i v případě státního občana České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu více než 3 měsíců v zahraničí. Zdržovala-li se zahraniční fyzická osoba v době podle věty první v České republice, vyžádá si správce daně výpis z evidence Rejstříku trestů. V případě právnické osoby si správce daně vyžádá současně výpis z evidence Rejstříku trestů.
+Správce daně vydá povolení k nabytí pevných paliv osvobozených od daně, jsou-li splněny následující podmínky:
+návrh na vydání povolení obsahuje všechny náležitosti uvedené v § 9 odst. 2 a 3,
+navrhovatel je bezúhonný,
+navrhovatel není v úpadku podle insolvenčního zákona a
+navrhovateli nebylo v posledním roce zrušeno povolení podle § 11 odst. 3 písm. b) nebo c).
+Povolení k nabytí pevných paliv osvobozených od daně se vydává na dobu 5 let.
+Držitel povolení k nabytí pevných paliv osvobozených od daně je povinen oznámit správci daně každou změnu údajů uvedených v § 9 odst. 2 písm. c) do 15 dnů ode dne jejich změny.
+Povolení k nabytí pevných paliv osvobozených od daně zanikne
+uplynutím doby, na kterou bylo povolení vydáno,
+zánikem právnické osoby, je-li držitel povolení právnickou osobou,
+dnem nabytí právní moci usnesení soudu o prohlášení konkursu na majetek držitele povolení,
+dnem nabytí právní moci usnesení soudu o zamítnutí insolvenčního návrhu pro nedostatek majetku držitele povolení, nebo
+dnem zániku živnostenského oprávnění nebo jiného obdobného oprávnění držitele povolení.
+Správce daně zruší povolení k nabytí pevných paliv osvobozených od daně, jestliže
+držitel povolení o zrušení povolení požádá,
+držitel povolení použil pevná paliva osvobozená od daně k jiným účelům, než na které se osvobození od daně vztahuje, a nepřiznal daň odpovídající jinému účelu použití pevných paliv, nebo
+držiteli povolení byla opakovaně uložena pokuta za nevedení evidence podle § 19.
+Nabytí pevných paliv bez daně
+Nabýt pevná paliva bez daně může na daňovém území pouze dodavatel, a to pouze na základě povolení k nabytí pevných paliv bez daně. To neplatí pro nabytí pevných paliv bez daně výrobou.
+Povolení k nabytí pevných paliv bez daně
+O vydání povolení k nabytí pevných paliv bez daně rozhoduje správce daně.
+Návrh na vydání povolení k nabytí pevných paliv bez daně obsahuje
+identifikační údaje navrhovatele,
+předpokládané roční množství odebraných pevných paliv bez daně v GJ spalného tepla v původním vzorku,
+výpis z obchodního rejstříku, výpis z živnostenského rejstříku, nebo výpis z jiného obdobného rejstříku, je-li navrhovatelem zahraniční osoba; výpis nesmí být v den podání návrhu starší více než 30 dnů.
+Je-li navrhovatelem, statutárním orgánem navrhovatele nebo členem statutárního orgánu navrhovatele zahraniční fyzická osoba, přikládá navrhovatel k návrhu podle § 13 odst. 2 doklady odpovídající výpisům z evidence Rejstříku trestů vydané státem, jehož je tato osoba občanem, jakož i státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě po dobu více než 3 měsíců. To platí obdobně i v případě státního občana České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu více než 3 měsíců v zahraničí. Zdržovala-li se zahraniční fyzická osoba v době podle věty první v České republice, vyžádá si správce daně výpis z evidence Rejstříku trestů. V případě právnické osoby si správce daně vyžádá současně výpis z evidence Rejstříku trestů.
+Správce daně vydá povolení k nabytí pevných paliv bez daně, jsou-li splněny následující podmínky:
+návrh na vydání povolení obsahuje všechny náležitosti uvedené v § 13 odst. 2,
+navrhovatel je bezúhonný,
+navrhovatel není v úpadku podle insolvenčního zákona a
+navrhovateli nebylo v posledním roce zrušeno povolení podle § 15 odst. 2 písm. b) nebo c).
+Povolení k nabytí pevných paliv bez daně se vydává na dobu 5 let.
+Povolení k nabytí pevných paliv bez daně zanikne
+uplynutím doby, na kterou bylo povolení vydáno,
+zánikem právnické osoby, je-li držitel povolení právnickou osobou,
+dnem nabytí právní moci usnesení soudu o prohlášení konkursu na majetek držitele povolení,
+dnem nabytí právní moci usnesení soudu o zamítnutí insolvenčního návrhu pro nedostatek majetku držitele povolení, nebo
+dnem zániku živnostenského oprávnění nebo jiného obdobného oprávnění držitele povolení.
+Správce daně zruší povolení k nabytí pevných paliv bez daně, jestliže
+držitel povolení o zrušení povolení požádá,
+držitel povolení nabývá pevná paliva bez daně převážně za jiným účelem než za účelem jejich dalšího prodeje, nebo
+držitel povolení opakovaně porušil zákaz stanovený v § 16, nebo povinnost stanovenou v § 17, nebo mu byla opakovaně uložena pokuta za nevedení evidence podle § 18.
+Zákaz dodání pevných paliv
+Dodavatel nesmí na daňovém území dodat pevná paliva osvobozená od daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí pevných paliv osvobozených od daně.
+Dodavatel nesmí na daňovém území dodat pevná paliva bez daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí pevných paliv bez daně.
+Daňový doklad a doklad o prodeji
+Při dodání pevných paliv konečnému spotřebiteli vystavuje dodavatel daňový doklad. Při dodání pevných paliv bez daně jinému dodavateli vystavuje dodavatel doklad o prodeji.
+Daňový doklad podle odstavce 1, který je dodavatel povinen vystavit do 15 dnů ode dne dodání pevných paliv konečnému spotřebiteli, obsahuje tyto údaje:
+identifikační údaje dodavatele,
+identifikační údaje konečného spotřebitele,
+množství a druh dodaných pevných paliv v GJ spalného tepla v původním vzorku, s výjimkou pevných paliv osvobozených od daně,
+množství a druh dodaných pevných paliv osvobozených od daně v GJ spalného tepla v původním vzorku,
+výši daně celkem v Kč,
+den dodání,
+datum vystavení daňového dokladu,
+číslo daňového dokladu.
+Pokud jsou konečnému spotřebiteli na základě povolení k nabytí pevných paliv osvobozených od daně dodána pevná paliva osvobozená od daně, musí být na daňovém dokladu uvedeno, že se jedná o pevná paliva osvobozená od daně s odkazem na příslušné ustanovení této části, na základě něhož jsou tato pevná paliva osvobozena od daně.
+Doklad o prodeji podle odstavce 1, který je dodavatel povinen vystavit do 15 dnů ode dne dodání pevných paliv bez daně jinému dodavateli, obsahuje tyto údaje:
+identifikační údaje dodavatele, který dodává pevná paliva,
+identifikační údaje dodavatele, který nabývá pevná paliva,
+množství a druh dodaných pevných paliv v GJ spalného tepla v původním vzorku,
+den dodání,
+datum vystavení dokladu o prodeji,
+číslo dokladu o prodeji.
+Daňový doklad nebo doklad o prodeji lze vystavit se souhlasem fyzické nebo právnické osoby, která jej přijímá, v elektronické podobě, pokud je podepsán uznávaným elektronickým podpisem nebo zapečetěn uznávanou elektronickou pečetí dodavatele.
+Evidence
+Dodavatel vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství a druzích
+nabytých pevných paliv,
+dodaných pevných paliv, s výjimkou pevných paliv osvobozených od daně a pevných paliv dodaných bez daně,
+dodaných pevných paliv osvobozených od daně,
+dodaných pevných paliv bez daně,
+spotřebovaných pevných paliv, s výjimkou pevných paliv osvobozených od daně,
+spotřebovaných pevných paliv osvobozených od daně,
+zásob pevných paliv.
+Evidence podle odstavce 1 se člení podle fyzických nebo právnických osob, od kterých jsou pevná paliva nabyta a kterým jsou pevná paliva dodána, a obsahuje jejich identifikační údaje. Evidence pevných paliv podle odstavce 1 písm. b) nemusí být členěna podle jednotlivých fyzických nebo právnických osob.
+Plátce daně podle § 3 odst. 1 písm. c) a držitel povolení k nabytí pevných paliv osvobozených od daně vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství a druzích
+nabytých pevných paliv,
+spotřebovaných pevných paliv, s výjimkou pevných paliv osvobozených od daně,
+spotřebovaných pevných paliv osvobozených od daně,
+zásob pevných paliv.
+Evidence podle odstavce 1 se člení podle fyzických nebo právnických osob, od kterých jsou pevná paliva nabyta, a obsahuje jejich identifikační údaje.
+Evidence podle § 18 a 19 se uchovává po dobu 10 let od konce zdaňovacího období, ke kterému se evidence vztahuje.
+Vracení daně osobám požívajícím výsad a imunit
+Pro účely této části se osobou požívající výsad a imunit podle mezinárodních smluv, které jsou součástí českého právního řádu (dále jen „osoba požívající výsad a imunit“), rozumí
+diplomatická mise a konzulární úřad, s výjimkou konzulárních úřadů vedených honorárními konzulárními úředníky, akreditované pro Českou republiku jako orgány cizích států,
+zvláštní mise,
+zastupitelství mezinárodní organizace,
+orgány Evropské unie,
+člen diplomatické mise nebo konzulárního úřadu se sídlem v tuzemsku, s výjimkou člena služebního personálu a soukromé služební osoby, který je akreditován pro Českou republiku a nemá místo pobytu v tuzemsku,
+úředník zastupitelství mezinárodní organizace, který nemá místo pobytu na daňovém území České republiky a není státním občanem České republiky, pokud je trvale přidělen k výkonu svých úředních funkcí na daňovém území, a státní úředník cizího státu, který je členem zvláštní mise akreditované pro Českou republiku a který nemá místo pobytu na daňovém území,
+člen rodiny osoby uvedené v písmenu e) nebo f), pokud s ní žije ve společně hospodařící domácnosti na daňovém území, dosáhl věku 15 let, není státním občanem České republiky a je registrován Ministerstvem zahraničních věcí.
+Společně hospodařící domácností se pro účely této části rozumí společenství fyzických osob, které spolu trvale žijí a společně uhrazují náklady na své potřeby.
+Osobám požívajícím výsad a imunit vzniká nárok na vrácení daně dnem dodání zdaněných pevných paliv.
+Zaplacená daň se vrací na základě uplatňování principu vzájemnosti, který potvrzuje Ministerstvo zahraničních věcí, nebo v souladu s mezinárodními smlouvami, kterými je Česká republika vázána a které upravují postavení mezinárodních organizací a jejich úředníků.
+Nárok na vrácení daně se prokazuje daňovým dokladem.
+Osoba požívající výsad a imunit uplatní nárok na vrácení daně v daňovém přiznání. Daňové přiznání se podává do konce zdaňovacího období následujícího po zdaňovacím období, ve kterém nárok vznikl.
+Orgány Evropské unie se sídlem na daňovém území podávají daňové přiznání prostřednictvím Ministerstva financí správci daně místně příslušnému podle jejich sídla na daňovém území.
+Osobě požívající výsad a imunit se vrátí zaplacená daň do 30 dnů ode dne, kdy byl nárok na vrácení daně vyměřen.
+Osoby požívající výsad a imunit mají pro účely vrácení daně procesní postavení poplatníka bez povinnosti se registrovat.
+Nárok na vrácení daně zaniká uplynutím jednoho roku od konce zdaňovacího období, ve kterém nárok na vrácení daně vznikl. Nárok na vrácení daně orgánům Evropské unie nezaniká.
+Zdaňovací období
+Zdaňovacím obdobím je kalendářní měsíc.
+Daňové přiznání a splatnost daně
+Plátci daně, kterým vznikla povinnost daň přiznat a zaplatit, jsou povinni předložit daňové přiznání a zaplatit daň do dvacátého pátého dne po skončení zdaňovacího období, ve kterém tato povinnost vznikla.
+Dodatečné daňové přiznání na nižší daňovou povinnost může plátce daně uplatnit nejpozději do 6 měsíců ode dne, kdy uplynula lhůta pro podání daňového přiznání za zdaňovací období, jehož se dodatečné daňové přiznání týká. Tuto lhůtu nelze prodloužit ani nelze povolit navrácení v předešlý stav.
+Přestupky
+Právnická nebo podnikající fyzická osoba se jako dodavatel dopustí přestupku tím, že
+dodá na daňovém území pevná paliva osvobozená od daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí pevných paliv osvobozených od daně,
+dodá na daňovém území pevná paliva bez daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí pevných paliv bez daně, nebo
+nevystaví daňový doklad nebo doklad o prodeji podle § 17.
+Za přestupek podle odstavce 1 lze uložit pokutu do
+100 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), nebo
+200 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b).
+K řízení o přestupcích podle této části je příslušný správce daně.
+Společná ustanovení
+Správce daně zveřejní způsobem umožňujícím dálkový přístup seznam plátců daně, konečných spotřebitelů, kteří jsou držiteli povolení k nabytí pevných paliv osvobozených od daně, a držitelů povolení k nabytí pevných paliv bez daně. Seznam obsahuje tyto údaje:
+identifikační údaje,
+správce daně příslušného osobě uvedené v tomto seznamu,
+datum vydání, zániku a zrušení povolení k nabytí pevných paliv bez daně nebo povolení k nabytí pevných paliv osvobozených od daně.
+Pokud vznikne povinnost daň přiznat a zaplatit v období od 1. ledna 2008 do 31. ledna 2008, podá plátce daně návrh na registraci k dani u celního úřadu nejpozději do 31. ledna 2008.
+Pokud právnická nebo podnikající fyzická osoba podá návrh na vydání povolení k nabytí pevných paliv bez daně nebo na vydání povolení k nabytí pevných paliv osvobozených od daně nejpozději do 15. ledna 2008, považuje se taková osoba od počátku roku 2008 za držitele povolení k nabytí pevných paliv bez daně nebo za držitele povolení k nabytí pevných paliv osvobozených od daně, bylo-li návrhu vyhověno.
+DAŇ Z ELEKTŘINY
+Předmět úpravy
+V této části jsou zapracovány příslušné předpisy Evropské unie a upraveny podmínky zdaňování elektřiny daní z elektřiny.
+Správu daně vykonávají orgány Celní správy České republiky.
+Vymezení pojmů
+Pro účely této části se rozumí
+daňovým územím území České republiky,
+dodavatelem obchodník s elektřinou, výrobce podle energetického zákona a operátor trhu s elektřinou,
+konečným spotřebitelem fyzická nebo právnická osoba, která není držitelem povolení k nabytí elektřiny bez daně; konečným spotřebitelem není provozovatel distribuční soustavy, provozovatel přenosové soustavy,
+ekologicky šetrnou elektřinou elektřina
+pocházející ze sluneční energie, větrné energie nebo geotermální energie,
+vyrobená ve vodních elektrárnách,
+vyrobená z biomasy podle zákona upravujícího podporované zdroje energie nebo produktů vyrobených z biomasy,
+vyrobená z emisí metanu z uzavřených uhelných dolů, nebo
+vyrobená z palivových článků,
+kódem nomenklatury číselné označení výrobků uvedené v nařízení Rady o celní a statistické nomenklatuře a o Společném celním sazebníku, ve znění platném k 1. lednu 2002,
+identifikačními údaji
+obchodní firma nebo jméno,
+sídlo nebo místo pobytu,
+daňové identifikační číslo, bylo-li přiděleno.
+Pro účely této části se považuje za
+bezúhonného ten, kdo nebyl pravomocně odsouzen za hospodářský trestný čin, nebo ten, na něhož se hledí, jako by nebyl odsouzen,
+den dodání den odečtu z měřicího zařízení, popřípadě den zjištění skutečné spotřeby elektřiny.
+Plátce daně
+Plátcem daně je
+dodavatel, který na daňovém území dodal elektřinu konečnému spotřebiteli,
+provozovatel distribuční soustavy a provozovatel přenosové soustavy,
+fyzická nebo právnická osoba, která použila elektřinu osvobozenou od daně podle § 8 odst. 2 k jiným účelům, než na které se osvobození od daně vztahuje, nebo
+fyzická nebo právnická osoba, která spotřebovala nezdaněnou elektřinu, s výjimkou elektřiny osvobozené od daně.
+Plátce daně podá návrh na registraci k dani u správce daně nejpozději v den vzniku povinnosti daň přiznat a zaplatit.
+Postavení plátce daně bez povinnosti se registrovat má dodavatel, kterému nevznikla povinnost daň přiznat a zaplatit.
+Předmět daně
+Předmětem daně je elektřina uvedená pod kódem nomenklatury 2716.
+Vznik povinnosti daň přiznat a zaplatit
+Povinnost daň přiznat a zaplatit vzniká dnem
+dodání elektřiny konečnému spotřebiteli na daňovém území,
+spotřeby elektřiny osvobozené od daně podle § 8 odst. 2 k jiným účelům, než na které se osvobození od daně vztahuje, nebo
+spotřeby nezdaněné elektřiny, s výjimkou elektřiny osvobozené od daně.
+Povinnost daň přiznat a zaplatit nevzniká, pokud fyzická nebo právnická osoba, která nabyla zdaněnou elektřinu nebo elektřinu osvobozenou od daně, dodá takovou elektřinu jiné fyzické nebo právnické osobě.
+Základ a sazba daně
+Základem daně je množství elektřiny v MWh.
+Sazba daně činí 28,30 Kč/MWh.
+Výpočet daně
+Výše daně se vypočítá vynásobením základu daně sazbou daně.
+Osvobození od daně
+Od daně je osvobozena elektřina
+ekologicky šetrná vyrobená v odběrných místech podle energetického zákona, pokud
+je v těchto odběrných místech současně spotřebována nebo je sdílena výrobcem elektřiny, který není držitelem licence na výrobu elektřiny, do jiného odběrného místa podle energetického zákona a
+instalovaný výkon výrobny elektřiny podle energetického zákona nepřesahuje 50 kW,
+vyrobená v dopravních prostředcích, pokud je tam spotřebována,
+vyrobená ze zdaněných výrobků, které jsou předmětem daně ze zemního plynu, daně z pevných paliv nebo spotřební daně, v zařízeních se jmenovitým elektrickým výkonem do 2 MW, pokud je taková elektřina spotřebována přímo nebo je dodávána prostřednictvím vedení, kterým je dodávána výhradně taková elektřina.
+Od daně je osvobozena také elektřina určená k použití nebo použitá
+k technologickým účelům nezbytným pro výrobu elektřiny nebo kombinovanou výrobu elektřiny a tepla,
+k technologickým účelům nezbytným k udržení schopnosti vyrábět elektřinu nebo kombinovanou výrobu elektřiny a tepla,
+ke krytí ztrát v přenosové nebo distribuční soustavě,
+při provozování dráhy a drážní dopravy pro přepravu osob a věcí na dráze železniční, tramvajové a trolejbusové, nebo
+při elektrolytických procesech.
+Nabýt elektřinu osvobozenou od daně podle odstavce 2 jinak než výrobou může pouze konečný spotřebitel, který je držitelem povolení k nabytí elektřiny osvobozené od daně.
+Je-li elektřina uvedená v odstavci 2 odebírána konečným spotřebitelem od dodavatele, je taková elektřina osvobozena od daně pouze tehdy, pokud byla odebrána do odběrného místa určeného pro odběr elektřiny osvobozené od daně, jehož registrační číslo je uvedeno v povolení k nabytí elektřiny osvobozené od daně.
+Povolení k nabytí elektřiny osvobozené od daně
+O vydání povolení k nabytí elektřiny osvobozené od daně rozhoduje správce daně.
+Návrh na vydání povolení k nabytí elektřiny osvobozené od daně obsahuje
+identifikační údaje navrhovatele,
+předpokládané roční množství odebrané elektřiny osvobozené od daně v MWh,
+registrační číslo odběrného místa určeného pro odběr elektřiny osvobozené od daně,
+rozhodnutí o udělení licence na výrobu elektřiny, výpis z obchodního rejstříku, nebo výpis z živnostenského rejstříku, nebo výpis z jiného obdobného rejstříku, je-li navrhovatel zahraniční osobou; výpis nesmí být v den podání návrhu starší více než 30 dnů.
+Návrh na vydání povolení k nabytí elektřiny osvobozené od daně musí rovněž obsahovat
+popis účelu a způsobu použití elektřiny osvobozené od daně včetně odkazu na ustanovení této části, podle něhož je elektřina osvobozená od daně,
+schéma zobrazující odběrné elektrické zařízení v odběrném místě navrhovatele odpovídající skutečnému stavu, včetně zařízení využívajících elektřinu osvobozenou od daně.
+Je-li navrhovatelem, statutárním orgánem navrhovatele nebo členem statutárního orgánu navrhovatele zahraniční fyzická osoba, přikládá navrhovatel k návrhu podle § 9 odst. 2 doklady odpovídající výpisům z evidence Rejstříku trestů vydané státem, jehož je tato osoba občanem, jakož i státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě po dobu více než 3 měsíců. To platí obdobně i v případě státního občana České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu více než 3 měsíců v zahraničí. Zdržovala-li se zahraniční fyzická osoba v době podle věty první v České republice, vyžádá si správce daně výpis z evidence Rejstříku trestů. V případě právnické osoby si správce daně vyžádá současně výpis z evidence Rejstříku trestů.
+Správce daně vydá povolení k nabytí elektřiny osvobozené od daně, jsou-li splněny následující podmínky:
+návrh na vydání povolení obsahuje všechny náležitosti uvedené v § 9 odst. 2 a 3,
+navrhovatel je bezúhonný,
+navrhovatel není v úpadku podle insolvenčního zákona a
+navrhovateli nebylo v posledním roce zrušeno povolení podle § 11 odst. 4 písm. b) nebo c).
+Povolení k nabytí elektřiny osvobozené od daně se vydává na dobu 5 let.
+Držitel povolení k nabytí elektřiny osvobozené od daně je povinen oznámit správci daně každou změnu údajů uvedených v § 9 odst. 2 písm. c) a d) a v § 9 odst. 3 do 15 dnů ode dne jejich změny.
+Dojde-li ke změně registračního čísla odběrného místa určeného pro odběr elektřiny osvobozené od daně, správce daně na základě oznámení rozhodne do 30 dnů o změně původního povolení k nabytí elektřiny osvobozené od daně.
+Povolení k nabytí elektřiny osvobozené od daně zanikne
+uplynutím doby, na kterou bylo povolení vydáno,
+zánikem právnické osoby, je-li držitel povolení právnickou osobou,
+dnem nabytí právní moci usnesení soudu o prohlášení konkursu na majetek držitele povolení,
+dnem nabytí právní moci usnesení soudu o zamítnutí insolvenčního návrhu pro nedostatek majetku držitele povolení, nebo
+dnem zániku živnostenského oprávnění nebo jiného obdobného oprávnění držitele povolení.
+Správce daně zruší povolení k nabytí elektřiny osvobozené od daně, jestliže
+držitel povolení o zrušení povolení požádá,
+držitel povolení použil elektřinu osvobozenou od daně k jiným účelům, než na které se osvobození od daně vztahuje, a nepřiznal daň odpovídající jinému účelu použití elektřiny, nebo
+držiteli povolení byla opakovaně uložena pokuta za nevedení evidence podle § 19.
+Nabytí elektřiny bez daně
+Nabýt elektřinu bez daně může na daňovém území pouze obchodník s elektřinou, a to pouze na základě povolení k nabytí elektřiny bez daně. To neplatí pro nabytí elektřiny bez daně výrobou a nabytí elektřiny operátorem trhu s elektřinou.
+Povolení k nabytí elektřiny bez daně
+O vydání povolení k nabytí elektřiny bez daně rozhoduje správce daně.
+Návrh na vydání povolení k nabytí elektřiny bez daně obsahuje
+identifikační údaje navrhovatele,
+předpokládané roční množství odebrané elektřiny bez daně v MWh,
+výpis z obchodního rejstříku, výpis z živnostenského rejstříku, nebo výpis z jiného obdobného rejstříku, je-li navrhovatelem zahraniční osoba; výpis nesmí být v den podání návrhu starší více než 30 dnů,
+doklad prokazující, že navrhovatel je držitelem licence na obchod s elektřinou.
+Je-li navrhovatelem, statutárním orgánem navrhovatele nebo členem statutárního orgánu navrhovatele zahraniční fyzická osoba, přikládá navrhovatel k návrhu podle § 13 odst. 2 doklady odpovídající výpisům z evidence Rejstříku trestů vydané státem, jehož je tato osoba občanem, jakož i státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě po dobu více než 3 měsíců. To platí obdobně i v případě státního občana České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu více než 3 měsíců v zahraničí. Zdržovala-li se zahraniční fyzická osoba v době podle věty první v České republice, vyžádá si správce daně výpis z evidence Rejstříku trestů. V případě právnické osoby si správce daně vyžádá současně výpis z evidence Rejstříku trestů.
+Správce daně vydá povolení k nabytí elektřiny bez daně, jsou-li splněny následující podmínky:
+návrh na vydání povolení obsahuje všechny náležitosti uvedené v § 13 odst. 2,
+navrhovatel je bezúhonný,
+navrhovatel není v úpadku podle insolvenčního zákona a
+navrhovateli nebylo v posledním roce zrušeno povolení podle § 15 odst. 2 písm. b) nebo c).
+Povolení k nabytí elektřiny bez daně se vydává na dobu 5 let.
+Povolení k nabytí elektřiny bez daně zanikne
+uplynutím doby, na kterou bylo povolení vydáno,
+zánikem právnické osoby, je-li držitel povolení právnickou osobou,
+dnem nabytí právní moci usnesení soudu o prohlášení konkursu na majetek držitele povolení,
+dnem nabytí právní moci usnesení soudu o zamítnutí insolvenčního návrhu pro nedostatek majetku držitele povolení,
+dnem zániku nebo zrušení licence podle § 13 odst. 2 písm. d), nebo
+dnem zániku živnostenského oprávnění nebo jiného obdobného oprávnění držitele povolení.
+Správce daně zruší povolení k nabytí elektřiny bez daně, jestliže
+držitel povolení o zrušení povolení požádá,
+držitel povolení nabývá elektřinu bez daně převážně za jiným účelem než za účelem jejího dalšího prodeje, nebo
+držitel povolení opakovaně porušil zákaz stanovený v § 16 nebo povinnost stanovenou v § 17, nebo mu byla opakovaně uložena pokuta za nevedení evidence podle § 18.
+Zákaz dodání elektřiny
+Dodavatel nesmí na daňovém území dodat elektřinu osvobozenou od daně podle § 8 odst. 2 fyzické nebo právnické osobě, která není držitelem povolení k nabytí elektřiny osvobozené od daně.
+Dodavatel nesmí na daňovém území dodat elektřinu bez daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí elektřiny bez daně.
+Daňový doklad a doklad o prodeji
+Při dodání elektřiny konečnému spotřebiteli vystavuje dodavatel daňový doklad. Při dodání elektřiny bez daně obchodníkovi s elektřinou vystavuje dodavatel doklad o prodeji.
+Daňový doklad podle odstavce 1, který je dodavatel povinen vystavit do 15 dnů ode dne dodání elektřiny konečnému spotřebiteli, obsahuje tyto údaje:
+identifikační údaje dodavatele,
+identifikační údaje konečného spotřebitele,
+registrační číslo odběrného místa,
+množství dodané elektřiny v MWh, s výjimkou elektřiny osvobozené od daně,
+množství dodané elektřiny osvobozené od daně v MWh,
+výši daně celkem v Kč,
+den dodání,
+datum vystavení daňového dokladu,
+číslo daňového dokladu.
+Pokud je konečnému spotřebiteli na základě povolení k nabytí elektřiny osvobozené od daně dodána elektřina osvobozená od daně podle § 8 odst. 2, musí být na daňovém dokladu uvedeno, že se jedná o elektřinu osvobozenou od daně s odkazem na příslušné ustanovení této části, na základě něhož je dodaná elektřina osvobozena od daně.
+Doklad o prodeji podle odstavce 1, který je dodavatel povinen vystavit do 15 dnů ode dne dodání elektřiny bez daně obchodníkovi s elektřinou, obsahuje tyto údaje:
+identifikační údaje dodavatele,
+identifikační údaje obchodníka s elektřinou,
+množství dodané elektřiny v MWh,
+den dodání,
+datum vystavení dokladu o prodeji,
+číslo dokladu o prodeji.
+Daňový doklad nebo doklad o prodeji lze vystavit se souhlasem fyzické nebo právnické osoby, která jej přijímá, v elektronické podobě, pokud je podepsán uznávaným elektronickým podpisem nebo zapečetěn uznávanou elektronickou pečetí dodavatele.
+Evidence
+Dodavatel vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství
+nabyté elektřiny osvobozené od daně,
+nabyté elektřiny bez daně,
+dodané elektřiny, s výjimkou elektřiny osvobozené od daně a elektřiny dodané bez daně,
+dodané elektřiny osvobozené od daně,
+dodané elektřiny bez daně,
+elektřiny použité pro vlastní spotřebu, s výjimkou elektřiny osvobozené od daně, pokud dodavatel dodává takovou elektřinu sám sobě,
+elektřiny osvobozené od daně použité pro vlastní spotřebu, pokud dodavatel dodává takovou elektřinu sám sobě.
+Evidence podle odstavce 1 se člení podle fyzických nebo právnických osob, od kterých je elektřina nabyta a kterým je elektřina dodána, a obsahuje jejich identifikační údaje. Evidence elektřiny podle odstavce 1 písm. c) nemusí být členěna podle jednotlivých fyzických nebo právnických osob.
+Plátce daně podle § 3 odst. 1 písm. d) a držitel povolení k nabytí elektřiny osvobozené od daně vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství
+nabyté elektřiny, s výjimkou elektřiny osvobozené od daně,
+nabyté elektřiny osvobozené od daně,
+spotřebované elektřiny, s výjimkou elektřiny osvobozené od daně,
+spotřebované elektřiny osvobozené od daně.
+Evidence podle odstavce 1 se člení podle fyzických nebo právnických osob, od kterých je elektřina nabyta, a obsahuje jejich identifikační údaje.
+Provozovatel distribuční soustavy a provozovatel přenosové soustavy vede pro daňové účely za jednotlivá zdaňovací období evidenci o množství
+elektřiny použité pro vlastní spotřebu, s výjimkou elektřiny osvobozené od daně,
+elektřiny osvobozené od daně použité pro vlastní spotřebu.
+Evidence podle § 18 až 20 se uchovává po dobu 10 let od konce zdaňovacího období, ke kterému se evidence vztahuje.
+Vracení daně osobám požívajícím výsad a imunit
+Pro účely této části se osobou požívající výsad a imunit podle mezinárodních smluv, které jsou součástí českého právního řádu (dále jen „osoba požívající výsad a imunit“), rozumí
+diplomatická mise a konzulární úřad, s výjimkou konzulárních úřadů vedených honorárními konzulárními úředníky, akreditované pro Českou republiku jako orgány cizích států,
+zvláštní mise,
+zastupitelství mezinárodní organizace,
+orgány Evropské unie,
+člen diplomatické mise nebo konzulárního úřadu se sídlem v tuzemsku, s výjimkou člena služebního personálu a soukromé služební osoby, který je akreditován pro Českou republiku a nemá místo pobytu v tuzemsku,
+úředník zastupitelství mezinárodní organizace, který nemá místo pobytu na daňovém území České republiky a není státním občanem České republiky, pokud je trvale přidělen k výkonu svých úředních funkcí na daňovém území, a státní úředník cizího státu, který je členem zvláštní mise akreditované pro Českou republiku a který nemá místo pobytu na daňovém území,
+člen rodiny osoby uvedené v písmenu e) nebo f), pokud s ní žije ve společně hospodařící domácnosti na daňovém území, dosáhl věku 15 let, není státním občanem České republiky a je registrován Ministerstvem zahraničních věcí.
+Společně hospodařící domácností se pro účely této části rozumí společenství fyzických osob, které spolu trvale žijí a společně uhrazují náklady na své potřeby.
+Osobám požívajícím výsad a imunit vzniká nárok na vrácení daně dnem dodání zdaněné elektřiny.
+Zaplacená daň se vrací na základě uplatňování principu vzájemnosti, který potvrzuje Ministerstvo zahraničních věcí, nebo v souladu s mezinárodními smlouvami, kterými je Česká republika vázána a které upravují postavení mezinárodních organizací a jejich úředníků.
+Nárok na vrácení daně se prokazuje daňovým dokladem.
+Osoba požívající výsad a imunit uplatní nárok na vrácení daně v daňovém přiznání. Daňové přiznání se podává do konce zdaňovacího období následujícího po zdaňovacím období, ve kterém nárok vznikl.
+Orgány Evropské unie se sídlem na daňovém území podávají daňové přiznání prostřednictvím Ministerstva financí správci daně místně příslušnému podle jejich sídla na daňovém území.
+Osobě požívající výsad a imunit se vrátí zaplacená daň do 30 dnů ode dne, kdy byl nárok na vrácení daně vyměřen.
+Osoby požívající výsad a imunit mají pro účely vrácení daně procesní postavení poplatníka bez povinnosti se registrovat.
+Nárok na vrácení daně zanikne uplynutím jednoho roku od konce zdaňovacího období, ve kterém nárok na vrácení daně vznikl. Nárok na vrácení daně orgánům Evropské unie nezanikne.
+Zdaňovací období
+Zdaňovacím obdobím je kalendářní měsíc.
+Daňové přiznání a splatnost daně
+Plátci daně, kterým vznikla povinnost daň přiznat a zaplatit, jsou povinni předložit daňové přiznání a zaplatit daň do dvacátého pátého dne po skončení zdaňovacího období, ve kterém tato povinnost vznikla.
+Dodatečné daňové přiznání na nižší daňovou povinnost může plátce daně uplatnit nejpozději do 6 měsíců ode dne, kdy uplynula lhůta pro podání daňového přiznání za zdaňovací období, jehož se dodatečné daňové přiznání týká. Tuto lhůtu nelze prodloužit ani nelze povolit navrácení v předešlý stav.
+Přestupky
+Právnická nebo podnikající fyzická osoba se jako dodavatel dopustí přestupku tím, že
+dodá na daňovém území elektřinu osvobozenou od daně podle § 8 odst. 2 fyzické nebo právnické osobě, která není držitelem povolení k nabytí elektřiny osvobozené od daně,
+dodá na daňovém území elektřinu bez daně fyzické nebo právnické osobě, která není držitelem povolení k nabytí elektřiny bez daně, nebo
+nevystaví daňový doklad nebo doklad o prodeji podle § 17.
+Za přestupek podle odstavce 1 lze uložit pokutu do
+100 000 Kč, jde-li o přestupek podle odstavce 1 písm. c), nebo
+200 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo b).
+K řízení o přestupcích podle této části je příslušný správce daně.
+Společná ustanovení
+Správce daně zveřejní způsobem umožňujícím dálkový přístup seznam plátců daně, konečných spotřebitelů, kteří jsou držiteli povolení k nabytí elektřiny osvobozené od daně, a držitelů povolení k nabytí elektřiny bez daně. Seznam obsahuje tyto údaje:
+identifikační údaje,
+registrační číslo odběrného místa určeného pro odběr elektřiny osvobozené od daně uvedeného v povolení k nabytí elektřiny osvobozené od daně,
+správce daně příslušného osobě uvedené v tomto seznamu,
+datum vydání, zániku a zrušení povolení k nabytí elektřiny osvobozené od daně a povolení k nabytí elektřiny bez daně.
+Pokud vznikne povinnost daň přiznat a zaplatit v období od 1. ledna 2008 do 31. ledna 2008, podá plátce daně návrh na registraci k dani u celního úřadu nejpozději do 31. ledna 2008.
+Pokud právnická nebo podnikající fyzická osoba podá návrh na vydání povolení k nabytí elektřiny bez daně nebo na vydání povolení k nabytí elektřiny osvobozené od daně nejpozději do 15. ledna 2008, považuje se taková osoba od počátku roku 2008 za držitele povolení k nabytí elektřiny bez daně nebo za držitele povolení k nabytí elektřiny osvobozené od daně, bylo-li návrhu vyhověno.
+Předmětem daně není elektřina, která byla dodána konečnému spotřebiteli do 1. ledna 2008. U konečných spotřebitelů vybavených měřením typu A nebo B podle zvláštního právního předpisu se množství elektřiny dodané do 1. ledna 2008 určí odečtem měřicího zařízení k 31. prosinci 2007. U konečných spotřebitelů vybavených měřením typu C podle zvláštního právního předpisu se množství elektřiny dodané do 1. ledna 2008 určí odečtem měřicího zařízení k 31. prosinci 2007, podle typového diagramu dodávky přiřazeného podle zvláštního právního předpisu a platného pro období od data minulého dne dodání do 31. prosince 2007 a od 1. ledna 2008 do data dalšího dne dodání, nebo rovnoměrným rozdělením dodané elektřiny na části úměrné délce období od data minulého dne dodání do 31. prosince 2007 a od 1. ledna 2008 do data dalšího dne dodání.

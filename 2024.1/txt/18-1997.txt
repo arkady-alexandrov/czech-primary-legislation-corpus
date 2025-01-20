@@ -1,0 +1,22 @@
+OBČANSKOPRÁVNÍ ODPOVĚDNOST ZA JADERNÉ ŠKODY
+Pro účely občanskoprávní odpovědnosti za jaderné škody se použijí ustanovení mezinárodní smlouvy, kterou je Česká republika vázána.
+Ustanovení občanského zákoníku se použijí jen tehdy, nestanoví-li mezinárodní smlouva nebo tento zákon jinak.
+Držitel povolení k provozu jaderného zařízení nebo k jakékoliv činnosti spojené s užíváním jaderného zařízení nebo držitel povolení k přepravě jaderných materiálů je provozovatelem odpovědným za jadernou škodu podle mezinárodní smlouvy, kterou je Česká republika vázána.
+Pokud jedna osoba je držitelem povolení k více jaderným zařízením nacházejícím se na území, pro něž byl schválen společný vnitřní havarijní plán, jsou tato zařízení považována pro účely odpovědnosti za jaderné škody za jedno jaderné zařízení. Za jedno jaderné zařízení ve vztahu k odpovědnosti za jaderné škody však nelze považovat více jaderných zařízení, ke kterým mají povolení různé osoby, i když tato zařízení na sebe přímo navazují.
+Při stanovení rozsahu a způsobu náhrady jaderné škody se použijí ustanovení občanského zákoníku. Pro stanovení výše škody se použijí předpisy platné v době vzniku jaderné události, která jadernou škodu způsobila.
+Jadernou škodou je také škoda vzniklá vynaložením nákladů na nezbytná opatření k odvrácení nebo snížení ozáření nebo k obnovení původního nebo obdobného stavu životního prostředí, pokud byla tato opatření vyvolána v důsledku jaderné události a povaha škody to umožňuje.
+Státní úřad pro jadernou bezpečnost (dále jen „Úřad“) stanoví vyhláškou limity koncentrace a množství jaderného materiálu, na které se ustanovení o jaderných škodách v souladu s mezinárodní smlouvou nevztahují.
+Odpovědnost držitele povolení za jadernou škodu způsobenou každou jednotlivou jadernou událostí je omezena v případě
+jaderných zařízení pro energetické účely, skladů a úložišť vyhořelého jaderného paliva, určeného pro tato zařízení, nebo jaderných materiálů, vzniklých zpracováním tohoto paliva, na částku 8 mld. Kč,
+ostatních jaderných zařízení a přeprav na částku 2 mld. Kč.
+Držitel povolení podle § 33 je povinen sjednat pojištění své vzniku povinnosti k náhradě jaderné škody s pojistitelem oprávněným podle zvláštního zákona, pokud není stanoveno jiné finanční zajištění pro případ vzniku povinnosti k náhradě jaderné škody.
+Ministerstvo financí v dohodě s Úřadem a Ministerstvem průmyslu a obchodu stanoví formou rozhodnutí o výjimce z odstavce 1 v zájmu hospodárného vynakládání státních prostředků, u kterého držitele povolení se namísto pojištění vyžaduje jiné finanční zajištění pro případ vzniku povinnosti k náhradě jaderné škody.
+Limit pojistného plnění v případech podle § 35 písm. a) nesmí být nižší než 2 mld. Kč, v případech podle § 35 písm. b) nižší než 300 mil. Kč.
+Pojištění se uzavírá nebo jiné finanční zajištění se stanoví zvlášť pro každé jaderné zařízení nebo přepravu jaderných materiálů ve smyslu § 33 odst. 2.
+Bližší podmínky jiného finančního zajištění stanoví Ministerstvo financí.
+Stát poskytuje záruku za uspokojení přiznaných nároků na náhradu jaderné škody, pokud nejsou uhrazeny z povinného pojištění nebo jiného stanoveného finančního zajištění, a to do částky
+8 mld. Kč po vyčerpání plnění pojistitele v rozsahu 2 mld. Kč v případech zařízení podle § 35 písm. a),
+2 mld. Kč po vyčerpání plnění pojistitele v rozsahu 300 mil. Kč v případech zařízení podle § 35 písm. b).
+Právo státu jako ručitele na postih za uspokojení přiznaných nároků na náhradu jaderné škody vůči držiteli povolení není dotčeno.
+Právo na náhradu jaderné škody se promlčí, jestliže nárok na její náhradu nebyl uplatněn ve lhůtě tří let ode dne, kdy se poškozený o události, která vedla k jaderné škodě, a o tom, kdo za ni odpovídá, dozvěděl nebo mohl dozvědět, nejpozději však ve lhůtě deseti let ode dne vzniku takové události; v případě pojištění začínají tyto lhůty běžet uplynutím jednoho roku ode dne vzniku pojistné události.
+Držitel povolení je v případě, kdy u něj dojde ke vzniku jaderné události, povinen písemně oznámit v oblasti ovlivněné touto událostí podle zjištění Úřadu na základě činnosti celostátní radiační monitorovací sítě, že má povinnost k náhradě jaderné škody způsobené touto událostí. Toto písemné oznámení musí být veřejně přístupné u držitele povolení a na příslušném krajském úřadu a na všech obecních úřadech v této oblasti.

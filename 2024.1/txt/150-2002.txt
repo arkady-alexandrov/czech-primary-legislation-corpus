@@ -1,0 +1,647 @@
+ZÁKLADNÍ USTANOVENÍ
+OBECNÁ USTANOVENÍ
+Tento zákon upravuje
+pravomoc a příslušnost soudů jednajících a rozhodujících ve správním soudnictví a některé otázky organizace soudů a postavení soudců,
+postup soudů, účastníků řízení (dále jen „účastník“) a dalších osob ve správním soudnictví.
+Ve správním soudnictví poskytují soudy ochranu veřejným subjektivním právům fyzických i právnických osob způsobem stanoveným tímto zákonem a za podmínek stanovených tímto nebo zvláštním zákonem a rozhodují v dalších věcech, v nichž tak stanoví tento zákon.
+Ve správním soudnictví jednají a rozhodují krajské soudy a Nejvyšší správní soud. U krajských soudů vykonávají správní soudnictví specializované senáty a specializovaní samosoudci.
+Nestanoví-li tento zákon jinak, vztahují se na organizaci soudů a postavení soudců, rozhodujících ve správním soudnictví, obecné právní předpisy.
+PRAVOMOC A PŘÍSLUŠNOST SOUDŮ
+Pravomoc soudů
+Soudy ve správním soudnictví rozhodují o
+žalobách proti rozhodnutím vydaným v oblasti veřejné správy orgánem moci výkonné, orgánem územního samosprávného celku, jakož i fyzickou nebo právnickou osobou nebo jiným orgánem, pokud jim bylo svěřeno rozhodování o právech a povinnostech fyzických a právnických osob v oblasti veřejné správy, (dále jen „správní orgán“),
+ochraně proti nečinnosti správního orgánu,
+ochraně před nezákonným zásahem správního orgánu,
+kompetenčních žalobách.
+Ve správním soudnictví dále soudy rozhodují
+ve věcech volebních a ve věcech místního a krajského referenda,
+ve věcech politických stran a politických hnutí,
+o zrušení opatření obecné povahy nebo jeho částí pro rozpor se zákonem.
+Nestanoví-li tento nebo zvláštní zákon jinak, lze se ve správním soudnictví domáhat ochrany práv jen na návrh a po vyčerpání řádných opravných prostředků, připouští-li je zvláštní zákon.
+Z rozhodování soudů ve správním soudnictví jsou vyloučeny věci, o nichž to stanoví tento nebo zvláštní zákon.
+Příslušnost soudů
+Nestanoví-li tento nebo zvláštní zákon jinak, je k řízení věcně příslušný krajský soud.
+Nestanoví-li tento nebo zvláštní zákon jinak, je k řízení místně příslušný soud, v jehož obvodu je sídlo správního orgánu, který ve věci vydal rozhodnutí v prvním stupni nebo jinak zasáhl do práv toho, kdo se u soudu domáhá ochrany. Má-li tento správní orgán sídlo mimo obvod své působnosti, platí, že má sídlo v obvodu své působnosti.
+Ve věcech důchodového pojištění a dávek podle zvláštních předpisů vyplácených spolu s důchody a ve věcech zaměstnanosti, ochrany zaměstnanců při platební neschopnosti zaměstnavatele, dávek státní sociální podpory, dávek pěstounské péče, dávek pro osoby se zdravotním postižením, průkazu osoby se zdravotním postižením, příspěvku na péči a dávek pomoci v hmotné nouzi je k řízení příslušný krajský soud, v jehož obvodu má navrhovatel bydliště nebo sídlo, popřípadě v jehož obvodu se zdržuje.
+Ve věcech, ve kterých rozhodl nebo měl rozhodnout v prvním stupni Dopravní a energetický stavební úřad, je k řízení příslušný Krajský soud v Ostravě. O těchto žalobách vede řízení specializovaný senát.
+Byl-li návrh ve věci správního soudnictví podán u soudu, který není věcně příslušný k jeho vyřízení, postoupí jej tento soud k vyřízení soudu věcně a místně příslušnému. Byla-li věc nesprávně postoupena Nejvyššímu správnímu soudu, vrátí ji Nejvyšší správní soud krajskému soudu, který ji postoupil, nebo ji postoupí krajskému soudu věcně a místně příslušnému.
+Není-li soud, u něhož byl návrh podán, k jeho vyřízení místně příslušný, postoupí jej k vyřízení soudu příslušnému. Nesouhlasí-li tento soud s postoupením věci, předloží spisy k rozhodnutí o příslušnosti Nejvyššímu správnímu soudu. Rozhodnutím Nejvyššího správního soudu o této otázce jsou soudy vázány.
+VYLOUČENÍ SOUDCŮ, PŘIKÁZÁNÍ VĚCI JINÉMU SOUDU, DOŽÁDÁNÍ
+Vyloučení soudců a dalších osob
+Soudci jsou vyloučeni z projednávání a rozhodnutí věci, jestliže se zřetelem na jejich poměr k věci, k účastníkům nebo k jejich zástupcům je dán důvod pochybovat o jejich nepodjatosti. Vyloučeni jsou též soudci, kteří se podíleli na projednávání nebo rozhodování věci u správního orgánu nebo v předchozím soudním řízení. Důvodem k vyloučení soudce nejsou okolnosti, které spočívají v postupu soudce v řízení o projednávané věci nebo v jeho rozhodování v jiných věcech.
+Z obdobných důvodů je vyloučena i jiná osoba, která se bezprostředně podílí na výkonu pravomoci soudu, (dále jen „soudní osoba“) a též tlumočník a znalec.
+Soudce, který zjistí důvod své podjatosti, oznámí takovou skutečnost předsedovi soudu a v řízení zatím může provést jen takové úkony, které nesnesou odkladu. Předseda soudu na jeho místo určí podle rozvrhu práce jiného soudce nebo jiný senát. Má-li předseda soudu za to, že není dán důvod podjatosti soudce, nebo týká-li se věc předsedy soudu, rozhodne o vyloučení Nejvyšší správní soud usnesením, a jde-li o soudce, Nejvyššího správního soudu, jiný jeho senát.
+Soudní osoba, tlumočník nebo znalec sdělí důvody své podjatosti předsedovi senátu. O vyloučení rozhoduje senát. Ustanovení odstavce 3 se užije přiměřeně.
+Účastník nebo osoba zúčastněná na řízení může namítnout podjatost soudce, soudní osoby, tlumočníka nebo znalce. Námitku musí uplatnit do jednoho týdne ode dne, kdy se o podjatosti dozvěděl; zjistí-li důvod podjatosti při jednání, musí ji uplatnit při tomto jednání. K později uplatněným námitkám se nepřihlíží. Námitka musí být zdůvodněna a musí být uvedeny konkrétní skutečnosti, z nichž je dovozována. O vyloučení soudce rozhodne usnesením po jeho vyjádření Nejvyšší správní soud, a je-li namítána podjatost soudní osoby, tlumočníka nebo znalce, senát po jejich vyjádření.
+Ustanovení odstavce 5 věty poslední se nepoužije, má-li soud za to, že námitka podjatosti, která byla uplatněna v průběhu řízení, v němž je soud povinen rozhodnout ve lhůtách počítaných na dny, není důvodná, je-li proti tomuto rozhodnutí přípustná kasační stížnost.
+Přikázání věci jinému soudu
+Nejvyšší správní soud přikáže věc jinému než místně příslušnému krajskému soudu, jestliže pro vyloučení soudců specializovaných senátů místně příslušného soudu nelze sestavit senát.
+Nejvyšší správní soud může věc přikázat jinému než místně příslušnému krajskému soudu, je-li to pro rychlost nebo hospodárnost řízení nebo z jiného důležitého důvodu vhodné.
+Účastníci mají právo vyjádřit se k tomu, kterému soudu má být věc přikázána, a v případě odstavce 2 též k důvodu přikázání.
+Dožádání
+Úkony, které by příslušný soud mohl provést jen s obtížemi nebo neúčelnými náklady anebo které v jeho obvodu provést nelze, provede podle jeho dožádání okresní soud nebo specializovaný senát krajského soudu.
+ORGANIZACE
+NEJVYŠŠÍ SPRÁVNÍ SOUD
+Zřizuje se Nejvyšší správní soud.
+Sídlem Nejvyššího správního soudu je Brno.
+Nejvyšší správní soud jako vrcholný soudní orgán ve věcech patřících do pravomoci soudů ve správním soudnictví zajišťuje jednotu a zákonnost rozhodování tím, že rozhoduje o kasačních stížnostech v případech stanovených tímto zákonem, a dále rozhoduje v dalších případech stanovených tímto nebo zvláštním zákonem.
+Nejvyšší správní soud sleduje a vyhodnocuje pravomocná rozhodnutí soudů ve správním soudnictví a na jejich základě v zájmu jednotného rozhodování soudů přijímá stanoviska k rozhodovací činnosti soudů ve věcech určitého druhu.
+V zájmu zákonného a jednotného rozhodování správních orgánů se Nejvyšší správní soud v případech a postupem v tomto zákoně stanoveným může při své rozhodovací činnosti usnést na zásadním usnesení.
+Nejvyšší správní soud se skládá z předsedy soudu, místopředsedy soudu, předsedů kolegií, předsedů senátů a dalších soudců.
+Předsedu a místopředsedu Nejvyššího správního soudu jmenuje z řad soudců tohoto soudu prezident republiky; na odvolávání z těchto funkcí se vztahuje zákon o soudech a soudcích.
+Funkční období předsedy a místopředsedy Nejvyššího správního soudu je 10 let.
+Rozhodovací činnost Nejvyššího správního soudu vykonávají soudci. Předseda a místopředseda Nejvyššího správního soudu vykonávají kromě rozhodovací činnosti také státní správu Nejvyššího správního soudu v rozsahu stanoveném tímto zákonem. Předsedové kolegií kromě rozhodovací činnosti též organizují a řídí činnost kolegií. Předsedové senátů kromě rozhodovací činnosti též organizují a řídí činnost senátů.
+Soudci Nejvyššího správního soudu je jmenován alespoň jeden asistent soudce. Pracovní poměr asistenta soudce vzniká jmenováním a řídí se zákoníkem práce, pokud tento zákon nestanoví jinak.
+Asistenta soudce jmenuje a odvolává předseda Nejvyššího správního soudu na návrh soudce, o jehož asistenta se jedná. Funkce asistenta soudce se považuje za zrušenou, zanikne-li funkce příslušného soudce.
+Asistentem soudce může být jmenován bezúhonný občan, který má vysokoškolské vzdělání v magisterském studijním programu v oblasti práva na vysoké škole v České republice. Podmínku bezúhonnosti nesplňuje ten, kdo byl pravomocně odsouzen za trestný čin, pokud se na něj nehledí, jako by odsouzen nebyl.
+Asistent soudce je povinen zachovávat mlčenlivost o věcech, o kterých se dozvěděl v souvislosti s výkonem své funkce, a to i po zániku funkce. Této povinnosti jej může zprostit předseda Nejvyššího správního soudu.
+Asistent soudce činí jednotlivé úkony soudního řízení správního z pověření soudce Nejvyššího správního soudu.
+Soudci Nejvyššího správního soudu se zařazují rozvrhem práce do kolegií podle hlavních úseků své činnosti.
+O počtu kolegií rozhoduje plénum Nejvyššího správního soudu (dále jen „plénum“) na návrh předsedy Nejvyššího správního soudu.
+Nejvyšší správní soud rozhoduje v senátech nebo v rozšířených senátech, nestanoví-li tento zákon, že rozhoduje a činí jednotlivé úkony předseda senátu.
+Senát se skládá
+z předsedy a šesti soudců ve věcech volebních, ve věcech místního a krajského referenda, ve věcech politických stran a politických hnutí a v řízení o kompetenčních žalobách,
+z předsedy a dvou soudců v ostatních případech.
+Rozšířený senát se skládá
+z předsedy a šesti soudců, rozhoduje-li o věci postoupené mu senátem složeným podle odstavce 2 písm. b),
+z předsedy a osmi soudců v ostatních případech.
+Dospěl-li senát Nejvyššího správního soudu při svém rozhodování k právnímu názoru, který je odlišný od právního názoru již vyjádřeného v rozhodnutí Nejvyššího správního soudu, postoupí věc k rozhodnutí rozšířenému senátu. Při postoupení svůj odlišný právní názor zdůvodní.
+Ustanovení odstavce 1 neplatí, byl-li odlišný právní názor již vysloven ve stanovisku Nejvyššího správního soudu.
+Dospěl-li senát Nejvyššího správního soudu při svém rozhodování opětovně k právnímu názoru, který je odlišný od právního názoru o téže právní otázce, o nějž se opírá rozhodnutí správního orgánu, může předložit tuto právní otázku rozšířenému senátu k posouzení.
+Usnese-li se rozšířený senát na právním názoru shodném s dosavadní rozhodovací činností Nejvyššího správního soudu, přijme jej jako zásadní usnesení.
+Zásadní usnesení uveřejní předseda Nejvyššího správního soudu ve Sbírce rozhodnutí Nejvyššího správního soudu a zašle je správnímu orgánu, jehož se rozhodnutí uvedené v odstavci 1 týkalo, a příslušnému ústřednímu správnímu úřadu.
+Jednací řád Nejvyššího správního soudu (dále jen „jednací řád“) stanoví, ve kterých dalších případech může předseda Nejvyššího správního soudu předložit rozšířenému senátu k posouzení jiné právní otázky.
+V zájmu jednotného rozhodování soudů může předseda Nejvyššího správního soudu nebo předseda kolegia Nejvyššího správního soudu nebo rozšířený senát na základě vyhodnocení pravomocných rozhodnutí soudů navrhnout příslušnému kolegiu zaujetí stanoviska. K zaujetí stanoviska je potřebný souhlas většiny všech členů kolegia.
+Jde-li o otázky týkající se více kolegií nebo mezi nimi sporné, může předseda Nejvyššího správního soudu v zájmu jednotného rozhodování soudů na základě vyhodnocení pravomocných rozhodnutí soudů navrhnout zaujetí stanoviska plénu.
+Před zaujetím stanoviska si Nejvyšší správní soud může vyžádat vyjádření správních úřadů a jiných orgánů, správních senátů krajských soudů a jiných osob.
+Plénum se skládá ze všech soudců Nejvyššího správního soudu.
+Plénum se může platně usnášet za přítomnosti nejméně dvou třetin svých členů. K přijetí usnesení je třeba souhlasu nadpoloviční většiny přítomných členů; k zaujetí stanoviska, k rozhodnutí o počtu kolegií je třeba souhlasu nadpoloviční většiny všech členů.
+Předseda Nejvyššího správního soudu svolává plénum, určuje jeho program a řídí jeho zasedání. Předseda Nejvyššího správního soudu je povinen do jednoho měsíce svolat plénum, požádá-li o to nejméně třetina všech soudců Nejvyššího správního soudu; v takovém případě předseda Nejvyššího správního soudu určí program pléna podle návrhu toho, kdo o svolání pléna požádal.
+Zasedání pléna jsou neveřejná.
+Ministr spravedlnosti a předseda Nejvyššího soudu mají právo zúčastnit se zasedání pléna. Na zasedání pléna je možné přizvat také další osoby.
+Předseda Nejvyššího správního soudu vydává po projednání v plénu jednací řád Nejvyššího správního soudu.
+V jednacím řádu Nejvyšší správní soud upraví zejména podrobněji postup při výkonu soudnictví, při jednání kolegií a pléna, při vytváření senátů a rozšířených senátů, při tvorbě rozvrhu práce, při prověrkách rozhodovací činnosti soudců Nejvyššího správního soudu, při sledování a vyhodnocování pravomocných rozhodnutí soudů, při přijímání zásadních usnesení, při zaujímání stanovisek, při vydávání Sbírky rozhodnutí Nejvyššího správního soudu a vnitřní organizaci Nejvyššího správního soudu.
+Nejvyšší správní soud vydává Sbírku rozhodnutí Nejvyššího správního soudu (dále jen „Sbírka rozhodnutí“), ve které se uveřejňují zejména vybraná rozhodnutí Nejvyššího správního soudu a krajských soudů vydaná ve správním soudnictví a stanoviska a zásadní usnesení Nejvyššího správního soudu.
+Soudcovská rada Nejvyššího správního soudu
+Zřizuje se Soudcovská rada Nejvyššího správního soudu (dále jen „soudcovská rada“), která se skládá z pěti členů.
+Funkce člena soudcovské rady je neslučitelná s funkcí předsedy, místopředsedy a předsedy kolegia Nejvyššího správního soudu.
+Soudcovská rada je poradním orgánem předsedy Nejvyššího správního soudu.
+Soudcovskou radu svolává, určuje její program a řídí její jednání předseda soudcovské rady. Předseda soudcovské rady je povinen do jednoho měsíce svolat soudcovskou radu, požádá-li o to její člen, předseda nebo místopředseda Nejvyššího správního soudu.
+Soudcovská rada se může platně usnášet za přítomnosti nadpoloviční většiny všech svých členů. K přijetí usnesení je třeba souhlasu nadpoloviční většiny všech členů soudcovské rady.
+Zasedání soudcovské rady jsou neveřejná.
+Předseda nebo místopředseda Nejvyššího správního soudu se mohou účastnit zasedání soudcovské rady, činit návrhy a vyjadřovat se k projednávaným otázkám. Na zasedání soudcovské rady mohou být přizvány další osoby.
+Soudcovská rada
+vyjadřuje se ke kandidátům na jmenování do funkce předsedy kolegia a předsedy senátu Nejvyššího správního soudu,
+vyjadřuje se k soudcům, kteří mají být přiděleni nebo přeloženi k výkonu funkce u Nejvyššího správního soudu nebo kteří mají být přeloženi od Nejvyššího správního soudu k jinému soudu,
+projednává návrhy rozvrhu práce Nejvyššího správního soudu a jeho změn,
+vyjadřuje se k zásadním otázkám státní správy Nejvyššího správního soudu,
+může požádat předsedu Nejvyššího správního soudu o svolání pléna a navrhnout mu program zasedání pléna,
+plní i další úkoly, stanoví-li tak zvláštní zákon.
+Návrhy podle odstavce 1 písm. a) až d) předkládá soudcovské radě předseda Nejvyššího správního soudu; současně určí lhůtu, v níž má být návrh soudcovskou radou projednán, která nesmí být kratší než 5 pracovních dnů. Nevyjádří-li se soudcovská rada v této lhůtě, platí, že s návrhem souhlasí.
+Státní správa Nejvyššího správního soudu
+Ústředním orgánem státní správy Nejvyššího správního soudu je Ministerstvo spravedlnosti (dále jen „ministerstvo“).
+Státní správu Nejvyššího správního soudu vykonává ministerstvo prostřednictvím předsedy Nejvyššího správního soudu.
+Ministerstvo a předseda Nejvyššího správního soudu vykonávají v případech stanovených tímto nebo zvláštním zákonem státní správu Nejvyššího správního soudu s přihlédnutím k vyjádření soudcovské rady.
+Předseda Nejvyššího správního soudu vykonává státní správu Nejvyššího správního soudu v rozsahu stanoveném tímto zákonem.
+Místopředseda Nejvyššího správního soudu se podílí na výkonu státní správy Nejvyššího správního soudu v rozsahu určeném jeho předsedou.
+Předseda Nejvyššího správního soudu může při zachování vlastní odpovědnosti pověřit jednotlivými úkony státní správy s jejich souhlasem předsedy senátů a ostatní soudce Nejvyššího správního soudu.
+Ředitel správy Nejvyššího správního soudu (dále jen „ředitel správy soudu“) v rozsahu stanoveném tímto zákonem zajišťuje provoz soudu a některé další činnosti související s výkonem státní správy Nejvyššího správního soudu; odpovědnost předsedy Nejvyššího správního soudu jako orgánu státní správy soudu tím není dotčena. Předseda Nejvyššího správního soudu si může vyhradit věci, které rozhoduje přímo.
+Ředitele správy soudu jmenuje a odvolává předseda Nejvyššího správního soudu. Funkce ředitele správy soudu je vykonávána v pracovním poměru.
+Ministerstvo vykonává státní správu Nejvyššího správního soudu tím, že
+zajišťuje chod soudu po stránce organizační, zejména každoročně po dohodě s předsedou Nejvyššího správního soudu stanoví s ohledem na množství projednávaných věcí počty soudců, asistentů soudců a dalších zaměstnanců u něj působících,
+zajišťuje způsobem stanoveným tímto zákonem chod soudu po stránce personální,
+zajišťuje chod soudu tím, že zabezpečuje financování jeho hospodaření a materiálního zabezpečení v rozsahu stanoveném zvláštními právními předpisy a provádí kontroly hospodaření,
+řídí a kontroluje výkon státní správy Nejvyššího správního soudu prováděný jeho předsedou ve věcech majetku státu a státního rozpočtu a organizuje výkon státní správy soudu prováděný jeho předsedou v ostatních věcech,
+organizuje a řídí odbornou přípravu zaměstnanců působících u Nejvyššího správního soudu,
+usměrňuje a řídí využívání informačních technologií,
+organizuje, řídí a kontroluje zabezpečení úkolů obranného a civilního nouzového plánování, ochrany utajovaných informací, bezpečnosti osob a majetku, požární ochrany a úkolů bezpečnosti a ochrany zdraví při práci,
+plní další úkoly, stanoví-li tak tento nebo zvláštní zákon.
+Předseda Nejvyššího správního soudu vykonává státní správu Nejvyššího správního soudu tím, že
+zajišťuje chod soudu po stránce personální a organizační, zejména tím, že zajišťuje řádné obsazení Nejvyššího správního soudu soudci, asistenty soudců, odbornými a dalšími zaměstnanci a vyřizuje personální věci soudců,
+dbá o odbornost soudců a vytváří podmínky pro její zvyšování,
+pečuje o zvyšování odborné úrovně asistentů soudců a ostatních zaměstnanců působících u Nejvyššího správního soudu,
+dohlíží na řádný chod soudních kanceláří,
+zajišťuje poskytování informací soudem podle zvláštního právního předpisu,
+kontroluje činnost ředitele správy soudu,
+zajišťuje bezpečnost Nejvyššího správního soudu a úkoly krizového řízení,
+plní další úkoly, stanoví-li tak tento zákon nebo zvláštní právní předpisy.
+Předseda Nejvyššího správního soudu dbá o důstojnost jednání, o dodržování zásad soudcovské etiky a o plynulost řízení vedených u Nejvyššího správního soudu. K tomu účelu, a to s využitím elektronické evidence věcí, vedených u Nejvyššího správního soudu,
+provádí prověrky soudních spisů,
+dohlíží na úroveň soudního jednání,
+vyřizuje stížnosti.
+Ředitel správy soudu, s výjimkou úkonů, ke kterým je podle tohoto zákona nebo zvláštních právních předpisů oprávněn pouze předseda soudu,
+zajišťuje provoz soudu po stránce hospodářské, materiální a finanční,
+vyřizuje personální věci zaměstnanců působících u Nejvyššího správního soudu s výjimkou soudců,
+zajišťuje řádný chod soudních kanceláří,
+plní další úkoly související s výkonem státní správy Nejvyššího správního soudu podle pokynů předsedy soudu.
+Stížnosti
+Předseda Nejvyššího správního soudu vyřizuje stížnosti na průtahy v řízení, na nevhodné chování nebo narušování důstojnosti řízení místopředsedou soudu, předsedy senátu, soudci, asistenty soudců a dalšími zaměstnanci působícími u Nejvyššího správního soudu.
+Podání, jejichž obsahem je nesouhlas se způsobem vyřízení stížnosti vyřizované předsedou Nejvyššího správního soudu, vyřizuje ministerstvo. Ministerstvo též vyřizuje stížnosti podle odstavce 1, jestliže si jejich vyřízení vyhradilo.
+KRAJSKÉ SOUDY
+Krajský soud ve věcech správního soudnictví, nestanoví-li zákon jinak, rozhoduje ve specializovaných senátech složených z předsedy a dvou soudců.
+Ve věcech důchodového pojištění, nemocenského pojištění, uchazečů o zaměstnání a jejich podpory v nezaměstnanosti a podpory při rekvalifikaci podle předpisů o zaměstnanosti, sociální péče, pomoci v hmotné nouzi a státní sociální podpory, dávek pěstounské péče, ve věcech přestupků, za které zákon stanoví sazbu pokuty, jejíž horní hranice je nejvýše 100 000 Kč, mezinárodní ochrany, neudělení krátkodobého víza, rozhodnutí o správním vyhoštění, rozhodnutí o povinnosti opustit území nebo území členských států Evropské unie, Islandské republiky, Lichtenštejnského knížectví, Norského království a Švýcarské konfederace, rozhodnutí o zajištění cizince, rozhodnutí o prodloužení doby trvání zajištění cizince, jakož i jiných rozhodnutí, jejichž důsledkem je omezení osobní svobody cizince, žádostí o vydání oprávnění k pobytu, prodloužení a zrušení doby jeho platnosti, ukončení přechodného pobytu rodinného příslušníka a přiznání postavení osoby bez státní příslušnosti, jakož i v dalších věcech, v nichž tak stanoví zvláštní zákon, rozhoduje specializovaný samosoudce.
+Stanoví-li tak tento zákon, rozhoduje a činí jednotlivé úkony předseda senátu. Práva a povinnosti předsedy senátu má i specializovaný samosoudce.
+ŘÍZENÍ VE SPRÁVNÍM SOUDNICTVÍ
+OBECNÁ USTANOVENÍ O ŘÍZENÍ
+Zahájení řízení
+Řízení je zahájeno dnem, kdy návrh došel soudu; týká-li se návrh věcí uvedených v § 4 odst. 1, nazývá se návrh žalobou.
+Účastníci řízení a jednání za ně
+Účastníky jsou navrhovatel (žalobce) a odpůrce (žalovaný) nebo ti, o nichž to stanoví tento zákon; odpůrcem (žalovaným) je ten, o němž to stanoví zákon.
+Způsobilost být účastníkem řízení má ten, kdo má způsobilost mít práva a povinnosti, a správní orgán; jinak i ten, komu ji zákon přiznává.
+Účastník je způsobilý samostatně činit v řízení úkony (dále jen „procesní způsobilost“) v tom rozsahu, v jakém má způsobilost vlastními úkony nabývat práv a brát na sebe povinnosti. Procesní způsobilost má i správní orgán a také ten, kdo je podle zákona oprávněn podat návrh.
+Za právnickou osobu jedná ten, kdo je k tomu oprávněn podle zvláštního zákona. Za právnickou osobu nemůže jednat ten, jehož zájmy jsou v rozporu se zájmy právnické osoby. Kdo jedná za právnickou osobu, musí své oprávnění na výzvu soudu prokázat. V téže věci může za právnickou osobu současně jednat pouze jediná osoba.
+Nestanoví-li zvláštní zákon jinak, jedná za správní orgán jeho vedoucí, popřípadě jiná osoba k tomu oprávněná podle vnitřních předpisů.
+Je-li účastníkem stát, jedná za něj ten, o němž to stanoví zvláštní zákon.
+Je-li účastníkem soud, jedná za senát, jehož se věc týká, jeho předseda.
+Podá-li více osob společný návrh, jedná v řízení každý sám za sebe a s účinky jen pro svou osobu.
+Osoby zúčastněné na řízení
+Osobami zúčastněnými na řízení jsou osoby, které byly přímo dotčeny ve svých právech a povinnostech vydáním napadeného rozhodnutí nebo tím, že rozhodnutí nebylo vydáno, a ty, které mohou být přímo dotčeny jeho zrušením nebo vydáním podle návrhu výroku rozhodnutí soudu, nejsou-li účastníky a výslovně oznámily, že budou v řízení práva osob zúčastněných na řízení uplatňovat.
+Navrhovatel je povinen v návrhu označit osoby, které přicházejí v úvahu jako osoby zúčastněné na řízení, jsou-li mu známy. Předseda senátu takové osoby vyrozumí o probíhajícím řízení a vyzve je, aby ve lhůtě, kterou jim k tomu současně stanoví, oznámily, zda v řízení budou uplatňovat práva osoby zúčastněné na řízení; takové oznámení lze učinit pouze v této lhůtě. Současně s vyrozuměním je poučí o jejich právech. Obdobně předseda senátu postupuje, zjistí-li se v průběhu řízení, že je tu další taková osoba. O osobních údajích, o těchto osobách uváděných, platí přiměřeně ustanovení § 37 odst. 3.
+Osoba zúčastněná na řízení má právo předkládat písemná vyjádření, nahlížet do spisu, být vyrozuměna o nařízeném jednání a žádat, aby jí bylo při jednání uděleno slovo. Doručuje se jí žaloba, usnesení o přiznání odkladného účinku, usnesení o předběžném opatření a rozhodnutí, jímž se řízení u soudu končí. Osoba zúčastněná na řízení nemůže disponovat jeho předmětem.
+Soud usnesením vysloví, že ten, kdo se domáhá postavení osoby zúčastněné na řízení, a podmínky pro to nesplňuje, není osobou zúčastněnou na řízení.
+Je-li počet osob zúčastněných na řízení mimořádně vysoký a jednotlivým výkonem jejich práv by mohl být ohrožen rychlý průběh řízení, rozhodne soud, že osoby zúčastněné na řízení mohou svá práva v řízení uplatňovat pouze prostřednictvím společného zmocněnce, kterého si zvolí. Jestliže by celkový počet zvolených zmocněnců vzrostl na více než 10 a osoby zúčastněné na řízení se mezi sebou o výběru nedohodnou, provede výběr s přihlédnutím k zájmům osob zúčastněných na řízení soud. Společný zmocněnec vykonává práva osob zúčastněných na řízení, které zastupuje. Ustanovení § 35 odst. 2 a 8 se použijí přiměřeně.
+Zastoupení
+Účastník, který nemá procesní způsobilost, musí být v řízení zastoupen zákonným zástupcem.
+Nestanoví-li tento zákon jinak, účastník může být zastoupen advokátem, popřípadě jinou osobou, která vykonává specializované právní poradenství podle zvláštních zákonů, týká-li se návrh oboru činnosti v nich uvedených. Za zastupování náleží odměna; pro určení její výše, nestanoví-li zvláštní právní předpis jinak, se užije obdobně zvláštní právní předpis, jímž jsou stanoveny odměny a náhrady advokátům za poskytování právních služeb.
+Navrhovatel může být zastoupen též odborovou organizací, jejímž je členem. Za odborovou organizaci jedná k tomu pověřený její zaměstnanec nebo člen.
+Domáhá-li se soudní ochrany účastník, který tvrdí, že došlo správním orgánem k jeho diskriminaci z důvodu pohlaví, národního, sociálního nebo rasového původu, příslušnosti k národnostní nebo etnické menšině, barvy pleti, jazyka, náboženství, víry, světového názoru, politického nebo jiného smýšlení, zdravotního postižení, věku, majetku, rodu nebo jiného postavení, anebo sexuální orientace, může být zastoupen též právnickou osobou, vzniklou na základě zvláštního zákona, k jejímž činnostem, uvedeným ve stanovách, patří ochrana před takovou diskriminací. Za právnickou osobu jedná k tomu pověřený její zaměstnanec nebo člen.
+Domáhá-li se soudní ochrany účastník žalobou ve věci mezinárodní ochrany, rozhodnutí o správním vyhoštění, rozhodnutí o povinnosti opustit území, rozhodnutí o zajištění cizince, rozhodnutí o prodloužení doby trvání zajištění cizince, jakož i jiných rozhodnutí, jejichž důsledkem je omezení osobní svobody cizince, může být zastoupen též právnickou osobou, vzniklou na základě zvláštního zákona, k jejímž činnostem, uvedeným ve stanovách, patří poskytování právní pomoci uprchlíkům nebo cizincům. Za právnickou osobu jedná k tomu pověřený její zaměstnanec nebo člen, který má vysokoškolské právnické vzdělání, které je podle zvláštních předpisů vyžadováno pro výkon advokacie. Ustanovení tohoto odstavce o zastoupení cizince právnickou osobou se použije i v případech, ve kterých se uplatní přímo použitelný předpis Evropské unie z oblasti volného pohybu pracovníků.
+Ve věcech vyplývajících ze zákona o pobytu cizinců na území České republiky nebo zákona o zaměstnanosti se může dát cizinec, který na území pobývá na vízum k pobytu nad 90 dnů za účelem sezónního zaměstnání, v řízení zastupovat právnickou osobou, k jejímž činnostem uvedeným ve stanovách patří ochrana práv cizinců.
+Ve věcech ochrany osobních údajů se může dát subjekt údajů v řízení zastupovat též právnickou osobou, jejíž zisk se nerozděluje a k jejímž činnostem uvedeným v zakladatelském právním jednání patří ochrana práv subjektů údajů; za právnickou osobu jedná k tomu pověřený její zaměstnanec nebo člen, který má vysokoškolské právnické vzdělání, které je podle zvláštních předpisů vyžadováno pro výkon advokacie.
+Účastník se může dát zastoupit také fyzickou osobou, která má způsobilost k právním úkonům v plném rozsahu. Soud takové zastoupení usnesením nepřipustí, není-li taková osoba zřejmě způsobilá k řádnému zastupování nebo zastupuje v různých věcech opětovně.
+V téže věci může mít účastník jen jednoho zástupce. Zástupce musí jednat osobně, nestanoví-li tak zvláštní zákon výslovně jinak.
+Navrhovateli, u něhož jsou předpoklady, aby byl osvobozen od soudních poplatků, a je-li to nezbytně třeba k ochraně jeho práv, může předseda senátu na návrh ustanovit usnesením zástupce, jímž může být i advokát; hotové výdaje zástupce a odměnu za zastupování osoby uvedené v odstavci 2 platí v takovém případě stát. Byla-li navrhovateli ustanovena zástupcem některá z osob uvedených v odstavci 2, která je plátcem daně z přidané hodnoty (dále jen „daň“), zvyšuje se tento nárok vůči státu o částku odpovídající dani, kterou je tato osoba povinna z odměny za zastupování a z náhrad hotových výdajů odvést podle zvláštního právního předpisu; to samé platí i v případě, kdy osoby uvedené v odstavci 2 jsou společníky právnické osoby zřízené podle zvláštních právních předpisů upravujících výkon jejich povolání a plátcem daně je tato právnická osoba. Požádá-li navrhovatel o osvobození od soudních poplatků nebo o ustanovení zástupce, po dobu od podání takové žádosti do právní moci rozhodnutí o ní neběží lhůta stanovená pro podání návrhu na zahájení řízení. Zástupce ustanovený v řízení před krajským soudem, je-li jím advokát, zastupuje navrhovatele i v řízení o kasační stížnosti.
+Práva a povinnosti účastníků
+Účastníci mají v řízení rovné postavení. Soud je povinen poskytnout jim stejné možnosti k uplatnění jejich práv a poskytnout jim poučení o jejich procesních právech a povinnostech v rozsahu nezbytném pro to, aby v řízení neutrpěli újmu.
+Náklady spojené s přibráním tlumočníka platí stát.
+Účastník, který doloží, že nemá dostatečné prostředky, může být na vlastní žádost usnesením předsedy senátu zčásti osvobozen od soudních poplatků. Přiznat účastníkovi osvobození od soudních poplatků zcela lze pouze výjimečně, jsou-li pro to zvlášť závažné důvody, a toto rozhodnutí musí být odůvodněno. Dospěje-li však soud k závěru, že návrh zjevně nemůže být úspěšný, takovou žádost zamítne. Přiznané osvobození kdykoliv za řízení odejme, popřípadě i se zpětnou účinností, jestliže se do pravomocného skončení řízení ukáže, že poměry účastníka přiznané osvobození neodůvodňují, popřípadě neodůvodňovaly. Přiznané osvobození se vztahuje i na řízení o kasační stížnosti.
+Úkony účastníků a osob zúčastněných na řízení
+Účastníci a osoby zúčastněné na řízení mohou činit své úkony jakoukoli formou, pokud zákon pro některé úkony určitou formu nestanoví. Předseda senátu může vždy uložit, aby úkon byl proveden písemně nebo ústně do protokolu.
+Podání obsahující úkon, jímž se disponuje řízením nebo jeho předmětem, lze provést písemně, ústně do protokolu, popřípadě v elektronické formě. Bylo-li takové podání učiněno v jiné formě, musí být do tří dnů potvrzeno písemným podáním shodného obsahu nebo musí být předložen jeho originál, jinak se k němu nepřihlíží. Činí-li takový úkon kolektivní orgán nebo osoba, za niž podle zvláštního zákona nebo na jeho základě jedná kolektivní orgán, musí k němu být připojen opis usnesení takového orgánu, jímž byl s obsahem podání vysloven souhlas.
+Z každého podání musí být zřejmé, čeho se týká, kdo jej činí, proti komu směřuje, co navrhuje, a musí být podepsáno a datováno. Ten, kdo činí podání, (dále jen „podatel“) v podání uvede o své osobě osobní údaje jen v nezbytném rozsahu; vždy uvede jméno, příjmení a adresu, na kterou mu lze doručovat. Jiné osobní údaje uvede jen tehdy, je-li toho třeba s ohledem na povahu věci, která má být soudem projednána. K podání musí být připojeny listiny, kterých se podatel dovolává. Podání, které je třeba doručit ostatním účastníkům a osobám na řízení zúčastněným, musí být předloženo v potřebném počtu stejnopisů.
+Navrhovatel může vzít svůj návrh zcela nebo zčásti zpět, dokud o něm soud nerozhodl.
+Předseda senátu usnesením vyzve podatele k opravě nebo odstranění vad podání a stanoví k tomu lhůtu. Nebude-li podání v této lhůtě doplněno nebo opraveno a v řízení nebude možno pro tento nedostatek pokračovat, soud podání usnesením odmítne, nestanoví-li zákon jiný procesní důsledek. O tom musí být podatel ve výzvě poučen.
+Předběžné opatření
+Byl-li podán návrh na zahájení řízení a je potřeba zatímně upravit poměry účastníků pro hrozící vážnou újmu, může usnesením soud na návrh předběžným opatřením účastníkům uložit něco vykonat, něčeho se zdržet nebo něco snášet. Ze stejných důvodů může soud uložit takovou povinnost i třetí osobě, lze-li to po ní spravedlivě žádat.
+K návrhu na předběžné opatření si soud podle potřeby vyžádá vyjádření ostatních účastníků.
+O návrhu na předběžné opatření rozhodne soud bez zbytečného odkladu; není-li tu nebezpečí z prodlení, rozhodne do 30 dnů od jeho podání. Usnesení o návrhu na předběžné opatření musí být vždy odůvodněno.
+Soud může rozhodnutí o předběžném opatření zrušit nebo změnit, změní-li se poměry, a to i bez návrhu. Předběžné opatření zaniká nejpozději dnem, kdy se rozhodnutí soudu, jímž se řízení končí, stalo vykonatelným.
+Spojení a vyloučení věcí
+Samostatné žaloby směřující proti témuž rozhodnutí anebo proti rozhodnutím, která spolu skutkově souvisejí, může předseda senátu usnesením spojit ke společnému projednání.
+Směřuje-li jedna žaloba proti více rozhodnutím, může předseda senátu usnesením každé takové rozhodnutí vyloučit k samostatnému projednání, není-li společné řízení možné nebo vhodné.
+Lhůty
+Lhůta stanovená tímto zákonem, výzvou nebo rozhodnutím soudu počíná běžet počátkem dne následujícího poté, kdy došlo ke skutečnosti určující její počátek. To neplatí o lhůtách stanovených podle hodin.
+Lhůta určená podle týdnů, měsíců nebo roků končí uplynutím dne, který se svým označením shoduje s dnem, který určil počátek lhůty. Není-li takový den v měsíci, končí lhůta uplynutím posledního dne tohoto měsíce.
+Připadne-li poslední den lhůty na sobotu, neděli nebo svátek, je posledním dnem lhůty nejblíže následující pracovní den. To neplatí o lhůtách stanovených podle hodin.
+Lhůta je zachována, bylo-li podání v poslední den lhůty předáno soudu nebo jemu zasláno prostřednictvím držitele poštovní licence, popřípadě zvláštní poštovní licence anebo předáno orgánu, který má povinnost je doručit, nestanoví-li tento zákon jinak.
+Nestanoví-li zákon jinak, může předseda senátu z vážných omluvitelných důvodů na žádost zmeškání lhůty k provedení úkonu prominout. Žádost je třeba podat do dvou týdnů po odpadnutí překážky a je třeba s ní spojit zmeškaný úkon. Lhůtu určenou soudem může obdobně předseda senátu také prodloužit.
+Nemá-li zvláštní zákon, jímž se stanoví lhůty k podání návrhu k soudu, ustanovení o počítání a běhu lhůt, platí ustanovení odstavců 1 až 4 obdobně.
+Zvláštní ustanovení o běhu některých lhůt
+Stanoví-li zvláštní zákon ve věcech přestupků, kárných nebo disciplinárních nebo jiných správních deliktů (dále jen „správní delikt“) lhůty pro zánik odpovědnosti, popřípadě pro výkon rozhodnutí, tyto lhůty po dobu řízení před soudem podle tohoto zákona neběží. To platí obdobně o lhůtách pro zánik práva ve věcech daní, cel, poplatků, odvodů, záloh na tyto příjmy a odvodů za porušení rozpočtové kázně, které jsou příjmem státního rozpočtu, státních finančních aktiv nebo rezervních fondů organizačních složek státu, rozpočtů územních samosprávných celků, nebo státních fondů nebo Národního fondu, a o promlčecích dobách ve věci náhrady škody nebo nemajetkové újmy způsobené při výkonu veřejné moci podle zvláštního zákona.
+Doručování
+Soud doručuje písemnosti do datové schránky, není-li možné doručit písemnost tímto způsobem, doručuje ji soud soudním doručovatelem, prostřednictvím držitele poštovní licence, popřípadě zvláštní poštovní licence nebo prostřednictvím veřejné datové sítě. Ukáže-li se toho potřeba, může soud požádat o doručení i jiný státní orgán.
+Má-li účastník nebo osoba zúčastněná na řízení zástupce, doručuje se pouze zástupci. Má-li však účastník nebo osoba zúčastněná na řízení něco osobně vykonat, doručí se i jim.
+Jestliže doručování písemností zřejmě bude spojeno s průtahy nebo s obtížemi, může předseda senátu uložit tomu, jehož se to týká, aby si pro doručování zvolil zmocněnce, jemuž lze doručovat bez obtíží, a poučí jej, že jinak se písemnosti budou ukládat u soudu s účinky doručení. Ten, komu bylo doručeno uložením, má právo vyzvednout si rozsudek nebo usnesení anebo požádat, aby mu byl zaslán na udanou adresu.
+Je-li zřejmé, že doručování osobám zúčastněným na řízení bude neúměrně zdlouhavé, nákladné, administrativně náročné anebo nemožné, zejména pro jejich velký počet nebo proto, že je nelze jednotlivě určit, lze jim na základě opatření předsedy senátu doručit vyvěšením rozhodnutí nebo jiné písemnosti na úřední desce soudu. Soud může též uveřejnit své rozhodnutí nebo jinou písemnost způsobem umožňujícím dálkový přístup anebo na úřední desce obecního úřadu.
+Nestanoví-li tento zákon jinak, užijí se pro způsob doručování obdobně předpisy platné pro doručování v občanském soudním řízení.
+Předvolání a předvedení
+Soud předvolává písemně nebo při jednání přítomné ústně. V naléhavých případech může předvolání učinit také telefonicky, telegraficky, popřípadě elektronicky.
+Nedostavil-li se ten, kdo byl předvolán, bez řádné omluvy, může být na příkaz předsedy senátu předveden, byl-li o možnosti předvedení poučen. Předvedení zajistí na náklady předváděného podle žádosti předsedy senátu orgán Policie České republiky nebo, má-li být předveden příslušník ozbrojeného sboru, velitel nebo náčelník tohoto sboru.
+Pořádková pokuta
+Tomu, kdo neuposlechne výzvy soudu nebo učiní urážlivé podání či přednes, nebo učiní podání, které sleduje zjevné zneužití práva, může být usnesením uložena jako pořádkové opatření pořádková pokuta do výše 50 000 Kč, která je příjmem státního rozpočtu. Pokuta může být uložena i opakovaně a může být na odůvodněnou žádost podanou do právní moci rozhodnutí, jímž se řízení končí, usnesením zčásti nebo zcela prominuta.
+Při správě placení pořádkové pokuty se postupuje podle daňového řádu. Pořádkovou pokutu vymáhá celní úřad.
+Nahlížení do spisu
+Účastníci, jejich zástupci a osoby zúčastněné na řízení mají právo nahlížet do soudního spisu a jeho příloh, s výjimkou protokolu o hlasování, a pořizovat si z něj výpisy a opisy nebo žádat, aby mu byl takový výpis nebo opis vydán.
+Jiným osobám může povolit nahlédnutí předseda senátu, prokáží-li právní zájem nebo vážný důvod a není-li to v rozporu s právy nebo právem chráněnými zájmy některého z účastníků.
+Při předložení spisu správní orgán vždy označí ty části spisu, které obsahují utajované informace chráněné zvláštním zákonem nebo jiné informace chráněné podle zvláštních zákonů. Předseda senátu tyto části spisu vyloučí z nahlížení; to platí i o písemnostech nebo záznamech, které byly v řízení před správním orgánem uchovávány odděleně mimo spis. To platí přiměřeně i o spisech soudu.
+Z nahlížení nelze vyloučit části spisu uvedené v odstavci 3, jimiž byl nebo bude prováděn důkaz soudem. Z nahlížení nelze dále vyloučit ani ty části spisu, do nichž měl účastník právo nahlížet v řízení před správním orgánem. Písemnosti nebo záznamy, které byly v řízení před správním orgánem uchovávány odděleně mimo spis a na něž se nevztahovala ustanovení o nahlížení do spisu, lze poskytnout k nahlížení jen tehdy, pokud předseda senátu rozhodne, že tím nemůže dojít k ohrožení nebo vážnému narušení činnosti zpravodajských služeb nebo policie. Před rozhodnutím si předseda senátu vyžádá vyjádření orgánu, který informace obsažené v těchto písemnostech nebo záznamech poskytl.
+Do částí spisu uvedených v odstavci 3, které podle odstavce 4 z nahlížení nebyly vyloučeny, smí nahlížet pouze účastník a jeho zástupce, popřípadě též osoba, která se prokáže osvědčením pro příslušný stupeň utajení projednávaných skutečností chráněných zvláštním zákonem, prokáže-li na nahlížení právní zájem.
+Před nahlédnutím do spisu, který obsahuje informace uvedené v odstavci 3, poučí předseda senátu nahlížející osoby podle zvláštního zákona a o trestních následcích porušení tajnosti utajovaných informací. Podpisem protokolu o tomto poučení se poučené osoby stávají osobami určenými v rozsahu potřeby k seznámení s utajovanou informací. Stejnopis protokolu po jeho vyhotovení zašle Národnímu bezpečnostnímu úřadu.
+Odstavce 1 až 6 platí přiměřeně pro přehrávání zvukových nebo zvukově obrazových záznamů (dále jen „záznam“) a poskytování jejich kopií nebo pro jiné způsoby zachycení obsahu listiny.
+Odmítnutí návrhu
+Nestanoví-li tento zákon jinak, soud usnesením odmítne návrh, jestliže
+soud o téže věci již rozhodl nebo o téže věci již řízení u soudu probíhá nebo nejsou-li splněny jiné podmínky řízení a tento nedostatek je neodstranitelný nebo přes výzvu soudu nebyl odstraněn, a nelze proto v řízení pokračovat,
+návrh byl podán předčasně nebo opožděně,
+návrh byl podán osobou k tomu zjevně neoprávněnou,
+návrh je podle tohoto zákona nepřípustný.
+Soud návrh odmítne také tehdy, domáhá-li se navrhovatel rozhodnutí ve sporu nebo v jiné právní věci, o které má jednat a rozhodnout soud v občanském soudním řízení, anebo domáhá-li se návrhem přezkoumání rozhodnutí, jímž správní orgán rozhodl v mezích své zákonné pravomoci v soukromoprávní věci. V usnesení o odmítnutí návrhu musí být navrhovatel poučen o tom, že do jednoho měsíce od právní moci usnesení může podat žalobu a ke kterému věcně příslušnému soudu.
+Podle ustanovení odstavce 2 se nepostupuje, zastavil-li již dříve v téže věci soud v občanském soudním řízení pravomocně řízení proto, že věc má být vyřízena ve správním soudnictví. V takovém případě soud navrhne senátu, zřízenému podle zvláštního zákona, aby rozhodl kompetenční spor o věcnou příslušnost.
+Je-li mezi specializovaným senátem krajského soudu pro věci správního soudnictví a jiným senátem téhož krajského soudu sporné, zda jde o věc, kterou má soud projednat a rozhodnout o ní podle občanského soudního řádu, postupuje se podle zvláštního zákona; ustanovení odstavce 2 se nepoužije.
+Podal-li navrhovatel návrh proto, že se řídil nesprávným poučením správního orgánu o tom, že proti jeho rozhodnutí není přípustný opravný prostředek, soud z tohoto důvodu tento návrh odmítne a věc postoupí k vyřízení opravného prostředku správnímu orgánu k tomu příslušnému. Byl-li návrh podán včas u soudu, platí, že opravný prostředek byl podán včas.
+Zastavení řízení
+Soud řízení usnesením zastaví,
+vzal-li navrhovatel svůj návrh zpět; šlo-li však o společný návrh více osob, vezme předseda senátu toliko zpětvzetí návrhu jedním z navrhovatelů usnesením na vědomí,
+prohlásí-li navrhovatel, že byl po podání návrhu postupem správního orgánu plně uspokojen (§ 62),
+stanoví-li tak tento nebo zvláštní zákon.
+Přerušení řízení
+Soud řízení usnesením přeruší, jestliže
+ve věci byl předložen Ústavnímu soudu návrh podle čl. 95 odst. 2 Ústavy,
+rozhodl, že požádá Soudní dvůr Evropské unie o rozhodnutí o předběžné otázce.
+Předseda senátu řízení usnesením přeruší, jestliže
+účastník ztratil procesní způsobilost a není zastoupen,
+nelze v řízení bez zbytečného odkladu pokračovat s právním nástupcem účastníka,
+rozhodnutí závisí na otázce, kterou není v tomto řízení soud oprávněn řešit,
+stanoví tak tento zákon.
+Předseda senátu řízení usnesením může přerušit, jestliže
+zjistí, že ve věci byl podán zákonem připouštěný podnět nebo návrh na změnu nebo zrušení rozhodnutí nebo takové řízení bylo zahájeno,
+zákonný zástupce navrhovatele zemřel nebo ztratil procesní způsobilost,
+navrhovatel je neznámého pobytu nebo sídla nebo se nemůže řízení účastnit pro překážku trvalejší povahy,
+zjistí, že probíhá jiné řízení, jehož výsledek může mít vliv na rozhodování soudu o věci samé nebo takové řízení sám vyvolá.
+Soud může řízení přerušit i na základě návrhu České národní banky podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu.
+Je-li řízení přerušeno, nekonají se jednání a neběží lhůty podle tohoto zákona.
+Po odpadnutí překážky předseda senátu i bez návrhu usnesením vysloví, že se v řízení pokračuje.
+Jestliže je řízení přerušeno podle odstavce 4, soud pokračuje v řízení po uplynutí doby, na kterou bylo řízení přerušeno.
+Jednání
+K projednání věci samé nařídí předseda senátu jednání a předvolá k němu účastníky tak, aby měli čas k přípravě přiměřený povaze věci, alespoň však 10 dnů; kratší čas k přípravě lze stanovit v řízeních, v nichž je soud povinen rozhodnout ve lhůtách počítaných na dny. O jednání vyrozumí osoby zúčastněné na řízení.
+Jednání je veřejné. Veřejnost může předseda senátu vyloučit, a to i pro určitou část jednání, jen z důvodu ochrany utajovaných informací, obchodního tajemství, mravnosti nebo veřejného pořádku. V takovém případě na žádost účastníka povolí účast na jednání dvěma jeho důvěrníkům, nemá-li tím být zjevně zmařen účel vyloučení veřejnosti, a poučí je o následcích porušení povinnosti mlčenlivosti. Mají-li být probírány utajované informace, musí se důvěrník prokázat osvědčením pro příslušný stupeň utajení projednávaných informací chráněných zvláštním zákonem. Předseda senátu může také z jednací síně vykázat každého, kdo narušuje pořádek a důstojný průběh jednání.
+Neúčast řádně předvolaných účastníků nebrání projednání a skončení věci, nejsou-li důvody pro odročení podle § 50.
+Jednání zahajuje a řídí předseda senátu. O námitkách proti opatření předsedy senátu při řízení jednání rozhoduje usnesením senát. Předseda senátu vede účastníky k tomu, aby se vyjádřili i o těch skutkových a právních otázkách, které podle mínění soudu jsou pro rozhodnutí určující, i když v dřívějších podáních účastníků uplatněny nebyly.
+V průběhu jednání mohou soudci a se souhlasem předsedy senátu účastníci a osoby zúčastněné na řízení klást otázky účastníkům, popřípadě svědkům a znalcům anebo je vyzvat k vyjádření k věci.
+Jsou-li projednávány utajované informace, postupuje předseda senátu obdobně podle § 45 odst. 6.
+Jsou-li projednávány skutečnosti, které jsou částí spisu, která je vyloučena z nahlížení, projednávání se mohou zúčastnit pouze osoby, kterým jsou tyto skutečnosti známy, ostatní osoby předseda senátu usnesením pro určitou část jednání vyloučí.
+Zjistí-li soud při jednání, že tu jsou důvody pro přerušení nebo zastavení řízení, popřípadě odmítnutí návrhu, rozhodne o tom usnesením.
+Na závěr jednání musí být uděleno účastníkům slovo ke konečným návrhům.
+Rozsudek musí být vyhlášen jménem republiky a veřejně. Jakmile soud vyhlásí rozsudek, je jím vázán.
+Není-li možné vyhlásit rozsudek po skončení jednání, které mu předcházelo, oznámí předseda senátu účastníkům den a hodinu vyhlášení, kterou stanoví tak, aby se uskutečnilo nejpozději do jednoho měsíce, a jsou-li přítomni všichni účastníci, do deseti dnů po skončení tohoto jednání.
+Rozsudek se vyhlašuje ústně, proběhlo-li ve věci jednání a při vyhlašování je přítomen alespoň jeden účastník nebo osoba zúčastněná na řízení anebo veřejnost. Jsou-li při vyhlašování rozsudku přítomny pouze soudní osoby, rozsudek soud vyhlásí vyvěšením zkráceného písemného vyhotovení bez odůvodnění na úřední desce soudu po dobu čtrnácti dnů; den vyhlášení se na písemném vyhotovení poznamená.
+Jednání a další úkony, při nichž soud jedná s účastníky nebo provádí dokazování, se zaznamenávají ve formě záznamu. Záznam se uchovává na trvalém nosiči dat, který je součástí spisu. Není-li pořízení záznamu možné nebo stanoví-li tak zákon, sepisuje se o úkonech, při nichž soud jedná s účastníky, provádí dokazování, nebo vyhlašuje rozhodnutí, protokol. Soud může určit, že bude současně s pořízením záznamu sepsán o úkonu protokol. Nejsou-li při úkonu přítomni účastníci, zástupci ani veřejnost a soud provádí pouze listinné důkazy, postačí pořízení protokolu. V případě rozporu protokolu a záznamu má přednost záznam. O osobních údajích, v protokolu uváděných, platí přiměřeně ustanovení § 37 odst. 3.
+Podrobnosti o průběhu jednání, porady, hlasování a sepisování protokolu stanoví jednací řád.
+Odročení jednání
+Z důležitých důvodů může být jednání odročeno. Soud může odročit jednání též tehdy, jestliže to účastníci shodně navrhnou.
+Rozhodování bez nařízení jednání
+Soud může rozhodnout o věci samé bez jednání, jestliže to účastníci shodně navrhli nebo s tím souhlasí. Má se za to, že souhlas je udělen také tehdy, nevyjádří-li účastník do dvou týdnů od doručení výzvy předsedy senátu svůj nesouhlas s takovým projednáním věci; o tom musí být ve výzvě poučen.
+Stanoví-li tak tento zákon, rozhoduje soud bez jednání o věci samé i v dalších případech.
+Dokazování
+Soud rozhodne, které z navržených důkazů provede, a může provést i důkazy jiné.
+Soud je vázán rozhodnutím soudů o tom, že byl spáchán trestný čin a kdo jej spáchal, jakož i rozhodnutím soudu o osobním stavu. O jiných otázkách si soud učiní úsudek sám; je-li tu však rozhodnutí o nich, soud z něj vychází, popřípadě tam, kde o nich náleží rozhodovat soudu, může uložit účastníku řízení, aby takové rozhodnutí vlastním návrhem vyvolal.
+Rozhodnutí
+Ve věci samé rozhoduje soud rozsudkem; usnesením jen tam, kde to zákon stanoví.
+V jiných věcech soud rozhoduje usnesením.
+Proti rozhodnutí soudu jsou opravné prostředky přípustné, jen stanoví-li tak tento zákon.
+Rozsudek
+Na rozsudku se usnáší senát nadpoloviční většinou hlasů v neveřejné poradě, při níž kromě členů senátu a zapisovatele nesmí být nikdo přítomen.
+Rozsudek musí být písemně vyhotoven, musí obsahovat označení soudu, jména všech soudců, kteří ve věci rozhodli, označení účastníků, jejich zástupců, projednávané věci, výrok, odůvodnění, poučení o opravném prostředku a den a místo vyhlášení. Rozsudek podepisuje předseda senátu, a nemůže-li tak učinit, jiný člen senátu. O osobních údajích, v rozsudku uváděných, platí přiměřeně ustanovení § 37 odst. 3.
+Soud vyhotoví rozsudek nejpozději do jednoho měsíce od vyhlášení a učiní potřebná opatření k doručení stejnopisu rozsudku účastníkům do vlastních rukou a k doručení osobám na řízení zúčastněným. Tuto lhůtu může předseda soudu ze závažných důvodů prodloužit, nejvýše však o dva měsíce. V řízeních, v nichž je soud povinen rozhodnout ve lhůtách počítaných na dny, provede úkony podle věty první bez zbytečného odkladu.
+Předseda senátu opraví v rozsudku i bez návrhu chyby v psaní a počtech, jakož i jiné zjevné nesprávnosti. Týká-li se oprava výroku, vydá o tom opravné usnesení a může odložit vykonatelnost rozsudku do doby, dokud opravné usnesení nenabude právní moci.
+Rozsudek, který byl doručen účastníkům, je v právní moci.
+Výrok pravomocného rozsudku je závazný pro účastníky, osoby na řízení zúčastněné a pro orgány veřejné moci.
+Rozsudek je vykonatelný, jakmile uplyne lhůta k plnění, kterou soud ve výroku stanovil, a není-li vyslovena povinnost k plnění, nebo není-li stanovena lhůta k plnění, jeho právní mocí.
+Usnesení
+Usnesení se vyhlašuje veřejně, je-li učiněno při jednání. Usnesení, které není třeba doručovat a není součástí protokolu nebo záznamu o jednání, obsahuje pouze stručné označení věci, výrok a údaj o dni vydání.
+Soud je vázán usnesením, jakmile je vyhlásil, a nevyhlašuje-li se, doručením. Soud však není vázán usnesením, jímž se toliko upravuje vedení řízení.
+Písemné vyhotovení usnesení se doručuje účastníkům jen tehdy, končí-li se jím řízení nebo je-li jím rozhodnuto o návrhu na přiznání odkladného účinku nebo o návrhu na předběžné opatření, jinak jen tomu, komu se jím ukládá povinnost nebo je-li to nutné pro vedení řízení.
+Usnesení, jímž se řízení nekončí a jímž se nikomu neukládá povinnost, nemusí obsahovat odůvodnění.
+O usnesení platí přiměřeně ustanovení o rozsudku.
+Odlišné stanovisko
+Člen senátu Nejvyššího správního soudu ve složení podle § 16 odst. 2 písm. a) a odst. 3, který s rozhodnutím senátu nebo s jeho odůvodněním nesouhlasí, má právo, aby jeho odlišné stanovisko bylo uvedeno v protokolu o hlasování a aby byly důvody jeho nesouhlasu připojeny k vyhotovení písemného rozhodnutí s uvedením jeho jména.
+Pořadí projednávání a rozhodování věcí
+Soud projednává a rozhoduje věci podle pořadí, v jakém k němu došly; to neplatí, jsou-li u věci dány závažné důvody pro přednostní projednávání a rozhodování věci.
+Soud projednává a rozhoduje přednostně návrhy na osvobození od soudních poplatků a návrhy na ustanovení zástupce.
+Soud projednává a rozhoduje přednostně žaloby proti nečinnosti správního orgánu a žaloby proti nezákonnému zásahu, pokynu nebo donucení správního orgánu, návrhy a žaloby ve věcech mezinárodní ochrany, rozhodnutí o správním vyhoštění, rozhodnutí o povinnosti opustit území, rozhodnutí o zajištění cizince, rozhodnutí o prodloužení doby trvání zajištění cizince, jakož i jiných rozhodnutí, jejichž důsledkem je omezení osobní svobody cizince, rozhodnutí o ukončení zvláštní ochrany a pomoci svědkům a dalším osobám v souvislosti s trestním řízením, jakož i další věci, stanoví-li tak zvláštní zákon.
+Náklady řízení
+Náklady řízení jsou zejména hotové výdaje účastníků a jejich zástupců, soudní poplatky, ušlý výdělek účastníků a jejich zákonných zástupců, náklady spojené s dokazováním, odměna zástupce, jeho hotové výdaje a tlumočné.
+Je-li zástupcem účastníka advokát, který je plátcem daně, patří k nákladům řízení rovněž částka, která odpovídá příslušné sazbě daně, vypočtená z odměny za zastupování a z náhrad určených podle § 35 odst. 2 věty druhé; to samé platí i v případě, kdy advokát je společníkem právnické osoby zřízené podle zvláštních právních předpisů upravujících výkon advokacie a plátcem daně je tato právnická osoba.
+Svědek má právo na náhradu hotových výdajů a ušlého výdělku. Toto právo zaniká, není-li uplatněno do tří dnů od výslechu nebo ode dne, kdy bylo svědku oznámeno, že k výslechu nedojde. O tom musí soud svědka poučit. Stejná práva má také osoba, které soud při dokazování uložil povinnost.
+Znalec a tlumočník mají právo na náhradu hotových výdajů a odměny za znaleckou a tlumočnickou činnost. Výši této odměny stanoví zvláštní právní předpis.
+O náhradách podle odstavců 1 a 2 rozhoduje předseda senátu.
+Placení nákladů řízení
+Každý z účastníků a osob zúčastněných na řízení platí náklady, které vzniknou jemu nebo jeho zástupci.
+Stát platí náklady vynaložené na svědečné, znalečné, tlumočné a jiné náklady spojené s dokazováním. Předseda senátu však může účastníkovi, který nebyl osvobozen od soudních poplatků, usnesením uložit, aby složil zálohu na náklady provedení důkazu, který navrhl.
+Náhrada nákladů řízení
+Nestanoví-li tento zákon jinak, má účastník, který měl ve věci plný úspěch, právo na náhradu nákladů řízení před soudem, které důvodně vynaložil, proti účastníkovi, který ve věci úspěch neměl. Měl-li úspěch jen částečný, přizná mu soud právo na náhradu poměrné části nákladů.
+Ustanovení odstavce 1 neplatí, mělo-li by být právo přiznáno správnímu orgánu ve věcech důchodového pojištění, nemocenského pojištění, pomoci v hmotné nouzi a sociální péče.
+Žádný z účastníků nemá právo na náhradu nákladů řízení, bylo-li řízení zastaveno nebo žaloba odmítnuta. Vzal-li však navrhovatel podaný návrh zpět pro pozdější chování odpůrce nebo bylo-li řízení zastaveno pro uspokojení navrhovatele, má navrhovatel proti odpůrci právo na náhradu nákladů řízení.
+Stát má proti neúspěšnému účastníkovi právo na náhradu nákladů řízení, které platil, není-li tento účastník osvobozen od soudních poplatků.
+Osoba zúčastněná na řízení má právo na náhradu jen těch nákladů, které jí vznikly v souvislosti s plněním povinnosti, kterou jí soud uložil. Z důvodů zvláštního zřetele hodných může jí soud na návrh přiznat právo na náhradu dalších nákladů řízení.
+Soud může uložit účastníkovi, svědkovi, znalci, tlumočníkovi nebo osobě, která měla při dokazování nějakou povinnost, aby státu nebo druhému účastníkovi nahradila náklady, které vznikly jejím zaviněním.
+Jsou-li pro to důvody zvláštního zřetele hodné, může soud výjimečně rozhodnout, že se náhrada nákladů účastníkům nebo státu zcela nebo zčásti nepřiznává.
+Jsou-li pro to důvody zvláštního zřetele hodné, může soud přiznat účastníkovi, který měl ve věci alespoň částečný úspěch, právo na náhradu nákladů řízení i v těch případech, kdy tento zákon stanoví, že žádný z účastníků nemá na náhradu nákladů řízení právo.
+Při správě placení pohledávek státu vzniklých z důvodu práva na náhradu nákladů řízení vůči osobám uvedeným v odstavcích 4 a 6 ve výši státem placených nákladů řízení se postupuje podle daňového řádu. Tyto pohledávky vymáhá celní úřad.
+Výrok o náhradě nákladů řízení
+O povinnosti nahradit náklady řízení rozhodne soud zpravidla v rozsudku nebo usnesení, jímž se řízení končí.
+Určit výši nákladů může předseda senátu až v písemném vyhotovení rozsudku nebo usnesení.
+Uspokojení navrhovatele
+Dokud soud nerozhodl, může odpůrce vydat nové rozhodnutí nebo opatření, popřípadě provést jiný úkon, jimiž navrhovatele uspokojí, nezasáhne-li tímto postupem práva nebo povinnosti třetích osob. Svůj záměr navrhovatele uspokojit sdělí správní orgán soudu a vyžádá si správní spisy, pokud je již soudu předložil.
+Předseda senátu stanoví lhůtu, v níž je třeba rozhodnutí vydat, opatření nebo úkon provést a oznámit je navrhovateli i soudu; uplyne-li tato lhůta marně, pokračuje soud v řízení.
+Dojde-li oznámení odpůrce podle odstavce 2 soudu, vyzve předseda senátu navrhovatele, aby se ve stanovené lhůtě vyjádřil, zda je postupem správního orgánu uspokojen. Zmeškání této lhůty nelze prominout.
+Soud řízení usnesením zastaví, sdělí-li navrhovatel, že je uspokojen. Soud řízení zastaví i tehdy, nevyjádří-li se takto navrhovatel ve stanovené lhůtě, jestliže ze všech okolností případu je zřejmé, že k jeho uspokojení došlo.
+Rozhodnutí, opatření nebo úkon podle odstavce 1 nabývá právní moci nebo obdobných právních účinků dnem právní moci rozhodnutí soudu o zastavení řízení.
+Výkon rozhodnutí
+Při výkonu rozhodnutí soudu, které bylo vydáno podle tohoto zákona, platí, že je-li uložena povinnost správnímu orgánu, který je
+orgánem moci výkonné, je povinna ji splnit za stát jeho příslušná organizační složka,
+fyzickou nebo právnickou osobou, na kterou byl zákonem přenesen výkon státní správy, je povinna ji splnit tato osoba,
+orgánem veřejnoprávní korporace, je povinnou veřejnoprávní korporace.
+Použití občanského soudního řádu
+Nestanoví-li tento zákon jinak, použijí se pro řízení ve správním soudnictví přiměřeně ustanovení prvé a třetí části občanského soudního řádu.
+ZVLÁŠTNÍ USTANOVENÍ O ŘÍZENÍ
+Řízení o žalobě proti rozhodnutí správního orgánu
+Žalobní legitimace
+Kdo tvrdí, že byl na svých právech zkrácen přímo nebo v důsledku porušení svých práv v předcházejícím řízení úkonem správního orgánu, jímž se zakládají, mění, ruší nebo závazně určují jeho práva nebo povinnosti, (dále jen „rozhodnutí“), může se žalobou domáhat zrušení takového rozhodnutí, popřípadě vyslovení jeho nicotnosti, nestanoví-li tento nebo zvláštní zákon jinak.
+Žalobu proti rozhodnutí správního orgánu může podat i účastník řízení před správním orgánem, který není k žalobě oprávněn podle odstavce 1, tvrdí-li, že postupem správního orgánu byl zkrácen na právech, která jemu příslušejí, takovým způsobem, že to mohlo mít za následek nezákonné rozhodnutí.
+Rozhodl-li správní orgán o uložení trestu za správní delikt, může se ten, jemuž byl takový trest uložen, žalobou domáhat též upuštění od něj nebo jeho snížení v mezích zákonem dovolených.
+Zvláštní žalobní legitimace k ochraně veřejného zájmu
+Za podmínek určených zákony upravujícími řízení před správními orgány, může žalobu podat ten správní orgán, o němž to takový zákon stanoví.
+Žalobu je oprávněn podat nejvyšší státní zástupce, jestliže k jejímu podání shledá závažný veřejný zájem.
+Žalobu je oprávněn podat veřejný ochránce práv, jestliže k jejímu podání prokáže závažný veřejný zájem.
+Žalobu je oprávněn podat také ten, komu toto oprávnění výslovně svěřuje zvláštní zákon nebo mezinárodní smlouva, která je součástí právního řádu.
+Žaloba podle odstavců 1 až 4 je nepřípustná, pokud v ní uplatňované právní důvody byly uplatněny v téže věci v jiné žalobě již soudem zamítnuté.
+Žaloba podle odstavců 1 až 4 je dále nepřípustná, pokud již žalobu v téže věci podal ze stejných právních důvodů někdo jiný.
+Žaloby ve věcech samosprávy
+Ustanovení tohoto dílu se přiměřeně použijí též v případě, kdy zvláštní zákon svěřuje
+správnímu úřadu pravomoc podat žalobu proti usnesení nebo opatření orgánu územního samosprávného celku v samostatné působnosti,
+orgánu územního samosprávného celku oprávnění podat žalobu proti rozhodnutí o rozpuštění zastupitelstva.
+Nepřípustnost žaloby
+Žaloba je nepřípustná také tehdy,
+nevyčerpal-li žalobce řádné opravné prostředky v řízení před správním orgánem, připouští-li je zvláštní zákon, ledaže rozhodnutí správního orgánu bylo na újmu jeho práv změněno k opravnému prostředku jiného,
+jde-li o rozhodnutí správního orgánu v soukromoprávní věci, vydané v mezích zákonné pravomoci správního orgánu,
+je-li jediným jejím důvodem tvrzená nicotnost napadeného rozhodnutí, nedomáhal-li se žalobce vyslovení této nicotnosti v řízení před správním orgánem,
+směřuje-li jen proti důvodům rozhodnutí,
+domáhá-li se přezkoumání rozhodnutí, které je z přezkoumání podle tohoto nebo zvláštního zákona vyloučeno,
+sleduje-li zjevné zneužití práva.
+Účastníci řízení
+Žalovaným je správní orgán, který rozhodl v posledním stupni, nebo správní orgán, na který jeho působnost přešla.
+Kompetenční výluky
+Ze soudního přezkoumání jsou vyloučeny úkony správního orgánu
+které nejsou rozhodnutími,
+předběžné povahy,
+jimiž se upravuje vedení řízení před správním orgánem,
+jejichž vydání závisí výlučně na posouzení zdravotního stavu osob nebo technického stavu věcí, pokud sama o sobě neznamenají právní překážku výkonu povolání, zaměstnání nebo podnikatelské, popřípadě jiné hospodářské činnosti, nestanoví-li zvláštní zákon jinak,
+o nepřiznání nebo odnětí odborné způsobilosti fyzickým osobám, pokud sama o sobě neznamenají právní překážku výkonu povolání nebo zaměstnání nebo jiné činnosti,
+jejichž přezkoumání vylučuje zvláštní zákon.
+Náležitosti žaloby
+Žaloba kromě obecných náležitostí podání (§ 37 odst. 2 a 3) musí obsahovat
+označení napadeného rozhodnutí a den jeho doručení nebo jiného oznámení žalobci,
+označení osob na řízení zúčastněných, jsou-li žalobci známy,
+označení výroků rozhodnutí, které žalobce napadá,
+žalobní body, z nichž musí být patrno, z jakých skutkových a právních důvodů považuje žalobce napadené výroky rozhodnutí za nezákonné nebo nicotné,
+jaké důkazy k prokázání svých tvrzení žalobce navrhuje provést,
+návrh výroku rozsudku.
+K žalobě žalobce připojí jeden opis napadeného rozhodnutí. Žalobce může kdykoli za řízení žalobní body omezit. Rozšířit žalobu na dosud nenapadené výroky rozhodnutí nebo ji rozšířit o další žalobní body může jen ve lhůtě pro podání žaloby.
+Lhůta pro podání žaloby
+Žalobu lze podat do dvou měsíců poté, kdy rozhodnutí bylo žalobci oznámeno doručením písemného vyhotovení nebo jiným zákonem stanoveným způsobem, nestanoví-li zvláštní zákon lhůtu jinou.
+Žalobu podle § 66 odst. 1 až 3 může oprávněný žalobce podat do tří let od právní moci rozhodnutí, nestanoví-li zvláštní zákon jinak, a nenabývá-li rozhodnutí právní moci, od doručení rozhodnutí poslednímu účastníku, který proti němu mohl žalobu sám podat. Žalobu podle § 66 odst. 4 může oprávněný žalobce podat, dokud neuplynula lhůta pro podání žaloby všem účastníkům, nestanoví-li zvláštní zákon jinak.
+Jestliže soud rozhodující v občanském soudním řízení zastavil řízení proto, že šlo o věc, v níž měla být podána žaloba proti rozhodnutí správního orgánu, může ten, kdo takovou žalobu v občanském soudním řízení podal, podat u věcně a místně příslušného soudu žalobu ve správním soudnictví do jednoho měsíce od právní moci rozhodnutí o zastavení řízení. V takovém případě platí, že žaloba byla podána dnem, kdy došla soudu rozhodujícímu v občanském soudním řízení.
+Zmeškání lhůty pro podání žaloby nelze prominout.
+Odkladný účinek žaloby
+Podání žaloby nemá odkladný účinek, pokud tento nebo zvláštní zákon nestanoví jinak.
+Soud na návrh žalobce po vyjádření žalovaného usnesením přizná žalobě odkladný účinek, jestliže by výkon nebo jiné právní následky rozhodnutí znamenaly pro žalobce nepoměrně větší újmu, než jaká přiznáním odkladného účinku může vzniknout jiným osobám, a jestliže to nebude v rozporu s důležitým veřejným zájmem.
+Přiznáním odkladného účinku se pozastavují do skončení řízení před soudem účinky napadeného rozhodnutí.
+O návrhu na přiznání odkladného účinku rozhodne soud bez zbytečného odkladu; není-li tu nebezpečí z prodlení, rozhodne do 30 dnů od jeho podání. Usnesení o návrhu na přiznání odkladného účinku musí být vždy odůvodněno.
+Usnesení o přiznání odkladného účinku může soud i bez návrhu usnesením zrušit, ukáže-li se v průběhu řízení, že pro přiznání odkladného účinku nebyly důvody, nebo že tyto důvody v mezidobí odpadly.
+Projednání žaloby
+Předseda senátu doručí žalobu žalovanému do vlastních rukou a doručí ji těm osobám zúčastněným na řízení, jejichž okruh je ze žaloby zřejmý. Současně uloží žalovanému, aby nejdéle ve lhůtě jednoho měsíce předložil správní spisy a své vyjádření k žalobě; k žalobě nebo jinému návrhu, o kterém je soud povinen rozhodnout ve lhůtách počítaných na dny, je žalovaný povinen předložit správní spisy a své vyjádření bez zbytečného odkladu. Došlé vyjádření doručí žalobci a osobám zúčastněným na řízení; přitom může žalobci uložit, aby podal repliku. Předseda senátu může uložit i jiným osobám nebo úřadům, aby předložily své spisy k projednání věci potřebné, popřípadě také sdělily své stanovisko k věci.
+Zjistí-li soud kdykoli před nařízením jednání, že jsou tu ještě další osoby zúčastněné na řízení, vyrozumí je předseda senátu o probíhajícím řízení.
+Přezkoumání napadeného rozhodnutí
+Při přezkoumání rozhodnutí vychází soud ze skutkového a právního stavu, který tu byl v době rozhodování správního orgánu.
+Soud přezkoumá v mezích žalobních bodů napadené výroky rozhodnutí. Byl-li závazným podkladem přezkoumávaného rozhodnutí jiný úkon správního orgánu, přezkoumá soud k žalobní námitce také jeho zákonnost, není-li jím sám vázán a neumožňuje-li tento zákon žalobci napadnout takový úkon samostatnou žalobou ve správním soudnictví.
+K vadám řízení, o nichž nelze mít důvodně za to, že mohly mít vliv na zákonnost, popřípadě správnost napadeného rozhodnutí, se nepřihlíží.
+Rozhodování bez nařízení jednání
+Soud zruší napadené rozhodnutí pro vady řízení bez jednání rozsudkem
+pro nepřezkoumatelnost spočívající v nesrozumitelnosti nebo nedostatku důvodů rozhodnutí,
+proto, že skutkový stav, který vzal správní orgán za základ napadeného rozhodnutí, je v rozporu se spisy nebo v nich nemá oporu anebo vyžaduje rozsáhlé nebo zásadní doplnění,
+pro podstatné porušení ustanovení o řízení před správním orgánem, mohlo-li mít za následek nezákonné rozhodnutí o věci samé.
+Zjistí-li soud, že rozhodnutí trpí takovými vadami, které vyvolávají jeho nicotnost, vysloví rozsudkem tuto nicotnost i bez návrhu. Pokud se důvody nicotnosti týkají jen části rozhodnutí, soud vysloví nicotnou jen tuto část rozhodnutí, jestliže z povahy věci nevyplývá, že ji nelze oddělit od ostatních částí rozhodnutí.
+Nejsou-li důvody pro postup podle ustanovení odstavců 1 a 2 nebo podle § 51, nařídí předseda senátu jednání. Z důvodů uvedených v odstavcích 1 a 2 soud napadené rozhodnutí zruší, popřípadě vysloví jeho nicotnost i tehdy, vyjdou-li tyto vady najevo při jednání.
+Dokazování
+Dokazování provádí soud při jednání.
+V rámci dokazování může soud zopakovat nebo doplnit důkazy provedené správním orgánem, neupraví-li zvláštní zákon rozsah a způsob dokazování jinak. Soud jím provedené důkazy hodnotí jednotlivě i v jejich souhrnu i s důkazy provedenými v řízení před správním orgánem a ve svém rozhodnutí vyjde ze skutkového a právního stavu takto zjištěného.
+Rozsudek
+Je-li žaloba důvodná, soud zruší napadené rozhodnutí pro nezákonnost nebo pro vady řízení. Pro nezákonnost zruší soud napadené rozhodnutí i tehdy, zjistí-li, že správní orgán překročil zákonem stanovené meze správního uvážení nebo jej zneužil.
+Rozhoduje-li soud o žalobě proti rozhodnutí, jímž správní orgán uložil trest za správní delikt, může soud, nejsou-li důvody pro zrušení rozhodnutí podle odstavce 1, ale trest byl uložen ve zjevně nepřiměřené výši, upustit od něj nebo jej snížit v mezích zákonem dovolených, lze-li takové rozhodnutí učinit na základě skutkového stavu, z něhož vyšel správní orgán, a který soud případně vlastním dokazováním v nikoli zásadních směrech doplnil, a navrhl-li takový postup žalobce v žalobě.
+Zrušuje-li soud rozhodnutí, podle okolností může zrušit i rozhodnutí správního orgánu nižšího stupně, které mu předcházelo.
+Zruší-li soud rozhodnutí, vysloví současně, že věc se vrací k dalšímu řízení žalovanému.
+Právním názorem, který vyslovil soud ve zrušujícím rozsudku nebo rozsudku vyslovujícím nicotnost, je v dalším řízení správní orgán vázán.
+Zrušil-li soud rozhodnutí správního orgánu ve věci, v níž sám prováděl dokazování, zahrne správní orgán v dalším řízení tyto důkazy mezi podklady pro nové rozhodnutí.
+Soud zamítne žalobu, není-li důvodná.
+Ochrana proti nečinnosti správního orgánu
+Žalobní legitimace a účastníci řízení
+Ten, kdo bezvýsledně vyčerpal prostředky, které procesní předpis platný pro řízení u správního orgánu stanoví k jeho ochraně proti nečinnosti správního orgánu, může se žalobou domáhat, aby soud uložil správnímu orgánu povinnost vydat rozhodnutí ve věci samé nebo osvědčení. To neplatí, spojuje-li zvláštní zákon s nečinností správního orgánu fikci, že bylo vydáno rozhodnutí o určitém obsahu nebo jiný právní důsledek.
+Žalovaným je správní orgán, který podle žalobního tvrzení má povinnost vydat rozhodnutí nebo osvědčení.
+Lhůta pro podání žaloby a její náležitosti
+Žalobu lze podat nejpozději do jednoho roku ode dne, kdy ve věci, v níž se žalobce domáhá ochrany, marně proběhla lhůta stanovená zvláštním zákonem pro vydání rozhodnutí nebo osvědčení, a není-li taková lhůta stanovena, ode dne, kdy byl žalobcem vůči správnímu orgánu nebo správním orgánem proti žalobci učiněn poslední úkon.
+Zmeškání lhůty nelze prominout.
+Žaloba kromě obecných náležitostí podání musí obsahovat
+označení věci, v níž se žalobce ochrany proti nečinnosti domáhá,
+vylíčení rozhodujících skutečností,
+označení důkazů, jichž se žalobce dovolává,
+návrh výroku rozsudku.
+Rozsudek
+Soud rozhoduje na základě skutkového stavu zjištěného ke dni svého rozhodnutí.
+Je-li návrh důvodný, soud uloží rozsudkem správnímu orgánu povinnost vydat rozhodnutí nebo osvědčení a stanoví k tomu přiměřenou lhůtu, ne však delší, než kterou určuje zvláštní zákon.
+Soud zamítne žalobu, není-li důvodná.
+Řízení o ochraně před nezákonným zásahem, pokynem nebo donucením správního orgánu
+Žalobní legitimace
+Každý, kdo tvrdí, že byl přímo zkrácen na svých právech nezákonným zásahem, pokynem nebo donucením (dále jen „zásah“) správního orgánu, který není rozhodnutím, a byl zaměřen přímo proti němu nebo v jeho důsledku bylo proti němu přímo zasaženo, může se žalobou u soudu domáhat ochrany proti němu nebo určení toho, že zásah byl nezákonný.
+Žalovaný
+Žalovaným je správní orgán, který podle žalobního tvrzení provedl zásah; jde-li o zásah ozbrojených sil, veřejného ozbrojeného sboru, ozbrojeného bezpečnostního sboru nebo jiného obdobného sboru, který není správním orgánem, anebo příslušníka takového sboru, je žalovaným správní orgán, který takový sbor řídí nebo jemuž je takový sbor podřízen, a u obecní policie obec.
+Lhůta pro podání žaloby a její náležitosti
+Žaloba musí být podána do dvou měsíců ode dne, kdy se žalobce dozvěděl o nezákonném zásahu. Nejpozději lze žalobu podat do dvou let od okamžiku, kdy k němu došlo.
+Zmeškání lhůty nelze prominout.
+Žaloba mimo obecných náležitostí podání musí obsahovat
+označení zásahu, proti němuž se žalobce ochrany domáhá,
+vylíčení rozhodujících skutečností,
+označení důkazů, jichž se žalobce dovolává,
+návrh výroku rozsudku.
+Nepřípustnost žaloby
+Žaloba je nepřípustná, lze-li se ochrany nebo nápravy domáhat jinými právními prostředky; to neplatí v případě, domáhá-li se žalobce pouze určení, že zásah byl nezákonný.
+Rozsudek
+Soud rozhoduje na základě skutkového stavu zjištěného ke dni svého rozhodnutí; rozhoduje-li soud pouze o určení toho, zda zásah byl nezákonný, vychází ze skutkového a právního stavu, který tu byl v době zásahu.
+Soud rozsudkem určí, že provedený zásah byl nezákonný, a trvá-li takový zásah nebo jeho důsledky anebo hrozí-li jeho opakování, zakáže správnímu orgánu, aby v porušování žalobcova práva pokračoval, a přikáže, aby, je-li to možné, obnovil stav před zásahem. Šlo-li o zásah ozbrojených sil, veřejného ozbrojeného sboru, ozbrojeného bezpečnostního sboru nebo jiného obdobného sboru, uloží soud tento zákaz nebo příkaz správnímu orgánu nebo obci, která takový sbor řídí nebo které je takový sbor podřízen.
+Soud zamítne žalobu, není-li důvodná.
+Soudnictví ve věcech volebních a ve věcech místního a krajského referenda
+Ochrana ve věcech seznamů voličů
+Jestliže správní orgán, který vede podle zvláštních zákonů stálý seznam voličů, neodstraní chyby nebo nedostatky ve stálém seznamu voličů a jeho dodatku, může se osoba tím dotčená obrátit na soud příslušný podle sídla správního orgánu s návrhem na vydání rozhodnutí o provedení opravy nebo doplnění seznamu nebo jeho dodatku.
+Účastníky řízení jsou navrhovatel a správní orgán uvedený v odstavci 1.
+Soud rozhodne bez jednání usnesením, a to do tří dnů poté, kdy návrh došel soudu.
+Ochrana ve věcech registrace
+Soudní ochrany se lze domáhat ve věcech, v nichž správní orgán podle zvláštních zákonů
+odmítl kandidátní listinu nebo odmítl přihlášku k registraci,
+škrtl kandidáta na kandidátní listině,
+registroval kandidátní listinu nebo přihlášku k registraci.
+Návrhem podle odstavce 1 písm. a) se může politická strana, politické hnutí nebo jejich koalice (dále jen „politická strana“), nezávislý kandidát, sdružení nezávislých kandidátů nebo sdružení politických stran nebo politických hnutí a nezávislých kandidátů, jestliže podali kandidátní listinu, nebo u voleb do Senátu Parlamentu České republiky (dále jen „Senát“), nezávislý kandidát nebo politická strana, která podala přihlášku k registraci, anebo při volbě prezidenta republiky nejméně dvacet poslanců nebo nejméně deset senátorů, kteří navrhli kandidáta na funkci prezidenta republiky, nebo občan, který navrhl kandidáta na funkci prezidenta republiky, nebo kandidát uvedený na kandidátní listině, která byla odmítnuta, domáhat vydání rozhodnutí o povinnosti správního orgánu kandidátní listinu nebo přihlášku k registraci registrovat. Účastníky jsou navrhovatel a správní orgán.
+Návrhem podle odstavce 1 písm. b) se může politická strana, sdružení nezávislých kandidátů nebo sdružení politických stran nebo politických hnutí a nezávislých kandidátů, které podalo kandidátní listinu, nebo ten, kdo byl rozhodnutím správního orgánu z této kandidátní listiny vyškrtnut, domáhat vydání rozhodnutí o ponechání kandidáta na kandidátní listině. Účastníky jsou navrhovatel a správní orgán.
+Návrhem podle odstavce 1 písm. c) se může politická strana, nezávislý kandidát, sdružení nezávislých kandidátů nebo sdružení politických stran nebo politických hnutí a nezávislých kandidátů, které podalo kandidátní listinu, nebo u voleb do Senátu nezávislý kandidát nebo politická strana, která podala přihlášku k registraci, anebo při volbě prezidenta republiky nejméně dvacet poslanců nebo nejméně deset senátorů, kteří navrhli kandidáta na funkci prezidenta republiky, nebo občan, který navrhl kandidáta na funkci prezidenta republiky, domáhat vydání rozhodnutí o zrušení registrace kandidátní listiny jiné politické strany, nezávislého kandidáta, sdružení nezávislých kandidátů nebo sdružení politických stran nebo politických hnutí a nezávislých kandidátů, nejméně dvaceti poslanců nebo nejméně deseti senátorů, kteří navrhli kandidáta na funkci prezidenta republiky, nebo občana, který navrhl kandidáta na funkci prezidenta republiky, nebo zrušení registrace přihlášky jiného kandidáta. Účastníky jsou navrhovatel, správní orgán, který provedl registraci, a ten, o jehož registraci se jedná.
+Soud rozhodne usnesením, a to do patnácti dnů poté, kdy návrh došel soudu; došlo-li k rozpuštění Poslanecké sněmovny, rozhodne soud do pěti dnů. Jednání není třeba nařizovat.
+Neplatnost voleb a hlasování
+Za podmínek stanovených zvláštními zákony může se občan, politická strana nebo nezávislý kandidát anebo sdružení nezávislých kandidátů a sdružení politických stran nebo politických hnutí a nezávislých kandidátů návrhem domáhat rozhodnutí soudu o neplatnosti voleb nebo neplatnosti hlasování anebo neplatnosti volby kandidáta.
+V řízení o návrhu na neplatnost voleb nebo na neplatnost hlasování jsou účastníky navrhovatel, příslušný volební orgán, politická strana, sdružení nezávislých kandidátů nebo sdružení politických stran nebo politických hnutí a nezávislých kandidátů, na jejichž kandidátní listině byl uveden kandidát, jehož volba byla napadena, nebo nezávislý kandidát. V řízení o návrhu na neplatnost volby kandidáta jsou účastníky navrhovatel, příslušný volební orgán a ten, jehož volba byla napadena.
+Soud rozhodne usnesením, a to do dvaceti dnů poté, kdy návrh došel soudu. Jednání není třeba nařizovat.
+Pokud soud rozhodne o neplatnosti volby kandidáta, může současně vyhlásit za zvoleného toho, kdo byl řádně zvolen.
+Za podmínek stanovených zvláštním zákonem se může občan, nejméně dvacet poslanců nebo nejméně deset senátorů, kteří navrhli kandidáta na funkci prezidenta republiky, anebo občan, který navrhl kandidáta na funkci prezidenta republiky, domáhat rozhodnutí soudu o neplatnosti volby. V řízení o neplatnosti volby jsou účastníky navrhovatel, příslušný volební orgán, nejméně dvacet poslanců nebo nejméně deset senátorů, na jimiž podané kandidátní listině byl uveden kandidát, jehož volba byla napadena, nebo občan, na jehož kandidátní listině byl uveden kandidát, jehož volba byla napadena, a ten, jehož volba byla napadena. Soud rozhodne usnesením, a to do patnácti dnů poté, kdy návrh došel soudu. Jednání není třeba nařizovat. Rozhodne-li soud o neplatnosti části volby prezidenta republiky, určí v usnesení, od kterého úkonu se volba prezidenta republiky bude opakovat. Pokud soud shledá chybu ve výpočtu volebního orgánu při zjišťování výsledku hlasování, uloží povinnost příslušným volebním orgánům upravit zápis o výsledku volby prezidenta republiky a ten vyhlásit.
+Ochrana ve věcech zániku mandátu
+Za podmínek stanovených zvláštními zákony může se člen zastupitelstva, jehož mandát zanikl, nebo politická strana, sdružení nezávislých kandidátů nebo sdružení politických stran a nezávislých kandidátů, na jejichž kandidátní listině byl člen zastupitelstva zařazen, domáhat zrušení usnesení zastupitelstva nebo zrušení rozhodnutí správního orgánu, který o zániku mandátu člena zastupitelstva rozhodl.
+Účastníky jsou navrhovatel a ten, kdo byl k podanému návrhu také oprávněn, územní samosprávný celek, o usnesení jehož zastupitelstva jde, popřípadě správní orgán, který rozhodnutí vydal.
+Soud rozhodne usnesením, a to do dvaceti dnů poté, kdy návrh došel soudu. Jednání není třeba nařizovat.
+Ochrana ve věcech místního referenda
+Návrhem se u soudu lze za podmínek stanovených zvláštním zákonem domáhat
+určení, že návrh na konání místního referenda nemá nedostatky,
+vyhlášení místního referenda,
+vyslovení neplatnosti rozhodnutí přijatého v místním referendu,
+vyslovení neplatnosti hlasování v místním referendu.
+Účastníky řízení jsou přípravný výbor a příslušná obec, městská část nebo městský obvod územně členěného statutárního města, městská část hlavního města Prahy nebo hlavní město Praha a navrhovatel.
+Soud rozhodne usnesením do 30 dnů. Jednání není třeba nařizovat.
+Ochrana ve věcech krajského referenda
+Návrhem se u soudu lze za podmínek stanovených zvláštním zákonem domáhat
+určení, že návrh na konání krajského referenda nemá nedostatky,
+vyhlášení krajského referenda,
+vyslovení neplatnosti rozhodnutí přijatého v krajském referendu,
+vyslovení neplatnosti hlasování v krajském referendu.
+Účastníky řízení jsou přípravný výbor a příslušný kraj a navrhovatel.
+Soud rozhodne usnesením do 30 dnů. Jednání není třeba nařizovat.
+Nepřípustnost návrhu
+Návrh je nepřípustný též tehdy, byl-li podán u věcně nebo místně nepříslušného soudu.
+Zvláštní ustanovení o řízení
+Ustanovení tohoto zákona o povinném zastoupení se neužijí; to neplatí o zastoupení zákonným zástupcem.
+Návrh, jímž se řízení zahajuje, nebo úkony, jimiž se řízením nebo jeho předmětem disponuje, lze provést pouze písemně nebo ústně do protokolu u věcně a místně příslušného soudu.
+Zmeškání lhůty k podání návrhu nelze prominout.
+Na náhradu nákladů řízení nemá žádný z účastníků právo.
+Usnesení soud doručí účastníkům a vyvěsí jej na úřední desce soudu. Usnesení nabývá právní moci dnem vyvěšení.
+Zvláštní řízení ve věcech politických stran a politických hnutí
+Návrh
+Návrhem se u soudu lze za podmínek stanovených zvláštním zákonem domáhat
+určení, že návrh na registraci, popřípadě návrh na registraci změny stanov nemá nedostatky,
+rozpuštění politické strany nebo politického hnutí, pozastavení nebo znovuobnovení jejich činnosti.
+Návrh podle odstavce 1 písm. b), s výjimkou návrhu na znovuobnovení činnosti, je nepřípustný, byl-li podán v době, o níž zvláštní zákon stanoví, že v ní nelze činnost politické strany nebo politického hnutí pozastavit nebo je rozpustit. Byl-li však návrh podán předtím, soud řízení na tuto dobu přeruší.
+Účastníky jsou ti, o nichž to stanoví zvláštní zákon.
+Příslušnost
+K řízení o návrhu podle ustanovení § 94 odst. 1 písm. b) je příslušný Nejvyšší správní soud.
+Rozsudek
+O návrhu podle ustanovení § 94 odst. 1 písm. b) rozhoduje soud podle skutkového stavu, který tu je v době rozhodnutí soudu.
+Řízení o kompetenčních žalobách
+Kompetenční spor
+Soud rozhoduje kladný nebo záporný kompetenční spor, jehož stranami jsou
+správní úřad a orgán územní, zájmové nebo profesní samosprávy, nebo
+orgány územní, zájmové nebo profesní samosprávy navzájem, anebo
+ústřední správní úřady navzájem.
+Kladným kompetenčním sporem je spor, ve kterém si správní orgány osobují pravomoc vydat rozhodnutí o tomtéž právu nebo povinnosti téhož účastníka řízení před správním orgánem.
+Záporným kompetenčním sporem je spor, ve kterém správní orgány popírají svou pravomoc vydat rozhodnutí o tomtéž právu nebo povinnosti téhož účastníka řízení před správním orgánem.
+K řízení je příslušný Nejvyšší správní soud.
+Žalobní legitimace a účastníci řízení
+Žalobu je oprávněn podat
+správní orgán, který si v kladném kompetenčním sporu osobuje pravomoc o věci vydat rozhodnutí a popírá pravomoc správního orgánu, který ve věci vede řízení nebo rozhodl,
+správní orgán, který v záporném kompetenčním sporu popírá svou pravomoc o věci vést řízení a rozhodovat a tvrdí, že tato pravomoc náleží jinému správnímu orgánu, který svou pravomoc popřel,
+ten, o jehož právech nebo povinnostech bylo nebo mělo být rozhodováno v řízení před správním orgánem.
+Žalovaným je správní orgán, který je druhou stranou kompetenčního sporu; je-li podána žaloba osobou uvedenou v odstavci 1 písm. c), jsou žalovanými správní orgány, mezi nimiž je pravomoc sporná.
+Má-li soud za to, že řízení a vydání rozhodnutí může být v pravomoci jiného správního orgánu než toho, který je označen žalobou za účastníka kompetenčního sporu, usnesením jej přibere do řízení jako dalšího žalovaného.
+Je-li stranou kompetenčního sporu správní úřad, jedná za něj ústřední orgán státní správy příslušný podle úseku státní správy; není-li jej nebo je-li sporná také tato jeho příslušnost, jedná v řízení správní úřad sám.
+Každý, kdo byl účastníkem řízení, v němž kompetenční spor vznikl, má postavení osoby zúčastněné na řízení, nepodal-li žalobu sám.
+Nepřípustnost
+Žaloba je nepřípustná,
+nejde-li o kompetenční spor, nebo
+přísluší-li rozhodovat o kompetenčním sporu jinému orgánu podle zvláštního zákona, anebo
+lze-li na návrh žalobce kompetenční spor odstranit, a to i jako otázku předběžnou, v jiném řízení podle tohoto nebo zvláštního zákona, s výjimkou ústavní stížnosti.
+Rozhodnutí
+Soud vychází ze skutkového a právního stavu, který tu je v době jeho rozhodnutí.
+Neodmítne-li soud žalobu, nezastaví-li řízení nebo nerozhodne-li o postoupení věci, rozsudkem určí, který ze správních orgánů má pravomoc vydat rozhodnutí ve věci uvedené v žalobě. Současně vysloví nicotnost všech rozhodnutí správních orgánů nebo jejich jednotlivých výroků, pokud jsou v rozporu s určením pravomoci soudem; ustanovení § 76 odst. 2 platí obdobně.
+Náhrada nákladů řízení
+Žádný z účastníků nemá právo na náhradu nákladů řízení.
+Řízení o zrušení opatření obecné povahy nebo jeho části
+Návrh na zrušení opatření obecné povahy nebo jeho částí je oprávněn podat ten, kdo tvrdí, že byl na svých právech opatřením obecné povahy, vydaným správním orgánem, zkrácen. Pokud je podle zákona současně oprávněn ve věci, ve které bylo opatřením obecné povahy užito, podat ve správním soudnictví žalobu nebo jiný návrh, může navrhnout zrušení opatření obecné povahy jen společně s takovým návrhem.
+Návrh na zrušení opatření obecné povahy nebo jeho částí, vydaného krajem, může podat též obec.
+Odpůrcem je ten, kdo vydal opatření obecné povahy, jehož zrušení nebo zrušení jeho části je navrhováno.
+Návrh lze podat do 1 roku ode dne, kdy návrhem napadené opatření obecné povahy nabylo účinnosti. Zmeškání lhůty pro podání návrhu nelze prominout, a to ani ve vazbě na navazující správní rozhodnutí, opatření nebo jiný úkon nahrazující rozhodnutí.
+Návrh kromě obecných náležitostí podání (§ 37 odst. 2 a 3) musí obsahovat návrhové body, z nichž musí být patrno, z jakých skutkových a právních důvodů považuje navrhovatel opatření obecné povahy nebo jeho část za nezákonné. Obsahuje-li návrh tyto náležitosti, nelze již v dalším řízení návrh rozšiřovat na dosud nenapadené části opatření obecné povahy nebo jej rozšiřovat o další návrhové body. Navrhovatel může kdykoli za řízení návrhové body omezit.
+Při přezkoumání opatření obecné povahy vychází soud ze skutkového a právního stavu, který tu byl v době vydání opatření obecné povahy.
+Ustanovení § 34, s výjimkou odst. 2 věty první a odst. 4, a § 76 se použijí přiměřeně.
+Rozsudek a jeho účinky
+Při rozhodování je soud vázán rozsahem a důvody návrhu. K vadám řízení o vydání opatření obecné povahy, o nichž nelze mít důvodně za to, že mohly mít vliv na zákonnost, popřípadě správnost napadeného opatření obecné povahy, se nepřihlíží.
+Dojde-li soud k závěru, že opatření obecné povahy nebo jeho části jsou v rozporu se zákonem, nebo že ten, kdo je vydal, překročil meze své působnosti a pravomoci, anebo že opatření obecné povahy nebylo vydáno zákonem stanoveným způsobem, opatření obecné povahy nebo jeho části zruší v nezbytně nutném rozsahu, a to dnem právní moci rozsudku, nebo k pozdějšímu dni, který v rozsudku určí. Není-li návrh důvodný, soud jej zamítne. Soud o návrhu na zrušení opatření obecné povahy nebo jeho částí rozhodne do devadesáti dnů poté, kdy návrh došel soudu.
+Ke zrušení opatření obecné povahy nebo jeho části přihlédne soud vždy při přezkumu rozhodnutí a jiných úkonů správních orgánů, při jejichž vydání bylo opatření obecné povahy užito, byť byly vydány před tímto zrušením.
+Bylo-li na základě opatření obecné povahy, které bylo zrušeno, nebo bylo-li na základě části opatření obecné povahy, která byla zrušena, rozhodnuto o správním deliktu a toto rozhodnutí nabylo právní moci, ale nebylo dosud vykonáno, je zrušení takového opatření obecné povahy nebo jeho části důvodem pro obnovu řízení podle ustanovení příslušného procesního předpisu.
+Práva a povinnosti z právních vztahů vzniklých před zrušením opatření obecné povahy nebo jeho části zůstávají nedotčena.
+Řízení o zrušení služebního předpisu
+Návrh na zrušení služebního předpisu je oprávněn podat náměstek ministra vnitra pro státní službu do 30 dnů ode dne marného uplynutí lhůty pro zjednání nápravy podle zákona o státní službě.
+Návrh na zrušení služebního předpisu musí kromě obecných náležitostí podání (§ 37 odst. 2 a 3) obsahovat návrhové body, z nichž musí být patrno, z jakých skutkových a právních důvodů považuje navrhovatel služební předpis nebo jeho část za nezákonný. Obsahuje-li návrh tyto náležitosti, nelze již v dalším řízení návrh rozšiřovat na dosud nenapadené části služebního předpisu nebo jej rozšiřovat o další návrhové body. Navrhovatel může kdykoli za řízení návrhové body omezit.
+Ustanovení § 34, s výjimkou odstavce 2 věty první a odstavce 4, a § 76 se použijí přiměřeně.
+K řízení o návrhu na zrušení služebního předpisu je příslušný Městský soud v Praze.
+Rozsudek a jeho účinky
+Při rozhodování je soud vázán rozsahem a důvody návrhu.
+Dojde-li soud k závěru, že služební předpis nebo jeho část je v rozporu se zákonem, nebo že ten, kdo jej vydal, překročil meze své působnosti a pravomoci, anebo že služební předpis nebyl vydán zákonem stanoveným způsobem, služební předpis nebo jeho část zruší dnem, který v rozsudku určí. Není-li návrh důvodný, soud jej zamítne.
+Bylo-li na základě služebního předpisu, který byl zrušen, nebo bylo-li na základě části služebního předpisu, která byla zrušena, rozhodnuto o kárném opatření a toto rozhodnutí nabylo právní moci, ale nebylo dosud vykonáno, je zrušení takového služebního předpisu nebo jeho části důvodem pro obnovu řízení podle ustanovení příslušného procesního předpisu.
+Práva a povinnosti z právních vztahů vzniklých před zrušením služebního předpisu nebo jeho části zůstávají nedotčena.
+OPRAVNÉ PROSTŘEDKY
+Kasační stížnost
+Přípustnost
+Kasační stížnost je opravným prostředkem proti pravomocnému rozhodnutí krajského soudu ve správním soudnictví, jímž se účastník řízení, z něhož toto rozhodnutí vzešlo, nebo osoba zúčastněná na řízení (dále jen „stěžovatel“) domáhá zrušení soudního rozhodnutí. Kasační stížnost je přípustná proti každému takovému rozhodnutí, není-li dále stanoveno jinak.
+Důvody kasační stížnosti
+Kasační stížnost lze podat pouze z důvodu tvrzené
+nezákonnosti spočívající v nesprávném posouzení právní otázky soudem v předcházejícím řízení,
+vady řízení spočívající v tom, že skutková podstata, z níž správní orgán v napadeném rozhodnutí vycházel, nemá oporu ve spisech nebo je s nimi v rozporu, nebo že při jejím zjišťování byl porušen zákon v ustanoveních o řízení před správním orgánem takovým způsobem, že to mohlo ovlivnit zákonnost, a pro tuto důvodně vytýkanou vadu soud, který ve věci rozhodoval, napadené rozhodnutí správního orgánu měl zrušit; za takovou vadu řízení se považuje i nepřezkoumatelnost rozhodnutí správního orgánu pro nesrozumitelnost,
+zmatečnosti řízení před soudem spočívající v tom, že chyběly podmínky řízení, ve věci rozhodoval vyloučený soudce nebo byl soud nesprávně obsazen, popřípadě bylo rozhodnuto v neprospěch účastníka v důsledku trestného činu soudce,
+nepřezkoumatelnosti spočívající v nesrozumitelnosti nebo nedostatku důvodů rozhodnutí, popřípadě v jiné vadě řízení před soudem, mohla-li mít taková vada za následek nezákonné rozhodnutí o věci samé,
+nezákonnosti rozhodnutí o odmítnutí návrhu nebo o zastavení řízení.
+Ustanovení odstavce 1 se užije přiměřeně také pro důvody kasační stížnosti směřující proti rozhodnutí krajského soudu o pořádkové pokutě.
+Nepřípustnost
+Kasační stížnost ve věcech volebních je nepřípustná.
+Kasační stížnost, která směřuje jen proti výroku o nákladech řízení nebo proti důvodům rozhodnutí soudu, je nepřípustná.
+Kasační stížnost je dále nepřípustná proti rozhodnutí,
+jímž soud rozhodl znovu poté, kdy jeho původní rozhodnutí bylo zrušeno Nejvyšším správním soudem; to neplatí, je-li jako důvod kasační stížnosti namítáno, že se soud neřídil závazným právním názorem Nejvyššího správního soudu,
+jímž se pouze upravuje vedení řízení, nebo
+které je podle své povahy dočasné.
+Kasační stížnost není přípustná, opírá-li se jen o jiné důvody, než které jsou uvedeny v § 103, nebo o důvody, které stěžovatel neuplatnil v řízení před soudem, jehož rozhodnutí má být přezkoumáno, ač tak učinit mohl.
+Nepřijatelnost
+Jestliže kasační stížnost ve věcech, v nichž před krajským soudem rozhodoval specializovaný samosoudce, svým významem podstatně nepřesahuje vlastní zájmy stěžovatele, odmítne ji Nejvyšší správní soud pro nepřijatelnost.
+K přijetí usnesení podle odstavce 1 je třeba souhlasu všech členů senátu.
+Účastníci řízení o kasační stížnosti a jejich zastoupení
+Účastníky řízení o kasační stížnosti jsou stěžovatel a všichni, kdo byli účastníky původního řízení.
+Stěžovatel musí být zastoupen advokátem; to neplatí, má-li stěžovatel, jeho zaměstnanec nebo člen, který za něj jedná nebo jej zastupuje, vysokoškolské právnické vzdělání, které je podle zvláštních zákonů vyžadováno pro výkon advokacie.
+Náležitosti, místo a lhůta podání
+Kromě obecných náležitostí podání musí kasační stížnost obsahovat označení rozhodnutí, proti němuž směřuje, v jakém rozsahu a z jakých důvodů jej stěžovatel napadá, údaj o tom, kdy mu rozhodnutí bylo doručeno. Ustanovení § 37 platí obdobně.
+Kasační stížnost musí být podána do dvou týdnů po doručení rozhodnutí, a bylo-li vydáno opravné usnesení, běží tato lhůta znovu od doručení tohoto usnesení. Osobě, která tvrdí, že o ní soud nesprávně vyslovil, že není osobou zúčastněnou na řízení, a osobě, která práva osoby zúčastněné na řízení uplatnila teprve po vydání napadeného rozhodnutí, běží lhůta k podání kasační stížnosti ode dne doručení rozhodnutí poslednímu z účastníků. Zmeškání lhůty k podání kasační stížnosti nelze prominout.
+Nemá-li kasační stížnost všechny náležitosti již při jejím podání, musí být tyto náležitosti doplněny ve lhůtě jednoho měsíce od doručení usnesení, kterým byl stěžovatel vyzván k doplnění podání. Jen v této lhůtě může stěžovatel rozšířit kasační stížnost na výroky dosud nenapadené a rozšířit její důvody. Tuto lhůtu může soud na včasnou žádost stěžovatele z vážných důvodů prodloužit, nejdéle však o další měsíc.
+Kasační stížnost se podává u Nejvyššího správního soudu; lhůta je zachována, byla-li kasační stížnost podána u soudu, který napadené rozhodnutí vydal.
+Byla-li kasační stížnost podána u soudu, který napadené rozhodnutí vydal, předá ji tento soud bez zbytečného odkladu Nejvyššímu správnímu soudu se soudním, případně též se správním spisem.
+Odkladný účinek
+Kasační stížnost nemá odkladný účinek; Nejvyšší správní soud jej však může na návrh stěžovatele přiznat. Ustanovení § 73 odst. 2 až 5 se užije přiměřeně.
+Řízení před Nejvyšším správním soudem
+Má-li kasační stížnost vady, avšak není zjevně opožděná nebo podaná tím, kdo k jejímu podání zjevně není oprávněn, zajistí Nejvyšší správní soud jejich odstranění. Nejsou-li důvody pro jiný postup, Nejvyšší správní soud doručí kasační stížnost ostatním účastníkům řízení a osobám zúčastněným na řízení, poskytne jim možnost vyjádřit se k jejímu obsahu a vyžádá spisy správního orgánu a krajského soudu, který napadené rozhodnutí vydal, popřípadě opatří další podklady potřebné pro rozhodnutí.
+O kasační stížnosti rozhoduje Nejvyšší správní soud zpravidla bez jednání. Považuje-li to za vhodné nebo provádí-li dokazování, nařídí k projednání kasační stížnosti jednání.
+Nejvyšší správní soud je vázán rozsahem kasační stížnosti; to neplatí, je-li na napadeném výroku závislý výrok, který napaden nebyl, nebo je-li rozhodnutí správního orgánu nicotné.
+Nejvyšší správní soud je vázán důvody kasační stížnosti; to neplatí, bylo-li řízení před soudem zmatečné [§ 103 odst. 1 písm. c)] nebo bylo zatíženo vadou, která mohla mít za následek nezákonné rozhodnutí o věci samé, anebo je-li napadené rozhodnutí nepřezkoumatelné [§ 103 odst. 1 písm. d)], jakož i v případech, kdy je rozhodnutí správního orgánu nicotné.
+Ke skutečnostem, které stěžovatel uplatnil poté, kdy bylo vydáno napadené rozhodnutí, Nejvyšší správní soud nepřihlíží.
+Rozsudek
+Dospěje-li Nejvyšší správní soud k tomu, že kasační stížnost je důvodná, rozsudkem zruší rozhodnutí krajského soudu a věc mu vrátí k dalšímu řízení, pokud ve věci sám nerozhodl způsobem podle odstavce 2; jestliže již v řízení před krajským soudem byly důvody pro zastavení řízení, odmítnutí návrhu nebo postoupení věci, rozhodne o tom současně se zrušením rozhodnutí krajského soudu Nejvyšší správní soud. Není-li kasační stížnost důvodná, Nejvyšší správní soud ji rozsudkem zamítne.
+Zruší-li Nejvyšší správní soud rozhodnutí krajského soudu, a pokud již v řízení před krajským soudem byly pro takový postup důvody, současně se zrušením rozhodnutí krajského soudu může sám podle povahy věci rozhodnout
+o zrušení rozhodnutí správního orgánu nebo vyslovení jeho nicotnosti; ustanovení § 75, 76 a 78 se použijí přiměřeně,
+o zrušení opatření obecné povahy nebo jeho části; ustanovení § 101b a 101d se použijí přiměřeně, anebo
+o ochraně ve věcech místního referenda způsobem uvedeným v § 91a odst. 1 nebo o ochraně ve věcech krajského referenda způsobem uvedeným v § 91b odst. 1.
+Zruší-li Nejvyšší správní soud rozhodnutí krajského soudu a vrátí-li mu věc k dalšímu řízení, rozhodne krajský soud v novém rozhodnutí i o náhradě nákladů řízení o kasační stížnosti. Rozhodl-li Nejvyšší správní soud současně o odmítnutí návrhu, zastavení řízení, o postoupení věci nebo způsobem podle odstavce 2, rozhodne i o nákladech řízení, které předcházelo zrušenému rozhodnutí krajského soudu.
+Zruší-li Nejvyšší správní soud rozhodnutí krajského soudu a vrátí-li mu věc k dalšímu řízení, je krajský soud vázán právním názorem vysloveným Nejvyšším správním soudem ve zrušovacím rozhodnutí.
+Obnova řízení
+Důvody obnovy
+Řízení ukončené pravomocným rozsudkem se na návrh účastníka obnoví, jestliže vyšly najevo důkazy nebo skutečnosti, které bez jeho viny nebyly nebo nemohly být v původním řízení uplatněny, popřípadě bylo jinak rozhodnuto o předběžné otázce, jestliže výsledek obnoveného řízení může být pro něj příznivější.
+Účastníci řízení
+Účastníkem řízení je ten, kdo podal návrh na obnovu řízení, a dále ti, kdo byli účastníky řízení před soudem, proti jehož rozhodnutí návrh na obnovu řízení směřuje.
+Příslušnost
+K řízení je příslušný soud, který vydal rozhodnutí, proti němuž návrh na obnovu řízení směřuje.
+Přípustnost návrhu
+Obnova řízení je přípustná jen proti rozsudku vydanému v řízení
+o ochraně před zásahem správního orgánu,
+ve věcech politických stran a politických hnutí.
+Obnova řízení není přípustná proti rozhodnutí o kasační stížnosti.
+Obnova řízení není dále přípustná, směřuje-li návrh jen proti důvodům rozhodnutí nebo proti výroku o nákladech řízení.
+Lhůta k podání návrhu
+Návrh na obnovu řízení lze podat ve lhůtě tří měsíců ode dne, kdy ten, kdo obnovu řízení navrhuje, se dozvěděl o důvodu obnovy.
+Po třech letech od právní moci napadeného rozhodnutí však může být návrh podán jen tehdy, jestliže byl zrušen trestní rozsudek, jímž byl soud při svém rozhodování vázán.
+Zmeškání lhůty nelze prominout.
+Náležitosti návrhu
+Návrh musí obsahovat označení rozhodnutí, proti němuž směřuje, v jakém rozsahu se napadá, zákonný důvod návrhu, vylíčení skutečností, které svědčí o tom, že návrh je podán ve lhůtě, a návrh na provedení důkazů, jimiž má být důvodnost návrhu prokázána.
+Odkladný účinek návrhu
+Podaný návrh nemá odkladný účinek; soud jej však může na návrh přiznat. Ustanovení § 73 odst. 2 až 5 se užije přiměřeně.
+Právní mocí rozhodnutí o povolení obnovy se vykonatelnost obnovou dotčeného rozhodnutí odkládá do právní moci rozhodnutí v obnoveném řízení.
+Řízení o povolení obnovy
+Soud je vázán uplatněnými důvody návrhu. To neplatí, jestliže na napadeném výroku je závislý výrok, který napaden nebyl.
+Shledá-li soud důvody pro povolení obnovy řízení, usnesením ji povolí; jinak návrh usnesením zamítne.
+Řízení obnovené
+Byla-li obnova řízení pravomocně povolena, pokračuje soud v řízení o původním návrhu. K řádnému zjištění skutkového stavu, který tu byl v době jeho původního rozhodnutí, provede nově navržené důkazy a rozhodne o původním návrhu.
+Novým rozhodnutím se nahrazuje rozhodnutí původní. Ve výroku o nákladech řízení rozhodne soud současně také o nákladech řízení o povolení obnovy řízení.
+Společné ustanovení
+Není-li v ustanoveních dílů 1 a 2 stanoveno jinak, užijí se přiměřeně ustanovení části třetí hlavy I.
+ZVLÁŠTNÍ USTANOVENÍ K POSTAVENÍ SOUDCŮ VE SPRÁVNÍM SOUDNICTVÍ
+Přidělování soudců
+K výkonu funkce ke krajskému soudu, v níž bude jednat a rozhodovat ve věcech správního soudnictví, lze soudce v souladu s jeho předchozím souhlasem přidělit, vykonával-li v oboru ústavního, správního nebo finančního práva po dobu nejméně pěti let právní praxi nebo vědeckou, popřípadě pedagogickou činnost nebo odůvodňují-li to výsledky jeho justiční zkoušky a odborné přípravy.
+K výkonu funkce k Nejvyššímu správnímu soudu lze po předchozím souhlasu předsedy Nejvyššího správního soudu soudce v souladu s jeho předchozím souhlasem přidělit, vykonával-li v oboru ústavního, správního nebo finančního práva po dobu nejméně deseti let právní praxi nebo vědeckou, popřípadě pedagogickou činnost.
+Překládání soudců
+K Nejvyššímu správnímu soudu může být se svým souhlasem nebo na svou žádost přeložen soudce, který má právní praxi po dobu nejméně deseti let a který svými odbornými znalostmi a zkušenostmi dává záruky řádného výkonu této funkce.
+Dojde-li zákonem ke změně v organizaci soudů působících ve správním soudnictví nebo ke změně obvodů soudů a nelze-li řádný výkon soudnictví zajistit jinak, lze soudce přiděleného nebo přeloženého k výkonu funkce ke krajskému soudu i bez jeho souhlasu nebo žádosti přeložit na jiný krajský soud nebo k Nejvyššímu správnímu soudu, jsou-li splněny podmínky podle § 122. Obdobně lze soudce přiděleného nebo přeloženého k výkonu funkce k Nejvyššímu správnímu soudu přeložit na krajský soud.
+K výkonu funkce k Nejvyššímu správnímu soudu lze soudce přeložit jen se souhlasem předsedy tohoto soudu.

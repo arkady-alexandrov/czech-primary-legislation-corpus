@@ -1,0 +1,180 @@
+VŠEOBECNÁ USTANOVENÍ
+Účelem zákona je úprava práv a povinností fyzických osob, které jsou podnikateli, a právnických osob (dále jen „subjekty“) a orgánů státní správy, a to v rozsahu potřebném k zajištění jednotnosti a správnosti měřidel a měření.
+Subjekty a orgány státní správy jsou povinny používat základní měřicí jednotky uvedené v odstavci 2, jejich označování, násobky a díly stanovené vyhláškou, a ostatní jednotky, jejich označování, definice, násobky a díly stanovené vyhláškou. V mezinárodním styku lze použít měřicí jednotky odpovídající mezinárodním obchodním zvyklostem.
+Základními měřicími jednotkami jsou
+jednotka času - sekunda (s),
+jednotka délky - metr (m),
+jednotka hmotnosti - kilogram (kg),
+jednotka elektrického proudu - ampér (A),
+jednotka termodynamické teploty - kelvin (K),
+jednotka látkového množství - mol (mol),
+jednotka svítivosti - kandela (cd).
+Základní měřicí jednotky jsou definovány takto:
+sekunda je definována stanovením pevné číselné hodnoty frekvence ∆νCs, přechodu mezi dvěma hladinami velmi jemné struktury základního stavu atomu cesia 133 nacházejícího se v klidovém stavu, která je rovna 9 192 631 770, je-li vyjádřena v jednotce Hz, která je rovna s-1;
+metr je definován stanovením pevné číselné hodnoty rychlosti světla ve vakuu c, která je rovna 299 792 458, je-li vyjádřena v jednotce m/s, kde sekunda je definována prostřednictvím ∆νCs;
+kilogram je definován stanovením pevné číselné hodnoty Planckovy konstanty h, která je rovna 6,626 070 15 × 10-34, je-li vyjádřena v jednotce J s, která je rovna kg m2 s-1, kde metr a sekunda jsou definovány prostřednictvím c a ∆νCs;
+ampér je definován stanovením pevné číselné hodnoty elementárního náboje e, která je rovna 1,602 176 634 × 10-19, je-li vyjádřena v jednotce C, která je rovna A s, kde sekunda je definována prostřednictvím ∆νCs;
+kelvin je definován stanovením pevné číselné hodnoty Boltzmannovy konstanty k, která je rovna 1,380 649 × 10-23, je-li vyjádřena v jednotce J K-1, která je rovna kg m2 s-2 K-1, kde kilogram, metr a sekunda jsou definovány prostřednictvím h, c a ∆νCs;
+jeden mol obsahuje přesně 6,022 140 76 × 1023 elementárních entit; toto číslo je pevná číselná hodnota Avogadrovy konstanty (NA), je-li vyjádřena v jednotce mol-1, a nazývá se Avogadrovo číslo; látkové množství (n) systému je mírou počtu specifikovaných elementárních entit; elementární entitou může být atom, molekula, iont, elektron, jakákoli jiná částice nebo specifikované seskupení částic;
+kandela je definována stanovením pevné číselné hodnoty světelné účinnosti monochromatického záření o frekvenci 540 × 1012 Hz (Kcd), která je rovna 683, je-li vyjádřena v jednotce lm W-1, která je rovna cd sr W-1 nebo cd sr kg-1 m-2 s3, kde kilogram, metr a sekunda jsou definovány prostřednictvím h, c a ∆νCs.
+Měřidla
+Měřidla slouží k určení hodnoty měřené veličiny. Spolu s nezbytnými pomocnými měřicími zařízeními se pro účely tohoto zákona člení na:
+etalony;
+pracovní měřidla stanovená (dále jen „stanovená měřidla“);
+pracovní měřidla nestanovená (dále jen „pracovní měřidla“);
+certifikované referenční materiály a ostatní referenční materiály, pokud jsou určeny k funkci etalonu nebo stanoveného nebo pracovního měřidla.
+Etalon měřicí jednotky anebo stupnice určité veličiny je měřidlo sloužící k realizaci a uchovávání této jednotky nebo stupnice a k jejímu přenosu na měřidla nižší přesnosti. Uchováváním etalonu se rozumí všechny úkony potřebné k zachování metrologických charakteristik etalonu ve stanovených mezích.
+Stanovená měřidla jsou měřidla, která Ministerstvo průmyslu a obchodu (dále jen „ministerstvo“) stanoví vyhláškou k povinnému ověřování s ohledem na jejich význam
+v závazkových vztazích, například při prodeji, nájmu nebo darování věci, při poskytování služeb nebo při určení výše náhrady škody, popřípadě jiné majetkové újmy,
+pro stanovení sankcí, poplatků, tarifů a daní,
+pro ochranu zdraví,
+pro ochranu životního prostředí,
+pro bezpečnost při práci, nebo
+při ochraně jiných veřejných zájmů chráněných zvláštními právními předpisy.
+Pracovní měřidla jsou měřidla, která nejsou etalonem ani stanoveným měřidlem.
+Certifikované referenční materiály a ostatní referenční materiály jsou materiály nebo látky přesně stanoveného složení nebo vlastností, používané zejména pro ověřování nebo kalibraci přístrojů, vyhodnocování měřicích metod a kvantitativní určování vlastností materiálů.
+V pochybnostech určí případné zařazení měřidla do některé z uvedených kategorií měřidel Úřad pro technickou normalizaci, metrologii a státní zkušebnictví (dále jen „Úřad“), v případě měřidel určených nebo používaných pro měření ionizujícího záření a radioaktivních látek v dohodě se Státním úřadem pro jadernou bezpečnost.
+Úřad může na žádost uživatele stanoveného měřidla vyjmout na stanovené období stanovené měřidlo specifického určení z povinnosti schvalování typu a ověřování.
+Návaznost měřidel
+Návazností měřidel se pro účely tohoto zákona rozumí zařazení daných měřidel do nepřerušené posloupnosti přenosu hodnoty veličiny počínající etalonem nejvyšší metrologické kvality pro daný účel.
+Státní etalony mají pro příslušný obor měření nejvyšší metrologickou kvalitu ve státě. Schvaluje je Úřad, který též stanoví způsob jejich tvorby, uchovávání a používání. Za tvorbu, rozvoj a udržování státních etalonů odpovídá stát, který tuto činnost zajišťuje podle tohoto zákona. Státní etalony uchovává Český metrologický institut nebo oprávněné subjekty pověřené Úřadem k této činnosti. Český metrologický institut koordinuje budování a rozvoj státních etalonů a jejich uchovávání. Státní etalony se navazují především na mezinárodní etalony uchovávané podle mezinárodních smluv nebo na státní etalony jiných států s odpovídající metrologickou úrovní.
+Pro další etalony nejvyšší metrologické kvality ve státě v oborech měření, kde není schválen státní etalon, platí ustanovení odstavce 2 obdobně.
+K ochraně státních etalonů může být zřízeno v okolí jejich uchovávání ochranné pásmo podle zvláštních předpisů.
+Hlavní etalony tvoří základ návaznosti měřidel u subjektů a podléhají povinné kalibraci. Kalibraci hlavních etalonů provádí na žádost uživatele Český metrologický institut nebo akreditované kalibrační laboratoře a zahraniční subjekty, které zaručují srovnatelnou metrologickou úroveň. Lhůtu následující kalibrace hlavního etalonu stanoví uživatel tohoto hlavního etalonu podle metrologických a technických vlastností, způsobu a četnosti používání hlavního etalonu. Je-li Český metrologický institut požádán o kalibraci hlavního etalonu v oborech měření, ve kterých jsou vyhlášena stanovená měřidla, je povinen ji buď provést, anebo může tuto kalibraci zprostředkovat v zahraničí.
+Způsob návaznosti pracovních měřidel stanoví uživatel měřidla. Kalibraci pracovních měřidel si mohou jejich uživatelé zajistit sami pomocí svých hlavních etalonů nebo u jiných tuzemských nebo zahraničních subjektů, které mají hlavní etalony příslušné veličiny navázány v souladu s odstavcem 5.
+SCHVALOVÁNÍ TYPŮ MĚŘIDEL
+Schvalování typů měřidel vyrobených v tuzemsku
+Měřidla podléhající schvalování typu ještě před zahájením výroby stanoví ministerstvo vyhláškou. Na žádost mohou být schváleny i typy jiných nově vyráběných měřidel.
+Schvalování typu měřidla provádí Český metrologický institut. Zjišťuje, zda měřidlo bude schopno plnit funkci, pro kterou je určeno. Tento požadavek se považuje za splněný, pokud má měřidlo požadované metrologické a technické vlastnosti stanovené opatřením obecné povahy. Opatření obecné povahy kromě požadovaných metrologických a technických vlastností stanoveného měřidla stanoví i zkoušky při schvalování typu. Postup schvalování typu měřidla stanoví ministerstvo vyhláškou. Minimální počet vzorků měřidla potřebných pro schvalování typu měřidla, které výrobce poskytne bezplatně, stanoví Český metrologický institut.
+Na základě technických zkoušek a dalších zjištění Český metrologický institut vydá certifikát, že měřidlo jako typ schvaluje, a přidělí mu značku schválení typu, kterou musí výrobce, pokud tak stanoví ministerstvo vyhláškou, umístit na měřidle. Náležitosti certifikátu o schválení typu měřidla a grafickou podobu značky schválení typu stanoví vyhláška. Platnost certifikátu o schválení typu měřidla zaniká uplynutím deseti let od data jeho vydání. Tuto lhůtu může Český metrologický institut na žádost výrobce nebo dovozce prodloužit o dalších deset let; počet měřidel, která lze podle schváleného typu vyrobit, není omezen.
+V případě, kdy hospodárnost schvalování nebo jeho technická proveditelnost by nebyla úměrná významu schválení daného typu měřidla, Český metrologický institut může sdělit výrobci, že tento typ schvalování nepodléhá.
+Platnost certifikátu o schválení typu se pozastavuje, jestliže změnou konstrukce měřidla, použitého materiálu nebo technologie jeho výroby byly ovlivněny vlastnosti rozhodné pro jeho schválení. Výrobce měřidla schváleného typu je povinen předem ohlásit Českému metrologickému institutu tyto změny. Český metrologický institut schvalující typ měřidla potom rozhodne, zda je nutné provést nové schválení typu anebo zda zůstává v platnosti schválení původní. Český metrologický institut může platnost certifikátu o schválení typu měřidla pozastavit nebo i zrušit sám, jestliže vyráběná měřidla neodpovídají schválenému typu.
+Český metrologický institut certifikát o schválení typu zruší, pokud měřidlo odpovídající schválenému typu vykazuje v provozu závadu obecné povahy, která způsobuje, že měřidlo je pro zamýšlené použití nevhodné.
+Měřidla neschváleného typu, pokud měl být tento typ schválen, nelze uvádět do oběhu.
+Český metrologický institut je oprávněn zjišťovat u výrobce, zda jsou měřidla vyráběna podle schválených typů.
+Český metrologický institut může v certifikátu o schválení typu stanovit omezení v rozsahu, který stanoví ministerstvo vyhláškou.
+Schvalování typu nepodléhají měřidla, která jsou již v používání a jsou nově zařazena do kategorie stanovených měřidel.
+Schvalování typů dovezených měřidel
+Nově dovážené typy stanovených měřidel podléhají povinnému schvalování typu. Typy jiných nově dovážených měřidel kromě referenčních materiálů mohou být schvalovány podle tohoto zákona na žádost. Ustanovení § 6 platí pro schvalování dovážených měřidel obdobně, pokud není dále stanoveno jinak.
+Žádost o schválení typu dovezeného měřidla podává Českému metrologickému institutu ten, kdo uskutečňuje dovoz (dále jen „dovozce“), pokud již nebyl typ schválen na žádost zahraničního výrobce před uskutečněním dovozu. Není-li možné nebo hospodárné předkládat vzorky, dovozce je povinen umožnit Českému metrologickému institutu zjištění podmínek rozhodných pro schválení typu měřidla jiným způsobem postačitelným k účelu schvalování typu.
+Pokud měřidlo bylo vyrobeno a uvedeno do oběhu v některém z členských států Evropské unie nebo Evropského hospodářského prostoru nebo ve státě, s nímž je sjednána mezinárodní smlouva o uznávání, kterou je Česká republika vázána, v souladu s příslušnými předpisy tohoto státu, a v České republice podléhá požadavku na schválení typu, uznávají se výsledky metrologických zjištění provedených v tomto státě, pokud zaručují metrologickou úroveň, jakou vyžaduje právní úprava v České republice, a pokud tyto výsledky jsou k dispozici Českému metrologickému institutu.
+Měřidla uvedená v odstavci 3 se považují za měřidla, jejichž typ byl schválen podle tohoto zákona.
+Certifikace referenčních materiálů
+Certifikované referenční materiály jsou materiály, jejichž složení nebo vlastnosti byly certifikovány Českým metrologickým institutem nebo autorizovaným metrologickým střediskem nebo byly opatřeny certifikátem od akreditovaného výrobce certifikovaného referenčního materiálu.
+Certifikací referenčního materiálu se potvrzuje hodnota jedné nebo více vlastností materiálu nebo látky postupem zajišťujícím návaznost na správnou realizaci jednotky, kterou se vyjadřují hodnoty vlastnosti, uvedené v certifikátu. Náležitosti certifikátu stanoví ministerstvo vyhláškou.
+O certifikaci referenčního materiálu se vydává certifikát udávající jednu nebo více hodnot vlastností a jejich nejistot a potvrzující, že byly dodrženy stanovené postupy k potvrzení vlastností a návaznosti.
+Pro ověřování stanovených měřidel nebo kalibraci hlavních etalonů se používají certifikované referenční materiály. Pokud nelze z technických důvodů použít certifikované referenční materiály, je možno použít ostatní referenční materiály.
+Ministerstvo stanoví vyhláškou podrobnější postup přípravy a certifikace referenčního materiálu.
+Výrobci nebo dovozci, kteří certifikované referenční materiály a ostatní referenční materiály uvádějí do oběhu, jsou povinni uvést v dokumentaci jejich metrologické charakteristiky.
+OVĚŘOVÁNÍ A KALIBRACE MĚŘIDEL
+Ověřování a kalibrace
+Ověřením stanoveného měřidla se potvrzuje, že stanovené měřidlo má požadované metrologické vlastnosti. Tento požadavek se považuje za splněný, pokud má měřidlo požadované metrologické vlastnosti stanovené opatřením obecné povahy. Opatření obecné povahy kromě požadovaných metrologických vlastností stanoveného měřidla stanoví i zkoušky při jeho ověřování. Postup při ověřování stanovených měřidel stanoví ministerstvo vyhláškou.
+Ověřené stanovené měřidlo opatří Český metrologický institut nebo autorizované metrologické středisko úřední značkou nebo vydá ověřovací list anebo použije obou těchto způsobů. Grafickou podobu úřední značky a náležitosti ověřovacího listu stanoví ministerstvo vyhláškou.
+Za úřední značku prvotního ověření podle tohoto zákona se považuje také označení shody a zajišťovací značky výrobce, umístěné na stanoveném měřidle, které bylo uvedeno na trh podle zvláštního právního předpisu.
+Poškozování nebo pozměňování platných úředních značek je zakázáno.
+Při kalibraci pracovního měřidla se jeho metrologické vlastnosti porovnávají zpravidla s etalonem; není-li etalon k dispozici, lze použít certifikovaný nebo ostatní referenční materiál za předpokladu dodržení zásad návaznosti měřidel.
+Pokud měřidlo bylo vyrobeno a uvedeno do oběhu v některém z členských států Evropské unie nebo Evropského hospodářského prostoru nebo ve státě, s nímž je sjednána mezinárodní smlouva o uznávání, kterou je Česká republika vázána, v souladu s příslušnými předpisy tohoto státu, a pokud v České republice podléhá požadavku na prvotní ověření, uznávají se výsledky metrologických zjištění provedených v tomto státě, pokud zaručují metrologickou úroveň, jakou vyžaduje právní úprava v České republice, a pokud tyto výsledky jsou k dispozici Českému metrologickému institutu.
+Měřidla uvedená v odstavci 6 se považují za měřidla, u nichž bylo prvotní ověření zajištěno podle tohoto zákona.
+U vybraných druhů stanovených měřidel se prodlužuje platnost ověření na základě kladného výsledku statistické výběrové zkoušky. Ministerstvo stanoví vyhláškou druhy stanovených měřidel, jejichž platnost ověření se na základě kladného výsledku statistické výběrové zkoušky prodlužuje, a dobu, o kterou se u jednotlivých vybraných druhů stanovených měřidel platnost ověření prodlužuje.
+Statistické výběrové zkoušky pro účely prodloužení doby platnosti ověření provádí Český metrologický institut, postupuje přitom podle opatření obecné povahy, které pro jednotlivé vybrané druhy stanovených měřidel stanoví postupy a podmínky zkoušek a kritéria jejich kladného výsledku. Žádost o provedení statistické výběrové zkoušky lze podat nejdříve 2 roky a nejpozději 1 rok před uplynutím doby platnosti předchozího ověření stanoveného měřidla.
+Žadatel o prodloužení platnosti ověření je povinen s prodloužením doby platnosti ověření seznámit osoby dotčené měřením, a to do 3 měsíců ode dne vydání protokolu o prodloužení platnosti ověření.
+Hotově balené zboží a lahve používané jako odměrné obaly pro hotově balené zboží
+Hotově baleným zbožím se pro účely tohoto zákona rozumí kombinace výrobku a obalu, do kterého je výrobek hotově zabalen. Výrobek je hotově zabalen tehdy, pokud je bez přítomnosti kupujícího umístěn do jakéhokoli druhu obalu, přičemž množství výrobku obsažené v obalu, vyjádřené jako objem nebo hmotnost, má předem stanovenou hodnotu, kterou nelze změnit bez otevření nebo zjevného porušení obalu.
+Ministerstvo může vyhláškou stanovit jmenovité objemy nebo hmotnosti hotově baleného zboží, které může být uváděno na trh pouze v těchto jmenovitých objemech nebo hmotnostech.
+Balírny hotově baleného zboží jsou oprávněny uvést na trh zboží s označením „e“, pokud
+mají zaveden systém kontroly správnosti množství, zajišťující splnění požadavků stanovených vyhláškou, včetně průkazné evidence četnosti a výsledků měření, písemně oznámily Českému metrologickému institutu uvedení hotově baleného zboží označeného symbolem „e“ na trh a současně předaly Českému metrologickému institutu dokumentaci obsahující postupy výrobní kontroly množství zboží v balení,
+jsou dodrženy dovolené odchylky obsahu hotově baleného zboží stanovené vyhláškou,
+jsou uvedeny na obalech hotově baleného zboží údaje stanovené vyhláškou.
+Dovozci jsou oprávněni uvést hotově balené zboží označené symbolem „e“ na trh za předpokladu, že Českému metrologickému institutu doložili, že zahraniční balírna splňuje požadavky stanovené v odstavci 3.
+Metrologickou kontrolu hotově baleného zboží označeného symbolem „e“ ke zjištění, zda jsou splněny podmínky stanovené v odstavci 3, provádí Český metrologický institut; v případě splnění podmínek vydává osvědčení, jehož náležitosti stanoví ministerstvo vyhláškou, při opakovaných kontrolách vystavuje protokol potvrzující platnost osvědčení.
+Výrobci a dovozci lahví používaných jako odměrné obaly pro hotově balené zboží (dále jen „lahve“) jsou oprávněni uvést na trh lahve označené symbolem „3“, pokud
+mají osvědčení o metrologické kontrole lahví vydané Českým metrologickým institutem, kromě případů stanovených v § 12 odst. 1; způsob a metody metrologické kontroly lahví a náležitosti osvědčení o metrologické kontrole lahví stanoví ministerstvo vyhláškou,
+jsou dodrženy dovolené odchylky objemu lahví,
+uvádí na lahve identifikační označení stanovené vyhláškou.
+Metrologickou kontrolu lahví označených symbolem „3“ ke zjištění, zda jsou plněny podmínky stanovené v odstavci 6, provádí Český metrologický institut.
+Český metrologický institut je oprávněn odebírat za náhradu od balíren nebo dovozců hotově baleného zboží označeného symbolem „e“ a od výrobců nebo dovozců lahví označených symbolem „3“ vzorky potřebné k provedení metrologické kontroly. Za odebrané vzorky poskytne Český metrologický institut náhradu ve výši prodejní ceny. Náhrada se neposkytne, jestliže se jí balírna, výrobce nebo dovozce vzdá. Nárok na náhradu nevzniká, pokud hotově balené zboží označené symbolem „e“ nebo lahve označené symbolem „3“ nesplňují požadavky stanovené vyhláškou.
+Distributor je povinen jednat tak, aby zabránil distribuci hotově baleného zboží nebo lahví označených symbolem „3“, které nesplňují požadavky stanovené tímto zákonem a prováděcími právními předpisy, týkající se jmenovitých objemů a hmotností, a povinných údajů uvedených na obalech hotově baleného zboží označeného symbolem „e“ a na lahvích označených symbolem „3“.
+Uvádění měřidel do oběhu
+Před uvedením stanovených měřidel do oběhu má jejich výrobce a po provedení opravy těchto měřidel opravce povinnost zajistit jejich ověření. Výrobce certifikovaného referenčního materiálu má před jeho uvedením do oběhu povinnost předložit referenční materiál k certifikaci, pokud není akreditovaným výrobcem.
+Prvotní ověření dovážených stanovených měřidel a certifikaci dovážených referenčních materiálů, určených jako certifikované referenční materiály, zajišťuje jejich uživatel, pokud to již nebylo zajištěno dovozcem nebo zahraničním výrobcem.
+Používání měřidel
+Stanovených měřidel může být používáno pro daný účel jen po dobu platnosti provedeného ověření. Novému ověření však tato měřidla již nepodléhají, pokud prokazatelně přestala být užívána k účelům, pro které byla vyhlášena jako stanovená.
+Český metrologický institut je oprávněn zjišťovat u uživatelů plnění povinností předkládat stanovená měřidla k ověření. Zjistí-li, že je používáno stanovené měřidlo bez platného ověření, měřidlo zaplombuje nebo zruší úřední značku.
+Určená skupina měřidel může být stanovena k povinnému ověřování i jinými právními předpisy.
+Český metrologický institut pro účely ověření stanoveného měřidla, jehož certifikát o schválení typu pozbyl platnosti, může povolit jeho konstrukční změnu, pokud touto konstrukční změnou dochází k nahrazení vadné nebo opotřebované části jinou částí od původní části odlišnou, ale funkčně s ní totožnou, a tato změna nemá vliv na
+funkci stanoveného měřidla,
+technické vlastnosti stanoveného měřidla rozhodné pro schválení typu, a
+metrologické vlastnosti stanoveného měřidla rozhodné pro schválení typu.
+Jednotnost a správnost pracovních měřidel zajišťuje v potřebném rozsahu jejich uživatel kalibrací, není-li pro dané měřidlo vhodnější jiný způsob či metoda.
+Uživatel stanoveného měřidla je povinen na žádost osoby, která může být dotčena jeho nesprávným měřením, požádat o přezkoušení stanoveného měřidla.
+Český metrologický institut a subjekty autorizované podle tohoto zákona k ověřování příslušného druhu stanovených měřidel přezkouší stanovené měřidlo a o přezkoušení vydají osvědčení, jehož přílohou je zkušební protokol. Náležitosti osvědčení o přezkoušení a náležitosti zkušebního protokolu stanoví ministerstvo vyhláškou.
+Stanovené měřidlo se považuje za vyhovující, pokud má při přezkoušení metrologické vlastnosti stanovené opatřením obecné povahy. Opatření obecné povahy kromě požadovaných metrologických vlastností stanoveného měřidla stanoví i zkoušky při přezkoušení, pokud jsou odlišné od zkoušek při ověřování.
+Náklady přezkoušení stanoveného měřidla hradí
+žadatel o přezkoušení v případě, že stanovené měřidlo je shledáno při přezkoušení vyhovujícím,
+uživatel stanoveného měřidla v případě, že stanovené měřidlo je shledáno při přezkoušení nevyhovujícím.
+VZTAHY K ZAHRANIČÍ
+Osvědčení ve formě dokumentu nebo zahraniční značky o ověření, schválení nebo certifikaci měřidla, jeho typu, nebo referenčního materiálu vydané mezinárodní organizací nebo orgánem jiného státu nebo zahraniční doklad o metrologické kontrole hotově baleného zboží, popřípadě lahví se uznává za důkaz o ověření nebo schválení či metrologické kontrole hotově baleného zboží, popřípadě lahví provedené podle tohoto zákona, vyplývá-li to z mezinárodní smlouvy, kterou je Česká republika vázána.
+Ustanovení tohoto zákona se použijí jen pokud mezinárodní smlouva, kterou je Česká republika vázána, nestanoví něco jiného. Ministerstvo stanoví vyhláškou zásady týkající se zajištění jednotnosti a správnosti měřidel a měření, které vyplývají z mezinárodních smluv, kterými je Česká republika vázána.
+ÚKOLY ORGÁNŮ STÁTNÍ SPRÁVY A SUBJEKTŮ
+Úřad pro technickou normalizaci, metrologii a státní zkušebnictví
+V oblasti metrologie Úřad
+stanoví program státní metrologie a zabezpečuje jeho realizaci;
+zastupuje Českou republiku v mezinárodních metrologických orgánech a organizacích, zajišťuje úkoly vyplývající z tohoto členství a koordinuje účast orgánů a organizací na plnění těchto úkolů i úkolů vyplývajících z mezinárodních smluv;
+autorizuje subjekty k výkonům v oblasti ověřování stanovených měřidel, certifikaci referenčních materiálů a úředního měření, pověřuje oprávněné subjekty k uchovávání státních etalonů a kontroluje plnění stanovených povinností u všech těchto subjektů; při zjištění nedostatků v plnění stanovených povinností může autorizaci odebrat;
+provádí kontrolu činností Českého metrologického institutu;
+kontroluje dodržování povinností stanovených tímto zákonem; při výkonu kontroly postupuje podle zvláštního právního předpisu;
+poskytuje metrologické expertizy, vydává osvědčení o odborné způsobilosti metrologických zaměstnanců a stanoví podmínky za účelem zajištění jednotného postupu subjektů pověřených uchováváním státních etalonů, autorizovaných metrologických středisek a subjektů pověřených výkonem úředního měření;
+zveřejňuje ve Věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví zejména subjekty pověřené k uchovávání státních etalonů, autorizovaná metrologická střediska, subjekty autorizované pro úřední měření, státní etalony, seznamy certifikovaných referenčních materiálů a schválené typy měřidel;
+plní úkoly podle zvláštních předpisů.
+Úřad oznamuje orgánům Evropských společenství nebo příslušným orgánům států, se kterými jsou uzavřeny mezinárodní smlouvy, v rozsahu z těchto smluv vyplývajícím, informace o subjektech pověřených ke schvalování typu měřidel a k ověřování měřidel.
+Český metrologický institut
+Český metrologický institut
+provádí metrologický výzkum a uchovávání státních etalonů včetně přenosu hodnot měřicích jednotek na měřidla nižších přesností,
+provádí certifikaci referenčních materiálů,
+schvaluje typy měřidel a ověřuje stanovená měřidla,
+registruje subjekty, které opravují stanovená měřidla, popřípadě provádějí jejich montáž,
+vykonává státní metrologický dozor u autorizovaných metrologických středisek, u subjektů autorizovaných pro výkon úředního měření, u subjektů, které vyrábějí nebo opravují stanovená měřidla, popřípadě provádějí jejich montáž, u uživatelů měřidel,
+provádí výzkum a vývoj v oblasti elektronické komunikace a podílí se na mezinárodní spolupráci v této oblasti,
+provádí metrologickou kontrolu hotově baleného zboží označeného symbolem „e“ a lahví označených symbolem „3“,
+posuzuje shodu a provádí zkoušení výrobků v rozsahu udělených autorizací či akreditace podle právního předpisu upravujícího oblast technických požadavků na výrobky,
+posuzuje technickou způsobilost měřicích zařízení a technických zařízení pro využití v elektronických komunikacích,
+vydává opatření obecné povahy podle § 6 odst. 2, § 9 odst. 1, § 9 odst. 9 a § 11a odst. 3,
+poskytuje odborné služby v oblasti metrologie,
+provádí statistické výběrové zkoušky podle § 9 odst. 9,
+provádí přezkušování stanovených měřidel podle § 11a.
+Český metrologický institut může povolit
+konstrukční změnu stanoveného měřidla za podmínek stanovených v § 11 odst. 4,
+krátkodobé používání stanoveného měřidla v době mezi ukončením jeho opravy nebo jeho montáže a ověřením s omezením této doby.
+Český metrologický institut oznamuje orgánům Evropských společenství nebo příslušným orgánům států, se kterými jsou uzavřeny mezinárodní smlouvy, v rozsahu z těchto smluv vyplývajícím, informace o vydání, změnách, zrušení nebo omezení certifikátů týkajících se schvalování měřidel.
+Autorizovaná metrologická střediska
+Autorizovanými metrologickými středisky jsou subjekty, které Úřad na základě jejich žádosti autorizoval k ověřování stanovených měřidel nebo certifikaci referenčních materiálů po prověření úrovně jejich metrologického a technického vybavení Českým metrologickým institutem a po prověření kvalifikace odpovědných zaměstnanců, která je doložena certifikátem způsobilosti vydaným akreditovanou osobou nebo osvědčením o odborné způsobilosti vydaným Úřadem. Pro účely autorizace může být využito zjištění prokázaných při akreditaci. Náležitosti žádosti o autorizaci a podmínky pro autorizaci stanoví ministerstvo vyhláškou. Na udělení autorizace není právní nárok. Neplní-li autorizovaný subjekt povinnosti stanovené zákonem nebo podmínkami stanovenými v rozhodnutí o autorizaci, nebo pokud o to požádá, Úřad rozhodnutí o autorizaci pozastaví, změní nebo zruší.
+Úřad autorizovanému metrologickému středisku přiděluje, popřípadě odnímá úřední značku pro ověření měřidla. V rozhodnutích a osvědčeních je autorizované metrologické středisko povinno uvést svůj název a připojit k podpisu otisk razítka autorizovaného metrologického střediska.
+Jiné subjekty než ty, které jsou k tomu autorizovány, nejsou oprávněny užívat označení autorizované metrologické středisko, a to ani jako součást svého názvu.
+Oprávnění zaměstnanců Českého metrologického institutu
+Zaměstnanci Českého metrologického institutu jsou při plnění úkolů stanovených tímto zákonem oprávněni vstupovat do provozních prostorů a objektů kontrolovaných subjektů, požadovat potřebné informace, doklady a údaje i zajištění podmínek potřebných pro výkon uvedených funkcí. Při tom jsou povinni zachovávat státní, hospodářské a služební tajemství, dodržovat zvláštní právní předpisy platné pro vstup do jednotlivých objektů. Zaměstnanci Českého metrologického institutu se vykazují zvláštním průkazem, popřípadě pověřením vydaným Úřadem. Kontrolované subjekty jsou povinny jim umožnit plnění těchto úkolů a poskytnout jim k tomu potřebnou součinnost.
+Úkoly subjektů
+Subjekty
+vedou evidenci používaných stanovených měřidel podléhajících novému ověření s datem posledního ověření a předkládají tato měřidla k ověření;
+zajišťují jednotnost a správnost měřidel a měření a jsou povinny vytvořit metrologické předpoklady pro ochranu zdraví zaměstnanců, bezpečnosti práce a životního prostředí přiměřeně ke své činnosti.
+Registrace subjektů
+Subjekty, které hodlají opravovat stanovená měřidla nebo provádět jejich montáž, jsou povinny podat žádost o registraci Českému metrologickému institutu. Pokud má žadatel pro náležitý výkon činnosti vytvořeny potřebné předpoklady, podrobněji stanovené vyhláškou, Český metrologický institut registraci provede a vydá o tom osvědčení. Náležitosti žádosti o registraci a osvědčení o registraci stanoví ministerstvo vyhláškou. Český metrologický institut registraci zruší, jestliže zanikly důvody, pro které byla provedena. Subjekt je povinen ohlásit Českému metrologickému institutu trvalé ukončení registrované činnosti.
+Registrace podle odstavce 1 vzniká též marným uplynutím lhůty a způsobem podle § 28 až 30 zákona o volném pohybu služeb.
+Úřední měření
+Úřad může v případech hodných zvláštního zřetele autorizovat subjekt na jeho žádost k výkonu úředního měření ve stanoveném oboru měření po prověření úrovně jeho technického a metrologického vybavení. Podmínkami výkonu je používání měřidel, u nichž je zajištěna metrologická návaznost, certifikát odborné způsobilosti úředního měřiče vydaný akreditovanou osobou nebo osvědčení o odborné způsobilosti vydané Úřadem a dohled prováděný Českým metrologickým institutem. Úředním měřením se rozumí metrologický výkon, o jehož výsledku vydává autorizovaný subjekt doklad, který má charakter veřejné listiny. Jeho náležitosti stanoví ministerstvo vyhláškou. Neplní-li autorizovaný subjekt povinnosti stanovené zákonem nebo podmínky stanovené v rozhodnutí o autorizaci, Úřad rozhodnutí o autorizaci pozastaví, změní nebo zruší. Náležitosti žádosti o autorizaci a podmínky pro autorizaci stanoví ministerstvo vyhláškou.
+ÚHRADA A PŘESTUPKY
+Úhrady
+Výkony v metrologii se poskytují za úplatu, pokud předpisy o správních poplatcích nestanoví vyměření poplatku.
+Přestupky
+Subjekt se dopustí přestupku tím, že
+uvedl do oběhu měřidlo, jehož typ nebyl schválen, ač měl být, nebo které nemělo vlastnosti schváleného typu anebo nebylo ověřeno, ač mělo být;
+použil stanovené měřidlo bez platného ověření k účelu, pro který byl předmětný druh měřidla vyhlášen jako stanovený;
+neoprávněně použil, pozměnil nebo poškodil úřední značku měřidla;
+ověřil stanovené měřidlo bez oprávnění podle § 14 nebo 16, nebo provedl úřední měření bez oprávnění podle § 21, nebo opravil, popřípadě provedl montáž stanoveného měřidla bez registrace podle § 19 tohoto zákona;
+neposkytl zaměstnancům Českého metrologického institutu zákonem stanovenou součinnost;
+neplní povinnosti stanovené v § 18;
+opatřil certifikovaný referenční materiál neplatným certifikátem;
+uvedl na trh nebo distribuoval hotově balené zboží označené symbolem „e“, nebo lahve označené symbolem „3“ v rozporu s § 9a odst. 3, 4, 6 nebo 9, nebo uvedl na trh nebo distribuoval hotově balené zboží v rozporu s § 9a odst. 2;
+jako žadatel o prodloužení platnosti ověření neseznámil osoby dotčené měřením s prodloužením doby platnosti ověření podle § 9 odst. 10;
+provedl konstrukční změnu stanoveného měřidla bez povolení podle § 11 odst. 4.
+Za přestupek podle odstavce 1 lze uložit pokutu do 1 000 000 Kč.
+Přestupky podle odstavce 1 projednává Úřad.

@@ -1,0 +1,73 @@
+CERTIFIKACE VEŘEJNÝCH DOKLADŮ S BIOMETRICKÝMI ÚDAJI
+Předmět úpravy
+Tento zákon upravuje v návaznosti na přímo použitelný předpis Evropských společenství certifikaci veřejných dokladů s biometrickými údaji za účelem ověření pravosti a neporušenosti těchto údajů a jejich ochrany před neoprávněným přístupem.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+veřejným dokladem s biometrickými údaji (dále jen „veřejný doklad“) veřejná listina obsahující nosič dat s biometrickými údaji, v níž je uvedeno jméno, popřípadě jména, příjmení, datum narození, popřípadě jiný údaj umožňující identifikovat osobu, která veřejný doklad předkládá, jako jeho oprávněného držitele,
+biometrickým údajem údaj o zobrazení obličeje a údaj o otiscích prstů rukou zpracovaný v nosiči dat,
+certifikátem kryptograficky zabezpečená datová zpráva, která spojuje identifikaci osoby s kryptografickými daty používanými pro ověření pravosti a neporušenosti biometrických údajů nebo oprávněnosti přístupu k biometrickým údajům,
+prvotním certifikátem certifikát vydaný na základě prokázání splnění certifikačních podmínek,
+následným certifikátem certifikát vydaný zjednodušeným způsobem na základě platného prvotního certifikátu; následným certifikátem se rozumí i certifikát vydaný na základě předcházejícího platného certifikátu,
+certifikačními podmínkami minimální bezpečnostní požadavky a důvěryhodné postupy pro vydání, poskytnutí nebo používání certifikátu,
+certifikátem pravosti certifikát, jímž se ověřuje pravost a neporušenost biometrických údajů,
+certifikátem přístupu certifikát umožňující přístup k biometrickým údajům o otiscích prstů rukou,
+veřejným identifikačním dokladem s kontaktním čipem (dále jen „doklad s kontaktním čipem“) veřejná listina obsahující elektronický kontaktní čip, v níž je uvedeno jméno, popřípadě jména, příjmení, datum narození, popřípadě jiný údaj umožňující identifikovat osobu, která veřejný doklad předkládá, jako jeho oprávněného držitele,
+certifikátem kontroly pravosti údajů certifikát, jímž se na základě kontrolních údajů pravosti ověřuje pravost a neporušenost údajů zapsaných na kontaktním čipu,
+certifikátem oprávnění kontrolního orgánu certifikát, který umožňuje kontrolnímu orgánu přístup ve stanoveném rozsahu k údajům uloženým na kontaktním čipu,
+kontrolními údaji pravosti zabezpečovací údaje uložené na kontaktním čipu, které umožňují s využitím certifikátu kontroly pravosti údajů ověřit pravost a neporušenost určeného rozsahu údajů uložených na kontaktním čipu.
+Působnost
+Ministerstvo vnitra (dále jen „ministerstvo“)
+vydává a zneplatňuje certifikát pravosti,
+vydává certifikát přístupu,
+žádá příslušný orgán jiného státu o poskytnutí certifikátu pravosti a certifikátu přístupu k veřejnému dokladu vydanému tímto státem,
+ověřuje žádost o vydání certifikátu přístupu podle odstavce 2 písm. a), jde-li o prvotní certifikát,
+vede seznam vydaných a zneplatněných certifikátů pravosti a vydaných certifikátů přístupu,
+vede seznam obdržených certifikátů pravosti a certifikátů přístupu k veřejným dokladům vydaným jinými státy a poskytuje údaje z tohoto seznamu správnímu orgánu uvedenému v § 4 písm. a) a v § 6 odst. 1 písm. a),
+stanoví certifikační podmínky,
+vydává a zneplatňuje certifikát kontroly pravosti údajů pro doklady s kontaktním čipem,
+vydává certifikát oprávnění kontrolního orgánu pro doklady s kontaktním čipem,
+vede seznam vydaných a zneplatněných certifikátů kontroly pravosti údajů pro doklady s kontaktním čipem a seznam vydaných certifikátů oprávnění kontrolního orgánu pro doklady s kontaktním čipem.
+Policie České republiky (dále jen „policie“) v rozsahu potřebném pro výkon své působnosti a za podmínek stanovených tímto zákonem, přímo použitelným předpisem Evropských společenství nebo mezinárodní smlouvou, kterou je Česká republika vázána,
+žádá příslušný orgán jiného státu o vydání certifikátu přístupu k veřejnému dokladu vydanému tímto státem,
+žádá ministerstvo na základě § 4 písm. a) a § 6 odst. 1 písm. a) o poskytnutí nebo vydání certifikátu pravosti a certifikátu přístupu,
+vede seznam obdržených certifikátů pravosti a certifikátů přístupu,
+používá certifikáty pravosti a certifikáty přístupu pro určení totožnosti držitele veřejného dokladu,
+žádá ministerstvo o vydání certifikátu kontroly pravosti údajů,
+vytváří kontrolní údaje pravosti k údajům, které je oprávněna zapisovat na kontaktní čip,
+používá certifikáty kontroly pravosti údajů a kontrolní údaje pravosti pro ověření pravosti a neporušenosti stanoveného rozsahu údajů uložených na kontaktním čipu,
+žádá ministerstvo o vydání certifikátů oprávnění kontrolního orgánu,
+vydává certifikáty oprávnění kontrolního orgánu na základě certifikátů oprávnění kontrolního orgánu vydaných ministerstvem,
+používá certifikáty oprávnění kontrolního orgánu pro přístup ke stanovenému rozsahu údajů uložených na kontaktním čipu.
+Ministerstvo zahraničních věcí zajišťuje předání
+žádosti policie nebo ministerstva o vydání prvotního certifikátu přístupu příslušnému orgánu jiného státu,
+prvotního certifikátu přístupu vydaného příslušným orgánem jiného státu policii nebo ministerstvu,
+žádosti příslušného orgánu jiného státu o vydání prvotního certifikátu přístupu ministerstvu,
+prvotního certifikátu přístupu vydaného ministerstvem příslušnému orgánu jiného státu,
+prvotního certifikátu pravosti ministerstvu nebo příslušnému orgánu jiného státu.
+Certifikát pravosti
+Ministerstvo poskytne certifikát pravosti
+správnímu orgánu, který může za podmínek stanovených jiným právním předpisem ověřit pravost a neporušenost biometrických údajů ve veřejném dokladu,
+příslušnému orgánu jiného státu.
+Certifikát kontroly pravosti údajů
+Ministerstvo poskytne certifikát kontroly pravosti údajů správnímu orgánu, který může za podmínek stanovených jiným právním předpisem ověřovat pravost a neporušenost údajů uložených na kontaktním čipu.
+Ministerstvo vydá prvotní certifikát kontroly pravosti údajů policii, pokud splňuje certifikační podmínky.
+Na základě předložení platného prvotního certifikátu kontroly pravosti údajů nebo předcházejícího platného certifikátu kontroly pravosti údajů ministerstvo vydává policii následné certifikáty kontroly pravosti údajů, pokud i nadále splňuje certifikační podmínky.
+Ministerstvo vydá prvotní certifikát pravosti výrobci veřejného dokladu, pokud splňuje certifikační podmínky podle § 3 odst. 1 písm. g).
+Na základě předložení platného prvotního certifikátu nebo předcházejícího platného certifikátu ministerstvo vydává výrobci veřejného dokladu následné certifikáty, pokud i nadále splňuje certifikační podmínky podle § 3 odst. 1 písm. g).
+Výrobce veřejného dokladu, kterému byl vydán prvotní certifikát pravosti, je povinen ministerstvu na požádání prokázat plnění certifikačních podmínek podle § 3 odst. 1 písm. g).
+Certifikát přístupu
+Ministerstvo vydá prvotní certifikát přístupu
+správnímu orgánu, který může za podmínek stanovených jiným právním předpisem přistupovat k biometrickým údajům,
+orgánu jiného členského státu Evropské unie podle přímo použitelného předpisu Evropských společenství,
+orgánu třetího státu, pokud tak stanoví mezinárodní smlouva, kterou je Česká republika vázána,
+výrobci veřejného dokladu pro ověření jeho funkčnosti.
+Na základě předložení platného prvotního certifikátu nebo předcházejícího platného certifikátu ministerstvo vydává orgánům a osobám uvedeným v odstavci 1 následné certifikáty.
+Certifikát oprávnění kontrolního orgánu
+Ministerstvo vydá prvotní certifikát oprávnění kontrolního orgánu správnímu orgánu, který může za podmínek stanovených jiným právním předpisem přistupovat ke stanovenému rozsahu údajů uložených na kontaktním čipu.
+Na základě předložení platného prvotního certifikátu oprávnění kontrolního orgánu nebo předcházejícího platného certifikátu oprávnění kontrolního orgánu ministerstvo vydává orgánům uvedeným v odstavci 1 následné certifikáty.
+Zneplatnění certifikátu
+Ministerstvo zneplatní certifikáty pravosti vydané výrobci veřejného dokladu, pokud dojde ke změně výrobce veřejného dokladu nebo výrobce veřejného dokladu závažným způsobem poruší certifikační podmínky podle § 3 odst. 1 písm. g). Vyžaduje-li si postup podle věty první zneplatnění certifikátu pravosti již vydaného veřejného dokladu, má jeho držitel právo na vydání nového veřejného dokladu.
+Ministerstvo předává subjektům uvedeným v § 4 seznam zneplatněných certifikátů pravosti.
+Zneplatnění certifikátu kontroly platnosti údajů
+Ministerstvo zneplatní vydané certifikáty kontroly platnosti údajů na základě žádosti policie, nebo z dalších závažných důvodů uvedených v certifikačních pravidlech.
+Ministerstvo předává orgánům uvedeným v § 4a odst. 1 a § 6a odst. 1 seznamy zneplatněných certifikátů kontroly platnosti údajů.

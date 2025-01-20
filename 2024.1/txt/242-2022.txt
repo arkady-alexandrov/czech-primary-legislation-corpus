@@ -1,0 +1,117 @@
+SLUŽBY PLATFOREM PRO SDÍLENÍ VIDEONAHRÁVEK
+Předmět úpravy
+Tento zákon zapracovává příslušné předpisy Evropské unie a upravuje podmínky poskytování služeb platforem pro sdílení videonahrávek.
+Základní pojmy
+Pro účely tohoto zákona se rozumí
+službou platformy pro sdílení videonahrávek služba informační společnosti podle zákona o některých službách informační společnosti, jejímž hlavním účelem nebo hlavním účelem její oddělitelné části, anebo jejíž zásadní funkcí je poskytování pořadů nebo videonahrávek vytvořených uživateli, za které poskytovatel platformy pro sdílení videonahrávek nenese redakční odpovědnost a pouze určuje jejich uspořádání, které může být zajišťováno i automatickými prostředky nebo algoritmy, zejména prostřednictvím zobrazování, označování nebo určování pořadí, široké veřejnosti za účelem informování, zábavy nebo vzdělávání prostřednictvím sítí elektronických komunikací,
+poskytovatelem platformy pro sdílení videonahrávek osoba, která poskytuje službu platformy pro sdílení videonahrávek,
+uživatelem platformy osoba, která vytvořila videonahrávku, již sama nebo jiná osoba nahrála na platformu pro sdílení videonahrávek, a rovněž osoba, která na platformu pro sdílení videonahrávek nahrála videonahrávku vytvořenou jiným uživatelem platformy,
+koncovým příjemcem služby osoba, která platformu pro sdílení videonahrávek využívá k vyhledávání pořadů a videonahrávek za účelem informování, zábavy nebo vzdělávání,
+videonahrávkou vytvořenou uživatelem platformy pohyblivá obrazová sekvence se zvukem nebo bez zvuku, která bez ohledu na svou délku představuje samostatnou položku vytvořenou uživatelem platformy a tímto nebo jiným uživatelem platformy nahranou na platformu pro sdílení videonahrávek,
+skupinou ovládající osoba, všechny jí ovládané obchodní korporace a všechny další obchodní korporace, které jsou s nimi ekonomicky a organizačně-právně propojeny.
+Splnění podmínky zásadní funkce podle odstavce 1 písm. a) se posuzuje podle pokynů vydaných Evropskou komisí, které Rada pro rozhlasové a televizní vysílání (dále jen „Rada“) zveřejní na svých internetových stránkách ve znění publikovaném v Úředním věstníku Evropské unie.
+Poskytovatel služby platformy pro sdílení videonahrávek nese redakční odpovědnost za obsah, který na platformě pro sdílení videonahrávek sám nabízí veřejnosti. Ve vztahu k tomuto obsahu se na poskytovatele služby platformy pro sdílení videonahrávek vztahují ustanovení § 2 odst. 1 písm. d), § 6 odst. 2, § 6a a § 12 odst. 1 písm. d) zákona o poskytování audiovizuálních mediálních služeb na vyžádání.
+Působnost zákona
+Na poskytovatele služby platformy pro sdílení videonahrávek se tento zákon vztahuje, lze-li ho považovat za usazeného v České republice.
+Poskytovatel služby platformy pro sdílení videonahrávek se považuje za usazeného v České republice, pokud v České republice podniká prostřednictvím stálé provozovny; poskytuje-li službu platformy pro sdílení videonahrávek právnická osoba, jsou podmínky usazení splněny i v případě, že je založena na dobu určitou.
+Nelze-li poskytovatele služby platformy pro sdílení videonahrávek považovat za usazeného v České republice podle odstavce 2, tento zákon se na něj vztahuje, pokud je na území České republiky usazena
+jeho mateřská obchodní korporace nebo dceřiná obchodní korporace nebo
+jiná obchodní korporace skupiny, jíž je poskytovatel platformy pro sdílení videonahrávek součástí.
+Jsou-li mateřská obchodní korporace, dceřiná obchodní korporace nebo jiné obchodní korporace skupiny, jíž je poskytovatel služby platformy pro sdílení videonahrávek součástí, usazeny v České republice a současně i v jednom nebo více jiných členských státech Evropské unie nebo jiných smluvních státech Dohody o Evropském hospodářském prostoru, považuje se poskytovatel služby platformy pro sdílení videonahrávek za usazeného v České republice, je-li v ní usazena jeho mateřská obchodní korporace. Není-li mateřská obchodní korporace usazena v České republice ani jiném členském státě Evropské unie nebo jiném smluvním státě Dohody o Evropském hospodářském prostoru, považuje se poskytovatel služby platformy pro sdílení videonahrávek za usazeného v České republice, je-li v ní usazena její dceřiná obchodní korporace. Není-li dceřiná obchodní korporace usazena v České republice ani jiném členském státě Evropské unie nebo jiném smluvním státě Dohody o Evropském hospodářském prostoru, považuje se poskytovatel služby platformy pro sdílení videonahrávek za usazeného v České republice, je-li v ní usazena jiná obchodní korporace skupiny, jíž je poskytovatel služby platformy pro sdílení nahrávek součástí.
+Existuje-li více dceřiných obchodních korporací skupiny, jíž je poskytovatel služby platformy pro sdílení videonahrávek součástí, a každá z nich je usazena v jiném členském státě Evropské unie nebo jiném smluvním státě Dohody o Evropském hospodářském prostoru, považuje se poskytovatel služby platformy pro sdílení videonahrávek za usazeného v České republice, zahájila-li v ní některá z těchto dceřiných obchodních korporací poprvé svou činnost a současně podniká prostřednictvím stálé provozovny v České republice. Existuje-li více jiných obchodních korporací náležejících do skupiny, jíž je poskytovatel služby platformy pro sdílení videonahrávek součástí, a každá z nich je usazena v jiném členském státě Evropské unie nebo jiném smluvním státě Dohody o Evropském hospodářském prostoru, považuje se poskytovatel služby platformy pro sdílení videonahrávek za usazeného v České republice, zahájila-li v ní některá z těchto obchodních korporací poprvé svou činnost a současně podniká prostřednictvím stálé provozovny v České republice.
+Tento zákon se nevztahuje na služby platforem pro sdílení videonahrávek, které jsou určeny výlučně pro poskytování audiovizuálního obsahu ve třetích státech a které nejsou přímo nebo nepřímo využívány širokou veřejností v jednom nebo více členských státech Evropské unie nebo jiných smluvních státech Dohody o Evropském hospodářském prostoru.
+Orgán dozoru
+Orgánem příslušným k výkonu dozoru nad dodržováním tohoto zákona (dále jen „orgán dozoru“) je Rada ve věcech, které náleží do její působnosti podle § 5.
+Působnost Rady
+Rada
+vede seznam poskytovatelů služby platformy pro sdílení videonahrávek (dále jen „seznam poskytovatelů služby platformy“),
+vykonává dozor nad plněním povinností poskytovatelů služby platformy pro sdílení videonahrávek při přípravě a uplatňování opatření k ochraně podle § 7 a 8,
+ukládá poskytovatelům služby platformy pro sdílení videonahrávek opatření k nápravě podle tohoto zákona,
+projednává přestupky a ukládá správní tresty podle tohoto zákona.
+Seznam poskytovatelů služby platformy
+Rada vede a aktualizuje seznam poskytovatelů služby platformy usazených nebo považovaných za usazené na území České republiky, v němž u každého poskytovatele uvede, které z kritérií podle § 3 odst. 2 až 5 vůči němu zakládá pravomoc České republiky. Seznam poskytovatelů služby platformy a jeho aktualizace Rada předává Evropské komisi za účelem zpřístupnění v centralizované databázi v termínech a způsoby, které určí Evropská komise.
+Osoba, která hodlá poskytovat službu platformy pro sdílení videonahrávek, učiní Radě alespoň 15 dnů přede dnem zahájení poskytování této služby oznámení, které obsahuje
+název služby platformy pro sdílení videonahrávek,
+údaje o poskytovateli služby platformy pro sdílení videonahrávek
+v případě fyzické osoby jméno a příjmení, popřípadě obchodní firmu, a adresu bydliště,
+v případě zahraniční fyzické osoby jméno, příjmení, popřípadě obchodní firmu, není-li shodná s názvem podle písmene a), státní občanství, adresu bydliště mimo území České republiky, adresu místa pobytu v České republice,
+v případě právnické osoby obchodní firmu nebo název, nejsou-li shodné s názvem podle písmene a), adresu sídla, u fyzické osoby nebo fyzických osob, které jsou členy jejího statutárního orgánu, jméno, příjmení, adresu bydliště nebo adresu místa pobytu na území České republiky, pokud byl povolen, a u právnické osoby, která je členem statutárního orgánu, obchodní firmu nebo název a adresu sídla,
+adresu sídla poskytovatele služby platformy pro sdílení videonahrávek, není-li shodná s adresou bydliště podle písmene b) bodu 1 nebo 2,
+její kontaktní údaje, zejména adresu pro doručování elektronické pošty,
+údaj o zápisu v obchodním rejstříku nebo jiné obdobné evidenci,
+údaj, které z kritérií podle § 3 odst. 2 až 5 vůči oznamovateli zakládá pravomoc České republiky, a doklady, které to prokazují,
+opatření k ochraně podle § 8 a
+den zahájení poskytování služby platformy pro sdílení videonahrávek.
+Má-li oznámení údajů podle odstavce 2 nedostatky, vyzve Rada osobu, která je učinila, k odstranění nedostatků do 30 dnů ode dne doručení výzvy. Nebude-li tato lhůta dodržena, hledí se na oznámení, jako by nebylo učiněno, a Rada o této skutečnosti vyrozumí osobu, která je učinila.
+Rada zapíše údaje podle odstavce 2 do seznamu poskytovatelů služby platformy do 30 dnů ode dne jejich oznámení a současně zašle osobě, která toto oznámení učinila, potvrzení o zápisu do seznamu poskytovatelů služby platformy, v němž uvede den, kdy byl zápis proveden.
+Pokud poskytování služby platformy pro sdílení videonahrávek nebylo zahájeno do 1 roku ode dne zápisu do seznamu poskytovatelů služby platformy nebo bylo přerušeno na dobu delší než 1 rok, má se za to, že bylo ukončeno posledním dnem uvedené lhůty. Rada zapíše tuto skutečnost do seznamu poskytovatelů služby platformy a vyrozumí o tom poskytovatele služby platformy pro sdílení videonahrávek do 30 dnů ode dne, kdy se o ní dozví.
+Hodlá-li osoba, které bylo poskytování služby platformy pro sdílení videonahrávek ukončeno podle odstavce 5, poskytování této služby obnovit, oznámí tuto skutečnost Radě ke dni zahájení obnoveného poskytování služby platformy pro sdílení videonahrávek. V oznámení sdělí případnou změnu údajů podle odstavce 2 písm. a) až g) a uvede den zahájení obnoveného poskytování služby.
+Poskytovatel služby platformy pro sdílení videonahrávek Radě písemně oznámí změnu údajů podle odstavce 2 a přerušení nebo ukončení poskytování služby platformy pro sdílení videonahrávek do 10 dnů ode dne, kdy došlo ke změně údajů nebo k přerušení nebo ukončení poskytování služby platformy pro sdílení videonahrávek. Rada zapíše změnu údajů podle odstavce 2 a přerušení nebo ukončení poskytování služby do seznamu poskytovatelů služby platformy a současně o tom vyrozumí osobu, která oznámení učinila.
+Každý má právo nahlížet do seznamu poskytovatelů služby platformy a pořizovat si z něho výpisy nebo opisy.
+Rada uveřejňuje údaje podle odstavce 2 písm. a) až d) na svých internetových stránkách.
+Opatření k ochraně
+Poskytovatel služby platformy pro sdílení videonahrávek přijme, aniž jsou dotčena ustanovení § 3 až 6 zákona o některých službách informační společnosti, opatření s cílem chránit
+nezletilé osoby před pořady, videonahrávkami vytvořenými uživateli platformy a obchodními sděleními, které mohou narušit jejich fyzický, psychický nebo mravní vývoj; tyto videonahrávky, pořady a audiovizuální obchodní sdělení nesmí být dostupné tak, aby nezletilé osoby měly možnost je za běžných okolností vidět nebo slyšet; opatření k ochraně nezletilých osob zahrnují zejména nástroje pro ověřování věku nebo jiná technická opatření,
+širokou veřejnost před pořady, videonahrávkami vytvořenými uživateli platformy a obchodními sděleními obsahujícími podněcování k násilí či nenávisti namířené proti skupině osob nebo členovi skupiny z důvodu pohlaví, rasy, barvy pleti, etnického nebo sociálního původu, genetických rysů, státního občanství, jazyka, náboženského vyznání nebo přesvědčení, politických nebo jiných názorů, příslušnosti k národnostní menšině, majetku, narození, rodu, zdravotního postižení, věku nebo sexuální orientace a
+širokou veřejnost před pořady, videonahrávkami vytvořenými uživateli platformy a obchodními sděleními s obsahem, jehož šíření je trestným činem, zejména veřejné podněcování ke spáchání teroristického trestného činu, trestné činy týkající se dětské pornografie a trestné činy související s rasismem a xenofobií.
+Obchodní sdělení, které poskytovatel služby platformy pro sdílení videonahrávek sám uvádí na trh, prodává nebo sjednává,
+musí být snadno rozpoznatelné a nesmí být skrytým obchodním sdělením,
+nesmí používat podprahové techniky,
+nesmí narušovat lidskou důstojnost,
+nesmí obsahovat nebo podporovat diskriminaci na základě pohlaví, rasy nebo etnického původu, státní příslušnosti, náboženského vyznání nebo přesvědčení, zdravotního postižení, věku nebo sexuální orientace a
+nesmí podporovat chování ohrožující zdraví nebo bezpečnost, anebo podporovat chování hrubě ohrožující ochranu životního prostředí.
+Poskytovatel služby platformy pro sdílení videonahrávek na platformu neumístí žádnou formu obchodního sdělení, které sám uvádí na trh, prodává nebo sjednává, týká-li se cigaret a dalších tabákových výrobků nebo elektronických cigaret a náhradních náplní do nich.
+Obchodní sdělení, které poskytovatel služby platformy pro sdílení videonahrávek sám uvádí na trh, prodává nebo sjednává, týkající se alkoholických nápojů, nesmí být speciálně zaměřeno na nezletilé osoby a nesmí podporovat nestřídmé požívání těchto nápojů.
+Poskytovatel služby platformy pro sdílení videonahrávek neumístí na platformu žádnou formu obchodního sdělení, které sám uvádí na trh, prodává nebo sjednává, týká-li se obchodní sdělení léčivých přípravků a léčebných postupů, které jsou v České republice dostupné pouze na lékařský předpis.
+Obchodní sdělení, které poskytovatel služby platformy pro sdílení videonahrávek sám uvádí na trh, prodává nebo sjednává, nesmí fyzicky, psychicky nebo mravně ohrožovat nezletilé osoby tím, že
+přímo nabádá nezletilé osoby ke koupi nebo nájmu produktu nebo služby a využívá k tomu jejich nezkušenosti nebo důvěřivosti,
+přímo nabádá nezletilé osoby, aby přesvědčovaly své rodiče nebo třetí osoby ke koupi propagovaného zboží nebo služby,
+využívá zvláštní důvěru, kterou mají nezletilé osoby k rodičům, svým učitelům nebo jiným osobám, nebo
+bezdůvodně zobrazuje nezletilé osoby v nebezpečných situacích.
+Poskytovatel služby platformy pro sdílení videonahrávek přijme opatření k uplatnění ochrany podle odstavců 2 až 6 rovněž pro obchodní sdělení, které sám neuvádí na trh, neprodává ani nesjednává, přiměřená omezené kontrole, kterou nad uvedeným obchodním sdělením může platforma pro sdílení videonahrávek vykonávat.
+Oznámí-li uživatel platformy, který na platformu pro sdílení videonahrávek nahraje svou nebo jiným uživatelem platformy vytvořenou videonahrávku, že tato videonahrávka obsahuje obchodní sdělení, poskytovatel služby platformy pro sdílení videonahrávek o tom neprodleně informuje ostatní uživatele platformy. Dozví-li se poskytovatel služby platformy pro sdílení videonahrávek jiným způsobem, že konkrétní pořady nebo videonahrávky vytvořené uživateli platformy obsahují obchodní sdělení, postupuje obdobně podle věty první.
+Náležitosti opatření k ochraně
+Poskytovatel služby platformy pro sdílení videonahrávek přijme opatření k ochraně podle § 7 s ohledem na povahu příslušného obsahu a újmu, kterou může způsobit, na charakteristiky kategorií osob, které mají být chráněny, a rovněž s ohledem na práva a legitimní zájmy, o něž se jedná, včetně svých zájmů, zájmů uživatelů platformy, kteří daný obsah vytvářejí nebo nahrávají, a veřejného zájmu.
+Opatření k ochraně podle odstavce 1 musejí být proveditelná a přiměřená rozsahu a povaze poskytované služby platformy pro sdílení videonahrávek a nesmějí vést k filtrování nahrávaného obsahu nebo k předběžným kontrolním opatřením. Nejzávadnější obsah, který může narušit fyzický, psychický nebo mravní vývoj nezletilých osob, jako jsou pornografie nebo hrubé samoúčelné násilí, musí podléhat nejpřísnějším opatřením ke kontrole přístupu uživatelů platformy.
+Opatření k ochraně podle odstavce 1 tam, kde je to vhodné, zahrnují
+začlenění požadavků stanovených v § 7 odst. 1 do podmínek poskytování služeb platformy pro sdílení videonahrávek a jejich uplatňování,
+začlenění požadavků stanovených v § 7 odst. 7 do podmínek poskytování služby platformy pro sdílení videonahrávek a jejich uplatňování,
+funkci pro uživatele, kteří na platformu nahrávají videonahrávky vytvořené uživateli platformy, určenou k oznámení, zda tyto videonahrávky obsahují audiovizuální obchodní sdělení, pokud o tom tito uživatelé platformy vědí nebo od nich lze rozumně očekávat, že o tom vědí,
+zavedení a provozování transparentních a uživatelsky vstřícných mechanismů umožňujících uživatelům platformy oznámit nebo označit poskytovateli platformy pro sdílení videonahrávek obsah podle § 7 odst. 1, který je poskytován na jeho platformě,
+zavedení a provozování systémů, jejichž prostřednictvím poskytovatel služby platformy pro sdílení videonahrávek informuje uživatele platformy o vyřízení jejich oznámení nebo označení obsahu podle písmene d) bez zbytečného odkladu, nejpozději však do 60 dnů ode dne oznámení nebo označení obsahu,
+zavedení a provozování systémů ověřování věku pro uživatele platformy u obsahu, který může narušit fyzický, psychický nebo mravní vývoj nezletilých osob,
+zavedení a provozování snadno použitelných systémů umožňujících koncovým příjemcům služby hodnotit obsah podle § 7 odst. 1,
+zajištění systémů rodičovské kontroly, jež jsou pod kontrolou koncových příjemců služby, v souvislosti s obsahem, který může narušit fyzický, psychický nebo mravní vývoj nezletilých osob,
+zavedení a provozování transparentních, snadno použitelných a účinných postupů vyřizování a řešení stížností uživatelů platformy uplatněných vůči poskytovateli služby platformy pro sdílení videonahrávek v souvislosti s prováděním opatření k ochraně podle písmen d) až h), včetně informace pro uživatele platformy o možnosti řešit spornou věc mimosoudně jako spotřebitelský spor před Českou obchodní inspekcí podle zákona o ochraně spotřebitele, a
+zajištění účinných opatření a nástrojů v oblasti mediální gramotnosti a zvyšování povědomí uživatelů platformy o těchto opatřeních a nástrojích.
+Změny opatření k ochraně přijatých podle odstavců 1 až 3 se Radě předkládají alespoň 15 dnů přede dnem, kdy mají být realizovány. Rada posoudí vhodnost opatření k ochraně, popřípadě jejich změn, a v případě potřeby sdělí poskytovateli služby platformy pro sdílení videonahrávek svá doporučení. Zjistí-li Rada, že opatření k ochraně mají vážné nedostatky, postupuje podle § 10.
+Práva uživatele platformy a poskytovatele služby platformy pro sdílení videonahrávek řešit vzájemné spory o rozsah opatření k ochraně přijatých poskytovatelem služby platformy pro sdílení videonahrávek podáním žaloby podle jiného právního předpisu zůstávají ustanovením odstavce 3 písm. i) nedotčena.
+Ochrana osobních údajů
+Osobní údaje nezletilých shromážděné nebo jinak získané poskytovatelem platformy pro sdílení videonahrávek podle § 8 odst. 3 písm. f) a h) nesmí být zpracovávány pro obchodní účely, zejména pro přímý marketing, profilování a reklamu cílenou na základě chování.
+Opatření k nápravě
+Zjistí-li Rada, že poskytovatel služby platformy pro sdílení videonahrávek opatření k ochraně podle § 8 odst. 1 až 3 nepřijal, nebo že jím přijatá opatření k ochraně nesplňují požadavky podle § 7 a § 8 odst. 1 až 3, vyzve jej k nápravě a stanoví mu k tomu lhůtu přiměřenou povaze zjištěných nedostatků. Přijatá nápravná opatření oznámí poskytovatel služby platformy pro sdílení videonahrávek ve stanovené lhůtě Radě.
+Obdrží-li Rada ve stanovené lhůtě od poskytovatele služby platformy pro sdílení videonahrávek oznámení o přijetí dostatečných nápravných opatření, řízení o přestupku nezahájí.
+Přestupky
+Osoba se dopustí přestupku tím, že
+poskytuje službu platformy pro sdílení videonahrávek, aniž do dne zahájení poskytování této služby učiní oznámení podle § 6 odst. 2,
+obnoví poskytování služby platformy pro sdílení videonahrávek, které bylo ukončeno podle § 6 odst. 5, bez oznámení Radě podle § 6 odst. 6,
+nesplní oznamovací povinnost podle § 6 odst. 7,
+v rozporu s § 8 odst. 4 nepředloží Radě ve stanovené lhůtě změny opatření k ochraně,
+v rozporu s § 9 zpracovává osobní údaje nezletilých osob shromážděné nebo jinak získané při poskytování služby platformy pro sdílení videonahrávek pro obchodní účely, nebo
+v rozporu s § 14 poskytuje službu platformy pro sdílení videonahrávek, aniž by Radě doručila ve lhůtě do 90 dnů ode dne nabytí účinnosti tohoto zákona oznámení podle § 6 odst. 2 s připojenými opatřeními k ochraně podle § 8 odst. 4.
+Poskytovatel služby platformy pro sdílení videonahrávek se dopustí přestupku tím, že
+umístí na platformu, jejímž je poskytovatelem, audiovizuální obchodní sdělení, které nesplňuje některý z požadavků stanovených v § 7 odst. 2 až 6,
+v rozporu s § 7 odst. 7 nepřijme vhodná opatření k uplatnění ochrany pro audiovizuální obchodní sdělení, která sám neuvádí na trh, neprodává ani nesjednává, nebo
+v rozporu s § 7 odst. 8 neprodleně jasně neinformuje ostatní uživatele o skutečnosti, že videonahrávka nahraná na platformu jiným uživatelem obsahuje audiovizuální obchodní sdělení, jestliže se o této skutečnosti dozví od uživatele, který takovou videonahrávku na platformu nahrál, nebo se o této skutečnosti dozví jiným způsobem.
+Poskytovatel služby platformy pro sdílení videonahrávek se dopustí přestupku tím, že nezavede vhodná opatření k ochraně podle § 8 odst. 1 až 3.
+Za přestupek lze uložit pokutu do
+100 000 Kč, jde-li o přestupek podle odstavce 1 nebo podle odstavce 2 písm. b) nebo c),
+200 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), nebo
+500 000 Kč, jde-li o přestupek podle odstavce 3.
+Přestupky podle tohoto zákona projednává
+Rada, jde-li o přestupky podle § 11 odst. 1 písm. a) až d) a f) a podle § 11 odst. 2 a 3, a
+Úřad pro ochranu osobních údajů, jde-li o přestupek podle § 11 odst. 1 písm. e).
+Pokuty uložené za přestupky podle § 11 odst. 1 písm. a) až d) a f) a podle § 11 odst. 2 a 3 vybírá Rada.
+Pokuty uložené za přestupek podle § 11 odst. 1 písm. e) vybírá Úřad pro ochranu osobních údajů.
+Společné ustanovení
+Nestanoví-li tento zákon jinak, zůstávají nedotčena práva a povinnosti poskytovatele služby platformy pro sdílení videonahrávek podle zákona o některých službách informační společnosti. V případě rozporu mezi tímto zákonem a zákonem o některých službách informační společnosti má přednost tento zákon.

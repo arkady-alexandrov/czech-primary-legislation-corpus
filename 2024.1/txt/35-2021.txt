@@ -1,0 +1,57 @@
+Úvodní ustanovení
+Zřizuje se Sbírka právních předpisů územních samosprávných celků a některých správních úřadů (dále jen „Sbírka právních předpisů“) jako informační systém veřejné správy. Ve Sbírce právních předpisů se
+vyhlašují obecně závazné vyhlášky a nařízení vydané územními samosprávnými celky (dále jen „právní předpis územního samosprávného celku“) a právní předpisy vydané správními úřady, stanoví-li tak jiný právní předpis (dále jen „právní předpis správního úřadu“), a
+zveřejňují akty stanovené tímto zákonem, které vznikají při výkonu působnosti územních samosprávných celků nebo v souvislosti s tímto výkonem (dále jen „akt“).
+Správcem Sbírky právních předpisů (dále jen „správce“) je Ministerstvo vnitra.
+Sbírka právních předpisů je bezplatně a neomezeně veřejně přístupná způsobem umožňujícím dálkový přístup.
+Název „Sbírka právních předpisů územních samosprávných celků a některých správních úřadů“ je dovoleno užívat pouze pro Sbírku právních předpisů podle tohoto zákona.
+Vyhlášení právního předpisu
+Právní předpis územního samosprávného celku a právní předpis správního úřadu se vyhlašují jejich zveřejněním ve Sbírce právních předpisů.
+Zveřejnění právního předpisu ve Sbírce právních předpisů provede územní samosprávný celek nebo správní úřad, který právní předpis vydal, zasláním jeho textu v otevřeném a strojově čitelném formátu a jeho metadat prostřednictvím elektronického formuláře do datové schránky zřízené správcem pro tento účel. Správce uveřejní elektronický formulář na portálu veřejné správy. Není-li možné zveřejnit právní předpis nebo jeho část ve strojově čitelném formátu, zveřejní se právní předpis nebo jeho část pouze v otevřeném formátu.
+Metadata zahrnují
+identifikaci územního samosprávného celku nebo správního úřadu, který právní předpis vydal, uvedením jeho názvu a identifikačního čísla osoby, bylo-li mu přiděleno,
+druh právního předpisu,
+číslo právního předpisu stanovené podle § 6,
+název právního předpisu,
+datum vydání právního předpisu,
+zákonné zmocnění, na základě kterého byl právní předpis vydán,
+oblast úpravy,
+účinnost, popřípadě předpokládanou účinnost právního předpisu,
+označení právního předpisu, který je rušen nebo měněn, jde-li o změnu či zrušení právního předpisu, a
+datum vyhlášení právního předpisu, byl-li právní předpis vyhlášen postupem podle odstavce 4.
+Nastane-li překážka bránící zveřejnění právního předpisu ve Sbírce právních předpisů, správce uveřejní oznámení o existenci této překážky na své úřední desce; je-li potřeba během trvání této překážky neprodleně vyhlásit právní předpis územního samosprávného celku nebo právní předpis správního úřadu, vyhlásí se právní předpis zveřejněním na úřední desce územního samosprávného celku nebo správního úřadu, který právní předpis vydal.
+Pomine-li překážka bránící zveřejnění právního předpisu ve Sbírce právních předpisů, správce uveřejní oznámení o této skutečnosti na své úřední desce. Územní samosprávný celek nebo správní úřad, který vyhlásil právní předpis postupem podle odstavce 4, zveřejní neprodleně poté, co bylo uveřejněno oznámení podle věty první, tento právní předpis ve Sbírce právních předpisů postupem podle odstavce 2; toto zveřejnění nemá vliv na platnost a účinnost právního předpisu vyhlášeného postupem podle odstavce 4.
+Informování o vyhlášení právního předpisu
+Správce o vyhlášení právního předpisu ve Sbírce právních předpisů vyrozumí územní samosprávný celek nebo správní úřad, který právní předpis vydal. Správce vyznačí ve Sbírce právních předpisů datum a čas vyhlášení právního předpisu.
+Územní samosprávný celek nebo správní úřad, který právní předpis vydal, zveřejní oznámení o vyhlášení právního předpisu ve Sbírce právních předpisů na své úřední desce po dobu alespoň 15 dnů ode dne, kdy byl o vyhlášení správcem vyrozuměn podle odstavce 1. V oznámení územní samosprávný celek nebo správní úřad uvede označení právního předpisu, datum a čas vyhlášení právního předpisu ve Sbírce právních předpisů a zveřejněná metadata.
+Oznámení o vyhlášení nařízení obce s rozšířenou působností zveřejní též obce ve správním obvodu obce s rozšířenou působností na úředních deskách obecních úřadů po dobu alespoň 15 dnů; bylo-li nařízení vyhlášeno postupem podle § 2 odst. 4, zveřejní úplný text tohoto nařízení.
+Platnost a účinnost právního předpisu
+Právní předpis územního samosprávného celku a právní předpis správního úřadu nabývají platnosti jejich vyhlášením podle § 2.
+Pokud není stanovena účinnost pozdější, nabývá právní předpis územního samosprávného celku a právní předpis správního úřadu účinnosti počátkem patnáctého dne následujícího po dni jeho vyhlášení. Vyžaduje-li to naléhavý obecný zájem, lze výjimečně stanovit dřívější počátek jejich účinnosti, nejdříve však počátkem dne následujícího po dni jejich vyhlášení; je-li pro to důvod spočívající v ohrožení života, zdraví, majetku nebo životního prostředí, lze stanovit, že právní předpis nabude účinnosti vyhlášením.
+Je-li v právním předpisu územního samosprávného celku nebo v právním předpisu správního úřadu stanoven den nabytí účinnosti, který předchází dni jeho vyhlášení, nabývá právní předpis účinnosti počátkem patnáctého dne následujícího po dni jeho vyhlášení.
+Opravy nesprávností
+Za úplnost a správnost obsahu právního předpisu vyhlášeného ve Sbírce právních předpisů a jeho metadat odpovídá územní samosprávný celek nebo správní úřad, který právní předpis vydal. Provede-li správce opravu metadat podle odstavce 2, odpovídá za jejich správnost.
+Zjistí-li územní samosprávný celek nebo správní úřad, který právní předpis vydal, rozdíl mezi textem právního předpisu vyhlášeným ve Sbírce právních předpisů a textem tohoto předpisu, který byl schválen příslušným orgánem územního samosprávného celku nebo správním úřadem, nebo nesprávnost v metadatech, provede jejich opravu; postupuje přitom obdobně podle § 2 odst. 2 a 3. V případě zjevné nesprávnosti může metadata vyhlášených právních předpisů opravit správce. Původní text opraveného právního předpisu nebo metadat zůstává ve Sbírce právních předpisů uchován. O opravě provedené správcem vyrozumí správce územní samosprávný celek nebo správní úřad, který právní předpis vydal.
+Zjistí-li územní samosprávný celek nebo správní úřad, který právní předpis vydal, že postupem podle § 2 došlo ke zveřejnění právního předpisu v jiném než otevřeném, popřípadě strojově čitelném formátu, provede opravu zveřejněním právního předpisu v otevřeném a strojově čitelném formátu; postupuje přitom obdobně podle § 2 odst. 2 a 3. Zjistí-li tuto skutečnost správce, vyzve územní samosprávný celek nebo správní úřad k provedení opravy podle věty první.
+Zjistí-li územní samosprávný celek nebo správní úřad, který právní předpis vydal, že postupem podle § 2 došlo ke zveřejnění dokumentu, který není právním předpisem, požádá správce o výmaz tohoto dokumentu ze Sbírky právních předpisů. Zjistí-li tuto skutečnost správce, upozorní na ni územní samosprávný celek nebo správní úřad.
+Provedení opravy podle odstavců 2 a 3 nemá vliv na vyhlášení právního předpisu ve Sbírce právních předpisů.
+Pro opravu nesprávností právního předpisu, který byl vyhlášen postupem podle § 2 odst. 4, se použijí obdobně odstavce 1 až 5.
+Číslování právních předpisů
+Právní předpisy územního samosprávného celku a právní předpisy správního úřadu se označují arabskými čísly v souvislé řadě. Pro právní předpisy každého územního samosprávného celku a správního úřadu se vede samostatná číselná řada. Číselná řada se uzavírá vždy koncem každého kalendářního roku.
+Nahlížení do Sbírky právních předpisů
+Územní samosprávný celek umožní v úředních hodinách bezplatně nahlížet do Sbírky právních předpisů v elektronické podobě.
+Zveřejňování aktů ve Sbírce právních předpisů
+Ve Sbírce právních předpisů se zveřejní
+rozhodnutí Ústavního soudu o návrhu na zrušení právního předpisu územního samosprávného celku nebo právního předpisu správního úřadu nebo jejich jednotlivých ustanovení,
+rozhodnutí Ministerstva vnitra, krajského úřadu nebo věcně příslušného ministerstva nebo jiného ústředního správního úřadu o pozastavení účinnosti právního předpisu územního samosprávného celku,
+rozhodnutí o podaném rozkladu proti rozhodnutí Ministerstva vnitra o pozastavení účinnosti právního předpisu územního samosprávného celku,
+rozhodnutí Ministerstva vnitra, krajského úřadu nebo věcně příslušného ministerstva nebo jiného ústředního správního úřadu o zrušení pozastavení účinnosti právního předpisu územního samosprávného celku a
+sdělení Ministerstva vnitra, krajského úřadu nebo věcně příslušného ministerstva nebo jiného ústředního správního úřadu o pozbytí platnosti jejich rozhodnutí o pozastavení účinnosti právního předpisu územního samosprávného celku.
+Ve Sbírce právních předpisů se dále zveřejní
+sdělení kraje o počtu členů zastupitelstva kraje, který má být zvolen,
+rozhodnutí o stavu nebezpečí podle krizového zákona,
+smlouva, na základě které bylo podle zákona o ochraně přírody a krajiny území prohlášeno za chráněné, a
+usnesení zastupitelstva kraje o vyhlášení krajského referenda nebo o tom, že krajské referendum nevyhlásí, jestliže o navržené otázce nelze krajské referendum konat.
+Zveřejnění aktů zajistí správce. Orgán, který zveřejňovaný akt vydal, zašle neprodleně jeho text v otevřeném a strojově čitelném formátu prostřednictvím elektronického formuláře do datové schránky zřízené správcem pro tento účel. Správce uveřejní elektronický formulář na portálu veřejné správy.
+Za úplnost a správnost obsahu aktů zveřejňovaných ve Sbírce právních předpisů odpovídá ten, kdo je správci zaslal.
+Zjistí-li ten, kdo akt zaslal ke zveřejnění, rozdíl mezi textem aktu zveřejněným ve Sbírce právních předpisů a skutečným obsahem aktu, provede jeho opravu; postupuje přitom obdobně podle odstavce 3. Původní text aktu zůstává ve Sbírce právních předpisů uchován.

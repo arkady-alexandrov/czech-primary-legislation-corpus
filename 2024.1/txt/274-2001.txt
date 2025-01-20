@@ -1,0 +1,521 @@
+VODOVODY A KANALIZACE PRO VEŘEJNOU POTŘEBU
+OBECNÁ USTANOVENÍ
+Předmět úpravy
+Tento zákon upravuje některé vztahy vznikající při rozvoji, výstavbě a provozu vodovodů a kanalizací sloužících veřejné potřebě (dále jen „vodovody a kanalizace“), přípojek na ně, jakož i působnost orgánů územních samosprávných celků a správních úřadů na tomto úseku.
+Vodovody a kanalizace pro veřejnou potřebu se zřizují a provozují ve veřejném zájmu.
+Tento zákon se vztahuje na
+vodovody a kanalizace, pokud je trvale využívá alespoň 50 fyzických osob, nebo pokud průměrná denní produkce z ročního průměru pitné nebo odpadní vody za den je 10 m3 a více,
+každý vodovod nebo kanalizaci, které provozně souvisejí s vodovody a kanalizacemi podle písmene a).
+Tento zákon se nevztahuje na
+vodovody sloužící k rozvodu jiné než pitné vody,
+oddílné kanalizace sloužící k odvádění povrchových vod vzniklých odtokem srážkových vod,
+vodovody a kanalizace nebo jejich části, na které není připojen alespoň 1 odběratel.
+Vodoprávní úřad může na návrh nebo z vlastního podnětu rozhodnutím stanovit, že se tento zákon vztahuje též na kanalizace uvedené v odstavci 4 písm. b) a na vodovody, které nesplňují podmínky uvedené v odstavci 3 písm. a) nebo na vodovody uvedené v odstavci 4 písm. a), jestliže je to v zájmu ochrany veřejného zdraví, ochrany zdraví zvířat nebo ochrany životního prostředí a jsou-li na vodovod nebo kanalizaci připojeni alespoň 2 odběratelé.
+Vymezení základních pojmů
+Vodovod je provozně samostatný soubor staveb a zařízení zahrnující vodovodní řady a vodárenské objekty, jimiž jsou zejména stavby pro jímání a odběr povrchové nebo podzemní vody, její úpravu a shromažďování. Vodovod je vodním dílem.
+Kanalizace je provozně samostatný soubor staveb a zařízení zahrnující kanalizační stoky k odvádění odpadních vod a srážkových vod společně nebo odpadních vod samostatně a srážkových vod samostatně, kanalizační objekty, čistírny odpadních vod, jakož i stavby k čištění odpadních vod před jejich vypouštěním do kanalizace. Odvádí-li se odpadní voda a srážková voda společně, jedná se o jednotnou kanalizaci a srážkové vody se vtokem do této kanalizace přímo, nebo přípojkou stávají odpadními vodami. Odvádí-li se odpadní voda samostatně a srážková voda také samostatně, jedná se o oddílnou kanalizaci. Kanalizace je vodním dílem.
+Provozování vodovodů nebo kanalizací je souhrn činností, kterými se zajišťuje dodávka pitné vody nebo odvádění a čištění odpadních vod. Rozumí se jím zejména dodržování technologických postupů při odběru, úpravě a dopravě pitné vody včetně manipulací, odvádění, čištění a vypouštění odpadních vod, dodržování provozních nebo manipulačních řádů, kanalizačního řádu, vedení provozní dokumentace, provozní a fakturační měření, dohled nad provozuschopností vodovodů a kanalizací, příprava podkladů pro výpočet ceny pro vodné a stočné a další související činnosti; není jím správa vodovodů a kanalizací ani jejich rozvoj.
+Fyzickou osobou trvale využívající vodovod nebo kanalizaci podle § 1 odst. 3 písm. a) je fyzická osoba, která má v obci, kde se nachází vodovod nebo kanalizace, trvalý pobyt.
+Provozovatelem vodovodu nebo kanalizace (dále jen „provozovatel“) je osoba, která provozuje vodovod nebo kanalizaci a je držitelem povolení k provozování tohoto vodovodu nebo kanalizace vydaného krajským úřadem podle § 6.
+Odběratelem je vlastník pozemku nebo stavby připojené na vodovod nebo kanalizaci, není-li dále stanoveno jinak; u budov v majetku České republiky je odběratelem organizační složka státu, které přísluší hospodaření s touto budovou podle zvláštního zákona; u budov, u nichž spoluvlastník budovy je vlastníkem bytu nebo nebytového prostoru jako prostorově vymezené části budovy a zároveň podílovým spoluvlastníkem společných částí budovy, je odběratelem společenství vlastníků. U pozemků nebo budov předaných pro hospodaření příspěvkových organizací zřízených územními samosprávnými celky jsou odběratelem tyto osoby.
+Vnitřní vodovod je potrubí určené pro rozvod vody po pozemku nebo stavbě, které navazuje na konec vodovodní přípojky. Vnitřní vodovod není vodním dílem.
+Vnitřní kanalizace je potrubí určené k odvádění odpadních vod, popřípadě i srážkových vod ze stavby, k jejímu vnějšímu líci. V případech, kdy jsou odváděny odpadní vody, popřípadě i srážkové vody ze stavby i pozemku vně stavby, je koncem vnitřní kanalizace místo posledního spojení vnějších potrubí. Tato místa jsou také začátkem kanalizační přípojky.
+Obnovou je výměna části vodovodu, úpravny vody, kanalizace nebo čistírny odpadních vod, která je inventárně sledovanou částí majetku vlastníka nebo samostatnou položkou uvedenou ve vybraných údajích majetkové evidence, za účelem prodloužení životnosti stavby a s ní související technologie.
+Provozně souvisejícím vodovodem nebo provozně související kanalizací je vodovod, který je propojen s vodovodem jiného vlastníka nebo kanalizace, která je propojena s kanalizací jiného vlastníka.
+Vybrané údaje majetkové evidence jsou souborem technických a ekonomických údajů, údajů o poloze umožňujících identifikaci staveb přiváděcích řadů a rozvodné vodovodní sítě, staveb pro úpravu vody s technologií pro úpravu nebo bez ní, přiváděcích stok a stokových sítí, čistíren odpadních vod tak, že u každé položky jsou uvedeny identifikační údaje jejich vlastníka.
+Vybrané údaje provozní evidence jsou souborem technických, ekonomických a provozních údajů umožňujících sledovat z hlediska kvantity i kvality služby poskytované prostřednictvím staveb přiváděcích řadů a rozvodné vodovodní sítě, staveb pro úpravu vody s technologií pro úpravu nebo bez ní, přiváděcích stok a stokových sítí a čistíren odpadních vod. V provozní evidenci se u každého zařízení uvedou identifikační údaje jejich provozovatele, kterým může být právnická nebo podnikající fyzická osoba.
+Přípojky
+Vodovodní přípojka je samostatnou stavbou tvořenou úsekem potrubí od odbočení z vodovodního řadu k vodoměru, a není-li vodoměr, pak k vnitřnímu uzávěru připojeného pozemku nebo stavby. Odbočení s uzávěrem je součástí vodovodu. Vodovodní přípojka není vodním dílem.
+Kanalizační přípojka je samostatnou stavbou tvořenou úsekem potrubí od vyústění vnitřní kanalizace stavby nebo odvodnění pozemku k zaústění do stokové sítě. Kanalizační přípojka není vodním dílem.
+Vlastníkem vodovodní přípojky nebo kanalizační přípojky, popřípadě jejích částí zřízených přede dnem nabytí účinnosti tohoto zákona, je vlastník pozemku nebo stavby připojené na vodovod nebo kanalizaci, neprokáže-li se opak.
+Vlastník vodovodní přípojky je povinen zajistit, aby vodovodní přípojka byla provedena a užívána tak, aby nemohlo dojít ke znečištění vody ve vodovodu.
+Vlastník kanalizační přípojky je povinen zajistit, aby kanalizační přípojka byla provedena jako vodotěsná a tak, aby nedošlo ke zmenšení průtočného profilu stoky, do které je zaústěna.
+Vodovodní přípojku a kanalizační přípojku pořizuje na své náklady odběratel, není-li dohodnuto jinak; vlastníkem přípojky je osoba, která na své náklady přípojku pořídila.
+Opravy a údržbu vodovodních přípojek a kanalizačních přípojek uložených v pozemcích, které tvoří veřejné prostranství, zajišťuje provozovatel ze svých provozních nákladů.
+Stavební úřad může rozhodnutím uložit vlastníkům stavebního pozemku nebo staveb, na kterých vznikají nebo mohou vznikat odpadní vody, povinnost připojit se na kanalizaci v případech, kdy je to technicky možné.
+V případě, jsou-li pozemky nebo stavby připojené na vodovod nebo kanalizaci rozděleny na 2 nebo více pozemků evidovaných v katastru nemovitostí s různými vlastníky, mohou zřídit tito vlastníci nové přípojky.
+Pokud přípojky a vnitřní vodovod nebo vnitřní kanalizace rozdělených pozemků nebo staveb mají z hlediska svého členění charakter provozně souvisejícího vodovodu nebo kanalizace, stavební úřad rozhodne o změně v užívání stavby vodovodní nebo kanalizační přípojky a části vnitřního vodovodu nebo vnitřní kanalizace podle tohoto zákona.
+Pokud část vnitřního vodovodu nebo vnitřní kanalizace rozdělených pozemků nebo staveb má z hlediska svého členění charakter vodovodní nebo kanalizační přípojky, stavební úřad rozhodne o změně užívání stavby části vnitřního vodovodu nebo vnitřní kanalizace na vodovodní nebo kanalizační přípojku.
+Plán rozvoje vodovodů a kanalizací kraje a území státu
+Kraj v samostatné působnosti zajišťuje zpracování a schvaluje plán rozvoje vodovodů a kanalizací (dále jen „plán rozvoje“) pro své území. Plán rozvoje obsahuje koncepci řešení zásobování pitnou vodou, včetně vymezení zdrojů povrchových a podzemních vod, uvažovaných pro účely úpravy na pitnou vodu, a koncepci odkanalizování a čištění odpadních vod na území daného kraje. Plán rozvoje musí být hospodárný a musí obsahovat technicky nejvhodnější řešení a vazby k plánu rozvoje pro území sousedících krajů.
+Kraj v samostatné působnosti průběžně aktualizuje a schvaluje plán rozvoje pro své území.
+Při zpracování návrhu plánu rozvoje pro území kraje a při zpracování jeho aktualizací se vychází z politiky územního rozvoje, územního rozvojového plánu, zásad územního rozvoje příslušného kraje a z národních plánů povodí a z plánů pro sucho zpracovaných podle zákona o vodách, pokud jsou pro dané území zpracovány a schváleny.
+Při zpracování aktualizací plánu rozvoje se vychází z návrhů změn plánu rozvoje vodovodů a kanalizací předkládaných krajskému úřadu obcemi ve stanovené elektronické podobě, formátu a obsahu. Aktuální stav zásobování pitnou vodou, odvádění odpadních vod a jejich čištění se zpracuje na základě kolaudačních rozhodnutí jejich staveb.
+Návrh plánu rozvoje i jeho aktualizaci před schválením kraj projedná s obcemi, vlastníky a provozovateli vodovodů a kanalizací v území, jehož se plán rozvoje týká, s Ministerstvem zemědělství (dále jen „ministerstvo“), s dotčeným orgánem územního plánování, s příslušným správcem povodí a s příslušným stavebním úřadem. Krajský úřad návrh plánu rozvoje a jeho aktualizace projedná také s krajskými úřady ostatních krajů, jejichž území se nachází ve stejném povodí. V případech, kdy se plán rozvoje dotýká ochranných pásem přírodních léčivých zdrojů, zdrojů přírodních minerálních vod ryzích a přírodních léčebných lázní a lázeňských míst, projedná kraj tento návrh s Ministerstvem zdravotnictví, a dotýká-li se plán rozvoje chráněných území a ochranných pásem v oblasti ochrany životního prostředí, projedná kraj tento návrh s Ministerstvem životního prostředí. Od projednání se upouští v případech, kdy se jedná o doplnění aktuálního stavu zásobování pitnou vodou, odvádění odpadních vod a jejich čištění.
+Plán rozvoje je podkladem pro zpracování politiky územního rozvoje a územně plánovací dokumentace a plánu dílčího povodí podle zákona o vodách pro činnost vodoprávního úřadu, úřadu územního plánování, stavebního úřadu a pro činnost obce a kraje v samostatné i přenesené působnosti.
+Ministerstvo zajišťuje zpracování, aktualizaci a schválení plánu rozvoje pro území státu, který před jeho schválením projedná s Ministerstvem pro místní rozvoj. Tento plán obsahuje aktuální plány rozvoje pro území krajů se stanovisky k aktualizacím a souhrnné údaje z krajských plánů včetně vodovodů a kanalizací, které svým rozsahem překračují působnost krajů. Plán rozvoje pro území státu je podkladem pro zpracování politiky územního rozvoje a územního rozvojového plánu.
+Krajský úřad předá ministerstvu v elektronické podobě a ve stanoveném formátu schválené aktualizace plánu rozvoje za předchozí rok do 31. ledna následujícího roku.
+Rozsah a způsob zpracování plánu rozvoje vodovodů a kanalizací a stanovenou elektronickou podobu, formát a obsah předávaných aktualizací plánu rozvoje stanoví prováděcí právní předpis.
+Evidence vodovodů a kanalizací
+Vlastník vodovodu nebo kanalizace je povinen na své náklady zajistit průběžné vedení majetkové evidence svých vodovodů a kanalizací. Vlastnické vztahy k vodovodům a kanalizacím, jakož i k vodovodním přípojkám a kanalizačním přípojkám se nezapisují do katastru nemovitostí. Na majetkovou evidenci vodovodů a kanalizací se nevztahuje zákon o zápisech vlastnických a jiných věcných práv k nemovitostem.
+Vlastník vodovodu nebo kanalizace je povinen na své náklady zajistit průběžné vedení provozní evidence, kterou tvoří záznamy o zdrojích povrchových a podzemních vod využívaných na vodu dodávanou vodovody, výkresová dokumentace vodovodu nebo kanalizace, nákladové listy, cenové kalkulace, plán kontrol jakosti vod v průběhu výroby pitné vody, plán kontrol míry znečištění odpadních vod, provozní deník a dále provozní řády vedené podle zvláštních právních předpisů.
+Vybrané údaje z majetkové evidence vodovodů a kanalizací a z jejich provozní evidence, stanovené prováděcím právním předpisem, je vlastník vodovodu nebo kanalizace povinen bezplatně předávat v elektronické podobě a ve stanoveném formátu územně příslušnému stavebnímu úřadu, a to každoročně vždy do 28. února za předcházející kalendářní rok.
+Stavební úřad zpracuje údaje, které mu byly předány podle odstavce 3, za celý svůj územní obvod a předá je vždy do 31. března v elektronické podobě a ve stanoveném formátu příslušnému ministerstvu k vedení ústřední evidence vybraných údajů o vodovodech a kanalizacích podle odstavce 5.
+Ústřední evidenci vybraných údajů o vodovodech a kanalizacích uvedených v odstavci 3 vede ministerstvo.
+Obsah a způsob vedení majetkové evidence vodovodů a kanalizací, jejich provozní evidence a evidence vybraných údajů o vodovodech a kanalizacích, včetně způsobu předávání vybraných údajů z majetkové a provozní evidence vodovodů a kanalizací, a formát předání těchto údajů stanoví prováděcí právní předpis.
+Omezení přístupu k informacím
+Údaje o umístění a kapacitě staveb pro jímání a odběr povrchové a podzemní vody, úpraven vod a vodojemů jsou údaji důležitými z hlediska bezpečnosti podle zákona o zeměměřictví a neposkytují se podle právních předpisů upravujících právo na informace.
+PROVOZOVÁNÍ VODOVODŮ A KANALIZACÍ
+Oprávnění k provozování
+Osoba, která hodlá provozovat vodovod nebo kanalizaci, požádá krajský úřad o vydání povolení k provozování vodovodu nebo kanalizace.
+Krajský úřad vydá povolení k provozování vodovodu nebo kanalizace jen osobě, která
+je oprávněna provozovat živnost podle zvláštního zákona,
+je vlastníkem vodovodu nebo kanalizace nebo s vlastníkem vodovodu nebo kanalizace uzavřela smlouvu, která ji opravňuje vodovod nebo kanalizaci provozovat; v případě, že vodovod nebo kanalizace provozně souvisí s vodovody nebo kanalizacemi jiných vlastníků, musí být doloženo, že s nimi má vlastník uzavřenou písemnou dohodu podle § 8 odst. 3,
+sama nebo její odborný zástupce splňuje kvalifikaci odpovídající požadavkům na provozování, správu a rozvoj vodovodů nebo kanalizací, pro které se povolení k provozování vydává, a to v souladu s majetkovou evidencí vedenou podle § 5 odst. 1 v závislosti na počtu fyzických osob trvale využívajících tyto vodovody nebo kanalizace, a to:
+střední vzdělání s maturitní zkouškou v oboru vzdělávání obsahově zaměřeném na vodovody a kanalizace nebo v příbuzném oboru a má nejméně 4 roky praxe v oboru vodovody a kanalizace, jedná-li se o nejvýše 5 000 fyzických osob trvale využívajících tyto vodovody nebo kanalizace;
+vysokoškolské vzdělání absolvováním studia v akreditovaném studijním programu v oblasti vodovody a kanalizace a má nejméně 2 roky praxe v oboru vodovody a kanalizace, jedná-li se o více než 5 000 fyzických osob trvale využívajících tyto vodovody nebo kanalizace.
+Krajský úřad nevydá povolení k provozování vodovodu nebo kanalizace, nestanoví-li tento zákon jinak, pokud:
+povolení k provozování vodovodu nebo kanalizace, které jsou předmětem žádosti o vydání povolení, bylo vydáno jiné osobě,
+o povolení k provozování vodovodu nebo kanalizace žádá osoba, které bylo zrušeno povolení k provozování vodovodu nebo kanalizace podle odstavce 9, nebo
+předchozí povolení k provozování vodovodu nebo kanalizace, které jsou předmětem žádosti o vydání povolení, bylo zrušeno podle odstavce 9 písm. b) a nebyl odstraněn důvod vedoucí ke zrušení předchozího povolení.
+V případech uvedených v odstavci 3 písm. b) nebo c) může krajský úřad vydat povolení k provozování vodovodu nebo kanalizace pouze s předchozím souhlasem ministerstva.
+V povolení k provozování vodovodu nebo kanalizace, popřípadě jeho změně, krajský úřad uvede údaje provozovatele, údaje o odborném zástupci provozovatele, provozovaný majetek uvedený identifikačními čísly majetkové evidence vodovodů nebo kanalizací, pro které se povolení k provozování vydává, a to v souladu s majetkovou evidencí vedenou podle § 5 odst. 1 v rozsahu uvedeném v žádosti o povolení k provozování.
+Bez splnění podmínky uvedené v odstavci 2 písm. a) krajský úřad vydá povolení k provozování vodovodu nebo kanalizace těm obcím, organizačním složkám státu nebo sdružením vlastníků vodovodů a kanalizací, která jsou právnickými osobami, pokud neprovozují vodovod nebo kanalizaci za účelem dosažení zisku.
+Krajský úřad rozhodnutím zruší povolení k provozování vodovodu nebo kanalizace v případě, že provozovatel již nesplňuje podmínky pro vydání povolení k provozování vodovodu nebo kanalizace uvedené v odstavci 2 písm. a), b) nebo c). O zrušení povolení k provozování vodovodu nebo kanalizace krajský úřad neprodleně informuje ministerstvo.
+Krajský úřad rozhodnutím změní, popřípadě zruší a vydá nové povolení k provozování vodovodu nebo kanalizace, změní-li se výčet vodovodů nebo kanalizací, pro které bylo povolení k provozování vodovodu nebo kanalizace vydáno, nebo dojde-li ke změně osoby odborného zástupce provozovatele.
+Ministerstvo rozhodnutím zruší povolení k provozování vodovodu nebo kanalizace, pokud
+provozovatel přes předchozí upozornění ministerstva opakovaně nedodržuje nebo porušuje ustanovení tohoto zákona nebo zvláštních právních předpisů, nebo
+technickým auditem (§ 38) byly zjištěny závažné nedostatky;
+o zrušení povolení informuje neprodleně příslušný krajský úřad.
+Krajský úřad informuje v elektronické podobě a ve stanoveném formátu o vydání povolení k provozování vodovodu nebo kanalizace i o jejich změně nebo zrušení neprodleně ministerstvo.
+Odborným zástupcem provozovatele je fyzická osoba, která odpovídá za provozování vodovodů nebo kanalizací, a která je k provozovateli ve smluvním vztahu.
+K formuláři žádosti o povolení k provozování vodovodu nebo kanalizace se přikládá kopie živnostenského oprávnění, kopie smlouvy, kterou uzavřel žadatel s vlastníkem vodovodu nebo kanalizace na jejich provozování, pokud jím žadatel není sám, identifikační čísla vodovodů a kanalizací, uvedená ve vybraných údajích majetkové evidence podle § 4 odst. 3 a 6 tohoto zákona, kterých se povolení k provozování týká, úředně ověřená kopie dokladů o vzdělání a praxi odborného zástupce a jeho písemný souhlas včetně ověřeného podpisu, pokud sám není žadatelem. Formulář žádosti se podává v elektronické podobě a ve stanoveném formátu.
+Vymezení příbuzného oboru k oboru vodovody a kanalizace a formulář žádosti stanoví prováděcí právní předpis.
+Povolení k provozování vodovodu nebo kanalizace pro veřejnou potřebu je nutným podkladem pro vydání kolaudačního rozhodnutí ke stavbám vodovodních řadů, vodárenských objektů, úpraven vody, kanalizačních stok včetně kanalizačních objektů a čistíren odpadních vod.
+Práva a povinnosti stavebníka, vlastníka a provozovatele při výstavbě, údržbě a provozování vodovodu nebo kanalizace
+Vlastník vodovodu nebo kanalizace je oprávněn za účelem kontroly, údržby nebo stavební úpravy vodovodu nebo kanalizace vstupovat a vjíždět na příjezdné, průjezdné a vodovodem nebo kanalizací přímo dotčené cizí pozemky, a to způsobem, který co nejméně zatěžuje vlastníky těchto nemovitostí. Stejné oprávnění má i provozovatel za účelem plnění povinností spojených s provozováním vodovodu nebo kanalizace.
+Stavebník a vlastník vodovodu nebo kanalizace mají právo umísťovat na cizí pozemek nebo stavbu tabulky vyznačující polohu vodovodu nebo kanalizace.
+Vznikne-li spor o rozsah oprávnění vyplývajících z odstavců 1 a 2, rozhoduje o tomto sporu příslušný stavební úřad.
+Práva podle odstavců 1 a 2 musí být vykonávána tak, aby bylo co nejméně zasahováno do práv vlastníků pozemků a staveb. Za tímto účelem je oprávněná osoba zejména povinna svůj vstup na cizí pozemek nebo stavbu jejímu vlastníku předem oznámit a po skončení prací pozemek nebo stavbu uvést do předchozího stavu, pokud se s vlastníkem nedohodne jinak. Výkon tohoto práva musí být prováděn též tak, aby co nejméně omezoval osoby užívající pozemek nebo stavbu na základě smlouvy s vlastníkem pozemku nebo stavby a další osoby, které ji užívají s jeho souhlasem.
+Vznikla-li osobě uvedené v odstavci 4 výkonem práv stavebníka nebo vlastníka vodovodu nebo kanalizace podle odstavců 1 a 2 majetková újma, nebo je-li tato osoba omezena v obvyklém užívání pozemku nebo stavby, má tato osoba právo na náhradu. Nedojde-li k dohodě o výši a způsobu náhrady, poskytne stavebník nebo vlastník vodovodu nebo kanalizace osobě uvedené v odstavci 4 jednorázovou náhradu podle zvláštního právního předpisu bez zbytečného odkladu, nejpozději do 6 měsíců ode dne vzniku práva na náhradu. Tím není dotčeno právo domáhat se náhrady u soudu. Toto ustanovení se nepoužije na případy styku vodovodů a kanalizací se stavbami zřízenými podle zákona o pozemních komunikacích.
+Provozovatel má právo odstraňovat a oklešťovat stromoví a jiné porosty, provádět likvidaci odstraněného a okleštěného stromoví a jiných porostů ohrožujících bezpečné a plynulé provozování zařízení v případech, kdy tak po předchozím upozornění a stanovení rozsahu neučinil sám vlastník nebo uživatel pozemku.
+Práva a povinnosti podle odstavců 1 až 6 přecházejí na právní nástupce stavebníka, vlastníka a provozovatele vodovodu nebo kanalizace, jakož i na právní nástupce vlastníků pozemků a staveb.
+Práva a povinnosti vlastníka vodovodu nebo kanalizace
+Vlastník vodovodu nebo kanalizace je povinen zajistit jejich plynulé a bezpečné provozování, vytvářet rezervu finančních prostředků na jejich obnovu a dokládat jejich použití pro tyto účely.
+Vlastník vodovodu nebo kanalizace může uzavřít smlouvu o provozování vodovodu nebo kanalizace s provozovatelem. Jestliže vlastník provozuje vodovod nebo kanalizaci svým jménem a na vlastní odpovědnost, vztahují se na něj všechna práva a povinnosti provozovatele.
+Vlastníci vodovodů nebo kanalizací provozně souvisejících, popřípadě jejich částí provozně souvisejících, upraví svá vzájemná práva a povinnosti písemnou dohodou tak, aby bylo zajištěno kvalitní a plynulé provozování vodovodu nebo kanalizace. Tato dohoda je podmínkou kolaudačního rozhodnutí podle stavebního zákona.
+Vlastníci vodovodů nebo kanalizací, jakož i vlastníci vodovodních řadů, vodárenských objektů, kanalizačních stok a kanalizačních objektů provozně souvisejících, jsou povinni umožnit napojení vodovodu nebo kanalizace jiného vlastníka, pokud to umožňují kapacitní a technické možnosti. Současně uzavřou vlastníci těchto vodovodů a kanalizací písemnou dohodu podle odstavce 3. Možnost napojení k zabezpečení dodávek pitné vody nebo odvádění odpadních vod nesmí být podmiňována vyžadováním finančních nebo jiných plnění. Náklady na realizaci napojení vodovodu nebo kanalizace hradí vlastník, jemuž je umožněno napojení vodovodu nebo kanalizace.
+Vlastník vodovodu nebo kanalizace, popřípadě provozovatel, pokud je k tomu vlastníkem zmocněn, je povinen umožnit připojení na vodovod nebo kanalizaci a dodávat pitnou vodu nebo odvádět odpadní vody a čistit odpadní vody, pokud to umožňují kapacitní a technické možnosti těchto zařízení. Připojení vodovodní nebo kanalizační přípojky a uzavření smlouvy o dodávce pitné vody nebo odvádění i čištění odpadních vod nesmí být podmiňovány vyžadováním finančních nebo jiných plnění. Náklady na realizaci vodovodní přípojky na vodovod nebo kanalizační přípojky na kanalizaci hradí osoba, které je umožněno připojení. Materiál na odbočení přípojek a uzávěr vodovodní přípojky hradí vlastník vodovodu nebo kanalizace.
+Vlastník vodovodu nebo kanalizace, popřípadě provozovatel, pokud je k tomu vlastníkem zmocněn, je povinen uzavřít písemnou smlouvu o dodávce vody nebo odvádění odpadních vod s odběratelem. Závazky vzniklé z této smlouvy přecházejí na právního nástupce vlastníka vodovodu nebo kanalizace a na právního nástupce provozovatele.
+Při uzavírání smlouvy podle odstavce 6 se mohou strany dohodnout, že odběratelem je třetí osoba.
+Vlastník vodovodu nebo kanalizace může provést zásah do vodovodu nebo kanalizace pouze po předchozím projednání s provozovatelem, pokud není smlouvou uzavřenou podle odstavce 2 stanoveno jinak.
+Vlastník vodovodu nebo kanalizace i jejich provozovatel jsou povinni umožnit přístup k vodovodu nebo kanalizaci osobám, které jsou oprávněny provádět kontrolu kvalitního a plynulého provozování vodovodů nebo kanalizací a jejich technického stavu nebo činit jiná nezbytná opatření ke zjištění plnění povinností stanovených tímto zákonem a zvláštními zákony.
+Vlastník vodovodu i provozovatel vodovodu jsou povinni umožnit přístup k vodovodu a umožnit bezplatný odběr vody jednotkám požární ochrany při záchranných a likvidačních pracích, pokud není v místě dostupný jiný dostatečný zdroj vody.
+Vlastník vodovodu nebo kanalizace je povinen zpracovat a realizovat plán financování obnovy vodovodů nebo kanalizací, a to na dobu nejméně 10 kalendářních let. Obsah plánu financování obnovy vodovodů a kanalizací včetně pravidel pro jeho zpracování stanoví prováděcí právní předpis.
+Vlastník vodovodu nebo kanalizace je povinen poskytnout na vyžádání ve lhůtě stanovené ve výzvě ministerstva údaje o technickém stavu jeho vodovodů nebo kanalizací. Vlastník, popřípadě stavebník nových vodovodů nebo kanalizací nebo vlastník obnovovaných vodovodů nebo kanalizací je povinen poskytnout na vyžádání ve lhůtě stanovené ve výzvě ministerstvu projektovou dokumentaci těchto nových nebo obnovovaných vodovodů nebo kanalizací, včetně specifikace nákladů na jejich výstavbu nebo obnovu. Vyhodnocení obdržených údajů je ministerstvo oprávněno zveřejnit.
+Vlastník vodovodu má právo na úplatu za dodávku pitné vody (dále jen „vodné“), pokud ze smlouvy uzavřené podle odstavce 2 nevyplývá, že vodné se platí provozovateli vodovodu (§ 20). Právo na vodné vzniká vtokem vody do potrubí napojeného bezprostředně za vodoměrem, a není-li vodoměr, vtokem vody do vnitřního uzávěru připojeného pozemku nebo stavby, popřípadě do uzávěru hydrantu nebo výtokového stojanu. Vodné je úplatou za pitnou vodu a za službu spojenou s jejím dodáním. Právo na úplatu pevné složky vodného vzniká podle podmínek stanovených ve smlouvě uzavřené podle odstavce 6, v níž je sjednána dvousložková forma vodného. Takové sjednání je možné ode dne účinnosti obecně závazné vyhlášky obce vydané v samostatné působnosti obce nebo rozhodnutím nejvyššího orgánu právnické osoby, která je vlastníkem vodovodů a kanalizací podle § 20 odst. 4.
+Vlastník kanalizace má právo na úplatu za odvádění odpadních vod (dále jen „stočné“), pokud ze smlouvy uzavřené podle odstavce 2 nevyplývá, že stočné se platí provozovateli kanalizace (§ 20). Právo na stočné vzniká okamžikem vtoku odpadních vod do kanalizace. Stočné je úplatou za službu spojenou s odváděním, čištěním, nebo jiným zneškodňováním odpadních vod. Právo na úplatu pevné složky stočného vzniká podle podmínek stanovených ve smlouvě uzavřené podle odstavce 6, v níž je sjednána dvousložková forma stočného. Takové sjednání je možné ode dne účinnosti obecně závazné vyhlášky obce vydané v samostatné působnosti obce nebo rozhodnutím nejvyššího orgánu právnické osoby, která je vlastníkem vodovodů a kanalizací podle § 20 odst. 4.
+Písemná dohoda vlastníků provozně souvisejících vodovodů a provozně souvisejících kanalizací musí alespoň obsahovat
+u písemné dohody vlastníků provozně souvisejících vodovodů strany dohody, předmět dohody včetně uvedení vlastnictví vodovodů, stanovení podmínek dodávky (jakost, množství, tlakové poměry, měření, kontrola podmínek, zajištění funkčnosti, postup v odstranění závad, vzájemná informovanost, řešení sporů), specifikace nákladů a jejich kontroly, způsob plateb, smluvní sankce, možnost změn a doba platnosti této dohody,
+u písemné dohody vlastníků provozně souvisejících kanalizací strany dohody, předmět dohody včetně uvedení vlastnictví kanalizací, stanovení podmínek odvádění odpadních vod (čištění odpadních vod, limity znečištění, množství a způsob jejich měření, kontrola podmínek, zajištění funkčnosti, postup v odstranění závad, vzájemná informovanost o významných situacích, řešení sporů), specifikace nákladů a jejich kontroly, způsob plateb, smluvní sankce, možnost změn a doba platnosti této dohody.
+Smlouva o dodávce pitné vody odběrateli musí obsahovat alespoň předmět smlouvy, smluvní strany, vlastníka a provozovatele vodovodu, vlastníka přípojky a připojené stavby nebo pozemku s určením místa, počet trvale připojených osob, stanovení podmínek dodávky, limity množství dodávaného a množství určujícího kapacitu vodoměru nebo profil přípojky, tlakové poměry v místě přípojky (maximální a minimální), ukazatele jakosti (minimálně hodnoty obsahu vápníku, hořčíku a dusičnanů), způsob stanovení ceny a jejího vyhlášení, způsob fakturace a způsob plateb, možnost změn a doba platnosti této smlouvy.
+Smlouva o odvádění odpadní vody odběrateli, nebo smlouva o odvádění a čištění odpadní vody odběrateli musí obsahovat alespoň předmět smlouvy, smluvní strany, vlastníka a provozovatele kanalizace, vlastníka přípojky a připojené stavby nebo pozemku s určením místa, počet trvale připojených osob, stanovení podmínek odvádění nebo odvádění a čištění (limity množství, způsob stanovení množství, limity znečištění), způsob stanovení ceny a jejího vyhlášení, fakturace záloh a způsob plateb, možnost změn a doba platnosti této smlouvy.
+Práva a povinnosti provozovatele
+Provozovatel je povinen provozovat vodovod nebo kanalizaci v souladu s právními předpisy, kanalizačním řádem, podmínkami stanovenými pro tento provoz rozhodnutími správních úřadů a v souladu se smlouvou uzavřenou podle § 8 odst. 2 a dohodou podle § 8 odst. 3, pokud se jedná o vodovod nebo kanalizaci provozně související.
+Zásah do vodovodu nebo kanalizace může provést provozovatel pouze se souhlasem vlastníka, pokud není smlouvou uzavřenou podle § 8 odst. 2 stanoveno jinak.
+Provozovatel je povinen předat obci na její žádost přehled zjištěných ukazatelů jakosti vody za minulý rok nejpozději do 30 dnů ode dne vyžádání.
+Provozovatel je povinen stavebníkovi přeložky vodovodu nebo kanalizace sdělit své písemné stanovisko k navrhované přeložce vodovodu nebo kanalizace nejpozději do 30 dnů od doručení žádosti (§ 24 odst. 2).
+Provozovatel je oprávněn přerušit nebo omezit dodávku vody nebo odvádění odpadních vod bez předchozího upozornění jen v případech živelní pohromy, při havárii vodovodu nebo kanalizace, vodovodní přípojky nebo kanalizační přípojky nebo při možném ohrožení zdraví lidí nebo majetku. Provozovatel je oprávněn přerušit nebo omezit dodávku vody bez předchozího upozornění také v případě, kdy je mu při stavu nedostatku vody vyhlášeném podle zvláštního právního předpisu příslušným orgánem upraveno, omezeno nebo zakázáno nakládání s vodami. Přerušení nebo omezení dodávky vody je provozovatel povinen bezprostředně oznámit územně příslušnému orgánu ochrany veřejného zdraví, vodoprávnímu úřadu, nemocnicím, operačnímu středisku hasičského záchranného sboru kraje a dotčeným obcím. Tato povinnost se nevztahuje na přerušení nebo omezení dodávky vody pouze havárií vodovodní přípojky.
+Provozovatel je oprávněn přerušit nebo omezit dodávku vody nebo odvádění odpadních vod do doby, než pomine důvod přerušení nebo omezení,
+při provádění plánovaných oprav, udržovacích a revizních pracích,
+nevyhovuje-li zařízení odběratele technickým požadavkům tak, že jakost nebo tlak vody ve vodovodu může ohrozit zdraví a bezpečnost osob a způsobit škodu na majetku,
+neumožní-li odběratel provozovateli, po jeho opakované písemné výzvě, přístup k vodoměru, přípojce nebo zařízení vnitřního vodovodu nebo kanalizace za podmínek uvedených ve smlouvě uzavřené podle § 8 odst. 6,
+bylo-li zjištěno neoprávněné připojení vodovodní přípojky nebo kanalizační přípojky,
+neodstraní-li odběratel závady na vodovodní přípojce nebo kanalizační přípojce nebo na vnitřním vodovodu nebo vnitřní kanalizaci zjištěné provozovatelem ve lhůtě jím stanovené, která nesmí být kratší než 3 dny,
+při prokázání neoprávněného odběru vody nebo neoprávněného vypouštění odpadních vod, nebo
+v případě prodlení odběratele s placením podle sjednaného způsobu úhrady vodného nebo stočného po dobu delší než 30 dnů.
+Přerušení nebo omezení dodávky vody nebo odvádění odpadních vod podle odstavce 6 je provozovatel povinen oznámit odběrateli v případě přerušení nebo omezení dodávek vody nebo odvádění odpadních vod
+podle odstavce 6 písm. b) až g) alespoň 3 dny předem,
+podle odstavce 6 písm. a) alespoň 15 dnů předem současně s oznámením doby trvání provádění plánovaných oprav, udržovacích nebo revizních prací.
+V případě přerušení nebo omezení dodávky vody nebo odvádění odpadních vod podle odstavce 5 nebo odstavce 6 písm. a) je provozovatel oprávněn stanovit podmínky tohoto přerušení nebo omezení a je povinen zajistit náhradní zásobování pitnou vodou nebo náhradní odvádění odpadních vod v mezích technických možností a místních podmínek.
+Provozovatel je povinen neprodleně odstranit příčinu přerušení nebo omezení dodávky vody nebo odvádění odpadních vod podle odstavce 5 nebo odstavce 6 písm. a) a bezodkladně obnovit dodávku vody nebo odvádění odpadních vod.
+V případě, že k přerušení nebo omezení dodávky vody nebo odvádění odpadních vod došlo podle odstavce 6 písm. b) až g), hradí náklady s tím spojené odběratel.
+Obec může v samostatné působnosti vydat obecně závaznou vyhlášku, kterou upraví způsob náhradního zásobování vodou a náhradního odvádění odpadních vod podle místních podmínek.
+Provozovatel je povinen poskytnout na vyžádání ve lhůtě výzvou stanovené ministerstvu údaje, které se týkají technického stavu vodovodu nebo kanalizace, které provozuje, údaje o vynaložených provozních nákladech a údaje o výpočtu ceny podle cenových předpisů pro vodné a stočné podle § 20 odst. 9. Vyhodnocení obdržených údajů je ministerstvo oprávněno zveřejnit.
+Vyhlášením zákazu použití vody pro pitné účely nejsou dotčeny povinnosti provozovatele vodovodu podle tohoto zákona.
+Neoprávněným odběrem vody z vodovodu je odběr
+před vodoměrem,
+bez uzavřené písemné smlouvy o dodávce vody nebo v rozporu s ní,
+přes vodoměr, který v důsledku zásahu odběratele odběr nezaznamenává nebo zaznamenává odběr menší, než je odběr skutečný, nebo
+přes vodoměr, který odběratel nedostatečně ochránil před poškozením.
+Neoprávněným vypouštěním odpadních vod do kanalizace je vypouštění
+bez uzavřené písemné smlouvy o odvádění odpadních vod nebo v rozporu s ní,
+v rozporu s podmínkami stanovenými pro odběratele kanalizačním řádem, nebo
+přes měřicí zařízení neschválené provozovatelem nebo přes měřicí zařízení, které v důsledku zásahu odběratele množství vypuštěných odpadních vod nezaznamenává nebo zaznamenává množství menší, než je množství skutečné.
+Odběratel je povinen nahradit ztráty vzniklé podle odstavců 1 a 2 vlastníkovi vodovodu nebo kanalizace, pokud ve smlouvě uzavřené podle § 8 odst. 2 není stanoveno, že náhrada vzniklé ztráty je příjmem provozovatele; způsob výpočtu těchto ztrát stanoví prováděcí právní předpis.
+OBECNÉ TECHNICKÉ POŽADAVKY NA VÝSTAVBU VODOVODŮ A KANALIZACÍ A NA JAKOST VODY
+Vodovody
+Vodovody musí být navrženy a provedeny tak, aby bylo zabezpečeno dostatečné množství zdravotně nezávadné pitné vody pro veřejnou potřebu ve vymezeném území a aby byla zabezpečena nepřetržitá dodávka pitné vody pro odběratele. Je-li vodovod jediným zdrojem pro zásobování požární vodou, musí splňovat požadavky požární ochrany na zajištění odběru vody k hašení požáru, je-li to technicky možné.
+Potrubí vodovodu pro veřejnou potřebu včetně jeho přípojek a na ně napojených vnitřních rozvodů nesmí být propojeno s vodovodním potrubím z jiného zdroje vody, než je vodovod pro veřejnou potřebu.
+Vodovody musí být chráněny proti zamrznutí, poškození vnějšími vlivy, vnější a vnitřní korozi a proti vnikání škodlivých mikroorganismů, chemických a jiných látek zhoršujících kvalitu pitné vody. Další technické požadavky na stavby vodovodů stanoví prováděcí právní předpis.
+Kanalizace
+Kanalizace musí být navrženy a provedeny tak, aby negativně neovlivnily životní prostředí, aby byla zabezpečena dostatečná kapacita pro odvádění a čištění odpadních vod z odkanalizovávaného území a aby bylo zabezpečeno nepřetržité odvádění odpadních vod od odběratelů této služby. Současně musí být zajištěno, aby bylo omezováno znečišťování recipientů způsobované dešťovými přívaly. Kanalizace musí být provedeny jako vodotěsné konstrukce, musí být chráněny proti zamrznutí a proti poškození vnějšími vlivy. Další požadavky na čištění odpadních vod včetně požadavků na projektovou dokumentaci, výstavbu a provoz kanalizací a čistíren odpadních vod stanoví prováděcí právní předpis.
+Stoky pro odvádění odpadních vod, s výjimkou dešťových stok, jakož i kanalizační přípojky musí být při souběhu a křížení uloženy hlouběji než vodovodní potrubí pro rozvod pitné vody. Výjimku může povolit stavební úřad rozhodnutím o povolení záměru podle stavebního zákona za předpokladu, že bude provedeno takové technické opatření, které zamezí možnosti kontaminace pitné vody vodou odpadní, a to při běžném provozu i v případě poruchy kanalizace.
+Požadavky na jakost vody k úpravě na vodu pitnou
+Voda odebraná z povrchových vodních zdrojů nebo z podzemních vodních zdrojů pro účely úpravy na vodu pitnou (dále jen „surová voda“) musí splňovat v místě odběru před její vlastní úpravou požadavky na její jakost ve vazbě na použité standardní metody úpravy surové vody na vodu pitnou.
+Výjimečně lze k úpravě na vodu pitnou odebírat povrchovou nebo podzemní vodu, jež v místě odběru nesplňuje požadavky na jakost surové vody, stanovené prováděcím právním předpisem. Výjimku povoluje na žádost provozovatele vodovodu krajský úřad, a to pouze za předpokladu, že technologie úpravy vody z takového zdroje vody zaručuje zdravotní nezávadnost upravené pitné vody, stanovenou zvláštními právními předpisy.
+Provozovatel vodovodu je povinen provádět odběry vzorků surové vody v místě odběru před její vlastní úpravou a provádět jejich rozbory a celkové výsledky v elektronické podobě a ve stanoveném formátu zasílat krajskému úřadu a příslušnému správci povodí jednou ročně do 31. března za předchozí kalendářní rok.
+Údaje podle odstavce 3 použije příslušný správce povodí jako podklad pro zpracování a aktualizaci plánů povodí a programů opatření z hlediska zlepšování jakosti surové vody.
+Ukazatele jakosti surové vody a jejich mezní hodnoty pro jednotlivé kategorie standardních metod úpravy surové vody na vodu pitnou, formu elektronického a četnost měření hodnot jednotlivých ukazatelů, definice jednotlivých standardních metod úpravy surové vody na vodu pitnou, sledované parametry, referenční metody, četnost odběru vzorků a analýz, možnosti odchylek od požadavků na jakost a formu elektronického předávání výsledků stanoví prováděcí právní předpis.
+Způsob zohlednění výsledků, které vyplývají z posouzení a řízení rizik zpracovaného podle § 3c odst. 1 písm. f) zákona o ochraně veřejného zdraví pro systém zásobování vodou, stanoví prováděcí právní předpis.
+Jakost pitné vody a míra znečištění odpadních vod
+Pitná voda dodávaná odběratelům vodovodem musí splňovat požadavky na zdravotní nezávadnost pitné vody, stanovené zvláštními právními předpisy.
+Práva a povinnosti provozovatele a odběratele související se zdravotní nezávadností pitné vody stanoví zvláštní zákon.
+Vlastník kanalizace je povinen před podáním žádosti o vydání kolaudačního rozhodnutí pro stavbu kanalizace zajistit zpracování kanalizačního řádu, který stanoví nejvyšší přípustnou míru znečistění odpadních vod vypouštěných do kanalizace, popřípadě nejvyšší přípustné množství těchto vod a další podmínky jejího provozu. Kanalizační řád schvaluje vodoprávní úřad. Schválený kanalizační řád je vlastník kanalizace povinen předložit stavebnímu úřadu spolu s návrhem na vydání kolaudačního rozhodnutí pro stavbu kanalizace.
+V případě, kdy rozšíření kanalizační sítě nevyvolá žádnou jinou změnu ustanovení kanalizačního řádu než změnu v údajích o délce kanalizační sítě, stavební úřad v rozhodnutí o povolení záměru rozhodne o upuštění od zpracování nového kanalizačního řádu.
+Provozovatel je povinen zajistit provádění odběrů vzorků odpadní vody a její rozbory.
+Náležitosti kanalizačního řádu stanoví prováděcí právní předpis. Četnost odběrů vzorků a požadavky na rozbor vzorků odpadních vod stanoví prováděcí právní předpis.
+DODÁVKY, MĚŘENÍ A CENY
+Dodávky vody
+Povinnost dodávky vody je splněna vtokem vody z vodovodu do vodovodní přípojky.
+Odběratel může odebírat vodu z vodovodu pouze pro účely sjednané ve smlouvě o dodávce vody, a to v jakosti pitné vody, v souladu se zvláštními právními předpisy.
+Vlastník nebo provozovatel vodovodu neodpovídá za škody a ušlý zisk vzniklé nedostatkem tlaku vody při omezeném zásobování vodou pro poruchu na vodovodu, při přerušení dodávky elektrické energie, při nedostatku vody nebo z důvodu, pro který je vlastník nebo provozovatel oprávněn dodávku vody omezit nebo přerušit podle § 9 odst. 5 a 6.
+Vyžaduje-li to veřejný zájem, především je-li přechodný nedostatek pitné vody, který nelze z důvodu technických kapacit nebo nedostatečných zdrojů vody nahradit, může vodoprávní úřad po projednání s obcí, vlastníkem a provozovatelem vodovodu vydat opatření obecné povahy o dočasném omezení užívání pitné vody z vodovodu pro veřejnou potřebu na dobu nejdéle 3 měsíců.
+Opatření obecné povahy nabývá účinnosti zveřejněním na úřední desce vodoprávního úřadu, pokud vodoprávní úřad nestanoví jinak. O vydání opatření obecné povahy uvědomí místně příslušný obecní úřad dotčené osoby způsobem v místě obvyklým. Stanovenou dobu dočasného omezení lze stejným způsobem prodloužit nejvýše o 3 měsíce.
+Projednání opatření obecné povahy je veřejné, pokud vodoprávní úřad nestanoví jinak a koná se v den stanovený ve veřejné vyhlášce, kterou se návrh opatření obecné povahy zveřejňuje; veřejné projednání se nemůže konat dříve než 5 dnů po jeho zveřejnění. Dotčené osoby jsou oprávněny podat proti opatření obecné povahy písemné odůvodněné námitky ve lhůtě 5 pracovních dní ode dne jeho zveřejnění nebo na veřejném projednání uplatnit ústní připomínky.
+Je-li vyhlášen stav nedostatku vody podle zákona o vodách, může orgán k tomu příslušný postupem podle zákona o vodách dočasně omezit užívání pitné vody z vodovodu pro veřejnou potřebu na dobu nejdéle 3 měsíců. Stanovenou dobu lze prodloužit nejvýše o 3 měsíce. Při stavu nedostatku vody podle zákona o vodách se odstavec 4 nepoužije.
+Je-li vydáno opatření podle odstavce 4 nebo 7, je odběratel povinen umožnit provozovateli vodovodu přístup k vodoměru.
+Měření dodávané vody
+Množství dodané vody měří provozovatel vodoměrem, který je stanoveným měřidlem podle zvláštních právních předpisů. Jiný způsob určení množství dodané vody může stanovit v odůvodněných případech pouze vlastník vodovodu, popřípadě provozovatel vodovodu, pokud je k tomu vlastníkem zmocněn, a to se souhlasem odběratele. Vodoměrem registrované množství dodané vody nebo jiným způsobem určené množství dodané vody je podkladem pro vyúčtování dodávky (fakturaci) vody.
+Vlastníkem vodoměru je vlastník vodovodu, s výjimkou případů, kdy přede dnem nabytí účinnosti tohoto zákona se prokazatelně stal vlastníkem vodoměru provozovatel vodovodu.
+Osazení, údržbu a výměnu vodoměru provádí provozovatel. Jeho povinností je oznámit odběrateli výměnu vodoměru alespoň 15 dní předem, současně s vymezením času v rozsahu maximálně 3 hodin, a to i v případě, že vodoměr je pro provozovatele přístupný bez účasti odběratele, pokud se s vlastníkem nedohodne jinak. Přítomnému odběrateli se současně s výměnou předává potvrzení obsahující zaznamenaný stav měření odebraného vodoměru a u nově osazeného vodoměru jeho číslo, zaznamenaný stav a termín, do kterého musí být vyměněn.
+Odběratel má právo zajistit si na vlastní náklady metrologickou zkoušku vodoměru na místě instalace, a to nezávislým měřidlem, připojeným na odbočení s uzávěrem za osazeným vodoměrem na potrubí vnitřního vodovodu před jeho prvním rozdělením. Tuto zkoušku provede za přítomnosti provozovatele vodovodu na základě smlouvy s odběratelem Český metrologický institut, pokud to vnitřní vodovod umožňuje. Zjistí-li se odchylka větší, než připouští zvláštní právní předpis, vodoměr se považuje za nefunkční a při stanovení množství dodané vody pro vypořádání případné reklamace se postupuje podle § 17 odst. 4 písm. a).
+Není-li množství odebrané vody z hydrantů a veřejných výtokových stojanů měřeno vodoměrem, stanoví toto množství vlastník vodovodu na podkladě výpočtu vycházejícího z účelu použití odebrané vody a místních podmínek.
+Způsob určení množství odebírané vody, není-li osazen vodoměr, stanoví prováděcí právní předpis.
+Povinností odběratele je dodržet podmínky umístění vodoměru stanovené vlastníkem, popřípadě provozovatelem vodovodu. Pokud vnitřní vodovod nevyhovuje požadavkům pro montáž vodoměru, je odběratel povinen na písemné vyzvání provozovatele provést v přiměřené lhůtě potřebné úpravy na připojované stavbě nebo pozemku.
+Odběratel je povinen umožnit provozovateli přístup k vodoměru, chránit vodoměr před poškozením a bez zbytečného odkladu oznámit provozovateli závady v měření. Jakýkoliv zásah do vodoměru bez souhlasu provozovatele je nepřípustný a provozovatel má právo jednotlivé části vodoměru zajistit proti neoprávněné manipulaci.
+Vodoměr podléhá úřednímu ověření podle zvláštních právních předpisů. Má-li odběratel pochybnosti o správnosti měření nebo zjistí-li závadu na vodoměru, má právo požádat o jeho přezkoušení. Toto právo lze uplatnit nejpozději při výměně vodoměru. Provozovatel je povinen na základě písemné žádosti odběratele do 30 dnů ode dne doručení žádosti zajistit přezkoušení vodoměru u subjektu oprávněného provádět státní metrologickou kontrolu měřidel, přičemž odběratel je povinen poskytnout provozovateli k odečtu i výměně vodoměru nezbytnou součinnost. Výsledek přezkoušení oznámí provozovatel neprodleně písemně odběrateli.
+Zjistí-li se při přezkoušení vodoměru vyžádaném odběratelem, že
+údaje vodoměru nesplňují některý z požadavků stanovených zvláštním právním předpisem, vodoměr se považuje za nefunkční; stanovení množství dodané vody se v tom případě provádí podle skutečného odběru ve stejném období roku předcházejícímu tomu období, které je předmětem reklamace nebo žádosti o přezkoušení vodoměru. V případě, že takové údaje nejsou k dispozici, nebo jsou zjevně zpochybnitelné, stanoví se množství dodané vody podle následného odběru ve stejném období roku nebo podle směrných čísel spotřeby vody a podle odstavce 6, pokud se provozovatel s odběratelem nedohodne jinak,
+údaje vodoměru splňují požadavky stanovené zvláštním právním předpisem, hradí náklady spojené s výměnou a přezkoušením vodoměru odběratel,
+pozbylo platnosti ověření vodoměru podle zvláštního právního předpisu, považuje se vodoměr za nefunkční; stanovení množství dodané vody se v případě nesouhlasu odběratele provede postupem uvedeným v písmenu a),
+vodoměr je nefunkční, hradí náklady spojené s jeho výměnou a přezkoušením provozovatel.
+Zjistí-li provozovatel nebo odběratel při kontrole nebo výměně vodoměru, že vodoměr údaje o množství dodávané vody nezaznamenává, vypočte se množství dodané vody za příslušné období nebo jeho část podle dodávek ve stejném období minulého roku, nebo jde-li o nový odběr nebo změnu, v odběrových poměrech podle množství dodávané vody v následujícím srovnatelném období, případně jiným způsobem dohodnutým s odběratelem.
+Při reklamaci podle § 16 odst. 4 a vypořádání vyplývajícím ze zjištění podle odstavců 4 a 5 se za období k vypořádání považuje období od posledního skutečně provedeného odečtu vodoměru předcházejícího skutečnému odečtu vodoměru na základě kterého došlo k výměně vodoměru do dne výměny vodoměru, související s reklamací nebo žádostí o jeho přezkoušení.
+Byla-li nefunkčnost nebo poškození vodoměru způsobena nedostatečnou ochranou vodoměru odběratelem nebo přímým zásahem odběratele vedoucím k poškození vodoměru, hradí újmu a náklady spojené s výměnou vodoměru odběratel.
+Odběratel si může na svůj náklad osadit na vnitřním vodovodu vlastní podružný vodoměr (například pro byt, ubytovnu, prodejnu, výrobnu, pronajaté prostory). Odpočet z podružného vodoměru nemá vliv na určení množství provozovatelem dodané vody.
+Obecné technické podmínky měření množství dodané vody, způsob výpočtu dodané vody, není-li osazen vodoměr, a způsob vypořádání rozdílů podle výsledků přezkoušení vodoměrů stanoví prováděcí právní předpis.
+Odvádění odpadních vod
+Odvedení odpadních vod z pozemku nebo stavby je splněno okamžikem vtoku odpadních vod z kanalizační přípojky do kanalizace.
+Kanalizací mohou být odváděny odpadní vody jen v limitech znečištění a v množství stanoveném v kanalizačním řádu a ve smlouvě o odvádění odpadních vod. Odběratel je povinen v místě a rozsahu stanoveném kanalizačním řádem kontrolovat míru znečištění vypouštěných odpadních vod do kanalizace.
+V případě, že je kanalizace ukončena čistírnou odpadních vod, není dovoleno vypouštět do této kanalizace odpadní vody přes septiky a čistírny odpadních vod, pokud se nejedná o čistírny odpadních vod k odstranění znečištění, které převyšuje limity znečištění uvedené kanalizačním řádem.
+Měření odváděných odpadních vod
+Množství odpadních vod vypouštěných do kanalizace měří odběratel svým měřicím zařízením, jestliže to stanoví kanalizační řád. Umístění a typ měřicího zařízení se určí ve smlouvě uzavřené mezi odběratelem a vlastníkem vodovodu nebo kanalizace, popřípadě provozovatelem; nedojde-li k uzavření smlouvy, určí umístění a typ měřicího zařízení vodoprávní úřad. Měřicí zařízení podléhá úřednímu ověření podle zvláštních právních předpisů a toto ověřování zajišťuje na své náklady odběratel. Provozovatel je oprávněn průběžně kontrolovat funkčnost a správnost měřicího zařízení a odběratel je povinen umožnit provozovateli přístup k tomuto měřicímu zařízení.
+Odběratel, který vypouští do kanalizace odpadní vody s obsahem zvlášť nebezpečných látek, je povinen v souladu s povolením vodoprávního úřadu měřit míru znečištění a objem odpadních vod a množství zvlášť nebezpečných látek vypouštěných do kanalizace, vést o nich evidenci a výsledky měření předávat vodoprávnímu úřadu, který povolení vydal.
+Má-li provozovatel pochybnosti o správnosti měření nebo zjistí-li závadu na měřicím zařízení, má právo požadovat přezkoušení měřicího zařízení. Odběratel je povinen na základě písemné žádosti provozovatele do 30 dnů od doručení žádosti zajistit přezkoušení měřicího zařízení u autorizované zkušebny. Výsledek přezkoušení oznámí písemně odběratel neprodleně provozovateli.
+Zjistí-li se při přezkoušení měřicího zařízení vyžádaném provozovatelem, že
+údaje měřicího zařízení se odchylují od skutečnosti více, než připouští technický předpis tohoto měřicího zařízení, měřicí zařízení se považuje za nefunkční; v tomto případě hradí náklady spojené s výměnou a přezkoušením měřicího zařízení odběratel,
+údaje měřicího zařízení se neodchylují od skutečnosti více, než připouští příslušný technický předpis, hradí náklady spojené s výměnou a přezkoušením měřicího zařízení provozovatel,
+měřicí zařízení je vadné, hradí náklady spojené s jeho výměnou a přezkoušením odběratel, který je též povinen neprodleně zajistit jeho výměnu za správné a funkční měřicí zařízení.
+Pokud není množství vypouštěných odpadních vod měřeno, předpokládá se, že odběratel, který odebírá vodu z vodovodu, vypouští do kanalizace takové množství vody, které odpovídá zjištění na vodoměru nebo směrným číslům roční potřeby vody, pokud nejsou instalovány vodoměry. V případě, kdy je měřen odběr z vodovodu, ale je také možnost odběru z jiných zdrojů, použijí se ke zjištění spotřeby vody směrná čísla roční potřeby nebo se k naměřenému odběru z vodovodu připočte množství vody získané z jiných, provozovatelem vodovodu měřených zdrojů.
+Není-li množství srážkových vod odváděných do jednotné kanalizace přímo přípojkou nebo přes uliční vpust měřeno, vypočte se toto množství způsobem, který stanoví prováděcí právní předpis. Výpočet množství srážkových vod odváděných do jednotné kanalizace musí být uveden ve smlouvě o odvádění odpadních vod.
+Jestliže odběratel vodu dodanou vodovodem zčásti spotřebuje bez vypuštění do kanalizace a toto množství je prokazatelně větší než 30 m3 za rok, zjistí se množství vypouštěné odpadní vody do kanalizace buď měřením, nebo odborným výpočtem podle technických propočtů předložených odběratelem a ověřených provozovatelem, pokud se předem provozovatel s odběratelem nedohodli jinak.
+Vypořádání rozdílů z nefunkčního měření podle výsledku přezkoušení měřicího zařízení se provádí od odečtu, který předcházel tomu odečtu, který byl důvodem žádosti o přezkoušení měřicího zařízení.
+Vypouští-li odběratel do kanalizace vodu z jiných zdrojů než z vodovodu a není-li možno zjistit množství vypouštěné odpadní vody měřením nebo jiným způsobem stanoveným prováděcím právním předpisem, zjistí se množství vypouštěných odpadních vod odborným výpočtem ověřeným provozovatelem.
+Obecné technické podmínky měření množství vypouštěných odpadních vod, způsob výpočtu množství vypouštěných odpadních vod a způsob výpočtu množství srážkových vod odváděných do jednotné kanalizace, není-li měření zavedeno, směrná čísla spotřeby vody a způsob vypořádání rozdílů stanoví prováděcí právní předpis.
+Vodné a stočné
+Vodné a stočné má jednosložkovou nebo dvousložkovou formu.
+Jednosložková forma je součinem ceny podle cenových předpisů a množství odebrané vody podle § 16 nebo vypouštěných odpadních vod a srážkových vod podle § 19.
+Dvousložková forma obsahuje složku, která je součinem ceny podle cenových předpisů a množství odebrané vody podle § 16 nebo vypouštěných odpadních vod a srážkových vod podle § 19 a pevnou složku stanovenou v závislosti na kapacitě vodoměru, profilu přípojky nebo ročního množství odebrané vody. Podíl jednotlivých složek stanoví cenový předpis. Způsob výpočtu pevné složky stanoví prováděcí právní předpis.
+Vodné a stočné se hradí v jednosložkové formě, pokud obec nestanoví obecně závaznou vyhláškou vydanou v samostatné působnosti úhradu vodného a stočného ve dvousložkové formě, včetně druhu stanovení pevné složky. O úhradě vodného a stočného ve dvousložkové formě včetně druhu stanovení pevné složky může také rozhodnout nejvyšší orgán právnické osoby, která je vlastníkem vodovodů a kanalizací a ve které výkon hlasovacích práv nejméně ve dvoutřetinové většině drží obce.
+Je-li voda dodávána vlastníkem vodovodu, popřípadě jeho provozovatelem jiné osobě, než je odběratel, rozhoduje o formě vodného vlastník tohoto vodovodu.
+Povinnost platit za odvádění srážkových vod do kanalizace pro veřejnou potřebu se nevztahuje na plochy dálnic, silnic, místních komunikací a účelových komunikací veřejně přístupných, plochy drah celostátních a regionálních včetně pevných zařízení potřebných pro přímé zajištění bezpečnosti a plynulosti drážní dopravy s výjimkou staveb, pozemků nebo jejich částí využívaných pro služby, které nesouvisí s činností provozovatele dráhy nebo drážního dopravce, zoologické zahrady, veřejná a neveřejná pohřebiště a plochy nemovitostí určených k trvalému bydlení a na domácnosti.
+Povinnost platit vodné a stočné se nevztahuje na jednotky požární ochrany při záchranných a likvidačních pracích.
+Vlastník vodovodu nebo kanalizace, popřípadě jejich provozovatel, pokud tak vyplývá ze smlouvy uzavřené podle § 8 odst. 2, je povinen předložit odběrateli na jeho žádost úplný výpočet ceny pro vodné a stočné podle struktury uvedené v odstavci 9.
+Členění nákladových položek, jejich obsah, objemové a množstevní položky a jejich podíl při výpočtu ceny podle cenových předpisů pro vodné a stočné stanoví prováděcí právní předpis.
+KRIZOVÁ SITUACE A VEŘEJNÁ SLUŽBA
+Krizová situace
+Podmínky nouzového zásobování pitnou vodou a nouzového odvádění odpadních vod za krizové situace upravují zvláštní právní předpisy, v jejichž rámci provozovatelé vodovodů nebo kanalizací podle svých možností zabezpečují odborné služby.
+Za krizové situace jsou provozovatelé povinni informovat na vyžádání ministerstvo a orgány krizového řízení o stavu zásobování pitnou vodou.
+Krajské úřady připravují systémové zajištění nouzového zásobování pitnou vodou a odvádění odpadních vod za krizových situací u vybraných provozovatelů vodovodů a kanalizací pro území kraje.
+Povinnost veřejné služby provozovatele vodovodu nebo kanalizace
+Veřejnou službou se pro účely tohoto zákona rozumí činnost provozovatele v oboru zásobování vodou, odvádění odpadních vod a jejich čištění, která
+přesahuje zajišťování běžných služeb podle tohoto zákona a není smluvně zajištěna nebo plněna, zejména činnost při ohrožení veřejného zdraví, životního prostředí, majetku a veřejného pořádku, nebo
+vznikla ztrátou schopnosti stávajícího provozovatele zajišťovat dodávku vody nebo odvádění odpadních vod podle tohoto zákona.
+Povinnost veřejné služby lze uložit provozovateli, který má k jejímu zajištění vytvořeny potřebné podmínky; tato povinnost vzniká rozhodnutím příslušného orgánu veřejné správy (§ 26 až 28). Rozhodnutí se vydává na dobu určitou, nejdéle však na dobu 1 roku. Odvolání proti tomuto rozhodnutí nemá odkladný účinek.
+Po dobu vykonávání povinnosti veřejné služby přechází právo na vodné a stočné na toho, komu je tato povinnost uložena. V případě provozně souvisejícího vodovodu nebo kanalizace, při jejichž provozování nelze vybírat vodné a stočné, hradí prokázané náklady vzniklé rozhodnutím určenému provozovateli vlastník, popřípadě provozovatel, který pitnou vodu odebírá nebo odpadní vody předává.
+Vlastník vodovodu nebo kanalizace je povinen umožnit provozovateli plnění povinnosti veřejné služby podle odstavce 2.
+V případech podle odstavce 1 písm. a), které se netýkají provozu vodovodů nebo kanalizací, hradí prokázané náklady vzniklé rozhodnutím příslušného orgánu veřejné správy o uložení povinnosti veřejné služby tento orgán veřejné správy.
+OCHRANA VODOVODNÍCH ŘADŮ A KANALIZAČNÍCH STOK
+Ochranná pásma vodovodních řadů a kanalizačních stok
+K bezprostřední ochraně vodovodních řadů a kanalizačních stok před poškozením se vymezují ochranná pásma vodovodních řadů a kanalizačních stok (dále jen „ochranná pásma“).
+Ochrannými pásmy se rozumí prostor v bezprostřední blízkosti vodovodních řadů a kanalizačních stok určený k zajištění jejich provozuschopnosti. Ochranná pásma vodních zdrojů podle zvláštního zákona tímto nejsou dotčena.
+Ochranná pásma jsou vymezena vodorovnou vzdáleností od vnějšího líce stěny potrubí nebo kanalizační stoky na každou stranu
+u vodovodních řadů a kanalizačních stok do průměru 500 mm včetně, 1,5 m,
+u vodovodních řadů a kanalizačních stok nad průměr 500 mm, 2,5 m,
+u vodovodních řadů nebo kanalizačních stok o průměru nad 200 mm, jejichž dno je uloženo v hloubce větší než 2,5 m pod upraveným povrchem, se vzdálenosti podle písmene a) nebo b) od vnějšího líce zvyšují o 1,0 m.
+V ochranném pásmu vodovodního řadu nebo kanalizační stoky lze
+provádět zemní práce, stavby, umísťovat konstrukce nebo jiná podobná zařízení či provádět činnosti, které omezují přístup k vodovodnímu řadu nebo kanalizační stoce nebo které by mohly ohrozit jejich technický stav nebo plynulé provozování,
+vysazovat trvalé porosty,
+provádět skládky mimo skládek jakéhokoliv odpadu,
+provádět terénní úpravy,
+jen s písemným souhlasem vlastníka vodovodu nebo kanalizace, popřípadě provozovatele, pokud tak vyplývá ze smlouvy uzavřené podle § 8 odst. 2.
+Nezíská-li osoba, která hodlá provádět činnosti uvedené v odstavci 4, souhlas podle odstavce 4, může požádat stavební úřad o povolení k těmto činnostem. Stavební úřad může v těchto případech tyto činnosti v ochranném pásmu povolit a současně stanovit podmínky pro jejich provedení. Přitom přihlédne k technickým možnostem řešení při současném zabezpečení ochrany vodovodního řadu nebo kanalizační stoky a k technickobezpečnostní ochraně zájmů dotčených osob. Souvisí-li činnost se záměrem stavby nebo jiným záměrem povolovaným podle stavebního zákona, rozhodne stavební úřad o povolení této činnosti ve výrokové části rozhodnutí o povolení záměru.
+Při porušení povinnosti stanovené v odstavci 4 nařídí stavební úřad obnovit předešlý stav.
+Vlastník vodovodu nebo kanalizace, popřípadě provozovatel, pokud tak vyplývá ze smlouvy uzavřené podle § 8 odst. 2, je povinen na žádost poskytnout informaci žadateli o možném střetu jeho záměru s ochranným pásmem vodovodního řadu nebo kanalizační stoky a další údaje podle zvláštního zákona. Při zasahování do terénu, včetně zásahů do pozemních komunikací nebo jiných staveb v ochranném pásmu, je stavebník, v jehož zájmu se tyto zásahy provádějí, povinen na svůj náklad neprodleně přizpůsobit nové úrovni povrchu veškerá zařízení a příslušenství vodovodního řadu a kanalizační stoky mající vazbu na terén, pozemní komunikaci nebo jinou stavbu. Tyto práce smí provádět pouze s vědomím a se souhlasem vlastníka vodovodu nebo kanalizace, popřípadě provozovatele, pokud tak vyplývá ze smlouvy uzavřené podle § 8 odst. 2.
+Přeložky vodovodů a kanalizací
+Přeložkou vodovodu nebo kanalizace se rozumí dílčí změna jejich směrové nebo výškové trasy nebo přemístění některých prvků tohoto zařízení.
+Přeložku je možno provést jen s písemným souhlasem vlastníka vodovodu nebo kanalizace. Žádost o souhlas musí obsahovat stanovisko provozovatele. Tím nejsou dotčeny povinnosti vyplývající ze zvláštních právních předpisů.
+Přeložku vodovodu nebo kanalizace zajišťuje na vlastní náklad osoba, která potřebu přeložky vyvolala, pokud zákon o pozemních komunikacích nestanoví jinak.
+Vlastnictví vodovodu nebo kanalizace se po provedení přeložky nemění.
+Stavebník přeložky je povinen předat vlastníkovi vodovodu nebo kanalizace dokončenou stavbu neprodleně poté, co nastaly právní účinky kolaudačního rozhodnutí, a to včetně příslušné dokumentace skutečného provedení stavby a souvisejících dokladů.
+PŮSOBNOST ORGÁNŮ VEŘEJNÉ SPRÁVY
+Veřejnou správu na úseku vodovodů a kanalizací podle tohoto zákona vykonávají
+obecní úřady,
+obecní úřady obcí s rozšířenou působností a újezdní úřady na území vojenských újezdů,
+stavební úřady,
+krajské úřady,
+ministerstvo,
+Ministerstvo obrany.
+Obce v samostatné působnosti
+dbají o rozvoj vodovodů a kanalizací, odpovídající potřebám obce, zajištěním jeho zapracování do územně plánovací dokumentace obce v souladu s plánem rozvoje vodovodů a kanalizací,
+vydávají obecně závazné vyhlášky ve věcech stanovených tímto zákonem podle § 9 odst. 11 a § 20 odst. 4.
+Obecní úřady v přenesené působnosti rozhodují o povinnosti veřejné služby podle § 22 na území obce, pokud obec není provozovatelem.
+Není-li tímto zákonem stanoveno jinak, vykonávají státní správu na úseku vodovodů a kanalizací obecní úřady obcí s rozšířenou působností a újezdní úřady na území vojenských újezdů jako vodoprávní úřady.
+Obecní úřady obcí s rozšířenou působností a újezdní úřady na území vojenských újezdů
+rozhodují o povinnostech veřejné služby podle § 22,
+rozhodují o vydání opatření obecné povahy podle § 15 odst. 4 až 6,
+schvalují kanalizační řády podle § 14 odst. 3, pokud k jejich schvalování není příslušný krajský úřad,
+zajišťují soulad kanalizačních řádů vlastníků provozně souvisejících kanalizací z hlediska kapacitních a kvalitativních možností.
+Kraje v samostatné působnosti zabezpečují zpracování, aktualizace a schvalování plánů rozvoje vodovodů a kanalizací podle § 4.
+Krajské úřady v přenesené působnosti
+vydávají, mění nebo ruší povolení provozovat vodovod nebo kanalizaci na území kraje podle § 6,
+povolují výjimku podle § 13 odst. 2,
+rozhodují o povinnosti veřejné služby podle § 22, jestliže se vodovod nebo kanalizace nacházejí na území více správních obvodů obcí s obecními úřady s rozšířenou působností,
+připravují systémové zajištění nouzového zásobování pitnou vodou a odvádění odpadních vod za krizových situací,
+schvalují kanalizační řády podle § 14 odst. 3, pokud jsou jimi stanoveny podmínky pro vypouštění odpadních vod s obsahem zvlášť nebezpečné závadné látky nebo prioritní nebezpečné látky do kanalizace.
+Stavební úřady
+rozhodují o uložení povinnosti připojit se na kanalizaci podle § 3 odst. 8,
+rozhodují o změně v užívání stavby vodovodní nebo kanalizační přípojky a části vnitřního vodovodu nebo vnitřní kanalizace podle § 3a odst. 2 a 3,
+rozhodují o rozsahu oprávnění podle § 7 odst. 3,
+rozhodují o povolení k činnostem v ochranném pásmu vodovodního řadu nebo kanalizační stoky podle 23 odst. 5 a o nařízení obnovy předešlého stavu podle § 23 odst. 6,
+provádějí kontrolu a projednávají přestupky v případech, kdy jim o věci přísluší rozhodovat podle písmen a) až d).
+Ministerstvo
+je pro účely tohoto zákona odvolacím orgánem pro rozhodnutí vydaná krajským úřadem v prvním stupni,
+zajišťuje zpracování a aktualizace plánu rozvoje vodovodů a kanalizací pro území státu,
+projednává a eviduje navrhované změny a aktualizace plánů rozvoje vodovodů a kanalizací pro území krajů a pro území státu,
+zajišťuje mezinárodní spolupráci v oblasti vodovodů a kanalizací,
+vede seznam technických auditorů,
+vyhlašuje provedení technického auditu.
+V působnosti ministerstva je dále regulace oboru vodovodů a kanalizací, ochrana spotřebitelů a podpora hospodářské soutěže v prostředí přirozeného monopolu tohoto oboru, k uspokojování požadavků na dodávku pitné vody, odvádění a čištění odpadních vod včetně nákladů, zajištění dohledu nad zpracováním a plněním plánů financování obnovy vodovodů a kanalizací a poskytování objektivních informací z oboru vodovodů a kanalizací veřejnosti.
+Ministerstvo v rámci své působnosti podle odstavce 2 rozhoduje o
+zrušení povolení k provozování vodovodů a kanalizací podle § 6 odst. 9,
+bilančních nárocích na zdroje zásobování pitnou vodou ze skupinových vodovodů a vodárenských soustav, nedojde-li k dohodě jejich vlastníka nebo provozovatele s jednotlivými vlastníky nebo provozovateli připojených vodovodů.
+Ministerstvo dále
+vede ústřední evidenci údajů o vodovodech a kanalizacích,
+zabezpečuje informační systém na úseku vodovodů a kanalizací pro podporu výkonu veřejné správy,
+provádí vzájemná porovnání cen podle cenových předpisů pro vodné a stočné, nákladů a zisku u kalkulací, tvorby a čerpání prostředků na obnovu, a zveřejňuje výsledky,
+provádí vyhodnocení údajů podle § 8 odst. 12 a § 9 odst. 12 a zveřejňuje je,
+poskytuje odbornou spolupráci cenovým kontrolním orgánům,
+spolupracuje s Úřadem pro ochranu hospodářské soutěže,
+kontroluje plnění povinností podle toho zákona vlastníky a provozovateli vodovodů nebo kanalizací, zjistí-li závady, může uložit nápravná opatření k jejich odstranění.
+Zaměstnanci ministerstva jsou oprávněni
+vstupovat do objektů sloužících k poskytování dodávky pitné vody, odvádění a čištění odpadních vod,
+nahlížet do všech účetních a jiných dokladů vlastníků nebo provozovatelů vodovodů nebo kanalizací, nezbytných k výkonu regulace, pořizovat jejich kopie a požadovat vysvětlení; o skutečnostech, o nichž se dozvěděli v souvislosti s touto činností, jsou povinni zachovávat mlčenlivost, a to ještě 2 roky po skončení pracovního poměru.
+Ustanoveními odstavců 2 a 5 není dotčena působnost Úřadu pro ochranu hospodářské soutěže.
+Ministerstvo obrany vykonává působnost ústředního úřadu na území vojenských újezdů ve věcech, v nichž je založena působnost újezdního úřadu podle § 25.
+Ministerstvo pro výkon působnosti podle tohoto zákona využívá ze základního registru obyvatel tyto údaje:
+jméno, popřípadě jména, příjmení,
+datum, místo a okres narození, u subjektu údajů, který se narodil v cizině, datum, místo a stát, kde se narodil,
+státní občanství, popřípadě více státních občanství,
+adresa místa pobytu,
+datum, místo a okres úmrtí, jde-li o úmrtí subjektu údajů mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který nepřežil.
+Ministerstvo pro výkon působnosti podle tohoto zákona využívá z informačního systému evidence obyvatel tyto údaje:
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum narození,
+pohlaví,
+místo a okres narození; v případě narození v cizině, místo a stát,
+rodné číslo,
+státní občanství, popřípadě více státních občanství,
+adresa místa trvalého pobytu,
+datum, místo a okres úmrtí; jde-li o úmrtí státního občana České republiky mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo,
+den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti, popřípadě jako den, který nepřežil.
+Ministerstvo pro výkon působnosti podle tohoto zákona využívá z informačního systému cizinců tyto údaje:
+jméno, popřípadě jména, příjmení,
+datum narození,
+rodné číslo,
+pohlaví,
+místo a stát narození; v případě, že se cizinec narodil na území České republiky, místo a okres narození,
+státní občanství, popřípadě více státních občanství,
+druh a adresa místa pobytu na území České republiky,
+datum, místo a okres úmrtí; jde-li o úmrtí mimo území České republiky, stát, na jehož území k úmrtí došlo, popřípadě datum úmrtí.
+Ministerstvo pro výkon působnosti podle tohoto zákona využívá ze základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci kromě veřejně přístupných údajů tyto údaje:
+jméno, popřípadě jména, a příjmení podnikající fyzické osoby nebo zahraniční osoby a
+adresa místa pobytu v České republice, popřípadě bydliště v zahraničí podnikající fyzické osoby nebo zahraniční osoby.
+Z údajů podle odstavců 1 až 4 lze v konkrétním případě využít vždy jen takové údaje, které jsou nezbytné ke splnění daného úkolu.
+Údaje, které jsou vedeny jako referenční údaje v základním registru obyvatel, se využijí z informačního systému evidence obyvatel nebo z informačního systému cizinců, pouze pokud jsou ve tvaru předcházejícím současný stav.
+Místní příslušnost
+Místní příslušnost orgánů veřejné správy na úseku vodovodů a kanalizací se řídí místem, kde se vodovod nebo kanalizace nacházejí.
+Jestliže se vodovod nebo kanalizace nacházejí na území obvodů více orgánů veřejné správy, je místně příslušný orgán veřejné správy, v jehož územním obvodu leží převažující část vodovodu nebo kanalizace.
+PŘESTUPKY
+Přestupky fyzických osob
+Fyzická osoba se dopustí přestupku tím, že
+bez souhlasu vlastníka nebo provozovatele vodovodu nebo kanalizace podle § 23 odst. 5
+provádí zemní práce, stavby, umísťuje konstrukce nebo jiná podobná zařízení či provádí činnosti, které omezují přístup k vodovodnímu řadu nebo kanalizační stoce nebo které by mohly ohrozit jejich technický stav nebo plynulé provozování,
+vysazuje trvalé porosty,
+provádí skládky mimo skládek jakéhokoliv odpadu, nebo
+provádí terénní úpravy,
+v rozporu s § 7 odst. 1 znemožní vstup na pozemky nebo stavby v souvislosti s údržbou vodovodu nebo kanalizace nebo za účelem splnění povinností spojených s provozováním vodovodu nebo kanalizace,
+poškodí vodovod nebo kanalizaci nebo jejich součásti či příslušenství,
+neoprávněně manipuluje se zařízením vodovodů nebo kanalizací,
+vypustí do kanalizace látky, které nejsou odpadními vodami,
+provozuje vodovod nebo kanalizaci bez povolení orgánu veřejné správy podle § 6, nebo
+v rozporu s § 11 odst. 2 propojí vodovod pro veřejnou potřebu včetně jeho přípojek a na ně napojených vnitřních rozvodů s jiným zdrojem vody, než je vodovod pro veřejnou potřebu.
+Fyzická osoba se jako vlastník vodovodu nebo kanalizace dopustí přestupku tím, že
+nezajistí průběžné vedení majetkové evidence svých vodovodů nebo kanalizací podle § 5 odst. 1,
+nezajistí průběžné vedení provozní evidence svých vodovodů nebo kanalizací podle § 5 odst. 2,
+v rozporu s § 5 odst. 3 nepředá vodoprávnímu úřadu vybrané údaje z majetkové evidence vodovodů a kanalizací a z jejich provozní evidence v termínu a v elektronické podobě a ve stanoveném formátu, nebo je předá neúplné či chybné,
+nezajistí plynulé a bezpečné provozování vodovodu nebo kanalizace podle § 8 odst. 1,
+neupraví vzájemná práva s vlastníkem provozně souvisejícího vodovodu nebo kanalizace podle § 8 odst. 3,
+neumožní napojení vodovodu nebo kanalizace jiného vlastníka podle § 8 odst. 4,
+neumožní připojení na vodovod nebo kanalizaci podle § 8 odst. 5,
+neuzavře písemnou smlouvu o dodávce vody nebo odvádění odpadních vod s odběratelem podle § 8 odst. 6,
+v rozporu s § 8 odst. 11
+nevypracuje nebo nerealizuje plán financování obnovy vodovodů a kanalizací,
+zpracuje plán financování obnovy vodovodů a kanalizací odchylně od prováděcího právního předpisu vydaného k provedení ustanovení § 8 odst. 11, nebo
+nevytváří prostředky na obnovu nebo nedoloží doklady o použití prostředků na obnovu podle § 8 odst. 1.
+neposkytne údaje o technickém stavu svého vodovodu nebo kanalizace podle § 8 odst. 12,
+v rozporu s § 20 odst. 8 odběrateli
+nepředloží na jeho žádost výpočet ceny pro vodné a stočné, nebo
+předloží výpočet neúplný nebo ve struktuře, která neodpovídá prováděcímu právnímu předpisu vydanému k provedení tohoto ustanovení,
+v rozporu s § 22 odst. 3 nehradí prokázané náklady vzniklé rozhodnutím určenému provozovateli, nebo
+neumožní provozovateli plnění povinnosti veřejné služby podle § 22 odst. 4,
+v rozporu s § 36 odst. 5 jako vlastník nebo provozovatel
+nezveřejní informace o celkovém vyúčtování porovnání všech položek výpočtu ceny pro vodné a stočné v předchozím kalendářním roce, nebo
+nezdůvodní vykázaný rozdíl nebo nezašle vyúčtování ministerstvu ve stanoveném formátu elektronického předání, nebo
+neposkytne k provedení technického auditu údaje vyžádané orgánem uvedeným v § 38 odst. 2.
+Fyzická osoba se jako vlastník vodovodu dopustí přestupku tím, že neumožní přístup k vodovodu a bezplatný odběr vody jednotkám požární ochrany při záchranných a likvidačních pracích, pokud není v místě dostupný jiný dostatečný zdroj vody.
+Fyzická osoba se jako vlastník kanalizace dopustí přestupku tím, že nemá rozhodnutím vodoprávního úřadu schválený kanalizační řád této kanalizace.
+Fyzická osoba se jako odběratel dopustí přestupku tím, že
+v rozporu s § 3 odst. 4 nezajistí, aby vodovodní přípojka byla provedena a užívána tak, aby nemohlo dojít ke znečištění vody ve vodovodu,
+v rozporu s § 10 odst. 1 neoprávněně odebere vodu z vodovodu,
+v rozporu s § 10 odst. 2 neoprávněně vypouští odpadní vody do kanalizace,
+odebírá vodu z vodovodu v rozporu s § 15 odst. 2,
+odebírá nebo užívá pitnou vodu z vodovodu pro veřejnou potřebu v rozporu s § 15 odst. 4 nebo 7,
+v rozporu s § 18 odst. 2 odvádí odpadní vody v rozporu s kanalizačním řádem nebo smlouvou o odvádění odpadních vod,
+neprovede úpravy na připojované stavbě nebo pozemku podle § 17 odst. 1,
+v rozporu s § 17 odst. 2 neposkytne nezbytnou součinnost provozovateli k odečtu nebo výměně vodoměru podle § 17 odst. 3 nebo nechrání vodoměr před poškozením anebo bez zbytečného odkladu neoznámí provozovateli závady v měření,
+v rozporu s § 18 odst. 2 nekontroluje v místě a rozsahu stanoveném kanalizačním řádem míru znečištění vypouštěných odpadních vod do kanalizace,
+vypouští do kanalizace odpadní vody, které převyšují limity znečištění a množství stanovené v kanalizačním řádu a ve smlouvě o odvádění odpadních vod,
+v rozporu s § 18 odst. 3 vypouští do kanalizace odpadní vody přes septik nebo čistírnu odpadních vod v případě, že je kanalizace ukončena čistírnou odpadních vod,
+neumožní provozovateli přístup k měřicímu zařízení množství odpadních vod v případech podle § 19 odst. 1,
+v rozporu s § 19 odst. 2 neměří míru znečištění a objem odpadních vod a množství zvlášť nebezpečných látek vypouštěných do kanalizace, nevede o nich evidenci nebo výsledky měření nepředá vodoprávnímu úřadu, který povolení vydal,
+nezajistí na základě písemné žádosti provozovatele přezkoušení měřicího zařízení u autorizované zkušebny podle § 19 odst. 3, nebo
+nezajistí, aby kanalizační přípojka byla provedena jako vodotěsná a tak, aby nedošlo ke zmenšení průtočného profilu stoky, do které je zaústěna.
+Fyzická osoba se jako stavebník přeložky vodovodu nebo kanalizace dopustí přestupku tím, že nepředá vlastníkovi vodovodu nebo kanalizace dokončenou stavbu neprodleně poté, co nastaly právní účinky kolaudačního rozhodnutí, a to včetně příslušné dokumentace skutečného provedení stavby a souvisejících dokladů.
+Za přestupek lze uložit pokutu
+do 10 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), odstavce 2 písm. c), h) nebo i) bodu 2, odstavce 2 písm. j) nebo k) bodu 1 nebo 2, odstavce 2 písm. n) bodu 1 anebo odstavce 5 písm. g) až i) nebo l) až n),
+do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) až d), odstavce 2 písm. a), b) nebo n) bodu 2 anebo odstavce 5 písm. a) až e),
+do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. e), f) nebo g), odstavce 2 písm. e), g) nebo i) bodu 1 nebo 3, odstavce 5 písm. f), j), k) nebo o) anebo odstavce 6,
+do 200 000 Kč, jde-li o přestupek podle odstavce 2 písm. f), l) nebo o) anebo odstavce 3 nebo 4, nebo
+do 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. d) nebo m).
+Přestupky právnických a podnikajících fyzických osob
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+bez souhlasu vlastníka nebo provozovatele vodovodu nebo kanalizace podle § 23 odst. 5
+provádí zemní práce, stavby, umísťuje konstrukce nebo jiná podobná zařízení či provádí činnosti, které omezují přístup k vodovodnímu řadu nebo kanalizační stoce nebo které by mohly ohrozit jejich technický stav nebo plynulé provozování,
+vysazuje trvalé porosty,
+provádí skládky mimo skládek jakéhokoliv odpadu, nebo
+provádí terénní úpravy,
+v rozporu s § 7 odst. 1 znemožní vstup na pozemky nebo stavby v souvislosti s údržbou vodovodu nebo kanalizace nebo za účelem splnění povinností spojených s provozováním vodovodu nebo kanalizace podle § 7 odst. 1,
+poškodí vodovod nebo kanalizaci nebo jejich součásti či příslušenství,
+neoprávněně manipuluje se zařízením vodovodů nebo kanalizací,
+vypustí do kanalizace látky, které nejsou odpadními vodami,
+provozuje vodovod nebo kanalizaci bez povolení orgánu veřejné správy podle § 6, nebo
+v rozporu s § 11 odst. 2 propojí vodovod pro veřejnou potřebu včetně jeho přípojek a na ně napojených vnitřních rozvodů s jiným zdrojem vody, než je vodovod pro veřejnou potřebu.
+Právnická nebo podnikající fyzická osoba se jako vlastník vodovodu nebo kanalizace dopustí přestupku tím, že
+nezajistí průběžné vedení majetkové evidence svých vodovodů nebo kanalizací podle § 5 odst. 1,
+nezajistí průběžné vedení provozní evidence svých vodovodů nebo kanalizací podle § 5 odst. 2,
+v rozporu s § 5 odst. 3 nepředá vodoprávnímu úřadu vybrané údaje z majetkové evidence vodovodů a kanalizací a z jejich provozní evidence v termínu a ve stanovené formě elektronického předání, nebo je předá neúplné či chybné,
+nezajistí plynulé a bezpečné provozování vodovodu nebo kanalizace podle § 8 odst. 1,
+neupraví vzájemná práva s vlastníkem provozně souvisejícího vodovodu nebo kanalizace podle § 8 odst. 3,
+neumožní napojení vodovodu nebo kanalizace jiného vlastníka podle § 8 odst. 4,
+v rozporu s § 8 odst. 11
+nevypracuje nebo nerealizuje plán financování obnovy vodovodů a kanalizací,
+zpracuje plán financování obnovy vodovodů a kanalizací odchylně od prováděcího právního předpisu vydaného k provedení ustanovení § 8 odst. 11, nebo
+nevytváří prostředky na obnovu nebo nedoloží doklady o použití prostředků na obnovu podle § 8 odst. 1,
+neposkytne údaje o technickém stavu svého vodovodu nebo kanalizace podle § 8 odst. 12,
+v rozporu s § 22 odst. 3 nehradí prokázané náklady vzniklé rozhodnutím určenému provozovateli, nebo
+neumožní provozovateli plnění povinnosti veřejné služby podle § 22 odst. 4.
+Právnická nebo podnikající fyzická osoba se jako vlastník vodovodu nebo kanalizace nebo jako provozovatel dopustí přestupku tím, že
+neumožní připojení na vodovod nebo kanalizaci podle § 8 odst. 5,
+neuzavře písemnou smlouvu o dodávce vody nebo odvádění odpadních vod s odběratelem podle § 8 odst. 6, nebo nepostupuje v souladu s ustanovením § 36 odst. 2,
+v rozporu s § 20 odst. 8 odběrateli
+nepředloží na jeho žádost výpočet ceny pro vodné a stočné, nebo
+předloží výpočet neúplný nebo ve struktuře, která neodpovídá prováděcímu právnímu předpisu vydanému k provedení tohoto ustanovení,
+v rozporu s § 36 odst. 5 jako vlastník nebo provozovatel
+nezveřejní informace o celkovém vyúčtování porovnání všech položek výpočtu ceny pro vodné a stočné v předchozím kalendářním roce, nebo
+nezdůvodní vykázaný rozdíl nebo nezašle vyúčtování ministerstvu ve stanoveném formátu elektronického předání, nebo
+neposkytne k provedení technického auditu údaje vyžádané orgánem uvedeným v § 38 odst. 2.
+Právnická nebo podnikající fyzická osoba se jako vlastník vodovodu nebo jako provozovatel vodovodu dopustí přestupku tím, že neumožní přístup k vodovodu nebo bezplatný odběr vody jednotkám požární ochrany při záchranných a likvidačních pracích, pokud není v místě dostupný jiný dostatečný zdroj vody.
+Právnická nebo podnikající fyzická osoba se jako vlastník kanalizace dopustí přestupku tím, že nemá rozhodnutím vodoprávního úřadu schválený kanalizační řád této kanalizace.
+Právnická nebo podnikající fyzická osoba se jako provozovatel dopustí přestupku tím, že
+provozuje vodovod nebo kanalizaci v rozporu s požadavky podle § 9 odst. 1,
+nepředá obci přehled zjištěných ukazatelů jakosti vody podle § 9 odst. 3,
+nesdělí stavebníkovi přeložky vodovodu nebo kanalizace stanovisko k navrhované přeložce vodovodu nebo kanalizace podle § 9 odst. 4,
+neoznámí odběrateli přerušení nebo omezení dodávky vody nebo odvádění odpadních vod ve lhůtách stanovených podle § 9 odst. 7 písm. a) nebo b),
+odebírá k úpravě na vodu pitnou povrchovou vodu nebo podzemní vodu, jež v místě odběru nesplňuje požadavky na jakost surové vody v rozporu s § 13 odst. 2,
+v rozporu s § 13 odst. 3 neprovádí odběry vzorků surové vody v místě odběru před vlastní úpravou nebo neprovádí jejich rozbory a celkové výsledky nepředává krajskému úřadu jednou ročně do 31. března za předchozí kalendářní rok,
+nezajistí provádění odběrů vzorků odpadní vody a její rozbory § 14 odst. 5,
+nezajistí přezkoušení vodoměru u subjektu oprávněného provádět státní metrologickou kontrolu měřidel podle § 17 odst. 3,
+neinformuje za krizové situace o stavu zásobování pitnou vodou podle § 21 odst. 2, nebo
+v rozporu s § 36 odst. 6 neoznámí zhoršení jakosti dodávané pitné vody nebo v návaznosti na toto oznámení nepostupuje podle zvláštního právního předpisu.
+Právnická nebo podnikající fyzická osoba se jako odběratel dopustí přestupku tím, že
+v rozporu s § 3 odst. 4 nezajistí, aby vodovodní přípojka byla provedena a užívána tak, aby nemohlo dojít ke znečištění vody ve vodovodu,
+v rozporu s § 10 odst. 1 neoprávněně odebere vodu z vodovodu,
+v rozporu s § 10 odst. 2 neoprávněně vypouští odpadní vody do kanalizace,
+odebírá vodu z vodovodu v rozporu s § 15 odst. 2,
+odebírá nebo užívá pitnou vodu z vodovodu pro veřejnou potřebu v rozporu s § 15 odst. 4 nebo 7,
+odvádí odpadní vody v rozporu s kanalizačním řádem nebo smlouvou o odvádění odpadních vod podle § 18 odst. 2,
+neprovede úpravy na připojované stavbě nebo pozemku podle § 17 odst. 1,
+neposkytne nezbytnou součinnost provozovateli k odečtu nebo výměně vodoměru podle § 17 odst. 3 nebo nechrání vodoměr před poškozením anebo bez zbytečného odkladu neoznámí provozovateli závady v měření,
+nekontroluje v místě a rozsahu stanoveném kanalizačním řádem míru znečištění vypouštěných odpadních vod do kanalizace podle § 18 odst. 2,
+vypouští do kanalizace odpadní vody, které převyšují limity znečištění a množství stanovené v kanalizačním řádu a ve smlouvě o odvádění odpadních vod,
+v rozporu s § 18 odst. 3 vypouští do kanalizace odpadní vody přes septik nebo přes čistírnu odpadních vod v případě, že je kanalizace ukončena čistírnou odpadních vod,
+v rozporu s § 19 odst. 1 neumožní provozovateli přístup k měřicímu zařízení množství odpadních vod,
+v rozporu s § 19 odst. 2 neměří míru znečištění a objem odpadních vod a množství zvlášť nebezpečných látek vypouštěných do kanalizace, nevede o nich evidenci nebo výsledky měření nepředá vodoprávnímu úřadu, který povolení vydal, nebo
+nezajistí na základě písemné žádosti provozovatele přezkoušení měřicího zařízení u autorizované zkušebny podle § 19 odst. 3.
+Právnická nebo podnikající fyzická osoba se jako stavebník přeložky vodovodu nebo kanalizace dopustí přestupku tím, že nepředá vlastníkovi vodovodu nebo kanalizace dokončenou stavbu neprodleně poté, co nastaly právní účinky kolaudačního rozhodnutí, a to včetně příslušné dokumentace skutečného provedení stavby a souvisejících dokladů.
+Za přestupek lze uložit pokutu
+do 10 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), odstavce 2 písm. c) nebo g) bodu 2, odstavce 2 písm. h), odstavce 3 písm. b) nebo c) bodu 1 nebo 2, odstavce 3 písm. d) bodu 1, odstavce 6 písm. b) až d) nebo g) anebo h) nebo odstavce 7 písm. g) až n),
+do 50 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) až d), odstavce 2 písm. a) nebo b), odstavce 3 písm. d) bodu 2 nebo podle odstavce 7 písm. a) až d),
+do 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. e), f) nebo g), odstavce 2 písm. e) nebo g) bodu 1 nebo 3, odstavce 3 písm. a), odstavce 6 písm. e), f), i) nebo j), odstavce 7 písm. e) nebo f) anebo odstavce 8,
+do 200 000 Kč, jde-li o přestupek podle odstavce 2 písm. f) nebo i), odstavce 3 písm. e), anebo odstavce 4 nebo 5, nebo
+do 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. d), j) nebo odstavce 6 písm. a).
+Společná ustanovení
+Je-li přestupek podle tohoto zákona spáchán opakovaně po nabytí právní moci rozhodnutí o přestupku, uloží se pokuta do výše dvojnásobku horní hranice sazeb uvedených v § 32 odst. 7 nebo v § 33 odst. 9. Přestupek je spáchán opakovaně, jestliže od nabytí právní moci rozhodnutí o stejném přestupku, z něhož byl obviněný uznán vinným, do jeho spáchání neuplynulo 12 měsíců.
+Přestupky podle § 32 odst. 1 až 6 a podle § 33 odst. 1 písm. a) až e) a g), odst. 7 a 8 projednává stavební úřad, v jehož správním obvodu došlo ke spáchání přestupku. Přestupky podle § 33 odst. 1 písm. f) a odst. 2 až 6 projednává krajský úřad, v jehož správním obvodu došlo ke spáchání přestupku. Přestupky na území vojenských újezdů projednají újezdní úřady a ve druhém stupni Ministerstvo obrany.
+Pokuty vybírá orgán, který je uložil.
+OCHRANA ODBĚRATELE, DOZOR, TECHNICKÝ A EKONOMICKÝ AUDIT
+Ochrana odběratele
+Pokud je pozemek nebo stavba připojena na vodovod nebo kanalizaci v souladu s právními předpisy, vzniká odběrateli nárok na uzavření písemné smlouvy podle § 8 odst. 6. Tento nárok nevzniká, pokud se okolnosti, za kterých došlo k povolení připojení na vodovod nebo kanalizaci, změnily natolik, že nejsou splněny podmínky pro uzavření této smlouvy na straně odběratele.
+Vlastník vodovodu nebo kanalizace, popřípadě provozovatel, pokud byl k uzavírání smluv zmocněn, nesmí při uzavírání smlouvy podle § 8 odst. 6 jednat v rozporu s dobrými mravy, zejména nesmí odběratele diskriminovat.
+Vlastník vodovodu nebo kanalizace, popřípadě provozovatel, pokud je k tomu vlastníkem zmocněn, je povinen předat obecnímu úřadu obce, v jejímž obvodu zajišťuje provoz vodovodu nebo kanalizace, informaci s platnými údaji pro možné odběratele k uzavření písemné smlouvy podle § 8 odst. 6, o
+rozsahu zmocnění předaných identifikovaným vlastníkem vodovodu nebo kanalizace identifikovanému provozovateli smlouvou podle § 8 odst. 2,
+jakosti a tlaku dodávané pitné vody a maximální míře znečištění odváděných odpadních vod s uvedením místa zveřejňování aktuálních informací,
+způsobu zjišťování množství odebírané vody včetně stanovení způsobů umístění vodoměrů, způsobu zjišťování množství odpadních vod, výpočtu odváděných srážkových vod a o možných výjimkách,
+technických požadavcích na vnitřní vodovod a vnitřní kanalizaci včetně zakázaných materiálů pro vnitřní rozvod,
+technických požadavcích na přípojky,
+fakturaci, případné zálohové platbě a o způsobu vyúčtování,
+rozsahu a podmínkách odpovědnosti za vady, způsobu a místě jejich uplatnění, včetně nároků vyplývajících z této odpovědnosti (reklamační řád),
+možnostech přerušení nebo omezení dodávky vody a odvádění odpadních vod a o podmínkách náhradních dodávek vody a náhradního odvádění odpadních vod a údajích o způsobu informování osob, které tyto služby využívají,
+případných smluvních pokutách.
+Obecní úřad v přenesené působnosti zajistí, aby veřejnosti byly zpřístupněny informace o podmínkách pro uzavření smlouvy podle § 8 odst. 6 uvedených v odstavci 3.
+Vlastník vodovodu nebo kanalizace, popřípadě provozovatel, pokud je k tomu vlastníkem zmocněn, je povinen nejpozději do 30. dubna kalendářního roku způsobem uvedeným v prováděcím právním předpisu zveřejnit porovnání všech položek výpočtu ceny podle cenových předpisů pro vodné a stočné a dosažené skutečnosti v předchozím kalendářním roce. Vykázaný rozdíl vyšší než 5 % hodnot kalkulovaných musí být zdůvodněn. Porovnání je vlastník vodovodu nebo kanalizace, popřípadě provozovatel, povinen zaslat ve stejném termínu a v elektronické podobě a ve stanovené formě ministerstvu. V případě, že v předchozím kalendářním roce bylo zpracováno více kalkulací cen pro vodné a stočné, zveřejní se každá platná kalkulace a na ministerstvo se zašle ve stanoveném elektronickém způsobu předání i součtová kalkulace.
+Provozovatel je povinen po zjištění zhoršení jakosti dodávané pitné vody bez prodlení toto oznámit orgánu ochrany veřejného zdraví a krajskému úřadu a dále postupovat podle zvláštního právního předpisu.
+Obsah a rozsah porovnání podle odstavce 5 a formu předávání porovnání všech položek výpočtu ceny pro vodné a stočné stanoví prováděcí právní předpis.
+Povinnost zveřejnit informace podle odstavce 4 nebo 5 se považuje za splněnou okamžikem předání údajů podle odstavce 4 nebo 5 obecnímu úřadu obce, které se týká. Obec informace podle
+odstavce 4 zveřejní na úřední desce obecního úřadu nebo oznámí, kde jsou tyto informace zpřístupněny,
+odstavce 5 zveřejní na úřední desce obecního úřadu bezodkladně po předání těchto údajů, nejpozději však do 2 dnů, na dobu nejméně 30 kalendářních dnů.
+Dozor
+Obecní úřady obcí s rozšířenou působností, krajské úřady, stavební úřady a újezdní úřady na území vojenských újezdů vykonávají v rozsahu své působnosti založené tímto zákonem jako vodoprávní úřady dozor nad dodržováním tohoto zákona a předpisů podle něj vydaných a mohou ukládat opatření k odstranění zjištěných závad.
+Ministerstvo dozírá, jak orgány veřejné správy na úseku vodovodů a kanalizací, s výjimkou území vojenských újezdů, provádějí ustanovení tohoto zákona a předpisů podle něj vydaných, a jak jsou dodržována rozhodnutí orgánu veřejné správy vydaná podle tohoto zákona. Zjistí-li závady, může uložit opatření k jejich odstranění.
+Ministerstvo obrany dozírá, jak újezdní úřady na území vojenských újezdů provádějí ustanovení tohoto zákona a předpisů podle něj vydaných, a jak jsou dodržována rozhodnutí újezdních úřadů vydaná podle tohoto zákona. Zjistí-li závady, může uložit opatření k jejich odstranění.
+Technický audit
+Technický audit vodovodů a kanalizací (dále jen „technický audit“) je specializovaná odborná činnost sloužící ke kontrole technického stavu vodovodů a kanalizací, oprávněnosti vynaložených provozních nákladů, jakož i pořizovacích nákladů a nákladů navrhovaného rozvoje vodovodů a kanalizací.
+Provedení technického auditu ministerstvo vyhlásí z vlastního podnětu nebo z podnětu obce, vlastníka nebo provozovatele vodovodu nebo kanalizace, vodoprávního úřadu, krajského úřadu, Úřadu pro ochranu hospodářské soutěže nebo Ministerstva financí. Vlastník nebo provozovatel vodovodu nebo kanalizace je povinen poskytnout k provedení technického auditu potřebné údaje. Na vyhlášení technického auditu není právní nárok.
+Výsledkem technického auditu je zpráva se zjištěními a doporučeními ke zlepšení hospodárnosti provozu nebo rozvoje vodovodů a kanalizací.
+Technický audit je zpracován na náklady toho, kdo k němu dal podnět. Zpráva o technickém auditu se předává tomu, kdo k němu dal podnět, a ministerstvu.
+K provedení technického auditu vybere ten, kdo k němu dal podnět, technického auditora ze seznamu technických auditorů vedeného ministerstvem. Ministerstvo zapíše na dobu 7 let do seznamu technických auditorů odborně způsobilou osobu, která má vysokoškolské vzdělání se zaměřením na obor vodovodů a kanalizací, praxi v tomto oboru nejméně 10 let a byla vybrána ministerstvem.
+Obsah a využití technických auditů a bližší podmínky pro zápis odborně způsobilé fyzické osoby do seznamu technických auditorů stanoví prováděcí právní předpis.
+Pro osoby zapsané ministerstvem do seznamu technických auditorů k provádění technického auditu platí ustanovení § 37 odst. 3 obdobně.
+Působnosti stanovené krajskému úřadu, obecnímu úřadu obce s rozšířenou působností nebo obecnímu úřadu podle tohoto zákona jsou výkonem přenesené působnosti.

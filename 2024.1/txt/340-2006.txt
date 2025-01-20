@@ -1,0 +1,425 @@
+OBECNÁ USTANOVENÍ
+Předmět úpravy
+Tento zákon zapracovává příslušné předpisy Evropské unie, zároveň navazuje na přímo použitelný předpis Evropské unie a upravuje
+podmínky provozování zaměstnaneckého penzijního pojištění institucemi se sídlem v České republice,
+provozování zaměstnaneckého penzijního pojištění institucemi zaměstnaneckého penzijního pojištění, kterým bylo uděleno povolení k této činnosti v jiném členském státě Evropské unie než České republice nebo jiném státě, který je smluvní stranou Dohody o Evropském hospodářském prostoru, na území České republiky,
+dohled nad činností těchto institucí na území České republiky.
+Tento zákon se nevztahuje na nemocenské pojištění, důchodové pojištění, veřejné zdravotní pojištění, penzijní připojištění se státním příspěvkem, doplňkové penzijní spoření a životní pojištění podle zvláštních právních předpisů.
+Vymezení pojmů
+V tomto zákoně se rozumí
+institucí instituce zaměstnaneckého penzijního pojištění, bez ohledu na její právní formu, která je
+provozována na principu fondového hospodaření,
+zřízena odděleně od jakéhokoli přispěvatele nebo odvětvového svazu přispěvatelů pro účely poskytování důchodových dávek v souvislosti se zaměstnáváním fyzických osob na základě dohody nebo smlouvy dohodnuté individuálně nebo kolektivně mezi zaměstnavatelem, popřípadě více zaměstnavateli, a zaměstnancem, popřípadě více zaměstnanci nebo jejich příslušnými zástupci, nebo dohodnuté s osobami samostatně výdělečně činnými, a vykonává činnosti z toho přímo vyplývající, a
+povolena v domovském členském státě podle jeho právních předpisů,
+institucí se sídlem v České republice instituce zaměstnaneckého penzijního pojištění, která je provozována a zřizována za obdobných podmínek, jak je uvedeno v písmeni a) bodech 1 a 2,
+členským státem členský stát Evropské unie nebo jiný stát, který je smluvní stranou Dohody o Evropském hospodářském prostoru,
+domovským členským státem jiný členský stát než Česká republika, ve kterém má instituce sídlo, nebo, pokud nemá sídlo, své hlavní správní ústředí,
+hostitelským členským státem jiný členský stát než Česká republika, jehož sociální a pracovněprávní předpisy pro oblast zaměstnaneckého penzijního pojištění se použijí pro vztah mezi přispěvatelem a účastníkem,
+příslušným orgánem orgán členského státu, který podle právních předpisů tohoto státu vykonává dohled nad činností institucí a další činnosti v zaměstnaneckém penzijním pojištění,
+přispěvatelem právnická osoba nebo podnikající fyzická osoba, která jako zaměstnavatel platí příspěvky instituci na zaměstnanecké penzijní pojištění ve prospěch svých zaměstnanců, anebo ve svůj prospěch, je-li zaměstnavatelem osoba samostatně výdělečně činná,
+účastníkem fyzická osoba, jejímž zaměstnavatelem je přispěvatel a jejíž zaměstnanecká činnost ji opravňuje nebo bude opravňovat k pobírání důchodových dávek v souladu s penzijním plánem instituce, popřípadě osoba samostatně výdělečně činná, je-li přispěvatelem a k pobírání důchodových dávek ji opravňuje nebo bude opravňovat penzijní plán instituce,
+příjemcem fyzická osoba pobírající důchodové dávky,
+penzijním plánem smlouva, dohoda, svěřenecká listina nebo jiná pravidla instituce stanovující, které důchodové dávky jsou ze zaměstnaneckého penzijního pojištění poskytovány a za jakých podmínek,
+důchodovými dávkami dávky vyplácené ze zaměstnaneckého penzijního pojištění při splnění podmínek stanovených penzijním plánem,
+biometrickými riziky rizika spojená s úmrtím, invaliditou a dlouhověkostí,
+čekací dobou doba zaměstnání požadovaná pro zahájení účasti na zaměstnaneckém penzijním pojištění,
+důchodovými právy práva na důchodové dávky nebo jiná plnění ze zaměstnaneckého penzijního pojištění,
+aktivním účastníkem účastník, jemuž na základě stávajícího zaměstnání nebo samostatné výdělečné činnosti vzniklo nebo po splnění podmínek pro nabytí důchodových práv vznikne právo na důchodové dávky,
+dobou pro nabytí práv doba aktivní účasti na zaměstnaneckém penzijním pojištění požadovaná pro nabytí důchodových práv,
+čekatelem na důchod bývalý aktivní účastník, který důchodová práva nabyl, avšak důchodové dávky nepobírá,
+odloženými důchodovými právy nabytá důchodová práva uchovaná v rámci zaměstnaneckého penzijního pojištění, v němž byla nashromážděna čekatelem na důchod,
+hodnotou odložených důchodových práv kapitálová hodnota důchodových práv vypočítaná k určitému dni v souladu s penzijním plánem instituce,
+odcházejícím zaměstnancem aktivní účastník, jehož stávající zaměstnání nebo samostatná výdělečná činnost končí, aniž u něj byly splněny podmínky pro pobírání důchodové dávky, a který bude pracovat v jiném členském státě,
+pozůstalým osoba, která má důchodová práva v případě úmrtí účastníka v souladu s penzijním plánem instituce,
+potenciálním účastníkem osoba, která je způsobilá k účasti v penzijním plánu,
+převádějící institucí instituce, která převádí závazky, technické rezervy a další práva a povinnosti, jakož i odpovídající aktiva nebo jejich peněžní ekvivalent, vyplývající z penzijního plánu nebo jejich část na instituci povolenou v jiném členském státě,
+přijímající institucí instituce, která přijímá závazky, technické rezervy a další práva a povinnosti, jakož i odpovídající aktiva nebo jejich peněžní ekvivalent, vyplývající z penzijního plánu nebo jejich část od instituce povolené v jiném členském státě,
+trvalým nosičem dat nástroj, který umožňuje účastníkovi nebo příjemci uchovávat informace určené jemu osobně tak, aby mohly být využívány po dobu přiměřenou účelu těchto informací, a který umožňuje reprodukci těchto informací v nezměněné podobě,
+přeshraniční činností provozování zaměstnaneckého penzijního pojištění, při němž se vztah mezi přispěvatelem a účastníky a příjemci řídí sociálními a pracovněprávními předpisy pro oblast zaměstnaneckého penzijního pojištění jiného členského státu, než je domovský členský stát.
+ČINNOST INSTITUCÍ ZAMĚSTNANECKÉHO PENZIJNÍHO POJIŠTĚNÍ Z JINÝCH ČLENSKÝCH STÁTŮ EVROPSKÉ UNIE NEBO JINÝCH STÁTŮ, KTERÉ JSOU SMLUVNÍ STRANOU DOHODY O EVROPSKÉM HOSPODÁŘSKÉM PROSTORU, NA ÚZEMÍ ČESKÉ REPUBLIKY
+Příslušný orgán v České republice
+Příslušným orgánem v České republice podle této části zákona je Česká národní banka.
+Česká národní banka při výkonu své působnosti podle této části zákona spolupracuje s Ministerstvem práce a sociálních věcí, a to v otázkách spadajících do jeho působnosti.
+Informační povinnosti České národní banky
+Česká národní banka
+sdělí příslušnému orgánu domovského členského státu ve lhůtě 6 týdnů ode dne, kdy od něj obdržela informace o záměru instituce provozovat zaměstnanecké penzijní pojištění v České republice, včetně hlavní charakteristiky penzijního plánu, a označení konkrétního přispěvatele
+požadavky právních předpisů České republiky vztahujících se k zaměstnaneckému penzijnímu pojištění,
+informace o investičních limitech, které se vztahují na činnost instituce v České republice,
+rozsah informací, které je instituce povinna poskytovat účastníkům a příjemcům v České republice,
+informuje příslušné orgány jiných členských států o významných změnách právních předpisů České republiky vztahujících se k zaměstnaneckému penzijnímu pojištění,
+informuje příslušný orgán domovského členského státu o tom, že instituce porušila povinnost stanovenou právním předpisem České republiky vztahujícím se k provozování zaměstnaneckému penzijnímu pojištění,
+spolupracuje s příslušnými orgány jiných členských států, Evropským orgánem pro pojišťovnictví a zaměstnanecké penzijní pojištění a Evropskou komisí v oblasti provozování zaměstnaneckému penzijnímu pojištění a poskytuje jim informace týkající se jednání institucí na území České republiky,
+vede seznam institucí, které provozují v České republice penzijní plány, a příslušných orgánů členských států, které tyto instituce v domovském členském státě povolily; seznam je veřejně přístupný způsobem umožňujícím dálkový přístup.
+Činnost instituce na území České republiky
+Instituce může na území České republiky vykonávat činnost, pokud
+jí bylo uděleno povolení příslušným orgánem domovského členského státu k provozování zaměstnaneckého penzijního pojištění a
+Česká národní banka informovala příslušný orgán domovského členského státu podle § 4 písm. a) nebo uplynula lhůta podle § 4 písm. a).
+Instituce uvedená v odstavci 1 vykonává svoji činnost na území České republiky v souladu s uděleným povolením k činnosti, právními předpisy domovského členského státu a právními předpisy České republiky vztahujícími se k zaměstnaneckému penzijnímu pojištění.
+Instituce uvedená v odstavci 1 může na území České republiky provozovat pouze zaměstnanecké penzijní pojištění.
+Penzijní plány
+Účast zaměstnanců na zaměstnaneckém penzijním pojištění a přispěvatelů v České republice je dobrovolná.
+Penzijní plány institucí provozujících zaměstnanecké penzijní pojištění v České republice musí splnit podmínky podle § 6a a 6b a musí vždy upravovat
+poskytování důchodových dávek alespoň pro případ dosažení stanoveného věku a úmrtí; stanovený věk nesmí být přitom vyšší než 65 let,
+formy vyplácení důchodových dávek; jednou z forem výplaty důchodových dávek musí být doživotní důchod,
+možnost převodu důchodových práv z penzijního plánu na jinou instituci v případě ukončení zaměstnání účastníka u přispěvatele, pokud o to účastník požádá; důchodová práva účastníka mohou být při tomto převodu krácena jen o výdaje související s tímto převodem, přičemž druhy těchto výdajů musí být uvedeny v penzijním plánu,
+vrácení příspěvků zaplacených účastníkem v případech, kdy
+příspěvky platil též účastník a účastníku nevzniklo právo na důchodové dávky, nebo
+s tímto vrácením za podmínek stanovených penzijním plánem souhlasí účastník a přispěvatel,
+postup výpočtu hodnoty odložených důchodových práv.
+Ustanovení § 6a, 6b a 7a se nevztahují na invalidní nebo pozůstalostní dávky, není-li dále stanoveno jinak.
+Ustanovení § 6a, 6b a 7a se nevztahují na penzijní plány institucí, pokud jsou v platnosti opatření mající za cíl zachovat nebo obnovit finanční stabilitu instituce nebo v případě, že instituce vstoupila do likvidace.
+Instituce uveřejní na svých internetových stránkách obecné informace o penzijním plánu zahrnující zejména informace o podmínkách podle odstavce 2 a informace podle § 7 odst. 3.
+Podmínky nabytí důchodových práv
+Je-li nabytí důchodových práv podmíněno
+dobou pro nabytí práv nebo čekací dobou, nesmí celkový souhrn těchto dob u odcházejícího zaměstnance přesáhnout 3 roky,
+dosažením minimálního věku, nesmí stanovený minimální věk být u odcházejícího zaměstnance vyšší než 21 let.
+Pokud bylo zaměstnání nebo samostatná výdělečná činnost skončena dříve, než odcházející zaměstnanec nabyl důchodová práva, vzniká mu v souladu s penzijním plánem instituce právo
+na náhradu výše příspěvků jím zaplacených nebo zaplacených za odcházejícího zaměstnance v souladu s kolektivní nebo jinou smlouvou, kterou se řídí práva a povinnosti zaměstnaneckého penzijního pojištění, nebo
+na celkovou výši zaplacených příspěvků, anebo na výši investiční hodnoty těchto příspěvků ke dni skončení zaměstnání, jestliže investiční riziko nese odcházející zaměstnanec.
+Zachování odložených důchodových práv
+Jde-li o odložená důchodová práva, vypočítá se počáteční hodnota těchto práv ke dni skončení stávajícího zaměstnání odcházejícího zaměstnance.
+S odloženými důchodovými právy odcházejícího zaměstnance a jeho pozůstalých nebo s jejich hodnotou je instituce povinna zacházet obdobně jako s hodnotou důchodových práv aktivních účastníků nebo v souladu s vývojem vyplácených důchodových dávek, nebo způsobem podle odstavce 3, 4 nebo 5.
+Jsou-li důchodová práva nabyta jako právo na nominální částku, musí být alespoň zachována nominální hodnota odložených důchodových práv.
+Mění-li se hodnota nashromážděných důchodových práv v čase, musí být hodnota odložených důchodových práv upravena pomocí úrokové míry, nebo pomocí výnosů z investic.
+Je-li hodnota nashromážděných důchodových práv upravena podle míry inflace nebo výše mezd a platů, musí být hodnota odložených důchodových práv upravena obdobně.
+Jiná ujednání v kolektivní smlouvě
+Kolektivní smlouva může stanovit pravidla odlišná od pravidel stanovených podle § 6a nebo 6b, pokud nejsou pro odcházející zaměstnance méně příznivá a nevytvářejí překážky volného pohybu osob.
+Informace poskytované účastníkům a příjemcům
+Informace předávané institucí účastníkům a příjemcům v České republice musí být poskytovány minimálně v rozsahu odpovídajícím informační povinnosti stanovené institucím v domovském členském státě.
+Instituce je povinna zajistit každému účastníku při vzniku účasti na zaměstnaneckém penzijním pojištění dostatečnou informovanost o podmínkách penzijního plánu, zejména o právech a povinnostech všech stran zúčastněných na penzijním plánu a o finančních, technických a jiných rizicích spojených s penzijním plánem. Instituce je dále povinna písemně informovat účastníky a příjemce o každé změně penzijního plánu, pokud se tato změna přímo týká účastníka nebo příjemce, a to do 2 měsíců.
+Instituce je povinna každý rok poskytnout účastníkům a příjemcům informace o
+instituci s uvedením členského státu, ve kterém je povolena, její finanční situaci a názvu příslušného orgánu dohledu,
+právech a povinnostech stran zúčastněných na penzijním plánu,
+investičním profilu, případně možnosti výběru z více dostupných investičních profilů a pravidlech pro zařazení účastníka k těmto profilům,
+povaze finančních rizik, která nesou účastníci a příjemci,
+podmínkách týkajících se záruk v rámci penzijního plánu nebo určité výše dávek, anebo o tom, že se v rámci penzijního plánu neposkytuje žádná záruka,
+způsobu ochrany nabytých důchodových práv a o způsobu snížení dávek, připadá-li to v úvahu,
+dosavadní výkonnosti investic souvisejících s penzijním plánem za období alespoň 5 kalendářních let bezprostředně předcházejících kalendářnímu roku, ve kterém instituce informaci podává, nebo za období ode dne vzniku penzijního plánu, je-li toto období kratší než 5 let, jestliže účastníci nesou investiční riziko nebo mohou přijímat investiční rozhodnutí,
+struktuře nákladů, které vznikají účastníkům a příjemcům v souvislosti s penzijními plány, které nezajišťují určitou výši dávek,
+možnosti účastníků a příjemců týkající se pobírání důchodových dávek,
+doplňujících informacích pro účastníky, kteří mají právo na převod důchodových práv, týkajících se opatření pro takový převod.
+Na žádost účastníka je instituce povinna poskytnout mu podrobné a podstatné informace o
+výši případných důchodových dávek,
+částce důchodových dávek v případě ukončení zaměstnání a jiných důchodových právech podle § 7a,
+úpravě převoditelnosti důchodových práv na jinou instituci v případě ukončení zaměstnání u přispěvatele,
+investičním riziku, pokud se na něm účastník podílí, a to informace o výběru případných investičních možností a o skutečném investičním portfoliu s popisem rizik a nákladů spojených s investicemi.
+Instituce je povinna na žádost účastníků a příjemců
+zaslat jim roční účetní závěrku a výroční zprávu, která se vztahuje k příslušnému penzijnímu plánu,
+informovat je o prohlášení o zásadách investiční politiky instituce; tato povinnost se považuje za splněnou, pokud je toto prohlášení zpřístupněno alespoň v sídle přispěvatele,
+informovat je o předpokladech, které byly použity k vytvoření projekcí uvedených v § 7b odst. 3 písm. g).
+Žádost účastníků a příjemců může jejich jménem podat přispěvatel.
+Instituce je povinna informovat účastníka s náležitým předstihem před dosažením jeho věku odchodu do důchodu stanoveného zákonem nebo penzijním plánem o možnostech vyplácení důchodových dávek. Při odchodu do starobního důchodu nebo když se jiné důchodové dávky stanou splatnými, je instituce povinna každému příjemci písemně poskytnout potřebné informace o splatných důchodových dávkách a o možnostech jejich vyplácení.
+Přijme-li instituce rozhodnutí, které vede ke snížení splatných důchodových dávek, informuje o tom příjemce neprodleně po přijetí rozhodnutí, nejpozději však 3 měsíce přede dnem provedení tohoto rozhodnutí.
+Nese-li příjemce v období vyplácení důchodových dávek investiční riziko, poskytuje mu o tom instituce pravidelně náležité informace.
+Informace pro případ skončení zaměstnání nebo samostatné výdělečné činnosti
+Instituce je povinna účastníkovi na jeho žádost sdělit informace o tom, jak by skončení zaměstnání nebo samostatné výdělečné činnosti ovlivnilo jeho důchodová práva.
+Informace podle odstavce 1 zahrnují
+podmínky nabytí důchodových práv a důsledky jejich uplatnění při skončení zaměstnání nebo samostatné výdělečné činnosti,
+hodnotu nabytých důchodových práv ke dni podání žádosti nebo posouzení nabytých důchodových práv provedené nejpozději 12 měsíců přede dnem podání žádosti a
+podmínky pro zacházení s odloženými důchodovými právy.
+Umožňuje-li penzijní plán dřívější přístup k nabytým důchodovým právům prostřednictvím výplaty jejich kapitálové hodnoty, musí informace poskytované podle odstavce 1 obsahovat doporučení, aby účastník zvážil možnost poradenství týkající se investování uvedené kapitálové hodnoty pro účely důchodu.
+Instituce je povinna čekateli na důchod sdělit na jeho žádost
+hodnotu jeho odložených důchodových práv ke dni podání žádosti nebo posouzení odložených důchodových práv provedené nejpozději 12 měsíců přede dnem podání žádosti a
+podmínky pro zacházení s odloženými důchodovými právy.
+V případě výplaty pozůstalostních důchodových dávek se odstavec 4 vztahuje na pozůstalé čekatele na důchod v souladu s penzijním plánem.
+Informace podle odstavců 1 až 4 se poskytují písemně, dostatečně jasně a bez zbytečného odkladu. Penzijní plán může stanovit, že informace podle odstavců 1 až 4 budou poskytovány pouze jednou ročně.
+Přehled důchodových dávek
+Instituce vypracuje přehled důchodových dávek, kterým se pro účely tohoto zákona rozumí dokument obsahující klíčové informace pro účastníka. Při vypracování přehledu důchodových dávek instituce zohlední specifickou povahu vnitrostátních důchodových systémů a relevantních vnitrostátních sociálních, pracovněprávních a daňových předpisů.
+Instituce poskytne účastníkovi přehled důchodových dávek alespoň jednou ročně. Poskytuje-li instituce přehled důchodových dávek v elektronické podobě, poskytne jej účastníkovi také v listinné podobě, jestliže o to účastník požádá.
+Přehled důchodových dávek obsahuje alespoň
+slova „Přehled důchodových dávek“ uvedená jako nadpis dokumentu,
+den, k němuž se vztahují informace obsažené v přehledu důchodových dávek; tento den se uvede výrazněji než ostatní informace uvedené v přehledu důchodových dávek,
+identifikační údaje účastníka, včetně jednoznačného údaje o zákonem stanoveném věku odchodu do důchodu, věku odchodu do důchodu určeném v penzijním plánu nebo odhadovaném institucí, nebo věku odchodu do důchodu určeném účastníkem,
+název a kontaktní adresu instituce,
+označení penzijního plánu účastníka,
+připadá-li to v úvahu, informace o plných nebo částečných zárukách v rámci penzijního plánu a případně o tom, kde lze získat doplňující informace,
+informace o projekci důchodových dávek v závislosti na věku odchodu do důchodu uvedeném v písmenu c) a prohlášení, že se tato projekce může lišit od konečné hodnoty vyplacených dávek; pokud projekce důchodových dávek vycházejí z ekonomických scénářů, zahrnují tyto informace také odhad nejlepšího scénáře a nepříznivého scénáře s ohledem na konkrétní povahu penzijního plánu,
+informace o získaných nárocích nebo akumulovaném kapitálu s ohledem na konkrétní povahu penzijního plánu,
+informace o příspěvcích, které do penzijního plánu odvedli přispěvatel a účastník, a to alespoň za posledních 12 kalendářních měsíců, předcházejících dni podle písmene b) přičemž se zohlední konkrétní povaha penzijního plánu,
+rozpis nákladů odečtených institucí, a to alespoň za posledních 12 měsíců,
+informace o celkové úrovni financování penzijního plánu.
+Přehled důchodových dávek obsahuje dále údaj o tom, kde a jakým způsobem lze získat doplňující informace včetně
+dalších praktických informací o možnostech, které se účastníkovi nabízejí podle penzijního plánu,
+informací o ročních účetních závěrkách, výročních zprávách a prohlášeních o zásadách investiční politiky,
+informací o předpokladech použitých pro částky vyjádřené jako anuita, zejména pokud jde o sazbu anuity, druh poskytovatele a trvání anuity, připadá-li to v úvahu,
+informací o výši dávek v případě skončení zaměstnání nebo samostatné výdělečné činnosti,
+informací o tom, že účastníkovi je přiřazena určitá investiční možnost podle pravidla určeného penzijním plánem, připadá-li to v úvahu.
+Instituce při vypracování projekcí důchodových dávek zohlední informace týkající se vývoje inflace uveřejňované Českou národní bankou.
+Každá podstatná změna informací obsažených v přehledu důchodových dávek oproti předchozímu roku musí být jasně vyznačena.
+Informace poskytované potenciálním účastníkům
+Nejsou-li potenciální účastníci zařazeni do penzijního plánu automaticky, poskytne jim instituce před tím, než se stanou účastníky, informace o
+možnostech, které mají k dispozici, včetně investičních možností,
+obsahu penzijního plánu včetně druhu dávek,
+tom, zda a jak daný investiční přístup zohledňuje environmentální, klimatické a sociální faktory a faktory týkající se správy a řízení instituce,
+místě, kde lze získat doplňující informace.
+Jsou-li potenciální účastníci zařazeni do penzijního plánu automaticky, poskytne jim instituce informace podle odstavce 1 neprodleně poté, co se stanou účastníky. V případě, že je při postupu automatického zařazení činná i osoba oprávněná distribuovat pojištění, poskytne neprodleně informace o své osobě podle zákona upravujícího distribuci pojištění a zajištění.
+Nesou-li účastníci investiční riziko nebo mohou-li přijímat investiční rozhodnutí, poskytne instituce potenciálním účastníkům informace o dosavadní výkonnosti investic souvisejících s penzijním plánem za období alespoň 5 kalendářních let bezprostředně předcházejících kalendářnímu roku, ve kterém instituce informaci podává, nebo za období od vzniku penzijního plánu, je-li toto období kratší než 5 let, a o struktuře nákladů, které nesou účastníci a příjemci.
+Společné ustanovení o způsobu poskytování informací
+Informace podle § 7 až 7c se poskytují bezplatně v elektronické formě na trvalém nosiči dat nebo prostřednictvím internetové stránky, v českém jazyce, jasným, stručným a srozumitelným způsobem a musí být aktuální a snadno čitelné s jednotnou terminologií i obsahem, nesmí být klamavé ani zavádějící a nesmí obsahovat žargon ani technické výrazy, lze-li místo nich použít běžná slova. Na požádání se poskytují bezplatně v listinné podobě.
+Dohled České národní banky
+Činnost instituce na území České republiky podléhá dohledu České národní banky nad dodržováním povinností stanovených právními předpisy vztahujícími se k zaměstnaneckému penzijnímu pojištění. Za tímto účelem je Česká národní banka oprávněna požadovat od instituce předložení dokumentů a poskytnutí informací a vysvětlení, které se týkají provozování zaměstnaneckého penzijního pojištění, zejména řádných účetních závěrek, výročních zpráv a prohlášení o zásadách investiční politiky.
+Po předchozím oznámení České národní bance je příslušný orgán domovského členského státu oprávněn vykonat kontrolu na místě u instituce, která vykonává činnost na území České republiky.
+Pokud příslušný orgán domovského členského státu instituce, která vykonává činnost na území České republiky, požádá Českou národní banku o součinnost při vykonání dohledu nad institucí, je Česká národní banka povinna této žádosti vyhovět.
+Zjistí-li Česká národní banka, že instituce, která vykonává činnost na území České republiky, porušila právní předpisy vztahující se k zaměstnaneckému penzijnímu pojištění, bez zbytečného odkladu o tom informuje příslušný orgán domovského členského státu instituce, a uvedené instituci uloží, aby ve lhůtě stanovené Českou národní bankou odstranila zjištěné nedostatky.
+Neodstraní-li instituce nedostatky podle odstavce 4, Česká národní banka požádá příslušný orgán domovského členského státu, aby neprodleně přijal potřebná opatření k odstranění zjištěných nedostatků.
+Pokud opatření, přijatá příslušným orgánem dohledu domovského členského státu, nevedou k odstranění zjištěných nedostatků v činnosti instituce, nebo nebyla-li přijata žádná opatření, může Česká národní banka, poté co informuje příslušný orgán domovského členského státu a v závislosti na povaze porušení a jeho závažnosti
+zakázat volné nakládání s aktivy instituce drženými depozitářem investičního fondu nebo zahraničního investičního fondu sídlícím na území České republiky nebo jiným subjektem sídlícím na území České republiky, který vykonává obdobnou činnost jako depozitář, nebo
+zakázat nebo omezit činnost instituce na území České republiky; informaci o zákazu nebo omezení činnosti Česká národní banka uvede v seznamu podle § 4 písm. e).
+Pořádková pokuta
+Instituci, která znemožní nebo závažně ztíží výkon dohledu Českou národní bankou tím, že jí neposkytne požadovanou součinnost podle § 8 odst. 1, může Česká národní banka uložit pořádkovou pokutu do výše 500 000 Kč.
+Pořádkovou pokutu lze uložit do 6 měsíců ode dne, kdy k protiprávnímu jednání došlo.
+Při stanovení výše pořádkové pokuty Česká národní banka dbá, aby nebyla v hrubém nepoměru k závažnosti následku a k významu předmětu řízení; pokutu lze ukládat i opakovaně. Úhrn uložených pokut nesmí u téže osoby přesáhnout 2 000 000 Kč.
+Účastníkem řízení o uložení pořádkové pokuty je pouze osoba, které má být pořádková pokuta uložena. Prvním úkonem v řízení ve věci uložení pořádkové pokuty je vydání rozhodnutí. Odvolání proti rozhodnutí o uložení pořádkové pokuty má vždy odkladný účinek.
+Pravomocně uloženou pořádkovou pokutu může Česká národní banka novým rozhodnutím prominout nebo snížit. Přitom správní orgán přihlédne zejména k tomu, jak osoba, které byla pořádková pokuta uložena, plní svoje procesní povinnosti v dalším průběhu řízení.
+Pořádkovou pokutu vybírá Česká národní banka. Příjem z pokut uložených podle tohoto zákona je příjmem státního rozpočtu.
+Přestupky
+Přestupky právnických osob
+Depozitář investičního fondu nebo zahraničního investičního fondu nebo jiný subjekt, který volně nakládá s aktivy instituce, která drží, a který má sídlo na území České republiky, a tím vykonává obdobnou činnost jako depozitář, se dopustí přestupku tím, že v rozporu s § 8 odst. 6 písm. a) nakládá s aktivy instituce, která drží.
+Instituce se dopustí přestupku tím, že
+vypočítá počáteční hodnotu odložených důchodových práv v rozporu s § 6b odst. 1,
+zachází s odloženými důchodovými právy odcházejícího zaměstnance a jeho pozůstalých nebo s jejich hodnotou v rozporu s § 6b odst. 2,
+nezachová nominální hodnotu odložených důchodových práv v případě podle § 6b odst. 3,
+upraví hodnotu odložených důchodových práv v rozporu s § 6b odst. 4,
+nesplní některou z povinností týkajících se poskytování informací podle § 7 až 7d,
+neodstraní zjištěné nedostatky v rozporu s § 8 odst. 4.
+Za přestupek lze uložit pokutu
+do 2 000 000 Kč, jde-li o přestupek podle odstavce 1 nebo podle odstavce 2 písm. a), b), c), d) nebo f),
+do 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. e).
+Přestupky podle tohoto zákona projednává Česká národní banka.
+PODMÍNKY PROVOZOVÁNÍ ZAMĚSTNANECKÉHO PENZIJNÍHO POJIŠTĚNÍ
+Provozování zaměstnaneckého penzijního pojištění institucí se sídlem v České republice musí být povoleno orgánem, který je určen provádět dohled podle této části zákona (dále jen „dohledový orgán“). Tato instituce musí být následně zapsána do seznamu institucí se sídlem v České republice, v němž se uvádí také všechny členské státy, ve kterých instituce se sídlem v České republice působí. Dohledový orgán informuje o této skutečnosti Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění.
+Výlučným předmětem činnosti instituce se sídlem v České republice je provozování zaměstnaneckého penzijního pojištění a z něho vyplývající činnosti.
+Instituce se sídlem v České republice zajistí, aby osoby, které ji skutečně řídí, a osoby, které v ní vykonávají klíčové funkce, byly důvěryhodné a způsobilé. Za způsobilou se považuje osoba, pokud má odpovídající odbornou kvalifikaci, znalosti a zkušenosti, které jí umožní řádné řízení instituce nebo řádný výkon klíčové funkce. Za důvěryhodnou se považuje osoba, jejíž dosavadní činnost dává předpoklad řádného řízení instituce nebo výkonu klíčové funkce. V případě osob, které skutečně instituci se sídlem v České republice řídí, je postačující, mají-li kolektivně odpovídající kvalifikaci, znalosti a zkušenosti, které jim umožní zajistit obezřetné řízení instituce se sídlem v České republice.
+Penzijní plán instituce se sídlem v České republice musí splňovat podmínky uvedené v § 6 a každý účastník s ním musí být prokazatelně seznámen. Účastník musí být dostatečně informován o podmínkách penzijního plánu, zejména o právech a povinnostech osob zapojených do penzijního plánu a finančních, technických a jiných rizicích spojených s penzijním plánem a o povaze a rozložení těchto rizik.
+Instituce se sídlem v České republice musí plnit informační povinnosti vůči účastníkům a příjemcům stanovené v § 7 odst. 2 až 6 obdobně.
+Instituce se sídlem v České republice musí připravit, uveřejnit na svých internetových stránkách a nejméně jednou za 3 roky přezkoumat písemné prohlášení o zásadách investiční politiky. Toto prohlášení musí bez prodlení upravit v případě každé významnější změny své investiční politiky. Prohlášení o zásadách investiční politiky obsahuje informace zejména o
+metodách hodnocení investičního rizika,
+zavedených postupech řízení rizika,
+strategickém umisťování aktiv s ohledem na povahu a trvání důchodových závazků,
+způsobech, jakými investiční politika zohledňuje environmentální a sociální faktory a faktory týkající se správy a řízení.
+Instituce se sídlem v České republice musí dodržovat řádné administrativní a účetní postupy a mít vnitřní kontrolní mechanismy odpovídající charakteru její činnosti.
+Instituce se sídlem v České republice vypracovává roční účetní závěrku a výroční zprávu s přihlédnutím ke každému penzijnímu plánu podle zákona upravujícího účetnictví. Roční účetní závěrka a informace ve výroční zprávě musí být úplné a přehledně sestavené a schváleny osobami odpovědnými za řízení instituce.
+Přispěvatel musí být odlišnou právnickou nebo podnikající fyzickou osobou od instituce se sídlem v České republice. Aktiva instituce se sídlem v České republice nespadají do majetkové podstaty přispěvatele v případě jeho úpadku.
+Přispěvatel se nesmí zaručit za výplatu důchodových dávek.
+Instituce se sídlem v České republice zveřejní na svých internetových stránkách informace podle čl. 3 odst. 1, čl. 4 odst. 1 až 4, čl. 5 odst. 1, čl. 10 odst. 1 a čl. 12 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2019/2088.
+Opatrování aktiv, nakládání s nimi a kontrola
+Instituce se sídlem v České republice zavede vhodná opatření pro předcházení a řešení střetu zájmů při plnění povinností týkajících se opatrování aktiv souvisejících s penzijním plánem, nakládání s nimi a při kontrole plnění těchto povinností.
+Za tím účelem instituce se sídlem v České republice
+zajistí, aby s finančními nástroji, které tvoří její aktiva související s penzijním plánem, bylo nakládáno s odbornou péčí a aby tyto nástroje byly dostatečně chráněny,
+vede záznamy, které jí umožní kdykoli identifikovat její aktiva související s penzijním plánem,
+na požádání informuje dohledový orgán o tom, jakým způsobem jsou její aktiva související s penzijním plánem opatrována,
+přijme nezbytná opatření k předcházení střetu zájmů v souvislosti s opatrováním aktiv,
+zajistí, aby kontrola plnění povinností týkajících se opatrování aktiv souvisejících s penzijním plánem a nakládání s nimi byla v rámci instituce se sídlem v České republice prováděna s odbornou péčí.
+Systém správy a řízení
+Instituce se sídlem v České republice zavede účinný systém správy a řízení, který umožňuje řádné a obezřetné řízení její činnosti. Tento systém zahrnuje přiměřenou a transparentní organizační strukturu s jasným rozdělením a přiměřeným oddělením povinností a účinným systémem pro zajištění předávání informací. V rámci systému správy a řízení musí být při investičních rozhodnutích zvažovány environmentální a sociální faktory a faktory správy a řízení týkající se investičních aktiv; systém správy a řízení musí být předmětem pravidelného vnitřního přezkumu. Tento systém musí být přiměřený velikosti, povaze, rozsahu a složitosti činnosti instituce se sídlem v České republice.
+Instituce se sídlem v České republice určí v písemné formě a uplatňuje zásady týkající se řízení rizik, interního auditu a případně pojistně matematické činnosti. Tyto zásady podléhají předchozímu schválení řídícím orgánem nebo dozorčím orgánem instituce se sídlem v České republice a musí být alespoň jednou za 3 roky přezkoumány a upraveny s ohledem na významné změny v dotyčném systému nebo oblasti.
+Instituce se sídlem v České republice zavede účinný systém vnitřní kontroly. Systém vnitřní kontroly zahrnuje správní a účetní postupy, rámec vnitřní kontroly a vhodné mechanismy podávání zpráv na všech úrovních instituce se sídlem v České republice.
+Instituce se sídlem v České republice přijme vhodná opatření k zajištění kontinuity a řádného výkonu svých činností, včetně vypracování pohotovostních plánů. K tomuto účelu instituce se sídlem v České republice používá vhodné a přiměřené systémy, zdroje a postupy.
+Instituce se sídlem v České republice musí mít nejméně dvě osoby, které ji skutečně řídí. Tyto osoby také zajišťují, aby instituce se sídlem v České republice dodržovala právní předpisy.
+Politika odměňování
+Instituce se sídlem v České republice zavede a uplatňuje politiku odměňování pro všechny osoby, které instituci skutečně řídí, osoby, které vykonávají klíčové funkce, a pro další kategorie zaměstnanců, jejichž odborné činnosti mají podstatný dopad na rizikový profil dané instituce, způsobem, který je přiměřený její velikosti a vnitřní organizaci, jakož i velikosti, povaze, rozsahu a složitosti její činnosti.
+Instituce se sídlem v České republice příslušné informace týkající se politiky odměňování pravidelně uveřejňuje.
+Při zavedení a uplatňování politiky odměňování dodržuje instituce se sídlem v České republice tyto zásady:
+politika odměňování je vytvořena, prováděna a udržována v souladu s činnostmi, rizikovým profilem, cíli a dlouhodobým zájmem, finanční stabilitou a fungováním instituce se sídlem v České republice jako celku a podporuje řádné, obezřetné a účinné řízení instituce,
+politika odměňování je v souladu s dlouhodobými zájmy účastníků a příjemců penzijních plánů instituce se sídlem v České republice,
+politika odměňování zahrnuje opatření, jejichž cílem je vyhnout se střetu zájmů,
+politika odměňování je v souladu s řádným a účinným řízením rizik a nepovzbuzuje k podstupování rizik, které není slučitelné s rizikovým profilem a pravidly instituce,
+obecné zásady pro politiku odměňování jsou alespoň jednou za 3 roky přezkoumány a aktualizovány,
+prvky správy a řízení týkající se odměňování a dohledu nad ním musí být jasné, transparentní a účinné,
+politika odměňování zahrnuje informace podle čl. 5 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2019/2088.
+Klíčové funkce
+Instituce se sídlem v České republice zřídí jako klíčové funkce funkci řízení rizik, funkci interního auditu a případně pojistně matematickou funkci. Instituce se sídlem v České republice umožní osobě vykonávající klíčovou funkci plnit své povinnosti účinně, objektivně, spravedlivě a nezávisle.
+Jedna osoba nebo organizační jednotka může vykonávat více než jednu klíčovou funkci, s výjimkou funkce interního auditu, která musí být nezávislá na ostatních klíčových funkcích.
+Osoba nebo organizační jednotka vykonávající určitou klíčovou funkci musí být odlišná od osoby nebo organizační jednotky, která vykonává obdobnou klíčovou funkci v přispěvateli.
+Osoba vykonávající klíčovou funkci oznámí podstatná zjištění a doporučení v oblasti, za kterou odpovídá, správnímu, řídícímu či dozorčímu orgánu instituce se sídlem v České republice.
+Osoba nebo organizační jednotka vykonávající klíčovou funkci oznámí dohledovému orgánu instituce se sídlem v České republice, že správní, řídící nebo dozorčí orgán této instituce nepřijal včas vhodná opatření, jestliže zjistila
+podstatné riziko spočívající v tom, že instituce se sídlem v České republice nedodrží věcně zásadní zákonnou povinnost, a oznámila to správnímu, řídícímu nebo dozorčímu orgánu instituce a pokud by toto zjištění mohlo mít závažný dopad na zájmy účastníků a příjemců, nebo
+zásadní porušení právních předpisů vztahujících se na instituci se sídlem v České republice a její činnost v rámci výkonu své klíčové funkce a oznámila toto zjištění správnímu, řídícímu nebo dozorčímu orgánu této instituce.
+Odstavec 5 se nepoužije, jestliže by osoba vykonávající klíčovou funkci mohla oznámením dohledovému orgánu způsobit sobě nebo osobě blízké nebezpečí stíhání pro trestný čin nebo přestupek.
+Řízení rizik
+Instituce se sídlem v České republice zřídí způsobem, který odpovídá její velikosti, vnitřní organizaci, povaze, rozsahu a složitosti její činnosti, účinnou funkci řízení rizik. Tato funkce musí být strukturována způsobem, který umožní fungování systému řízení rizik.
+V rámci systému řízení rizik instituce se sídlem v České republice přijme strategie a postupy hlášení nezbytné pro pravidelné zjišťování, měření, sledování, řízení a hlášení rizik na jednotlivé i na souhrnné úrovni, jimž je nebo by mohla být vystavena instituce se sídlem v České republice nebo penzijní plány, které provozuje. Systém řízení rizik musí být účinný a vhodně začleněný do organizační struktury a do rozhodovacích procesů instituce se sídlem v České republice.
+Systém řízení rizik se způsobem, který odpovídá velikosti a vnitřní organizaci instituce se sídlem v České republice, jakož i velikosti, povaze, rozsahu a složitosti její činnosti, vztahuje na rizika, která mohou vzniknout v instituci se sídlem v České republice, alespoň v těchto oblastech:
+upisování pojištění a tvorba technických rezerv,
+řízení aktiv a pasiv,
+investice, zejména deriváty, sekuritizace a obdobné závazky,
+řízení rizika likvidity a rizika koncentrace,
+řízení provozních rizik,
+pojištění a další techniky zmírňování rizik,
+environmentální a sociální rizika a rizika v oblasti správy a řízení související s investičním portfoliem a jeho správou.
+Nesou-li podle podmínek penzijního plánu rizika také účastníci a příjemci, systém řízení rizik zohlední tato rizika také z hlediska účastníků a příjemců.
+Instituce se sídlem v České republice při své činnosti zohlední cíl, kterým je zajištění spravedlivého rozložení rizik a přínosů mezi generacemi.
+Funkce interního auditu
+Instituce se sídlem v České republice zřídí způsobem, který odpovídá její velikosti, vnitřní organizaci, povaze, rozsahu a složitosti její činnosti, účinnou funkci interního auditu. Funkce interního auditu zahrnuje hodnocení vhodnosti a účinnosti systému vnitřní kontroly a dalších prvků správy a řízení.
+Pojistně matematická funkce
+Poskytuje-li instituce se sídlem v České republice krytí biometrických rizik nebo zaručuje-li určitý výnos investic nebo výši dávek, zřídí účinnou pojistně matematickou funkci, která zajistí
+koordinaci výpočtu technických rezerv a jeho kontrolu,
+posuzování přiměřenosti metodik a podkladových modelů používaných při výpočtu technických rezerv a předpokladů určených pro tento účel,
+posuzování dostatečnosti a kvality údajů používaných při výpočtu technických rezerv,
+srovnávání předpokladů, z nichž vychází výpočet technických rezerv, se zkušeností,
+informovanost správního, řídícího nebo dozorčího orgánu instituce o spolehlivosti a přiměřenosti výpočtu technických rezerv,
+posuzování celkové koncepce upisování, má-li instituce se sídlem v České republice takovou koncepci,
+posuzování přiměřenosti pojistných ujednání, má-li instituce se sídlem v České republice taková ujednání,
+účinné provádění systému řízení rizik.
+Instituce se sídlem v České republice jmenuje alespoň jednu nezávislou osobu, která je za fungování pojistně matematické funkce odpovědná.
+Vlastní posuzování rizik
+Instituce se sídlem v České republice provádí a zaznamenává vlastní posuzování rizik (dále jen „posuzování rizik“) způsobem, který odpovídá její velikosti, vnitřní organizaci, povaze, rozsahu a složitosti její činnosti.
+Posuzování rizik se provádí alespoň jednou za 3 roky nebo neprodleně po jakékoli významné změně rizikového profilu instituce se sídlem v České republice nebo rizikového profilu penzijních plánů provozovaných institucí se sídlem v České republice. Dojde-li k významné změně rizikového profilu u konkrétního penzijního plánu, může se posuzování rizik omezit pouze na tento penzijní plán.
+Posuzování rizik zahrnuje
+popis toho, jak je vlastní posuzování rizik začleněno do řídícího procesu a do rozhodovacích procesů instituce se sídlem v České republice,
+posouzení účinnosti systému řízení rizik,
+posouzení celkových potřeb financování instituce se sídlem v České republice, případně včetně popisu plánu obnovy,
+posouzení rizik pro účastníky a příjemce souvisejících s vyplacením jejich důchodových dávek a účinnosti opatření k nápravě, přičemž se případně zohlední mechanismy indexace a mechanismy snížení dávek, včetně rozsahu, v němž lze nabyté důchodové dávky snížit, podmínek pro takové snížení a určení osoby, která o něm rozhodne,
+kvalitativní posouzení mechanismů na ochranu důchodových dávek, případně včetně záruk, příslibů a jiných typů finanční podpory ze strany přispěvatele, pojištění nebo zajištění podle zákona upravujícího pojišťovnictví, nebo krytí penzijním ochranným plánem ve prospěch instituce se sídlem v České republice nebo účastníků a příjemců,
+kvalitativní posouzení provozního rizika,
+posouzení nových nebo nově vznikajících rizik, včetně rizik souvisejících se změnou klimatu, využíváním zdrojů a životním prostředím, sociálních rizik a rizik souvisejících s odpisy aktiv v důsledku změny právních předpisů, jsou-li při investičních rozhodnutích zvažovány environmentální a sociální faktory a faktory týkající se správy a řízení.
+Instituce se sídlem v České republice zavede a uplatňuje metody pro identifikaci a posuzování rizik, jimž je nebo by mohla být vystavena v krátkodobém i v dlouhodobém horizontu a které by mohly mít dopad na schopnost instituce se sídlem v České republice dostát svým závazkům. Tyto metody musí být přiměřené velikosti, povaze, rozsahu a složitosti rizik spojených s její činností. Metody musí být popsány v posuzování rizik.
+Posuzování rizik se zohlední ve strategických rozhodnutích instituce se sídlem v České republice.
+Přeshraniční převod
+Instituce se sídlem v České republice může převést závazky, technické rezervy a další práva a povinnosti, jakož i odpovídající aktiva nebo jejich peněžní ekvivalent, vyplývající z jejího penzijního plánu, nebo jejich část na přijímající instituci, jestliže tento převod předem schválí většina účastníků a většina příjemců a případně také přispěvatel, vyžaduje-li schválení přispěvatelem penzijní plán nebo smlouva mezi institucí se sídlem v České republice a přispěvatelem. Instituce se sídlem v České republice poskytne informace o převodu účastníkům a příjemcům s dostatečným předstihem před podáním žádosti o udělení povolení k převodu, kterou podává přijímající instituce příslušnému orgánu domovského členského státu.
+Předá-li příslušný orgán domovského členského státu přijímající instituce dohledovému orgánu žádost o udělení povolení k převodu podle odstavce 1, která je úplná a netrpí ani jinými vadami, dohledový orgán sdělí příslušnému orgánu domovského členského státu přijímající instituce své stanovisko k žádosti do 8 týdnů ode dne, kdy mu žádost došla.
+Dohledový orgán vysloví souhlas s převodem podle odstavce 1, jestliže
+v případě částečného převodu závazků, technických rezerv a dalších práv a povinností, jakož i odpovídajících aktiv nebo jejich peněžního ekvivalentu, vyplývajících z penzijního plánu, jsou přiměřeně chráněny dlouhodobé zájmy účastníků a příjemců ve zbývající části penzijního plánu,
+práva účastníků a příjemců zůstanou po převodu podle odstavce 1 zachována,
+aktiva nebo jejich peněžní ekvivalent, které se mají převést, jsou dostatečné a vhodné k tomu, aby pokryly závazky, technické rezervy a další práva a povinnosti, které se mají převést, a
+náklady na převod nenesou zbývající účastníci a příjemci instituce se sídlem v České republice ani stávající účastníci a příjemci přijímající instituce.
+Povede-li převod podle odstavce 1 k přeshraniční činnosti, informuje dohledový orgán do 4 týdnů ode dne vyslovení souhlasu podle odstavce 5 příslušný orgán domovského členského státu přijímající instituce také o ustanoveních sociálních a pracovněprávních předpisů týkajících se zaměstnaneckého penzijního pojištění, podle nichž má být penzijní plán provozován, a o ustanoveních o informační povinnosti, která se v České republice vztahují na přeshraniční činnost.
+Povede-li převod podle odstavce 1 k přeshraniční činnosti, může přijímající instituce v České republice začít provozovat zaměstnanecké penzijní pojištění poté, co jí bylo oznámeno rozhodnutí o udělení povolení, nebo poté, co marně uplynula lhůta, ve které jí měl příslušný orgán jejího domovského členského státu toto rozhodnutí oznámit nebo ve které jí měl sdělit informace podle odstavce 4.
+Instituce se sídlem v České republice může od převádějící instituce přijmout závazky, technické rezervy a další práva a povinnosti, jakož i odpovídající aktiva nebo jejich peněžní ekvivalent, vyplývající z jejího penzijního plánu nebo jejich část, jestliže tento převod předem schválí většina účastníků a většina příjemců a případně také přispěvatel, vyžaduje-li schválení přispěvatelem penzijní plán nebo smlouva mezi převádějící institucí a přispěvatelem. Instituce se sídlem v České republice poskytne informace o převodu účastníkům a příjemcům s dostatečným předstihem před podáním své žádosti o udělení povolení dohledovému orgánu podle odstavce 2.
+Žádost o udělení povolení k převodu podle odstavce 1 obsahuje
+smlouvu uzavřenou v písemné formě mezi převádějící institucí a institucí se sídlem v České republice, která určuje podmínky převodu,
+popis hlavních vlastností penzijního plánu,
+popis závazků, technických rezerv a dalších práv a povinností, jakož i odpovídajících aktiv nebo jejich peněžního ekvivalentu, které mají být převedeny,
+jméno a sídlo převádějící instituce a instituce se sídlem v České republice a členský stát, v němž je činnost převádějící instituce povolena,
+jméno a sídlo přispěvatele,
+doklad o předchozím schválení převodu podle odstavce 1 většinou účastníků a většinou příjemců a případně také přispěvatelem a
+připadá-li to v úvahu, název členského státu, jehož sociální a pracovněprávní předpisy vztahující se k zaměstnaneckému penzijnímu pojištění se použijí na příslušný penzijní plán.
+Dohledový orgán předá žádost o udělení povolení k převodu podle odstavce 1, která je úplná a netrpí ani jinými vadami, bez zbytečného odkladu příslušnému orgánu domovského členského státu převádějící instituce.
+Dohledový orgán povolení k převodu podle odstavce 1 udělí, jestliže
+s převodem vyslovil souhlas příslušný orgán domovského členského státu převádějící instituce,
+správní struktura a finanční situace instituce se sídlem v České republice a dobrá pověst, odborná kvalifikace nebo praxe jejích vedoucích pracovníků jsou slučitelné s převodem,
+během převodu i po něm jsou přiměřeně chráněny dlouhodobé zájmy účastníků a příjemců v převáděné části penzijního plánu,
+v den převodu jsou zcela finančně zajištěny technické rezervy instituce se sídlem v České republice, vede-li převod k přeshraniční činnosti,
+aktiva nebo jejich peněžní ekvivalent, která se mají převést, jsou dostatečná a vhodná k tomu, aby pokryla závazky, technické rezervy a další práva a povinnosti, které se mají převést, a
+náklady na převod nenesou zbývající účastníci a příjemci ani stávající účastníci a příjemci instituce se sídlem v České republice.
+Dohledový orgán vydá rozhodnutí o žádosti o udělení povolení k převodu podle odstavce 1 do 3 měsíců ode dne zahájení řízení. Dohledový orgán rozhodnutí o žádosti o udělení povolení k převodu podle odstavce 1 oznámí příslušnému orgánu domovského členského státu převádějící instituce do 2 týdnů ode dne jeho vydání.
+Povede-li převod k přeshraniční činnosti, informuje dohledový orgán instituci se sídlem v České republice o ustanoveních sociálních a pracovněprávních předpisů týkajících se zaměstnaneckého penzijního pojištění, podle nichž má být penzijní plán provozován, a ustanoveních o informační povinnosti, která se v hostitelském členském státě vztahují na přeshraniční činnost, do 1 týdne ode dne, kdy mu je sdělil příslušný orgán domovského členského státu převádějící instituce.
+Oprávnění a povinnosti dohledového orgánu
+Dohledový orgán je oprávněn
+požadovat od instituce se sídlem v České republice poskytnutí informací ke všem záležitostem týkajícím se její činnosti nebo předání všech dokumentů týkajících se její činnosti a obracet se s takovou žádostí také na členy představenstva a ostatní osoby odpovědné za řízení instituce se sídlem v České republice,
+vykonávat dohled nad vztahy mezi institucí se sídlem v České republice a jinými podniky nebo mezi institucemi se sídlem v České republice navzájem, pokud tyto přenesou své úkoly na jiné právnické osoby nebo instituce se sídlem v České republice a pokud tyto vztahy ovlivňují finanční situaci instituce se sídlem v České republice nebo jsou důležitým způsobem významné pro účinný dohled,
+požadovat od instituce se sídlem v České republice poskytnutí pravidelného prohlášení o zásadách investiční politiky, sledovat přiměřenost postupů úvěrového hodnocení prováděného touto institucí a hodnotit používání odkazů na ratingy vydávané ratingovými agenturami v její investiční politice,
+požadovat od instituce se sídlem v České republice poskytnutí ročních účetních závěrek a výročních zpráv a všech dokumentů nezbytných k účelům dohledu; mezi tyto dokumenty mohou patřit vnitřní předběžné zprávy, pojistně matematická hodnocení a podrobné předpoklady, studie o aktivech a pasivech, důkazy o souladu se zásadami investiční politiky, důkazy o pravidelném hrazení příspěvků, zprávy osob odpovědných za audit ročních účetních závěrek,
+provádět kontrolu činnosti instituce se sídlem v České republice v jejích provozovnách a v případě přenesených úkolů kontrolu, zda jsou činnosti prováděny v souladu s právními předpisy.
+Dohledový orgán je oprávněn vůči instituci se sídlem v České republice i vůči osobám v jejím vedení přijímat veškerá opatření, včetně opatření správní a finanční povahy, která jsou vhodná a nezbytná k zabránění nebo odstranění nesrovnalostí poškozujících zájmy účastníků nebo příjemců.
+Dohledový orgán je oprávněn omezit nebo zakázat volné nakládání s aktivy instituce se sídlem v České republice zejména v případech, kdy tato instituce nevytvořila dostatečné technické rezervy k závazkům ze své činnosti nebo má nedostatečná aktiva k pokrytí technických rezerv, nebo nemá regulatorní kapitál.
+Dohledový orgán je v zájmu ochrany účastníků a příjemců dávek oprávněn zčásti nebo zcela převést pravomoci osob provozujících instituci se sídlem v České republice na vhodného zmocněnce.
+Dohledový orgán je oprávněn zakázat nebo omezit činnosti instituce se sídlem v České republice, zejména pokud tato instituce
+dostatečně nechrání zájmy účastníků a příjemců,
+neplní podmínky pro svůj provoz,
+závažným způsobem neplní své povinnosti podle pravidel, která se na ni vztahují,
+v případě přeshraniční činnosti nedodržuje požadavky sociálních a pracovněprávních předpisů hostitelského členského státu platné pro zaměstnanecké penzijní pojištění.
+Rozhodnutí podle odstavce 4 je dohledový orgán povinen oznámit Evropskému orgánu pro pojišťovnictví a zaměstnanecké penzijní pojištění.
+Dohledový orgán bez zbytečného odkladu uveřejní pravomocné rozhodnutí o správním trestu nebo o opatření k nápravě na svých internetových stránkách, včetně rozhodnutí o žalobě proti rozhodnutí správního orgánu proti němu podané. O této skutečnosti informuje Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění.
+Dohledový orgán uveřejní rozhodnutí podle odstavce 6 bez uvedení údajů o osobě, které bylo uloženo opatření k nápravě nebo správní trest, jestliže by uveřejnění
+ohrozilo stabilitu finančního trhu,
+ohrozilo probíhající trestní nebo správní řízení, nebo
+způsobilo této osobě nepřiměřenou újmu.
+Rozhodnutí podle odstavce 6 musí být uveřejněno po dobu 5 let.
+Dohledový orgán vykonává obezřetnostní dohled, včetně dohledu nad plněním všech povinností instituce se sídlem v České republice podle tohoto zákona a podle přímo použitelných předpisů Evropské unie. Dohled je založen na přístupu orientovaném do budoucna a vychází z posuzování rizik. Při přijímání opatření zohlední velikost, povahu, rozsah a složitost činnosti instituce se sídlem v České republice a potenciální dopad opatření na stabilitu finančního trhu, a to zejména v naléhavých situacích, a opatření uplatňuje včas.
+Dohledový orgán může přezkoumávat strategie, procesy a postupy hlášení, které instituce se sídlem v České republice zavedla za účelem splnění právních předpisů, s přihlédnutím k velikosti, povaze, rozsahu a složitosti činnosti instituce se sídlem v České republice; tento přezkum zahrnuje posouzení
+kvalitativních požadavků týkajících se systému správy a řízení,
+rizik, kterým je instituce se sídlem v České republice vystavena,
+schopnosti instituce se sídlem v České republice tato rizika posoudit a řídit.
+Dohledový orgán pravidelně sleduje finanční situaci instituce se sídlem v České republice, včetně použití zátěžových testů.
+Dohledový orgán může požadovat, aby instituce se sídlem v České republice odstranila nedostatky zjištěné v rámci přezkumu podle odstavců 1 a 2.
+Při určení minimální četnosti a rozsahu přezkumu podle odstavců 1 a 2 přihlédne dohledový orgán k velikosti, povaze, rozsahu a složitosti činnosti instituce se sídlem v České republice.
+Dohledový orgán vykonává dohled transparentně, nezávisle a odpovědně a zachovává ochranu důvěrných informací. Důvěrné informace získané při své činnosti může využít pouze k výkonu dohledu, plnění povinností podle tohoto zákona a předávání informací pro účely dohledu nebo dozoru centrálním bankám a jiným subjektům s obdobnou funkcí, které jednají jako měnové orgány, případně jiným orgánům veřejné moci odpovědným za dohled nad platebními systémy, Evropské radě pro systémová rizika, Evropskému orgánu pro pojišťovnictví a zaměstnanecké penzijní pojištění, Evropskému orgánu pro bankovnictví a Evropskému orgánu pro cenné papíry a trhy. Pokud informace pocházejí z jiného členského státu, musí si dohledový orgán vyžádat k jejich předání souhlas příslušného dohledového orgánu členského státu, ze kterého tyto informace pocházejí.
+Dohledový orgán uveřejňuje
+znění právních předpisů a obecných pokynů v oblasti zaměstnaneckého penzijního pojištění včetně právních předpisů upravujících správní trestání,
+informace týkající se přezkumu dohledovým orgánem podle § 10ca,
+souhrnné statistické údaje o hlavních aspektech uplatňování obezřetnostního rámce,
+hlavní cíl obezřetnostního dohledu a informace o hlavních funkcích a činnostech dohledového orgánu.
+Osoby, které pracují nebo pracovaly pro dohledový orgán, jakož i auditoři nebo odborníci jednající jeho jménem jsou povinni zachovávat mlčenlivost. Ustanovení zákona upravujícího pojišťovnictví o povinnosti mlčenlivosti při výkonu dohledu se použijí obdobně.
+Dohledový orgán uplatňuje postupy na ochranu osob, které oznamují skutečnosti podle § 10ad odst. 5. Ustanovení zákona upravujícího dohled v oblasti kapitálového trhu o přijímání oznámení a ochraně oznamovatelů se použijí obdobně.
+Technické rezervy
+Instituce se sídlem v České republice vytváří k závazkům ze svých penzijních plánů technické rezervy.
+Dostatečné technické rezervy vytváří pro všechny penzijní plány, které poskytují krytí biometrických rizik nebo zaručují buď výnos investic, nebo danou výši dávek.
+Výpočet technických rezerv provede a potvrdí pojistný matematik každý rok na základě pojistně matematických metod.
+Výpočet technických rezerv se provede podle těchto zásad:
+minimální částka technických rezerv se vypočítá dostatečně obezřetným pojistně matematickým bilancováním s přihlédnutím ke všem závazkům ohledně dávek a k příspěvkům v souladu s penzijními plány instituce, přičemž tato částka musí být dostatečná, aby se mohlo pokračovat ve výplatách důchodů a dávek již vyplácených příjemcům a aby odrážela závazky vyplývající z narůstajících důchodových práv účastníků; ekonomické a pojistně matematické předpoklady zvolené pro hodnocení pasiv se volí rovněž obezřetně s případným přihlédnutím k přiměřené velikosti nepříznivé odchylky,
+maximální úrokové sazby musí být stanoveny reálně, přičemž se přihlíží k výnosu odpovídajících aktiv držených institucí a budoucí návratnosti investic nebo tržním výnosům státních dluhopisů nebo dluhopisů vysoké kvality,
+biometrické tabulky používané pro výpočet technických rezerv jsou založeny na zásadách obezřetnosti s ohledem na hlavní vlastnosti skupiny účastníků a penzijních plánů, a zejména na předpokládané změny významných rizik,
+způsob a základ výpočtu technických rezerv se zpravidla z jednoho účetního období na druhé nemění, případné rozdíly však mohou být odůvodněny změnou právních, demografických nebo ekonomických okolností, na kterých jsou předpoklady založeny.
+Instituce se sídlem v České republice je povinna trvale vlastnit dostatečná a vhodná aktiva ke krytí technických rezerv pro všechny provozované penzijní plány.
+V případě, že instituce se sídlem v České republice nesplní povinnost uvedenou v odstavci 5, je dohledový orgán oprávněn povolit přijetí plánu obnovy k zajištění splnění požadavků uvedených v odstavci 5. Plán obnovy musí splňovat tyto požadavky:
+instituce se sídlem v České republice vytvoří konkrétní plán, aby znovu vytvořila požadované množství aktiv na plné krytí technických rezerv v patřičném čase, a s tímto plánem seznámí účastníky, případně jejich zástupce,
+při vypracování plánu obnovy se přihlíží ke konkrétní situaci instituce se sídlem v České republice, zejména ke struktuře aktiv a pasiv, profilu rizik, plánu likvidity, věkovému profilu účastníků s právem na důchodové dávky, nově vytvářeným plánům a plánům přecházejícím z plánů fungujících na základě nekapitálovém nebo jen částečně kapitálovém na plné kapitálové krytí,
+instituce se sídlem v České republice je povinna v případě ukončení penzijního plánu v době, kdy byl povolen plán obnovy, vytvořit postup k převedení aktiv a odpovídajících pasiv do jiné finanční instituce nebo podobného subjektu, tento postup zároveň s informací o ukončení penzijního plánu sdělit dohledovému orgánu a obecný popis postupu v souladu se zásadami důvěrnosti zpřístupnit účastníkům, případně jejich zástupcům.
+V případě přeshraniční činnosti musí být technické rezervy pro všechny provozované penzijní plány plně finančně pokryty. Pokud tyto podmínky nejsou splněny, postupuje dohledový orgán podle § 10c.
+Dodatečná aktiva
+Instituce se sídlem v České republice v případě, že poskytuje záruku na pasiva ke krytí biometrických rizik nebo zaručuje určitý výnos investic nebo výši dávek, musí mít trvale k dispozici dodatečná aktiva převyšující technické rezervy, která slouží jako vyrovnávací rezerva. Výše těchto aktiv odráží typ rizik a stav aktiv pro všechny provozované penzijní plány. Tato aktiva nesmějí být zatížena předvídatelnými závazky a slouží jako rezerva k odstraňování odchylek mezi očekávanými a skutečnými výdaji a zisky.
+Pro účely výpočtu minimální částky dodatečných aktiv podle odstavce 1 se použijí solventnostní pravidla podle § 10ga až 10gd.
+Investování
+Instituce se sídlem v České republice investuje v souladu se zásadou obezřetnosti, přičemž
+aktiva se investují s ohledem na co nejlepší prospěch účastníků a příjemců; v případě možného střetu zájmů zajistí instituce se sídlem v České republice nebo subjekt, který řídí její portfolio, aby byly investice prováděny výhradně v zájmu účastníků a příjemců,
+aktiva se investují takovým způsobem, aby se zajistila bezpečnost, kvalita, likvidita a ziskovost celého portfolia,
+aktiva se investují hlavně na evropských regulovaných trzích a investice do aktiv, která nejsou přijata k obchodování na evropských regulovaných finančních trzích, musí být v každém případě udržovány na obezřetné úrovni,
+investice do finančních derivátů jsou možné, pokud přispívají ke snížení investičních rizik nebo usnadňují účinnou správu portfolia, musí se obezřetně hodnotit s přihlédnutím k podkladovým aktivům a musí být zahrnuty do hodnocení aktiv institucí; instituce se sídlem v České republice se nesmí vystavit nadměrnému riziku týkajícímu se jedné protistrany a jiných operací s finančními deriváty,
+aktiva jsou vhodně diverzifikována tak, aby se zabránilo nadměrné závislosti na jakémkoli konkrétním aktivu, emitentovi nebo skupině podniků nebo akumulaci rizika v portfoliu jako celku,
+investice do aktiv stejného emitenta nebo emitentů patřících do stejné skupiny nesmí instituci se sídlem v České republice vystavovat nadměrné koncentraci rizika,
+investice do přispívajícího podniku nesmějí činit více než 5 % celého portfolia, a pokud je přispívající podnik součástí skupiny, nesmějí investice do podniků patřících do stejné skupiny jako přispívající podnik činit více než 10 % portfolia,
+přispívá-li do instituce se sídlem v České republice více podniků, je nutno investice do těchto přispívajících podniků provádět obezřetně a musí se přitom přihlížet k potřebě vhodné diverzifikace,
+aktiva držená ke krytí technických rezerv se rovněž investují způsobem přiměřeným k povaze a trvání očekávaných budoucích důchodových dávek,
+investiční politika nesmí být založena pouze na výhradním nebo mechanickém spoléhání se na ratingy vydávané ratingovými agenturami.
+Instituce se sídlem v České republice nesmí přijmout půjčku nebo působit jako ručitel třetích osob. Půjčka je přípustná pouze z důvodů likvidity, a to pouze na nezbytně nutnou dobu.
+Instituce se sídlem v České republice může investovat
+až 70 % aktiv pokrývajících technické rezervy nebo celého portfolia u plánů, ve kterých účastníci nesou investiční rizika, do akcií, obchodovatelných cenných papírů, se kterými se nakládá jako s akciemi, a dluhopisů vydávaných podniky, které jsou přijaty k obchodování na regulovaných trzích,
+až 30 % aktiv pokrývajících technické rezervy do aktiv vedených v jiných měnách, než jsou měny, ve kterých jsou vyjádřena pasiva,
+na kapitálových trzích.
+Přeshraniční činnost
+Instituce se sídlem v České republice, která chce být financována podnikem usazeným v jiném členském státě, musí mít předchozí povolení dohledového orgánu. Dohledový orgán okamžitě informuje o udělení tohoto povolení Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění.
+Úmysl přijmout finanční příspěvky od podniku usazeného v jiném členském státě musí být dohledovému orgánu předem oznámen.
+V oznámení podle odstavce 2 uvede instituce se sídlem v České republice tyto informace:
+hostitelský členský stát nebo hostitelské členské státy,
+jméno přispívajícího podniku,
+hlavní vlastnosti penzijního plánu, který má být provozován pro přispívající podnik.
+Pokud dohledový orgán nemá důvod k pochybnostem o tom, že vnitřní struktura instituce se sídlem v České republice, její finanční situace, dobrá pověst a odborná kvalifikace a praxe vedoucích osob jsou slučitelné s činnostmi navrhovanými v hostitelském členském státě, sdělí do 3 měsíců po obdržení všech informací podle odstavce 3 tyto informace příslušným orgánům hostitelského členského státu a následně informuje instituci se sídlem v České republice.
+Nesdělí-li dohledový orgán informace uvedené v odstavci 4 příslušnému orgánu hostitelského členského státu, vydá o tom instituci se sídlem v České republice rozhodnutí do 3 měsíců ode dne, kdy obdržel veškeré tyto informace.
+Na instituci se sídlem v České republice provozující přeshraniční činnost se vztahuje informační povinnost, kterou stanovil hostitelský členský stát vůči potenciálním účastníkům, účastníkům a příjemcům, jichž se přeshraniční činnost týká.
+Solventnostní pravidla
+Instituce se sídlem v České republice podle § 10e odst. 1 trvale udržuje disponibilní míru solventnosti nejméně ve výši požadované míry solventnosti, a to s ohledem na celý rozsah své činnosti.
+Disponibilní míra solventnosti zahrnuje aktiva instituce se sídlem v České republice očištěná od všech předvídatelných závazků po odečtení položek nehmotného majetku včetně
+splaceného základního kapitálu,
+aktiv neurčených k vyrovnání přijatých závazků,
+zisku nebo ztráty po odečtení splatných dividend a
+rezervy zisku obsažené v rozvaze pro krytí případných ztrát, které nebyly určeny k rozdělení členům nebo oprávněným osobám.
+Disponibilní míra solventnosti se snižuje o částku vlastních akcií přímo držených institucí se sídlem v České republice.
+Dohledový orgán může na základě žádosti instituce se sídlem v České republice rozhodnout, že disponibilní míra solventnosti zahrnuje také
+rozdíl mezi nezillmerizovanou nebo částečně zillmerizovanou technickou rezervou a technickou rezervou zillmerizovanou podílem rovnajícím se akviziční přirážce obsažené v pojistném, pokud se metoda zillmerizace nepoužívá, nebo pokud se používá a je nižší než akviziční přirážka obsažená v pojistném; takto vypočtená hodnota nesmí převýšit 3,5 % součtu rozdílů mezi pojistnými částkami životních pojištění a zaměstnaneckého penzijního pojištění a technickými rezervami pro všechna pojištění, pro která je metoda zillmerizace možná, přičemž rozdíl se sníží o částku všech neodepsaných pořizovacích nákladů zahrnutých do aktiv,
+skryté čisté rezervy vzniklé z ocenění aktiv, nemají-li výjimečnou povahu, nebo
+jednu polovinu nesplaceného základního kapitálu, pokud splacená část základního kapitálu dosáhne 25 % tohoto základního kapitálu, a to až do 50 % disponibilní míry solventnosti nebo požadované míry solventnosti podle § 10gb, podle toho, která hodnota je nižší.
+K žádosti podle odstavce 4 instituce se sídlem v České republice přiloží doklady prokazující splnění podmínek podle odstavce 4.
+Požadovaná míra solventnosti se rovná součtu položek
+4 % technických rezerv vztahujících se k závazkům z provozovaného zaměstnaneckého penzijního pojištění, převzatému zajištění nebo postoupenému zajištění vynásobených poměrem celkových technických rezerv očištěných od zajistných cesí k hrubým celkovým technickým rezervám, nejméně však 85 % hodnoty za předchozí účetní období, a
+v případě pojistných smluv, u nichž riziková pojistná částka není záporné číslo, 0,3 % této pojistné částky vynásobené poměrem, který nesmí být nižší než 50 % za předchozí účetní období, celkové rizikové pojistné částky, kterou si instituce se sídlem v České republice ponechala k tíži, po odečtení zajistných cesí a retrocesí, k celkové rizikové pojistné částce včetně zajištění; pro krátkodobá pojištění pro případ smrti s pojistnou dobou nejvýše 3 roky se použije 0,1 % z uvedené pojistné částky a 0,15 % v případě pojistné doby delší než 3 roky, ale kratší než 5 let.
+U operací umořování kapitálu podle části A bodu VI přílohy č. 1 k zákonu č. 277/2009 Sb., o pojišťovnictví, ve znění pozdějších předpisů, se požadovaná míra solventnosti rovná 4 % technických rezerv vypočtených podle odstavce 1 písm. a).
+U operací podle bodu V přílohy č. 2 k zákonu č. 277/2009 Sb., o pojišťovnictví, ve znění pozdějších předpisů, se požadovaná míra solventnosti rovná 1 % aktiv.
+U pojištění podle části A bodu III a u operací podle části A bodů VII a VIII přílohy č. 1 k zákonu č. 277/2009 Sb., o pojišťovnictví, ve znění pozdějších předpisů, se požadovaná míra solventnosti rovná součtu následujících položek
+v rozsahu, v jakém instituce se sídlem v České republice nese investiční riziko, podílu ve výši 4 % technických rezerv vypočtených podle odstavce 1 písm. a),
+v rozsahu, v jakém instituce se sídlem v České republice nenese investiční riziko, ale příděl zdrojů na náklady řízení je pevně stanoven na dobu delší než 5 let, podílu 1 % technických rezerv vypočtených podle odstavce 1 písm. a),
+v rozsahu, v jakém instituce se sídlem v České republice nenese investiční riziko a příděl zdrojů na náklady řízení není pevně stanoven na dobu delší než 5 let, částky odpovídající 25 % čistých správních nákladů v předchozím účetním období týkajících se této činnosti, a
+v rozsahu, v jakém instituce se sídlem v České republice kryje riziko smrti, podílu 0,3 % rizikové pojistné částky vypočtené podle odstavce 1 písm. b).
+U doplňkových pojištění podle části A bodu I písm. c) přílohy č. 1 k zákonu č. 277/2009 Sb., o pojišťovnictví, ve znění pozdějších předpisů, se požadovaná míra solventnosti stanoví na základě celoroční výše pojistného nebo příspěvků, nebo na základě průměrné výše pojistných plnění za poslední 3 účetní období.
+Výše požadované míry solventnosti se rovná vyššímu z výsledků uvedených v odstavcích 3 a 4.
+Základ pojistného se vypočítá s použitím vyšší částky z hrubého předepsaného pojistného nebo příspěvků a hrubého přijatého pojistného nebo příspěvků. K součtu splatného pojistného nebo příspěvků v přímém pojištění v předchozím účetním období, včetně plateb souvisejících s pojistným nebo příspěvky, se přičte celková částka přijatého zajistného v předchozím účetním období. Od tohoto součtu se odečte celková částka pojistného nebo příspěvků stornovaných v předchozím účetním období a celková částka daní a poplatků spojených s pojistným nebo s příspěvky zahrnutými do uvedeného součtu. Takto vypočítaná částka se rozdělí tak, aby první část činila 50 000 000 EUR a druhá zbytek, přičemž 18 % první části a 16 % druhé části se sečtou. Tento součet se vynásobí poměrem existujícím za předchozí 3 účetní období mezi částkou pojistných plnění, kterou nese instituce se sídlem v České republice, po odečtení úhrad za zajištění, a celkovou výší pojistných plnění. Tento poměr nesmí být nižší než 50 %.
+Základ pojistného plnění se vypočítá tak, že se sečtou částky vyplacených pojistných plnění z přímého pojištění, bez odečtení pojistných plnění uhrazených zajišťovně nebo retrocesionáři, za období podle odstavce 1. K tomuto součtu se přičte částka pojistných plnění z převzatého zajištění nebo z retrocesí za stejné účetní období a částka rezerv na nevyplacená pojistná plnění vytvořená na konci předchozího účetního období jak pro přímé pojištění, tak pro převzaté zajištění. Od tohoto součtu se odečte částka příjmů z regresů během období uvedených v odstavci 1. Od zbývající částky se odečte částka rezerv na nevyřízené pojistné události vytvořená na počátku druhého účetního období předcházejícího poslednímu účetně uzavřenému účetnímu období jak z přímého pojištění, tak z převzatého zajištění. Jedna třetina takto získané částky se rozdělí tak, aby první část činila 35 000 000 EUR a druhá část zbytek, přičemž 26 % první části a 23 % druhé části se sečtou. Tento součet se vynásobí poměrem existujícím za předchozí 3 účetní období mezi částkou pojistných plnění, kterou nese instituce se sídlem v České republice, po odečtení úhrad za zajištění, a celkovou výší pojistných plnění. Tento poměr nesmí být nižší než 50 %.
+Je-li požadovaná míra solventnosti vypočítaná podle odstavců 2 až 4 nižší než požadovaná míra solventnosti v předchozím roce, požadovaná míra solventnosti se rovná alespoň požadované míře solventnosti v předchozím roce vynásobené poměrem částky technických rezerv na nevyřízené pojistné události na konci předchozího účetního období a částky technických rezerv na nevyřízení pojistné události na počátku předchozího účetního období. V těchto výpočtech se technické rezervy vypočítají bez zohlednění zajištění, poměr však nesmí být vyšší než 1.
+Garanční fond
+Jedna třetina požadované míry solventnosti podle § 10gb a 10gc představuje garanční fond. Tento fond se skládá z položek podle § 10ga odst. 2, se souhlasem dohledového orgánu také z položek podle § 10ga odst. 4 písm. b).
+Garanční fond nesmí být nižší než 3 000 000 EUR.
+Částka podle odstavce 2 podléhá přezkumu s ohledem na změny evropského indexu spotřebitelských cen zveřejňovaného Eurostatem. Změna částky vyjádřená v tomto zákoně v eurech se použije nejpozději dnem, ke kterému uplyne 12 měsíců ode dne jejího zveřejnění Evropskou komisí v Úředním věstníku Evropské unie.
+Přepočet částek
+Částka vyjádřená v tomto zákoně v eurech se v období ode dne 31. prosince do dne 30. prosince následujícího kalendářního roku přepočítává na částku v českých korunách kurzem devizového trhu, který Česká národní banka vyhlásila jako poslední v říjnu roku, v němž toto období začíná.
+SPOLEČNÉ USTANOVENÍ
+Instituce zaměstnaneckého penzijního pojištění se nesmí na území České republiky usazovat.

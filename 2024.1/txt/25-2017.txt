@@ -1,0 +1,48 @@
+Předmět úpravy
+Tento zákon upravuje povinnost některých osob nebo jednotek sektoru veřejných institucí předkládat Ministerstvu financí (dále jen „ministerstvo“) vybrané údaje o svých příjmech a výdajích pro účely monitorování a řízení veřejných financí.
+Rozsah působnosti
+Osobou nebo jednotkou ze sektoru veřejných institucí předkládající vybrané údaje podle tohoto zákona (dále jen „dotčená osoba“) je
+organizační složka státu,
+státní fond,
+státní příspěvková organizace,
+veřejná vysoká škola,
+veřejná výzkumná instituce zřízená Českou republikou,
+územní samosprávný celek,
+dobrovolný svazek obcí,
+příspěvková organizace zřízená územním samosprávným celkem, dobrovolným svazkem obcí nebo městskou částí hlavního města Prahy,
+jiný ekonomický subjekt, který splňuje znaky instituce sektoru vládních institucí podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii a který je zároveň jako jednotka institucionálního sektoru ústředních vládních institucí zapsán v registru ekonomických subjektů, který vede Český statistický úřad podle zákona upravujícího státní statistickou službu, a to vždy k 1. lednu příslušného roku, nebo
+jiný ekonomický subjekt, který splňuje znaky instituce sektoru vládních institucí podle přímo použitelného předpisu Evropské unie upravujícího Evropský systém národních a regionálních účtů v Evropské unii, který je jako jednotka institucionálního sektoru místních vládních institucí zapsán v registru ekonomických subjektů uvedeném v písmenu j), a to vždy k 1. lednu příslušného roku, a který je zároveň poskytovatelem zdravotních služeb nebo provozovatelem městské hromadné dopravy.
+Měsíční údaje o příjmech a výdajích
+Dotčená osoba uvedená v § 2 písm. c) až e) a i) předkládá měsíční údaje o svých příjmech a výdajích vždy ve stavu k poslednímu dni příslušného kalendářního měsíce, a to do patnáctého dne následujícího kalendářního měsíce. Strukturu předkládaných údajů stanoví ministerstvo vyhláškou.
+Pokud dotčená osoba nesplní řádně svoji povinnost podle odstavce 1, ministerstvo ji vyzve, aby ve lhůtě 3 pracovních dnů ode dne doručení této výzvy provedla nápravu nebo podala vysvětlení.
+Dotčená osoba je od povinnosti podle odstavce 1 osvobozena, pokud průměrná výše jejích celkových ročních nákladů podle výkazu zisku a ztráty za poslední 2 kalendářní roky, za které jsou údaje účetní závěrky k dispozici, nedosahuje částky, kterou stanoví ministerstvo vyhláškou, a to maximálně do výše 0,01 % nominálního hrubého domácího produktu za předchozí kalendářní rok, který je v běžném roce naposledy zveřejněn Českým statistickým úřadem.
+Dotčená osoba podle odstavce 3 postupuje při předkládání údajů o svých příjmech a výdajích podle § 4.
+Čtvrtletní údaje o příjmech a výdajích
+Dotčená osoba uvedená v § 2 písm. j) předkládá čtvrtletní údaje o svých příjmech a výdajích vždy ve stavu k poslednímu dni příslušného kalendářního čtvrtletí, a to do 30 dnů po uplynutí prvního, druhého nebo třetího čtvrtletí; za čtvrté čtvrtletí předkládá tyto údaje do 25. února následujícího kalendářního roku. Strukturu předkládaných údajů stanoví ministerstvo vyhláškou.
+Pokud dotčená osoba nesplní řádně svoji povinnost podle odstavce 1, ministerstvo ji vyzve, aby ve lhůtě 10 pracovních dnů ode dne doručení této výzvy provedla nápravu nebo podala vysvětlení.
+Roční údaje o poskytnutých garancích
+Dotčená osoba uvedená v § 2 písm. b), f) až g) a j) předkládá údaje o svých podmíněných závazcích z poskytnutých garancí jednou ročně ve stavu k poslednímu dni příslušného kalendářního roku, a to do 25. února následujícího kalendářního roku. Strukturu předkládaných údajů stanoví ministerstvo vyhláškou.
+Pokud dotčená osoba nesplní řádně svoji povinnost podle odstavce 1, ministerstvo ji vyzve, aby ve lhůtě 10 pracovních dnů ode dne doručení této výzvy provedla nápravu nebo podala vysvětlení.
+Garancemi se pro účely tohoto zákona rozumí
+ručení nebo finanční záruka podle občanského zákoníku,
+směnečné rukojemství podle zákona upravujícího směnky, nebo
+záruka poskytnutá Českou republikou na základě jiného zákona.
+Roční údaje o projektech partnerství veřejného a soukromého sektoru
+Dotčená osoba uvedená v § 2 písm. a) až h) a j) předkládá údaje o svých projektech partnerství veřejného a soukromého sektoru jednou ročně ve stavu k poslednímu dni příslušného kalendářního roku, a to do 25. února následujícího kalendářního roku. Strukturu předkládaných údajů stanoví ministerstvo vyhláškou.
+Pokud dotčená osoba nesplní řádně svoji povinnost podle odstavce 1, ministerstvo ji vyzve, aby ve lhůtě 10 pracovních dnů ode dne doručení této výzvy provedla nápravu nebo podala vysvětlení.
+Projekty partnerství veřejného a soukromého sektoru se pro účely tohoto zákona rozumí veřejné zakázky a koncese o předpokládané hodnotě 300 000 000 Kč a vyšší podle zákona upravujícího zadávání veřejných zakázek, jejichž předmětem je využití zdrojů a schopností osob soukromého sektoru při zajištění veřejné infrastruktury nebo veřejných služeb související s údržbou a provozem dlouhodobého nehmotného nebo dlouhodobého hmotného majetku, pokud je smlouva uzavírána na dobu nejméně 2 let.
+Způsob předkládání údajů
+Dotčená osoba předkládá ministerstvu údaje podle § 3 až 6 prostřednictvím centrálního systému účetních informací státu podle vyhlášky upravující účetní záznamy. Dotčená osoba uvedená v § 2 písm. e) a j) tak může učinit pomocí svého zřizovatele, nemá-li do centrálního systému účetních informací státu přímý přístup.
+Pokud jsou údaje podle odstavce 1 předmětem nebo součástí utajované informace, předkládají se ministerstvu pouze v písemné podobě s vyznačením příslušného stupně utajení.
+Přestupky
+Dotčená osoba uvedená v § 2 písm. c) až e) a i) se dopustí přestupku tím, že nepředloží měsíční údaje o svých příjmech a výdajích ani v dodatečné lhůtě stanovené v § 3 odst. 2.
+Dotčená osoba uvedená v § 2 písm. j) se dopustí přestupku tím, že nepředloží čtvrtletní údaje o svých příjmech a výdajích ani v dodatečné lhůtě stanovené v § 4 odst. 2.
+Dotčená osoba uvedená v § 2 písm. b), f), g) a j) se dopustí přestupku tím, že nepředloží údaje o svých podmíněných závazcích z poskytnutých garancí ani v dodatečné lhůtě stanovené v § 5 odst. 2.
+Dotčená osoba uvedená v § 2 písm. a) až h) a j) se dopustí přestupku tím, že nepředloží údaje o svých projektech partnerství veřejného a soukromého sektoru ani v dodatečné lhůtě stanovené v § 6 odst. 2.
+Za přestupek lze uložit pokutu do
+20 000 Kč, jde-li o přestupek podle odstavce 1,
+50 000 Kč, jde-li o přestupek podle odstavce 2,
+100 000 Kč, jde-li o přestupek podle odstavce 3 nebo 4.
+Společná ustanovení k přestupkům
+Přestupky podle tohoto zákona projednává ministerstvo.
+Pokutu vybírá ministerstvo.

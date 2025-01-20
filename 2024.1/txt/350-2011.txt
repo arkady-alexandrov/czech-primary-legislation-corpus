@@ -1,0 +1,201 @@
+CHEMICKÉ LÁTKY A CHEMICKÉ SMĚSI
+ÚVODNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon zapracovává příslušné předpisy Evropské unie, navazuje na přímo použitelné předpisy Evropské unie a upravuje
+práva a povinnosti právnických osob a podnikajících fyzických osob (dále jen „osoba“) při
+výrobě, klasifikaci, zkoušení nebezpečných vlastností, balení, označování, uvádění na trh, používání, vývozu a dovozu chemických látek (dále jen „látka“) nebo látek obsažených ve směsích nebo předmětech,
+klasifikaci, zkoušení nebezpečných vlastností, balení, označování a uvádění na trh chemických směsí (dále jen „směs“) na území České republiky,
+správnou laboratorní praxi,
+působnost správních orgánů při zajišťování ochrany před škodlivými účinky látek a směsí.
+Působnost zákona
+Tento zákon se vztahuje na látky, látky obsažené ve směsi nebo předmětu a směsi.
+V evidenci látek a směsí vyvezených z území České republiky a dovezených na území České republiky se vedou rovněž přípravky na ochranu rostlin a pomocné prostředky na ochranu rostlin podle právních předpisů upravujících uvádění přípravků na ochranu rostlin a pomocných prostředků na ochranu rostlin na trh. Oznamovací povinnost podle tohoto zákona se vztahuje rovněž na povolené biocidní přípravky podle zákona upravujícího dodávání biocidních přípravků na trh.
+SPRÁVNÁ LABORATORNÍ PRAXE A ZKOUŠENÍ LÁTKY A SMĚSI
+Správná laboratorní praxe
+Správnou laboratorní praxí se pro účely tohoto zákona rozumí systém zabezpečování jakosti týkající se organizačního procesu a podmínek, za kterých se plánují, provádějí, sledují, zaznamenávají, archivují a oznamují neklinické studie bezpečnosti látky a směsi pro zdraví a životní prostředí.
+Prováděcí právní předpis stanoví zásady správné laboratorní praxe (dále jen „zásady“).
+Osvědčení o dodržování zásad
+Pro účely tohoto zákona a přímo použitelných předpisů Evropské unie, provádí zkoušení nebezpečných vlastností látky nebo směsi v rozsahu nebezpečných vlastností stanovených v částech 3 a 4 přílohy I nařízení Evropského parlamentu a Rady (ES) č. 1272/2008 pouze osoba, která má osvědčení o dodržování zásad (dále jen „osvědčení“).
+Za rovnocenné se považuje osvědčení udělené členským státem Organizace pro hospodářskou spolupráci a rozvoj podle předpisů Organizace pro hospodářskou spolupráci a rozvoj.
+Za rovnocenné se považuje osvědčení udělené členským státem Evropské unie.
+Osvědčení vydává Ministerstvo životního prostředí na základě žádosti osoby, která hodlá provádět zkoušení nebezpečných vlastností látky nebo směsi.
+Kromě obecných náležitostí musí žádost o vydání osvědčení obsahovat
+jméno vedoucího testovacího zařízení,
+číslo oprávnění k podnikatelské činnosti a
+prohlášení o zavedení správné laboratorní praxe s uvedením jména a příjmení fyzické osoby, která za zavedení odpovídá.
+Podkladem pro vydání osvědčení je zpráva o průběhu vstupní kontroly testovacího zařízení (dále jen „vstupní kontrola“), kterou provádí Ministerstvem životního prostředí zřízená právnická osoba pro ověřování zásad.
+V případě, že vstupní kontrola prokáže, že osoba, která hodlá provádět zkoušení nebezpečných vlastností látky nebo směsi, dodržuje zásady, vydá jí Ministerstvo životního prostředí osvědčení. V opačném případě vydá rozhodnutí, kterým žádost zamítne.
+Pokud budou při vstupní kontrole v dodržování zásad zjištěny závady, které nemají podstatný vliv na kvalitu výsledků zkoušení nebezpečných vlastností látky nebo směsi, Ministerstvo životního prostředí řízení přeruší a stanoví lhůtu k jejich odstranění.
+Průběžné ověřování dodržování zásad u držitele osvědčení provádí Ministerstvem životního prostředí zřízená právnická osoba pro ověřování zásad formou periodických kontrol testovacího zařízení (dále jen „periodická kontrola“) nebo auditů studií.
+Osoba, která požádala o vydání osvědčení, nebo držitel osvědčení umožní Ministerstvem životního prostředí zřízené právnické osobě pro ověřování zásad při vstupní kontrole, periodických kontrolách a auditech studií vstup na pozemky, do objektů a pracovišť užívaných ke zkoušení a poskytne informace o dodržování zásad v rozsahu stanoveném prováděcím právním předpisem.
+Údaje zjištěné při vstupní kontrole a při periodických kontrolách nebo auditech studií, kromě názvu laboratoře, kvality dodržování zásad a data provedené kontroly, se považují za důvěrné a mohou být poskytovány pouze orgánům vykonávajícím kontrolní činnost, Ministerstvem životního prostředí zřízené právnické osobě pro ověřování zásad, laboratoři nebo sponzorovi studie, jichž se konkrétní kontrola nebo audit studie přímo týká.
+V případě nedodržování zásad zjištěného při periodické kontrole nebo na základě žádosti držitele osvědčení může Ministerstvo životního prostředí rozhodnutím zrušit osvědčení.
+Osvědčení zaniká
+smrtí nebo prohlášením za mrtvého,
+zánikem právnické osoby, nebo
+rozhodnutím o zrušení osvědčení.
+Prováděcí právní předpis stanoví rozsah informací o dodržování zásad, které mají být poskytnuty při vstupní a periodické kontrole a auditu studie, vzor osvědčení, průběh vstupní kontroly, periodické kontroly a auditu studie a náležitosti zprávy o jejich průběhu.
+Zkoušení látky a směsi
+Zkoušení nebezpečných vlastností látky nebo směsi se pro účely tohoto zákona provádí u látky a směsi ve stavu, v jakém se vyrábějí nebo uvádějí na trh.
+Osoba, která provádí zkoušení nebezpečných vlastností látky nebo směsi, je povinna při předkládání výsledků takového zkoušení písemně potvrdit, že zkoušky byly provedeny v souladu se zásadami.
+POSKYTOVÁNÍ INFORMACÍ
+Oznamovací povinnost
+Dovozce nebo následný uživatel, který jako první uvádí na trh Evropské unie na území České republiky směs, která má nebezpečné fyzikálně-chemické vlastnosti nebo nebezpečné vlastnosti ovlivňující zdraví, je povinen před prvním uvedením této směsi na trh poskytnout Ministerstvu zdravotnictví prostřednictvím portálu spravovaného Evropskou agenturou pro chemické látky informace o jejím vlivu na zdraví v rozsahu a způsobem stanoveným v příloze VIII přímo použitelného předpisu Evropské unie o klasifikaci, balení a označování látek a směsí.
+Distributor, který na území České republiky uvádí na trh směs, která má nebezpečné fyzikálně-chemické vlastnosti nebo nebezpečné vlastnosti ovlivňující zdraví, je povinen před prvním uvedením této směsi na trh poskytnout Ministerstvu zdravotnictví prostřednictvím portálu spravovaného Evropskou agenturou pro chemické látky informace o jejím vlivu na zdraví v rozsahu a způsobem stanoveným v příloze VIII přímo použitelného předpisu Evropské unie o klasifikaci, balení a označování látek a směsí, pokud tyto informace nebyly poskytnuty podle odstavce 1 nebo distributor mění označení této směsi. Povinnost podle předchozí věty může za distributora splnit dodavatel, pokud se tak dohodnou; odpovědnost za splnění této povinnosti má nadále distributor.
+Výrobce, který uvádí na trh Evropské unie na území České republiky detergent, je povinen do 45 dnů ode dne, kdy tento detergent uvedl na trh poprvé, poskytnout Ministerstvu zdravotnictví informace obsažené v datovém listu podle přímo použitelného předpisu Evropské unie o detergentech v elektronické podobě.
+Distributor, který na území České republiky uvádí na trh detergent z jiného členského státu Evropské unie, je povinen do 45 dnů ode dne, kdy tento detergent poprvé uvedl na trh, poskytnout Ministerstvu zdravotnictví informace zveřejněné výrobcem podle přímo použitelného předpisu Evropské unie o detergentech v elektronické podobě.
+Dovozce, následný uživatel nebo distributor podle odstavců 1 a 2 je v případě, že dojde ke změně podle oddílu 4.1 části B přílohy VIII přímo použitelného předpisu Evropské unie o klasifikaci, balení a označování látek a směsí, povinen provést před uvedením směsi v pozměněné podobě na trh aktualizaci informací poskytnutých podle odstavce 1 nebo 2 v rozsahu a způsobem stanoveným v této příloze. Výrobce nebo distributor podle odstavců 3 a 4 je povinen každou změnu informací poskytnutých Ministerstvu zdravotnictví oznámit ve lhůtě 45 dnů od změny informací.
+Prováděcí právní předpis stanoví rozsah informací požadovaných podle odstavců 3 a 4.
+Dodavatel předmětu je povinen před uvedením předmětu na trh poskytovat informace podle čl. 33 odst. 1 přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek do databáze vedené Evropskou agenturou pro chemické látky.
+VÝKON STÁTNÍ SPRÁVY
+Orgány státní správy
+Státní správu v oblasti uvádění látek nebo látek obsažených ve směsích a v předmětech na trh nebo jejich používání a v uvádění směsí na trh nebo jejich používání podle tohoto zákona vykonávají
+Ministerstvo životního prostředí,
+Ministerstvo zdravotnictví,
+Ministerstvo průmyslu a obchodu,
+Ministerstvo obrany,
+Česká inspekce životního prostředí,
+krajské hygienické stanice,
+celní úřady,
+Státní úřad inspekce práce,
+Ústřední kontrolní a zkušební ústav zemědělský.
+Ministerstvo životního prostředí
+Ministerstvo životního prostředí
+je ústředním orgánem státní správy v oblasti ochrany životního prostředí před škodlivými účinky látek, směsí nebo látek obsažených ve směsích a předmětech,
+je ústředním kontaktním místem v souladu s přímo použitelnými předpisy Evropské unie, za účelem poskytování poradenství výrobcům, dovozcům, následným uživatelům a dalším zúčastněným osobám ohledně jejich povinností a odpovědnosti podle těchto nařízení,
+vykonává státní dozor v oblasti ochrany životního prostředí před škodlivými účinky látek, směsí nebo látek obsažených ve směsích nebo předmětech, vyráběných, uváděných na trh nebo používaných,
+vydává a zrušuje osvědčení o dodržování zásad podle § 19 odst. 1 a § 20 odst. 4,
+vede seznam držitelů osvědčení o dodržování zásad a zveřejňuje jej ve Věstníku Ministerstva životního prostředí,
+vykonává funkci příslušného orgánu v souladu s přímo použitelnými předpisy Evropské unie a zastupuje Českou republiku v orgánech Evropské agentury pro chemické látky,
+povoluje výjimky podle čl. 2 odst. 3 nařízení Evropského parlamentu a Rady (ES) č. 1907/2006 nebo čl. 1 odst. 4 nařízení Evropského parlamentu a Rady (ES) č. 1272/2008,
+informuje veřejnost o rizicích látek v souladu s přímo použitelným předpisem Evropské unie.
+Poskytuje Ministerstvu zdravotnictví informace o udělení výjimky podle § 14 odst. 1 a § 15 odst. 1.
+Ministerstvo životního prostředí poskytuje příslušným orgánům Evropské unie a Evropské agentuře pro chemické látky v rámci své působnosti zprávy a stanoviska v rozsahu, podobě a časových intervalech v souladu s požadavky předpisů Evropské unie na úseku ochrany životního prostředí před škodlivými účinky látek nebo látek obsažených ve směsích a předmětech a směsí.
+Ministerstvo životního prostředí spolupracuje s příslušnými orgány Evropské unie, Evropskou agenturou pro chemické látky a příslušnými orgány členských států Evropské unie na úseku ochrany životního prostředí před škodlivými účinky látek nebo látek obsažených ve směsích a předmětech a směsí.
+Ministerstvo životního prostředí v rámci své působnosti podle odstavce 1 písm. f) přijímá oznámení podle čl. 8 odst. 3 nařízení Evropského parlamentu a Rady (EU) 2017/852, posuzuje jeho úplnost a provádí hodnocení v něm uvedených informací podle čl. 8 odst. 4 tohoto nařízení; v rámci hodnocení si vyžádá stanovisko Ministerstva zdravotnictví.
+Zjistí-li Ministerstvo životního prostředí, že oznámení neobsahuje veškeré informace uvedené v čl. 8 odst. 3 nařízení Evropského parlamentu a Rady (EU) 2017/852, nebo je požádáno o doplňující informace Ministerstvem zdravotnictví podle § 25 odst. 5, vyzve oznamovatele k doplnění oznámení a stanoví mu k tomu přiměřenou lhůtu. Pokud oznamovatel ve stanovené lhůtě oznámení nedoplní, jde-li o informace uvedené v čl. 8 odst. 3 písm. a), b) a d) nařízení Evropského parlamentu a Rady (EU) 2017/852, hledí se na toto oznámení, jako kdyby nebylo podáno.
+Ministerstvo životního prostředí ve lhůtě 30 dnů ode dne obdržení stanoviska Ministerstva zdravotnictví předá oznámení Evropské komisi, pokud na základě provedeného hodnocení informací uvedených v oznámení shledá, že byla splněna kritéria podle čl. 8 odst. 6 prvního pododstavce nařízení Evropského parlamentu a Rady (EU) 2017/852. V opačném případě Ministerstvo životního prostředí v téže lhůtě sdělí s uvedením důvodů oznamovateli, že tato kritéria splněna nebyla.
+Ministerstvo zdravotnictví
+Ministerstvo zdravotnictví
+je ústředním orgánem státní správy na úseku ochrany veřejného zdraví před škodlivými účinky látek, směsí nebo látek obsažených ve směsích a předmětech,
+přijímá a shromažďuje informace předkládané podle § 22 odst. 1 až 5 a čl. 45 přímo použitelného předpisu Evropské unie o klasifikaci, balení a označování látek a směsí a umožňuje dálkový přístup k nim Toxikologickému informačnímu středisku,
+zastupuje Českou republiku v orgánech Evropské agentury pro chemické látky,
+v rámci své působnosti informuje veřejnost o rizicích látek nebo látek obsažených ve směsích a předmětech nebezpečných pro zdraví.
+Ministerstvo zdravotnictví poskytuje příslušným orgánům Evropské unie a příslušným orgánům členských států Evropské unie zprávy a stanoviska v rozsahu, podobě a časových intervalech v souladu s požadavky právních předpisů Evropské unie na úseku ochrany veřejného zdraví před škodlivými účinky látek, směsí nebo látek obsažených ve směsích a předmětech.
+Ministerstvo zdravotnictví spolupracuje s příslušnými orgány Evropské unie a příslušnými orgány členských států Evropské unie na úseku ochrany veřejného zdraví před škodlivými účinky látek, směsí nebo látek obsažených ve směsích a předmětech.
+Ministerstvo zdravotnictví na základě žádosti Ministerstva životního prostředí podle § 24 odst. 5 vydává stanovisko k oznámení podle čl. 8 odst. 3 nařízení Evropského parlamentu a Rady (EU) 2017/852. Toto stanovisko obsahuje posouzení, zda jsou splněna kritéria stanovená v čl. 8 odst. 6 prvním pododstavci nařízení Evropského parlamentu a Rady (EU) 2017/852 z hlediska přínosů nového výrobku s přidanou rtutí či nového výrobního procesu pro lidské zdraví, rizika pro lidské zdraví a existence proveditelných technických alternativ, které by poskytly pro lidské zdraví srovnatelný přínos. Lhůta pro vydání tohoto stanoviska je 4 měsíce a ve zvláště složitých případech 7 měsíců ode dne obdržení žádosti Ministerstva životního prostředí.
+Zjistí-li Ministerstvo zdravotnictví, že k provedení posouzení podle odstavce 4 je nezbytné si od oznamovatele vyžádat doplňující informace, požádá Ministerstvo životního prostředí, aby si je od oznamovatele vyžádalo. Do doby, než Ministerstvo životního prostředí předá doplňující informace Ministerstvu zdravotnictví, lhůta pro vydání stanoviska podle odstavce 4 neběží.
+Ministerstvo zdravotnictví vydává národní plán podle čl. 10 odst. 3 nařízení Evropského parlamentu a Rady (EU) 2017/852.
+Ministerstvo průmyslu a obchodu
+Ministerstvo průmyslu a obchodu
+zastupuje Českou republiku v orgánech Evropské agentury pro chemické látky,
+spolupracuje s Ministerstvem životního prostředí při poskytování poradenství výrobcům, dovozcům, následným uživatelům a dalším zúčastněným osobám ohledně jejich povinností a odpovědnosti podle přímo použitelných předpisů Evropské unie,,
+informuje veřejnost o rizicích látek podle čl. 123 přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek.
+Ministerstvo obrany
+Ministerstvo obrany
+zastupuje Českou republiku v orgánu Evropské obranné agentury pro koordinaci implementace Kodexu chování k povolování výjimek z nařízení Evropského parlamentu a Rady o registraci, hodnocení, povolování a omezování chemických látek za účelem zajišťování obrany státu,
+spolupracuje s Ministerstvem životního prostředí při poskytování poradenství výrobcům a dovozcům týkajícího se jejich povinností a odpovědnosti vyplývajících z přímo použitelného předpisu Evropské unie o klasifikaci, označování a balení látek a směsí a
+vydává na žádost Ministerstva životního prostředí závazné stanovisko pro vydání rozhodnutí o povolení výjimky podle čl. 2 odst. 3 nařízení Evropského parlamentu a Rady (ES) č. 1907/2006, a to ve lhůtě 20 dnů ode dne obdržení žádosti; toto závazné stanovisko obsahuje posouzení, zda je požadovaná výjimka nezbytná pro účely zajišťování obrany státu.
+Česká inspekce životního prostředí
+Česká inspekce životního prostředí
+kontroluje, jak jsou výrobci, dovozci, následnými uživateli, distributory a dodavateli předmětů dodržována ustanovení tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona,
+ukládá pokuty za porušení povinností podle tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona.
+Krajská hygienická stanice
+Krajská hygienická stanice
+kontroluje, jak jsou výrobci, dovozci, následnými uživateli, distributory a dodavateli předmětů dodržována ustanovení tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona, z hlediska ochrany zdraví,
+kontroluje, jak jsou dodržována ustanovení tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních úřadů vydaná podle tohoto zákona, pokud upravují obsah látek v předmětech určených pro styk s potravinami, hračkách, kosmetických prostředcích, výrobcích pro děti ve věku do 3 let a ve výrobcích určených k přímému styku s pitnou, teplou nebo surovou vodou při jejich jímání, odběru, dopravě, úpravě, rozvodu, shromažďování, měření dodávky a dalších obdobných účelech,
+ukládá pokuty za porušení povinností podle tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona.
+Státní úřad inspekce práce
+Státní úřad inspekce práce
+kontroluje, jak jsou výrobci, dovozci, následnými uživateli, distributory a dodavateli předmětů dodržována ustanovení tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona, z hlediska bezpečnosti práce,
+ukládá pokuty za porušení povinností podle tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona.
+Celní úřad
+Celní úřad
+vede evidenci všech látek a směsí vyvezených z území České republiky a dovezených na území České republiky. Do této evidence umožní pracovníkům Ministerstva životního prostředí, Ministerstva zdravotnictví, České inspekce životního prostředí, Ústředního kontrolního a zkušebního ústavu zemědělského a krajských hygienických stanic nahlížet, pořizovat si z ní výpisy, popřípadě kopie,
+kontroluje, jak jsou vývozci a dovozci dodržována ustanovení tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona,
+ukládá pokuty za porušení povinností podle tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona.
+Ústřední kontrolní a zkušební ústav zemědělský
+Ústřední kontrolní a zkušební ústav zemědělský
+kontroluje, jak jsou dodavateli látek a směsí dodržována ustanovení tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona, pokud se týkají klasifikace, balení a označování přípravků na ochranu rostlin,
+ukládá pokuty za porušení povinností podle tohoto zákona, právních předpisů vydaných k jeho provedení, přímo použitelných předpisů Evropské unie a rozhodnutí správních orgánů podle tohoto zákona a dává Ministerstvu životního prostředí podněty k výkonu státního dozoru před škodlivými účinky vyráběných, uváděných na trh nebo používaných přípravků na ochranu rostlin nebo dalších prostředků na ochranu rostlin.
+NÁPRAVNÁ OPATŘENÍ A PŘESTUPKY
+Nápravná opatření
+Příslušné správní orgány podle § 23 písm. e) až i) jsou oprávněny nařídit
+osobě, která uvedla na trh látku nebo směs v rozporu s požadavky na jejich klasifikaci, balení nebo označování stanovenými přímo použitelným předpisem Evropské unie o klasifikaci, balení a označování, aby pozastavila jejich další uvádění na trh do doby, než uvede jejich klasifikaci, balení a označování do souladu s těmito požadavky,
+osobě, která uvedla látku nebo látku ve směsi nebo předmětu na trh, aniž splnila povinnost registrace podle přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek, její stažení z trhu,
+osobě, která porušila zákaz nebo omezení uvádět na trh látku samotnou nebo obsaženou ve směsi nebo předmětu podle hlav VII a VIII přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek, její stažení z trhu,
+k odstranění protiprávního stavu v oblasti uvádění látek, směsí nebo předmětů na trh zneškodnění nebezpečné látky, směsi nebo předmětu na náklady jejich vlastníka, popřípadě držitele, není-li vlastník znám, jestliže hrozí poškození zdraví nebo ohrožení života člověka, životního prostředí anebo jestliže již k němu došlo,
+k odstranění protiprávního stavu v oblasti dovozu a vývozu látek, směsí nebo předmětů zneškodnění nebezpečné látky, směsi nebo předmětu na náklady jejich vlastníka, popřípadě držitele, není-li vlastník znám, jestliže hrozí poškození zdraví nebo ohrožení života člověka, životního prostředí anebo jestliže již k němu došlo,
+k odstranění protiprávního stavu v oblasti uvádění přípravků na ochranu rostlin nebo dalších prostředků na ochranu rostlin na trh zneškodnění nebezpečného přípravku na ochranu rostlin nebo dalšího prostředku na ochranu rostlin anebo souběžného přípravku na ochranu rostlin na náklady jejich vlastníka, popřípadě držitele, není-li vlastník znám, jestliže hrozí škody na zdraví lidí nebo zvířat nebo poškození životního prostředí anebo jestliže již k němu došlo,
+osobě, která uvedla na trh povrchově aktivní látku nebo detergent obsahující povrchově aktivní látku, které nesplňují kritéria biologické rozložitelnosti stanovená přímo použitelným předpisem Evropské unie o detergentech, jejich stažení z trhu,
+osobě, která uvedla na trh detergent, který nesplňuje omezení obsahu fosforečnanů a jiných sloučenin fosforu stanovená přímo použitelným předpisem Evropské unie o detergentech, jeho stažení z trhu, nebo
+osobě, která v rozporu s nařízením Evropského parlamentu a Rady (EU) 2017/852 uvedla na trh nový výrobek s přidanou rtutí, jeho stažení z trhu.
+Odvolání proti rozhodnutí o stažení látky, směsi nebo předmětu z trhu nebo zneškodnění nebezpečné látky, směsi nebo předmětu nemá odkladný účinek.
+Přestupky právnických a podnikajících fyzických osob
+Osoba, která provádí zkoušení vlastností látek nebo směsí nebezpečných pro zdraví a životní prostředí pro účely tohoto zákona se dopustí přestupku tím, že
+provádí zkoušení nebezpečných vlastností látky nebo směsi pro účely tohoto zákona a přímo použitelných předpisů Evropské unie, bez osvědčení podle § 18 odst. 1, nebo
+v rozporu s § 21 odst. 2 písemně nepotvrdí, že zkoušení nebezpečných vlastností látky nebo směsi bylo provedeno v souladu se zásadami.
+Výrobce nebo dovozce se dopustí přestupku tím, že
+vyrobí nebo doveze látku anebo látku ve směsi nebo předmětu bez registrace nebo oznámení podle přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek, nebo
+v rozporu s přímo použitelným předpisem Evropské unie o klasifikaci, označování a balení látek a směsí neoznámí údaje o klasifikaci.
+Výrobce se dopustí přestupku tím, že v rozporu s přímo použitelným předpisem Evropské unie o detergentech uvede na trh na území České republiky
+povrchově aktivní látku nebo detergent obsahující povrchově aktivní látku, které nesplňují kritéria biologické rozložitelnosti stanovená přímo použitelným předpisem Evropské unie o detergentech, nebo
+prací prostředek pro spotřebitele anebo detergent určený pro automatické myčky nádobí pro spotřebitele.
+Výrobce, dovozce nebo následný uživatel se dopustí přestupku tím, že
+v rozporu s přímo použitelným předpisem Evropské unie o registraci, hodnocení, povolování a omezování chemických látek uvede na trh nebo používá látku bez povolení,
+v rozporu s přímo použitelným předpisem Evropské unie o perzistentních organických znečišťujících látkách vyrobí, uvede na trh nebo používá látku, nebo
+v rozporu s přímo použitelným předpisem Evropské unie o klasifikaci, označování a balení látek a směsí neklasifikuje látku nebo směs před jejich uvedením na trh nebo je klasifikuje odlišně, než stanoví tento předpis.
+Výrobce, dovozce, následný uživatel nebo distributor se dopustí přestupku tím, že
+v rozporu s přímo použitelným předpisem Evropské unie o registraci, hodnocení, povolování a omezování chemických látek neposkytne informace v dodavatelském řetězci,
+v rozporu s hlavou VIII přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek vyrobí, uvede na trh nebo použije látku nebo látku ve směsi nebo předmětu,
+uvede na trh látku nebo směs klasifikovanou jako nebezpečná, aniž by zajistil její označení a zabalení podle přímo použitelného předpisu Evropské unie o klasifikaci, označování a balení látek a směsí,
+v rozporu s přímo použitelným předpisem Evropské unie o klasifikaci, označování a balení látek a směsí neuchovává doklady o splnění požadavků na klasifikaci a označování látky nebo směsi po dobu, po kterou je tato látka nebo směs uváděna na trh, a po dobu 10 let od posledního uvedení na trh nebo je neposkytne na vyžádání příslušným správním orgánům,
+v rozporu s přímo použitelným předpisem Evropské unie o klasifikaci, označování a balení látek a směsí neuvede příslušné třídy nebo kategorie nebezpečnosti v nabídce nebezpečné látky nebo informace o nebezpečnosti v nabídce směsi, která umožňuje uzavření kupní smlouvy bez znalosti informací uvedených na štítku nebo obalu látky nebo směsi,
+v rozporu s přímo použitelným předpisem Evropské unie o registraci, hodnocení, povolování a omezování chemických látek neuchovává veškeré informace vyžadované pro plnění jeho povinností po dobu, po kterou je látka nebo směs uváděna na trh, a po dobu 10 let od posledního uvedení na trh.
+Vývozce nebo dovozce se dopustí přestupku tím, že
+v rozporu s přímo použitelným předpisem Evropské unie o vývozu a dovozu nebezpečných chemických látek doveze nebo vyveze látku, nebo
+v rozporu s přímo použitelným předpisem Evropské unie o vývozu a dovozu nebezpečných chemických látek neposkytne Ministerstvu životního prostředí informace o dovozu a vývozu.
+Vývozce se dopustí přestupku tím, že v rozporu s nařízením Evropského parlamentu a Rady (EU) 2017/852 vyveze rtuť, její sloučeniny nebo směsi nebo vyveze výrobky s přidanou rtutí.
+Dovozce se dopustí přestupku tím, že v rozporu s nařízením Evropského parlamentu a Rady (EU) 2017/852 doveze rtuť, její sloučeniny nebo směsi nebo doveze výrobky s přidanou rtutí.
+Osoba se dopustí přestupku tím, že v rozporu s nařízením Evropského parlamentu a Rady (EU) 2017/852
+vyrobí výrobek s přidanou rtutí,
+použije ve výrobním procesu nebo novém výrobním procesu rtuť nebo její sloučeniny,
+vyrobí nový výrobek s přidanou rtutí nebo jej uvede na trh, nebo
+použije volně balenou rtuť.
+Následný uživatel se dopustí přestupku tím, že v rozporu s přímo použitelným předpisem Evropské unie o registraci, hodnocení, povolování a omezování chemických látek
+nevyhotoví zprávu o chemické bezpečnosti nebo neposkytne Evropské agentuře pro chemické látky stanovené informace, nebo
+neurčí nebo neuplatňuje vhodná opatření k náležitému omezení rizik identifikovaných
+v bezpečnostních listech, které mu byly poskytnuty,
+ve svém vlastním posouzení chemické bezpečnosti, nebo
+v jakýchkoli informacích o opatřeních k řízení rizik, které mu byly poskytnuty.
+Žadatel o registraci se dopustí přestupku tím, že v rozporu s přímo použitelným předpisem Evropské unie o registraci, hodnocení, povolování a omezování chemických látek
+neposkytne Evropské agentuře pro chemické látky stanovené informace,
+nestanoví nebo neuplatňuje vhodná opatření k náležité kontrole rizik zjištěných při posouzení chemické bezpečnosti nebo je nedoporučí v bezpečnostních listech,
+neuchovává zprávu o chemické bezpečnosti nebo ji neaktualizuje, nebo
+neaktualizuje své registrační údaje doplněním informací, které nově zjistil, nebo je nepředloží Evropské agentuře pro chemické látky.
+Dovozce, následný uživatel nebo distributor, který jako první uvádí na trh na území České republiky směs, která má nebezpečné fyzikálně-chemické vlastnosti nebo nebezpečné vlastnosti ovlivňující zdraví, se dopustí přestupku tím, že neposkytne ve stanoveném rozsahu a stanoveným způsobem Ministerstvu zdravotnictví informace podle § 22 odst. 1 nebo 2.
+Výrobce nebo distributor, který uvádí na trh na území České republiky detergent, se dopustí přestupku tím, že
+uvede na trh detergent, aniž by zajistil jeho označení podle přímo použitelného předpisu Evropské unie o detergentech,
+uvede na trh detergent, který nesplňuje omezení obsahu fosforečnanů a jiných sloučenin fosforu podle přímo použitelného předpisu Evropské unie o detergentech, nebo
+neposkytne Ministerstvu zdravotnictví informace podle § 22 odst. 3 nebo 4.
+Dovozce, následný uživatel, výrobce nebo distributor se dopustí přestupku tím, že neoznámí ve stanoveném rozsahu a stanoveným způsobem změnu informací poskytnutých Ministerstvu zdravotnictví podle § 22 odst. 5.
+Osoba, která uvedla na trh látku nebo směs, která nesplňuje požadavky na její klasifikaci, balení nebo označování stanovené přímo použitelným předpisem Evropské unie o klasifikaci, označování a balení látek a směsí, se dopustí přestupku tím, že nepozastaví další uvádění této látky nebo směsi na trh podle § 33 odst. 1 písm. a).
+Osoba, která uvedla látku nebo látku ve směsi nebo předmětu na trh, aniž splnila povinnost registrace podle přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek, se dopustí přestupku tím, že v rozporu s rozhodnutím příslušného správního úřadu podle § 33 odst. 1 písm. b) nestáhne takovou látku, směs nebo předmět z trhu.
+Osoba, která porušila zákaz nebo omezení uvádění na trh látky samotné nebo obsažené ve směsi nebo předmětu podle hlav VII a VIII přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek, se dopustí přestupku tím, že v rozporu s rozhodnutím příslušného správního úřadu podle § 33 odst. 1 písm. c) nestáhne takovou látku, směs nebo předmět z trhu.
+Osoba, která uvedla na trh povrchově aktivní látku nebo detergent obsahující povrchově aktivní látku, které nesplňují kritéria biologické rozložitelnosti stanovená přímo použitelným předpisem Evropské unie o detergentech, se dopustí přestupku tím, že nestáhne takovou povrchově aktivní látku nebo detergent obsahující povrchově aktivní látku z trhu podle § 33 odst. 1 písm. g).
+Osoba, která uvedla na trh detergent, který nesplňuje omezení obsahu fosforečnanů a jiných sloučenin fosforu stanovená přímo použitelným předpisem Evropské unie o detergentech, se dopustí přestupku tím, že nestáhne takový detergent z trhu podle § 33 odst. 1 písm. h).
+Osoba, která v rozporu s nařízením Evropského parlamentu a Rady (EU) 2017/852 uvedla na trh nový výrobek s přidanou rtutí, se dopustí přestupku tím, že v rozporu s rozhodnutím příslušného správního úřadu podle § 33 odst. 1 písm. i) nestáhla takový výrobek z trhu.
+Dodavatel předmětu se dopustí přestupku tím, že neposkytne informace do databáze Evropské agentury pro chemické látky podle § 22 odst. 7.
+Osoba se dopustí přestupku tím, že jako zaměstnavatel v rozporu s čl. 35 přímo použitelného předpisu Evropské unie o registraci, hodnocení, povolování a omezování chemických látek neumožní zaměstnancům a jejich zástupcům přístup ke stanoveným informacím.
+Osoba se dopustí přestupku tím, že v rozporu s čl. 5 odst. 2 přímo použitelného předpisu Evropské unie o perzistentních organických znečišťujících látkách neposkytne Ministerstvu životního prostředí informace o zásobách obsahujících látky uvedené v příloze I nebo II tohoto předpisu.
+Za přestupky lze uložit pokutu
+do 5 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), odstavce 4 písm. a) nebo c), odstavce 5 písm. b) nebo c) nebo odstavců 15 až 17,
+do 3 000 000 Kč, jde-li o přestupek podle odstavce 4 písm. b), odstavce 5 písm. a), d) až f), odstavce 6 písm. a), odstavců 7 až 9, odstavce 10 písm. b), odstavce 11 písm. b), odstavce 13 písm. a) nebo b) nebo odstavců 18 až 20,
+do 2 500 000 Kč, jde-li o přestupek podle odstavce 11 písm. a) nebo d),
+do 1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), odstavce 2 písm. b), odstavce 3, odstavce 6 písm. b), odstavce 10 písm. a), odstavce 11 písm. c), odstavce 12 nebo odstavce 13 písm. c), nebo
+do 500 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), odstavce 14 nebo odstavců 21 až 23.
+Společná ustanovení k přestupkům
+Přestupky podle tohoto zákona ze správních orgánů uvedených v § 23 písm. e) až i) projednává ten, který spáchání přestupku zjistil jako první.
+Příjem z pokut uložených Českou inspekcí životního prostředí je příjmem Státního fondu životního prostředí.
+Minimální koncentrace nebezpečných látek obsažených ve směsi, které se berou v úvahu při klasifikaci směsí
+Limitní koncentrace nebezpečných látek pro změnu klasifikace nebezpečných směsí

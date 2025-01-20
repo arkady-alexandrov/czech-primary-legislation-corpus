@@ -1,0 +1,321 @@
+UKLÁDÁNÍ OXIDU UHLIČITÉHO DO PŘÍRODNÍCH HORNINOVÝCH STRUKTUR
+ÚVODNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon zapracovává příslušný předpis Evropské unie a upravuje práva a povinnosti právnických a podnikajících fyzických osob v oblasti ukládání oxidu uhličitého do přírodních horninových struktur a výkon státní správy s tím související.
+Tento zákon se nevztahuje na ukládání oxidu uhličitého do přírodních horninových struktur s celkovou zamýšlenou úložnou kapacitou nižší než 100 kilotun prováděné za účelem výzkumu, vývoje nebo zkoušení nových výrobků a postupů.
+Základní pojmy
+Pro účely tohoto zákona se rozumí
+tokem oxidu uhličitého – tok látek vzniklý z procesů zachytávání oxidu uhličitého,
+ukládáním oxidu uhličitého – vtláčení oxidu uhličitého do přírodních horninových struktur za účelem jeho trvalého zadržení v těchto strukturách,
+úložištěm oxidu uhličitého – vymezený prostor uvnitř přírodních horninových struktur určený k ukládání oxidu uhličitého a související povrchová a vtláčecí zařízení vymezená v povolení provozu úložiště,
+úložným komplexem – úložiště oxidu uhličitého a okolní horninové prostředí, které může mít vliv na celkovou integritu tohoto úložiště a bezpečnost ukládání oxidu uhličitého,
+únikem oxidu uhličitého – uvolnění oxidu uhličitého z úložného komplexu,
+závažnou nesrovnalostí – rozdíl mezi hodnotami uvedenými v plánu monitorování a skutečnými hodnotami zjištěnými v průběhu ukládání oxidu uhličitého, týkající se ukládaného oxidu uhličitého nebo stavu úložného komplexu, které ukazují na rizika úniku oxidu uhličitého nebo rizika pro životní prostředí nebo lidské zdraví,
+podstatnou změnou – změna v provozu úložiště oxidu uhličitého, která není uvedena v povolení provozu, a která může mít významný vliv na životní prostředí nebo lidské zdraví,
+závažným rizikem – spojení pravděpodobnosti vzniku a rozsahu škod nebo ekologické újmy, které nelze pominout, aniž by se tím v případě dotčeného úložiště oxidu uhličitého zpochybnila jeho funkčnost nebo bezpečnost,
+nápravnými opatřeními – opatření přijatá k nápravě závažných nesrovnalostí nebo likvidace úniků oxidu uhličitého s cílem předejít uvolňování oxidu uhličitého z úložného komplexu nebo takové uvolňování zastavit,
+přepravní sítí – síť produktovodů určených k přepravě oxidu uhličitého na úložiště oxidu uhličitého, včetně připojených kompresních stanic,
+provozovatelem – osoba, která provozuje nebo řídí úložiště, nebo které byla svěřena rozhodující hospodářská pravomoc nad technickou stránkou provozu úložiště,
+vodním sloupcem – vertikálně souvislá masa vody od hladiny po dnové sedimenty vodního útvaru,
+geologickou formací – soubor hornin, které lze podle jejich fyzikálních a chemických vlastností, v kombinaci s pozicí v zemské kůře, rozlišit od jiných souborů hornin a zmapovat,
+oblakem oxidu uhličitého – rozptýlený objem oxidu uhličitého v geologické formaci,
+migrací – pohyb oxidu uhličitého uvnitř úložného komplexu,
+uzavřením úložiště – definitivní ukončení vtláčení oxidu uhličitého do daného úložiště,
+dobou po uzavření – doba po uzavření úložiště, včetně doby po přechodu povinnosti na příslušný orgán.
+Veřejná prospěšnost
+Úložiště oxidu uhličitého a přepravní síť jsou veřejně prospěšnými stavbami.
+PODMÍNKY POVOLOVÁNÍ ÚLOŽIŠŤ OXIDU UHLIČITÉHO
+Povolení provozu úložišť oxidu uhličitého
+Úložiště oxidu uhličitého lze provozovat pouze na základě povolení. Provoz úložiště oxidu uhličitého a jeho změny povoluje obvodní báňský úřad.
+Povolení provozu úložiště oxidu uhličitého může obvodní báňský úřad vydat pouze žadateli, který splňuje finanční předpoklady k zajištění plnění všech povinností stanovených tímto zákonem.
+Finančními předpoklady podle odstavce 2 se rozumí schopnost žadatele finančně zabezpečit provozování úložiště a schopnost zabezpečit povinnosti vyplývající z tohoto zákona a povolení vydaného na jeho základě. Splnění finančních předpokladů je zajištěno zřízením finančního zabezpečení rizik podle § 16. Žadatel o povolení není finančně způsobilý, jestliže má v evidenci daní u orgánů Finanční správy České republiky nebo orgánů Celní správy České republiky evidován nedoplatek. Finanční předpoklady podle odstavce 2 žadatel nesplňuje, pokud v průběhu uplynulých 3 let soud zrušil konkurs vedený na majetek žadatele proto, že bylo splněno rozvrhové usnesení, nebo soud zamítl insolvenční návrh proto, že majetek dlužníka nebude postačovat k úhradě nákladů insolvenčního řízení, nebo rozhodl o zrušení konkursu proto, že majetek dlužníka je zcela nepostačující.
+Povolení pro více než jedno úložiště oxidu uhličitého v jedné hydraulické jednotce, představované hydraulicky propojeným pórovým prostorem ohraničeným nepropustnými bariérami, v němž lze šíření tlaku měřit technickými prostředky, může obvodní báňský úřad vydat jen v případě, že případná vzájemná tlaková ovlivnění jsou taková, že při nich mohou všechna úložiště oxidu uhličitého současně splňovat požadavky na provoz úložiště oxidu uhličitého.
+Obvodní báňský úřad povolí provoz úložiště oxidu uhličitého pouze v takových přírodních horninových strukturách, jejichž geologický charakter zjištěný na základě výsledků průzkumu provedeného podle jiného právního předpisu zaručuje, že při použití projektované technologie ukládání oxidu uhličitého nevznikne závažné riziko úniku oxidu uhličitého ani závažná rizika pro životní prostředí nebo lidské zdraví a pro úložiště oxidu uhličitého bylo stanoveno chráněné území podle jiného právního předpisu.
+Řízení o povolení provozu úložiště oxidu uhličitého
+Řízení o povolení provozu úložiště oxidu uhličitého nebo jeho změny se zahajuje na návrh žadatele. Účastníkem řízení o povolení provozu úložiště oxidu uhličitého jsou žadatel, obec, v jejímž územním obvodu má být úložiště oxidu uhličitého zřízeno, osoby splňující podmínky podle jiných právních předpisů, a osoby, jejichž práva a právem chráněné zájmy nebo povinnosti mohou být povolením dotčeny.
+Ministerstvo průmyslu a obchodu vydává závazné stanovisko v řízení o povolení provozu úložiště oxidu uhličitého v přírodních horninových strukturách po vytěžených ložiscích ropy nebo hořlavého zemního plynu. V závazném stanovisku uvede z hlediska surovinové politiky a energetické bezpečnosti státu, zda souhlasí s ukládáním oxidu uhličitého v navrhovaných přírodních horninových strukturách, a může přitom stanovit podmínky. Je-li z hlediska surovinové politiky a energetické bezpečnosti státu vhodnější využít přírodní horninové struktury jako podzemní zásobník hořlavého zemního plynu, vydá nesouhlasné stanovisko.
+V řízení o povolení provozu přeshraničního úložiště oxidu uhličitého spolupracuje obvodní báňský úřad s příslušným orgánem dotčeného členského státu Evropské unie.
+Pokud žádost o povolení provozu úložiště oxidu uhličitého podá držitel rozhodnutí o stanovení průzkumného území pro vyhledávání a průzkum úložiště oxidu uhličitého, vydaného podle jiného právního předpisu, má přednost před jinými žadateli o povolení provozu téhož úložiště za předpokladu, že vyhledávání a průzkum byly dokončeny, byly splněny všechny podmínky stanovené v rozhodnutí o stanovení průzkumného území a žádost o povolení provozu úložiště oxidu uhličitého byla podána tímto žadatelem během doby platnosti rozhodnutí o stanovení průzkumného území.
+V průběhu řízení o povolení provozu úložiště oxidu uhličitého nesmí být povoleno využití úložného komplexu, které by bylo v rozporu s účelem tohoto zákona. Řízení o povolení protichůdného využití úložného komplexu zahájené podle jiného právního předpisu se přeruší, pokud bylo zahájeno řízení o povolení provozu úložiště oxidu uhličitého podle tohoto zákona. Během doby platnosti povolení provozu úložiště oxidu uhličitého nelze povolit využití tohoto úložiště, které by bylo v rozporu s účelem tohoto zákona.
+Jestliže by provozem úložiště oxidu uhličitého mohly být ohroženy zájmy chráněné podle jiných právních předpisů nebo vlastnická či jiná práva osob, použije se obdobně ustanovení horního zákona o řešení střetů zájmů.
+Pokud tento zákon nestanoví jinak, vztahuje se na řízení o povolení provozu úložiště oxidu uhličitého zákon upravující hornickou činnost, výbušniny a státní báňskou správu.
+Žádost o povolení provozu úložiště
+Žádost o povolení provozu úložiště oxidu uhličitého musí obsahovat
+obchodní firmu, název nebo jméno, popřípadě jména a příjmení, sídlo nebo bydliště, identifikační číslo osoby, popřípadě datovou schránku žadatele,
+číslo oprávnění k hornické činnosti žadatele,
+číslo osvědčení o odborné způsobilosti závodního, jako fyzické osoby odpovědné za provoz úložiště oxidu uhličitého,
+údaj o celkovém množství oxidu uhličitého, který má být vtlačen a uložen, jeho potenciálních zdrojích, způsobu přepravy, složení toků oxidu uhličitého, rychlosti a tlaku vtláčení, umístění zařízení ke vtláčení a jeho technický popis,
+popis opatření, která mají zabránit závažným nesrovnalostem.
+K žádosti podle odstavce 1 se přiloží
+závěrečná zpráva o výsledcích průzkumu úložiště oxidu uhličitého a úložného komplexu podle jiného právního předpisu,
+návrh monitorovacího plánu,
+návrh plánu nápravných opatření,
+návrh předběžného plánu činnosti po uzavření úložiště oxidu uhličitého,
+stanovisko nebo závěr zjišťovacího řízení vydané podle jiného právního předpisu,
+potvrzení, která nejsou starší než 30 dnů, že žadatel nemá v evidenci daní u orgánů Finanční správy České republiky nebo orgánů Celní správy České republiky evidován nedoplatek,
+doklad o tom, že finanční zabezpečení rizik vyžadované podle § 16 vstoupí v platnost a účinnost před zahájením vtláčení,
+doklady o vyřešení střetů zájmů, pokud by provozem úložiště oxidu uhličitého mohly být ohroženy zájmy chráněné podle jiných právních předpisů,
+doklady prokazující vlastnické nebo jiné právo žadatele k pozemkům určeným pro umístnění vtláčecího zařízení.
+Žadatel může požádat při popisu a posuzování plánovaného úložného komplexu a okolní oblasti, které se provádí nejlepšími osvědčenými postupy ve třech krocích podle kritérií stanovených zákonem o geologických pracích, o výjimku z jednoho nebo více těchto kritérií. Obvodní báňský úřad může povolit výjimku z jednoho nebo více těchto kritérií, pokud žadatel prokázal, že povolením výjimky nedojde k nepříznivému ovlivnění rozhodování o vhodnosti plánovaného úložného komplexu.
+Obvodní báňský úřad předá žádost o povolení provozu úložiště oxidu uhličitého Českému báňskému úřadu, který ji zašle Evropské komisi (dále jen „Komise“) k přezkumu do jednoho měsíce od jejího doručení. Český báňský úřad dále Komisi zpřístupní další související materiály, k nimž obvodní báňský úřad přihlíží při rozhodování o udělení povolení provozu úložiště oxidu uhličitého. Po dobu přezkumu žádosti Komisí, která začíná dnem odeslání žádosti obvodním báňským úřadem na Český báňský úřad a končí dnem doručení stanoviska Komise obvodnímu báňskému úřadu, neběží lhůty pro vydání rozhodnutí.
+Rozhodnutí o povolení provozu úložiště oxidu uhličitého
+V rozhodnutí o povolení provozu úložiště oxidu uhličitého se kromě obecných náležitostí podle správního řádu uvede
+identifikace provozovatele, kterému je povolen provoz úložiště oxidu uhličitého,
+umístění a vymezení úložiště oxidu uhličitého a úložného komplexu a údaje týkající se hydraulické jednotky přírodní horninové struktury,
+podmínky provozu úložiště oxidu uhličitého, limity tlaku v úložišti, maximální rychlost a tlak při vtláčení, celkové množství oxidu uhličitého, které je povoleno uložit do úložiště, a nejvyšší možné množství oxidu uhličitého, které je povoleno uložit v úložišti v jednom kalendářním roce; toto množství nesmí překročit 1 mil. tun oxidu uhličitého,
+podmínky na složení a postup přijímání toku oxidu uhličitého a v případě potřeby další podmínky na vtláčení a ukládání, zejména s cílem předejít závažným nesrovnalostem,
+podmínky uzavření úložiště oxidu uhličitého,
+podmínky týkající se změn, přezkumu, aktualizace a zrušení povolení provozu,
+podmínky sjednání a zachování finančního zabezpečení rizik,
+podmínky vytváření finanční rezervy,
+podmínky uložení finančního příspěvku na zvláštní vázaný bankovní účet.
+Přílohu rozhodnutí o povolení provozu úložiště oxidu uhličitého tvoří
+plán monitorování,
+plán nápravných opatření,
+předběžný plán činnosti po uzavření úložiště oxidu uhličitého.
+Český báňský úřad oznámí Komisi pravomocné rozhodnutí obvodního báňského úřadu o povolení provozu úložiště oxidu uhličitého. Pokud se rozhodnutí odchyluje od stanoviska Komise, uvede obvodní báňský úřad v rozhodnutí důvody.
+Změny, přezkum, aktualizace a zrušení povolení provozu úložiště oxidu uhličitého
+Provozovatel je povinen oznámit obvodnímu báňskému úřadu veškeré změny plánované v provozu úložiště oxidu uhličitého. Oznámení provozovatel doloží dokumentací, která umožní obvodnímu báňskému úřadu posoudit, zda se jedná o podstatnou změnu v provozu úložiště oxidu uhličitého.
+Podstatná změna je předmětem zjišťovacího řízení podle zákona o posuzování vlivů na životní prostředí. Podstatnou změnu může provozovatel provést pouze po vydání nového povolení nebo na základě změny povolení provozu úložiště oxidu uhličitého.
+Obvodní báňský úřad přezkoumá a podle potřeby změní nebo, je-li to nezbytně nutné, zruší povolení provozu úložiště oxidu uhličitého,
+pokud mu byly oznámeny jakékoli úniky oxidu uhličitého nebo závažné nesrovnalosti podle § 11 odst. 1 nebo byl-li na ně upozorněn,
+pokud zprávy předložené podle § 10 nebo kontroly provedené podle § 21 svědčí o tom, že nejsou dodrženy podmínky povolení nebo hrozí závažné riziko úniku oxidu uhličitého nebo jsou zjištěny závažné nesrovnalosti,
+pokud se dozví o jakémkoli nedodržení podmínek povolení,
+pokud se to jeví jako nezbytné na základě nejnovějších vědeckých poznatků a technologického pokroku,
+pokud provozovatel oznámí změny podle odstavce 1, nebo
+aniž jsou dotčena písmena a) až e), 5 let po vydání povolení a poté každých 10 let.
+Obvodní báňský úřad po nabytí právní moci rozhodnutí o zrušení povolení podle odstavce 3 rozhodne o uzavření úložiště oxidu uhličitého, pokud Český báňský úřad do 30 dnů od nabytí právní moci rozhodnutí o zrušení povolení nerozhodne o pokračování v ukládání oxidu uhličitého. Český báňský úřad může uložit jiné podnikající fyzické nebo právnické osobě, která má oprávnění k hornické činnosti, aby pokračovala v ukládání oxidu uhličitého do vydání nového povolení provozu úložiště oxidu uhličitého.
+Obvodní báňský úřad do vydání nového povolení dočasně přebírá povinnosti provozovatele související s kritérii pro přijímání oxidu uhličitého, s monitorováním a nápravnými opatřeními prováděnými podle tohoto zákona, s vyřazením povolenek v případě úniku podle jiného právního předpisu a s preventivními a nápravnými opatřeními prováděnými podle jiného právního předpisu. Pokud je podle odstavce 4 pokračováním v ukládání oxidu uhličitého pověřena podnikající fyzická nebo právnická osoba, je za plnění povinností provozovatele odpovědná tato osoba.
+Provozovatel, kterému bylo zrušeno povolení podle odstavce 3, je povinen uhradit náklady, které prokazatelně vznikly v souvislosti s plněním povinností vyplývajících z odstavce 5. Obvodní báňský úřad vymáhá úhradu těchto nákladů, a to i čerpáním z finančního zabezpečení podle § 16.
+POVINNOSTI PŘI PROVOZU ÚLOŽIŠTĚ A PO JEHO UZAVŘENÍ
+Kritéria a postup pro přijímání oxidu uhličitého
+Tok oxidu uhličitého nesmí obsahovat příměsi ve významném množství; může obsahovat náhodně přidružené látky ze zdroje nebo procesu zachytávání nebo ukládání a stopovací látky přidané s cílem usnadnit zjišťování a ověřování šíření oxidu uhličitého. Koncentrace všech náhodných a přidaných látek musí být nižší než hodnoty, které by
+nepříznivě ovlivnily neporušenost úložiště oxidu uhličitého nebo příslušné přepravní infrastruktury,
+představovaly závažné riziko pro životní prostředí nebo lidské zdraví, nebo
+byly v rozporu s jinými právními předpisy.
+Do zachyceného, přepravovaného a ukládaného oxidu uhličitého je zakázáno přidávat odpad nebo jiné látky za účelem jejich odstranění.
+Dodavatel oxidu uhličitého je povinen zajistit provedení analýzy předávaného oxidu uhličitého a hodnocení rizik a předat jejich výsledky příjemci oxidu uhličitého nejpozději v okamžiku převzetí oxidu uhličitého.
+Provozovatel je oprávněn přijímat a ukládat tok oxidu uhličitého pouze tehdy, byla-li provedena analýza jeho složení a posouzení rizik, které zahrnuje zjištění obsahu korozivních látek a sloučenin síry a posouzení rizik sirovodíkové křehkosti.
+Provozovatel je povinen vést evidenci množství a vlastností dodaného a vtláčeného toku oxidu uhličitého, včetně jeho složení.
+Monitorování
+Provozovatel je povinen provádět monitorování vtláčecích zařízení, úložného komplexu a podle potřeby okolního životního prostředí za účelem
+porovnání skutečného chování oxidu uhličitého a vody přítomné v úložišti s chováním předpokládaným v závěrečné zprávě zpracované podle jiného právního předpisu,
+zjištění závažných nesrovnalostí,
+zjištění pohybu oxidu uhličitého,
+zjištění případného úniku oxidu uhličitého a jeho objemu,
+zjištění případných významných nežádoucích účinků na okolní prostředí, zejména na pitnou vodu, obyvatelstvo nebo uživatele okolní biosféry,
+posouzení účinnosti nápravných opatření,
+aktualizace posouzení bezpečnosti a neporušenosti úložného komplexu z krátkodobého a dlouhodobého hlediska, včetně posouzení toho, zda bude uložený oxid uhličitý zcela a trvale zadržen.
+Provozovatel provádí monitorování podle plánu monitorování. Kritéria pro vypracování a aktualizaci plánu monitorování a pro monitorování po uzavření jsou stanovena v příloze k tomuto zákonu.
+Provozovatel je povinen aktualizovat plán monitorování minimálně jednou za 5 let. Provozovatel při tom zohlední změny týkající se posouzení rizika úniku, změny týkající se posouzení rizik pro životní prostředí a lidské zdraví, nové vědecké poznatky a dosažený pokrok v nejlepších dostupných technologiích. Aktualizovaný plán monitorování předkládá provozovatel obvodnímu báňskému úřadu se žádostí o změnu povolení provozu úložiště oxidu uhličitého.
+Monitorováním podle tohoto zákona nejsou dotčeny povinnosti zjišťovat, vykazovat a ověřovat množství emisí skleníkových plynů podle jiného právního předpisu.
+Předkládání zpráv
+Provozovatel je povinen předložit obvodnímu báňskému úřadu ve lhůtách jím stanovených, nejméně však jednou ročně,
+všechny výsledky monitorování podle § 9 za období, o němž se podává zpráva, včetně informací o použité technologii monitorování,
+doklad o složení a zachování finančního zajištění rizik podle § 16,
+další informace, které jsou nezbytné pro účely posouzení dodržování podmínek povolení k ukládání a rozšíření znalostí o chování oxidu uhličitého v úložišti oxidu uhličitého.
+Provozovatel je povinen předložit obvodnímu báňskému úřadu do 15. března následujícího kalendářního roku informace o množství a vlastnostech toků oxidu uhličitého, včetně jeho složení, které byly dodány a vtlačeny do úložiště oxidu uhličitého za předcházející kalendářní rok, a které byly zaevidovány podle § 8 odst. 5.
+Opatření v případě úniků nebo závažných nesrovnalostí
+Provozovatel je povinen bezodkladně oznámit obvodnímu báňskému úřadu a Ministerstvu životního prostředí jakékoli úniky oxidu uhličitého nebo závažné nesrovnalosti a provést nezbytná nápravná opatření, včetně jejich ohlášení.
+Nápravná opatření, včetně opatření vztahujících se k ochraně lidského zdraví, provádí provozovatel na základě plánu nápravných opatření.
+Obvodní báňský úřad může provozovateli nařídit provedení nezbytných nápravných opatření zamezujících únikům oxidu uhličitého nebo závažným nesrovnalostem a opatření vztahujících se k ochraně lidského zdraví a stanovit lhůty k jejich provedení. Provozovatel je povinen provést nařízená opatření, a to na svoje náklady. Tato opatření mohou doplňovat opatření stanovená v plánu nápravných opatření nebo mohou být odlišná.
+Neprovede-li provozovatel nezbytná nápravná opatření nebo není-li schopen provést nápravná opatření podle odstavce 3 nebo v případě nebezpečí z prodlení zajistí provedení nezbytných nápravných opatření obvodní báňský úřad na náklady provozovatele, který byl povinen podle odstavce 1 provést nápravná opatření. Český báňský úřad může uložit jiné podnikající fyzické nebo právnické osobě, která má oprávnění k hornické činnosti, aby provedla nezbytná nápravná opatření. Pověření pracovníci obvodního báňského úřadu nebo pověřené podnikající fyzické nebo právnické osoby jsou za tím účelem oprávněni vstupovat do objektů a zařízení provozovatele a provádět nezbytná opatření.
+Náklady vzniklé v souvislosti s opatřeními podle odstavců 3 a 4 se přednostně hradí čerpáním z finančního zabezpečení rizik podle § 16. Provozovatel, který byl povinen podle odstavce 1 provést nápravná opatření, má povinnost doplnit finanční zabezpečení tak, aby byly splněny požadavky na finanční zabezpečení rizik a podmínky stanovené v rozhodnutí o povolení provozu úložiště oxidu uhličitého.
+Pokud nebudou všechny náklady vzniklé v souvislosti s opatřeními podle odstavců 3 a 4 pokryty z finančního zabezpečení rizik, vymáhá na provozovateli úhradu nákladů obvodní báňský úřad.
+Povinnosti při uzavírání úložiště oxidu uhličitého a po jeho uzavření
+Úložiště oxidu uhličitého se uzavře, jsou-li splněny podmínky stanovené v povolení provozu nebo na základě odůvodněné žádosti provozovatele, a to po schválení obvodním báňským úřadem.
+Provozovatel je povinen uzavřít úložiště oxidu uhličitého, pokud obvodní báňský úřad zruší povolení podle § 7 odst. 3 a Český báňský úřad následně nerozhodne o pokračování v ukládání oxidu uhličitého podle § 7 odst. 4.
+Provozovatel je povinen trvale utěsnit úložiště oxidu uhličitého a demontovat vtláčecí zařízení před jeho uzavřením nejpozději do 1 roku ode dne schválení žádosti podle odstavce 1 nebo ode dne zrušení povolení podle odstavce 2.
+Po uzavření úložiště oxidu uhličitého podle odstavce 1 je provozovatel i nadále povinen monitorovat, podávat zprávy, provádět nápravná opatření podle požadavků stanovených tímto zákonem a plnit povinnosti související s vyřazením povolenek v případě úniku podle jiného právního předpisu a s preventivními a nápravnými opatřeními prováděnými podle jiného právního předpisu až do přechodu povinností podle § 13 odst. 1 až 5.
+Povinnosti podle odstavce 4 plní provozovatel na základě plánu činnosti po uzavření úložiště oxidu uhličitého, který vypracuje na základě informací shromážděných a vymodelovaných v průběhu provádění plánu monitorování podle § 9 odst. 1.
+Provozovatel je povinen před uzavřením úložiště oxidu uhličitého podle odstavce 1 změnit předběžný plán týkající se činnosti po uzavření úložiště oxidu uhličitého, a to s přihlédnutím k analýze rizika úniku oxidu uhličitého, rizik pro životní prostředí či lidské zdraví, osvědčeným postupům a nejlepším dostupným technikám. Provozovatel je povinen předložit změněný plán obvodnímu báňskému úřadu ke schválení. Schválením se tento plán stává závazným pro činnosti po uzavření úložiště.
+Po uzavření úložiště oxidu uhličitého podle odstavce 2 je obvodní báňský úřad povinen provádět monitorování nebo nápravná opatření podle požadavků stanovených tímto zákonem a plnit povinnosti související s vyřazením povolenek v případě úniku podle jiného právního předpisu a s preventivními a nápravnými opatřeními prováděnými podle jiného právního předpisu. Český báňský úřad může uložit jiné podnikající fyzické nebo právnické osobě, která má oprávnění k hornické činnosti, aby prováděla činnosti po uzavření úložiště oxidu uhličitého.
+Požadavky na činnosti po uzavření podle tohoto zákona se plní na základě předběžného plánu činnosti po uzavření úložiště oxidu uhličitého uvedeného v odstavci 5, který se podle potřeby aktualizuje. Pokud je podle odstavce 7 prováděním činností po uzavření úložiště oxidu uhličitého pověřena podnikající fyzická nebo právnická osoba, předloží po aktualizaci předběžný plán činnosti obvodnímu báňskému úřadu spolu se žádostí o změnu povolení provozu úložiště oxidu uhličitého.
+Provozovatel, kterému bylo zrušeno povolení podle odstavce 3, je povinen uhradit náklady, které prokazatelně vznikly v souvislosti s plněním povinností vyplývajících z odstavce 7. Obvodní báňský úřad vymáhá úhradu těchto nákladů, a to i čerpáním z finančního zabezpečení podle § 16.
+Přechod povinností
+Pokud bylo úložiště oxidu uhličitého uzavřeno podle § 12 odst. 1, přecházejí povinnosti související s monitorováním a prováděním nápravných opatření podle tohoto zákona, s vyřazením povolenek v případě úniku podle jiného právního předpisu a s preventivními a nápravnými opatřeními prováděnými podle jiného právního předpisu na obvodní báňský úřad, který vydal povolení provozu úložiště. Český báňský úřad může uložit jiné podnikající fyzické nebo právnické osobě, která má oprávnění k hornické činnosti, aby prováděla činnosti po přechodu povinností vyplývající z tohoto zákona.
+Řízení o schválení přechodu povinností zahajuje obvodní báňský úřad z moci úřední nebo na žádost provozovatele. Obvodní báňský úřad vydá rozhodnutí o schválení přechodu povinností, pokud jsou splněny tyto podmínky:
+všechna dostupná zjištění nasvědčují tomu, že uložený oxid uhličitý je a zůstane zcela a trvale zadržen,
+uplynula doba od uzavření úložiště oxidu uhličitého stanovená obvodním báňským úřadem; tato doba nesmí být kratší než 20 let, s výjimkou případu, kdy provozovatel doloží obvodnímu báňskému úřadu na základě zprávy zpracované odborně způsobilou osobou podle jiného právního předpisu, že kritérium uvedené v písmenu a) je splněno před jejím uplynutím,
+finanční příspěvek byl provozovatelem uložen na zvláštní vázaný bankovní účet Českého báňského úřadu podle § 18,
+úložiště oxidu uhličitého bylo utěsněno a vtláčecí zařízení byla demontována nebo jinak odstraněna.
+Provozovatel je povinen zajistit vypracování zprávy odborně způsobilou osobou podle jiného právního předpisu dokládající, že podmínka podle odstavce 2 písm. a) byla splněna, a předložit ji obvodnímu báňskému úřadu s žádostí o schválení přechodu povinností. Tato zpráva musí prokazovat
+shodu skutečného chování uloženého oxidu uhličitého s chováním modelovým podle závěrečné zprávy zpracované podle jiného právního předpisu,
+neexistenci zjistitelných úniků oxidu uhličitého,
+skutečnost, že úložiště oxidu uhličitého se blíží ke stavu dlouhodobé stability.
+Pokud jsou podmínky podle odstavce 2 písm. a) a b) splněny, vypracuje obvodní báňský úřad návrh rozhodnutí o schválení přechodu povinností. V návrhu rozhodnutí zejména uvede postup, jakým se určuje, že podmínky podle odstavce 2 písm. d) byly splněny, a veškeré aktualizované požadavky týkající se utěsnění úložiště oxidu uhličitého, demontáže nebo jiného odstranění vtláčecích zařízení. Návrh rozhodnutí a veškeré materiály, ke kterým přihlíží při přípravě návrhu rozhodnutí, zašle obvodní báňský úřad Českému báňskému úřadu. Obvodní báňský úřad žádost zamítne, pokud podmínky podle odstavce 2 písm. a) a b) nejsou splněny.
+Český báňský úřad zpřístupní zprávy podle odstavce 3 Komisi do jednoho měsíce od jejich obdržení. Český báňský úřad v téže lhůtě zpřístupní Komisi další související materiály, k nimž obvodní báňský úřad přihlížel při přípravě návrhu rozhodnutí o schválení přechodu povinností, a zašle tento návrh Komisi, včetně případných dalších materiálů, které vzal obvodní báňský úřad při svém rozhodování v úvahu.
+Po dobu posuzování návrhu rozhodnutí Komisí, která začíná dnem odeslání návrhu rozhodnutí Českému báňskému úřadu a končí dnem doručení stanoviska Komise obvodnímu báňskému úřadu, neběží lhůty pro vydání rozhodnutí. Pokud jsou podmínky podle odstavce 2 písm. a) až d) splněny, vydá obvodní báňský úřad rozhodnutí a po nabytí právní moci jej zašle Českému báňskému úřadu. Český báňský úřad oznámí pravomocné rozhodnutí Komisi. Pokud se rozhodnutí odchyluje od stanoviska Komise, uvede obvodní báňský úřad v rozhodnutí důvody, proč se rozhodnutí odchyluje od stanoviska Komise.
+Po nabytí právní moci rozhodnutí o schválení přechodu povinností končí kontroly prováděné podle § 21 a monitorování může být omezeno na úroveň, která umožňuje zjištění úniků oxidu uhličitého nebo závažných nesrovnalostí. Při zjištění úniků oxidu uhličitého nebo závažných nesrovnalostí musí být monitorování prováděno ve větším rozsahu za účelem posouzení rozsahu úniků oxidu uhličitého nebo závažných nesrovnalostí a účinnosti nápravných opatření. Rozsah monitorování může nařídit obvodní báňský úřad.
+Jestliže z důvodu pochybení provozovatele, včetně neposkytnutí dostatečných údajů, zatajení informací, nedbalosti, podvodu nebo nedodržení náležité obezřetnosti, nejsou náklady na monitorování po uzavření úložiště oxidu uhličitého a nezbytná nápravná opatření pokryty finančním příspěvkem podle § 18, nese tyto náklady provozovatel.
+Pokud bylo úložiště oxidu uhličitého uzavřeno podle § 12 odst. 2, považuje se přechod povinností za uskutečněný v okamžiku nabytí právní moci rozhodnutí o schválení přechodu povinností. Obvodní báňský úřad vydá rozhodnutí o schválení přechodu povinností v případě, že všechny dostupné důkazy nasvědčují tomu, že uložený oxid uhličitý bude zcela a trvale zadržen, došlo k utěsnění úložiště oxidu uhličitého, k demontáži vtláčecích zařízení nebo jejich jinému odstranění.
+FINANČNÍ NÁSTROJE
+Poplatek za ukládání oxidu uhličitého
+Poplatníkem poplatku za ukládání oxidu uhličitého je provozovatel, kterému bylo vydáno povolení provozu úložiště oxidu uhličitého.
+Předmětem poplatku za ukládání oxidu uhličitého je oxid uhličitý, který je ukládán do přírodních horninových struktur.
+Základem poplatku za ukládání oxidu uhličitého je množství oxidu uhličitého uloženého do přírodních horninových struktur zaokrouhlené na celé tuny nahoru.
+Sazba poplatku za ukládání oxidu uhličitého je 1 Kč za tunu oxidu uhličitého uloženého do přírodních horninových struktur.
+Poplatkovým obdobím je kalendářní rok.
+Poplatník je povinen do 15. března roku bezprostředně následujícího po skončení poplatkového období podat obvodnímu báňskému úřadu poplatkové přiznání.
+Formu a strukturu poplatkového přiznání včetně předepsaných údajů stanoví Český báňský úřad vyhláškou.
+Poplatek za ukládání oxidu uhličitého je splatný do 30 dnů od doručení platebního výměru.
+Správcem poplatku za ukládání oxidu uhličitého je obvodní báňský úřad místně příslušný podle umístění vtláčecího zařízení pro ukládání oxidu uhličitého do přírodních horninových struktur.
+Výnos z poplatku za ukládání oxidu uhličitého je příjmem obce, na jejímž katastrálním území se nachází vtláčecí zařízení pro ukládání oxidu uhličitého do přírodních horninových struktur. Správce poplatku převede výnos z poplatku obci do 30 dnů ode dne zaplacení poplatku na účet příslušného obvodního báňského úřadu.
+Finanční zabezpečení
+Žadatel o povolení provozu úložiště oxidu uhličitého je povinen prokázat, že je schopen poskytnout vhodné finanční zabezpečení, které pokrývá
+rizika během provozu a po uzavření úložiště (dále jen „finanční zabezpečení rizik“),
+očekávané náklady související s povinnostmi při uzavírání a po uzavření úložiště oxidu uhličitého a po přechodu povinností (dále jen „finanční rezerva“).
+Způsob vytváření finančního zabezpečení a čerpání peněžních prostředků z finančního zabezpečení stanoví vláda nařízením.
+Finanční zabezpečení rizik
+Na finanční zabezpečení rizik lze použít zejména tyto nástroje:
+pojištění,
+vázaný bankovní účet,
+bankovní záruka,
+finanční zajištění.
+Riziky během provozu a po uzavření úložiště se rozumí zejména
+vznik nákladů na provádění nápravných opatření,
+vznik nákladů spojených s plněním povinností vyplývajících z jiného právního předpisu,
+vznik nákladů na monitorování v období mezi uzavřením úložiště a přechodem povinností, které nejsou pokryty finanční rezervou.
+Finanční zabezpečení rizik musí vstoupit v platnost a účinnost před zahájením vtláčení a musí zůstat platné a účinné
+po uzavření úložiště oxidu uhličitého podle § 12 odst. 1 až do nabytí právní moci rozhodnutí o schválení přechodu povinností podle § 13 odst. 6, nebo
+po zrušení povolení provozu úložiště oxidu uhličitého podle § 7 odst. 3 až do nabytí právní moci nového povolení provozu, nebo, je-li úložiště oxidu uhličitého uzavřeno podle § 12 odst. 2 a byl poskytnut finanční příspěvek podle § 18, až do přechodu povinností podle § 13 odst. 9.
+Změny finančního zabezpečení rizik, včetně úprav jeho výše, schvaluje obvodní báňský úřad.
+Obvodní báňský úřad může povolit sloučení více nástrojů finančního zabezpečení rizik pro více úložišť oxidu uhličitého, pokud je provozuje jeden provozovatel a nebude ohrožena jejich účinnost.
+Provozovatel zajistí, aby obvodní báňský úřad byl oprávněn čerpat z nástrojů finančního zabezpečení rizik peněžní prostředky pro účely stanovené v § 11 odst. 3 a 4.
+Peněžní prostředky uložené na vázaný bankovní účet, které tvoří finanční zabezpečení rizik, nesmí být předmětem zajištění, nesmí být zahrnuty do majetkové podstaty a nepodléhají výkonu rozhodnutí ani exekuci.
+Provozovatel je povinen vytvářet finanční zabezpečení rizik podle podmínek stanovených v rozhodnutí o povolení provozu úložiště oxidu uhličitého. Souhlas s čerpáním peněžních prostředků z finančního zabezpečení rizik ve formě vázaného bankovního účtu vydává obvodní báňský úřad, nejde-li o případ uvedený v odstavci 6.
+Finanční rezerva
+Finanční rezervu vytváří provozovatel ve formě zvláštního vázaného bankovního účtu. Finanční rezerva pokrývá
+náklady na monitorování a na zajištění úplného a trvalého zadržení oxidu uhličitého v úložišti od uzavření úložiště do přechodu povinností,
+utěsnění úložiště, demontáž a jiné odstranění vtláčecích zařízení,
+poskytnutí finančního příspěvku podle § 18.
+Finanční rezerva je nákladem na dosažení, udržení a zajištění příjmů provozovatele a nesmí být zahrnuta do majetkové podstaty, nepodléhá výkonu rozhodnutí ani exekuci a nesmí být použita pro jiné úložiště oxidu uhličitého ani k jinému účelu, než pro který byla vytvořena.
+Čerpání peněžních prostředků z finanční rezervy schvaluje obvodní báňský úřad. Žádost provozovatele o čerpání z finanční rezervy musí být doložena odhadem nákladů na plnění povinností uvedených v odstavci 1. Obvodní báňský úřad neschválí organizaci čerpání části finanční rezervy určené na poskytnutí finančního příspěvku podle § 18 před přechodem povinností podle § 13.
+Pokud provozovatel zanikne nebo je v úpadku, může obvodní báňský úřad rozhodnout o doplnění finanční rezervy z finančního zabezpečení rizik.
+Výnosy ze zvláštního bankovního účtu podle odstavce 1 nejsou součástí finanční rezervy.
+Finanční příspěvek
+Finančním příspěvkem se rozumí peněžní prostředky určené na pokrytí nákladů na monitorování a na zajištění úplného a trvalého zadržení oxidu uhličitého v úložištích oxidu uhličitého po přechodu povinností.
+Provozovatel je povinen před přechodem povinností podle § 13 uložit finanční příspěvek na zvláštní vázaný bankovní účet Českého báňského úřadu.
+Výše finančního příspěvku zohledňuje kritéria pro popis a posuzování úložného komplexu z hlediska možného ukládání oxidu uhličitého podle jiného právního předpisu nebo parametry vztahující se k průběhu ukládání oxidu uhličitého důležité pro určení povinností pro dobu alespoň 50 let od přechodu povinností.
+Finanční příspěvek, uložený na zvláštním vázaném účtu Českého báňského úřadu, není předmětem daně z příjmů.
+PŘÍSTUP K PŘEPRAVNÍ SÍTI A ÚLOŽIŠTÍM OXIDU UHLIČITÉHO
+Přístup k přepravní síti a úložištím oxidu uhličitého
+Provozovatelé zařízení na zachytávání a přepravu oxidu uhličitého mají právo na přístup k existujícím přepravním sítím oxidu uhličitého a k úložištím oxidu uhličitého povoleným podle tohoto zákona, pokud to
+umožňuje kapacita úložiště oxidu uhličitého zjištěná při průzkumu provedeném podle jiného právního předpisu,
+umožňuje kapacita přepravní sítě, která je k dispozici nebo může být přiměřeně zajištěna,
+nevylučuje neslučitelnost technických specifikací, kterou nelze odstranit,
+nevylučují odůvodněné potřeby vlastníka nebo provozovatele úložiště oxidu uhličitého nebo přepravní sítě a zájmy dalších uživatelů úložiště oxidu uhličitého, sítě nebo dotčených zpracovacích či manipulačních zařízení,
+nenaruší plnění mezinárodních závazků České republiky v oblasti snižování emisí oxidu uhličitého.
+Provozovatel přepravní sítě nebo úložiště oxidu uhličitého je povinen zajistit přístup k přepravní síti nebo k úložišti oxidu uhličitého. Provozovatel může odmítnout přístup z důvodu nedostatečné kapacity, v takovém případě je povinen odmítnutí řádně odůvodnit.
+Provozovatel přepravní sítě nebo úložiště oxidu uhličitého, který odmítl přístup z důvodu nedostatečné kapacity nebo nedostatečného připojení, je povinen provést veškerá nezbytná zdokonalení, jsou-li hospodárná nebo je-li za ně potenciální zákazník ochoten zaplatit, za předpokladu, že to nebude mít nepříznivý vliv na bezpečnost přepravy a ukládání oxidu uhličitého pro životní prostředí.
+VÝKON VEŘEJNÉ SPRÁVY, KONTROLA A SANKCE
+Výkon veřejné správy
+Veřejnou správu podle tohoto zákona vykonávají
+Ministerstvo životního prostředí,
+Ministerstvo průmyslu a obchodu,
+Český báňský úřad,
+obvodní báňské úřady.
+Ministerstvo životního prostředí
+vykonává působnost ústředního správního úřadu v oblasti přepravy oxidu uhličitého za účelem jeho uložení do přírodních horninových struktur,
+kontroluje, jak fyzické a právnické osoby plní povinnosti týkající se přepravy oxidu uhličitého vyplývající z tohoto zákona a z rozhodnutí vydaných na jeho základě,
+koordinuje výzkum a sleduje technický rozvoj v rámci zachytávání, přepravy a ukládání oxidu uhličitého,
+předává Komisi každé tři roky zprávu o provádění tohoto zákona vypracovanou na základě požadavků Komise,
+je příslušným orgánem v případech přeshraniční přepravy oxidu uhličitého.
+Ministerstvo průmyslu a obchodu vydává závazné stanovisko v řízení o povolení provozu úložiště oxidu uhličitého v přírodních horninových strukturách po vytěžených ložiscích ropy nebo hořlavého zemního plynu.
+Český báňský úřad vykonává působnost ústředního správního úřadu v oblasti ukládání oxidu uhličitého do přírodních horninových struktur v rozsahu stanoveném jiným právním předpisem a dále
+zjišťuje, jak obvodní báňské úřady plní povinnosti podle tohoto zákona,
+vede souhrnnou evidenci vydaných povolení provozu úložišť oxidu uhličitého a evidenci uzavřených úložišť oxidu uhličitého a okolních úložných komplexů, včetně map a řezů jejich prostorového rozsahu a dostupných informací důležitých pro posouzení toho, zda bude uložený oxid uhličitý zcela a trvale zadržen,
+zpřístupňuje informace o úložištích oxidu uhličitého postupem podle jiného právního předpisu,
+zasílá Komisi žádost o povolení provozu úložiště oxidu uhličitého a oznamuje jí pravomocné rozhodnutí o povolení provozu úložiště oxidu uhličitého,
+rozhoduje o pokračování v ukládání oxidu uhličitého,
+zpřístupňuje Komisi zprávy a další související materiály,
+oznamuje Komisi pravomocné rozhodnutí o schválení přechodu povinností,
+zveřejňuje formu a strukturu poplatkového přiznání včetně předepsaných údajů způsobem umožňujícím dálkový přístup,
+pověřuje podnikající fyzickou nebo právnickou osobu, která má oprávnění k hornické činnosti, k provádění činností vyplývajících z tohoto zákona.
+Obvodní báňské úřady kromě působnosti stanovené jiným právním předpisem
+vydávají povolení provozu úložiště oxidu uhličitého,
+spolupracují s příslušným orgánem jiného členského státu Evropské unie v řízení o povolení provozu přeshraničního úložiště oxidu uhličitého,
+přezkoumávají, mění a zrušují vydaná povolení provozu úložiště oxidu uhličitého,
+rozhodují o uzavření úložiště oxidu uhličitého,
+nařizují provozovateli provedení nezbytných nápravných opatření a opatření vztahujících se k ochraně lidského zdraví, popřípadě stanoví lhůty k jejich provedení nebo zajišťují jejich provedení na náklady provozovatele,
+zajišťují provedení nezbytných nápravných opatření na náklady provozovatele,
+schvalují žádosti o uzavření úložiště oxidu uhličitého,
+plní povinnosti při zrušení rozhodnutí o povolení provozu a po přechodu povinností,
+vymáhají náklady prokazatelně vzniklé v souvislosti s prováděním nezbytných nápravných opatření nebo s plněním povinností po uzavření úložiště,
+vydávají rozhodnutí o schválení přechodu povinností,
+vykonávají správu poplatku za ukládání oxidu uhličitého,
+schvalují změny finančního zabezpečení rizik, včetně úprav jeho výše,
+povolují sloučení více nástrojů finančního zabezpečení rizik,
+schvalují čerpání peněžních prostředků z finanční rezervy,
+vykonávají kontrolní činnost podle tohoto zákona,
+ukládají pokuty za přestupky podle tohoto zákona.
+Kontrolní činnost
+V rámci své působnosti provádějí orgány uvedené v § 20 kontrolu, jak fyzické i právnické osoby plní povinnosti vyplývající z tohoto zákona i z rozhodnutí vydaných na jeho základě. Orgány dozoru podle § 20 odst. 4 a 5 ukládají opatření a vydávají závazné příkazy k nápravě zjištěných nedostatků podle tohoto zákona.
+Obvodní báňské úřady provádějí před uzavřením úložiště oxidu uhličitého jeho kontrolu nejméně jednou za rok. Po uzavření úložiště oxidu uhličitého se kontroly provádějí nejméně jednou ročně během 3 let po uzavření a poté každých 5 let, dokud nedojde k přechodu povinností podle § 13. Po uzavření úložiště oxidu uhličitého se kontroly zaměřují na zařízení pro vtláčení a monitorování a na vlivy úložného komplexu na životní prostředí a na lidské zdraví.
+Obvodní báňské úřady provádějí mimořádné kontroly úložišť oxidu uhličitého, jsou-li jim oznámeny úniky nebo závažné nesrovnalosti podle § 11 odst. 1 nebo jsou-li na ně upozorněny, nasvědčují-li zprávy podle § 10 o nedostatečném dodržování podmínek povolení, v případě potřeby prošetření závažných stížností vztahujících se k životnímu prostředí nebo lidskému zdraví, nebo v jiných situacích, kdy to považují za vhodné.
+Obvodní báňský úřad vypracovává po každé kontrole úložiště oxidu uhličitého protokol o kontrole, ve kterém je uvedeno, zda jsou zapotřebí další opatření. Obvodní báňský úřad zveřejní protokol o kontrole do 2 měsíců od ukončení kontroly; protokol o kontrole v případě mimořádné kontroly podle odstavce 3 obvodní báňský úřad předá Českému báňskému úřadu a Ministerstvu životního prostředí.
+Při provádění kontrol ověřuje orgán veřejné správy plnění povinností vyplývajících z tohoto zákona, předpisů vydaných k jeho provedení a jiných právních předpisů, pokud se vztahují k ukládání oxidu uhličitého do přírodních horninových struktur nebo vyplývajících z rozhodnutí orgánů veřejné správy, a ukládá opatření k nápravě.
+Přestupky právnických a podnikajících fyzických osob
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že v rozporu s § 3 odst. 1 provozuje úložiště oxidu uhličitého bez povolení.
+Žadatel o povolení provozu úložiště oxidu uhličitého se dopustí přestupku tím, že v žádosti uvede nepravdivé údaje v rozporu s § 5 odst. 1 a 2.
+Provozovatel se dopustí přestupku tím, že
+provozuje úložiště oxidu uhličitého v rozporu s povolením podle § 3 odst. 1,
+nesplní oznamovací povinnost podle § 7 odst. 1,
+provede podstatné změny v provozu úložiště oxidu uhličitého bez vydání nového nebo změněného povolení provozu úložiště oxidu uhličitého v rozporu s § 7 odst. 2,
+přijímá a ukládá oxid uhličitý v rozporu s § 8 odst. 1,
+v rozporu s § 8 odst. 2 přidává do ukládaného oxidu uhličitého odpad nebo jiné látky za účelem jejich odstranění,
+nevede evidenci množství a vlastností dodaného a vtláčeného oxidu uhličitého v rozporu s § 8 odst. 5,
+neprovádí monitorování podle § 9 odst. 1 a 2 nebo neprovede aktualizaci plánu monitorování podle § 9 odst. 3,
+v rozporu s § 10 nepodá obvodnímu báňskému úřadu zprávu v zákonem stanoveném rozsahu,
+v rozporu s § 11 odst. 1 neoznámí úniky oxidu uhličitého a závažné nesrovnalosti nebo neprovede nezbytná nápravná opatření,
+v rozporu s § 11 odst. 3 neprovede nezbytné nápravné opatření a opatření vztahující se k ochraně lidského zdraví, pokud mu byla obvodním báňským úřadem nařízena,
+v rozporu s § 12 odst. 1 uzavře úložiště oxidu uhličitého,
+neplní povinnosti podle § 12 odst. 2,
+po uzavření úložiště oxidu uhličitého neplní povinnosti podle § 12 odst. 6 a 7 nebo je plní v rozporu s plánem činnosti po uzavření podle § 12 odst. 5,
+uvede nepravdivé údaje ve zprávě podle § 13 odst. 3 v úmyslu předstírat, že splňuje podmínky pro schválení přechodu povinností podle § 13,
+v rozporu s § 17 odst. 1 nevytváří finanční rezervu,
+v rozporu s § 18 odst. 2 neuloží finanční příspěvek na zvláštní vázaný účet v bance,
+v rozporu s § 19 odst. 2 nezajistí přístup k úložišti oxidu uhličitého,
+v rozporu s § 19 odst. 3 neprovede nezbytná zdokonalení úložiště oxidu uhličitého.
+Dodavatel oxidu uhličitého se dopustí přestupku tím, že
+v rozporu s § 8 odst. 2 přidává do zachyceného, přepravovaného a ukládaného oxidu uhličitého odpad nebo jiné látky za účelem jejich odstranění,
+v rozporu s § 8 odst. 3 nezajistí provedení analýzy předávaného oxidu uhličitého a hodnocení rizik a nepředá jejich výsledky příjemci oxidu uhličitého nejpozději v okamžiku převzetí oxidu uhličitého.
+Provozovatel přepravní sítě se dopustí přestupku tím, že
+v rozporu s § 8 odst. 2 přidává do zachyceného a přepravovaného oxidu uhličitého odpad nebo jiné látky za účelem jejich odstranění,
+v rozporu s § 19 odst. 2 nezajistí přístup k přepravní síti,
+v rozporu s § 19 odst. 3 neprovede nezbytná zdokonalení úložiště oxidu uhličitého.
+Za přestupek podle odstavců 1 až 5 lze uložit pokutu do
+1 000 000 Kč, jde-li o přestupek podle odstavce 1, odstavce 2, odstavce 3 písm. e), i), l), m), n), o), p) a podle odstavce 4,
+2 000 000 Kč, jde-li o přestupek podle odstavce 3 písm. d), f), g), j), k),
+5 000 000 Kč, jde-li o přestupek podle odstavce 3 písm. a), b), c), h), q), r) a podle odstavce 5.
+Společná ustanovení k přestupkům
+Přestupky podle tohoto zákona v prvním stupni projednává a pokuty za ně ukládá obvodní báňský úřad. Přestupky uvedené v § 22 odst. 5 projednává a pokuty za ně ukládá Ministerstvo životního prostředí.
+Pokuty vybírá orgán, který je uložil.
+Společné ustanovení
+Ukládání oxidu uhličitého do přírodních horninových struktur na území České republiky nelze podle tohoto zákona do 1. ledna 2020 povolit.
+KRITÉRIA PRO VYPRACOVÁNÍ A AKTUALIZACI PLÁNU MONITOROVÁNÍ A PRO MONITOROVÁNÍ PO UZAVŘENÍ
+Vypracování a aktualizace plánu monitorování
+Plán monitorování se vypracovává na základě analýzy posouzení rizik provedené podle bodu 3 přílohy k zákonu o geologických pracích a aktualizuje za účelem splnění požadavků na monitorování stanovených v § 9 odst. 1 na základě těchto kritérií:
+Vypracování plánu monitorování
+1.1. Plán monitorování poskytuje údaje o monitorování, které je třeba provádět v hlavních fázích projektu, včetně výchozího a provozního monitorování a monitorování po uzavření. Pro každou fázi se stanoví
+monitorované parametry,
+použité technické prostředky pro monitorování a odůvodnění této volby,
+lokality pro monitorování a zdůvodnění výběru prostorového vzorkování,
+četnost provádění a zdůvodnění výběru časového vzorkování.
+1.2. Parametry určené k monitorování se volí tak, aby byly splněny jeho účely. Plán monitorování však musí v každém případě zahrnovat nepřetržité nebo občasné monitorování těchto parametrů:
+prchavé emise oxidu uhličitého z vtláčecího zařízení,
+objemový tok oxidu uhličitého v ústích vtláčecích vrtů,
+tlak a teplota oxidu uhličitého v ústích vtláčecích vrtů za účelem stanovení hmotnostního průtoku,
+chemická analýza vtlačovaného materiálu,
+teplota a tlak v úložišti oxidu uhličitého za účelem stanovení skupenských přeměn a stavu oxidu uhličitého.
+1.3. Volba technických prostředků pro monitorování vychází z osvědčených postupů dostupných v době přípravy projektu. Je třeba vzít v úvahu a podle vhodnosti využít tyto alternativy:
+technologie, které umožní detektovat přítomnost, umístění a trasy migrace oxidu uhličitého pod povrchem i na povrchu,
+technologie, které poskytují informace o tlakově-objemovém chování a plošném a svislém rozložení oblaku oxidu uhličitého za účelem zlepšení numerické trojrozměrné simulace na trojrozměrných geologických modelech přírodní horninové struktury vytvořených podle zákona o geologických pracích a jeho přílohy,
+technologie, které mají široký plošný záběr a umožňují zachytit informace o případných dříve nezjištěných možných únikových cestách v celém prostorovém rozsahu úložného komplexu i vně něj v případě závažných nesrovnalostí nebo migrace oxidu uhličitého mimo úložný komplex.
+Aktualizace plánu monitorování
+Údaje shromážděné monitorováním se zakládají a vyhodnocují. Pozorované výsledky se porovnávají s chováním předpověděným při dynamické trojrozměrné simulaci tlakově-objemového chování a vývoje nasycenosti provedené v rámci charakterizace bezpečnosti podle zákona o geologických pracích a jeho přílohy (bod 3).
+V případě významného odchýlení pozorovaného chování od předpokladů se provede překalibrování trojrozměrného modelu, aby tento odrážel pozorované chování. Překalibrování se provádí na základě údajů získaných z pozorování podle monitorovacího plánu; je-li to třeba ke zvýšení důvěry v předpoklady použité při překalibrování, obstarají se doplňující údaje.
+Body 2 a 3 přílohy k zákonu o geologických pracích se zopakují s využitím překalibrovaného trojrozměrného modelu nebo modelů, aby se získaly nové scénáře nebezpečí a rychlosti proudění a aby se upravilo a aktualizovalo posouzení rizik.
+Jsou-li na základě porovnání skutečného chování rezervoáru s modelem a nové kalibrace modelu zjištěny nové zdroje, cesty a rychlosti proudění oxidu uhličitého nebo je-li zjištěno výrazné odchýlení od předchozího posouzení, monitorovací plán se odpovídajícím způsobem aktualizuje.
+Monitorování po uzavření
+Monitorování po uzavření se provádí na základě informací shromážděných a vymodelovaných v průběhu provádění plánu monitorování podle § 9 odst. 2 a podle bodu 2. Slouží zejména k získání informací potřebných pro účely § 13 odst. 1.

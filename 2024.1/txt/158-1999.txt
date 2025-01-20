@@ -1,0 +1,208 @@
+Sčítání lidu, domů a bytů
+Sčítáním lidu, domů a bytů (dále jen „sčítání“) se získávají pro statistické účely údaje o obyvatelstvu, jeho demografických, sociálních a ekonomických charakteristikách, úrovni bydlení, struktuře domovního a bytového fondu. Získávají a zpracovávají se k jednomu datu, ve vzájemných vazbách a v územním členění za
+celou republiku,
+vyšší územní samosprávné celky,
+okresy,
+obce,
+části obce,
+části území obcí s jednoznačnými územně technickými a urbanistickými podmínkami (dále jen „základní sídelní jednotky“).
+Vymezení některých pojmů
+Pro účely tohoto zákona se rozumí
+domem stavba, která je podle rozhodnutí stavebního úřadu určená pro bydlení a dále jiná stavba, ve které se nachází alespoň jeden byt,
+bytem soubor místností, popřípadě jednotlivá místnost, který podle rozhodnutí stavebního úřadu svým stavebně technickým uspořádáním a vybavením splňuje požadavky na trvalé bydlení,
+bytovou domácností společenství fyzických osob, které bydlí v jednom bytě; může jí být i jediná fyzická osoba, pokud bydlí sama,
+správcem osoba, která na základě zákona nebo smlouvy je oprávněna ve věcech správy domu jednat,
+uživatelem bytu fyzická osoba, která byt fakticky užívá,
+sčítacím obvodem území základní sídelní jednotky nebo jeho část, ve které sběr údajů zajišťuje sčítací komisař,
+sčítacím komisařem fyzická osoba, která pro sčítání zajišťuje sběr údajů a další práce stanovené Českým statistickým úřadem,
+sčítacím revizorem fyzická osoba, která řídí sčítací komisaře a zajišťuje další práce stanovené Českým statistickým úřadem,
+obcí i město, statutární město a městská část hlavního města Prahy,
+ekonomickou aktivitou fakt, zda v rozhodný okamžik byla sčítaná osoba ekonomicky aktivní (zaměstnána nebo nezaměstnána) nebo ekonomicky neaktivní (osoba pobírající důchod, děti, žáci, studenti, osoby v domácnosti a jiné).
+Termín sčítání
+Sčítání na celém území České republiky se uskuteční v roce 2001.
+Ve sčítání budou zjišťovány údaje podle stavu o půlnoci z 28. února na 1. března roku 2001 (dále jen „rozhodný okamžik“).
+Rozsah sčítání
+Sčítání podléhají
+každá fyzická osoba, která má v rozhodný okamžik na území České republiky trvalý nebo dlouhodobý pobyt,
+každá fyzická osoba, která je na území České republiky v rozhodný okamžik přítomna a nemá zde trvalý nebo dlouhodobý pobyt,
+každý dům, i neobydlený,
+každý byt, i neobydlený.
+Sčítání nepodléhají cizí státní příslušníci požívající diplomatických imunit a výsad, jakož i domy a byty ve vlastnictví jiných států, které slouží k diplomatickým účelům.
+Zjišťované údaje
+Při sčítání se zjišťují údaje
+o fyzických osobách:
+identifikační údaje (jméno a příjmení, rodné číslo, adresa),
+druh pobytu,
+vztah k uživateli bytu,
+datum narození,
+pohlaví,
+rodinný stav,
+datum nynějšího (posledního) sňatku,
+pořadí nynějšího (posledního) manželství,
+počet živě narozených dětí,
+bydliště matky v době narození,
+místo trvalého bydliště jeden rok před sčítáním,
+státní občanství,
+národnost,
+mateřský jazyk,
+náboženství, víra nebo bez vyznání,
+nejvyšší ukončené vzdělání,
+obor vzdělání včetně učebních oborů,
+ekonomická aktivita,
+zaměstnání (profese),
+postavení v zaměstnání,
+odvětví ekonomické činnosti,
+frekvence dojížďky do zaměstnání a školy,
+doba denní dojížďky (docházky) do zaměstnání a školy,
+místo pracoviště, školy,
+způsob dopravy do zaměstnání,
+druhé, případně další zaměstnání;
+o bydlení, bytech a bytových domácnostech:
+způsob bydlení,
+obydlenost bytu,
+právní důvod užívání bytu,
+celková a obytná plocha bytu,
+počet obytných místností (včetně kuchyně),
+poloha bytu,
+vodovod,
+teplá voda,
+plyn,
+převládající způsob vytápění,
+energie používaná k vytápění,
+koupelna (sprchový kout),
+záchod,
+počet osobních automobilů,
+osobní počítač,
+telefon,
+rekreační objekt,
+společné hospodaření členů bytové domácnosti;
+o domech:
+počet bytů v domě,
+vlastník (fyzická, právnická osoba),
+druh domu,
+obydlenost domu,
+období výstavby, rekonstrukce,
+materiál nosných zdí,
+počet nadzemních podlaží,
+vodovod,
+kanalizace,
+plyn,
+ústřední topení,
+výtah.
+U osob uvedených v § 4 odst. 1 písm. b) se zjišťují pouze údaje uvedené v odstavci 1 písm. a) bodech 1, 2, 4, 5 a 12.
+Povinnost poskytnout údaje
+Osoby uvedené v § 4 odst. 1 písm. a) a b) poskytují o sobě všechny údaje v rozsahu a způsobem stanoveným tímto zákonem. Za nezletilou osobu poskytne údaje její zákonný zástupce, za osobu zbavenou způsobilosti k právním úkonům její opatrovník. Za osobu, která má ve sčítacím obvodu trvalý pobyt, ale je dočasně nepřítomná, poskytne údaje jiná osoba z její bytové domácnosti. Pokud taková osoba není, zjistí podle možností potřebné údaje sčítací komisař (například z evidence obce nebo Policie České republiky).
+Údaje o domu poskytne jeho vlastník; vykonává-li správu domu správce, poskytne údaje správce.
+Údaje o bytu poskytne jeho uživatel. Je-li byt neobydlen, poskytne údaje vlastník domu, popřípadě bytu; vykonává-li správu bytu správce, poskytne údaje správce.
+Každý, kdo má povinnost poskytnout údaje, poskytne je úplně, správně, pravdivě a včas. Údaje uvedené v § 5 odst. 1 písm. a) bodech 13 a 15 vyplní každý podle svého rozhodnutí.
+Jestliže povinnost poskytnout údaje má více osob, poskytne údaje jedna z nich, kterou určí dohodou. Nedohodnou-li se, poskytne údaje ta, kterou sčítací komisař vyzve.
+Sčítací tiskopisy
+Údaje požadované podle tohoto zákona poskytují osoby uvedené v § 6 na sčítacích tiskopisech.
+Sčítacími tiskopisy jsou
+sčítací list osob,
+domovní list,
+bytový list.
+Vzory sčítacích tiskopisů stanoví prováděcí právní předpis.
+Sčítací obvody
+Sčítání se provede podle sčítacích obvodů. Sčítací obvody stanoví Český statistický úřad v součinnosti s obcemi.
+Zařízení hromadně ubytovaných příslušníků ozbrojených sil, příslušníků Policie České republiky, zařízení Vězeňské služby České republiky a uprchlické tábory tvoří samostatné sčítací obvody.
+Sčítací komisaři a sčítací revizoři
+Sčítání v jednotlivých sčítacích obvodech provedou sčítací komisaři a sčítací revizoři, které v obcích jmenuje Český statistický úřad. Obce předloží návrhy na jmenování sčítacích komisařů a sčítacích revizorů Českému statistickému úřadu nejpozději 60 kalendářních dnů před rozhodným okamžikem. Nepředloží-li obec návrhy na jmenování ve stanovené lhůtě, jmenuje sčítací komisaře a sčítací revizory Český statistický úřad z vlastního podnětu.
+Ve sčítacích obvodech uvedených v § 8 odst. 2 jmenuje sčítací komisaře a sčítací revizory příslušné ministerstvo (§ 18).
+Při výkonu své funkce se sčítací komisaři a sčítací revizoři prokazují průkazem, který jim vydá orgán, který je jmenoval, a svým občanským průkazem. Vzor průkazu stanoví prováděcí právní předpis.
+Sčítacím komisařem nebo sčítacím revizorem může být jmenována fyzická osoba s trvalým pobytem na území České republiky, která je starší 18 let, je bezúhonná a má způsobilost k právním úkonům v plném rozsahu.
+Povinnosti sčítacích komisařů a sčítacích revizorů
+Sčítací komisaři zajistí sčítání v přiděleném sčítacím obvodu ve stanovených termínech tak, aby do něj byly zahrnuty všechny osoby, domy a byty, které podléhají sčítání. K tomu zejména:
+rozdají a vyberou sčítací tiskopisy,
+poskytnou informace potřebné k vyplnění sčítacích tiskopisů, popřípadě pomohou tyto tiskopisy vyplnit,
+zkontrolují úplnost vyplnění sčítacích tiskopisů,
+sestaví přehledy pro předběžné výsledky sčítání,
+vyplněné sčítací tiskopisy předají sčítacímu revizorovi.
+Sčítací revizoři odpovídají za řádný průběh sčítání v jim přidělených sčítacích obvodech, zejména:
+řídí práci sčítacích komisařů,
+kontrolují úplnost sčítacího materiálu,
+sumarizují předběžné výsledky,
+vyplněné sčítací tiskopisy předají Českému statistickému úřadu.
+Sčítací komisaři a sčítací revizoři jsou povinni učinit opatření, aby vyplněné sčítací tiskopisy nemohly být zneužity třetí osobou, poškozeny nebo zničeny.
+Sčítacím komisařům a sčítacím revizorům přísluší za výkon funkce odměna stanovená podle počtu osob, domů a bytů, ve kterých zajistili sběr údajů. Výši odměny stanoví Český statistický úřad.
+Nemůže-li sčítací komisař nebo sčítací revizor z jakéhokoliv důvodu svoji funkci vykonávat, příslušný orgán jmenuje místo něho náhradníka. Pro jmenování náhradníka se použije ustanovení § 9 obdobně.
+Náhradníkovi sčítacího komisaře nebo sčítacího revizora vydá příslušný orgán (§ 9 odst. 1 a 2) průkaz, ve kterém se vyznačí, že jde o průkaz náhradníka.
+Zveřejnění seznamu sčítacích obvodů, sčítacích komisařů a sčítacích revizorů
+Seznam sčítacích obvodů v obci, včetně jejich vymezení, jména a příjmení sčítacích komisařů, kteří budou v jednotlivých obvodech sčítání zajišťovat, jakož i jména a příjmení sčítacích revizorů, zveřejní obec způsobem v místě obvyklým nejpozději 14 kalendářních dnů před rozhodným okamžikem.
+Seznamy uvedené v odstavci 1 předá Český statistický úřad obcím nejpozději 20 kalendářních dnů před rozhodným okamžikem.
+Bude-li za sčítacího komisaře nebo sčítacího revizora jmenován náhradník, obec neprodleně po oznámení této skutečnosti Českým statistickým úřadem zveřejní tuto skutečnost i jméno a příjmení náhradníka způsobem v místě obvyklým.
+Provedení sčítání
+Sčítací tiskopisy do jednotlivých bytových domácností, provozovatelům zařízení poskytujících ubytovací služby, zdravotnických zařízení nebo zařízení sociální péče a vlastníkům nebo správcům domů, popřípadě i jednotlivým osobám, které podléhají sčítání, doručí nejméně 6 hodin před rozhodným okamžikem příslušný sčítací komisař.
+Provozovatelé zařízení poskytujících ubytovací služby, zdravotnických zařízení a zařízení sociální péče předají k vyplnění sčítací tiskopisy osobám, které zde v rozhodný okamžik pobývají, a nejsou-li tyto osoby například ze zdravotních důvodů způsobilé sčítací tiskopisy vyplnit, vyplní je za ně, popřípadě se souhlasem jejich zákonných zástupců.
+Uživatel bytu předá sčítací tiskopisy všem osobám, které jsou v bytě v noci z 28. února na 1. března 2001 ubytovány.
+Vyplněné tiskopisy převezme příslušný sčítací komisař. Do 12 kalendářních dnů od rozhodného okamžiku mohou být vyplněné tiskopisy odevzdány též sčítacímu revizorovi nebo obci.
+Pokud ten, kdo je podle § 6 povinen poskytnout údaje, z jakýchkoliv důvodů neobdrží příslušný sčítací tiskopis, přihlásí se nejpozději do 12 kalendářních dnů od rozhodného okamžiku u příslušného sčítacího komisaře nebo v kterékoliv obci a sčítací tiskopis dodatečně vyplní a odevzdá.
+Jestliže osoba odevzdává podle odstavců 4 a 5 vyplněný sčítací tiskopis obci, vloží tento tiskopis do obálky a obálku zalepí. Obec na obálce vyznačí, že se jedná o sčítací tiskopis, obálku uloží tak, aby její obsah nemohl být zneužit, a předá ji neporušenou nejpozději do 14 kalendářních dnů od rozhodného okamžiku Českému statistickému úřadu.
+Bude-li předán obci sčítací tiskopis po lhůtě stanovené v odstavcích 4 a 5, obec ho převezme způsobem stanoveným v odstavci 6 a bezodkladně předá Českému statistickému úřadu.
+Ve sčítacích obvodech uvedených v § 8 odst. 2 zajistí provedení sčítání prostřednictvím sčítacích komisařů a sčítacích revizorů příslušné ministerstvo.
+Ochrana údajů
+Údaje o jednotlivých osobách získané ve sčítání nesmějí sčítací komisaři a sčítací revizoři a další osoby, které se s těmito údaji seznámí nebo s nimi přijdou do styku v souvislosti s prováděním sčítání a zpracováním jeho výsledků, zveřejňovat ani komukoli sdělovat a tyto údaje nesmějí použít pro jiné než statistické účely.
+Údaje o jednotlivých bytech obsahující údaje o obydlenosti bytu, celkové a obytné ploše bytu, počtu obytných místností, poloze bytu, technické vybavenosti bytu a údaje o jednotlivých domech mohou být poskytnuty státním orgánům a orgánům územní samosprávy na vyžádání. Na ochranu jiných údajů o bydlení, bytech a bytových domácnostech získaných ve sčítání se použije obdobně ustanovení odstavce 1.
+Údaje o jménu a příjmení se mohou použít pouze pro zajištění úplnosti sčítání a odstranění duplicit. Tyto údaje nesmějí být zaznamenány na elektronické nosiče, ani ukládány v počítačových databázích.
+Není-li v tomto zákoně stanoveno jinak, vztahuje se na ochranu individuálních údajů o fyzických osobách zákon č. 256/1992 Sb., o ochraně osobních údajů v informačních systémech.
+Sčítací tiskopisy se po skončení zpracování výsledků sčítání skartují.
+Za porušení povinností podle ustanovení tohoto paragrafu odpovídá stát.
+Povinnost mlčenlivosti
+Sčítací komisaři a sčítací revizoři, kteří se v souvislosti s přípravou, provedením nebo zpracováním sčítání seznámí s individuálními údaji, jsou povinni zachovat mlčenlivost o těchto údajích. Za tím účelem složí před zahájením prací na sčítání slib mlčenlivosti u orgánu, který je jmenoval. Složení slibu stvrdí vlastnoručním podpisem na příslušné listině. Povinnost mlčenlivosti trvá i po skončení příslušných prací.
+Povinnost mlčenlivosti uvedenou v odstavci 1 mají i jiné osoby, které se v souvislosti s prováděním sčítání a zpracováním jeho výsledků s individuálními údaji seznámí. Slib mlčenlivosti skládají tyto osoby u orgánu, který je pracemi na sčítání pověřil.
+Sčítací komisaři a sčítací revizoři jsou dále povinni:
+zachovávat mlčenlivost též o jiných skutečnostech, než které jsou uvedeny v odstavci 1, o nichž se dozvěděli při výkonu činnosti sčítacího komisaře nebo sčítacího revizora,
+zdržet se jednání, které by mohlo vést ke střetu veřejného zájmu se zájmy osobními, zejména nezneužívat informací nabytých v souvislosti s výkonem činnosti sčítacího komisaře nebo sčítacího revizora ve prospěch vlastní nebo někoho jiného.
+Český statistický úřad vede evidenci osob, které se v souvislosti s prováděním sčítání a zpracování jeho výsledků seznámí s údaji o jednotlivých osobách.
+Sankce
+Kdo nesplní povinnost stanovenou v § 6 a § 12 odst. 2 a 3, přestože k tomu byl vyzván sčítacím komisařem nebo sčítacím revizorem, dopustí se přestupku, za který je možno uložit pokutu až do výše 10 000 Kč.
+Porušení povinnosti mlčenlivosti je přestupkem, pokud nejde o trestný čin. Za tento přestupek je možno uložit pokutu až do výše 200 000 Kč.
+Přestupky uvedené v odstavcích 1 a 2 projednávají okresní úřady. Jinak se na tyto přestupky a jejich projednávání vztahují obecné předpisy o přestupcích.
+Organizace sčítání
+Sčítání organizuje, řídí a koordinuje Český statistický úřad a zabezpečuje jeho přípravu a provedení ve spolupráci s Ministerstvem pro místní rozvoj, Ministerstvem obrany, Ministerstvem spravedlnosti, Ministerstvem vnitra, Ministerstvem zahraničních věcí, Českým úřadem zeměměřickým a katastrálním, okresními úřady a obcemi.
+Povinnosti a oprávnění Českého statistického úřadu
+Český statistický úřad zejména
+řídí a koordinuje přípravu a provádění sčítání,
+zajišťuje propagační a informační kampaň ke sčítání lidu, domů a bytů,
+zajišťuje přípravu sčítacích tiskopisů a jejich distribuci okresním úřadům,
+jmenuje sčítací komisaře a sčítací revizory, pokud jejich jmenování neprovádí ministerstvo nebo jiný správní úřad,
+zajišťuje školení sčítacích komisařů a sčítacích revizorů,
+přebírá od příslušných ministerstev vyplněné sčítací tiskopisy,
+vede evidenci osob, které se v souvislosti s prováděním sčítání a zpracování jeho výsledků seznámí s údaji o jednotlivých osobách,
+zajišťuje zpracování získaných údajů a zveřejnění výsledků sčítání,
+poskytuje statistické informace získané ze sčítání státním orgánům, orgánům územní samosprávy a veřejnosti.
+Český statistický úřad v dohodě s Ministerstvem vnitra vydá Statistický lexikon obcí, který obsahuje seznam obcí a jejich částí podle stanoveného územního členění republiky a základní statistické informace získané sčítáním.
+Pro přípravu a provedení sčítání je Český statistický úřad oprávněn požadovat od orgánů státní správy a obcí bezplatné poskytnutí potřebných údajů z jimi vedených evidencí, včetně mapových podkladů. Uvedené orgány a obce jsou povinny jeho žádosti vyhovět.
+Úkoly ministerstev
+Ministerstvo pro místní rozvoj zajišťuje podklady pro územní přípravu sčítání a jejich průběžnou aktualizaci a spolupracuje s Českým statistickým úřadem na územní přípravě sčítání.
+Ministerstvo vnitra
+spolupracuje s Českým statistickým úřadem při tvorbě instrukcí pro okresní úřady a obce a při přípravě podkladů pro Statistický lexikon obcí,
+zajistí sčítání u hromadně ubytovaných příslušníků Policie České republiky a u osob ubytovaných v uprchlických táborech.
+Ministerstvo obrany zajistí sčítání u hromadně ubytovaných příslušníků ozbrojených sil.
+Ministerstvo zahraničních věcí zajistí sčítání osob, které mají trvalý pobyt v České republice a které v rozhodném okamžiku působí na zastupitelských úřadech České republiky, včetně jejich rodinných příslušníků, pokud je doprovázejí a mají na území České republiky trvalý pobyt.
+Ministerstvo spravedlnosti zajistí sčítání u osob v zařízeních Vězeňské služby České republiky a u hromadně ubytovaných zaměstnanců Vězeňské služby.
+Český úřad zeměměřický a katastrální
+zajistí mapové podklady pro revizi základních sídelních jednotek a následné vymezení sčítacích obvodů,
+spolupracuje s Českým statistickým úřadem při přípravě podkladů pro sčítání domů.
+Ministerstva uvedená v odstavcích 2 až 5
+jmenují sčítací komisaře a sčítací revizory pro sčítací obvody ve své působnosti a organizačně zajišťují jejich školení,
+zajistí předání vyplněných tiskopisů Českému statistickému úřadu do 25 kalendářních dnů od rozhodného okamžiku.
+Úkoly okresních úřadů
+Okresní úřady
+spolupracují na územní přípravě sčítání,
+zajistí předání potřebného počtu sčítacích tiskopisů jednotlivým obcím nejpozději 30 kalendářních dnů před rozhodným okamžikem,
+organizačně zajišťují školení sčítacích komisařů a sčítacích revizorů.
+Úkoly obcí
+Obce v přenesené působnosti
+poskytují Českému statistickému úřadu podklady pro stanovení sčítacích obvodů v obci a vyjadřují se k návrhu na stanovení sčítacích obvodů,
+vypracovávají slovní popis jednotlivých sčítacích obvodů,
+předkládají Českému statistickému úřadu návrhy na jmenování osob sčítacími komisaři a sčítacími revizory ve formě stanovené Českým statistickým úřadem,
+zajišťují způsobem v místě obvyklým informovanost občanů o významu, době a způsobu provedení sčítání,
+předají sčítacím komisařům nejpozději 14 kalendářních dnů před rozhodným okamžikem potřebný počet sčítacích tiskopisů,
+zveřejňují oznámení o sčítání, sčítacích obvodech a sčítacích komisařích (§ 11),
+přijímají vyplněné sčítací tiskopisy v případech uvedených v § 12 odst. 4 až 7 a předají je Českému statistickému úřadu,
+poskytují bezplatně ze svých evidencí sčítacím komisařům údaje potřebné pro provedení sčítání,
+poskytují bezplatně v nezbytném rozsahu prostory pro činnost sčítacích komisařů a sčítacích revizorů. Pokud tyto prostory nemají, spolupracují při jejich zajištění s Českým statistickým úřadem.
+Při plnění úkolů souvisejících se sčítáním postupují ministerstva, okresní úřady a obce podle pokynů Českého statistického úřadu.
+Zmocňovací ustanovení
+Český statistický úřad vydá prováděcí právní předpisy podle § 7 odst. 3 a § 9 odst. 3.

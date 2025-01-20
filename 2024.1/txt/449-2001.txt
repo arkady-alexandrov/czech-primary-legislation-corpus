@@ -1,0 +1,567 @@
+OBECNÁ USTANOVENÍ
+Předmět a účel úpravy
+Tento zákon upravuje
+chov a zachování druhů zvěře volně žijících na území České republiky,
+výjimečné držení zvěře v zajetí,
+dovoz a vývoz živé zvěře,
+dovoz a vypouštění živočichů, kteří zatím nežijí na území České republiky,
+tvorbu a využití honiteb,
+postavení a právní poměry honebního společenstva,
+ochranu myslivosti,
+užívání honebních pozemků a zlepšování životních podmínek zvěře,
+regulaci stavů zvěře, provádění lovu zvěře, včetně lovu zvěře na nehonebních pozemcích,
+podmínky usmrcování živočichů, kteří nejsou zvěří a vyžadují regulaci (dále jen „živočich vyžadující regulaci“),
+náhradu škody způsobené zvěří a při provozování myslivosti, jakož i náhradu škody způsobené na zvěři a na mysliveckých zařízeních,
+kontrolu ulovené zvěře,
+výkon státní správy myslivosti, dozoru a správní tresty za neplnění nebo porušení povinností,
+státní podporu udržení historické a kulturní úrovně a tradic české myslivosti.
+Tento zákon se nevztahuje na jedince druhů zvěře, které jsou drženy v uznaných farmových chovech a které jsou považovány za hospodářská zvířata.,
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+myslivostí soubor činností prováděných v přírodě ve vztahu k volně žijící zvěři jako součásti ekosystému a spolková činnost směřující k udržení a rozvíjení mysliveckých tradic a zvyků jako součásti českého národního kulturního dědictví,
+zvěří obnovitelné přírodní bohatství představované populacemi druhů volně žijících živočichů uvedených v písmenech c) a d),
+druhy zvěře, které nelze lovit podle mezinárodních smluv, jimiž je Česká republika vázána a které byly vyhlášeny ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce, nebo druhy zvěře, které jsou zvláště chráněnými živočichy podle zvláštních právních předpisů a nebyla-li k jejich lovu povolena výjimka podle těchto předpisů:
+savci: bobr evropský (Castor fiber), kočka divoká (Felis silvestris), los evropský (Alces alces), medvěd hnědý (Ursus arctos), rys ostrovid (Lynx lynx), tchoř stepní (Mustela eversmannii), vlk euroasijský (Canis lupus), vydra říční (Lutra lutra),
+ptáci: čírka modrá (Anas querquedula), čírka obecná (Anas crecca), havran polní (Corvus frugilegus), holub doupňák (Columba oenas), jeřábek lesní (Bonasa bonasia), jestřáb lesní (Accipiter gentilis), káně lesní (Buteo buteo), káně rousná (Buteo lagopus), kopřivka obecná (Anas strepera), kormorán velký (Phalacrocorax carbo), koroptev polní (Perdix perdix), krahujec obecný (Accipiter nisus), krkavec velký (Corvus corax), křepelka polní (Coturnix coturnix), lžičák pestrý (Anas clypeata), moták pochop (Circus aeruginosus), poštolka obecná (Falco tinnunculus), racek chechtavý (Larus ridibundus), raroh velký (Falco cherrug), sluka lesní (Scolopax rusticola), sojka obecná (Garrulus glandarius), sokol stěhovavý (Falco peregrinus), tetřev hlušec (Tetrao urogallus), tetřívek obecný (Lyrurus tetrix), volavka popelavá (Ardea cinerea), výr velký (Bubo bubo),
+druhy zvěře, kterou lze obhospodařovat lovem:
+savci: daněk skvrnitý (Dama dama), jelen evropský (Cervus elaphus), jelenec běloocasý (Odocoileus virginianus), jezevec lesní (Meles meles), kamzík horský (Rupicapra rupicapra), koza bezoárová (Capra aegagrus), králík divoký (Oryctolagus cuniculus), kuna lesní (Martes martes), kuna skalní (Martes foina), liška obecná (Vulpes vulpes), muflon (Ovis musimon), prase divoké (Sus scrofa), sika Dybowského (Cervus nippon dybowskii), sika japonský (Cervus nippon nippon), srnec obecný (Capreolus capreolus), tchoř tmavý (Mustela putorius) a zajíc polní (Lepus europaeus),
+ptáci: bažant královský (Syrmaticus reevesii), bažant obecný (Phasianus colchicus), hrdlička zahradní (Streptopelia decaocto), holub hřivnáč (Columba palumbus), husa běločelá (Anser albifrons), husa polní (Anser fabalis), husa velká (Anser anser), kachna divoká (Anas platyrhynchos), krocan divoký (Meleagris gallopavo), lyska černá (Fulica atra), orebice horská (Alectoris graeca), perlička obecná (Numida meleagris), polák chocholačka (Aythya fuligula), polák velký (Aythya ferina), straka obecná (Pica pica), špaček obecný (Sturnus vulgaris), vrána obecná (Corvus corone),
+nehonebními pozemky pozemky uvnitř hranice současně zastavěného území obce, jako náměstí, návsi, tržiště, ulice, nádvoří, cesty, hřiště a parky, pokud nejde o zemědělské nebo lesní pozemky mimo toto území, dále pozemky zastavěné, sady, zahrady a školky řádně ohrazené, oplocené pozemky sloužící k farmovému chovu zvěře,, obvod dráhy, dálnice, silnice, letiště se zpevněnými plochami, veřejná a neveřejná pohřebiště a dále pozemky, které byly za nehonební prohlášeny rozhodnutím orgánu státní správy myslivosti,
+honebními pozemky všechny pozemky v písmenu e) neuvedené,
+souvislými honebními pozemky takové honební pozemky, jestliže se lze dostat z jednoho na druhý bez překročení cizího pozemku; úzké pozemkové pruhy nepřerušují tuto souvislost, leží-li však ve směru podélném, nezakládají souvislost mezi pozemky jimi spojenými; za takové pruhy se nepovažují dálnice, silnice dálničního typu, přehrady a letiště se zpevněnými plochami,
+právem myslivosti souhrn práv a povinností zvěř chránit, cílevědomě chovat, lovit, přivlastňovat si ulovenou nebo nalezenou uhynulou zvěř, její vývojová stadia a shozy paroží, jakož i užívat k tomu v nezbytné míře honebních pozemků,
+honitbou soubor souvislých honebních pozemků jednoho nebo více vlastníků vymezený v rozhodnutí orgánu státní správy myslivosti, v němž lze provádět právo myslivosti podle tohoto zákona,
+oborou druh honitby s podmínkami pro intenzivní chov zvěře s obvodem trvale a dokonale ohrazeným nebo jinak uzpůsobeným tak, že chovaná zvěř z obory nemůže volně vybíhat,
+bažantnicí část honitby, v níž jsou vhodné podmínky pro intenzivní chov bažantů; vyhláška stanoví způsob posouzení těchto podmínek a postup, jakým bude vymezena část honitby jako bažantnice,
+jakostní třídou honitby stupeň její úživnosti; vychází z přírodních podmínek v honitbě a stanovuje ji orgán státní správy myslivosti ve spolupráci s orgány státní správy lesů, zemědělství a ochrany přírody, a to vždy, když dojde ke změně podmínek úživnosti v honitbě,
+držitelem honitby osoba, které byla rozhodnutím orgánu státní správy myslivosti honitba uznána,
+uživatelem honitby držitel honitby, pokud honitbu využívá sám, nebo osoba, které držitel honitby honitbu pronajal,
+za vlastníka honebního pozemku se pro účely tohoto zákona považuje i právnická osoba, která byla k výkonu vlastnických práv státu a jiných majetkových práv státu na pozemcích ve vlastnictví státu zřízena nebo založena,
+živočichem vyžadujícím regulaci živočich, jehož druh je vymezen prováděcím právním předpisem.
+CHOV A ZUŠLECHŤOVÁNÍ ZVĚŘE
+Zásady chovu
+K zachování všech druhů zvěře v přírodě činí orgány státní správy myslivosti potřebná opatření. Přitom se poskytuje podpora a ochrana geograficky původním druhům zvěře. Chovem zvěře se rozumějí odborné zásahy sledující určité vymezené biologické cíle, zachování rovnováhy mezi stavy spárkaté zvěře a prostředím, udržování přírodní kvality genofondu zvěře, cílené zvyšování chovné kvality zvěře a úprava stavů zvěře na optimální stav.
+Držitel honitby a v případě jejího pronájmu nájemce honitby (dále jen „uživatel honitby“) je povinen zajišťovat v honitbě chov zvěře v rozmezí mezi minimálním a normovaným stavem zvěře, které jsou určeny v rozhodnutí orgánu státní správy myslivosti o uznání honitby. Minimálním stavem zvěře je stav, při kterém není druh ohrožen na existenci a jeho populační hustota zabezpečuje biologickou reprodukci druhu. Normovaným stavem je nejvýše přípustný jarní stav, který odpovídá kvalitě životního prostředí zvěře a úživnosti honitby; uvádí v rámci jakostní třídy honitby i požadovaný poměr pohlaví a věkovou skladbu zvěře a koeficient očekávané produkce.
+Normované stavy zvěře se uvádí i pro oblasti chovu zvěře, které vymezuje na návrh jednoho nebo více držitelů honiteb rozhodnutím orgán státní správy myslivosti. Oblastí chovu zvěře je souvislé území tvořené souborem honiteb s přibližně stejnými vhodnými přírodními podmínkami pro zvěř a určené k chovu určitého druhu zvěře spárkaté, s výjimkou zvěře srnčí, jelence a prasete divokého, nebo jeho místní populace nebo poddruhu či geografické rasy, případně pro vzácné druhy zvěře (tetřev, tetřívek, jeřábek) nebo ohrožené druhy zvěře. U honitby určené pro chov uvedených druhů spárkaté zvěře musí celá její výměra být v oblasti tohoto chovu. Vytvoření oblasti chovu nesmí vést ke zvýšení ekologické zátěže dotčeného území.
+Vyhláška stanoví způsob stanovení minimálních a normovaných stavů zvěře, zařazování honiteb nebo jejich částí do jakostních tříd.
+Omezení směřující k zachování druhu zvěře
+Orgán státní správy myslivosti může z důvodu obecného zájmu omezit v některých honitbách obvyklý způsob jejich mysliveckého užívání, stanovit jeho podmínky nebo vydat pokyny pro myslivecké hospodaření v takových honitbách.
+Dovoz a vývoz živé zvěře i jejích vývojových stadií lze provádět jen se souhlasem orgánu státní správy myslivosti, a to za podmínek v něm stanovených. K dovozu a vypouštění nepůvodních druhů živočichů za účelem mysliveckého hospodaření je nutné také povolení orgánu ochrany přírody podle zákona o ochraně přírody a krajiny a dodržení veterinárních předpisů. V souhlasu k dovozu a vypouštění nepůvodního druhu živočicha stanoví orgán státní správy myslivosti podmínky pro myslivecké hospodaření s tímto druhem.
+Zákazy stanovené k zachování druhů zvěře
+V zájmu zachování druhů zvěře se zakazuje
+vypouštět do honiteb jedince druhů zvěře, které jsou drženy ve farmových chovech,, nebo jejich mláďata,
+vypouštět do honiteb zvěř a zvířata získaná křížením mezi druhy zvěře a mezi druhy hospodářských zvířat,
+vypouštět do honiteb zvěř, která byla chována v zajetí; výjimku z tohoto zákazu může povolit orgán státní ochrany přírody,
+zavádět v honitbě další druhy zvěře bez předchozího souhlasu orgánu státní správy myslivosti po vyjádření orgánu státní ochrany přírody.
+Vypouštět zvěř do honitby může jen držitel honitby; jiná osoba jen s jeho souhlasem. Vypouštět zvěř lze jenom se souhlasem orgánů státní správy myslivosti, lesů a ochrany přírody pro danou honitbu, nejedná-li se o vypouštění zvěře po udělení výjimky podle odstavce 1 písm. c) nebo po vydání povolení podle odstavce 1 písm. d) nebo po povolení vydaném při dovozu zvěře anebo ze zavedených intenzivních chovů zvěře.
+Chovatelské přehlídky
+Pro hodnocení kvality chované zvěře a kontroly lovené zvěře jsou orgány státní správy myslivosti ve svých územních obvodech, popřípadě pro oblast chovu zvěře oprávněny každoročně rozhodnout o konání chovatelské přehlídky trofejí a za tím účelem ustavit hodnotitelskou komisi. Pořádání chovatelské přehlídky mohou svěřit myslivecké organizaci. O pořádání chovatelské přehlídky a její organizaci jsou uživatelé honiteb uvědoměni způsobem v místě obvyklým. Trofejí se rozumí rohy, parohy a parůžky rohaté a parohaté zvěře včetně lebky oddělené před prvním krčním obratlem, zbraně u prasete divokého, lebky a kůže některých šelem.
+Pro hodnocení význačných trofejí (trofejí, které přesahují medailové bodové hodnoty podle metodiky Mezinárodní myslivecké organizace, a to jelen 215 b., sika japonský 260 b., sika Dybowského 400 b., daněk 190 b., srnec 140 b., jelenec 300 b., muflon 225 b., kamzík 110 b., kňour 125 b.) a hodnocení na celostátních výstavách nebo výstavách s mezinárodní účastí ustaví ústřední orgán státní správy myslivosti ústřední hodnotitelskou komisi a pověří některou mysliveckou organizaci vedením evidence význačných trofejí České republiky.
+Před vývozem význačné trofeje do zahraničí musí být trofej ohodnocena alespoň jedním členem ústřední hodnotitelské komise, vystavena hodnotitelská tabulka a pořízena fotodokumentace trofeje. Hodnotitelskou tabulku je povinna osoba převážející význačnou trofej do zahraničí předložit celnímu úřadu při propuštění do celního režimu vývozu.
+Chov zvěře v zajetí
+Chov zvěře v zajetí je možný jen se souhlasem orgánu státní správy myslivosti. K žádosti o udělení souhlasu předkládá žadatel vyjádření veterinárních orgánů a orgánů na ochranu zvířat proti týrání k navrhovaným podmínkám chovu. Souhlasu není třeba, jde-li o chov zvěře v zoologické zahradě zřízené obcí nebo krajem nebo jde-li o držení a chov loveckých dravců. Za chov zvěře v zajetí se nepovažuje krotký chov nebo polodivoký chov zvěře prováděný pro účely zazvěřování honiteb, péče o zraněnou zvěř prováděná uživatelem honitby po nezbytnou dobu, záchranné chovy a stanice potřebné péče o zraněné živočichy zřizované podle předpisů o ochraně přírody. Záchranné chovy zvláště chráněných živočichů a péče o zraněné živočichy zvláště nechráněné, pokud jsou zvěří, lze však provádět jen v zařízeních schválených také orgánem státní správy myslivosti. Vypouštění jedinců z těchto zařízení do honitby lze provádět jen po projednání s orgánem státní správy myslivosti a s vědomím držitele a uživatele honitby.
+K dočasnému držení lišky obecné v zajetí pro účely výcviku psů loveckých plemen je třeba souhlasu orgánu státní správy myslivosti a orgánu na ochranu zvířat proti týrání, které mohou stanovit podmínky pro výkon této činnosti.
+OCHRANA MYSLIVOSTI A ZLEPŠOVÁNÍ ŽIVOTNÍCH PODMÍNEK ZVĚŘE
+OCHRANA MYSLIVOSTI
+Základní povinnosti
+Ochranou myslivosti se rozumí ochrana zvěře před nepříznivými vlivy prostředí, před nakažlivými nemocemi, před škodlivými zásahy lidí a před volně pobíhajícími domácími zvířaty; ochrana životních podmínek zvěře, zajištění klidu v honitbě a ochrana mysliveckých zařízení.
+Každý, kdo vstupuje se svou činností do přírody, si musí počínat tak, aby nedocházelo ke zbytečnému ohrožování nebo zraňování zvěře a k poškozování jejích životních podmínek.
+Omezení a zákazy dané v zájmu ochrany
+Je zakázáno plašit zvěř jakýmkoliv způsobem, s výjimkou opatření k zabránění škodám působeným zvěří a dovolených způsobů lovu. Dále je zakázáno rušit zvěř při hnízdění a kladení mláďat a provádět další činnosti záporně působící na život zvěře jako volně žijících živočichů, pokud nejde o činnosti při obhospodařování pozemků nebo o činnosti při návštěvách honiteb jako součástí krajiny.
+Rovněž je zakázáno poškozovat nebo ničit slaniska, napajedla, zařízení pro přikrmování, pozorování a lov zvěře a další myslivecká zařízení. K jejich vybudování a umístění je nutný předchozí souhlas vlastníka honebního pozemku. Nedá-li žádný z vlastníků honebních pozemků v honitbě tento souhlas, rozhodne o umístění slaniska, napajedla nebo zařízení pro přikrmování zvěře orgán státní správy myslivosti. Ustanovení stavebního zákona tím nejsou dotčena.
+Na žádost uživatele honitby může orgán státní správy myslivosti, zejména v době hnízdění, kladení a odchovu mláďat nebo provádění lovů, nařídit přiměřené omezení nebo i zákaz vstupu do honitby nebo jejích částí, omezení jízdy koňmi a tažnými psy a omezení jiných sportovních nebo zájmových činností. Uvedená opatření se nevztahují na hospodářskou činnost vlastníků, popřípadě nájemců honebních pozemků.
+Orgán státní správy myslivosti spolupracuje s dalšími orgány státní správy, jimž jsou právnické i fyzické osoby povinny oznamovat konání hromadných akcí v přírodě, a sděluje těmto orgánům požadavky potřebné k ochraně zvěře a jejích životních podmínek.
+Povinnosti vlastníků domácích a hospodářských zvířat a vlastníků pozemků
+Je zakázáno vlastníkům domácích zvířat, včetně zvířat ze zájmových chovů a zvířat z farmových chovů zvěře, nechat je volně pobíhat v honitbě mimo vliv svého majitele nebo vedoucího.
+Při obhospodařování pozemků, jejich ohrazování při pastvě a podobně jsou vlastníci, popřípadě nájemci pozemků povinni dbát, aby nebyla zvěř zraňována nebo usmrcována; ustanovení předpisů na ochranu zvířat proti týrání tím nejsou dotčena. Ustanovení zvláštních právních předpisů na ochranu zvěře při obhospodařování pozemků nejsou dotčena.
+K zabránění škodám působeným na zvěři při obhospodařování honebních pozemků jsou povinni
+vlastníci, popřípadě nájemci honebních pozemků oznámit s předstihem uživateli honitby dobu a místo provádění zemědělských prací v noční době, kosení pícnin a použití chemických přípravků na ochranu rostlin,
+provozovatelé mechanizačních prostředků na kosení pícnin používat účinných plašičů zvěře, a pokud je to možné, provádět sklizňové práce tak, aby zvěř byla vytlačována od středu sklízeného pozemku k jeho okraji,
+provozovatelé silážních jam a krechtů provádět opatření proti nežádoucímu přístupu zvěře.
+Povinnosti a oprávnění uživatelů honiteb
+V zájmu ochrany zvěře jsou uživatelé polních honiteb povinni pečovat o zakládání remízků a jiných vhodných úkrytů pro zvěř a uživatelé lesních honiteb o zakládání políček pro zvěř na pozemcích, na kterých jim to vlastník, popřípadě uživatel honebních pozemků na jejich žádost písemně povolí; vlastník, popřípadě nájemce lesních pozemků může tuto činnost povolit jen při dodržení předpisů o lesích.
+Uživatelé honiteb jsou povinni provést po oznámení vlastníků, popřípadě nájemců honebních pozemků podle § 10 odst. 3 písm. a) potřebná opatření k záchraně zvěře.
+Uživatelé honiteb jsou povinni provádět v době nouze dostupná a přiměřená opatření k záchraně zvěře, zejména ve spojitosti se záplavami, povodněmi, lesními požáry a extrémně vysokou sněhovou pokrývkou.
+Uživatel honitby je povinen provozovat krmelce, zásypy, slaniska a napajedla a v době nouze zvěř řádně přikrmovat. Počty a objemy těchto zařízení se uvádějí v plánu mysliveckého hospodaření a v ročním statistickém výkazu o honitbě.
+Zjistí-li orgán státní správy myslivosti, že zvěř trpí hladem, a nezjedná-li uživatel honitby po výzvě orgánu státní správy myslivosti okamžitou nápravu, rozhodne tento orgán o krmení zvěře na náklad uživatele. Odvolání podané proti tomuto rozhodnutí nemá odkladný účinek.
+Uživatelé honiteb jsou povinni s vlastníky, popřípadě nájemci honebních pozemků, kteří na těchto pozemcích hospodaří a nejsou členy honebního společenstva, projednat alespoň 7 dnů předem konání činností, které mohou omezit obhospodařování těchto pozemků.
+Uživatel honitby je v rámci mysliveckého hospodaření oprávněn usmrcovat živočichy vyžadující regulaci.
+MYSLIVECKÁ STRÁŽ
+Ustanovení myslivecké stráže
+Uživatel honitby je povinen pro každých započatých 500 ha honitby navrhnout orgánu státní správy myslivosti ustanovení jedné myslivecké stráže. Návrh na ustanovení myslivecké stráže se předkládá do 30 dnů od uzavření smlouvy o nájmu honitby anebo do 30 dnů ode dne, kdy byl uživatel honitby vyrozuměn orgánem státní správy myslivosti o zrušení ustanovení myslivecké stráže; v případě užívání honitby na vlastní účet se návrh předkládá do 30 dnů od nabytí právní moci rozhodnutí o uznání honitby.
+Mysliveckou stráž ustanovuje orgán státní správy myslivosti na období 10 let; opakované ustanovení je možné. Návrh musí obsahovat písemný souhlas osoby navrhované na ustanovení mysliveckou stráží. Nesplní-li uživatel honitby povinnost podle odstavce 1, může ustanovit mysliveckou stráž orgán státní správy myslivosti a vyrozumí o tom uživatele honitby.
+Mysliveckou stráží může být ustanovena fyzická osoba, která
+je starší 21 let,
+má bydliště na území České republiky,
+je bezúhonná,
+má způsobilost k právním úkonům,
+je fyzicky a zdravotně způsobilá pro výkon funkce myslivecké stráže,
+prokázala znalost práv a povinností myslivecké stráže podle tohoto zákona a znalost souvisejících předpisů,
+složila slib tohoto znění: „Slibuji, že jako myslivecká stráž budu s největší pečlivostí a svědomitostí plnit povinnosti při výkonu ochrany myslivosti, že budu při výkonu této činnosti dodržovat právní předpisy a nepřekročím oprávnění příslušející myslivecké stráži.“,
+má platný lovecký lístek a platný zbrojní průkaz a je pojištěna (§ 48),
+vyslovila s ustanovením do funkce písemný souhlas.
+Za bezúhonného se podle tohoto zákona nepovažuje ten, kdo byl pravomocně odsouzen pro úmyslný trestný čin nebo uznán vinným ze spáchání přestupku na úseku myslivosti nebo komu byla pravomocně uložena pokuta podle tohoto zákona.
+K posouzení bezúhonnosti osoby požádá orgán státní správy myslivosti o vydání opisu z evidence Rejstříku trestů. Při posuzování bezúhonnosti se nepřihlíží k zahlazení odsouzení podle zvláštního zákona. Žádost o vydání opisu z evidence Rejstříku trestů a opis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup.
+Orgán státní správy myslivosti před ustanovením prověří znalosti navrhované osoby podle odstavce 3 písm. f) a přijme její slib podle odstavce 3 písm. g). Ustanovení mysliveckou stráží provede vydáním služebního odznaku se státním znakem a průkazu myslivecké stráže, ve kterém uvede dobu jeho platnosti a obvod působnosti. Obvod působnosti myslivecké stráže je vymezován honitbou (honitbami).
+Myslivecká stráž je povinna oznámit orgánu, který ji ustanovil, každou změnu podmínek uvedených v odstavci 3, a to do 30 dnů od vzniku této změny.
+Vyhláška stanoví vzor služebního odznaku se státním znakem, vzor průkazu myslivecké stráže a podrobnosti o předpokladech pro výkon funkce myslivecké stráže a o jejich ověřování.
+Zrušení ustanovení mysliveckou stráží
+Ustanovení mysliveckou stráží zaniká
+uplynutím doby, na kterou byl vystaven průkaz myslivecké stráže,
+zánikem nájmu honitby u osoby, která byla ustanovena na návrh nájemce této honitby,
+smrtí myslivecké stráže,
+doručením oznámení myslivecké stráže orgánu státní správy myslivosti o skončení výkonu funkce, nebo
+zrušením ustanovení orgánem státní správy myslivosti.
+Orgán státní správy myslivosti ustanovení myslivecké stráže zruší, pokud osoba přestala tuto funkci vykonávat nebo přestala splňovat podmínky stanovené v § 12 odst. 3 nebo se prokáže, že byla ustanovena na podkladě nesprávných nebo nepravdivých údajů. Orgán státní správy myslivosti může ustanovení myslivecké stráže zrušit též na návrh uživatele honitby anebo z vlastního podnětu, pokud myslivecká stráž porušila při výkonu svých povinností tento zákon.
+Osoba, jejíž ustanovení mysliveckou stráží zaniklo podle odstavce 1 písm. a), b), d) nebo e), je povinna neprodleně odevzdat služební odznak a průkaz myslivecké stráže orgánu státní správy myslivosti, který ji ustanovil mysliveckou stráží. V případě, že k zániku ustanovení došlo podle odstavce 1 písm. c), přechází uvedená povinnost na dědice, popřípadě na jinou osobu, která má služební odznak a průkaz myslivecké stráže ve své dispozici.
+Oprávnění myslivecké stráže
+Myslivecká stráž je oprávněna
+požadovat od osob, které jsou v honitbě se střelnou zbraní nebo s jinou loveckou výzbrojí, předložení zbrojního průkazu, průkazu zbraně, loveckého lístku, povolenky k lovu a potvrzení o povinném pojištění, popřípadě jiného průkazu, jímž lze prokázat jméno, příjmení, datum narození a místo trvalého nebo přechodného pobytu,
+zastavit a prohlížet v honitbě a na účelových komunikacích v honitbě dopravní prostředky včetně přepravovaných zavazadel, je-li důvodné podezření, že přepravují nebo obsahují neoprávněně nabytou zvěř, a za tím účelem požadovat předložení dokladu o nabytí zvěře,
+zadržet osobu, kterou přistihne v honitbě při neoprávněném lovu nebo při jiné činnosti tímto zákonem zakázané, nebo osobu, kterou přistihne v honitbě se zakázanou loveckou výzbrojí anebo se střelnou zbraní, pokud nejde o osobu oprávněnou podle zvláštních právních předpisů držet střelnou zbraň i na honebních pozemcích, a neprodleně přivolat orgán Policie České republiky (dále jen „policie“),
+odejmout osobám uvedeným v písmenech b) a c) střelnou zbraň nebo zakázanou loveckou výzbroj, chycenou, ulovenou nebo přepravovanou zvěř, popřípadě i loveckého psa a fretku a vykázat je z honitby; o odnětí věci sepsat úřední záznam a osobě, jíž byla věc odňata, vystavit potvrzení o odnětí věci a odňatou střelnou zbraň nebo zakázanou loveckou výzbroj odevzdat neprodleně orgánu policie; osoby uvedené v písmenech a) až d) jsou povinny výzvám či úkonům v nich uvedeným vyhovět, popřípadě jich uposlechnout,
+usmrcovat v honitbě toulavé psy, kteří mimo vliv svého vedoucího ve vzdálenosti větší než 200 m od nejbližší nemovitosti sloužící k bydlení pronásledují zvěř; pokud je tato nemovitost umístěna na oploceném pozemku, počítá se vzdálenost od jeho oplocení. Toto oprávnění se nevztahuje na psy ovčáckých a loveckých plemen, na psy slepecké, zdravotnické, záchranářské a služební; usmrcovat kočky potulující se v honitbě ve vzdálenosti větší než 200 m od nejbližší nemovitosti sloužící k bydlení; pokud je tato nemovitost umístěna na oploceném pozemku, počítá se vzdálenost od jeho oplocení,
+usmrcovat živočichy vyžadující regulaci,
+usmrcovat po předchozím oznámení místně příslušnému obecnímu úřadu zdivočelá hospodářská zvířata a dále volně se pohybující označená zvířata z farmových chovů zvěře ve vzdálenosti větší než 200 m od nehonebního pozemku, na němž je farmový chov provozován,
+požadovat pomoc nebo součinnost orgánů policie, popřípadě obecní policie, pokud nemůže splnění svých povinností zajistit vlastními silami a prostředky,
+projednat přestupky podle tohoto zákona příkazem na místě,
+vstupovat na pozemky v honitbě v rozsahu nezbytně nutném k výkonu funkce.
+Myslivecká stráž, která usmrtila psa nebo kočku, zdivočelé hospodářské zvíře nebo označené zvíře z farmového chovu zvěře, je povinna o tom neprodleně informovat jeho vlastníka, pokud je známý, a sdělit mu místo usmrcení zvířete a popřípadě jej na toto místo doprovodit.
+Prohlídka dopravních prostředků a zavazadel podle odstavce 1 nesmí sledovat jiný zájem než zjištění, zda v těchto prostředcích a zavazadlech není neoprávněně nabytá zvěř.
+Povinnosti myslivecké stráže
+Myslivecká stráž je při své činnosti povinna
+prokázat se průkazem myslivecké stráže a nosit služební odznak,
+dohlížet na dodržování povinností spojených s ochranou myslivosti,
+oznamovat neodkladně zjištěné závady, nedostatky a škody podle jejich povahy uživateli honitby nebo orgánu, který ji ustanovil, popřípadě v neodkladných případech též orgánům policie nebo příslušným orgánům státní správy.
+Myslivecká stráž je povinna zabezpečit průkaz myslivecké stráže a služební odznak proti zneužití, ztrátě a odcizení; případné takové skutečnosti je povinna neprodleně oznámit orgánu, který jí průkaz a odznak vydal.
+Odpovědnost za způsobenou škodu
+Stát odpovídá za škodu osobě, která poskytla pomoc myslivecké stráži na její žádost nebo s jejím vědomím, (dále jen „poškozený“). Stát se této odpovědnosti může zprostit jen tehdy, způsobil-li si tuto škodu poškozený úmyslně. Došlo-li u poškozeného k újmě na zdraví nebo smrti, určí se rozsah a výše náhrady škody podle předpisů o odškodňování pracovních úrazů. Při škodě na věcech, která poškozenému vznikla v souvislosti s poskytnutím této pomoci, se hradí skutečná škoda, a to uvedením v předešlý stav; není-li to možné nebo účelné, hradí se v penězích. Poškozenému může být přiznána i úhrada nákladů spojených s pořízením nové věci náhradou za věc poškozenou.
+Stát odpovídá i za škodu, kterou osoba způsobila v souvislosti s pomocí poskytnutou myslivecké stráži.
+Stát odpovídá obdobně podle odstavce 1 též za škodu způsobenou myslivecké stráži v souvislosti s plněním jejích úkolů a dále za škodu způsobenou mysliveckou stráží v souvislosti s plněním jejích úkolů, pokud se nejedná o škodu způsobenou osobě, která svým protiprávním jednáním oprávněný a přiměřený zákrok vyvolala.
+Náhradu škody za stát poskytuje orgán státní správy myslivosti, který mysliveckou stráž ustanovil.
+TVORBA A VYUŽITÍ HONITEB
+NAVRHOVÁNÍ HONITEB
+Obecné zásady tvorby honiteb
+Myslivost lze provozovat jen v rámci uznané honitby.
+Honitba je tvořena souvislými honebními pozemky. Orgán státní správy myslivosti z důvodů bezpečnostních nebo vojenských nebo zájmu vlastníka prohlásí za nehonební pozemky i jiné pozemky než pozemky uvedené v § 2 písm. e), a to buď z vlastního podnětu nebo na návrh vlastníka.
+Pomine-li důvod, pro který byl pozemek prohlášen za nehonební, prohlásí orgán státní správy myslivosti na návrh vlastníka pozemku nebo z vlastního podnětu a za souhlasu vlastníka pozemku tento pozemek za honební. Dnem právní moci rozhodnutí o prohlášení pozemku za honební stává se tento pozemek součástí honitby, na jejímž území leží nebo se kterou má nejdelší společnou hranici.
+Při tvorbě honiteb se nepřihlíží k hranicím katastrálních území, územních obvodů obcí nebo krajů. Hranice honiteb se mají, pokud je to možné, krýt s hranicemi přírodními v terénu zřetelnými (například vodoteče, cesty, silnice).
+Honební pozemky tvořící honitbu musí spolu souviset. I pozemky jinak vyhovující pojmu souvislosti však nelze začlenit do jedné honitby, pokud tvoří překážku pohybu zvěře nebo jsou pro ni nebezpečím, například dálnice, silnice dálničního typu, přehrady a letiště se zpevněnou plochou.
+Při tvorbě honiteb se musí přihlížet k jejich tvaru. Nelze vytvořit ani uznat honitbu, která má tvar úzkého pozemkového pruhu v nejširším místě širokém jen 500 m, i když by dosahovala stanovené minimální výměry. Toto ustanovení se netýká okrajových částí honitby (výběžků). Stejně je nutno bránit vzniku hranice honitby, kterou by tvořilo rozhraní zemědělských a lesních pozemků. Za tím účelem se při tvorbě honiteb provádí vyrovnání hranic honiteb výměnou honebních pozemků nebo jejich přičleněním.
+Minimální výměra honitby se stanoví pro oboru 50 ha, pro ostatní honitby 500 ha.
+Uznání honitby
+Návrh na uznání honitby podává vlastník honebních pozemků nebo přípravný výbor honebního společenstva (§ 19 odst. 4) orgánu státní správy myslivosti. Splňuje-li návrh podmínky stanovené v § 17 tohoto zákona, musí orgán státní správy myslivosti vydat rozhodnutí o uznání honitby.
+Návrh na uznání vlastní honitby může podat vlastník souvislých honebních pozemků, které splňují podmínky uvedené v § 17.
+Vlastník honebních pozemků může spolu s dalšími vlastníky honebních pozemků vytvořit honební společenstvo, které pak může při splnění podmínek uvedených v § 17 podat návrh na uznání společenstevní honitby.
+Navrhovatel může požádat, aby k honebním pozemkům dosahujícím minimální výměry byly přičleněny další souvislé honební pozemky jiných vlastníků, a to s uvedením důvodů tohoto přičlenění. Pokud se o přičlenění s těmito vlastníky dohodl, přiloží tuto dohodu k návrhu. Jestliže se navrhovatelé budoucích sousedních honiteb dohodnou o vzájemné výměně honebních pozemků, která co do jejich výměry nemusí být stejná, předloží tuto dohodu k návrhům. Pokud provádí přičlenění orgán státní správy z vlastního podnětu, může se tak stát jen se souhlasem držitele honitby. Celkový rozsah výměn a přičlenění, které se provádějí k vyrovnání hranic, nesmí být vyšší než 10 % výměry vlastních honebních pozemků navrhovatele honitby.
+K návrhu na uznání obory se přikládá studie o vhodnosti přírodních a jiných podmínek pro intenzivní chov daného druhu zvěře, projekt chovu a výstavby potřebných zařízení a vyjádření veterinárních orgánů a orgánů na ochranu zvířat proti týrání k navrhovaným podmínkám chovu. Totéž platí o návrhu na uznání honitby nebo její změny, žádá-li se současně nebo dodatečně, aby v jejím obvodu vznikla bažantnice.
+K návrhu na uznání honitby navrhovatel přikládá jím zpracované údaje o vlastnictví honebních pozemků včetně mapového zákresu hranic honitby na mapě zajišťující přesné odlišení hranic honiteb a návrh plánovaných druhů zvěře a jejich minimálních a normovaných stavů.
+HONEBNÍ SPOLEČENSTVO
+Založení honebního společenstva
+Honební společenstvo je právnickou osobou založenou podle tohoto zákona,
+jehož členy mohou být pouze vlastníci nebo spoluvlastníci (dále jen „vlastník“) souvislých honebních pozemků, jejichž výměra v součtu dosahuje výměry požadované tímto zákonem pro vznik společenstevní honitby, a
+která zajišťuje sama výkon práva myslivosti, anebo společenstevní honitbu pronajme podle tohoto zákona.
+Honební společenstvo nesmí vlastním jménem podnikat, nesmí se účastnit na podnikání jiných osob a nesmí zřizovat ani organizační složky.
+Název honebního společenstva tvoří označení „honební společenstvo“ a jméno obce, případně městského obvodu nebo městské části (dále jen „obec“), v jejímž území je většina honebních pozemků tvořících společenstevní honitbu. Má-li honební společenstvo stejný název s jiným honebním společenstvem v téže obci, je povinno doplnit název dostatečně odlišujícím dodatkem.
+Návrh na registraci honebního společenstva spolu s návrhem na uznání společenstevní honitby podávají alespoň dva vlastníci honebních pozemků, kteří dosáhli věku 18 let, (dále jen „přípravný výbor“). Návrh podepíší členové přípravného výboru a uvedou svoje jména a příjmení, rodná čísla a bydliště. Dále uvedou, kdo z členů je zmocněncem oprávněným jednat jejich jménem. Podpisy členů přípravného výboru musí být úředně ověřeny.
+K návrhu na registraci přípravný výbor nebo honební společenstvo připojí ve dvojím vyhotovení
+seznam vlastníků honebních pozemků, kteří jsou členy honebního společenstva (dále jen „seznam členů“), s uvedením jména, příjmení a bydliště,
+mapový zákres honitby,
+souhlasy vlastníků honebních pozemků s členstvím v honebním společenstvu.
+K návrhu na registraci honebního společenstva přípravný výbor dále připojí
+zápis z jednání ustavující valné hromady honebního společenstva, na kterém byl zvolen honební starosta, případně honební výbor a schváleny stanovy, v nichž musí být uvedeny název a sídlo honebního společenstva, zásady hospodaření a další náležitosti, stanoví-li tak tento zákon,
+stanovy honebního společenstva ve dvojím vyhotovení.
+Ustavující valné hromadě předsedá při zahájení člen přípravného výboru zmocněný k tomu ostatními členy tohoto výboru, dokud není zvolen předsedající ustavující valné hromady. Pro rozhodování ustavující valné hromady platí ustanovení § 22 odst. 3 až 5 obdobně. Zápis z ustavující valné hromady podepíší valnou hromadou zvolený honební starosta a zapisovatel.
+Honební společenstvo vede seznam členů, v němž se zapisuje počet hlasů jednotlivých členů, název a sídlo člena, jde-li o právnickou osobu, nebo jméno a bydliště fyzické osoby, která je členem. Honební společenstvo je povinno každému svému členu na jeho písemnou žádost a jen za úhradu nákladů vydat opis seznamu všech členů nebo požadované části seznamu, a to nejpozději do 7 dnů od doručení žádosti.
+Vznik honebního společenstva
+Návrh na registraci se podává příslušnému orgánu státní správy myslivosti. Nemá-li návrh na registraci předepsané náležitosti anebo jsou-li údaje v něm neúplné nebo nepřesné, orgán státní správy myslivosti na to přípravný výbor bezodkladně, nejpozději do 5 dnů od doručení návrhu, upozorní s tím, že nebudou-li tyto vady ve stanovené lhůtě odstraněny, řízení bude zastaveno.
+Pokud orgán státní správy myslivosti nezjistí důvod k odmítnutí registrace, provede registraci a zašle zmocněnci přípravného výboru jedno vyhotovení předložených stanov a seznamu členů, na nichž vyznačí den registrace.
+Honební společenstvo vzniká dnem registrace. Ke stejnému dni zapíše orgán státní správy myslivosti honební společenstvo do rejstříku honebních společenstev. Vznik honebního společenstva, jeho název a sídlo oznámí orgán státní správy myslivosti do 7 dnů ode dne registrace Českému statistickému úřadu.
+Orgán státní správy myslivosti odmítne zapsat honební společenstvo do rejstříku a uznat společenstevní honitbu, jestliže
+celková výměra honebních pozemků ve vlastnictví osob uvedených v seznamu členů nedosahuje výměry stanovené tímto zákonem pro vznik společenstevní honitby,
+předložené stanovy nesplňují podmínky podle § 19 odst. 6 písm. a).
+Rozhodnutí o odmítnutí registrace honebního společenstva doručí orgán státní správy myslivosti zmocněnci přípravného výboru.
+Valná hromada honebního společenstva
+Do působnosti valné hromady náleží
+volba a odvolání honebního starosty, který je zároveň předsedou honebního výboru, honebního místostarosty a dalších členů honebního výboru,
+schvalovat návrhy honebního starosty nebo honebního výboru o finančním hospodaření a o použití čistého výtěžku,
+rozhodovat o způsobu využití společenstevní honitby, včetně uzavření, změny nebo vypovězení smlouvy o nájmu honitby,
+rozhodnutí o změně stanov,
+rozhodnutí o přijetí vlastníka honebních pozemků přičleněných k honitbě za člena honebního společenstva,
+rozhodnutí o dalších otázkách, stanoví-li tak tento zákon nebo vyhradí-li si to valná hromada.
+Valná hromada může přenést působnost podle odstavce 1 písm. c) na honební výbor.
+Jednání valné hromady
+Valnou hromadu svolává honební starosta zpravidla jednou ročně. V případě nečinnosti honebního starosty může valnou hromadu svolat honební místostarosta. Člen nebo členové honebního společenstva, jejichž hlasy činí alespoň 10 % všech hlasů, mohou požádat honebního starostu o svolání valné hromady k projednání navržených záležitostí. Honební starosta je povinen do 30 dnů od doručení této žádosti valnou hromadu svolat; pokud tuto valnou hromadu nesvolá, má právo valnou hromadu svolat člen nebo členové honebního společenstva, kteří podali žádost podle předchozí věty.
+Honební starosta je povinen vyrozumět všechny členy honebního společenstva o konání valné hromady s uvedením místa, data, hodiny a pořadu jednání. Způsob vyrozumění může upřesnit valná hromada honebního společenstva. Návrh na uzavření, změnu nebo vypovězení smlouvy o nájmu honitby a návrh o finančním hospodaření a o použití čistého výtěžku musí být k nahlédnutí u honebního starosty nejpozději 15 dní před konáním valné hromady. Součástí oznámení o konání valné hromady musí být také jakýkoliv návrh závazků, které mohou významným způsobem ovlivnit hospodaření honebního společenstva. Projednat záležitost, která nebyla uvedena v pozvánce na valnou hromadu, lze pouze se souhlasem všech přítomných členů honebního společenstva.
+Hlasovací právo na valné hromadě přísluší pouze členům honebního společenstva. Na rozhodování se členové honebního společenstva podílejí podle výměry honebních pozemků, které vlastní a které tvoří společenstevní honitbu. Za každý, i započatý hektar výměry honebního pozemku, který v honitbě vlastní, přísluší členovi honebního společenstva jeden hlas.
+Valná hromada je schopná se usnášet, pokud jsou přítomni členové nebo jejich zástupci, kteří mají alespoň polovinu hlasů. Nesejde-li se potřebný počet hlasů po uplynutí jedné hodiny od stanoveného počátku valné hromady, může se valná hromada platně usnášet za jakéhokoliv počtu hlasů přítomných členů.
+Valná hromada rozhoduje většinou hlasů přítomných členů. K rozhodnutí podle § 21 odst. 1 písm. b), c) a d) nebo § 21 odst. 2 se vyžaduje souhlas tří čtvrtin hlasů přítomných členů. Stanovy mohou určit vyšší počet hlasů potřebných k rozhodnutí.
+O rozhodnutích valné hromady musí být pořízen zápis obsahující průběh jednání. Zápis podepíší honební starosta a valnou hromadou zvolený zapisovatel. Každý člen honebního společenstva může, na své náklady, požádat o vydání kopie zápisu nebo jeho části. Honební společenstvo musí uchovávat zápisy po celou dobu jeho existence.
+Členové honebního společenstva mohou přijímat rozhodnutí i mimo valnou hromadu. V takovém případě osoba, která je jinak oprávněna svolat valnou hromadu, předloží návrh rozhodnutí členům k vyjádření s oznámením lhůty, ve které mají učinit písemné vyjádření. Nevyjádří-li se člen ve lhůtě, platí, že souhlasí. Osoba, která předložila návrh rozhodnutí, pak oznámí výsledky hlasování jednotlivým členům. Většina se počítá z celkového počtu hlasů příslušejících všem členům.
+Považuje-li člen honebního společenstva rozhodnutí valné hromady za nezákonné nebo odporující stanovám, může se do 15 dnů ode dne, kdy se o rozhodnutí dozvěděl, nejpozději však do 3 měsíců od konání valné hromady, domáhat, aby soud vyslovil neplatnost rozhodnutí valné hromady, jinak jeho právo zaniká; toto platí obdobně i pro rozhodnutí přijaté podle odstavce 7.
+Honební starosta
+Honební starosta zastupuje honební společenstvo navenek. Uzavřít, změnit nebo vypovědět smlouvu o nájmu honitby může honební starosta jenom s předchozím souhlasem příslušného orgánu honebního společenstva, jinak je jím provedený úkon neplatný.
+Honebního starostu a jeho zástupce volí valná hromada na období 10 let způsobem uvedeným ve stanovách, a to z členů honebního společenstva nebo z fyzických osob, které navrhne člen honebního společenstva.
+Jestliže honební starosta zemře nebo se vzdá funkce, vykonává tuto funkci místostarosta až do zvolení nového honebního starosty nejbližší valnou hromadou.
+Honební starosta obstarává všechny záležitosti honebního společenstva, pokud nejsou vyhrazeny valné hromadě; je přitom povinen řídit se pokyny valné hromady, pokud jsou v souladu s právními předpisy a stanovami.
+Honební starosta je povinen vykonávat svou působnost s péčí řádného hospodáře. Honební starosta odpovídá honebnímu společenstvu za škodu, kterou způsobil porušením právních povinností při výkonu funkce. V řízení proti honebnímu starostovi zastupuje honební společenstvo určený člen honebního výboru, a není-li honební výbor zvolen, kterýkoliv člen honebního společenstva.
+Honebního starostu v době jeho nepřítomnosti zastupuje honební místostarosta; jedná a rozhoduje ve všech věcech, které jsou svěřeny honebnímu starostovi.
+Honební výbor
+Pokud počet členů honebního společenstva přesahuje 10, je honební společenstvo povinno zvolit honební výbor, který tvoří honební starosta, honební místostarosta a nejméně jeden a nejvýše 5 dalších členů honebního společenstva; počet členů určí stanovy. Pro svolávání honebního výboru platí ustanovení o svolávání valné hromady obdobně.
+Neurčí-li stanovy jinak, může se honební výbor usnášet, jen je-li přítomna nadpoloviční většina jeho členů; k usnesení je zapotřebí souhlasu většiny přítomných členů. Při rovnosti hlasů je rozhodující hlas předsedajícího. O jednání honebního výboru musí být pořízen zápis obsahující průběh jednání. Zápis podepíší všichni přítomní členové honebního výboru. Honební společenstvo musí uchovávat zápisy z jednání honebního výboru po celou dobu jeho existence.
+Stanovy mohou připustit i písemné hlasování nebo hlasování pomocí prostředků sdělovací techniky mimo zasedání honebního výboru, pokud s tím souhlasí všichni jeho členové.
+Při obstarání záležitostí honebního společenstva má honební výbor postavení honebního starosty, s výjimkou práva zastupovat honební společenstvo navenek.
+Zrušení a zánik honebního společenstva
+Honební společenstvo zaniká dnem výmazu z rejstříku. Zániku honebního společenstva předchází jeho zrušení s likvidací. Honební společenstvo se zrušuje
+dnem zániku společenstevní honitby,
+uplynutím doby, na kterou bylo založeno,
+dnem uvedeným v rozhodnutí valné hromady o zrušení honebního společenstva, jinak dnem, kdy toto rozhodnutí bylo přijato; rozhodnout o zrušení lze pouze tak, aby nejpozději v den zrušení zanikla smlouva nájmu honitby, je-li uzavřena,
+rozdělením nebo sloučením s dalším honebním společenstvem. V tomto případě se likvidace neprovádí,
+zrušením konkursu po splnění rozvrhového usnesení nebo zrušením konkursu z důvodu, že majetek dlužníka je zcela nepostačující.
+Na likvidaci majetku a závazků zrušeného honebního společenstva se použijí předpisy o likvidaci majetku a závazků obchodních společností. Zjistí-li likvidátor kdykoliv v průběhu likvidace, že majetek zrušeného honebního společenstva je předlužen, je povinen podat insolvenční návrh. Skončí-li likvidace majetkovým zůstatkem, naloží s ním likvidátor způsobem určeným ve stanovách.
+Likvidátora jmenuje valná hromada honebního společenstva. Neučiní-li tak bez zbytečného odkladu, je likvidátor jmenován soudem. Odměnu likvidátora stanoví ten, kdo likvidátora jmenoval.
+Zánik honebního společenstva oznámí orgán státní správy myslivosti do 7 dnů od výmazu Českému statistickému úřadu.
+Členství v honebním společenstvu
+Převede-li člen honebního společenstva vlastnické právo k honebním pozemkům, které jsou součástí společenstevní honitby, jeho členství v honebním společenstvu zaniká; nabyvatel těchto pozemků se stává členem honebního společenstva, pokud do 30 dnů ode dne vzniku jeho vlastnického práva neoznámí písemně honebnímu společenstvu, že s členstvím nesouhlasí.
+Členství v honebním společenstvu dále zaniká v případě, že správní úřad k tomu oprávněný podle tohoto zákona prohlásil pozemky ve vlastnictví člena honebního společenstva za nehonební.
+Člen honebního společenstva může ukončit své členství na základě písemného oznámení; členství zaniká posledním dnem kalendářního roku, ve kterém bylo oznámení učiněno.
+Osoba, jejíž členství v honebním společenstvu zaniklo, má nárok na vypořádací podíl. Výši tohoto podílu nebo způsob jeho výpočtu určí stanovy.
+Spoluvlastníci honebních pozemků, které jsou součástí společenstevní honitby, se musí dohodnout, kdo z nich bude vykonávat práva člena honebního společenstva, nebo mohou určit společného zmocněnce.
+Vlastníci honebních pozemků, které orgán státní správy myslivosti přičlenil do společenstevní honitby, se stávají řádnými členy honebního společenstva, pokud do 30 dnů od doručení vyrozumění o přičlenění oznámí písemně honebnímu společenstvu, že trvají na členství.
+Majetek honebního společenstva
+Honební společenstvo odpovídá za své závazky celým svým majetkem. Členové honebního společenstva ručí za závazky honebního společenstva.
+Příjmem honebního společenstva mohou být
+příjem z využití společenstevní honitby na vlastní účet,
+příjmy z nájmu společenstevní honitby,
+dary a dědictví,
+půjčky a úvěry a úroky z vkladů,
+jiné příjmy, stanoví-li tak zvláštní zákon.
+Honební společenstvo vede účetnictví podle zvláštního zákona.
+Rejstřík honebních společenstev
+Rejstřík honebních společenstev vedený orgánem státní správy myslivosti je veřejný seznam, do kterého se zapisují nebo vyznačují zákonem stanovené údaje týkající se honebních společenstev. Jeho součástí je sbírka listin obsahující stanovy.
+Rejstřík honebních společenstev je každému přístupný. Každý má právo do něj nahlížet, pořizovat si na své náklady kopie a výpisy. Na požádání vydá orgán státní správy myslivosti úřední potvrzení o zápisu nebo o tom, že zápis není proveden.
+Do rejstříku honebních společenstev se zapisují tyto údaje:
+název a sídlo honebního společenstva s uvedením dne a čísla registrace,
+zánik honebního společenstva s uvedením dne a právního důvodu výmazu,
+identifikační číslo osoby honebního společenstva,
+jméno, příjmení a adresa místa trvalého pobytu honebního starosty, honebního místostarosty a dalších členů honebního výboru,
+identifikace honebních pozemků tvořících společenstevní honitbu, a to slovním popisem hranice honitby,
+zrušení honebního společenstva,
+vstup do likvidace včetně jména, příjmení a adresy místa trvalého pobytu likvidátora,
+zahájení insolvenčního řízení, prohlášení konkursu, jméno, příjmení (obchodní firma) a sídlo insolvenčního správce.
+Do rejstříku honebních společenstev se zapíše také změna nebo zánik skutečností podle odstavce 3.
+Identifikační číslo osoby přiděluje honebnímu společenstvu orgán státní správy myslivosti; identifikační číslo osoby poskytne orgánu státní správy myslivosti správce základního registru osob.
+UZNÁNÍ HONITBY A JEJÍ ZMĚNY
+Řízení o uznání honitby
+K řízení a k vydání rozhodnutí o uznání honitby je příslušný orgán státní správy myslivosti, v jehož územním obvodě leží honební pozemky navrhované honitby. Jestliže honební pozemky leží v obvodech více těchto orgánů, je příslušný orgán, v jehož obvodě leží největší část honebních pozemků.
+Pokud držitel honitby nezačne ve lhůtě 60 dnů ode dne nabytí právní moci rozhodnutí o uznání honitby užívat honitbu sám nebo ji nepronajme, orgán státní správy myslivosti honební pozemky přičlení k jiné honitbě nebo rozděleně k několika honitbám a rozhodnutí o uznání původní honitby zruší.
+V rozhodnutí o uznání honitby se uvede její název, její držitel, výměra honebních pozemků v členění podle druhů kultur, popis hranic, vyznačení obvodu honitby, výčet a výměry honebních pozemků přičleněných s uvedením jejich vlastníků a důvodů přičlenění, jakostní třídy honitby pro jednotlivé druhy zvěře navržené držitelem honitby a jejich minimální a normované stavy.
+Do nabytí právní moci rozhodnutí o uznání honitby užívá honitbu její dosavadní uživatel. V rozhodnutí o uznání honitby nelze vyloučit odkladný účinek odvolání.
+Přičlenění
+Honební pozemky, které netvoří vlastní nebo společenstevní honitbu, přičlení orgán státní správy myslivosti zpravidla k honitbě, která má s těmito honebními pozemky nejdelší společnou hranici a zásady řádného mysliveckého hospodaření nevyžadují jejich jiné přičlenění.
+Vlastníkům honebních pozemků, které orgán státní správy myslivosti přičlenil podle odstavce 1, náleží od držitele honitby náhrada; jde-li o společenstevní honitbu, je náhradu povinno platit honební společenstvo. Nedohodnou-li se zúčastněné osoby o výši náhrady, určí náhradu orgán státní správy myslivosti a přihlédne přitom k velikosti přičleněných honebních pozemků a k předpokládanému výnosu z výkonu práva myslivosti na těchto pozemcích. Náhrada je splatná do 31. března běžného roku zpětně. Náhrada však nenáleží, pokud honební pozemky byly přičleněny ke společenstevní honitbě a jejich vlastník se stal členem honebního společenstva.
+Změna a zánik honiteb
+Vyžadují-li to zásady řádného mysliveckého hospodaření, může orgán státní správy myslivosti povolit změnu honitby vyrovnáváním hranic nebo výměnou honebních pozemků (dále jen „změna honitby“). Při změně honitby se nepřihlíží k územním hranicím obcí, okresů nebo krajů a výměry směňovaných pozemků nemusí být stejné.
+Návrh na změnu honitby podávají držitelé dotčených honiteb společně, a to orgánu státní správy myslivosti, do jehož územního obvodu zasahují dotčené honební pozemky největší částí. Nedohodnou-li se vlastníci dotčených honiteb na předložení společného návrhu na změnu honitby, může návrh podat kterýkoliv z nich. Jde-li o společenstevní honitbu, podá návrh honební společenstvo.
+Změnu honitby podle odstavců 1 a 2 orgán státní správy myslivosti nepovolí, pokud by vedla ke změně celkové výměry alespoň jedné z dotčených honiteb o více než 10 %. V důsledku změny honitby může klesnout její výměra i pod tímto zákonem stanovenou minimální výměru. Rozhodnutím o změně honitby nezaniká nájem honitby, je-li sjednán.
+Změnu honitby vyplývající ze změn vlastnictví honebních pozemků, o kterou požádá vlastník honebních pozemků, provede orgán státní správy myslivosti vždy k 31. prosinci roku následujícího po roce, v němž vlastník o úpravu požádal.
+Orgán státní správy myslivosti může na návrh držitele honitby, orgánu ochrany přírody nebo orgánu státní správy lesa v odůvodněných případech rozhodnout o změně minimálních nebo normovaných stavů zvěře pro danou honitbu.
+Honitba zaniká
+zrušením, sloučením nebo rozdělením honitby na žádost jejich držitelů a nabytím právní moci nových rozhodnutí o uznání honitby,
+zrušením honebního společenstva,
+poklesne-li výměra honitby pod minimální výměru v důsledku změny vlastnického práva k honebním pozemkům, zaniká honitba k 31. prosinci roku následujícího po roce, v němž k poklesu došlo,
+prohlásí-li orgán státní správy myslivosti v honitbě více než 10 % pozemků pod stanovenou minimální výměru za nehonební, zaniká honitba k 31. prosinci roku následujícího po roce, v němž k prohlášení došlo,
+rozhodnutím orgánu státní správy myslivosti, není-li ohrazení obory funkční a nezjedná-li držitel honitby v přiměřené lhůtě stanovené orgánem státní správy myslivosti nápravu.
+VYUŽITÍ HONITEB
+Rozhodnutí držitele honitby o způsobu jejího využití
+Držitel honitby může honitbu využívat sám nebo ji může pronajmout.
+Pokud honební společenstvo užívá honitbu na vlastní účet, je povinno přednostně před dalšími osobami umožnit účast na užívání honitby svým členům. K této přednosti je povinno přihlížet i při rozhodnutí o pronájmu honitby.
+Pronajmout lze honitbu jen
+české fyzické osobě, která má platný český lovecký lístek,
+mysliveckému sdružení vzniklému podle předpisů o sdružování občanů za účelem nájmu honitby, jehož nejméně 3 členové splňují podmínku uvedenou v písmenu a),
+české právnické osobě, která na pozemcích v těchto honitbách zemědělsky nebo lesnicky hospodaří nebo která má myslivost uvedenu v předmětu své činnosti a jejíž statutární orgán nebo alespoň jeden jeho člen nebo odpovědný zástupce splňuje podmínku uvedenou v písmenu a).
+Právnické osoby, které hospodaří s majetkem státu nebo majetek státu spravují, mohou pronajímat honitbu jen po provedení výběrového řízení. Výběrovým řízením se pro účely tohoto zákona rozumí právní úkony držitele honitby směřující ke vzniku smlouvy o nájmu honitby:
+sdělení držitele honitby o podmínkách nájmu honitby, všem zájemcům o nájem honitby,
+sdělení rozhodnutí všem zájemcům o tom, který ze zájemců prokázal nejlepší záměr, mysliveckou odbornost, praxi a důvěryhodnost,
+sdělení všem zájemcům o výši ceny, za kterou je honitba vybranému zájemci pronajímána,
+sdělení plného obsahu uzavřené smlouvy s vybraným nájemcem všem zájemcům.
+V případě umístění dvou nebo více zájemců z řad mysliveckých spolků se sídlem v místě honitby na prvém místě rozhodne o nájemci větší počet členů mysliveckého spolku. V případě umístění více jiných zájemců na prvém místě rozhodne o vybraném nájemci los.
+Honitbu nelze rozdělit na části a v nich přenechat někomu provozování myslivosti; rovněž nelze přenechat lov zvěře za úplatu, pokud se nejedná o poplatkový odstřel s doprovodem.
+Pokud je honitba pronajata mysliveckému sdružení, je toto myslivecké sdružení povinno upřednostnit přihlášky členství podané vlastníky, popřípadě nájemci honebních pozemků této honitby.
+Smlouva o nájmu honitby
+Smlouva o nájmu honitby musí být uzavřena písemně na dobu 10 let. Držitel honitby je povinen do 15 dnů ode dne uzavření smlouvy zaslat jedno její vyhotovení orgánu státní správy myslivosti.
+Nájemné z honitby se stanoví dohodou smluvních stran, pokud tento zákon nestanoví jinak.
+Pokud v případech stávající honitby na honebních pozemcích státu uplatní dosavadní nájemce zájem o opětovné uzavření nájemní smlouvy na další období, bude s ním jednáno o uzavření smlouvy podle podmínek stanovených pro výběrové řízení jako s prvním. Toto právo nevzniká, jestliže se držitel rozhodne užívat honitbu na vlastní náklad nebo pokud nájemce v průběhu uplynulé doby nájmu porušil nájemní smlouvu nebo mu byla orgánem státní správy myslivosti uložena pokuta podle zákona o myslivosti.
+Pokud nájemci honiteb na honebních pozemcích ve vlastnictví státu provedou opatření na ochranu proti škodám působeným zvěří po předchozím souhlasu zástupce právnické osoby, která hospodaří s majetkem státu nebo majetek státu spravuje, přijme se toto plnění jako naturální plnění na nájem ve výši ceny takového opatření v místě honitby obvyklé.
+Při zániku smlouvy o nájmu honitby se mezi stranami vyrovná rozdíl v hodnotě mysliveckých zařízení existujících při vzniku a zániku smlouvy, pokud se nedohodnou strany jinak.
+Smlouva o nájmu honitby zaniká
+uplynutím doby,
+zánikem honitby,
+zánikem nebo smrtí nájemce honitby,
+přestane-li nájemce splňovat podmínku uvedenou v § 32 odst. 3,
+dohodou,
+výpovědí s 18měsíční výpovědní lhůtou po změně držitele honitby v případě, že nový držitel honitby ji bude využívat na vlastní účet,
+výpovědí pronajímatele nebo nájemce pro nedodržení podmínek smlouvy o nájmu,
+rozhodnutím orgánu státní správy myslivosti v případech, kdy porušením smlouvy nájemcem dojde k vážnému ohrožení životního prostředí anebo poklesu počtu zvěře v honitbě pod stanovené minimální stavy.
+Přejde-li vlastnické právo k honebním pozemkům v honitbě, která je pronajata, vstupuje nový vlastník do smlouvy o nájmu honitby na místo vlastníka dosavadního. Dojde-li ke změně pronajaté honitby podle § 31 odst. 4, upraví se stávající nájemní smlouva k datu provedené změny.
+Držitel honitby je povinen oznámit písemně orgánu státní správy myslivosti zánik smlouvy o nájmu honitby v případech uvedených v odstavci 6 písm. a) až g), a to do 15 dnů ode dne, kdy k takové skutečnosti došlo.
+Není-li tímto zákonem nebo smlouvou o nájmu stanoveno jinak, řídí se právní vztahy ze smlouvy o nájmu honitby ustanoveními občanského zákoníku o nájmu. Pronájem části honitby nebo podnájem honitby nebo její části je zakázán.
+Evidence využití honiteb
+Orgán státní správy myslivosti vede evidenci honiteb v územním obvodu své působnosti a evidenci jejich využití na základě vydaných rozhodnutí nebo jiných úkonů a skutečností.
+V rámci evidence využití honiteb jsou vedeny evidence mysliveckých hospodářů a mysliveckých stráží s jejich osobními údaji, s daty jmenování, odvolání a vydání průkazů, jakož i evidence loveckých psů používaných pro honitbu.
+MYSLIVECKÉ HOSPODAŘENÍ A LOV
+MYSLIVECKÝ HOSPODÁŘ
+Uživatel honitby je povinen navrhnout orgánu státní správy myslivosti ustanovení mysliveckého hospodáře. Předpokladem pro zastávání této funkce je, že navržená osoba
+má způsobilost k právním úkonům,
+je starší 21 let,
+je bezúhonná (§ 12 odst. 4); k uloženým pokutám za přestupky na úseku myslivosti a k pokutám za přestupky uložené podle tohoto zákona se nepřihlíží, pokud od právní moci rozhodnutí o jejich uložení uplynuly 2 roky,
+má bydliště na území České republiky,
+má platný lovecký lístek,
+má platný zbrojní průkaz skupiny C,
+je pojištěna (§ 48), a
+složila zkoušku z myslivosti na vysoké škole, na které je myslivost vyučovacím předmětem, nebo úspěšně ukončila studia na střední odborné škole nebo vyšší odborné škole, na které je myslivost studijním oborem nebo povinným vyučovacím předmětem, nebo složila vyšší odbornou mysliveckou zkoušku anebo složila zkoušku pro myslivecké hospodáře; potvrzení o složení zkoušky vystavené jejím pořadatelem je veřejnou listinou.
+Orgán státní správy myslivosti, který rozhoduje o ustanovení mysliveckého hospodáře, si k ověření bezúhonnosti podle odstavce 1 písm. c) vyžádá podle zvláštního právního předpisu opis z evidence Rejstříku trestů. Žádost o vydání opisu z evidence Rejstříku trestů a opis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup. Ke splnění podmínky bezúhonnosti je také třeba předložení čestného prohlášení, jímž fyzická osoba prokáže, že na úseku myslivosti jí nebyla pravomocně uloženy správní tresty za spáchání přestupku podle zákona o přestupcích, ani jí nebyla pravomocně uložena pokuta podle tohoto zákona. K uloženým správním trestům za přestupky na úseku myslivosti a k pokutám za přestupky uložené podle tohoto zákona se nepřihlíží, pokud od právní moci rozhodnutí o jejich uložení uplynuly 2 roky.
+Navrhnout ustanovení mysliveckého hospodáře je uživatel honitby povinen do 15 dnů po nabytí právní moci rozhodnutí o uznání honitby, po uzavření smlouvy o nájmu honitby nebo po nabytí právní moci, rozhodnutí o odvolání, popřípadě po zániku funkce dosavadního mysliveckého hospodáře, jakož i po doručení rozhodnutí, jímž bylo odmítnuto jmenovat mysliveckým hospodářem navrženou osobu.
+Myslivecký hospodář je při své činnosti oprávněn
+vypracovat a spolu se zástupcem uživatele honitby podepisovat úkony týkající se mysliveckého hospodaření, například návrh plánu mysliveckého hospodaření a statistický výkaz o stavu honitby,
+zastupovat uživatele honitby při jednání týkajícím se mysliveckého hospodaření,
+kontrolovat ulovenou zvěř a její označení, být předem zpraven o provádění dohledávky poraněné zvěře, která přeběhla nebo přeletěla ze sousední honitby,
+požadovat předložení loveckého lístku a potvrzení o povinném pojištění od osob, které loví v honitbě zvěř; při zjištění neplatnosti loveckého lístku nebo nepředložení potvrzení o povinném pojištění vyzvat lovce, aby honitbu opustil, a případ oznámit orgánu státní správy myslivosti; uvedené osoby jsou povinny předložit požadované doklady, popřípadě honitbu opustit,
+usmrcovat toulavé psy a kočky, živočichy vyžadující regulaci, zdivočelá domácí zvířata a volně se pohybující zvířata z farmových chovů zvěře podle § 14 odst. 1 písm. e) a g),
+vést společné lovy, požadovat předložení dokladů loveckých psů, zastavit provádění společného lovu, nejsou-li splněny podmínky pro něj stanovené, nebo není-li dbáno bezpečnostních pravidel při použití loveckých zbraní.
+Myslivecký hospodář je při své činnosti povinen
+prokázat se průkazem mysliveckého hospodáře,
+zabezpečovat plnění povinností spojených s chovem a lovem zvěře,
+navrhovat uživateli honitby opatření k řádnému mysliveckému hospodaření v honitbě; odpovídá mu za toto hospodaření,
+vést záznamy o hospodaření v honitbě, zejména o ulovené zvěři, jejím prodeji a ostatních dispozicích s ní, a připravovat statistická hlášení pro orgány státní správy myslivosti,
+evidovat vydané povolenky k lovu, v honitbě používané lovecké psy (s rozdělením na psy započítané do minimálního předepsaného počtu pro honitbu a na psy ostatní), vést další předepsané evidence,
+nejpozději následující den po skončení honu zajistit provedení společné dohledávky s použitím loveckých psů,
+vyloučit z účasti na honu střelce, honce i další osoby, které jsou pod vlivem alkoholu nebo jiných toxických látek, osoby mladší 15 let a osoby, které hrubým způsobem porušily bezpečnostní pravidla; uvedené osoby jsou povinny místo honu opustit,
+provádět a zajišťovat opatření na ochranu zvěře,
+oznamovat neodkladně zjištěné závady, nedostatky a škody podle jejich povahy uživateli honitby a orgánu státní správy myslivosti, který jej ustanovil,
+zabezpečit průkaz mysliveckého hospodáře proti zneužití, ztrátě a odcizení; případné takové skutečnosti neprodleně oznámit orgánu státní správy myslivosti, který mu průkaz vydal.
+Myslivecký hospodář může v odůvodněných případech na dočasnou dobu pro některý úkon přenést své povinnosti a oprávnění s výjimkou oprávnění podle odstavce 3 písm. e) na osobu, která drží lovecký lístek nejméně předchozích 5 let.
+Mysliveckého hospodáře ustanovuje a odvolává orgán státní správy myslivosti na návrh uživatele honitby. Pro ustanovování a odvolávání platí obdobně ustanovení § 12 odst. 3 a § 13.
+Vyhláška stanoví vzor průkazu mysliveckého hospodáře, dále způsob provádění zkoušek pro myslivecké hospodáře, a které myslivecké organizace a školy, na kterých je myslivost studijním oborem nebo povinným vyučovacím předmětem, mohou být pověřeny organizací těchto zkoušek.
+PLÁN MYSLIVECKÉHO HOSPODAŘENÍ
+Vypracování plánu
+Uživatel honitby je povinen každoročně provést v termínu stanoveném orgánem státní správy myslivosti [§ 59 odst. 2 písm. c)] sčítání zvěře v honitbě a do 5 dnů výsledek písemně oznámit příslušnému orgánu státní správy myslivosti (§ 60). Držitel honitby a držitelé sousedních honiteb mají právo účastnit se se svým zástupcem sčítání a vyjádřit se orgánu státní správy myslivosti k jeho výsledkům. Pokud některý držitel honitby nesouhlasí s výsledkem provedeného sčítání a oznámí to písemně orgánu státní správy myslivosti nejpozději do 1 týdne ode dne provedeného sčítání, nařídí tento orgán nové konečné sčítání.
+Uživatel honitby je povinen vypracovat každoročně plán mysliveckého hospodaření v honitbě (dále jen „plán“). Při vypracování plánu vychází z posouzení celkového stavu ekosystému, výsledku porovnání kontrolních a srovnávacích ploch a výše škod způsobených v uplynulém období zvěří na lesních a zemědělských porostech, z výsledků sčítání zvěře, ze stanovených minimálních a normovaných stavů zvěře, poměrů pohlaví a koeficientů očekávané produkce, jakož i ze záměrů, které byly uvedeny v návrhu na uznání honitby. V části týkající se mysliveckého hospodaření se uvádí i zamýšlené zazvěřování, výstavba mysliveckých zařízení, opatření v péči o zvěř a při ochraně a zlepšování životních podmínek zvěře. Jestliže je honitba v oblasti chovu zvěře, vychází plán ze závěrů a doporučení orgánu státní správy myslivosti, který vymezil příslušnou oblast chovu zvěře.
+Vypracovaný plán předloží uživatel honitby držiteli honitby k vyjádření. Jestliže se držitel honitby do 15 dnů od doručení plánu k němu nevyjádří, má se za to, že s ním souhlasí. Pokud po vyjádření držitele honitby nedojde mezi ním a uživatelem honitby k dohodě o plánu, určí jej na návrh některého z nich orgán státní správy myslivosti rozhodnutím. Odsouhlasený, popřípadě dohodnutý plán je uživatel honitby povinen zaslat orgánu státní správy myslivosti.
+Orgán státní správy myslivosti je oprávněn kontrolovat plnění plánů zaslaných mu podle odstavce 2 nebo 3 a změněných plánů podle § 37. Za tím účelem, není-li dohodnuto jinak, mu uživatel honitby předkládá měsíční písemná hlášení o plnění plánu, a to do pátého dne měsíce následujícího po měsíci, v němž k lovu došlo.
+V honitbách, kde pro některé druhy spárkaté zvěře nejsou stanoveny minimální a normované stavy, lze po vyjádření orgánu státní správy myslivosti u těchto druhů zvěře lovit samičí zvěř a samčí zvěř do stáří 2 let ve stanovené době lovu bez omezení a bez vypracování a projednání plánu.
+Vyhláška stanoví podmínky, vzor a bližší pokyny vypracování plánu.
+Změny a plnění plánu
+Za změny plánu se považují samostatná rozhodnutí orgánu státní správy myslivosti o snížení stavů zvěře v honitbě nebo zrušení chovu některého druhu zvěře v honitbě a o povolení lovu zvěře v době hájení. Na plnění plánu se započítává zvěř získaná lovem na nehonebních pozemcích, při dohledávce zvěře a nalezená zvěř uhynulá.
+Myslivecká evidence a statistika
+Uživatel honitby je povinen vést záznamy o honitbě a mysliveckém hospodaření v ní a podávat hlášení orgánu státní správy myslivosti pro statistické účely. Vedení myslivecké evidence a statistiky o honitbě a mysliveckém hospodaření v ní je součástí rezortního statistického zjišťování.
+Pověřené obecní úřady v přenesené působnosti dále zpracovávají statistická hlášení o myslivosti za honitby ve své územní působnosti.
+POVOLENÍ LOVU VE ZVLÁŠTNÍCH PŘÍPADECH
+Snížení stavů zvěře a zrušení jejího chovu
+Vyžaduje-li zájem vlastníka, popřípadě nájemce honebních pozemků nebo zájem zemědělské nebo lesní výroby, ochrany přírody anebo zájem mysliveckého hospodaření, aby počet některého druhu zvěře byl snížen, orgán státní správy myslivosti povolí, popřípadě uloží uživateli honitby příslušnou úpravu stavu zvěře. Nelze-li škody působené zvěří snížit technicky přiměřenými a ekonomicky únosnými způsoby, uloží orgán státní správy myslivosti na návrh vlastníka, popřípadě nájemce honebního pozemku nebo na návrh orgánu ochrany přírody nebo orgánu státní správy lesa snížení stavu zvěře až na minimální stav, popřípadě zruší chov druhu zvěře, který škody působí.
+Povolení lovu mimo dobu lovu
+Vyskytne-li se potřeba lovu některého druhu zvěře, která není hájena podle § 2 písm. c), mimo dobu jejího lovu pro účely vědecké, povolí takový lov orgán státní správy myslivosti. Pokud mezi žadatelem a uživatelem honitby nedojde k dohodě, může být v povolení rozhodnuto i o způsobu lovu, náhradách a podobně. Stejně se postupuje při povolení odchytu zvěře, lovu poraněné zvěře a lovu zvěře pro účely výcviku a zkoušek loveckých psů a loveckých dravců.
+Povolení lovu zvěře a usmrcování jiných živočichů na nehonebních pozemcích
+Vznikne-li potřeba jednorázově omezit nebo trvale regulovat stavy některého druhu zvěře, popřípadě i jiných živočichů na nehonebních pozemcích, povolí lov zvěře nebo usmrcování jiných živočichů na těchto pozemcích na žádost jejich vlastníků, popřípadě nájemců nebo z vlastního podnětu orgán státní správy myslivosti. Povolit lze lov i mimo dobu lovu. Provedením lovu nebo usmrcením orgán státní správy myslivosti pověří uživatele honitby, v jejímž obvodu jsou nehonební pozemky, popřípadě uživatele nejbližší honitby, kterému také patří ulovená zvěř; v katastrálních územích, v nichž není žádný honební pozemek, pověří osoby, které mají platné lovecké lístky; ulovená zvěř nebo jiný usmrcený živočich patří těmto osobám, není-li jejich držení upraveno zákonem o ochraně přírody a krajiny nebo rozhodnutím vydaným na jeho základě. Orgán státní správy myslivosti v pověření stanoví podmínky pro provedení lovu nebo usmrcení, zejména určí denní dobu, zásady vzájemné koordinace postupu osob nebo omezení vstupu na veřejná a neveřejná pohřebiště nebo do chatových a zahrádkářských osad. Pokud se jedná o nehonební pozemky prohlášené orgánem státní správy myslivosti z důvodů bezpečnostních nebo vojenských (§ 17 odst. 2), provádí lov na těchto pozemcích organizace v oboru působnosti Ministerstva obrany.
+Neprovádí-li uživatel honitby, popřípadě uživatel nejbližší honitby, nebo osoba pověřená podle odstavce 1 lov nebo usmrcování v souladu s uděleným pověřením, pověří orgán státní správy myslivosti prováděním lovu nebo usmrcováním jiného uživatele honitby nebo jinou osobu, která má lovecký lístek. Pro pověření platí odstavec 1 věta čtvrtá obdobně.
+Pověřené osoby a osoby určené příslušným uživatelem honitby jsou oprávněny vstupovat s loveckou zbraní, loveckým psem, popřípadě loveckým dravcem na nehonební pozemky, a to po předchozím souhlasu vlastníka, popřípadě nájemce nehonebních pozemků.
+DOBY LOVU A JEHO PODMÍNKY
+Doba lovu a podmínky lovu
+Lovit lze jen zvěř, která není hájena podle § 2 písm. c), a to ve stanovené době lovu. Pokud orgán ochrany přírody stanoví opatření k regulaci nepůvodního druhu nebo křížence nebo povolí usmrcení jiného živočicha, který není zvěří, může usmrcení živočichů, kteří nejsou zvěří, v rámci těchto opatření nebo povolení provést za stanovených podmínek osoba oprávněná podle tohoto zákona.
+Vyhláška stanoví dobu lovu jednotlivých druhů zvěře a bližší podmínky provádění lovu.
+Dohledávka zvěře
+Uživatel honitby je povinen zajistit sledování a dohledání zvěře postřelené nebo jiným způsobem poraněné, která přeběhne nebo přeletí do cizí honitby nebo na nehonební pozemky; při této činnosti je oprávněn použít loveckého psa.
+Osoby provádějící dohledávku zvěře jsou oprávněny v nezbytně nutné míře vstupovat s loveckou zbraní a loveckým psem na pozemky cizí honitby a na neoplocené nehonební pozemky, a to po předchozím vyrozumění uživatele cizí honitby nebo vlastníka, popřípadě nájemce nehonebních pozemků, který se může dohledávky zvěře zúčastnit a který má povinnost provedení dohledávky umožnit. Dohledávku na oploceném nehonebním pozemku je možno provést jen po souhlasu jeho vlastníka, popřípadě nájemce.
+Dohledaná zvěř patří uživateli honitby, z níž přeběhla nebo přeletěla. Zvěř mrtvá, která byla jinak nalezena na nehonebních pozemcích, náleží uživateli nejbližší honitby, který je povinen postupovat podle veterinárních předpisů.
+Používání loveckých psů a loveckých dravců
+Uživatel honitby je povinen držet a v honitbě používat lovecké psy. Loveckým psem se rozumí pes loveckého plemene uznaného Mezinárodní kynologickou federací (FCI) s průkazem původu, který složil příslušnou zkoušku z výkonu. Potvrzení o složené zkoušce vystavené jejím pořadatelem je veřejnou listinou.
+Loveckým dravcem se rozumí dravec chovaný k sokolnickému využití; nemusí jít o druh zvěře uvedený v § 2 písm. c). Použití loveckých dravců v sokolnictví povoluje orgán státní správy myslivosti. Držení a chov loveckého dravce jsou možné jen s povolením podle předpisů o ochraně přírody a za podmínek v povolení uvedených. Držitel loveckého dravce musí mít složeny sokolnické zkoušky a být členem sokolnické organizace.
+Vyhláška stanoví bližší pokyny o používání loveckých dravců a o používání loveckých psů, o jejich počtu stanoveném pro jednotlivé druhy honiteb a společné lovy, dále způsob provádění zkoušek psů z výkonu a sokolnických zkoušek, a které myslivecké organizace a školy, na kterých je myslivost studijním oborem nebo povinným vyučovacím předmětem, mohou být pověřeny organizací těchto zkoušek.
+ZAKÁZANÉ ZPŮSOBY LOVU
+Lov zvěře smí být prováděn jen způsobem odpovídajícím zásadám mysliveckým, zásadám ochrany přírody a zásadám ochrany zvířat proti týrání. Zakazuje se
+chytat zvěř do ok, na lep, do želez, do jestřábích košů, tluček a nášlapných pastí a pomocí háčků,
+lovit zvěř způsobem, jímž se zbytečně trýzní, trávit zvěř jedem nebo ji usmrcovat plynem,
+lovit zvěř do sítí, pokud nejde o její odchyt za účelem zazvěřování nebo u zvěře pernaté o ornitologický výzkum,
+lovit zvěř pernatou na výrovkách, lovit zvěř s pomocí živých živočichů jako návnad,
+nahánět zvěř srnčí pomocí ohařů, ostatní zvěř spárkatou s pomocí psů v kohoutku vyšších než 55 cm,
+lovit sluku vyháněním pomocí psa a plašením s honci,
+lovit zvěř s pomocí elektrických zařízení schopných zabíjet nebo omráčit, zdrojů umělého osvětlení, zrcadel, zařízení pro osvětlení terče, zaměřovače zbraní konstruovaného na principu noktovizorů, reprodukční soustavy s hlasy zvěře, výbušnin,
+lovit zvěř s pomocí mechanismů pohybujících se po zemi, nad zemí nebo po vodě, pokud nejde o loď plovoucí rychlostí menší než 5 km/hod.,
+střílet zvěř jinou zbraní než loveckou (dlouhou palnou zbraní kulovou, brokovou nebo kombinovanou, určenou k loveckým účelům),
+střílet zvěř zakázanými zbraněmi, jejich doplňky a střelivem,
+střílet zvěř srnčí jinou zbraní než kulovnicí s nábojem s energií ve 100 m nižší než 1000 J (joulů) a ostatní zvěř spárkatou nižší než 1500 J; to neplatí při lovu selete a lončáka prasete divokého, které lze při nadháňce, naháňce nebo nátlačce střílet i brokovnicí s jednotnou střelou,
+střílet zvěř z poloautomatických nebo automatických zbraní se zásobníkem schopným pojmout více než 2 náboje,
+lovit zvěř kromě prasat divokých a lišek obecných za noci, tj. hodinu po západu slunce až do hodiny před východem slunce; lovit prase divoké a lišku obecnou v noci bez použití vhodné pozorovací a střelecké optiky,
+lovit zvěř v době nouze ve vzdálenosti do 200 m od krmelců a slanisk,
+dávat do krmiva lákací a narkotizační prostředky, pokud to není prováděno za účelem odchytu,
+střílet zvěř na hnízdech a vystřelovat hnízda,
+lovit zvěř na honebních pozemcích, na kterých současně probíhá sklizeň zemědělských plodin, a na sousedních pozemcích ve vzdálenosti do 200 m od hranice těchto pozemků,
+lovit zvěř na čekané ve vzdálenosti do 200 m od hranic sousední honitby, lovit bažanty ve vzdálenosti do 200 m od sousední bažantnice a v těchto vzdálenostech přikrmovat zvěř, umísťovat myslivecká zařízení a provádět lov z mysliveckých a jiných zařízení,
+střílet spárkatou zvěř v odchytových a aklimatizačních zařízeních a v přezimovacích objektech, s výjimkou zvěře poraněné a chovatelsky nežádoucí,
+lovit na společném lovu zvěř spárkatou kromě laní a kolouchů jelena evropského a jelena siky, muflonek a muflončat, selete a lončáka prasete divokého; tento zákaz se netýká lovu v oborách,
+střílet zajíce polního, bažanta obecného, orebici horskou, perličku obecnou, kachnu divokou, poláka velkého, poláka chocholačku, lysku černou, husu velkou, husu běločelou a husu polní jinak než loveckou zbraní brokovou na společných lovech za účasti minimálně 3 střelců a stanoveného počtu loveckých psů,
+používat olověné brokové náboje k lovu vodního ptactva na mokřadech.
+V rozhodnutí orgánu státní správy myslivosti o povolení, popřípadě uložení úpravy stavu zvěře v honitbě nebo o zrušení chovu určitého druhu zvěře může být uvedeno, že při této úpravě stavu zvěře neplatí některé zakázané způsoby lovu uvedené v odstavci 1 písm. g), jde-li o lov v noci, a dále v odstavci 1 písm. m), t) a u).
+Zákazy nebo omezení lovu stanovené zvláštními právními předpisy zůstávají nedotčeny.
+POVOLENKA K LOVU, LOVECKÝ LÍSTEK A POVINNÉ POJIŠTĚNÍ
+Povolenka k lovu
+Kdo loví zvěř nebo usmrcuje jiného živočicha, musí mít u sebe lovecký lístek, povolenku k lovu a potvrzení o povinném pojištění; při lovu nebo usmrcování se zbraní též zbrojní průkaz a průkaz zbraně a při lovu nebo usmrcování s loveckým dravcem jeho evidenční kartu. Tyto průkazy je povinen ten, kdo loví zvěř nebo usmrcuje jiného živočicha, předložit na požádání orgánu policie, orgánu státní správy myslivosti, mysliveckému hospodáři a myslivecké stráži příslušné honitby.
+Povolenky k lovu vydává a podepisuje uživatel honitby na tiskopisech, které k tomuto účelu pořídil. Pro osoby lovící na společném lovu může povolenku k lovu nahradit seznam osob, které se jej účastní, (hromadná povolenka k lovu). Uživatel honitby je povinen evidenci vydaných povolenek včetně jejich vzorů archivovat nejméně 3 roky od skončení jejich platnosti.
+Uživatel honitby může povolenku k lovu vydat také k usmrcování živočichů vyžadujících regulaci a umožnit celoroční usmrcování těchto živočichů i jiným osobám oprávněným podle tohoto zákona než myslivecké stráži a mysliveckému hospodáři.
+Lovecký lístek
+Lovecké lístky vydává orgán státní správy myslivosti, v jehož obvodu má žadatel trvalý pobyt. Cizincům a českým občanům, kteří nemají trvalý pobyt v České republice, vydává lovecký lístek orgán státní správy myslivosti, v jehož obvodu se zdržují.
+Druhy loveckých lístků jsou:
+lovecký lístek pro české občany,
+lovecký lístek pro žáky a posluchače odborných škol, na kterých je myslivost studijním oborem nebo povinným vyučovacím předmětem,
+lovecký lístek pro cizince.
+Lovecký lístek lze vydat jen tomu, kdo prokáže, že
+je starší 16 let,
+má způsobilost k právním úkonům,
+složil zkoušku z myslivosti nebo zkoušku z myslivosti na vysoké škole, na které se vyučuje myslivost, nebo je žákem, posluchačem nebo absolventem střední nebo vyšší odborné školy, na které je myslivost studijním oborem nebo povinným vyučovacím předmětem; u cizince se za průkaz o složení zkoušky z myslivosti považuje platný doklad opravňující k lovu vystavený v cizině; potvrzení o vykonané zkoušce z myslivosti vystavené jejím pořadatelem je veřejnou listinou,
+je bezúhonný (§ 12 odst. 4),
+je pojištěn (§ 48).
+Orgán státní správy myslivosti, který vydává lovecké lístky, si k ověření bezúhonnosti podle odstavce 3 písm. d) vyžádá podle zvláštního právního předpisu výpis z evidence Rejstříku trestů. Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup. Ke splnění podmínky bezúhonnosti je také třeba předložení čestného prohlášení, jímž fyzická osoba prokáže, že na úseku myslivosti jí nebyla pravomocně uloženy správní tresty za spáchání přestupku podle zákona o přestupcích, ani jí nebyla pravomocně uložena pokuta podle tohoto zákona. K uloženým správním trestům za přestupky na úseku myslivosti a k pokutám za přestupky uložené podle tohoto zákona se nepřihlíží, pokud od právní moci rozhodnutí o jejich uložení uplynuly 2 roky. U cizince, který nemá pobyt na území České republiky a žádá o vydání loveckého lístku na dobu kratší než 30 dnů, lze výpis z evidence Rejstříku trestů nahradit platným loveckým lístkem ze země jeho pobytu.
+Orgán státní správy myslivosti odebere nejdéle na dobu 5 let lovecký lístek, zjistí-li dodatečně takovou okolnost, pro kterou by vydání loveckého lístku muselo být odepřeno, nebo vznikla-li taková okolnost po jeho vydání. Orgán státní správy myslivosti může vydání loveckého lístku odepřít, bylo-li proti žadateli zahájeno soudní řízení pro trestný čin nebo správní řízení k uložení pokuty podle § 64.
+Vyhláška stanoví podrobnosti vydávání a odebírání loveckých lístků, povinné náležitosti povolenky k lovu a dále obsah zkoušek z myslivosti a způsob jejich provádění, a které myslivecké organizace a školy, na kterých je myslivost studijním oborem nebo povinným vyučovacím předmětem, mohou být pověřeny organizací zkoušek z myslivosti.
+Povinné pojištění
+Každý, kdo loví zvěř, musí být pojištěn pro případ odpovědnosti za škodu způsobenou při této činnosti ublížením na zdraví nebo usmrcením jiných osob s limitem pojistného plnění nejméně ve výši 20 000 000 Kč a za škodu na věci s limitem pojistného plnění nejméně ve výši 500 000 Kč na jednu pojistnou událost. Pojistné podmínky, které blíže upraví rozsah tohoto pojištění, nesmějí obsahovat výluku, v důsledku které se pojištění nevztahuje na případy neopatrného chování pojištěného.
+Za členy mysliveckých organizací, které mají uzavřeny hromadné pojistné smlouvy s pojišťovnami a jejichž členové platí pojistné současně s členským příspěvkem, je potvrzením o povinném pojištění členský průkaz myslivecké organizace, v němž je potvrzeno zaplacení členského příspěvku na běžný rok a uvedena poznámka, že v členském příspěvku je placeno i povinné pojištění podle tohoto zákona.
+Jiné osoby než uvedené v odstavci 2 prokazují své pojištění pojistkou pojišťovny.
+Neoprávněný lov zvěře
+Neoprávněným lovem zvěře je lov zvěře bez povinných náležitostí stanovených v § 46. Neoprávněný lov zvěře se zakazuje.
+KONTROLA A ZUŽITKOVÁNÍ ZVĚŘE
+Způsob kontroly ulovené zvěře
+Každý kus ulovené nebo nalezené zužitkovatelné zvěře spárkaté musí být ihned po ulovení, nalezení nebo po provedené dohledávce označen nesnímatelnou plombou; zúčtovatelné plomby vydává uživatelům honiteb orgán státní správy myslivosti. U ostatní zvěře ulovené na společných lovech musí být při přepravě více než 10 kusů vystaven uživatelem honitby lístek o původu zvěře; to platí i u zvěře dohledané po provedení společného lovu.
+Vyhláška stanoví druhy plomb, lístků o původu zvěře, způsoby jejich výdeje, evidence, připevňování, snímání a podobně.
+Ošetření ulovené zvěře
+Ošetření zvěře po jejím ulovení se řídí veterinárními předpisy; to platí i pro ošetření usmrceného zdivočelého hospodářského zvířete nebo označeného zvířete z farmového chovu zvěře.
+Uvádění ulovené zvěře do oběhu
+Uživatel honitby může prodávat jen zvěř, zvěřinu a jiné části zvěře pocházející ze své honitby; o ulovené zvěři, jejím prodeji a vlastní spotřebě je povinen vést evidenci. Při prodeji je povinen postupovat podle veterinárních předpisů.
+Ke každému kusu zvěře spárkaté musí přepravující osoba mít u sebe vyplněný lístek o původu zvěře, z něhož je patrné datum ulovení a honitba, v níž byl uloven, a číslo plomby. Lístek o původu zvěře je přepravující osoba povinna předat příjemci zvěře. Příjemce zvěře je povinen uschovávat lístek o původu zvěře a sejmutou plombu 1 měsíc ode dne převzetí, podnikatel obchodující se zvěřinou nebo zvěřinu spotřebovávající k pohostinské nebo jiné činnosti do 6 měsíců ode dne nabytí zvěře. Uvádění zvěře do oběhu podléhá veterinárním předpisům. Pokud je u některých druhů zvěře doba lovu rozdílná podle jejího pohlaví, smí být zvěřina nakupována od uživatelů honiteb jen tehdy, lze-li bezpečně určit pohlaví kusu.
+Přeprava živé zvěře po provedeném odchytu může být prováděna jen po splnění požadavků stanovených veterinárními předpisy. Mláďata zvěře spárkaté do věku 6 měsíců mohou být přemisťována pouze s matkou.
+ŠKODY ZPŮSOBENÉ UŽÍVÁNÍM HONITBY, ZVĚŘÍ A NA ZVĚŘI
+Odpovědnost uživatele honitby
+Uživatel honitby je povinen hradit
+škodu, která byla v honitbě způsobena při provozování myslivosti na honebních pozemcích nebo na polních plodinách dosud nesklizených, vinné révě nebo lesních porostech,
+škodu, kterou v honitbě na honebních pozemcích nebo na polních plodinách dosud nesklizených, vinné révě, ovocných kulturách nebo na lesních porostech způsobila zvěř.
+Vykonává-li právo myslivosti sdružení, ručí jeho členové za závazek k náhradě škody společně a nerozdílně.
+Škody způsobené zvěří, která unikla z obory, je povinen hradit uživatel obory. Uživatel obory se zprostí odpovědnosti tehdy, prokáže-li, že uniknutí zvěře bylo umožněno poškozením ohrazení obory neodvratitelnou událostí nebo osobou, za niž neodpovídá.
+Opatření k zábraně škod působených zvěří
+Vlastník, popřípadě nájemce honebního pozemku činí přiměřená opatření k zabránění škod působených zvěří, přičemž však nesmí být zvěř zraňována. Stejná opatření může učinit se souhlasem vlastníka honebního pozemku uživatel honitby. Ustanovení zvláštních právních předpisů ukládající vlastníkům, popřípadě nájemcům honebních pozemků provádět opatření k ochraně před škodami působenými zvěří nejsou dotčena.
+Neuhrazované škody způsobené zvěří
+Nehradí se škody způsobené zvěří na pozemcích nehonebních, na vinné révě neošetřené proti škodám působeným zvěří, na neoplocených květinových školkách nebo zahradách ovocných a zelinářských, na stromořadích a stromech jednotlivě rostoucích, jakož i na vysokocenných plodinách. O tom, která plodina je vysokocenná, rozhoduje v pochybnostech orgán státní správy myslivosti. Nehradí se rovněž škody způsobené zvěří na zemědělských plodinách nesklizených v agrotechnických lhůtách a dále škody na zemědělských plodinách uskladněných na honebních pozemcích, pokud osoba, která plodiny uskladnila, neprovedla zároveň opatření za účelem účinné ochrany proti škodám působeným zvěří.
+Nehradí se rovněž škody na lesních porostech chráněných oplocením proti škodám působeným zvěří, na jedincích poškozených jen na postranních výhonech a v lesních kulturách, ve kterých došlo okusem, vytloukáním nebo vyrýváním stromků ke každoročnímu poškození méně než 1 % jedinců, a to po celou dobu do zajištění lesního porostu, přičemž poškození jedinci musí být rovnoměrně rozmístěni po ploše.
+Škody způsobené zvěří, jejíž početní stavy nemohou být lovem snižovány, hradí stát.
+Uplatnění nároků
+Nárok na náhradu škody způsobené zvěří musí poškozený u uživatele honitby uplatnit
+u škody na zemědělských pozemcích, polních plodinách a zemědělských porostech do 20 dnů ode dne, kdy škoda vznikla,
+u škod na lesních pozemcích a na lesních porostech vzniklých v období od 1. července předcházejícího roku do 30. června běžného roku do 20 dnů od uplynutí uvedeného období.
+Současně s uplatněním nároku na náhradu škody způsobené zvěří vyčíslí poškozený výši škody. Na polních plodinách a zemědělských porostech, u nichž lze vyčíslit škodu teprve v době sklizně, ji poškozený vyčíslí do 15 dnů po provedené sklizni.
+Poškozený a uživatel honitby se mají o náhradě škody způsobené zvěří dohodnout. Pokud uživatel honitby nenahradí škodu do 60 dnů ode dne, kdy poškozený uplatnil svůj nárok a vyčíslil výši škody nebo ve stejné lhůtě neuzavřel s poškozeným písemnou dohodu o náhradě této škody, může poškozený ve lhůtě 3 měsíců uplatnit svůj nárok na náhradu škody u soudu.
+Nárok na náhradu škody způsobené zvěří zaniká, nebyl-li poškozeným uplatněn ve lhůtách uvedených v odstavcích 1 až 3. Spory z dohody uzavřené podle odstavce 3 rozhoduje soud.
+Náhrada škod způsobených na zvěři
+Za škodu na zvěři odpovídá každý, kdo ji způsobil porušením právní povinnosti. Škodou na zvěři se rozumí zejména neoprávněný lov zvěře (pytláctví), úhyn zvěře, zničení hnízdišť, poškození nebo zničení prostředí nutného pro život zvěře a vypuštění živočichů, kteří mohou narušit přírodní rovnováhu nebo narušit genofond geograficky původního druhu zvěře. Na náhradu škody má nárok uživatel honitby. Pro uplatnění nároku na náhradu této škody platí obecné předpisy.
+STÁTNÍ SPRÁVA MYSLIVOSTI
+ORGÁNY STÁTNÍ SPRÁVY MYSLIVOSTI A JEJICH PŮSOBNOST
+Orgány státní správy myslivosti
+Ústředním orgánem státní správy myslivosti v České republice, s výjimkou území národních parků, je Ministerstvo zemědělství. Na území národních parků je ústředním orgánem státní správy Ministerstvo životního prostředí.
+Na území krajů je orgánem státní správy myslivosti krajský úřad v přenesené působnosti.
+Na území hlavního města Prahy je orgánem státní správy myslivosti Magistrát hlavního města Prahy. Přenesená působnost, která je tímto zákonem svěřena obecním úřadům obcí s rozšířenou působností, může být statutem hlavního města Prahy svěřena městským částem.
+Na území obcí je orgánem státní správy obecní úřad obce s rozšířenou působností.
+Na pozemcích určených pro obranu státu vykonává působnost krajů v přenesené působnosti a obecních úřadů obcí s rozšířenou působností Ministerstvo zemědělství. V národních parcích vykonávají správy národních parků působnost, která je svěřena obcím; působnost krajů vykonává Ministerstvo životního prostředí.
+Ministr zemědělství zřizuje Mysliveckou radu jako svůj poradní sbor složený zejména ze zástupců jiných správních úřadů, celostátně působících mysliveckých organizací, zemědělských a lesnických organizací, vysokých škol a výzkumných ústavů s činností na úseku myslivosti.
+Působnost Ministerstva zemědělství
+Ministerstvo zemědělství rozhoduje ve věcech
+opatření k zachování druhů zvěře (§ 3 odst. 1),
+dovozu, vývozu a vypouštění druhů zvěře (§ 4 odst. 2),
+myslivosti týkajících se organizací v oboru působnosti Ministerstva obrany,
+uložení opatření k odstranění nedostatků zjištěných při provádění dozoru (§ 61 odst. 3).
+Ministerstvo zemědělství dále
+řídí výkon státní správy myslivosti,
+organizuje a řídí myslivecký výzkum a podílí se na vzdělávání v myslivosti,
+vypracovává koncepce rozvoje myslivosti,
+účastní se na mezinárodní spolupráci, programech a projektech,
+dbá na zachování druhů zvěře (§ 3 odst. 1),
+ustavuje ústřední hodnotitelskou komisi trofejí (§ 6 odst. 2),
+pověřuje některou mysliveckou organizaci vedením evidence význačných trofejí (§ 6 odst. 2),
+pověřuje právnické osoby prováděním zkoušek pro myslivecké hospodáře (§ 35 odst. 7),
+pověřuje právnické osoby prováděním sokolnických zkoušek, zkoušek psů z výkonu (§ 44 odst. 3) a zkoušek z myslivosti (§ 47 odst. 5),
+pověřuje celostátně působící myslivecké organizace pořádáním celostátních a mezinárodních mysliveckých výstav nebo jinými vybranými úkoly na úseku myslivosti,
+spolupracuje s občanskými sdruženími, které působí v myslivosti,
+zabezpečuje provádění vyšších odborných mysliveckých zkoušek (§ 58 odst. 3),
+podporuje vybrané činnosti myslivosti poskytováním služeb nebo finančních příspěvků, zejména v oblastech výchovy a vzdělávání, podpory ohrožených a vzácných druhů zvěře, vyhodnocení chovu zvěře a chovatelských přehlídek, osvěty a propagace myslivosti, zlepšování životního prostředí zvěře, myslivecké kynologie, sokolnictví a chovu dravců, využití dravců v ochraně rostlin, preventivních veterinárních opatření a zdolávání nákaz v chovech zvěře,
+zpracovává statistická hlášení o myslivosti.
+Obsahem vyšších odborných mysliveckých zkoušek je ověření znalostí myslivosti a obecně závazných právních předpisů o myslivosti a předpisů souvisejících. Tyto zkoušky neskládají absolventi střední nebo vyšší odborné školy, na které je myslivost studijním oborem nebo povinným vyučovacím předmětem, nebo osoby, které složily zkoušku z myslivosti na vysoké škole, na které se vyučuje myslivost. Bližší podrobnosti o obsahu a rozsahu vyšších odborných mysliveckých zkoušek, včetně způsobu jejich provádění, stanoví vyhláška.
+Působnost krajů
+Kraj v přenesené působnosti rozhoduje ve věcech
+souhlasu s chovem zvěře v zajetí (§ 7 odst. 1),
+omezení obvyklého způsobu hospodaření v některých honitbách (§ 4 odst. 1),
+vymezení oblastí pro chov zvěře (§ 3 odst. 3),
+prohlášení dalších pozemků za nehonební (§ 17 odst. 2),
+povolení použití dravců jako loveckých (§ 44 odst. 2),
+uložení opatření k odstranění nedostatků zjištěných při provádění dozoru (§ 61 odst. 3),
+poskytování finančních příspěvků (§ 62 odst. 1).
+Kraj v přenesené působnosti
+vede agendu týkající se oblastí pro chov zvěře (§ 3 odst. 3),
+organizuje chovatelské přehlídky v oblastech pro chov zvěře (§ 6 odst. 1),
+určuje termíny sčítání zvěře (§ 36 odst. 1),
+zpracovává statistická hlášení o myslivosti (§ 38),
+podílí se na vzdělávání v myslivosti a mysliveckém výzkumu,
+spolupracuje s občanskými sdruženími, které působí v myslivosti, a ostatní veřejností,
+provádí kontrolu dodržování podmínek poskytování finančních příspěvků (§ 62 odst. 1).
+Krajský úřad je dotčeným orgánem podle zákona o ochraně přírody a krajiny
+při vydávání rozhodnutí nebo opatření obecné povahy, kterým se povoluje rozšíření nepůvodního druhu nebo křížence zvláště chráněného druhu do krajiny,
+při vydávání rozhodnutí nebo opatření obecné povahy, kterým se stanoví opatření k regulaci nepůvodního druhu nebo křížence zvláště chráněného druhu, a
+při vydávání opatření obecné povahy, kterým se stanoví opatření k regulaci značně rozšířeného invazního nepůvodního druhu.
+Působnost obcí
+Ve věcech neuvedených v § 57 až 59 vykonávají státní správu na úseku myslivosti obecní úřady obcí s rozšířenou působností.
+DOZOR V MYSLIVOSTI
+Ministerstvo zemědělství a Ministerstvo životního prostředí dozírají v rámci svých působností stanovených zvláštním právním předpisem, jak orgány státní správy myslivosti, fyzické a právnické osoby dodržují ustanovení tohoto zákona a předpisů vydaných k jeho provedení a dodržují rozhodnutí vydaná na jejich základě.
+Kraje a obecní úřady obcí s rozšířenou působností dozírají na dodržování tohoto zákona a předpisů vydaných k jeho provedení. Soustavně dozírají, zda jsou dodržována jimi vydaná rozhodnutí, zda uživatelé honiteb myslivecky hospodaří v souladu s tímto zákonem, provádějí ochranu myslivosti a dodržují zásady chovu zvěře.
+Orgány státní správy myslivosti ukládají rozhodnutím opatření k odstranění zjištěných nedostatků a opatření ke zlepšení; jsou oprávněny v případě nutnosti rozhodnout o omezení užívání honitby do doby odstranění nedostatků nebo jejich příčin.
+Odborní zaměstnanci orgánů státní správy myslivosti jsou oprávněni nosit při výkonu své funkce služební stejnokroj.
+Vyhláška stanoví podrobnosti o služebních stejnokrojích zaměstnanců orgánů státní správy myslivosti a o jejich označení.
+PODPORA MYSLIVECKÉHO HOSPODAŘENÍ A SPOLKOVÉ MYSLIVOSTI
+Stát podporuje vybrané činnosti mysliveckého hospodaření uvedené v této části zákona poskytováním služeb nebo finančních příspěvků. Finanční příspěvky mohou být poskytnuty zejména na
+zlepšování životního prostředí zvěře,
+podporu ohrožených druhů zvěře,
+oborní chovy zvěře se vzácnými druhy nebo poddruhy,
+chov a výcvik národních plemen loveckých psů a loveckých dravců,
+použití dravců v ochraně rostlin,
+preventivní veterinárně léčebné akce a zdolávání nákaz v chovech zvěře,
+ozeleňování krajiny včetně oplocování dřevin,
+chovatelské přehlídky a myslivecké výstavy, propagaci a osvětu myslivosti,
+zařízení pro selektivní lov a odchyt dalších živočichů vyžadujících regulaci.
+Pravidla poskytování finančních příspěvků se stanoví v rámci pravidel podpory hospodaření v lesích a pravidel používání prostředků z Fondu životního prostředí. Na poskytnutí finančního příspěvku není právní nárok. Byl-li finanční příspěvek poskytnut na základě nepravdivých nebo nesprávných údajů nebo nebyl-li použit na účel, na který byl poskytnut, je příjemce povinen jej v plné výši vrátit.
+Finanční příspěvek lze poskytnout z Fondu životního prostředí, nebyl-li na stejný účel poskytnut podle tohoto zákona.
+Finanční příspěvek podle tohoto zákona nelze poskytnout, pokud byla na stejný účel poskytnuta podpora z veřejných zdrojů nebo z fondů Evropské unie.
+Stát podporuje spolkovou myslivost nepřímo tím, že ve výběrovém řízení na nájemce honiteb na pozemcích státu mají přednost myslivecké spolky, jejichž sídlo je v místě honiteb, pokud neprojevil zájem o opětovné uzavření nájemní smlouvy dosavadní nájemce podle § 33 odst. 3. V případě, že se do výběrového řízení přihlásí více mysliveckých spolků, postupuje se podle § 32 odst. 4 tohoto zákona.
+PŘESTUPKY
+Přestupky fyzických osob
+Fyzická osoba se dopustí přestupku tím, že
+nesplní nebo poruší některou z povinností stanovenou v § 9 odst. 1 nebo 3 anebo v § 10 odst. 2 nebo 3 nebo nesplní opatření uložené podle § 61 odst. 3, nebo
+v rozporu s § 48a neoprávněně loví zvěř nebo nesplní nebo poruší některou z povinností stanovenou v § 5 odst. 2, § 9 odst. 2, § 10 odst. 1 nebo v § 14 odst. 1 písm. a) až d).
+Fyzická osoba se jako držitel loveckého lístku dopustí přestupku tím, že poruší některé pravidlo lovu podle § 41 až 45 nebo § 49 odst. 1.
+Za přestupek lze uložit pokutu do
+10 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), nebo
+30 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo odstavce 2.
+Za přestupek podle odstavce 1 písm. b) nebo odstavce 2 lze uložit zákaz činnosti do 2 let; při uloženém zákazu činnosti za přestupek podle odstavce 2 se odebere lovecký lístek.
+Přestupky podle odstavce 1 písm. b) a odstavce 2 se zapisují do evidence přestupků vedené Rejstříkem trestů.
+Přestupek, který se zapisuje do evidence přestupků vedené Rejstříkem trestů a který byl projednán mysliveckou stráží podle § 14 odst. 1 písm. i), zapíše do evidence přestupků vedené Rejstříkem trestů orgán státní správy myslivosti, který mysliveckou stráž ustanovil; myslivecká stráž sdělí orgánu státní správy myslivosti údaje pro provedení zápisu do pěti dnů ode dne uložení pokuty.
+Přestupky právnických a podnikajících fyzických osob
+Právnická osoba se dopustí přestupku tím, že nesplní nebo poruší některou z povinností stanovenou v § 5 odst. 2, § 7 odst. 1 nebo 2, § 9 odst. 1 nebo 2, § 10 nebo v § 32 odst. 3, 4 nebo 5 anebo nesplní opatření uložené podle § 61 odst. 3.
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že nesplní nebo poruší některou z povinností stanovenou v § 4 odst. 2, § 5 odst. 1, § 51 odst. 2 nebo 3 nebo v § 61 odst. 3.
+Uživatel honitby se dopustí přestupku tím, že
+nesplní nebo poruší některou z povinností stanovenou v § 11 odst. 1, 2, 4 nebo 6, § 36 odst. 1 nebo v § 44 odst. 1 nebo 2 anebo uvede nepravdivé údaje o honitbě a zvěři v ní,
+nesplní nebo poruší některou z povinností stanovenou v § 4 odst. 1 nebo v § 43 odst. 1,
+nesplní nebo poruší některou z povinností stanovenou v § 3 odst. 2, § 11 odst. 3, § 41 až 43, § 45, § 49 odst. 1 nebo v § 51 odst. 1,
+nesplní lov celkového počtu kusů jednotlivého druhu spárkaté zvěře podle plánu mysliveckého hospodaření, pokud tím dochází k překročení normovaného stavu tohoto druhu zvěře, nebo
+nesplní některou z povinností stanovenou v § 11 odst. 5 nebo v § 36 odst. 2 a 3.
+Za přestupek lze uložit pokutu do
+10 000 Kč, jde-li o přestupek podle odstavce 3 písm. a),
+40 000 Kč, jde-li o přestupek podle odstavce 1 nebo odstavce 3 písm. b),
+200 000 Kč, jde-li o přestupek podle odstavce 2 nebo odstavce 3 písm. c) až e).
+Společná ustanovení k přestupkům
+Je-li přestupek podle tohoto zákona spáchán opakovaně po nabytí právní moci rozhodnutí o přestupku, uloží se pokuta do výše dvojnásobku horní hranice sazeb uvedených v § 63 odst. 3 nebo v § 64 odst. 4. Přestupek je spáchán opakovaně, jestliže od nabytí právní moci rozhodnutí o stejném přestupku, z něhož byl obviněný uznán vinným, do jeho spáchání neuplynulo 12 měsíců.
+Přestupky podle tohoto zákona projednává orgán státní správy myslivosti.
+Výnosy z pokut uložených mysliveckou stráží za přestupky podle § 63 jsou příjmem příslušné obce s rozšířenou působností. Výnosy z pokut uložených za přestupky podle § 64 jsou příjmem Státního fondu životního prostředí.

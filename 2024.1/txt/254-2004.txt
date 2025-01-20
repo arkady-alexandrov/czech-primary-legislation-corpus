@@ -1,0 +1,38 @@
+ZÁKON O OMEZENÍ PLATEB V HOTOVOSTI
+Účel zákona
+Tento zákon určuje, kdy jsou fyzické i právnické osoby (dále jen „osoby“) povinny provést platbu prostřednictvím osoby oprávněné poskytovat platební služby nebo provozovatele poštovních služeb formou poštovního poukazu (dále jen „peněžní ústav“), a upravuje kontrolu dodržování této povinnosti.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+platbou předání nebo převedení peněžních prostředků poskytovatelem platby příjemci platby,
+bezhotovostní platbou platba provedená převodem peněžních prostředků na území České republiky prostřednictvím peněžního ústavu v české nebo cizí měně nebo převodem peněžních prostředků prostřednictvím peněžního ústavu v české nebo cizí měně z území České republiky na území jiného státu.
+Za platbu se pro účely tohoto zákona nepovažuje
+vložení peněžních prostředků v hotovosti na účet u peněžního ústavu a jejich výběr z účtu u peněžního ústavu,
+výměna bankovek nebo mincí za jiné bankovky nebo mince prostřednictvím peněžního ústavu,
+předání nestandardně poškozených tuzemských bankovek nebo tuzemských mincí České národní bance,
+zadržení bankovek nebo mincí, u kterých existuje důvodné podezření, že jsou padělané nebo pozměněné, a jejich předání České národní bance,
+předání nebo převedení peněžních prostředků při provádění směnárenských obchodů osobou oprávněnou provozovat směnárenskou činnost,
+předání nebo převedení peněžních prostředků při poskytování služeb spočívajících v přepravě bankovek a mincí osobou oprávněnou k poskytování těchto služeb, nebo
+předání nebo převedení peněžních prostředků při poskytování služeb spočívajících ve zpracování bankovek a mincí osobou oprávněnou k poskytování těchto služeb.
+Bezhotovostní platby
+Povinnost provést platbu bezhotovostně se vztahuje na platby prováděné
+navzájem mezi osobami s místem trvalého pobytu, místem pobytu nebo sídlem na území České republiky, pobočkami nebo organizačními složkami zahraničních osob zřízenými na území České republiky, nebo
+osobami s místem trvalého pobytu, místem pobytu nebo sídlem na území České republiky, pobočkami nebo organizačními složkami zahraničních osob zřízenými na území České republiky ve prospěch osob s místem pobytu nebo sídlem v zahraničí;
+přesahuje-li výše těchto plateb částku stanovenou tímto zákonem.
+Povinnost podle odstavce 1 se nevztahuje na
+platby daní, poplatků a jiných obdobných peněžitých plnění uskutečňovaných podle daňového řádu nebo podle celního zákona, pokud tyto zákony nestanoví jinak,
+povinné platby vyplývající z pracovněprávních vztahů,
+platby důchodů z důchodového pojištění, včetně jednorázových doplatků a výplat dávek z penzijních fondů a účastnických fondů obhospodařovaných penzijní společností,
+platby prováděné v době krizového stavu vyhlášeného podle zvláštního právního předpisu,
+platby pojistného a výplat pojistného plnění ze soukromého pojištění,
+platby prováděné Českou národní bankou při prodeji pamětních mincí, nebo
+platby přijaté soudním exekutorem, soudem nebo správním orgánem při exekuci nebo výkonu rozhodnutí.
+Poskytovatel platby, jejíž výše překračuje částku 270 000 Kč (dále jen „limit“) je povinen provést platbu bezhotovostně.
+Příjemce platby, jejíž výše překračuje limit, nesmí tuto platbu přijmout, jestliže nebyla provedena bezhotovostně.
+Platba v cizí měně se pro účely tohoto zákona přepočte na koruny české směnným kursem devizového trhu vyhlášeným Českou národní bankou a platným ke dni provedení platby.
+Do limitu se započítávají všechny platby v české i cizí měně, provedené týmž poskytovatelem platby témuž příjemci platby v průběhu jednoho kalendářního dne.
+Přestupky
+Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že poruší povinnost provést platbu bezhotovostně, ačkoli jí tuto povinnost ukládá tento zákon.
+Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že přijme hotovostní platbu, která byla provedena v rozporu s tímto zákonem.
+Za přestupek podle odstavců 1 a 2 lze uložit fyzické osobě pokutu do 500 000 Kč a právnické a podnikající fyzické osobě pokutu do 5 000 000 Kč.
+Přestupky podle tohoto zákona zjišťují při své činnosti finanční úřady a celní úřady.
+Pokuty ukládá, vybírá a vymáhá správní orgán, který při své činnosti zjistil porušení povinnosti podle tohoto zákona.

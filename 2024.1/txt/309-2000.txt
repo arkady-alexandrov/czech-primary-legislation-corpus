@@ -1,0 +1,207 @@
+OBRANNÁ STANDARDIZACE, KATALOGIZACE A STÁTNÍ OVĚŘOVÁNÍ JAKOSTI VÝROBKŮ A SLUŽEB URČENÝCH K ZAJIŠTĚNÍ OBRANY STÁTU
+ÚŘAD PRO OBRANNOU STANDARDIZACI, KATALOGIZACI A STÁTNÍ OVĚŘOVÁNÍ JAKOSTI
+Zřizuje se Úřad pro obrannou standardizaci, katalogizaci a státní ověřování jakosti (dále jen „Úřad“) jako správní úřad se sídlem v Praze. Úřad má celostátní působnost a je podřízen Ministerstvu obrany (dále jen „ministerstvo“).
+V čele Úřadu je ředitel, jehož výběr, jmenování a odvolání se řídí zákonem o státní službě.
+Úřad při plnění svých úkolů podle tohoto zákona spolupracuje zejména
+s ministerstvy, jinými správními úřady, kraji, a
+s příslušnými orgány Organizace Severoatlantické smlouvy (dále jen „NATO“), obdobnými úřady nebo orgány členských států NATO a obdobnými úřady nebo orgány jiných států.
+OBRANNÁ STANDARDIZACE
+Obecná ustanovení
+Obrannou standardizací se rozumí přistupování České republiky ke standardizačním dohodám NATO (dále jen „standardizační dohoda“), tvorba českého obranného standardu (dále jen „standard“) a způsob jeho provádění.
+Standardizační dohoda umožňuje zavedení stejné nebo podobné výzbroje, munice a jiného materiálu a stejných nebo podobných způsobů činnosti v oblasti operační, logistické a administrativní.
+Přistoupení ke standardizační dohodě se provádí formou prohlášení o přistoupení ke standardizační dohodě, kterým se přijímá její obsah buď v celém rozsahu nebo s výhradou k některé z jejích částí.
+Působnost Úřadu při obranné standardizaci
+Ředitel Úřadu podepisuje za Českou republiku prohlášení o přistoupení ke standardizační dohodě.
+Úřad
+oznamuje příslušným orgánům NATO přistoupení České republiky ke standardizační dohodě,
+eviduje, uchovává a zpřístupňuje standardizační dohody a oznamuje přistoupení České republiky ke standardizační dohodě ve Věstníku Úřadu pro technickou normalizaci, metrologii a státní zkušebnictví (dále jen „Věstník“); toto oznámení obsahuje název, číslo, stručnou charakteristiku standardizační dohody a podmínky jejího zpřístupnění,
+zajišťuje tvorbu, schvalování, vydávání a evidenci standardů.
+Standard
+Standard stanovuje požadavky na výrobky a služby nebo na postupy při činnostech v oblasti operační, logistické a administrativní, které slouží k zajištění obrany státu.
+Standard se označuje zkratkou ČOS.
+Přijetí standardu oznamuje Úřad ve Věstníku. Oznámení obsahuje název, číslo a stručnou charakteristiku standardu a podmínky jeho zpřístupnění.
+Standard vydává a rozesílá Úřad nebo právnická osoba zřízená ministerstvem.
+Vyplývá-li to ze standardizační dohody, k níž Česká republika přistoupila, musí být příslušný standard uplatněn v jí uzavírané smlouvě.
+Tvorba standardu
+Standard se vytváří
+přijetím požadavků standardizační dohody, nebo
+na základě návrhu ministerstva nebo jiného správního úřadu (dále jen „navrhovatel“).
+Návrh na tvorbu standardu zasílá navrhovatel Úřadu. Návrh obsahuje název žadatele, předmět a obsah navrhovaného standardu, zdůvodnění potřeby jeho vytvoření, časový harmonogram pro jeho zpracování a termín nabytí jeho účinnosti.
+Úřad rozhodne o návrhu na tvorbu standardu a své rozhodnutí zašle navrhovateli.
+Po přijetí návrhu na tvorbu standardu Úřad určí zpracovatele návrhu standardu. Zpracovatelem může být ministerstvo, právnická osoba jím zřízená nebo navrhovatel.
+Zpracovatel musí při zpracování standardu zajistit
+využívání dosaženého stupně rozvoje vědy a techniky,
+jednotnost a vzájemný soulad standardů a jejich soulad s právními předpisy,
+režim ochrany utajovaných informací podle zvláštního právního předpisu.
+Zpracování návrhu standardu oznamuje Úřad ve Věstníku. Toto oznámení obsahuje název návrhu standardu, jeho obsahovou charakteristiku, název zpracovatele a lhůtu pro přihlášení zájemců o posouzení návrhu standardu (dále jen „posuzovatel“) u zpracovatele; tato lhůta činí nejméně 30 dnů ode dne uveřejnění tohoto oznámení. Oznámení obsahuje dále podmínky zpřístupnění návrhu standardu posuzovateli.
+Návrh standardu zasílá zpracovatel ke stanovisku ministerstvům a jiným správním úřadům, jejichž působnosti se věcně dotýká, a navrhovateli. Ministerstva, jiné správní úřady a navrhovatel jsou povinni zaslat svá stanoviska zpracovateli do 30 dnů od doručení návrhu standardu. V případě, že ministerstvo nebo jiný správní úřad nezašle stanovisko ve stanovené lhůtě, má se za to, že s návrhem standardu souhlasí.
+Zpracovatel projedná návrh standardu s posuzovatelem, který se ve stanovené lhůtě přihlásil u zpracovatele a zaslal k návrhu standardu stanovisko ve lhůtě 30 dnů od jeho zpřístupnění.
+Jsou-li stanoviska k návrhu standardu souhlasná, zašle jej zpracovatel Úřadu ke schválení a vydání.
+Jsou-li k návrhu standardu uplatněny připomínky, projedná je zpracovatel s tím, kdo je uplatnil. Nedojde-li při projednání připomínek ke shodě, rozhodne na návrh zpracovatele Úřad.
+Odpovídá-li návrh standardu obsahovým požadavkům na jeho tvorbu, ředitel Úřadu standard schválí; v opačném případě Úřad návrh standardu vrátí zpracovateli k dopracování.
+Náklady na zpracování standardu hradí navrhovatel.
+KATALOGIZACE
+Obecná ustanovení
+Katalogizací se rozumí pořízení a aktualizace katalogizačních dat o výrobku, výrobci a dodavateli.
+Katalogizační data jsou údaje nezbytné pro přidělení katalogizačního čísla výrobku, katalogizačního kódu výrobce a katalogizačního kódu dodavatele Úřadem.
+Jednotný systém katalogizace je soubor vzájemně provázaných standardů, metod a prostředků vycházejících z Kodifikačního systému NATO, které slouží ke zpracování katalogizačních dat, (dále jen „systém katalogizace“).
+Agentura je fyzická nebo právnická osoba, která podniká podle zvláštního zákona v oblasti zpracování návrhu katalogizačních dat o výrobku na základě osvědčení o způsobilosti zpracovávat návrh katalogizačních dat o výrobku vydaného Úřadem (dále jen „osvědčení o způsobilosti“). Může jí být i dodavatel.
+Charakteristické údaje o výrobku zpracované agenturou podle zásad systému katalogizace, a to v písemné nebo elektronické podobě, tvoří návrh katalogizačních dat o výrobku.
+Katalogizační číslo výrobku je třináctimístný numerický kód přidělený výrobku.
+Katalogizační kód dodavatele a katalogizační kód výrobce je pětimístný alfanumerický kód, který slouží k jejich určení.
+Působnost Úřadu při katalogizaci
+Úřad provádí katalogizaci výrobků. Při této činnosti
+plní úlohu národního kodifikačního úřadu vyplývající ze zásad Kodifikačního systému NATO,
+stanoví po projednání s ministerstvy, jinými správními úřady a kraji (dále jen „uživatel“) podmínky pro užívání systému katalogizace, a to na základě jejich žádosti o užívání systému katalogizace,
+kontroluje úplnost návrhu katalogizačních dat o výrobku před přidělením katalogizačního čísla výrobku a před zařazením výrobku do systému katalogizace. Na základě této kontroly
+přidělí katalogizační číslo výrobku, katalogizační kód výrobce a katalogizační kód dodavatele a zařadí výrobek do systému katalogizace, pokud je návrh katalogizačních dat o výrobku úplný,
+přeruší řízení o zařazení výrobku do systému katalogizace, zjistí-li v návrhu katalogizačních dat o výrobku nedostatky, a vrátí jej uživateli k jejich odstranění,
+rozhodnutím návrh zamítne, není-li výrobek určen k zajištění obrany státu; proti tomuto rozhodnutí nelze podat opravný prostředek.
+Podmínkou pro podání žádosti o katalogizaci výrobků je uplatnění katalogizační doložky na výrobek dosud nekatalogizovaný uživatelem ve smlouvě s dodavatelem. Katalogizační doložka obsahuje povinnost dodavatele zpřístupnit uživateli dokumentaci o výrobku.
+Úřad na základě změn v dokumentaci k výrobku, předložených uživatelem, změní katalogizační data o výrobku.
+Úřad vyřadí katalogizovaný výrobek ze systému katalogizace, nemá-li výrobek uživatele.
+Agentura k žádosti o vydání osvědčení o způsobilosti zpracovávat návrh katalogizačních dat o výrobku připojí
+ověřený výpis z obchodního rejstříku nebo ověřenou kopii živnostenského listu s vymezeným předmětem podnikání v oblasti zpracovávání návrhu katalogizačních dat,
+metodiku zpracování návrhu katalogizačních dat o výrobku pro jeho identifikaci,
+doklad prokazující přístup k aplikačnímu programovému vybavení pro zpracování návrhu katalogizačních dat o výrobku,
+návrh katalogizačních dat o výrobku zpracovaný podle testovacích podkladů Úřadu.
+Úřad
+vydá agentuře osvědčení o způsobilosti zpracovávat návrh katalogizačních dat o výrobku, jsou-li doklady uvedené v odstavci 1 písm. b) až d) zpracovány v souladu se systémem katalogizace, nebo
+rozhodne o přerušení řízení o způsobilosti agentury zpracovávat návrh katalogizačních dat o výrobku, nepředloží-li agentura některý z dokladů uvedených v odstavci 1 nebo nejsou-li doklady uvedené v odstavci 1 písm. b) a d) zpracovány v souladu se systémem katalogizace.
+Zjistí-li Úřad u agentury, které bylo vydáno osvědčení o způsobilosti, že agenturou zpracovaný návrh katalogizačních dat o výrobku není v souladu se systémem katalogizace, pozastaví účinnost osvědčení o způsobilosti nebo osvědčení o způsobilosti odejme. Proti tomuto rozhodnutí nelze podat opravný prostředek.
+Úřad v rámci spolupráce poskytuje katalogizační data katalogizovaných výrobků a přehled jejich dodavatelů a výrobců příslušným orgánům NATO, obdobným úřadům nebo orgánům členských států NATO a obdobným úřadům nebo orgánům jiných států, které užívají kodifikační systém NATO.
+Úřad na žádost uživatele vyžaduje u příslušných orgánů NATO, obdobných úřadů nebo orgánů členských států NATO a obdobných úřadů nebo orgánů jiných států, které užívají kodifikační systém NATO, katalogizaci výrobku vyrobeného v jejich státě.
+Úřad poskytuje uživateli na jeho žádost přehled výrobků zařazených do systému katalogizace, přehled uživatelů, dodavatelů, výrobců a agentur, kterým bylo vydáno nebo odejmuto osvědčení o způsobilosti nebo pozastavena účinnost tohoto osvědčení.
+Práva a povinnosti uživatele
+Uživatel je povinen předat návrh katalogizačních dat o výrobku Úřadu s uvedením agentury, která jej zpracovala.
+Při dodávce již katalogizovaného výrobku je uživatel povinen bezodkladně informovat Úřad o provedených změnách v dokumentaci výrobku.
+Uživatel je povinen bezodkladně oznámit Úřadu, že přestal užívat katalogizovaný výrobek, a předkládat jednou ročně, nejpozději však do 31. ledna následujícího roku, přehled katalogizačních čísel užívaných výrobků. Nesplněním této povinnosti zaniká uživateli právo užívat systém katalogizace.
+Uživatel je oprávněn užívat katalogizační data o výrobku, o jehož katalogizaci požádal a který byl Úřadem zařazen do systému katalogizace.
+Práva a povinnosti dodavatele
+Dodavatel, na základě katalogizační doložky uplatněné uživatelem, je povinen
+uplatnit katalogizační doložku u subdodavatelů na výrobek, který má být předmětem katalogizace,
+zpřístupnit uživateli dokumentaci o výrobku podle § 10 odst. 2,
+informovat bezodkladně uživatele při dodávce již katalogizovaného výrobku o provedených změnách v dokumentaci o výrobku.
+Dodavatel je povinen bezodkladně informovat Úřad o tom, že uživatel vůči němu uplatnil katalogizační doložku.
+Dodavatel je oprávněn užívat katalogizační data o svém výrobku, který byl Úřadem zařazen do systému katalogizace.
+Práva a povinnosti agentury
+Agentura je na základě osvědčení o způsobilosti, vydaného Úřadem, oprávněna ve prospěch uživatele zpracovávat návrh katalogizačních dat o výrobku.
+Agentura je povinna předkládat Úřadu jednou ročně, nejpozději však do 31. ledna následujícího roku, přehled o zpracovaných návrzích katalogizačních dat o výrobcích s uvedením uživatelů.
+Ministerstvo stanoví vyhláškou náležitosti katalogizační doložky, vzory tiskopisů žádostí, oznámení a přehledů souvisejících s katalogizací a vzor osvědčení o způsobilosti.
+STÁTNÍ OVĚŘOVÁNÍ JAKOSTI
+Obecná ustanovení
+Státním ověřováním jakosti Úřad zjišťuje na žádost odběratele, zda dodavatel plní požadavky na jakost vyplývající ze smlouvy, a sice, zda
+výrobek nebo služba se shoduje s požadavky stanovenými v této smlouvě,
+dodavatel poskytuje záruky na jakost výrobku nebo služby stanovené v této smlouvě,
+dodavatel je schopen plnit další požadavky stanovené odběratelem v této smlouvě.
+Odběratelem se rozumí ministerstva, jiné správní úřady, kraje, příslušné orgány NATO, obdobné úřady nebo orgány členských států NATO nebo obdobné úřady nebo orgány jiných států.
+Působnost Úřadu při státním ověřování jakosti
+Úřad k zajištění státního ověřování jakosti jménem státu uzavírá
+dohody o uznávání a provádění státního ověřování jakosti s příslušnými orgány NATO, obdobnými úřady nebo orgány členských států NATO nebo obdobnými úřady nebo orgány jiných států, nebo
+dohody o provádění státního ověřování jakosti na konkrétní výrobky nebo služby s odběrateli, pokud s nimi Úřad nemá uzavřenou dohodu podle písmene a).
+Úřad je povinen v rámci státního ověřování jakosti provést u dodavatele na území České republiky
+odborný dozor nad jakostí (dále jen „odborný dozor“),
+konečnou kontrolu výrobku nebo služby (dále jen „konečná kontrola“),
+audity jakosti,
+pokud tak stanoví smlouva mezi odběratelem a dodavatelem.
+Úřad je oprávněn, na základě žádosti odběratele, požádat obdobný úřad nebo orgán členského státu NATO nebo obdobný úřad nebo orgán jiného státu o státní ověřování jakosti v případě, že výrobek je vyráběn nebo služba poskytována na jeho území a odebírá je odběratel z České republiky.
+Provádění státního ověřování jakosti
+Úřad provádí státní ověřování jakosti na základě žádosti odběratele.
+Žádost předkládá odběratel ve dvojím vyhotovení nejméně 40 dnů před zahájením výroby výrobku nebo poskytování služby.
+Žádost o státní ověřování jakosti obsahuje
+výsledek analýzy rizik výrobku nebo služby,
+návrh požadovaného rozsahu státního ověřování jakosti,
+dokumentaci výrobku nebo služby schválenou odběratelem, případně další dokumentaci, pokud je součástí smlouvy s dodavatelem, (dále jen „dokumentace“),
+návrh smlouvy s dodavatelem,
+zmocnění Úřadu k vyřízení žádostí dodavatele o povolení
+odchylky výrobku nebo služby od dokumentace,
+výjimky z požadavků na jakost výrobku nebo služby stanovených ve smlouvě,
+změny na výrobku nebo službě oproti dokumentaci.
+Povolení odchylky výrobku nebo služby od dokumentace se vztahuje na omezené množství výrobků nebo služby nebo na časově omezené období. Povolení se uděluje před zahájením výroby nebo poskytováním služby. Povolení odchylky nemá za následek změnu dokumentace.
+Povolení výjimky z požadavků na jakost umožňuje, aby Úřad vydal osvědčení o jakosti a kompletnosti i na výrobky nebo služby, které nejsou shodné s požadavky v dokumentaci. Povolení výjimky nemá za následek změnu dokumentace.
+Povolení změny na výrobku nebo službě se vtahuje na všechny další vyráběné výrobky nebo poskytované služby. Změna je úprava trvalé povahy, která se zaznamenává v dokumentaci a schvaluje se před zahájením výroby výrobku nebo poskytováním služby.
+Úřad, po obdržení žádosti o státní ověřování jakosti, projedná a dohodne s odběratelem navrhovaný rozsah státního ověřování jakosti pro výrobek nebo službu, podmínky pro provádění státního ověřování jakosti, požadavky kladené na dodavatele, výsledek analýzy rizik výrobku nebo služby a rizik dodavatele a rozsah zmocnění Úřadu k vyřízení žádostí dodavatele o povolení odchylek, výjimek a změn uvedených v § 20 odst. 3 písm. e). Dohodnuté požadavky, podmínky a rozsah státního ověřování jakosti včetně jednotlivých zmocnění mohou být měněny jen se souhlasem Úřadu.
+Analýzu rizik dodavatele zpracovává Úřad.
+Úřad vydá do 30 dnů po obdržení žádosti rozhodnutí
+o provedení státního ověřování jakosti, nebo
+o přerušení řízení o žádosti, jestliže žádost o státní ověřování jakosti neobsahuje náležitosti uvedené v § 20 odst. 3, anebo
+o neprovedení státního ověřování jakosti s uvedením důvodů.
+Podmínkou pro vydání rozhodnutí podle odstavce 3 písm. a) je, že odběratel předá Úřadu ověřenou kopii smlouvy s dodavatelem, ve které je uveden rozsah státního ověřování jakosti, požadavky k jeho zabezpečení a podmínky pro činnost Úřadu u dodavatele a subdodavatelů, které souvisejí se státním ověřováním jakosti.
+Proti rozhodnutí o neprovedení státního ověřování jakosti nelze podat opravný prostředek.
+Rozhodnutí o provádění státního ověřování jakosti pozbývá platnosti, pokud odběratel změnil bez souhlasu Úřadu požadavky, podmínky a rozsah státního ověřování jakosti včetně jednotlivých zmocnění dohodnuté podle § 21 odst. 1.
+Náhrada za provádění státního ověřování jakosti
+Úřad provede odběrateli státní ověřování jakosti za finanční úhradu. Výši finanční úhrady stanoví po dohodě s odběratelem, nejvýše však 2 % z ceny výrobků nebo služeb, podle rozsahu státního ověřování jakosti, charakteru a množství výrobků nebo služeb pořizovaných odběratelem. Finanční úhrada za provedení státního ověřování jakosti je příjmem státního rozpočtu.
+Úřad provede státní ověřování jakosti odběratelům bezplatně, pokud tak stanoví dohoda uzavřená Úřadem podle § 18.
+Odborný dozor
+Odborný dozor je činnost, kterou Úřad ověřuje, zda procesy dodavatele, jejichž výsledkem je výrobek nebo služba, se uskutečňují v souladu s požadavky odběratele stanovenými ve smlouvě s dodavatelem a zabezpečují dosažení požadované jakosti výrobku nebo služby.
+Odborný dozor se provádí po celou dobu plnění smlouvy uzavřené mezi odběratelem a dodavatelem.
+Úřad při provádění odborného dozoru kontroluje
+provádění vstupní kontroly materiálu a subdodávek,
+zda se jednotlivé výrobky vyrábějí nebo služby poskytují podle dokumentace a zda se uskutečňují všechny předepsané kontroly technických parametrů výrobku v průběhu výroby nebo služby v průběhu jejího poskytování,
+řízení procesů dodavatele,
+dodržování metrologického řádu, zejména předepsané přezkušování měřidel, přístrojů a zkušebních zařízení,
+průběh interních auditů dodavatele, jejich vyhodnocování a realizaci přijatých opatření,
+činnost dodavatele při nakládání s výrobky a jejich částmi, které nejsou shodné s dokumentací,
+nápravu zjištěných nedostatků,
+činnost v oblasti řízení dokumentace systému jakosti dodavatele,
+zajištění identifikovatelnosti výrobku nebo služby v průběhu výroby výrobku nebo poskytování služby,
+skladování hotových výrobků a manipulaci s nimi,
+zda počet vadných výrobků nepřekročí v průběhu výroby nebo poskytování služby smluvně stanovený počet,
+další činnosti dodavatele podle požadavků odběratele vyplývající ze smlouvy.
+Zjistí-li Úřad v průběhu odborného dozoru u dodavatele
+nedostatky v systému jakosti, které ohrožují jakost výrobku nebo služby,
+nedostatky v procesech, které ohrožují jakost výrobku nebo služby,
+nedostatky u výrobku v průběhu výroby nebo u služby v průběhu jejího poskytování,
+další nedostatky, které ohrožují jakost výrobku nebo služby,
+přeruší odborný dozor a písemně o tom vyrozumí dodavatele a odběratele. Dodavatele zároveň vyzve k nápravě a odstranění zjištěných nedostatků.
+V případě, že Úřad přeruší odborný dozor z důvodu nedostatků uvedených
+v odstavci 1 písm. a) a d), neprovede konečnou kontrolu u výrobků nebo služeb, které byly vyráběny nebo poskytovány před i v průběhu přerušení odborného dozoru, a to až do doby, než dodavatel prokáže Úřadu shodu těchto výrobků nebo služeb s požadavky stanovenými ve smlouvě,
+v odstavci 1 písm. b),
+neprovede konečnou kontrolu u výrobků nebo služeb, na kterých byly před přerušením odborného dozoru provedeny výrobní činnosti, které jsou příčinou tohoto přerušení, pokud dodavatel neprokáže Úřadu shodu těchto výrobků nebo služeb s požadavky stanovenými ve smlouvě,
+neprovede konečnou kontrolu u výrobků nebo služeb, na kterých byly v době přerušení provedeny výrobní činnosti, které jsou příčinou tohoto přerušení,
+vyžádá na dodavateli, aby prokázal, že na výrobcích nebo službách, u kterých již byla provedena konečná kontrola, se zjištěné nedostatky neprojevily,
+v odstavci 1 písm. c),
+neprovede konečnou kontrolu u výrobků nebo služeb, pokud nedostatky nejsou dodavatelem odstraněny a dodavatel neprokáže shodu výrobků nebo služeb s požadavky stanovenými ve smlouvě,
+vyžádá na dodavateli, aby prokázal, že na výrobcích nebo službách, u kterých již byla provedena konečná kontrola, se zjištěné nedostatky nevyskytují.
+Úřad pokračuje v odborném dozoru na žádost dodavatele, který písemně doloží způsob odstranění zjištěných nedostatků a prokáže, že opatření učiněná k nápravě jsou dostatečná.
+Konečná kontrola
+Konečnou kontrolou Úřad ověřuje shodu výrobku nebo služby s požadavky stanovenými odběratelem ve smlouvě s dodavatelem.
+Úřad vydá osvědčení o jakosti a kompletnosti pouze na výrobky a služby, u kterých dodavatel prokázal shodu s požadavky stanovenými ve smlouvě.
+Osvědčení o jakosti a kompletnosti obsahuje
+údaje o odběrateli a dodavateli,
+číslo smlouvy nebo objednávky mezi odběratelem a dodavatelem,
+potvrzení dodavatele o shodě výrobků nebo služeb s požadavky vyplývajícími ze smlouvy,
+údaje o výrobku nebo službě, jimiž jsou zejména název výrobku nebo služby, výrobní číslo a množství,
+číslo dokumentace, která je součástí smlouvy,
+potvrzení Úřadu o shodě výrobků nebo služeb s požadavky vyplývajícími ze smlouvy,
+další údaje stanovené Úřadem po dohodě s odběratelem.
+Zjistí-li Úřad při konečné kontrole
+že výrobky nebo služby nejsou shodné s požadavky uvedenými v dokumentaci,
+že nebyl dodržen stanovený postup výroby výrobku nebo poskytování služby,
+že dodavatel nedodržel lhůty pro zavedení změn do výroby stanovené ve smlouvě,
+překročení počtu vadných výrobků stanoveného ve smlouvě,
+nedostatky v metrologickém zajištění výroby,
+další nedostatky v činnosti dodavatele při výrobě výrobku nebo poskytování služby,
+přeruší konečnou kontrolu a písemně o tom vyrozumí dodavatele a odběratele. Dodavatele zároveň vyzve k nápravě zjištěných nedostatků.
+Úřad pokračuje v konečné kontrole na požádání dodavatele, který písemně doloží způsob odstranění všech nedostatků a prokáže, že opatření učiněná k nápravě jsou dostatečná a účinně vedou k dosažení shody.
+Konečnou kontrolu Úřad neprovádí v době přerušení odborného dozoru.
+Audity jakosti
+Audity jakosti u dodavatele Úřad zjišťuje, zda
+jeho systém jakosti, nebo
+jakost jeho procesů, anebo
+jakost výrobku jím vyráběného nebo služby jím poskytované
+splňují požadavky odběratele stanovené ve smlouvě.
+Úřad provádí audity jakosti uvedené v odstavci 1
+na žádost odběratele v rozsahu a na základě smlouvy mezi dodavatelem a odběratelem nebo smlouvy o provedení auditu jakosti uzavřené mezi dodavatelem a Úřadem,
+na žádost dodavatele v rozsahu a na základě smlouvy o provedení auditu jakosti uzavřené mezi dodavatelem a Úřadem.
+O provedeném auditu jakosti vydá Úřad dodavateli zprávu. Ve zprávě uvede výsledek provedeného auditu jakosti s výrokem „vyhovující“ nebo „nevyhovující“ a zároveň uvede zjištěné nedostatky.
+V případě nevyhovujícího výsledku provedeného auditu jakosti může Úřad stanovit dodavateli lhůtu k odstranění nedostatků. Lhůta k odstranění nedostatků může být stanovena maximálně na dobu 12 měsíců. Pokud dodavatel nedostatky odstraní, může po uplynutí stanovené lhůty požádat Úřad znovu o provedení auditu jakosti a zároveň uvede, jakým způsobem nedostatky odstranil.
+U provedeného auditu systému jakosti, pokud je jeho výsledek vyhovující, vydá Úřad dodavateli ke své zprávě osvědčení o shodě systému jakosti s požadavky odběratele a stanoví dobu jeho platnosti.
+Osvědčení o shodě systému jakosti s požadavky odběratele obsahuje
+číslo osvědčení,
+název dodavatele,
+stanovení shody systému jakosti,
+dobu platnosti,
+datum vydání, razítko a podpis ředitele Úřadu.
+Působnost správního řádu
+Úřad při svém rozhodování postupuje podle správního řádu, nestanoví-li tento zákon jinak.

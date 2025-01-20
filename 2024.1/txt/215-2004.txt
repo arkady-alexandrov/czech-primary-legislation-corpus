@@ -1,0 +1,84 @@
+NĚKTERÉ VZTAHY V OBLASTI VEŘEJNÉ PODPORY
+Předmět úpravy
+Tento zákon upravuje v návaznosti na přímo použitelné předpisy Evropské unie výkon státní správy v oblasti veřejné podpory, práva a povinnosti poskytovatelů a příjemců veřejné podpory a podpory malého rozsahu vůči příslušnému koordinačnímu orgánu veřejné podpory (dále jen „koordinační orgán“), některé otázky součinnosti České republiky s Evropskou komisí (dále jen „Komise“), jakož i některé další vztahy s poskytováním veřejné podpory a podpory malého rozsahu související.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+veřejnou podporou podpora vymezená v článku 107 Smlouvy o fungování Evropské unie,
+podporou malého rozsahu podpora poskytnutá na základě přímo použitelných právních předpisů Evropské unie o podpoře de minimis,
+poskytovatelem veřejné podpory (dále jen „poskytovatel“) ten, kdo rozhoduje o poskytnutí veřejné podpory; pokud o poskytnutí veřejné podpory rozhoduje vláda České republiky, rozumí se poskytovatelem ministerstvo nebo jiný ústřední správní úřad, který návrh na poskytnutí veřejné podpory nebo návrh programu veřejné podpory předložil vládě České republiky,
+poskytovatelem podpory malého rozsahu ten, kdo rozhoduje o poskytnutí podpory malého rozsahu,
+příjemcem veřejné podpory (dále jen „příjemce“) fyzická nebo právnická osoba, v jejíž prospěch bylo o poskytnutí veřejné podpory rozhodnuto,
+příjemcem podpory malého rozsahu fyzická nebo právnická osoba, v jejíž prospěch bylo o poskytnutí podpory malého rozsahu rozhodnuto,
+koordinačním orgánem Ministerstvo zemědělství nebo Úřad pro ochranu hospodářské soutěže (dále jen „Úřad“), které vykonávají v rozsahu své působnosti centrální koordinační, poradenskou, konzultační a monitorující činnost v oblasti veřejné podpory,
+dnem poskytnutí podpory malého rozsahu den, kdy příjemci podpory malého rozsahu na tuto podporu vznikne právní nárok s tím, že vznikem právního nároku se rozumí den, kdy nabyl právních účinků právní úkon, na jehož základě byla podpora malého rozsahu příjemci poskytnuta.
+Působnost v oblasti veřejné podpory
+Úřad vykonává působnost koordinačního orgánu mimo oblast zemědělství a rybolovu.
+Ministerstvo zemědělství vykonává působnost koordinačního orgánu, mimo činností uvedených v odstavci 3 písm. d), v oblasti veřejné podpory zemědělství a rybolovu.
+Koordinační orgán
+spolupracuje s poskytovatelem před oznámením veřejné podpory Komisi,
+spolupracuje s Komisí a s poskytovatelem v průběhu řízení před Komisí,
+předkládá Komisi výroční zprávu o poskytnutých veřejných podporách na území České republiky,
+vykonává kontrolu nad plněním pravomocných rozhodnutí o veřejné podpoře vydaných Úřadem podle právních předpisů platných před účinností tohoto zákona,
+rozhoduje o ukládání pokut podle tohoto zákona,
+předává oznámení veřejné podpory Komisi,
+vydává stanoviska k podáním poskytovatele učiněným před zahájením řízení před Komisí a v jeho průběhu,
+vydává poskytovatelům stanovisko k podpoře malého rozsahu před jejím poskytnutím, zejména zda jde o podporu malého rozsahu a zda jsou naplněny podmínky pro její poskytnutí,
+přezkoumává splnění povinnosti podle § 3a odst. 4 a ukládá opatření k nápravě,
+vede řízení podle § 8c odst. 2,
+zastupuje Českou republiku při projednávání a přípravě právních předpisů Evropské unie týkajících se problematiky veřejné podpory,
+je správcem centrálního registru podpor malého rozsahu (dále jen „centrální registr“), který je informačním systémem veřejné správy podle zvláštního právního předpisu.
+Evidence podpor malého rozsahu
+Centrální registr je informační systém veřejné správy, který obsahuje údaje o poskytnutých podporách malého rozsahu.
+Údaje centrálního registru o celkové podpoře malého rozsahu, kterou příjemce obdržel, jsou přístupné poskytovateli formou dálkového přístupu.
+Poskytovatel podpory malého rozsahu je povinen před poskytnutím podpory malého rozsahu v centrálním registru ověřit, zdali poskytnutím podpory nedojde
+k překročení limitu stanoveného příjemci podpory malého rozsahu v přímo použitelném předpisu Evropské unie,
+k překročení limitu stanoveného v oblasti zemědělství a rybolovu pro Českou republiku v přímo použitelném předpisu Evropské unie.
+Poskytovatel podpory malého rozsahu uvede v právním úkonu poskytnutí podpory malého rozsahu název přímo použitelného předpisu Evropské unie, podle kterého byla podpora malého rozsahu poskytnuta; do 5 pracovních dnů ode dne poskytnutí podpory zaznamená poskytovatel podpory malého rozsahu do centrálního registru údaje o poskytnuté podpoře malého rozsahu a o jejím příjemci.
+Řízení před Komisí
+Poskytovatelé ve spolupráci s koordinačním orgánem jednají s Komisí v řízeních týkajících se oznámené veřejné podpory, protiprávní veřejné podpory, zneužití veřejné podpory, existujících režimů veřejné podpory, při šetření na místě a v souvislosti s oznámením rozhodnutí.
+Poskytovatelé si vyžádají předchozí stanovisko koordinačního orgánu k podáním učiněným před zahájením řízení před Komisí a v jeho průběhu.
+Koordinační orgán vydá stanovisko nejpozději do 5 pracovních dnů, v případě zemědělství a rybolovu do 15 pracovních dnů ode dne doručení žádosti. V případě, že koordinační orgán v této lhůtě stanovisko nevydá, má se za to, že jeho stanovisko k podání je kladné.
+Poskytovatel oznamuje veřejnou podporu Komisi v elektronické podobě prostřednictvím koordinačního orgánu. Koordinační orgán neprodleně informuje poskytovatele o předání oznámení Komisi.
+Poskytování dokumentů a jiných informací týkajících se veřejných podpor
+Poskytovatel je povinen koordinačnímu orgánu předložit
+do 30. dubna kalendářního roku informace o veřejných podporách poskytnutých v předcházejícím kalendářním roce a o probíhajících programech veřejné podpory; informace, které je poskytovatel povinen koordinačnímu orgánu předložit, stanoví přímo použitelný předpis Evropské unie. Informace je poskytovatel povinen koordinačnímu orgánu zaslat i v případě, že v daném roce nevyplatil v rámci oznámené veřejné podpory žádné prostředky,
+do 10 dnů ode dne, kdy je podal, stejnopisy nebo kopie veškerých podání, které učinil v řízeních podle § 4, a stejnopisy nebo kopie veškerých podání a rozhodnutí v řízeních podle § 4, které mu byly doručeny, do 10 dnů od jejich doručení, a
+veškeré další koordinačním orgánem vyžádané dokumenty a jiné informace týkající se veřejné podpory nebo programů veřejné podpory ve lhůtě stanovené koordinačním orgánem. Lhůtu stanoví koordinační orgán přiměřeně s ohledem na rozsah a dostupnost vyžádaných informací a dokumentů.
+Příjemce je povinen koordinačnímu orgánu na jeho písemné vyžádání ve stanovené lhůtě předložit veškeré dokumenty a jiné informace týkající se veřejné podpory; k identifikaci příjemce – fyzické osoby je koordinační orgán oprávněn vyžadovat pouze sdělení údajů o jméně a příjmení příjemce, datu narození a adresy místa trvalého pobytu. Při stanovení lhůty postupuje koordinační orgán podle odstavce 1 písm. c) obdobně.
+Dokumenty a jiné informace podle odstavců 1 a 2 jsou poskytovatel a příjemce povinni koordinačnímu orgánu předložit úplné a pravdivé.
+Veškeré dokumenty a jiné informace týkající se oznámení veřejné podpory a řízení podle § 4 je poskytovatel povinen předložit koordinačnímu orgánu na jeho žádost také v elektronické formě.
+Šetření prováděné Komisí
+Provádí-li Komise na území České republiky šetření na místě, jsou poskytovatelé a příjemci povinni poskytnout koordinačnímu orgánu, Komisi a osobám jí pověřeným potřebnou součinnost.
+Poskytovateli nebo příjemci, který nesplní povinnost podle odstavce 1, může koordinační orgán uložit pořádkovou pokutu do 100 000 Kč. Pořádkovou pokutu lze uložit i opakovaně. Úhrn takto uložených pořádkových pokut nesmí přesáhnout částku 1 000 000 Kč.
+Mlčenlivost
+Zaměstnanci koordinačního orgánu vykonávající činnost, při níž se dozví skutečnost tvořící předmět obchodního tajemství nebo důvěrnou informaci, jsou povinni o nich zachovat mlčenlivost. Tato povinnost trvá i po skončení jejich pracovněprávního vztahu. Povinnost mlčenlivosti neplatí, jestliže zaměstnanci podávají o takových skutečnostech a údajích svědectví orgánům činným v trestním řízení nebo v řízení před soudem, popřípadě jestliže na výzvu těchto orgánů nebo soudu podávají písemné vyjádření. Porušením povinnosti zachovávat mlčenlivost není poskytnutí informací a údajů Komisi, Úřadu, ministerstvu nebo jiným správním orgánům pro účely výkonu jejich působnosti nebo povinností. V takovém případě je příjemce povinen zajistit stejnou úroveň důvěrnosti informací a údajů jako předávající. O zproštění povinnosti zachovávat mlčenlivost a jeho rozsahu rozhoduje vedoucí koordinačního orgánu nebo jím pověřený pracovník.
+Postup při navracení veřejné podpory
+Rozhodne-li Komise o navrácení nebo o prozatímním navrácení veřejné podpory, je příjemce povinen poskytnutou veřejnou podporu vrátit poskytovateli, případně jeho právnímu nástupci, a to včetně úroků stanovených Komisí.
+Poskytovatel je povinen bez zbytečného odkladu učinit veškerá nezbytná opatření k zajištění splnění povinnosti podle odstavce 1. Za tím účelem poskytovatel příjemce neprodleně vyzve k navrácení veřejné podpory podle odstavce 1; nevyplývá-li lhůta k navrácení nebo prozatímnímu navrácení veřejné podpory z rozhodnutí Komise, poskytovatel lhůtu zároveň ve výzvě stanoví. Po marném uplynutí lhůty k navrácení nebo prozatímnímu navrácení veřejné podpory poskytovatel rozhodne o jejím odnětí příjemci podle zvláštního právního předpisu, popřípadě, nelze-li takto postupovat, podá proti příjemci žalobu u soudu.
+Pokud podléhá příjemce dozoru nebo dohledu podle zvláštního právního předpisu, informuje poskytovatel neprodleně o povinnosti poskytnutou veřejnou podporu vrátit i orgán, který dozor nebo dohled provádí.
+Přestupky
+Fyzická, právnická nebo podnikající fyzická osoba se jako příjemce dopustí přestupku tím, že nepředloží koordinačnímu orgánu dokument nebo jinou informaci týkající se veřejné podpory podle § 5 odst. 2 nebo 3.
+Právnická osoba nebo podnikající fyzická osoba se jako poskytovatel nebo poskytovatel podpory malého rozsahu dopustí přestupku tím, že
+neuvede název přímo použitelného předpisu Evropské unie v právním úkonu poskytnutí podpory malého rozsahu podle § 3a odst. 4,
+nezaznamená do centrálního registru údaje podle § 3a odst. 4,
+nepředloží koordinačnímu orgánu dokument nebo jinou informaci týkající se veřejné podpory podle § 5 odst. 1, 3 nebo 4,
+neučiní veškerá nezbytná opatření podle § 7 odst. 2, nebo
+ve stanovené lhůtě nesplní povinnost uloženou opatřením k nápravě podle § 8c.
+Za přestupek se uloží pokuta
+do 100 000 Kč, jde-li o přestupek podle odstavce 2 písm. a) nebo b),
+do 200 000 Kč, jde-li o přestupek podle odstavce 2 písm. e),
+do 300 000 Kč, jde-li o přestupek podle odstavce 1 a odstavce 2 písm. c),
+do 1 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. d).
+Společná ustanovení k přestupkům
+Promlčecí doba podle tohoto zákona činí 3 roky.
+Přestupky podle tohoto zákona projednává koordinační orgán.
+Alespoň jedna oprávněná úřední osoba podílející se na řízení o přestupku vedeném koordinačním orgánem v každém stupni musí mít vysokoškolské vzdělání nejméně v magisterském studijním programu v oboru právo na vysoké škole v České republice. Ustanovení zákona upravujícího řízení o přestupcích, která se týkají požadavků na vzdělání oprávněných úředních osob, se na řízení o přestupcích, k jejichž projednání je příslušný koordinační orgán podle tohoto zákona, nepoužijí.
+Na postup koordinačního orgánu podle tohoto zákona se ustanovení § 24 až 27, 32, § 35 písm. a) a d), § 39 písm. b), § 42, 43, § 44 písm. d), § 45, 48, § 68 písm. b), § 70, § 80 odst. 2 a 3, § 82 odst. 1 věty první, § 87, 89, § 93 odst. 1 písm. d), f), g) a h), § 93 odst. 3, § 95 odst. 3, § 96 odst. 1 písm. b), § 96 odst. 3 a § 98 odst. 2 zákona o odpovědnosti za přestupky a řízení o nich nepoužijí.
+Opatření k nápravě
+Jestliže koordinační orgán zjistí, že poskytovatel podpory malého rozsahu neuvedl název přímo použitelného předpisu Evropské unie v právním úkonu poskytnutí podpory malého rozsahu nebo nezaznamenal do centrálního registru údaje o poskytnuté podpoře a o jejím příjemci podle § 3a odst. 4, může uložit poskytovateli opatření k nápravě, a to
+povinnost dodatečně označit poskytnutou podporu jako podporu malého rozsahu, nebo
+povinnost provést záznam do centrálního registru;
+k tomu mu stanoví přiměřenou lhůtu k nápravě.
+Řízení o přezkoumání splnění povinnosti podle § 3a odst. 4 může koordinační orgán zahájit nejdéle do 3 let ode dne poskytnutí podpory malého rozsahu.
+Zmocňovací ustanovení
+Ministerstvo zemědělství a Úřad stanoví prováděcím právním předpisem obsah a rozsah údajů, které je poskytovatel podpory malého rozsahu povinen zaznamenat do centrálního registru, a postup při jejich zaznamenávání.

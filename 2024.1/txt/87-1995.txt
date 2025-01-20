@@ -1,0 +1,962 @@
+Obecná ustanovení
+Tento zákon zapracovává příslušné předpisy Evropské unie, zároveň navazuje na přímo použitelný předpis Evropské unie a upravuje některé vztahy související se vznikem, podnikáním a zánikem spořitelních a úvěrních družstev (dále jen „družstevní záložna“). Tento zákon rovněž upravuje dohled nad družstevními záložnami, který vykonává Česká národní banka, a pojištění pohledávek z vkladů v družstevních záložnách.
+Povolení působit jako družstevní záložna (dále jen „povolení“) uděluje Česká národní banka (§ 2a) družstvu se sídlem v České republice k výkonu následujících činností
+přijímání vkladů od svých členů a
+poskytování úvěrů svým členům.
+Obchodní firma (dále jen „firma“) družstevní záložny musí obsahovat označení „spořitelní a úvěrní družstvo“, „družstevní záložna“, „spořitelní družstvo“ nebo „úvěrní družstvo“; toto označení je oprávněna používat pouze právnická osoba založená podle tohoto zákona.
+Družstevní záložna není bankou podle zákona upravujícího činnost bank a její podnikání se nepovažuje za provozování živnosti.
+Družstevní záložna
+je oprávněna vykonávat pouze činnosti stanovené tímto zákonem, a to v rozsahu uděleného povolení,
+je povinna při svém podnikání postupovat obezřetně a s náležitou péčí, zejména podnikat způsobem, který neohrožuje návratnost vkladů jejích členů a její bezpečnost a stabilitu,
+nesmí uzavírat smlouvy za nápadně nevýhodných podmínek pro družstevní záložnu, zejména takové, které zavazují družstevní záložnu k hospodářsky neodůvodněnému plnění nebo plnění nápadně neodpovídajícímu poskytované protihodnotě; porušení této podmínky zakládá neplatnost smlouvy,
+nemůže být emitentem podřízeného dluhopisu,
+nesmí nabýt pohledávku vázanou podmínkou podřízenosti ve smyslu zákona upravujícího dluhopisy za jinou úvěrovou institucí, investičním podnikem, finanční institucí nebo osobou mající kvalifikovanou účast v družstevní záložně samostatně nebo jednáním ve shodě s jinou osobou.
+Schválená účetní závěrka, výroční zpráva a opis povolení musí být uveřejněny na místě veřejně přístupném v sídle družstevní záložny, v jejích pobočkách, expoziturách a jednatelstvích.
+Družstevní záložna je povinna vyžádat si předchozí souhlas České národní banky k uzavření smlouvy, na jejímž základě dochází k jakékoliv dispozici s obchodním závodem nebo jeho částí. Zastavení obchodního závodu družstevní záložnou nebo jeho části je nepřípustné.
+Žádost o udělení souhlasu podle odstavce 7 obsahuje, vedle náležitostí stanovených správním řádem, informace o důvodech zamýšleného postupu, způsobu jeho provedení a jeho účastnících. Žádost lze podat pouze elektronicky. Podrobnosti náležitostí žádosti, její formát a další technické náležitosti stanoví Česká národní banka vyhláškou.
+Družstevní záložna není oprávněna nabývat přímý nebo nepřímý podíl na základním kapitálu právnické osoby, stát se členem, společníkem, akcionářem právnické osoby, či jiným způsobem nabývat vliv na řízení právnické osoby.
+Vymezení pojmů
+Pro účely tohoto zákona se rozumí
+institucí instituce podle čl. 4 odst. 1 bodu 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+úvěrovou institucí úvěrová instituce podle čl. 4 odst. 1 bodu 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+investičním podnikem investiční podnik podle čl. 4 odst. 1 bodu 2 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+finanční institucí finanční instituce podle čl. 4 odst. 1 bodu 26 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+podnikem pomocných služeb podnik pomocných služeb podle čl. 4 odst. 1 bodu 18 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+ovládáním kontrola podle čl. 4 odst. 1 bodu 37 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+úzkým propojením úzké propojení podle čl. 4 odst. 1 bodu 38 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+ovládající osobou mateřský podnik podle čl. 4 odst. 1 bodu 15 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+ovládanou osobou dceřiný podnik podle čl. 4 odst. 1 bodu 16 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+tuzemskou ovládající bankou osoba podle čl. 4 odst. 1 bodu 29c nařízení Evropského parlamentu a Rady (EU) č. 575/2013 se sídlem v České republice,
+evropskou ovládající úvěrovou institucí osoba podle čl. 4 odst. 1 bodu 29d nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+finanční holdingovou osobou osoba podle čl. 4 odst. 1 bodu 20 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+tuzemskou finanční holdingovou osobou osoba podle čl. 4 odst. 1 bodu 30 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 se sídlem v České republice,
+evropskou finanční holdingovou osobou osoba podle čl. 4 odst. 1 bodu 31 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+smíšenou finanční holdingovou osobou osoba podle čl. 4 odst. 1 bodu 21 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+tuzemskou smíšenou finanční holdingovou osobou osoba podle čl. 4 odst. 1 bodu 32 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 se sídlem v České republice,
+evropskou smíšenou finanční holdingovou osobou osoba podle čl. 4 odst. 1 bodu 33 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+evropským ovládajícím investičním podnikem osoba podle čl. 4 odst. 1 bodu 29b nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+skupinou skupina podle čl. 4 odst. 1 bodu 138 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+konsolidovaným základem konsolidovaný základ podle čl. 4 odst. 1 bodu 48 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+orgánem určeným k výkonu dohledu na konsolidovaném základě příslušný orgán podle čl. 4 odst. 1 bodu 41 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+členským státem členský stát Evropské unie nebo jiný stát tvořící Evropský hospodářský prostor,
+finančním nástrojem finanční nástroj podle čl. 4 odst. 1 bodu 50 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+kmenovým kapitálem tier 1 kmenový kapitál tier 1 podle čl. 50 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+kapitálem tier 1 kapitál tier 1 podle čl. 25 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Česká národní banka vykonává funkci příslušného orgánu a je zároveň určeným orgánem podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky.
+Některá ustanovení o založení a vzniku družstevní záložny
+Družstevní záložna musí mít nejméně 30 členů.
+Základní kapitál musí činit nejméně 500 000 Kč.
+Před podáním žádosti o povolení (§ 2a) musí být splacena částka ve výši alespoň 35 000 000 Kč, kterou představuje základní kapitál, popřípadě rizikový fond a rezervní fond, jsou-li vytvořeny při založení družstevní záložny.
+Zastupování osob na ustavující schůzi je nepřípustné.
+K návrhu na zápis do obchodního rejstříku se přikládá povolení. Udělení povolení, jeho odnětí a změny jsou součástí zápisu do obchodního rejstříku.
+Sídlo družstevní záložny musí být na území České republiky.
+Ke vzniku a podnikání družstevní záložny je třeba povolení. Povolení uděluje na základě písemné žádosti Česká národní banka. Žádost o udělení povolení lze podat pouze na předepsaném tiskopise, ke kterému žadatel přiloží doklady osvědčující splnění podmínek uvedených v odstavci 4. Vzory tiskopisů a obsah jejich příloh stanoví prováděcí právní předpis.
+O žádosti o udělení nebo změně povolení rozhodne Česká národní banka po posouzení podmínek pro udělení povolení nebo změnu povolení do 6 měsíců ode dne zahájení správního řízení a v této lhůtě rozhodnutí doručí. Nebyla-li žádost úplná a Česká národní banka si vyžádala její doplnění, rozhodne Česká národní banka do 12 měsíců ode dne zahájení správního řízení a rozhodnutí v této lhůtě doručí. Bylo-li Českou národní bankou vyžádáno doplnění žádosti, přičemž doplněná žádost není úplná, nebo není-li dodržena ze strany žadatele lhůta stanovená Českou národní bankou na její doplnění, je Česká národní banka oprávněna správní řízení o udělení povolení zastavit. Před vydáním rozhodnutí o žádosti o povolení konzultuje Česká národní banka svůj záměr s orgánem dohledu nad družstevními záložnami příslušného státu, pokud to vyžaduje mezinárodní smlouva.
+Povolení se uděluje na dobu neurčitou. Povolení obsahuje vymezení povolených činností a může obsahovat vymezení rozsahu povolené činnosti, nikoliv však ve smyslu omezení počtu jednotlivých obchodních případů. Povolení může dále obsahovat stanovení podmínek, které je povinna družstevní záložna splnit před zahájením kterékoliv povolené činnosti, popřípadě je dodržovat při výkonu kterékoliv povolené činnosti. Povolení zaniká dnem nabytí právní moci rozhodnutí o odnětí povolení nebo dnem zrušení družstevní záložny.
+Pro udělení povolení musí být splněny tyto podmínky:
+odborná způsobilost a důvěryhodnost žadatele o povolení podle odstavce 1,
+odborná způsobilost, důvěryhodnost a zkušenost členů představenstva, kontrolní komise a úvěrové komise družstevní záložny a splnění dalších požadavků na orgány družstevní záložny a jejich členy podle § 7aa,
+technické a organizační předpoklady pro výkon navrhovaných činností družstevní záložny, vyplývající zejména ze stanov družstevní záložny, návrhu řídicího a kontrolního systému družstevní záložny včetně systému řízení rizik, popřípadě dalších vnitřních předpisů družstevní záložny; technickými a organizačními předpoklady se pro účely tohoto zákona rozumí zejména zdůvodnění účelu založení družstevní záložny a strategický záměr jejího rozvoje na trhu, zpracovaný zejména podle orientace na členy družstevní záložny, podle ekonomického sektoru, regionu, typu a druhu služeb, které mají být poskytovány, zabezpečení odpovídajících výpočetních, informačních, účetních a statisticko-evidenčních systémů družstevní záložny, zabezpečení dostatečného počtu zaměstnanců nebo fyzických osob, které uskutečňují svou činnost podle příkazu jiného (dále jen „pracovník“), kteří budou zajišťovat plánované činnosti družstevní záložny, a zabezpečení odpovídající struktury a organizace družstevní záložny,
+reálnost obchodního plánu, organizační struktury družstevní záložny a schopnost bezpečného rozvoje družstevní záložny s ohledem na obecné znalosti a zkušenosti, včetně údajů o ovládajících osobách a finančních holdingových osobách a smíšených finančních holdingových osobách ve skupině,
+způsobilost a důvěryhodnost fyzických nebo právnických osob s kvalifikovanou účastí na družstevní záložně (§ 2b odst. 1) a nejvýše 20 členů s dalším členským vkladem, pokud nemají kvalifikovanou účast (§ 2b odst. 1), k výkonu práv člena ve vztahu k podnikání družstevní záložny v souladu s § 1 odst. 5 písm. b),
+průhledný a nezávadný původ částky uvedené v § 2 odst. 3, z níž se vytváří základní kapitál, rizikový fond a rezervní fond, pokud jsou vytvořeny,
+splacení částky uvedené v § 2 odst. 3,
+průhlednost skupiny osob s úzkým propojením s družstevní záložnou,
+úzké propojení v rámci skupiny podle písmene h) nebrání výkonu dohledu,
+ve státě, na jehož území má skupina podle písmene g) úzké propojení, nejsou právní ani faktické zábrany k výkonu dohledu.
+O změně povolení rozhoduje Česká národní banka na základě písemné žádosti družstevní záložny. Při rozhodování o změně povolení postupuje Česká národní banka obdobně jako při rozhodování o udělení povolení. Toto ustanovení se nevztahuje na rozhodnutí České národní banky podle § 28. Při rozhodování o změně povolení se podmínky podle odstavce 4 písm. f) a g) nepoužijí. Česká národní banka žádost o změnu povolení zamítne vždy, pokud kapitál družstevní záložny nedosahuje výše nejméně 35 000 000 Kč.
+Česká národní banka je oprávněna vyžádat si opis z evidence Rejstříku trestů týkající se fyzických osob, které jsou zakladateli družstevní záložny a členy orgánu družstevní záložny.
+Speciální ustanovení o udělení povolení ve vztahu k řešení krize
+Česká národní banka může z moci úřední na časově omezenou dobu udělit povolení překlenovací instituci podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, nesplňuje-li tato instituce podmínky pro udělení povolení podle § 2a odst. 4.
+Předloží-li nabyvatel majetku nebo dluhů povinné osoby podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu žádost o udělení povolení, posoudí ji Česká národní banka bez zbytečného odkladu.
+Kvalifikovanou účastí se pro účely tohoto zákona rozumí kvalifikovaná účast podle čl. 4 odst. 1 bodu 36 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Pro účely výpočtu kvalifikované účasti na družstevní záložně podle odstavce 1 se započítají i podíly na základním kapitálu nebo na hlasovacích právech, která jsou vykonávána zástupcem osoby uvedené v odstavci 3 na základě plné moci.
+Osoba nebo osoby jednající ve shodě musejí oznámit svůj záměr a mít souhlas České národní banky
+k nabytí kvalifikované účasti na družstevní záložně,
+ke zvýšení kvalifikované účasti na družstevní záložně tak, že dosáhne nebo překročí 20 %, 30 % nebo 50 %, nebo
+k tomu, aby se staly osobami ovládajícími družstevní záložnu,
+a to i v případě, že tyto osoby hlasovací práva spojená s takto nabytou účastí na družstevní záložně nevykonávají; nevykonáváním hlasovacích práv nedochází ke změně podílu na hlasovacích právech těchto ani jiných osob.
+Česká národní banka nejpozději do 2 pracovních dnů ode dne doručení úplné žádosti o souhlas podle odstavce 3 písemně žadateli potvrdí její přijetí; pokud je žádost neúplná, bez zbytečného odkladu vyzve žadatele k odstranění nedostatků žádosti. Česká národní banka bez zbytečného odkladu po doručení úplné žádosti uvědomí žadatele o dni, na který připadá konec běhu lhůty pro posouzení žádosti stanovené v odstavci 7. Žádost obsahuje údaje o osobě nebo osobách hodlajících nabýt nebo zvýšit kvalifikovanou účast na družstevní záložně nebo družstevní záložnu ovládnout, údaje o družstevní záložně, na které má být tato účast nabyta, zvýšena nebo která má být ovládnuta, údaj o celkové výši podílu, který žadatel na této družstevní záložně nabytím nebo zvýšením kvalifikované účasti dosáhne nebo ovládnutím získá, a údaje o osobě, která podíl na žadatele převádí. K žádosti žadatel přiloží doklady nezbytné pro posouzení žádosti z hlediska splnění podmínek uvedených v odstavci 9. Žádost o udělení souhlasu lze podat pouze na předepsaném tiskopise, ke kterému žadatel přiloží doklady osvědčující splnění podmínek uvedených v odstavci 9. Vzory tiskopisů a obsah jejich příloh stanoví Česká národní banka vyhláškou.
+Česká národní banka požádá o stanovisko orgán dohledu jiného členského státu Evropské unie po přijetí žádosti o udělení souhlasu v případech uvedených v odstavci 3, jestliže osobou s kvalifikovanou účastí na osobě, která o udělení souhlasu žádá, je osoba, která má povolení orgánu dohledu tohoto členského státu působit jako úvěrová instituce, pojišťovna, zajišťovna, investiční společnost nebo investiční podnik, nebo je ovládající osobou takovéto osoby.
+Je-li to nezbytné pro posouzení žádosti, Česká národní banka nejpozději 50. pracovní den běhu lhůty stanovené v odstavci 7 písemně vyzve žadatele k předložení dalších informací, přičemž přijetí vyžádaných informací Česká národní banka žadateli písemně potvrdí ve lhůtě uvedené v odstavci 4. Dnem odeslání této výzvy se běh lhůty stanovené v odstavci 7 staví, a to nejdéle na dobu 20 pracovních dnů. Stavit běh této lhůty je možné pouze jednou. Běh lhůty stanovené v odstavci 7 se staví až na dobu 30 pracovních dnů, pokud žadatel
+má bydliště, sídlo nebo místo podnikání ve státě, který není členským státem, nebo
+nepodléhá dohledu orgánu členského státu vykonávajícího dohled nad úvěrovými institucemi, pojišťovnami, zajišťovnami, investičními podniky nebo obhospodařovateli zahraničních investičních fondů.
+Česká národní banka vydá rozhodnutí o žádosti nejpozději do 60 pracovních dnů ode dne odeslání písemného potvrzení o doručení úplné žádosti podle odstavce 4. Pokud Česká národní banka v této lhůtě rozhodnutí nevydá, platí, že souhlas byl udělen. To neplatí v případě žádosti o souhlas podané podle odstavce 15. Souvisí-li rozhodnutí o žádosti s přechodem činnosti na soukromého nabyvatele podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, postupuje Česká národní banka tak, aby realizace přechodu této činnosti nebyla zpožděna a aby nebylo bráněno dosažení účelu řešení krize.
+Česká národní banka při posuzování žádosti zkoumá pouze splnění podmínek uvedených v odstavci 9 a nepřihlíží přitom k ekonomickým potřebám trhu. Česká národní banka žádosti nevyhoví, jestliže nejsou splněny podmínky uvedené v odstavci 9 nebo jestliže informace předložené žadatelem nejsou dostatečné pro posouzení žádosti.
+Česká národní banka žádosti vyhoví, pokud s ohledem na zajištění řádného a obezřetného vedení družstevní záložny nejsou důvodné obavy z možného vlivu na výkon její činnosti a pokud jsou splněny tyto podmínky:
+osoby, které žádají o udělení souhlasu, jsou důvěryhodné,
+osoby, které jsou v souvislosti s nabytím kvalifikované účasti navrhovány na členy představenstva a členy úvěrové komise, které zastávají v družstevní záložně výkonné řídicí funkce, splňují bez zjevných pochybností podmínku důvěryhodnosti, odborné způsobilosti a zkušeností,
+finanční zdraví žadatele a dostatečný objem, průhlednost původu a nezávadnost jeho finančních zdrojů ve vztahu k vykonávaným a plánovaným činnostem v družstevní záložně,
+družstevní záložna bude i nadále schopna plnit pravidla obezřetného podnikání,
+struktura skupiny, jejíž součástí má družstevní záložna být, nebrání účinnému dohledu nad družstevní záložnou a dohledu na konsolidovaném základě, účinné výměně informací mezi Českou národní bankou a příslušným orgánem dohledu jiného členského státu nebo neznesnadňuje výkon působnosti jednotlivých příslušných orgánů dohledu při dohledu na konsolidovaném základě a nad osobami v této skupině, a
+v souvislosti s navrhovaným nabytím nebo zvýšením kvalifikované účasti na družstevní záložně nevznikají důvodné obavy, že by mohlo dojít k porušení zákona upravujícího opatření proti legalizaci výnosů z trestné činnosti a financování terorismu, nebo že už k takovému porušení došlo.
+Česká národní banka může odůvodnění zamítavého rozhodnutí o žádosti o souhlas uveřejnit, a to na žádost žadatele nebo i bez této žádosti.
+V rozhodnutí o žádosti Česká národní banka
+může určit lhůtu pro nabytí účasti podle odstavce 3,
+uvede závěry vyplývající ze stanovisek, která obdržela postupem podle odstavce 5 před vydáním rozhodnutí.
+Osoba nebo osoby jednající ve shodě bez zbytečného odkladu oznámí České národní bance, že
+snižují svoji kvalifikovanou účast na družstevní záložně tak, že klesne pod 50 %, 30 % nebo 20 %, nebo ji zcela pozbývají, nebo
+snižují svoji kvalifikovanou účast na družstevní záložně tak, že ji přestávají ovládat.
+Oznámení podle odstavce 12 obsahuje údaje o osobě nebo osobách snižujících nebo pozbývajících svoji kvalifikovanou účast na družstevní záložně nebo o osobě nebo osobách přestávajících ji ovládat, údaje o družstevní záložně a údaj o výši účasti na družstevní záložně po snížení.
+Pro účely žádosti podle odstavce 4 a oznámení v odstavci 12 se údaji o osobě rozumí:
+u právnické osoby obchodní firma nebo název, sídlo a identifikační číslo, bylo-li přiděleno,
+u fyzické osoby jméno a příjmení, datum narození, rodné číslo, bylo-li přiděleno, adresa bydliště; u podnikatele zapsaného do obchodního rejstříku obchodní firma, popřípadě místo podnikání, a identifikační číslo, bylo-li přiděleno.
+Souhlas ve smyslu odstavce 3 lze v případech zvláštního zřetele hodných udělit i následně.
+Nabytí nebo zvýšení kvalifikované účasti na družstevní záložně nebo její ovládnutí bez předchozího souhlasu České národní banky nemá za následek neplatnost právního jednání, na základě kterého k těmto změnám v účastech na družstevní záložně došlo, avšak hlasovací práva spojená s takto nabytou účastí nesmějí být vykonávána, a to do doby udělení tohoto souhlasu.
+Souhlas podle odstavce 3 nebo oznámení podle odstavce 12 se nevyžaduje, dojde-li k nabytí kvalifikované účasti nebo ke zvýšení kvalifikované účasti tak, že dosáhne nebo překročí 20 %, 30 % nebo 50 % nebo ke snížení kvalifikované účasti pod 50 %, 30 %, 20 %, 10 % nebo k jejímu pozbytí jinak než na základě jednání osoby nebo osob jednajících ve shodě.
+Souhlas k nabytí kvalifikované účasti na družstevní záložně se považuje i za souhlas k nabytí přímého nebo nepřímého podílu nebo jejich součtu, který představuje méně než 10 % na základním kapitálu družstevní záložny nebo hlasovacích právech v družstevní záložně. Souhlas ke zvýšení kvalifikované účasti na družstevní záložně tak, že dosáhne nebo překročí 20 %, 30 % nebo 50 % na družstevní záložně, se považuje i za souhlas ke zvýšení takové účasti tak, že dosáhne nebo překročí přímý nebo nepřímý podíl nebo jejich součet, který představuje méně než dotčený podíl na základním kapitálu družstevní záložny nebo hlasovacích právech v družstevní záložně.
+Zjistí-li Česká národní banka, že působení osoby s kvalifikovanou účastí na družstevní záložně je v rozporu s § 1 odst. 5 písm. b), nebo osoba nabyla kvalifikovanou účast nebo zvýšila kvalifikovanou účast na družstevní záložně bez předchozího souhlasu nad limity uvedené v § 2b odst. 3, rozhodne o pozastavení práva osoby s kvalifikovanou účastí účastnit se členské schůze a hlasovat na ní a práva požadovat svolání členské schůze. Pozastavit lze pouze výkon všech výše uvedených práv. Účastníkem řízení je pouze osoba s kvalifikovanou účastí a družstevní záložna. Podaný rozklad nemá odkladný účinek.
+Družstevní záložna nepřipustí účast osoby, které Česká národní banka pozastavila práva podle odstavce 1, na členské schůzi. Při posuzování způsobilosti členské schůze družstevní záložny rozhodovat a při hlasování na členské schůzi se nepřihlíží k hlasům členů, jejichž práva účastnit se členské schůze a hlasovat byla pozastavena. Pozastavení práv podle odstavce 1 Česká národní banka zruší, odpadl-li důvod pro jeho vydání.
+Družstevní záložna je povinna písemně informovat Českou národní banku o nabytí nebo změnách v kvalifikované účasti osob na družstevní záložně, pokud při těchto změnách, i jednáním jiných členů, jsou překročeny nebo sníženy limity uvedené v § 2b odst. 3 a 12, a to do 5 pracovních dnů po zjištění rozhodných skutečností.
+V důsledku toho, že osobě s kvalifikovanou účastí na družstevní záložně byla pozastavena práva podle odstavce 1, nedochází ke změně podílu na hlasovacích právech této osoby ani jiných osob.
+Družstevní záložny jsou oprávněny zřídit pobočky na území jiného členského státu (dále jen „hostitelský stát“) a podnikat na jeho území v rozsahu povolení jen se souhlasem České národní banky.
+V oznámení o záměru zřídit pobočku podle odstavce 1 družstevní záložna uvede zejména
+určení hostitelského státu, na jehož území zamýšlí zřídit pobočku,
+obchodní plán pobočky obsahující výčet předpokládaných činností,
+organizační strukturu pobočky,
+adresu pobočky v hostitelském státě, na které bude možno získat potřebné dokumenty,
+údaje umožňující jednoznačnou identifikaci osob odpovědných za řízení pobočky, kterými jsou jméno, popřípadě jména, a příjmení, bydliště, rodné číslo, nebylo-li přiděleno, datum narození,
+výši a složení kapitálu družstevní záložny k poslednímu dni měsíce předcházejícího podání žádosti,
+výši kapitálového poměru podle čl. 92 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 družstevní záložny k poslednímu dni měsíce předcházejícího podání žádosti.
+Podmínkami pro udělení souhlasu podle odstavce 1 jsou
+finanční stabilita družstevní záložny,
+organizační struktura družstevní záložny umožňující podnikání družstevní záložny v souladu s § 1 odst. 5 písm. b).
+Pokud jsou splněny podmínky pro udělení souhlasu, Česká národní banka předá orgánu dohledu hostitelského státu údaje podle odstavce 2 do 3 měsíců ode dne jejich obdržení a sdělí tuto informaci družstevní záložně. Pokud Česká národní banka shledá, že podmínky pro udělení souhlasu nebyly splněny, rozhodne o tom ve správním řízení ve lhůtě 3 měsíců ode dne obdržení údajů podle § 2d odst. 2; údaje podle odstavce 2 orgánu dohledu hostitelského státu v takovém případě nepředá.
+Pokud Česká národní banka odmítne předat orgánu dohledu hostitelského státu údaje podle odstavce 2 nebo je nepředá ve lhůtě stanovené v odstavci 4, může se družstevní záložna domáhat nápravy u soudu.
+Družstevní záložna je oprávněna zřídit pobočku a podnikat na území hostitelského státu za podmínek stanovených právními předpisy hostitelského státu a po stanovení podmínek orgánu dohledu tohoto státu pro zřízení pobočky a podnikání. Neobdrží-li družstevní záložna podmínky podle první věty do dvou měsíců ode dne doručení informací orgánu dohledu hostitelského státu podle § 2d odst. 3 a 4, je oprávněna zřídit pobočku a zahájit činnost uplynutím této lhůty.
+Zamýšlí-li družstevní záložna učinit změny skutečností uvedených v § 2d odst. 2 písm. b) až e), je povinna to oznámit nejméně 1 měsíc před jejich provedením České národní bance a orgánu dohledu hostitelského státu. Změny skutečností uvedených v § 2d odst. 2 písm. b) až e) podléhají souhlasu České národní banky a případnému sdělení nebo stanovení podmínek orgánem dohledu hostitelského státu podle odstavce 1, nestanoví-li tento zákon jinak. Při rozhodování o udělení souhlasu postupuje Česká národní banka podle § 2d odst. 3. Česká národní banka o změnách rozhodne do 30 dnů ode dne obdržení úplného oznámení o zamýšlených změnách družstevní záložnou.
+Má-li družstevní záložna v úmyslu provozovat činnosti na území hostitelského státu v rozsahu povolení uděleného jí Českou národní bankou bez založení pobočky, pokud jejich provozování nemá charakter trvalé hospodářské činnosti, oznámí písemně svůj záměr se specifikací vykonávané činnosti alespoň 60 dní před zahájením této činnosti České národní bance. Česká národní banka oznámí orgánu dohledu hostitelského státu záměr družstevní záložny provozovat činnost na jeho území do 30 dnů ode dne obdržení oznámení družstevní záložny.
+Dohled nad pobočkou družstevní záložny na území hostitelského státu vykonává Česká národní banka.
+Družstevní záložna je povinna poskytnout hostitelskému státu na jeho vyžádání informace a pravidelná hlášení ve formě statistických údajů o podnikání své pobočky na území hostitelského státu pro účely výkonu dohledu hostitelským státem, a to včetně údajů nezbytných pro rozhodnutí o označení pobočky za významnou podle § 22b.
+Pokud orgán dohledu hostitelského státu na základě informací České národní banky podle § 22a zjistí, že družstevní záložna nebo její pobočka na jeho území porušuje ustanovení právních předpisů hostitelského státu, nebo přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky nebo je-li důvodné podezření, že poruší ustanovení právních předpisů hostitelského státu nebo přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky, Česká národní banka po předchozím oznámení orgánu dohledu hostitelského státu neprodleně přijme vhodná opatření k nápravě podle § 28 směřující k odstranění porušování těchto předpisů nebo k odvrácení rizika vzniku takového porušování a bez zbytečného odkladu o nich informuje orgán dohledu hostitelského státu.
+Pokud orgán dohledu hostitelského státu přijme z důvodu vzniku mimořádné situace opatření pro zajištění ochrany finanční stability a společných zájmů klientů nebo investorů družstevní záložny v hostitelském členském státě a Česká národní banka s přijatými opatřeními nesouhlasí, může požádat Evropský orgán pro bankovnictví o urovnání sporu podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví.
+Česká národní banka informuje příslušný orgán dohledu hostitelského státu o vydání rozhodnutí o zákazu nakládání vkladatelů s jejich vklady podle tohoto zákona v případě, že dotčená družstevní záložna podniká na území tohoto státu; tuto informaci poskytne příslušnému orgánu dohledu bez zbytečného odkladu po jeho vydání.
+Před rozhodnutím o změně nebo odnětí povolení družstevní záložně, která podniká na území hostitelského státu, konzultuje Česká národní banka svůj záměr s orgánem dohledu tohoto státu. Nesnese-li věc odkladu, Česká národní banka orgán dohledu informuje o svém záměru povolení změnit nebo odebrat. Česká národní banka informuje o změně nebo odnětí povolení neprodleně orgány dohledu států, v nichž družstevní záložna podniká.
+O odnětí povolení družstevní záložně podle § 28g informuje Česká národní banka neprodleně orgán dohledu hostitelského státu, ve kterém družstevní záložna podnikala.
+Podnikání družstevních záložen, včetně jejich poboček působících na území hostitelského státu, podléhá dohledu České národní banky, včetně kontrol na místě po předchozím informování orgánu dohledu hostitelského státu. Česká národní banka může požádat příslušný orgán dohledu hostitelského státu o provedení kontroly na území hostitelského státu.
+Udělení povolení družstevní záložně ve skupině
+Před vydáním rozhodnutí o žádosti o udělení povolení družstevní záložně (§ 2a) požádá Česká národní banka o stanovisko orgán dohledu členského státu, vykonávající dohled nad úvěrovými institucemi, investičními podniky nebo pojišťovnami, jestliže je osoba, které má být povolení uděleno, ovládaná
+zahraniční úvěrovou institucí se sídlem v členském státě,
+osobou, která má povolení příslušného orgánu dohledu členského státu k poskytování investičních služeb,
+pojišťovnou, která má povolení příslušného orgánu dohledu členského státu,
+osobou, která ovládá osobu uvedenou v písmenech a), b) nebo c).
+Příslušné úřady podle odstavce 1 se vzájemně informují zejména při posuzování vhodnosti členů, vedoucích pracovníků dohlížených osob a průběžně si vyměňují informace důležité při udělování povolení k činnosti a při kontrole jejich činnosti.
+Předmět podnikání družstevní záložny
+Družstevní záložna je oprávněna v rámci svého podnikání vykonávat kromě činností uvedených v § 1 odst. 2 písm. a) a b) tyto další činnosti, má-li je uvedeny v uděleném povolení:
+finanční leasing pro členy,
+platební služby a vydávání elektronických peněz pro členy a činnosti související s poskytováním platebních služeb nebo vydáváním elektronických peněz,
+poskytování záruk ve formě ručení nebo finanční záruky za členy,
+otvírání akreditivů pro členy,
+obstarání inkasa pro členy,
+nákup a prodej cizí měny pro členy,
+pronájem bezpečnostních schránek členům,
+vydávání a správu platebních prostředků pro členy, jestliže se nejedná o poskytování platebních služeb nebo vydávání elektronických peněz podle písmene b).
+Výlučně za účelem zajištění činností podle odstavce 1 a § 1 odst. 2 písm. a) a b) je družstevní záložna oprávněna
+ukládat vklady v družstevních záložnách a bankách a u poboček zahraničních bank,
+přijímat úvěry od družstevních záložen a bank,
+nabývat majetek pro účely zajištění vlastního provozu a disponovat s ním,
+obchodovat na vlastní účet s devizami a nástroji směnných kurzů a úrokových sazeb za účelem zajištění rizik vyplývajících z činností podle tohoto zákona,
+obchodovat na vlastní účet s cennými papíry přijatými k obchodování na evropském regulovaném trhu,
+obchodovat na vlastní účet s dluhopisy, jejichž emitentem je členský stát Organizace pro ekonomickou spolupráci a rozvoj nebo centrální banka tohoto státu, dluhopisy, za které převzal záruku členský stát Organizace pro ekonomickou spolupráci a rozvoj, a dluhopisy vydanými Evropskou investiční bankou, Evropskou bankou pro obnovu a rozvoj nebo Mezinárodní bankou pro obnovu a rozvoj nebo jinou mezinárodní finanční institucí, které je Česká republika členem,
+provádět obchody s Českou národní bankou podle zákona upravujícího činnost České národní banky.
+Jiný majetek, než který je družstevní záložna oprávněna nabýt podle odstavce 2, může nabýt pouze v souvislosti se zajištěním své pohledávky, a to nejvýše po dobu 6 měsíců. V tomto případě se ustanovení § 1 odst. 9 nepoužije. Tato lhůta se nevztahuje na majetek nabytý na základě zajišťovacího převodu práv podle občanského zákoníku nebo na základě převodu finančního kolaterálu ve prospěch příjemce finančního kolaterálu podle zákona upravujícího finanční zajištění.
+Přijaté vklady vede družstevní záložna na vkladových účtech. Souhrn zůstatků vkladů člena spojený s úrokem nebo obdobnou výhodou nesmí překročit desetinásobek souhrnu jeho splaceného základního členského vkladu a splaceného dalšího členského vkladu. Smlouvy uzavřené při výkonu činností podle odstavců 1 až 3 a § 1 odst. 2 písm. a) a b) musí mít písemnou formu.
+Družstevní záložna může poskytnout jednomu členovi, členům, kteří jsou ekonomicky spjatými osobami, nebo členům, kteří jsou osobami blízkými podle občanského zákoníku, úvěr do úhrnné výše 30 000 000 Kč.
+Některá ustanovení o členství v družstevní záložně
+Družstevní záložna je povinna seznámit uchazeče o členství se všemi skutečnostmi souvisejícími s členstvím, zejména se stanovami, obchodními podmínkami, právy a povinnostmi vyplývajícími z členství, podmínkami poskytování úvěrů a dalšími činnostmi družstevní záložny, které vykonává na základě uděleného povolení. Dojde-li ke změnám těchto skutečností, je družstevní záložna povinna své členy o změnách včas a řádně informovat. Družstevní záložna je povinna poskytovat uvedené informace svým členům písemně v českém jazyce, popřípadě jazycích států, na jejichž území působí.
+Družstevní podíl přechází na právního nástupce člena, který zemřel nebo zanikl. Není-li právním nástupcem osoba způsobilá ke členství v družstevní záložně, členství právního nástupce přechodem družstevního podílu nevzniká.
+Rozdělení družstevního podílu člena, který zemřel nebo zanikl, při jeho přechodu na právního nástupce není přípustné.
+Člen je oprávněn družstevní podíl převést na jinou osobu. Je-li předmětem převodu pouze družstevní podíl z dalšího členského vkladu, lze tento družstevní podíl převést pouze na člena družstevní záložny. Dohoda o převodu družstevního podílu na nabyvatele podléhá souhlasu představenstva družstevní záložny. Pokud v dohodě o převodu družstevního podílu není uvedeno datum pozdější, nabývá nabyvatel převáděný družstevní podíl rozhodnutím představenstva o schválení dohody o převodu družstevního podílu.
+V případě přechodu nebo převodu družstevního podílu na člena družstevní záložny se základní členský vklad spojený s takovým podílem stává dalším členským vkladem člena družstevní záložny.
+Jestliže převod družstevního podílu by měl za následek, že by převodem družstevního podílu nabývající člen nabyl kvalifikovanou účast na družstevní záložně nebo zvýšil svou kvalifikovanou účast tak, že dosáhne limitů stanovených v § 2b odst. 3, je převod družstevního podílu podmíněn předchozím souhlasem členské schůze družstevní záložny.
+Při hlasování má každý člen jeden hlas. Členům, kteří vložili další členský vklad (§ 4b), přísluší dále jeden hlas za každý celý násobek základního členského vkladu. Stanovy mohou určit, že každý člen má při hlasování jeden hlas bez ohledu na výši vloženého členského vkladu. K rozhodnutí členské schůze o vyloučení člena, o změně stanov, o volbě a odvolání člena kontrolní komise, o prodeji nebo pachtu obchodního závodu nebo jeho části, o jiných významných majetkových dispozicích, o změně právní formy družstevní záložny (§ 13 odst. 5), o fúzi a rozdělení a o jiném zrušení družstevní záložny se vyžaduje zároveň i souhlas členů bez zohlednění hlasů z dalších členských vkladů.
+Družstevní záložna je oprávněna své splatné pohledávky za dlužníkem započíst oproti úrokům z vkladů, vkladům a vypořádacímu podílu (§ 4c), a to i v době vydaného rozhodnutí o zákazu nakládání vkladatelů s jejich vklady. Družstevní záložna je dále oprávněna odmítnout výplatu úroků, vkladů nebo vypořádacího podílu dlužníku, který je v prodlení se splátkami nebo nevypořádal své jiné dluhy vůči družstevní záložně.
+Postupování pohledávek členů za družstevní záložnou, vyplývajících z vkladů členů u družstevní záložny, je možné pouze mezi členy družstevní záložny.
+Členský vklad
+Členský vklad může být pouze peněžitý. Základní členský vklad činí alespoň 1 000 Kč. Členství v družstevní záložně vznikne nejdříve splacením základního členského vkladu. Pro účely výpočtu vypořádacího podílu, majetkového vypořádání při snížení dalšího členského vkladu, podílu na zisku a podílu na likvidačním zůstatku se za členský vklad považuje pouze splacená část členského vkladu.
+Připouští-li to stanovy, může člen vložit do základního kapitálu družstevní záložny další členský vklad. Výše dalšího členského vkladu, při jeho vložení do základního kapitálu družstevní záložny, musí být vždy celočíselným násobkem základního členského vkladu. Další členský vklad musí být splacen jednorázově, s výjimkou případů uvedených v § 2b odst. 3.
+Člen je oprávněn snížit výši dalšího členského vkladu nejvýše o 20 % jeho původní výše za každých 12 měsíců ode dne jeho splacení za podmínky, že další členský vklad zůstane celočíselným násobkem základního členského vkladu. Ke snížení výše dalšího členského vkladu dochází dnem doručení písemného oznámení člena o této skutečnosti družstevní záložně.
+Majetkové vypořádání při snížení dalšího členského vkladu se vypočte obdobně jako vypořádací podíl. Pro účely jeho výpočtu se zohledňuje pouze částka, o kterou se další členský vklad snižuje. Pro výplatu majetkového vypořádání se § 4c odst. 2 použije obdobně.
+Při dodržení podmínek stanovených tímto zákonem může člen nabýt více dalších členských vkladů.
+Určují-li to stanovy, je osoba vkládající členský vklad po vzniku družstevní záložny povinna uhradit spolu se základním členským vkladem nebo dalším členským vkladem i ážio. Způsob stanovení ážia určují stanovy. Uhrazené ážio je součástí rizikového fondu družstevní záložny.
+Vypořádací podíl
+Výše vypořádacího podílu se vypočte podle přílohy k tomuto zákonu. Pro určení výše vypořádacího podílu je rozhodný stav vlastního kapitálu po odečtení rizikového fondu, rezervního fondu a dalších fondů družstevní záložny, které se podle tohoto zákona, zvláštního právního předpisu nebo stanov nerozdělují mezi členy, podle účetní závěrky za rok, v němž členství zaniklo. Vypořádací podíl člena, který z družstevní záložny vystoupil, protože nesouhlasil se změnou právní formy družstevní záložny, se určí z konečné, případně mezitímní účetní závěrky podle zákona upravujícího přeměny obchodních společností a družstev.
+Vypořádací podíl je splatný do 3 měsíců ode dne schválení účetní závěrky za účetní období, v němž členství zaniklo. Družstevní záložna odloží výplatu vypořádacího podílu, anebo jeho části, pokud by výplata mohla ohrozit plnění požadavků podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky, zejména s přihlédnutím ke skutečnostem podle čl. 10 odst. 3 nařízení Komise v přenesené pravomoci (EU) č. 241/2014, a to na dobu, než pominou důvody, pro které byla výplata odložena.
+Účetní závěrka družstevní záložny musí být předložena členské schůzi ke schválení do 6 měsíců od posledního dne účetního období.
+Stanovy
+Stanovy musí obsahovat
+firmu a sídlo,
+předmět podnikání,
+vznik, zánik a podmínky členství, základní práva a povinnosti členů k družstevní záložně a družstevní záložny k členům,
+výši základního členského vkladu a způsob jeho splácení, popřípadě i výši vstupního vkladu,
+orgány družstva a počet jejich členů, délku jejich funkčního období, způsob ustavování, působnost, způsob jejich svolávání a jednání a lhůty, ve kterých se scházejí,
+způsob použití zisku a způsob úhrady případné ztráty,
+výši základního kapitálu,
+dobu pro zánik členství při vystoupení člena,
+možnost vložení dalších členských vkladů,
+pravomoc a odpovědnost členů představenstva, kontrolní komise a úvěrové komise,
+výši zápisného, které slouží ke krytí výdajů spojených se vznikem členství,
+způsob a rozsah převodu pravomocí úvěrové komise na jiné osoby,
+podmínky poskytování informací,
+finanční řád, který stanoví zejména
+druhy dalších fondů, jejich výši a způsob jejich vytváření a použití,
+výši rizikového a rezervního fondu, jejich tvorbu a použití,
+podmínky poskytování peněžních služeb,
+zásady zajištění úvěrů,
+základní druhy vkladů a úvěrů a meze úročení.
+Některá ustanovení o orgánech družstevní záložny
+K přijetí usnesení členské schůze je třeba, v případě hlasování o fúzi nebo rozdělení družstevní záložny, souhlasu alespoň dvou třetin hlasů přítomných členů.
+Náhradní členská schůze může být svolána stejnou pozvánkou jako původní členská schůze. Pozvánka musí obsahovat upozornění, že náhradní členská schůze je schopna se usnášet za jakéhokoli počtu přítomných členů. Takto svolaná náhradní členská schůze může být zahájena nejdříve po uplynutí 30 minut od plánovaného zahájení původní členské schůze uvedené v pozvánce. Podrobnosti upravují stanovy.
+Rozhodnutí členské schůze o snížení výše základního členského vkladu bez předchozího souhlasu České národní banky, která posoudí snížení výše základního členského vkladu ve vztahu k povinnosti družstevní záložny dodržovat pravidla určená podle § 11 a části čtvrté a šesté nařízení Evropského parlamentu a Rady (EU) č. 575/2013 s ohledem na bezpečnost a stabilitu družstevní záložny, je neplatné. Rozhodnutí členské schůze o zrušení, o fúzi a o rozdělení družstevní záložny bez předchozího souhlasu České národní banky je neplatné. Podrobnosti náležitostí žádostí o udělení souhlasu podle tohoto odstavce, jejich formát a další technické náležitosti stanoví Česká národní banka vyhláškou.
+Insolvenční správce svolá na základě žádosti České národní banky do 30 dnů od jejího doručení členskou schůzi výhradně za účelem schválení řádné účetní závěrky. Pro svolání členské schůze insolvenčním správcem platí přiměřeně ustanovení stanov, zvláštního zákona a § 5a odst. 2. Náklady spojené se svoláním a konáním členské schůze jsou náklady spojené s udržováním a správou podstaty podle zvláštního zákona.
+Kromě orgánů ustavovaných podle zákona upravujícího právní poměry obchodních společností a družstev ustavuje družstevní záložna úvěrovou komisi, která má nejméně tři členy. Člen úvěrové komise nesmí být členem představenstva, členem kontrolní komise družstevní záložny ani osobou pověřenou výkonem vnitřního auditu.
+Úvěrovou komisi volí členská schůze družstevní záložny z řad členů družstevní záložny.
+Úvěrová komise rozhoduje o
+poskytování úvěrů členům podle stanov,
+poskytování záruk ve formě ručení nebo finanční záruky za členy,
+zajištění úvěrů.
+Určí-li tak stanovy, je úvěrová komise oprávněna převést část výkonu svých pravomocí na jiné osoby, a to způsobem uvedeným ve stanovách. Tím není dotčena odpovědnost členů úvěrové komise podle § 6a odst. 2.
+Představenstvo rozhoduje kromě věcí podle tohoto zákona a zákona upravujícího právní poměry obchodních společností a družstev, popřípadě podle stanov
+na návrh úvěrové komise o úročení vkladů a úvěrů, o poskytnutí úvěru jiné družstevní záložně nebo bance a o přijetí úvěru od jiné družstevní záložny nebo banky a o přijetí vkladu od jiné družstevní záložny nebo banky,
+o obchodování na vlastní účet s devizami a nástroji směnných kurzů a úrokových sazeb za účelem zajištění rizik vyplývajících z činností podle § 3 odst. 1,
+o obchodování na vlastní účet s registrovanými cennými papíry,
+o poplatcích za činnosti a služby poskytované členům.
+Představenstvo vypracuje výroční zprávu a předkládá ji spolu s řádnou účetní závěrkou ke schválení členské schůzi. Tuto členskou schůzi je povinno svolat tak, aby se konala do 6 měsíců po ukončení účetního období, za které je výroční zpráva vypracována. Schválenou výroční zprávu zašle představenstvo České národní bance do 10 dnů od jejího schválení. Návrh výroční zprávy musí být poskytnut členům nejméně 30 dnů před dnem konání členské schůze způsobem podle stanov.
+Každý orgán družstevní záložny jedná podle jednacího řádu, který schvaluje členská schůze.
+Při hlasování ve volených orgánech družstevní záložny má každý člen jeden hlas.
+Oprávnění kontrolní komise družstva ve vztahu k představenstvu družstva podle zákona upravujícího právní poměry obchodních společností a družstev může kontrolní komise družstevní záložny uplatnit rovněž vůči úvěrové komisi.
+Členové volených orgánů družstevní záložny jsou povinni neprodleně a úplně informovat Českou národní banku o všech skutečnostech, které by mohly mít za následek ohrožení hospodaření družstevní záložny nebo uplatnění postupu podle § 28, a o ztrátě odborné způsobilosti nebo důvěryhodnosti členů volených orgánů družstevní záložny. Členové volených orgánů družstevní záložny jsou povinni vykonávat svoji činnost s odbornou péčí. Jsou povinni vykonávat své funkce tak, aby neohrozili návratnost vkladů členů družstevní záložny a její bezpečnost a stabilitu ve vztahu k hospodaření.
+Členové volených orgánů družstevní záložny, kteří porušili své povinnosti z titulu člena voleného orgánu družstevní záložny vyplývající pro ně z právních předpisů nebo stanov, odpovídají společně a nerozdílně za škodu, která vznikne věřitelům družstevní záložny tím, že v důsledku tohoto porušení povinností těmito členy volených orgánů není družstevní záložna schopna plnit své splatné dluhy.
+Členem voleného orgánu družstevní záložny může být pouze důvěryhodná a odborně způsobilá osoba. Ve stanovách může být uvedeno, na které další funkce se tato podmínka vztahuje.
+Členové voleného orgánu, kteří způsobili družstevní záložně porušením právních povinností při výkonu působnosti voleného orgánu škodu, odpovídají za tuto škodu společně a nerozdílně.
+Střet zájmů
+Úvěry členům volených orgánů družstevní záložny, jejím členům, kteří mají pracovní poměr v družstevní záložně, a osobám jim blízkým podle občanského zákoníku lze poskytnout pouze za podmínek, za nichž jsou úvěry nebo záruky poskytovány ostatním členům družstevní záložny, přičemž
+členům kontrolní komise, členům, kteří mají pracovní poměr v družstevní záložně, a osobám jim blízkým lze úvěr nebo záruku poskytnout jen s předchozím souhlasem představenstva,
+členům představenstva, členům úvěrové komise a osobám jim blízkým lze úvěr nebo záruku poskytnout pouze s předchozím souhlasem kontrolní komise.
+Člen úvěrové komise a člen, jemuž byla podle stanov svěřena pravomoc rozhodovat o poskytnutí úvěru, nemohou být ručiteli za úvěr, o jehož poskytnutí rozhodovali.
+Z jednání a rozhodování voleného orgánu družstevní záložny je vždy vyloučen člen tohoto orgánu, o jehož zájmu se rozhoduje.
+Ve výroční zprávě musí být vždy uvedeny údaje o poskytnutí úvěrů nebo záruk osobám uvedeným v odstavci 1.
+Ustanovení zákona upravujícího právní poměry obchodních společností a družstev o zákazu konkurence nejsou tímto zákonem dotčena a platí také pro členy úvěrové komise. Výkon funkce člena voleného orgánu družstevní záložny je neslučitelný s výkonem funkce člena voleného orgánu jiné družstevní záložny a s pracovním nebo obdobným poměrem v jiné družstevní záložně. Člen představenstva družstevní záložny nesmí být současně členem statutárního orgánu, správní rady nebo členem dozorčího orgánu jiné právnické osoby, která je podnikatelem. To neplatí pro členství člena představenstva družstevní záložny ve statutárním orgánu, správní radě nebo dozorčím orgánu finanční instituce, obchodníka s cennými papíry, pojišťovny, zajišťovny nebo úvěrové instituce jiné než družstevní záložna, které družstevní záložnu ovládají, a dále právnické osoby oprávněné organizovat poptávku a nabídku cenných papírů a podniku pomocných služeb.
+Člen voleného orgánu družstevní záložny je povinen před svým zvolením do příslušné funkce písemně informovat toho, kdo jej volí, o své důvěryhodnosti, odborné způsobilosti a zkušenosti, o předmětu své případné podnikatelské činnosti, o svém členství v orgánech jiných právnických osob, o tom, zda vykonává v jiných právnických osobách funkci prokuristy nebo v nich má majetkovou účast, pracovní nebo obdobný poměr, včetně předmětu činnosti této právnické osoby. Člen voleného orgánu družstevní záložny informuje písemně i o změnách, které nastaly v průběhu výkonu jeho funkce.
+Družstevní záložna je povinna informovat Českou národní banku o návrzích personálních změn ve voleném orgánu družstevní záložny, včetně předložení podkladů nezbytných pro posouzení odborné způsobilosti, důvěryhodnosti a zkušenosti navrhovaných osob přiměřeně rozsahu informací předkládaných za tyto osoby v žádosti o udělení povolení podle § 2a.
+Řídicí a kontrolní systém
+Družstevní záložna musí mít řídicí a kontrolní systém, který zahrnuje
+předpoklady řádné správy a řízení družstevní záložny, a to vždy
+zásady a postupy řízení,
+organizační uspořádání s řádným, průhledným a uceleným vymezením působnosti a rozhodovací pravomoci, v rámci kterého se současně vymezí funkce, jejichž výkon je neslučitelný, a postupy pro zamezení vzniku možného střetu zájmů,
+řádné administrativní postupy a účetní postupy v souladu se zvláštními právními předpisy,
+řízení rizik, které vždy zahrnuje
+pravidla přístupu družstevní záložny k rizikům, kterým družstevní záložna je nebo může být vystavena, včetně rizik vyplývajících z vnějšího prostředí a rizika likvidity,
+účinné postupy rozpoznávání, vyhodnocování, měření, sledování a ohlašování rizik,
+účinné postupy přijímání opatření vedoucích k omezení případných rizik,
+systém vnitřní kontroly, jehož součástí je vždy
+vnitřní audit a
+průběžná kontrola dodržování právních povinností družstevní záložny,
+zajišťování důvěryhodnosti, odborné způsobilosti a zkušenosti členů představenstva, kontrolní komise a úvěrové komise,
+zajišťování odborné způsobilosti a zkušenosti představenstva, kontrolní komise a úvěrové komise jako celku, zajišťující porozumění činnostem družstevní záložny, včetně dostatečného porozumění hlavním rizikům, a
+systém odměňování, který vždy zahrnuje zásady a postupy odměňování, které
+přispívají k řádnému a účinnému řízení rizik a jsou s ním v souladu,
+jsou založeny na stejné odměně mužů a žen za stejnou práci nebo práci stejné hodnoty a
+v případě člena představenstva, člena kontrolní komise a dalšího pracovníka, jehož pracovní činnosti mají významný vliv na rizikový profil družstevní záložny (dále jen „osoba s rizikovým vlivem“), zahrnují také zvláštní pravidla pro určení a podmínky výplaty pevné a pohyblivé složky odměny osoby s rizikovým vlivem a pro přijímání rozhodnutí o odměňování této osoby.
+Řídicí a kontrolní systém musí být účinný, ucelený a přiměřený povaze, rozsahu a složitosti rizik spojených s modelem podnikání a činností družstevní záložny v jeho celku i částech.
+Družstevní záložna ověřuje a pravidelně hodnotí účinnost, ucelenost a přiměřenost řídicího a kontrolního systému v jeho celku i částech a zjednává bez zbytečného odkladu odpovídající nápravu.
+Družstevní záložna má povinnost zavést a udržovat řídicí a kontrolní systém, pokud jí nebyla Českou národní bankou udělena výjimka podle čl. 7 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Česká národní banka stanoví vyhláškou požadavky na řídicí a kontrolní systém družstevních záložen v mezích podle odstavce 1, včetně působností, pravomocí, složení a fungování orgánů a výborů družstevní záložny, jakož i požadavků na jejich členy, pokud toto není upraveno přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky, nařízením nebo rozhodnutím Evropské unie.
+Družstevní záložna zajistí, aby
+člen jejího představenstva, člen její kontrolní komise a člen její úvěrové komise byl osobou důvěryhodnou, dostatečně odborně způsobilou a zkušenou,
+byly vyčleněny dostatečné personální a finanční zdroje pro průběžné odborné vzdělávání členů představenstva, kontrolní komise a úvěrové komise,
+byla prováděna politika podporující rozmanitost při výběru členů představenstva, kontrolní komise a úvěrové komise a
+byly evidovány údaje o úvěrech a zárukách poskytnutých členovi jejího představenstva, kontrolní komise a úvěrové komise nebo osobě s takovým členem spřízněné tak, aby tyto údaje mohly být bez zbytečného odkladu na vyžádání poskytnuty České národní bance; spřízněnou osobou se pro účely tohoto zákona rozumí manžel, registrovaný partner, dítě nebo rodič člena představenstva, kontrolní komise nebo úvěrové komise nebo právnická osoba, ve které má člen představenstva, kontrolní komise nebo úvěrové komise nebo jeho manžel, registrovaný partner, dítě nebo rodič kvalifikovanou účast nebo v ní může uplatňovat významný vliv nebo v této právnické osobě zastává výkonnou řídicí funkci nebo je členem jejího statutárního orgánu, správní rady nebo dozorčí rady.
+Člen představenstva, člen kontrolní komise a člen úvěrové komise družstevní záložny po celou dobu výkonu své funkce
+plní své povinnosti řádně, čestně a nezávisle a věnuje výkonu této své funkce dostatečnou časovou kapacitu,
+může současně zastávat funkce v orgánech jiných právnických osob jen tehdy, pokud to neovlivní dostatečnost časové kapacity pro plnění povinností v orgánu družstevní záložny vzhledem k povaze, rozsahu a složitosti jejích činností a s přihlédnutím k individuálním okolnostem,
+v družstevní záložně, která je významná vzhledem ke své velikosti, vnitřní organizaci, povaze, rozsahu a složitosti svých činností, nesmí současně zastávat funkce v orgánech jiných právnických osob většího rozsahu než
+výkon jedné funkce výkonného člena se dvěma funkcemi nevýkonného člena, nebo
+výkon čtyř funkcí nevýkonného člena.
+Česká národní banka může na základě odůvodněného návrhu družstevní záložny povolit členovi představenstva, členovi kontrolní komise nebo členovi úvěrové komise v družstevní záložně, která je významná vzhledem ke své velikosti, vnitřní organizaci, povaze, rozsahu a složitosti svých činností, zastávat jednu další funkci nevýkonného člena v orgánu jiné právnické osoby, pokud to neovlivní řádné plnění povinností v orgánu družstevní záložny.
+Aniž je dotčena povinnost člena představenstva, člena kontrolní komise nebo člena úvěrové komise družstevní záložny věnovat výkonu funkce dostatečnou časovou kapacitu, pro účely ustanovení odstavce 2 písm. c) se nezohledňuje funkce člena v právnické osobě, která neslouží převážně výdělečným cílům, a dále se považuje za výkon jedné funkce výkon funkce výkonného a nevýkonného člena v rámci
+skupiny,
+stejného institucionálního systému ochrany podle čl. 113 odst. 7 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+obchodní korporace, ve které má družstevní záložna kvalifikovanou účast.
+Výkonným členem se pro účely tohoto zákona rozumí člen orgánu, který v družstevní záložně zastává výkonnou řídicí funkci.
+Družstevní záložna, která je významná vzhledem ke své velikosti, vnitřní organizaci, povaze, rozsahu a složitosti svých činností, zřídí
+výbor pro rizika,
+výbor pro jmenování,
+výbor pro odměňování.
+Výbor pro rizika, výbor pro jmenování a výbor pro odměňování jsou složeny z nevýkonných členů orgánů družstevní záložny.
+Česká národní banka stanoví vyhláškou kritéria pro posouzení významnosti družstevní záložny podle odstavce 1.
+Česká národní banka
+používá informace týkající se zásad odměňování v souladu s čl. 450 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 ke srovnání trendů a postupů odměňování, jakož i informace poskytnuté družstevní záložnou o rozdílech v odměňování mužů a žen,
+sleduje, jestli družstevní záložna s ohledem na charakter, rozsah a složitost svých činností nespoléhá pouze na vnější úvěrové hodnocení při posouzení úvěrové bonity subjektu nebo finančního nástroje,
+sleduje rozsah objemu rizikově vážených expozic nebo kapitálových požadavků družstevní záložny, s výjimkou kapitálových požadavků k operačnímu riziku, pro expozice nebo transakce ve srovnávacím portfoliu, které vyplývají z interních přístupů družstevní záložny,
+alespoň jednou ročně zhodnotí kvalitu interních přístupů družstevní záložny,
+přijme opatření k nápravě, pokud interní přístup vede k podhodnocení kapitálových požadavků družstevní záložny, které není důsledkem existujících rozdílů v pozicích nebo expozicích; opatření k nápravě zachovává cíle interního přístupu,
+sleduje vývoj v souvislosti s profily rizik likvidity,
+přijme opatření, pokud vývoj podle písmene f) může vést k nestabilitě družstevní záložny nebo systémové nestabilitě,
+používá informace týkající se politiky rozmanitosti v souladu s čl. 435 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 ke srovnání politiky podporující rozmanitost výběru členů představenstva, členů kontrolní komise a členů úvěrové komise družstevní záložny.
+Družstevní záložna zavede pro své pracovníky postupy pro interní hlášení porušení tohoto zákona, právních předpisů jej provádějících nebo přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky zvláštního, nezávislého a samostatného komunikačního kanálu.
+Česká národní banka zavede účinný mechanismus k hlášení porušení nebo hrozícího porušení tohoto zákona, právních předpisů jej provádějících nebo přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky a informuje o něm způsobem umožňujícím dálkový přístup; tento mechanismus zahrnuje alespoň
+postupy pro hlášení porušení nebo hrozícího porušení České národní bance a jejich vyhodnocování Českou národní bankou,
+ochranu osoby, která ohlásí porušení nebo hrozící porušení; pokud se jedná o pracovníka družstevní záložny, Česká národní banka a družstevní záložna zajistí ochranu alespoň před diskriminací nebo dalšími druhy nespravedlivého zacházení,
+ochranu osobních údajů osoby, která ohlásí porušení nebo hrozící porušení nebo která je údajně odpovědná za porušení nebo hrozící porušení, ledaže je uveřejnění vyžadováno vnitrostátním právem v souvislosti s dalším vyšetřováním nebo následným soudním řízením.
+Česká národní banka stanoví vyhláškou požadavky na postupy družstevní záložny podle odstavce 1 včetně zajištění stejné míry ochrany, jako je vyžadována podle odstavce 2 písm. b) a c).
+Postupy interního hlášení podle odstavce 1 mohou být stanoveny na základě ujednání se sociálními partnery, prostřednictvím nebo s využitím komunikačních kanálů těchto partnerů, při zajištění stejné míry ochrany, jako je vyžadována podle odstavce 2 písm. b) a c).
+Pohyblivá složka odměny u osob s rizikovým vlivem
+Výše pohyblivé složky odměny nesmí u osoby s rizikovým vlivem přesáhnout výši pevné složky odměny, ledaže členská schůze družstevní záložny rozhodne podle odstavce 2.
+Do působnosti členské schůze družstevní záložny náleží rozhodnutí o tom, že výše pohyblivé složky odměny u osoby s rizikovým vlivem může být vyšší, nejvýše však ve výši dvojnásobku pevné složky odměny; členská schůze může rozhodnout pouze na základě odůvodněného návrhu předloženého členské schůzi představenstvem, který obsahuje alespoň
+navrhovanou výši poměru pohyblivé složky odměny k pevné složce odměny v procentním vyjádření,
+důvody pro schválení navrhovaného rozhodnutí a uvedení počtu osob s rizikovým vlivem, na které se rozhodnutí použije, a uvedení funkce těchto osob,
+předpokládaný dopad rozhodnutí na dodržování požadavků na kapitál v objemu a struktuře podle tohoto zákona, nařízení Evropského parlamentu a Rady (EU) č. 575/2013, rozhodnutí České národní banky nebo jiného příslušného orgánu.
+K rozhodnutí členské schůze podle odstavce 2 se vyžaduje souhlas
+alespoň 66 % většiny hlasů přítomných členů družstevní záložny za podmínky, že na členské schůzi jsou přítomni členové, kteří nakládají alespoň polovinou hlasovacích práv v družstevní záložně, nebo
+alespoň tříčtvrtinové většiny hlasů přítomných členů, pokud nejsou přítomni členové, kteří nakládají alespoň polovinou hlasovacích práv v družstevní záložně.
+Osoby s rizikovým vlivem, jichž se uvedená vyšší úroveň poměru mezi pevnou a pohyblivou složkou odměny podle odstavce 1 přímo týká, ani osoby jednající s nimi ve shodě, nesmějí vykonávat při rozhodování valné hromady podle odstavce 2 hlasovací práva.
+Zruší-li členská schůze rozhodnutí přijaté podle odstavce 2 nebo jej změní tak, že určí nižší výši poměru pohyblivé složky odměny k pevné složce odměny, uvede družstevní záložna odměňování osob s rizikovým vlivem do souladu s novým rozhodnutím členské schůze do prvního dne roku následujícího po roce, v němž bylo přijato toto rozhodnutí.
+Vzniklo-li právo na pohyblivou složku odměny podle původního rozhodnutí členské schůze, zaniká právo na její výplatu v rozsahu, v jakém pohyblivá složka odměny přesahuje výši pohyblivé složky vyplývající z nového rozhodnutí členské schůze, a to dnem nabytí účinnosti nového rozhodnutí členské schůze.
+Družstevní záložna neprodleně uvědomí Českou národní banku o svém doporučení společníkům i o navrhovaném vyšším maximálním poměru pevné a pohyblivé složky celkové odměny a jeho odůvodnění a na žádost České národní banky prokáže, že navrhovaný vyšší poměr není v rozporu s jejími povinnostmi podle tohoto zákona nebo nařízení Evropského parlamentu a Rady (EU) č. 575/2013, s ohledem zejména na požadavky na kapitál.
+Družstevní záložna může pro účely výpočtu výše pohyblivé složky odměny uplatnit diskontní sazbu až do 25 % celkového objemu pohyblivé složky odměny osoby s rizikovým vlivem za předpokladu, že je vyplacena prostřednictvím nástrojů, z nichž lze práva uplatnit nejdříve za 5 let.
+Družstevní záložna vykonává činnost s odbornou péčí.
+Pokud jde o obchody s cennými papíry a obchody s právy spojenými s cennými papíry nebo odvozenými od cenných papírů na vlastní účet nebo ze svého majetku, může je družstevní záložna provádět pouze za nejvýhodnějších podmínek pro družstevní záložnu, zejména za nejvýhodnější cenu, které je možno při vynaložení odborné péče dosáhnout; ustanovení upravující vynaložení odborné péče upravené v zákoně o bankách platí pro družstevní záložny obdobně.
+Uveřejňování informací
+Družstevní záložna uveřejňuje základní údaje o sobě, o svých členech, struktuře skupiny, jejíž je součástí, a o své činnosti a finanční situaci.
+Česká národní banka může stanovit kratší periodicitu uveřejňování informací družstevními záložnami než je stanoveno podle části osmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Družstevní záložna každoročně uveřejňuje za bezprostředně předcházející účetní období s rozlišením podle jednotlivých členských států a jiných než členských států, ve kterých má pobočku,
+výčet činností, které vykonává, a jejich zeměpisné umístění,
+obrat,
+počet pracovníků přepočtený na ekvivalenty pracovníků na plný pracovní úvazek,
+zisk nebo ztrátu před zdaněním,
+daň z příjmů právnických osob nebo obdobnou daň placenou v zahraničí nebo ztrátu,
+získané veřejné podpory.
+Údaje podle odstavce 3 se uveřejňují v příloze roční účetní závěrky.
+Družstevní záložna uveřejňuje ve své výroční zprávě mezi klíčovými ukazateli návratnost jejích aktiv, vyjádřenou jako podíl čistého zisku a celkové bilanční sumy.
+Družstevní záložna uveřejňuje každoročně údaje o tom, jak dodržuje požadavky na správu a řízení společnosti, představenstvo, kontrolní komisi jako celek a jednotlivé členy jejího představenstva a kontrolní komise, systém odměňování, výbor pro jmenování a výbor pro odměňování, uveřejňování informací podle jednotlivých zemí a uveřejňování informací o návratnosti aktiv podle odstavce 5.
+Česká národní banka
+stanoví vyhláškou obsah údajů určených k uveřejnění podle odstavce 1, jakož i formu, způsob, strukturu a lhůty uveřejňování údajů a periodicitu uveřejňování údajů podle odstavce 1,
+může vyhláškou stanovit periodicitu podle odstavce 2, lhůty a způsob uveřejňování informací,
+stanoví vyhláškou formu, způsob a lhůty uveřejňování údajů podle odstavce 6.
+Hospodaření družstevní záložny
+Kapitál družstevní záložny činí nejméně 35 000 000 Kč.
+Bilanční suma družstevní záložny nesmí překročit 5 000 000 000 Kč.
+Souhrnná bilanční suma družstevních záložen, které jsou ovládány stejnou osobou nebo osobami jednajícími ve shodě, nesmí překročit 5 000 000 000 Kč.
+Družstevní záložna přijme a uplatňuje spolehlivé, účinné a úplné strategie a postupy pro stanovení, průběžné posuzování a udržování vnitřně stanoveného kapitálu v takové výši, struktuře a rozložení, aby dostatečně pokrýval rizika, kterým je nebo by mohla být vystavena i potenciální ztráty vyplývající ze zátěžových scénářů, včetně těch zjištěných zátěžovými testy podle § 21b odst. 2.
+Družstevní záložna pravidelně prověřuje strategie a postupy uvedené v odstavci 1 tak, aby bylo zajištěno, že jsou funkční, účinné a přiměřené charakteru, rozsahu a složitosti činností družstevní záložny.
+Povinnosti uvedené v odstavcích 1 a 2 má na individuálním základě pouze družstevní záložna, která není
+ovládána tuzemskou ovládající bankou, tuzemskou finanční holdingovou osobou ani tuzemskou smíšenou finanční holdingovou osobou, nebo
+zahrnuta do konsolidace podle čl. 19 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Kombinovaná kapitálová rezerva
+Družstevní záložna průběžně udržuje kmenový kapitál tier 1 ve výši odpovídající kombinované kapitálové rezervě, a to nad rámec požadavků na kapitál podle čl. 92 odst. 1 písm. a) až c), čl. 92a a 92b nařízení Evropského parlamentu a Rady (EU) č. 575/2013, požadavků na kapitál uložených jí v návaznosti na výsledky přezkumu a vyhodnocování, prostřednictvím opatření k nápravě a pokynu k držení dodatečného kapitálu k řešení jiných rizik než rizika nadměrné páky a nad rámec rizikově založené složky minimálního požadavku na kapitál a způsobilé závazky podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu.
+Kombinovanou kapitálovou rezervu tvoří
+bezpečnostní kapitálová rezerva,
+proticyklická kapitálová rezerva,
+kapitálová rezerva ke krytí systémového rizika,
+kapitálová rezerva pro jinou systémově významnou instituci.
+Nestanoví-li zvláštní právní předpis jinak, družstevní záložna nesmí rozdělit kmenový kapitál tier 1 v rozsahu, který by vedl k porušení povinnosti udržovat kombinovanou kapitálovou rezervu v požadované výši. Pokud družstevní záložna neudržuje kombinovanou kapitálovou rezervu v požadované výši, dodržuje pravidla omezující rozdělení kmenového kapitálu tier 1, a do 5 pracovních dnů ode dne, kdy dojde k poklesu kombinované kapitálové rezervy pod požadovanou výši, předloží České národní bance žádost o schválení plánu na obnovení kapitálu. Česká národní banka může tuto lhůtu prodloužit až na 10 pracovních dnů v závislosti na posouzení individuální situace družstevní záložny s přihlédnutím k rozsahu a složitosti jejích činností.
+Česká národní banka plán na obnovení kapitálu podle odstavce 3 schválí, jestliže lze očekávat, že na základě tohoto plánu družstevní záložna ve stanovené lhůtě splní kombinovanou kapitálovou rezervu. Pokud Česká národní banka plán na obnovení kapitálu neschválí, uloží opatření k nápravě podle § 28 odst. 2 písm. a) bodu 13 nebo § 28 odst. 2 písm. f).
+Česká národní banka stanoví vyhláškou
+pravidla pro kombinovanou kapitálovou rezervu podle odstavce 1 a kapitálové rezervy podle odstavce 2,
+omezení při nesplnění požadavku kombinované kapitálové rezervy a pravidla pro výpočet nejvyšší částky k možnému rozdělení podle odstavce 3,
+náležitosti plánu na obnovení kapitálu podle odstavce 3.
+Bezpečnostní kapitálová rezerva
+Družstevní záložna průběžně udržuje bezpečnostní kapitálovou rezervu na individuálním základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 ve výši 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Proticyklická kapitálová rezerva
+Družstevní záložna průběžně udržuje proticyklickou kapitálovou rezervu specifickou pro příslušnou družstevní záložnu na individuálním základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Česká národní banka čtvrtletně vypočte orientační ukazatel proticyklické kapitálové rezervy jako referenční hodnotu, kterou se řídí při stanovení sazby proticyklické kapitálové rezervy. Tento ukazatel je založen na odchylce poměru objemu poskytnutých úvěrů a hrubého domácího produktu od dlouhodobého trendu.
+Česká národní banka při výpočtu orientačního ukazatele proticyklické kapitálové rezervy přihlíží zejména k
+úvěrovému cyklu a růstu objemu poskytovaných úvěrů v České republice,
+změnám poměru objemu poskytnutých úvěrů a hrubého domácího produktu,
+specifikům českého národního hospodářství,
+doporučením vydaným Evropskou radou pro systémová rizika.
+Česká národní banka čtvrtletně vyhodnocuje míru cyklického systémového rizika, na jehož základě může stanovit nebo změnit sazbu proticyklické kapitálové rezervy pro Českou republiku; při stanovení nebo změně sazby Česká národní banka přihlíží k
+orientačnímu ukazateli proticyklické kapitálové rezervy vypočtenému podle odstavců 2 a 3,
+doporučením vydaným Evropskou radou pro systémová rizika,
+ukazatelům, které mohou značit růst systémového rizika.
+Sazba proticyklické kapitálové rezervy podle odstavce 4 se stanoví ve výši 0 % až 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 v násobcích 0,25 procentního bodu. V případech, kdy to bude na základě skutečností uvedených v odstavci 4 důvodné, může Česká národní banka stanovit tuto sazbu vyšší než 2,5 %.
+Česká národní banka stanoví opatřením obecné povahy
+sazbu proticyklické kapitálové rezervy pro Českou republiku podle odstavce 4,
+den, od kterého jsou družstevní záložny povinny používat sazbu podle písmene a) pro účely výpočtu kombinované kapitálové rezervy.
+Při prvním stanovení sazby podle odstavce 6 písm. a) nebo při zvýšení této sazby může být den podle odstavce 6 písm. b) stanoven nejdříve 1 rok po dni vydání opatření obecné povahy; ve výjimečných případech může být tato lhůta kratší. To neplatí, pokud se sazba podle odstavce 6 písm. a) sníží.
+Česká národní banka v opatření obecné povahy uvede
+údaje podle odstavce 6,
+poměr objemu poskytnutých úvěrů k hrubému domácímu produktu České republiky a odchylku tohoto poměru od dlouhodobého trendu,
+referenční sazbu proticyklické kapitálové rezervy podle odstavců 2 a 3,
+odůvodnění výše sazby podle odstavce 6 písm. a), včetně uvedení všech faktorů, které Česká národní banka vzala v úvahu při stanovení této sazby,
+důvody pro zkrácení lhůty, pokud je lhůta podle odstavce 7 kratší než 1 rok,
+nezávazně určené období, po které Česká národní banka očekává, že sazba podle odstavce 6 písm. a) nebude zvýšena včetně odůvodnění délky tohoto období, pokud byla sazba proticyklické kapitálové rezervy snížena.
+Česká národní banka koordinuje termín vydání opatření obecné povahy s příslušnými orgány dohledu nebo určenými orgány jiných států.
+Družstevní záložna použije sazbu proticyklické kapitálové rezervy pro jiný členský stát ve výši, kterou stanovil příslušný orgán dohledu nebo určený orgán tohoto členského státu, pokud tato sazba byla stanovena do výše 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Pokud příslušný orgán dohledu nebo určený orgán jiného členského státu stanovil sazbu proticyklické kapitálové rezervy vyšší než 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, Česká národní banka tuto sazbu uzná nebo stanoví sazbu ve výši 2,5 %. Družstevní záložna v takovém případě použije sazbu stanovenou Českou národní bankou.
+Česká národní banka stanoví opatřením obecné povahy
+sazbu proticyklické kapitálové rezervy pro jiný členský stát podle odstavce 2,
+název státu, na nějž se vztahuje sazba podle písmene a),
+den, od kterého jsou družstevní záložny povinny používat sazbu podle písmene a) pro účely výpočtu kombinované kapitálové rezervy.
+Při prvním stanovení sazby podle odstavce 3 písm. a) nebo při zvýšení této sazby může být den podle odstavce 3 písm. c) stanoven nejdříve 1 rok po dni vydání opatření obecné povahy; ve výjimečných případech může být tato lhůta kratší. To neplatí, pokud se sazba podle odstavce 3 písm. a) sníží.
+Je-li lhůta podle odstavce 4 kratší než 1 rok, Česká národní banka v opatření obecné povahy uvede důvody pro zkrácení lhůty.
+Družstevní záložna použije sazbu proticyklické kapitálové rezervy pro jiný než členský stát ve výši, kterou stanovil příslušný orgán dohledu tohoto státu, pokud tato sazba byla stanovena do výše 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Pokud příslušný orgán dohledu jiného než členského státu stanovil sazbu proticyklické kapitálové rezervy nižší než 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, Česká národní banka může sazbu zvýšit až do výše 2,5 %, považuje-li to za potřebné z hlediska rizik spojených s objemem poskytovaných úvěrů v tomto státě. Družstevní záložna v takovém případě použije sazbu stanovenou Českou národní bankou.
+Pokud příslušný orgán dohledu jiného než členského státu stanovil sazbu proticyklické kapitálové rezervy vyšší než 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, Česká národní banka tuto sazbu uzná nebo stanoví sazbu ve výši 2,5 %. Družstevní záložna v takovém případě použije sazbu stanovenou Českou národní bankou.
+Pokud příslušný orgán dohledu jiného než členského státu sazbu proticyklické kapitálové rezervy nestanovil, Česká národní banka může tuto sazbu stanovit do výše 2,5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013. Družstevní záložna v takovém případě použije sazbu stanovenou Českou národní bankou.
+Česká národní banka při stanovení sazby proticyklické kapitálové rezervy podle odstavců 2 až 4 přihlíží k doporučením vydaným Evropskou radou pro systémová rizika.
+Česká národní banka stanoví opatřením obecné povahy
+sazbu proticyklické kapitálové rezervy pro jiný než členský stát podle odstavců 2 až 4,
+název státu, na nějž se vztahuje sazba podle písmene a),
+den, od kterého jsou družstevní záložny povinny používat sazbu podle písmene a) pro účely výpočtu kombinované kapitálové rezervy.
+Při prvním stanovení sazby podle odstavce 6 písm. a) nebo při zvýšení této sazby může být den podle odstavce 6 písm. c) stanoven nejdříve 1 rok po dni vydání opatření obecné povahy; ve výjimečných případech může být tato lhůta kratší. To neplatí, pokud se sazba podle odstavce 6 písm. a) sníží.
+Česká národní banka v opatření obecné povahy odůvodní výši sazby podle odstavce 6 písm. a), a je-li lhůta podle odstavce 7 kratší než 1 rok, Česká národní banka uvede důvody pro zkrácení lhůty.
+Kapitálová rezerva ke krytí systémového rizika
+Česká národní banka může za účelem omezení systémového nebo makroobezřetnostního rizika stanovit, aby družstevní záložny, skupina druhově určených družstevních záložen nebo jednotlivá družstevní záložna průběžně udržovaly pro všechny expozice nebo podmnožinu expozic kapitálovou rezervu ke krytí systémového rizika na individuálním základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Kapitálová rezerva ke krytí systémového rizika se může vztahovat na
+expozice umístěné v České republice,
+podmnožinu expozic umístěných v České republice v členění na expozice vůči
+fyzickým osobám zajištěné obytnými nemovitostmi, kterými se pro účely tohoto zákona rozumí nemovitost podle čl. 4 odst. 1 bodu 75 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+právnickým osobám zajištěné obchodními nemovitostmi, kterými se pro účely tohoto zákona rozumí jiné než obytné nemovitosti,
+fyzickým osobám s výjimkou expozic podle bodu 1,
+právnickým osobám s výjimkou expozic podle bodu 2,
+části expozic podle písmene b) bodů 1 až 4,
+expozice umístěné v jiných členských státech,
+expozice v členění podle písmene b) bodů 1 až 4 umístěné v jiném členském státě, pro který Česká národní banka uznala sazbu podle § 12t,
+expozice umístěné v jiném než členském státě.
+Česká národní banka stanoví sazbu kapitálové rezervy ke krytí systémového rizika pro všechny expozice nebo podmnožinu expozic v násobcích 0,5 procentního bodu. Česká národní banka při stanovení sazby přihlíží k tomu, aby výše sazby neměla nepříznivý dopad na finanční trh jako celek nebo jeho část v jiných členských státech Evropské unie nebo celé Evropské unii a nebyla překážkou pro fungování jednotného trhu. Česká národní banka přezkoumává důvody pro stanovení kapitálové rezervy ke krytí systémového rizika alespoň jednou za 2 roky.
+Česká národní banka stanoví rozhodnutím nebo opatřením obecné povahy
+sazbu kapitálové rezervy ke krytí systémového rizika,
+údaje nutné k identifikaci družstevní záložny, která je povinna udržovat kapitálovou rezervu ke krytí systémového rizika,
+údaje nutné k identifikaci expozic, na které se sazba kapitálové rezervy ke krytí systémového rizika vztahuje,
+den, od kterého je dotčená družstevní záložna povinna sazbu podle písmene a) používat,
+názvy států, na něž se vztahuje sazba podle písmene a).
+Česká národní banka oznámí záměr stanovit sazbu kapitálové rezervy ke krytí systémového rizika Evropské radě pro systémová rizika. Je-li družstevní záložna, na jejíž expozice se vztahuje sazba kapitálové rezervy ke krytí systémového rizika, ovládána osobou se sídlem v jiném členském státě, oznámí Česká národní banka záměr stanovit sazbu kapitálové rezervy ke krytí systémového rizika příslušnému orgánu dohledu nebo určenému orgánu dotčeného členského státu.
+Oznámení podle odstavce 1 obsahuje
+sazbu kapitálové rezervy ke krytí systémového rizika,
+údaje nutné k identifikaci družstevní záložny, která je povinna udržovat kapitálovou rezervu ke krytí systémového rizika,
+údaje nutné k identifikaci expozic, na které se sazba kapitálové rezervy ke krytí systémového rizika vztahuje, včetně identifikace expozic umístěných v jiném než členském státě,
+popis systémového nebo makroobezřetnostního rizika,
+odůvodnění výše sazby podle písmene a) vzhledem k míře systémového nebo makroobezřetnostního rizika a ohrožení stability finančního systému v České republice,
+odůvodnění výše sazby podle písmene a) z hlediska její účinnosti a přiměřenosti zmírnit systémové nebo makroobezřetnostní riziko,
+vyhodnocení pravděpodobných kladných a záporných dopadů stanovení kapitálové rezervy ke krytí systémového rizika na jednotný trh Evropské unie na základě informací dostupných České národní bance.
+Pokud hodlá Česká národní banka uložit družstevní záložně povinnost udržovat kapitálovou rezervu ke krytí systémového rizika pro všechny expozice, uvede v oznámení podle odstavce 1 důvody, pro které nelze považovat kapitálovou rezervu ke krytí systémového rizika za duplicitní k fungování kapitálové rezervy pro jinou systémově významnou instituci.
+Pokud by stanovení nebo změna sazby kapitálové rezervy ke krytí systémového rizika vedly k tomu, že kombinovaná sazba kapitálové rezervy ke krytí systémového rizika nepřevýší 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 pro kteroukoli podmnožinu expozic, Česká národní banka oznámí záměr podle odstavce 1 nejpozději 1 měsíc přede dnem vydání rozhodnutí nebo opatření obecné povahy podle § 8ao odst. 4. Do kombinované sazby kapitálové rezervy se nezapočte sazba stanovená Českou národní bankou podle § 8aq.
+Pokud by stanovení nebo změna sazby kapitálové rezervy ke krytí systémového rizika vedly k tomu, že by kombinovaná sazba kapitálové rezervy ke krytí systémového rizika byla vyšší než 3 % a nepřevýšila 5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 pro kteroukoli podmnožinu expozic, Česká národní banka si vyžádá před vydáním rozhodnutí nebo opatření obecné povahy podle § 8ao odst. 4 stanovisko Evropské komise. Pokud Česká národní banka stanovisku Evropské komise nevyhoví, sdělí jí důvody, které ji k tomu vedly.
+Pokud by stanovení nebo změna sazby kapitálové rezervy ke krytí systémového rizika vedly k tomu, že by kombinovaná sazba kapitálové rezervy ke krytí systémového rizika byla vyšší než 5 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 pro kteroukoli podmnožinu expozic, Česká národní banka oznámí záměr podle odstavce 1, přičemž rozhodnutí nebo opatření obecné povahy podle § 8ao odst. 4 vydá pouze v návaznosti na nařízení nebo rozhodnutí Evropské komise.
+Je-li družstevní záložna, na jejíž expozice se vztahuje sazba podle odstavce 5, ovládána osobou se sídlem v jiném členském státě, požádá Česká národní banka v oznámení podle odstavce 1 Evropskou komisi a Evropskou radu pro systémová rizika o vydání doporučení. Neshodnou-li se Česká národní banka a příslušný orgán dohledu nebo určený orgán dotčeného členského státu nebo jsou-li doporučení Evropské komise a Evropské rady pro systémová rizika zamítavá, Česká národní banka může postoupit věc k rozhodnutí Evropskému orgánu pro bankovnictví podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví. Česká národní banka rozhodnutí nebo opatření obecné povahy podle § 8ao odst. 4 nevydá, dokud ve věci nerozhodne Evropský orgán pro bankovnictví.
+Pokud Česká národní banka hodlá stanovit sazbu kapitálové rezervy ke krytí systémového rizika pro expozice umístěné v jiných členských státech, musí být sazba kapitálové rezervy ke krytí systémového rizika stejná pro všechny členské státy s výjimkou sazby podle § 8aq.
+Česká národní banka může požádat Evropskou radu pro systémová rizika, aby pro příslušné orgány dohledu nebo určené orgány jiných členských států vydala doporučení uznat sazbu kapitálové rezervy ke krytí systémového rizika stanovenou Českou národní bankou pro Českou republiku.
+Pokud příslušný orgán dohledu nebo určený orgán jiného členského státu stanovil pro tento členský stát sazbu kapitálové rezervy ke krytí systémového rizika, může Česká národní banka sazbu pro účely výpočtu kapitálové rezervy ke krytí systémového rizika uznat a rozhodnutím nebo opatřením obecné povahy podle § 8ao odst. 4 tuto sazbu stanovit.
+Pokud kapitálová rezerva ke krytí systémového rizika vypočtená na základě sazby stanovené příslušným orgánem dohledu nebo určeným orgánem jiného členského státu pokrývá stejná rizika jako kapitálová rezerva ke krytí systémového rizika stanovená podle § 8ao, použije se vyšší z kapitálových rezerv.
+Česká národní banka před stanovením sazby kapitálové rezervy ke krytí systémového rizika přihlíží k informacím uvedeným v oznámení příslušného orgánu dohledu nebo určeného orgánu jiného členského státu.
+Česká národní banka oznámí uznání sazby podle odstavce 1 Evropské radě pro systémová rizika.
+Kapitálová rezerva pro jinou systémově významnou instituci
+Česká národní banka může stanovit, aby družstevní záložna, která byla označena jako jiná systémově významná instituce, průběžně udržovala kapitálovou rezervu pro jinou systémově významnou instituci na individuálním základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Česká národní banka rozhodne o určení družstevní záložny jako jiné systémově významné instituce na individuálním základě podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Česká národní banka stanoví systémovou významnost jiné systémově významné instituce alespoň podle některého z těchto kritérií:
+velikost jiné systémově významné instituce,
+význam jiné systémově významné instituce pro hospodářství Evropské unie nebo České republiky,
+význam přeshraničních činností jiné systémově významné instituce, nebo
+propojenost jiné systémově významné instituce s finančním systémem.
+Česká národní banka může rozhodnout o stanovení sazby kapitálové rezervy pro jinou systémově významnou instituci do výše 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 s přihlédnutím k systémové významnosti instituce podle odstavce 3. Česká národní banka při stanovení sazby přihlíží k tomu, aby výše sazby neměla nepříznivý dopad na finanční trh jako celek nebo jeho část v jiných členských státech Evropské unie nebo celé Evropské unii a nebyla překážkou pro fungování jednotného trhu. Česká národní banka může rozhodnout o stanovení sazby kapitálové rezervy pro jinou systémově významnou instituci vyšší než 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 pouze v návaznosti na nařízení nebo rozhodnutí Evropské komise. Česká národní banka přezkoumává požadavek na kapitálovou rezervu pro jinou systémově významnou instituci alespoň jednou ročně.
+Česká národní banka oznámí záměr stanovit nebo změnit sazbu kapitálové rezervy pro jinou systémově významnou instituci Evropské radě pro systémová rizika nejpozději 1 měsíc přede dnem vydání rozhodnutí podle odstavce 4, pokud jde o sazbu nepřevyšující 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013. Pokud Česká národní banka hodlá stanovit sazbu kapitálové rezervy pro jinou systémově významnou instituci vyšší než 3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, oznámí záměr Evropské radě pro systémová rizika 3 měsíce přede dnem vydání rozhodnutí podle odstavce 4.
+Oznámení podle odstavce 5 obsahuje
+sazbu kapitálové rezervy pro jinou systémově významnou instituci,
+odůvodnění výše sazby podle písmene a) z hlediska její účinnosti a přiměřenosti zmírnit riziko,
+vyhodnocení pravděpodobných kladných a záporných dopadů stanovení kapitálové rezervy pro jinou systémově významnou instituci na jednotný trh Evropské unie na základě informací dostupných České národní bance.
+Pokud je jiná systémově významná instituce ovládána globální systémově významnou institucí nebo jinou systémově významnou institucí, která je institucí nebo skupinou, v jejímž čele je evropská ovládající úvěrová instituce, evropský ovládající investiční podnik, evropská finanční holdingová osoba nebo evropská smíšená finanční holdingová osoba, a je povinna udržovat kapitálovou rezervu pro jinou systémově významnou instituci na konsolidovaném základě, pak kapitálová rezerva pro tuto jinou systémově významnou instituci na individuálním základě nesmí přesáhnout nižší z těchto hodnot:
+součet vyšší ze sazeb kapitálové rezervy pro globální systémově významnou instituci nebo jinou systémově významnou instituci uplatňovaných pro skupinu na konsolidovaném základě a 1 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nebo
+3 % z celkového objemu rizikové expozice podle čl. 92 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 nebo sazba uplatňovaná pro skupinu na konsolidovaném základě v návaznosti na nařízení nebo rozhodnutí Evropské komise podle odstavce 4.
+Česká národní banka sdělí Evropské radě pro systémová rizika názvy institucí označených jako jiné systémově významné a uvede důvody, pro které tak činí.
+Česká národní banka přezkoumává určení jiných systémově významných institucí jednou ročně. Česká národní banka o výsledku přezkumu informuje dotčené systémově významné instituce a Evropskou radu pro systémová rizika.
+Česká národní banka uveřejňuje způsobem umožňujícím dálkový přístup aktuální seznam institucí, které určila jako jiné systémově významné.
+Při vydání opatření obecné povahy podle § 8al až 8ao se § 172 a § 173 odst. 1 správního řádu nepoužije. Opatření obecné povahy oznámí Česká národní banka způsobem umožňujícím dálkový přístup. Opatření obecné povahy nabývá účinnosti dnem zveřejnění. Pokud by zveřejnění odůvodnění opatření obecné povahy vydaného podle § 8ao odst. 3 ohrozilo stabilitu finančního systému dotčených států, Česká národní banka odůvodnění nezveřejní.
+Česká národní banka zveřejní pravomocné rozhodnutí podle § 8ao odst. 3 způsobem umožňujícím dálkový přístup. Pokud by zveřejnění odůvodnění rozhodnutí ohrozilo stabilitu finančního systému dotčených států, Česká národní banka odůvodnění nezveřejní.
+Družstevní záložna zajistí, aby auditor provedl
+ověření účetní závěrky družstevní záložny,
+jednou za 3 kalendářní roky ověření řídicího a kontrolního systému družstevní záložny, přičemž družstevní záložna pro auditora zajistí přehled provedených vnitřních kontrol, které se tohoto ověření týkají,
+vypracování zpráv o ověření účetní závěrky a řídicího a kontrolního systému; družstevní záložna předloží tyto zprávy ve stanovených lhůtách České národní bance.
+Česká národní banka stanoví vyhláškou obsah zprávy o ověření řídicího a kontrolního systému družstevní záložny podle písmen b) a c), způsob, strukturu a periodicitu jejího zpracování a lhůty pro její předložení.
+Česká národní banka může požadavek na ověření řídicího a kontrolního systému družstevní záložny podle odstavce 1 písm. b) prominout nebo omezit pouze na některé jeho součásti. Česká národní banka do 30. dubna příslušného kalendářního roku družstevní záložně sdělí, že ověření řídicího a kontrolního systému družstevní záložny podle odstavce 1 písm. b) promíjí nebo jakým způsobem provedení tohoto ověření omezuje. Na sdělení České národní banky o prominutí nebo omezení provedení tohoto ověření se nepoužijí části druhá a třetí správního řádu.
+Vybraného auditora je družstevní záložna povinna oznámit České národní bance, která je do 30 dnů ode dne obdržení tohoto oznámení oprávněna auditora odmítnout. Ověřit účetní závěrku družstevní záložny může pouze ten auditor, který nemá k družstevní záložně zvláštní vztah a který doloží, že v průběhu minimálně 2 účetních období ověřoval účetní závěrky bank, družstevních záložen nebo jiných finančních institucí, a kterému nebylo v souvislosti s poskytováním auditorských služeb oprávnění k jejich poskytování pozastaveno. Neodmítne-li Česká národní banka auditora ve stanovené lhůtě, platí, že auditor byl schválen. V případě odmítnutí auditora Českou národní bankou je družstevní záložna povinna oznámit do 15 dnů ode dne odmítnutí České národní bance nového auditora.
+Za osoby, které mají k družstevní záložně zvláštní vztah, se pro účely tohoto zákona považují členové družstevní záložny, členové volených orgánů družstevní záložny a osoby jim blízké podle občanského zákoníku.
+Česká národní banka může nařídit družstevní záložně změnu auditora, pokud auditor nesplní povinnost informovat Českou národní banku o skutečnostech zjištěných podle § 21 odst. 3 a 4 zákona č. 93/2009 Sb., o auditorech, ve znění pozdějších předpisů.
+Zisk lze rozdělit mezi členy družstevní záložny. Podíl člena na zisku je stanoven poměrem výše členského vkladu k souhrnu všech členských vkladů všech členů k rozvahovému dni řádné účetní závěrky. Na určení zisku, který se má rozdělit mezi členy, se po zohlednění části zisku připadajícího na vypořádací podíly usnáší členská schůze při projednání řádné účetní závěrky. Ustanovení zákona upravujícího právní poměry obchodních společností a družstev o rozdělení a užití zisku družstva se nepoužijí.
+Vykáže-li družstevní záložna ztrátu, je členská schůze povinna rozhodnout při schvalování účetní závěrky za příslušné období o úhradě této ztráty z rizikového fondu, rezervního fondu a nerozděleného zisku minulých let družstevní záložny. Úhradu ztráty provede družstevní záložna bez zbytečného odkladu po rozhodnutí členské schůze.
+Rozdělení zisku družstevní záložny podle předchozích odstavců provede představenstvo do 30 dnů od dne konání členské schůze, která schválila řádnou účetní závěrku, z níž zisk vyplývá.
+Česká národní banka může vydat opatření obecné povahy na základě a v mezích přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky tam, kde tento přímo použitelný předpis umožňuje příslušnému orgánu udělit výjimku nebo upravit použití stanovených pravidel družstevním záložnám nebo skupině druhově určených družstevních záložen.
+Návrh opatření obecné povahy se zveřejní pouze na úřední desce České národní banky. Koná-li se veřejné projednání návrhu o opatření obecné povahy, oznámí Česká národní banka dobu a místo jeho konání na úřední desce České národní banky.
+Opatření obecné povahy nabývá účinnosti dnem zveřejnění na úřední desce České národní banky.
+Fondy družstevní záložny
+Družstevní záložna zřizuje tyto fondy:
+rizikový fond při svém vzniku ke krytí rizik z poskytování úvěrů a záruk ve výši nejméně 20 % ročního zisku po zdanění, a to až do doby, kdy výše rizikového fondu dosáhne částky nejméně 30 % souhrnu nesplacených úvěrů a záruk poskytnutých družstevní záložnou,
+rezervní fond. Není-li rezervní fond vytvořen již při vzniku družstevní záložny, vytvoří se ze zisku po zdanění vykázaného v řádné účetní závěrce za účetní období, v němž poprvé se tento zisk vytvoří, a to ve výši nejméně 10 % ze zisku po zdanění. Tento fond se ročně doplňuje o částku určenou ve stanovách, nejméně však o 10 % ze zisku po zdanění, a to až do doby, kdy výše rezervního fondu dosáhne nejméně 20 % základního kapitálu.
+Stanovy mohou určit, že se vytváří vyšší rizikový fond a rezervní fond a že se popřípadě zřizují další fondy.
+Družstevní záložna je povinna dodržovat pravidla bezpečného provozu, která mohou upravovat zejména
+omezení a podmínky pro některé druhy úvěrů nebo investic, vkladů, záruk a závazků,
+pravidla pro nabývání, financování a posuzování aktiv.
+Pravidla a ukazatele podle odstavce 1 stanoví Česká národní banka vyhláškou.
+Družstevní záložna je povinna zavést účinný postup pro vyřizování stížností klientů a o tomto postupu srozumitelně, písemně a v úředním jazyce, popřípadě jazycích státu, na jehož území působí, informovat ve svých provozních prostorách.
+Družstevní záložna je povinna vést agendu každé smlouvy uzavírané s klientem takovým způsobem, aby na žádost České národní banky byla bez zbytečného odkladu schopna předložit příslušné doklady v ověřeném překladu do českého jazyka.
+Některá ustanovení o zrušení a likvidaci družstevní záložny
+Soud na návrh České národní banky, orgánu nebo člena družstevní záložny nebo osoby, která osvědčí právní zájem, rozhodne o zrušení družstevní záložny a její likvidaci, jestliže
+počet členů klesl pod 30,
+kapitál klesl pod 35 000 000 Kč,
+uplynulo šest měsíců ode dne, kdy skončilo funkční období orgánu družstevní záložny a nebyl zvolen nový orgán, nebo byla porušena povinnost svolat členskou schůzi, anebo družstevní záložna po dobu delší než jeden rok neprovozuje žádnou činnost,
+založením, fúzí nebo rozdělením družstevní záložny byl porušen zákon.
+Soud na návrh České národní banky rozhodne o zrušení družstevní záložny a její likvidaci také tehdy, jestliže opatření uložená Českou národní bankou podle § 28 byla neúčinná.
+Soud dále na návrh České národní banky rozhodne o zrušení družstevní záložny a její likvidaci také tehdy, bylo-li družstevní záložně odňato povolení.
+Fúze družstevní záložny je možná jen s jinou družstevní záložnou. Družstevní záložnu lze rozdělit pouze na družstevní záložny. K rozdělení nebo fúzi je třeba předchozího souhlasu České národní banky; přitom se postupuje přiměřeně podle § 2a.
+Změna právní formy družstevní záložny není přípustná. To neplatí v případě změny právní formy na akciovou společnost, pokud Česká národní banka udělila souhlas k takové přeměně a současně rozhodla o udělení bankovní licence. Projekt změny právní formy družstevní záložny nemusí obsahovat počet, druh, formu a jmenovitou hodnotu akcií určených pro každého akcionáře po zápisu změny právní formy do obchodního rejstříku, pokud bude obsahovat způsob jejich určení.
+Žádost o udělení souhlasu podle odstavců 4 a 5 obsahuje, vedle náležitostí stanovených správním řádem, informace o důvodech zamýšleného postupu, způsobu jeho provedení a jeho účastnících. Žádost lze podat pouze elektronicky. Podrobnosti náležitostí žádosti, její formát a další technické náležitosti stanoví Česká národní banka vyhláškou.
+Zrušuje-li se družstevní záložna s likvidací nebo zrušuje-li se výmaz družstevní záložny z obchodního rejstříku, likvidátora družstevní záložny jmenuje a odvolává na návrh České národní banky soud. Likvidátorem může být pouze fyzická nebo právnická osoba splňující podmínky důvěryhodnosti a odborné způsobilosti a která nemá nebo neměla zvláštní vztah k družstevní záložně. V případě odnětí povolení podle § 28g a 28h nemůže být likvidátorem jmenována osoba, která v posledních 5 letech prováděla audit nebo se jinak podílela na zpracování a vedení účetnictví družstevní záložny.
+Soud rozhodne o návrhu České národní banky podle odstavců 2, 3 a 7 bez jednání a rozhodnutí vyhlásí vyvěšením jeho písemného vyhotovení bez odůvodnění na úřední desce soudu do 24 hodin od obdržení návrhu. Vyvěšením rozhodnutí nastávají právní účinky uvedené ve výroku a tím je výrok závazný pro každého; den vyhlášení se na písemném vyhotovení poznamená. Odvolání proti rozhodnutí nemá odkladný účinek.
+Náklady spojené s výkonem činnosti likvidátora jsou hrazeny z majetku družstevní záložny. Nepostačuje-li její majetek na výplatu odměny likvidátora a náhradu jeho hotových výdajů, uhradí je stát, kterému tím vznikne pohledávka za družstevní záložnou ve výši vyplacených částek. Odměnu a způsob její výplaty určuje likvidátorovi Česká národní banka. Pravidla pro stanovení a výplatu náhrady hotových výdajů a odměny likvidátora a jejich maximální výši hrazenou státem stanoví Česká národní banka vyhláškou.
+Likvidátor předkládá České národní bance bez zbytečného odkladu účetní výkazy a doklady zpracovávané v průběhu likvidace v souladu se zákonem upravujícím právní poměry obchodních společností a družstev, a na základě výzvy podle § 27 odst. 2 další vyžádané údaje, doklady a informace.
+Družstevní záložny, které jsou účastníky platebních systémů provozovaných v souladu se zvláštním zákonem nebo platebních systémů, které provozuje Česká národní banka, si na území České republiky převádějí s ostatními účastníky těchto platebních systémů peněžní prostředky v české měně podle jednotlivých položek vytvořených na základě vlastních příkazů nebo příkazů svých klientů.
+Je-li družstevní záložna účastníkem platebního systému provozovaného Českou národní bankou, vede jí Česká národní banka na základě smlouvy účet mezibankovního platebního styku v české měně. Účet mezibankovního platebního styku nemůže být předmětem výkonu rozhodnutí nebo předběžného opatření.
+Jestliže družstevní záložna, banka nebo pobočka zahraniční banky na území České republiky nezúčtovaly částku platební transakce v české měně nebo nepoužily číslo účtu nebo jiný jedinečný identifikátor v souladu s příkazem klienta a způsobily tím nesprávné provedení platební transakce, je družstevní záložna, která vede účet neoprávněného příjemce, povinna na podnět družstevní záložny, banky nebo pobočky zahraniční banky, které nesprávné provedení platební transakce způsobily, odepsat z tohoto účtu nesprávně zúčtovanou částku a vydat ji družstevní záložně, bance nebo pobočce zahraniční banky, které nesprávné provedení platební transakce způsobily, k nápravě nesprávně provedené platební transakce v souladu se zákonem upravujícím platební styk, a dále je družstevní záložna oprávněna uvést účet neoprávněného příjemce do stavu, v němž by byl, kdyby k nesprávnému provedení platební transakce nedošlo (dále jen „opravné zúčtování“).
+Podnět podle odstavce 1 lze dát do 3 měsíců ode dne vzniku chyby, v jejímž důsledku došlo k nesprávnému provedení platební transakce.
+Opravné zúčtování k tíži účtů správců daní se nepřipouští; družstevní záložna, která nesprávné provedení platební transakce způsobila, požádá o vrácení částky příslušného správce daně.
+Ustanovení odstavců 1 až 3 se vztahují i na opravné zúčtování v rámci téže družstevní záložny.
+Pojištění vkladů členů
+Družstevní záložny jsou povinny účastnit se systému pojištění pohledávek z vkladů podle části čtrnácté zákona o bankách. Ustanovení zákona o bankách, která upravují práva a povinnosti bank vyplývající z účasti v systému pojištění pohledávek z vkladů, jakož i ustanovení upravující postupy České národní banky při výpočtu, stanovení a povinnosti zaplatit příspěvek do Fondu pojištění vkladů, ustanovení upravující informační povinnost bank vůči klientům ve vztahu k systému pojištění pohledávek z vkladů, ustanovení upravující povinnost banky informovat vkladatele o fúzi nebo rozdělení banky, přeměně banky na pobočku banky z členského státu, převodu jmění na banku jakožto společníka nebo jiných podobných skutečnostech a oprávnění vkladatelů bez jakékoli sankce vybrat nebo převést své pohledávky z vkladů včetně příslušných úroků v návaznosti na tuto informaci a dále ustanovení upravující povinnosti likvidátorů, správců, insolvenčních správců a Garančního systému finančního trhu při uplatňování tohoto systému se vztahují na družstevní záložny, likvidátory a insolvenční správce obdobně, a to včetně ustanovení o odpovědnosti za jejich porušení a uplatňování příslušných sankcí. Osoba, které svědčí pojištěná pohledávka z vkladu vedeného u družstevní záložny, je oprávněnou osobou ve smyslu části čtrnácté zákona o bankách.
+Dohled nad družstevními záložnami
+Česká národní banka vykonává dohled nad činností družstevních záložen a dodržováním povinností stanovených jim tímto zákonem nebo zvláštním právním předpisem upravujícím postup při výkonu činností, které jsou družstevní záložny oprávněny vykonávat podle tohoto zákona.
+Česká národní banka může požádat o kontrolu na místě u jí dohlížených osob na území hostitelských států. Pokud Česká národní banka o provedení kontroly požádala, je oprávněna se jí zúčastnit, pokud tuto kontrolu neprovádí sama.
+Česká národní banka plní konzultační a informační povinnost vůči orgánům dohledu hostitelských států a orgánům Evropské unie. Česká národní banka a orgány hostitelských států si vyměňují informace o činnosti družstevních záložen, jež mohou usnadnit dohled nad nimi nebo zkoumání podmínek pro vydání povolení.
+Česká národní banka neprodleně informuje o vydání rozhodnutí o úpadku a o prohlášení konkursu na majetek družstevní záložny příslušný orgán dohledu členského státu Evropské unie, ve kterém má družstevní záložna pobočku. Česká národní banka usiluje o koordinaci své činnosti s orgány dohledu všech členských států Evropské unie, v nichž má družstevní záložna pobočku.
+Česká národní banka se při výkonu své působnosti podle tohoto zákona a podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky podílí na činnosti kolegií orgánů dohledu v rámci Evropského systému finančního dohledu.
+Česká národní banka se při výkonu své působnosti podle tohoto zákona a podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky podílí na činnosti Evropského orgánu pro bankovnictví.
+Česká národní banka při výkonu své působnosti podle tohoto zákona a podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky přihlíží ke sbližování nástrojů a postupů dohledu využívaných v členských státech; vychází přitom z pokynů, doporučení, standardů a jiných opatření přijatých Evropským orgánem pro bankovnictví, ledaže uvede důvody, pro které tak nečiní.
+Česká národní banka může požadovat pravidelné poskytování informací nutných k výkonu její působnosti a pro statistické účely od
+družstevní záložny,
+osoby náležející k družstevní záložně,
+osoby, která byla družstevní záložnou pověřena výkonem činnosti.
+Česká národní banka může provést kontrolu u osob uvedených v odstavci 8, pokud je to nezbytné k výkonu její působnosti; za tímto účelem může
+vyžadovat předložení dokladů,
+zkoumat knihy a záznamy a pořizovat z nich výpisy a opisy,
+získávat písemná nebo ústní vysvětlení od osob uvedených v odstavci 8, jejich zástupců a pracovníků,
+získávat ústní vysvětlení od jiné osoby, než je uvedena v odstavci 8 za podmínky, že k tomu udělí souhlas.
+Proces přezkumu a vyhodnocování
+Česká národní banka při výkonu dohledu zároveň přezkoumává a vyhodnocuje, zda uspořádání, strategie, postupy a mechanismy zavedené družstevní záložnou za účelem splnění požadavků stanovených tímto zákonem, přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky, nařízením nebo rozhodnutím Evropské komise, kapitál a likvidita družstevní záložny zajišťují bezpečný a spolehlivý provoz družstevní záložny a řádné řízení a krytí rizik. Česká národní banka vždy vyhodnocuje rizika, kterým družstevní záložna je nebo může být vystavena a rizika odhalená zátěžovými testy.
+Tento přezkum a vyhodnocování provádí Česká národní banka v periodicitě a intenzitě přiměřené velikosti, významu a postavení družstevní záložny na finančním trhu a charakteru, rozsahu a složitosti jejích činností, minimálně však jednou ročně, a v rozsahu družstevní záložně stanovených požadavků podle části první hlavy druhé nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nařízení nebo rozhodnutí Evropské komise. Při provádění přezkumu a vyhodnocování uplatňuje Česká národní banka zásadu přiměřenosti v souladu s kritérii zveřejňovanými podle § 28i odst. 1 písm. c).
+Česká národní banka přezkoumává a vyhodnocuje úvěrové, tržní a operační riziko; přezkum a vyhodnocování musí být dále zaměřeny alespoň na
+výsledky zátěžových testů prováděných družstevní záložnou podle čl. 177 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 při použití přístupu založeného na interním ratingu,
+expozice vůči riziku koncentrace a jeho řízení družstevní záložnou včetně dodržování požadavků podle části čtvrté nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nařízení nebo rozhodnutí Evropské komise,
+vhodnost, účinnost a odolnost zásad a postupů pro řízení zbytkového rizika spojeného s používáním uznatelných technik snižování úvěrového rizika, kterým se rozumí snižování úvěrového rizika podle čl. 4 odst. 1 bodu 57 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, a správnost jejich uplatňování,
+míru, v jaké kapitál udržovaný družstevní záložnou vůči aktivům, která sekuritizovala, odpovídá ekonomické podstatě dané transakce, včetně dosaženého stupně převodu rizika,
+expozice družstevní záložny vůči riziku likvidity, měření a řízení rizika likvidity včetně vypracování analýz alternativních scénářů, řízení faktorů snižujících riziko a efektivity pohotovostních plánů,
+dopady rozložení rizika a způsob, jakým jsou tyto dopady začleněny do systému měření rizika,
+výsledky zátěžových testů prováděných družstevní záložnou při používání interního modelu pro výpočet kapitálového požadavku k tržnímu riziku podle části třetí hlavy čtvrté kapitoly páté nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+geografické umístění expozic družstevní záložny,
+model podnikání družstevní záložny.
+Česká národní banka dále přezkoumává a vyhodnocuje
+celkové řízení rizika likvidity družstevní záložny; přitom prosazuje rozvoj řádných vnitřních metodik a bere v úvahu postavení družstevní záložny na finančních trzích a řádně zohlední v rozhodnutích učiněných v návaznosti na přezkum a vyhodnocování možný dopad na stabilitu finančního systému ve všech ostatních dotčených členských státech,
+expozice družstevní záložny vůči úrokovému riziku investičního portfolia, kterým se pro účely tohoto zákona rozumí portfolio, do kterého se zařazují nástroje, které se nezařazují do obchodního portfolia; Česká národní banka uloží odpovídající opatření k nápravě podle § 28 odst. 2 nebo stanoví jiné modelovací a parametrické předpoklady, než jaké stanoví přímo použitelný předpis Evropské unie vydaný podle čl. 98 odst. 5a směrnice 2013/36/EU, alespoň pokud
+se v důsledku náhlé a neočekávané změny úrokových sazeb podle kteréhokoliv z 6 dohledových šokových scénářů pro úrokové sazby stanovených přímo použitelným předpisem Evropské unie vydaným podle čl. 98 odst. 5a směrnice 2013/36/EU sníží ekonomická hodnota kapitálu družstevní záložny o více než 15 % kapitálu tier 1, nebo
+u družstevní záložny v důsledku náhlé a neočekávané změny úrokových sazeb podle jednoho ze 2 dohledových šokových scénářů pro úrokové sazby stanovených přímo použitelným předpisem Evropské unie vydaným podle čl. 98 odst. 5a směrnice 2013/36/EU dojde k velkému poklesu čistého úrokového výnosu investičního portfolia,
+expozice družstevní záložny vůči riziku nadměrné páky, kterou se pro účely tohoto zákona rozumí páka podle čl. 4 bodu 93 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, a které je identifikováno na základě ukazatelů nadměrné páky včetně pákového poměru určeného podle čl. 429 nařízení Evropského parlamentu a Rady (EU) č. 575/2013; při vyhodnocování přiměřenosti pákového poměru a při vyhodnocování uspořádání, strategií, postupů a mechanismů zavedených družstevní záložnou pro řízení rizika nadměrné páky, kterým se pro účely tohoto zákona rozumí riziko nadměrné páky podle čl. 4 odst. 1 bodu 94 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, přihlédne Česká národní banka k modelu podnikání družstevní záložny,
+řídicí a kontrolní systém družstevní záložny, podnikovou kulturu a způsobilost členů představenstva a kontrolní komise vykonávat své povinnosti; při přezkumu a vyhodnocování může Česká národní banka požadovat po družstevní záložně program jednání představenstva a kontrolní komise a jejich výborů včetně souvisejících podkladových dokumentů a výsledků vnitřního a vnějšího hodnocení činnosti představenstva a kontrolní komise.
+Česká národní banka nemusí uložit opatření k nápravě ani stanovit jiné modelovací a parametrické předpoklady podle odstavce 4 písm. b), jestliže má na základě přezkumu a vyhodnocování za to, že řízení úrokového rizika vyplývajícího z investičního portfolia ze strany družstevní záložny je přiměřené a že družstevní záložna není úrokovému riziku vyplývajícímu z investičního portfolia vystavena nadměrně.
+Česká národní banka dále přezkoumává a vyhodnocuje,
+zda družstevní záložna poskytla skrytou podporu sekuritizaci, kterou se rozumí sekuritizace podle čl. 4 bodu 61 nařízení Evropského parlamentu a Rady (EU) č. 575/2013; zjistí-li, že družstevní záložna poskytla skrytou podporu sekuritizaci ve více než jednom případě, přijme odpovídající opatření odrážející riziko, že družstevní záložna v budoucnu poskytne podporu své sekuritizaci,
+zda úpravy ocenění pozic nebo portfolií v obchodním portfoliu podle čl. 105 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nařízení nebo rozhodnutí Evropské komise umožní družstevní záložně prodat nebo krátkodobě zajistit své pozice, aniž by došlo za běžných tržních podmínek k významné ztrátě; obchodním portfoliem se pro účely tohoto zákona rozumí obchodní portfolio podle čl. 4 bodu 86 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Česká národní banka může u družstevních záložen s podobným rizikovým profilem přizpůsobit metodiku provádění procesu přezkumu a vyhodnocování s ohledem na rizikově orientovaná kritéria a kvantitativní ukazatele.
+Na podporu procesu přezkumu a vyhodnocování podle § 21a provádí Česká národní banka alespoň jednou ročně zátěžové testy družstevních záložen. Výsledek zátěžových testů může Česká národní banka uveřejnit.
+Česká národní banka pravidelně alespoň jednou za 3 roky přezkoumává dodržování podmínek, za kterých bylo družstevní záložně povoleno používání interních přístupů. Při tom se zaměřuje zejména na kvalitu a aktuálnost používaných metod a postupů, na změny v činnosti družstevní záložny a na používání interních přístupů u nových produktů.
+Česká národní banka postupuje podle plánu dohledových šetření, který je sestaven alespoň jednou ročně s přihlédnutím k výsledkům procesu přezkumu a vyhodnocování podle § 21a.
+Česká národní banka sestaví plán dohledových šetření podle odstavce 1 tak, aby nebránil orgánu dohledu jiného členského státu v provedení kontroly na místě v pobočce družstevní záložny, která vykonává svou činnost na území tohoto jiného členského státu.
+Plán dohledových šetření České národní banky zahrnuje
+seznam družstevních záložen, které mají být předmětem zvýšeného dohledu v návaznosti na opatření podle odstavce 4,
+plán kontrol na místě v obchodních místech družstevní záložny, včetně jejích poboček a ovládaných osob se sídlem v jiných členských státech,
+informaci o plánovaném způsobu plnění daných úkolů a přidělení zdrojů na jejich zajištění,
+seznam družstevních záložen, u nichž výsledky zátěžových testů podle § 21a a § 21b odst. 2 nebo výsledek procesu přezkumu a vyhodnocování podle § 21a naznačují významná rizika pro finanční zdraví nebo porušení požadavků stanovených tímto zákonem, právním předpisem, který jej provádí, rozhodnutím vydaným podle tohoto zákona, opatřením obecné povahy vydaným podle tohoto zákona, přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky, nařízením nebo rozhodnutím Evropské komise,
+seznam dalších družstevních záložen, u kterých to Česká národní banka považuje za nezbytné.
+Česká národní banka přijme v návaznosti na výsledky přezkumu a vyhodnocování podle § 21a, je-li to nezbytné, zejména tato opatření:
+zvýšit počet kontrol na místě u dané družstevní záložny,
+zajistit trvalou přítomnost zástupce České národní banky v družstevní záložně,
+vyžadovat podávání dodatečných nebo častějších informací družstevní záložnou,
+provádět dodatečný nebo častější přezkum provozních, strategických nebo obchodních plánů družstevní záložny,
+provádět kontroly zaměřené na sledování vybraných rizik, kterým by družstevní záložna mohla být vystavena,
+uložit, aby osoba podléhající jejímu dohledu udržovala kapitál nad minimální úrovní požadavků na kapitál podle čl. 92 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 za podmínek podle § 21d a 21e,
+uložit zvláštní požadavky na likviditu, včetně omezení nesouladu splatnosti aktiv a závazků, s přihlédnutím ke konkrétnímu modelu podnikání družstevní záložny, a k uspořádáním, postupům a mechanismům družstevní záložny, zejména podle § 7a odst. 1 písm. b),
+uložit opatření podle § 28 odst. 2 písm. a) bodů 2 až 10 a § 28 odst. 2 písm. b).
+Ustanovení § 28a se použije pro opatření podle odstavce 4 obdobně. Ustanovení § 28aa se nepoužije.
+Podmínky pro uložení požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování
+Česká národní banka uloží požadavek na kapitál v návaznosti na výsledky přezkumu a vyhodnocování, zjistí-li, že
+družstevní záložna je vystavena rizikům nebo prvkům rizik, které nejsou dostatečně pokryty kapitálovými požadavky podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402,
+družstevní záložna nesplňuje požadavky podle § 7a, § 8a odst. 1 a 2, právních předpisů provádějících tato ustanovení nebo podle čl. 393 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a není pravděpodobné, že by jiná opatření v oblasti dohledu stačila k zajištění souladu s uvedenými požadavky v odpovídajícím časovém rámci,
+úpravy ocenění podle § 21a odst. 6 písm. b) jsou nedostatečné k tomu, aby družstevní záložně umožnily v krátké době prodat nebo zajistit své pozice za běžných tržních podmínek bez významných ztrát,
+neplnění požadavků na používání povoleného přístupu povede pravděpodobně k nedostatečným kapitálovým požadavkům,
+družstevní záložna opakovaně neudržuje dostatečnou výši dodatečného kapitálu ke splnění pokynu sděleného podle § 21f, nebo
+jiná situace specifická pro družstevní záložnu je nebo by mohla být zdrojem významného rizika.
+Česká národní banka uloží požadavek na kapitál v návaznosti na výsledky přezkumu a vyhodnocování pouze za účelem pokrytí rizik podstupovaných družstevní záložnou v důsledku její činnosti, včetně rizik, která odrážejí dopad hospodářského vývoje nebo vývoje na finančních trzích na rizikový profil družstevní záložny.
+Pro účely odstavce 1 písm. a) platí, že rizika nebo prvky rizik nejsou dostatečně pokryty kapitálovými požadavky podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402 pouze v případě, že požadavky na objem, druh a strukturu kapitálu, který Česká národní banka považuje za přiměřený při zohlednění vnitřně stanoveného kapitálu podle § 8a, jsou přísnější než požadavky podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402.
+Pro účely odstavce 3 posoudí Česká národní banka s ohledem na rizikový profil družstevní záložny rizika, jimž je družstevní záložna vystavena, včetně rizik a prvků rizik specifických pro družstevní záložnu,
+jež jsou výslovně vyloučeny z kapitálových požadavků podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402 nebo nejsou těmito požadavky přímo pokryty, a
+u nichž hrozí podcenění i přes dodržení příslušných požadavků podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402.
+Za rizika, u nichž i přes dodržení příslušných požadavků podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402 hrozí podcenění, se nepovažují rizika v rozsahu, v jakém se na ně vztahují dočasná opatření stanovená podle tohoto zákona nebo ustanovení o ochraně předchozího stavu obsažená v nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Kapitál považovaný za přiměřený pokrývá všechna rizika, která byla na základě posouzení podle odstavce 4 označena za významná a která nejsou dostatečně pokryta kapitálovými požadavky podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402. Úrokové riziko vyplývající z investičních pozic je významné alespoň v případech podle § 21a odst. 4 písm. b), nedospěje-li Česká národní banka při provádění přezkumu a vyhodnocování k závěru, že je řízení úrokového rizika vyplývajícího z investičního portfolia ze strany družstevní záložny přiměřené a že družstevní záložna není úrokovému riziku vyplývajícímu z investičního portfolia vystavena nadměrně.
+Česká národní banka určí výši požadavku na kapitál podle § 21d v návaznosti na výsledky přezkumu a vyhodnocování za účelem krytí
+jiných rizik než rizika nadměrné páky jako rozdíl mezi kapitálem, který se považuje za přiměřený podle § 21d, a příslušnými kapitálovými požadavky podle částí třetí a čtvrté nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a podle kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402,
+rizika nadměrné páky, jako rozdíl mezi kapitálem, který se považuje za přiměřený podle § 21d, a příslušnými kapitálovými požadavky stanovenými v částech třetí a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Družstevní záložna plní požadavek na kapitál podle odstavce 1 písm. b) určený Českou národní bankou kapitálem splňujícím tyto podmínky:
+nejméně tři čtvrtiny tvoří kapitál tier 1 a
+nejméně tři čtvrtiny požadavku podle písmene a) tvoří kmenový kapitál tier 1.
+Družstevní záložna plní požadavek na kapitál podle odstavce 1 písm. b) určený Českou národní bankou kapitálem tier 1.
+Česká národní banka může, je-li to nezbytné a s ohledem na zvláštní situaci družstevní záložny, stanovit, aby družstevní záložna plnila požadavek na kapitál v návaznosti na výsledky přezkumu a vyhodnocování vyšším podílem kapitálu tier 1 nebo kmenového kapitálu tier 1, než jaký je požadován podle odstavce 2 nebo 3.
+Družstevní záložna udržuje kapitál ve výši požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování ke krytí jiných rizik než rizika nadměrné páky, a to nad rámec kapitálových požadavků podle čl. 92 odst. 1 písm. a) až c) nařízení Evropského parlamentu a Rady (EU) č. 575/2013, požadavku kombinované kapitálové rezervy, pokynu k držení dodatečného kapitálu podle § 25h, pokud tento pokyn kryje jiná rizika než riziko nadměrné páky, a požadavků na kapitál uložených jí prostřednictvím opatření k nápravě nevztahujících se k pákovému poměru.
+Družstevní záložna udržuje kapitál ve výši požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování ke krytí rizika nadměrné páky, a to nad rámec kapitálového požadavku podle čl. 92 odst. 1 písm. d) nařízení Evropského parlamentu a Rady (EU) č. 575/2013, požadavku kapitálové rezervy k pákovému poměru podle čl. 92 odst. 1a nařízení Evropského parlamentu a Rady (EU) č. 575/2013, pokynu k držení dodatečného kapitálu podle § 21f, pokud tento pokyn kryje riziko nadměrné páky, a požadavků na kapitál uložených jí prostřednictvím opatření k nápravě ve vztahu k pákovému poměru.
+Česká národní banka v odůvodnění rozhodnutí o uložení požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování uvede alespoň popis úplného posouzení všech prvků podle § 21d a odstavců 1 až 5. Pokud Česká národní banka uloží požadavek na kapitál v návaznosti na výsledky přezkumu a vyhodnocování z důvodů podle § 21d odst. 1 písm. e), uvede v odůvodnění, proč uložení pokynu k držení dodatečného kapitálu není dostatečné.
+Pokyn k držení dodatečného kapitálu
+Česká národní banka provádí v rámci přezkumu a vyhodnocování pravidelný přezkum úrovně vnitřně stanoveného kapitálu podle § 8a.
+Česká národní banka na základě přezkumu podle odstavce 1 určí a sdělí družstevní záložně pokyn k držení dodatečného kapitálu; na sdělení pokynu České národní banky se části druhá a třetí správního řádu nepoužijí. Tento pokyn zahrnuje kapitál nad rámec kapitálu požadovaného podle částí třetí, čtvrté a sedmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a kapitoly 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402, požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování, požadavku na kombinovanou kapitálovou rezervu nebo nad rámec požadavku na kapitálovou rezervu k pákovému poměru podle čl. 92 odst. 1a nařízení (EU) č. 575/2013, které jsou nezbytné k dosažení celkové úrovně kapitálu, kterou Česká národní banka považuje za vhodnou.
+Pokyn k držení kapitálu může pokrývat i rizika, která jsou řešena prostřednictvím požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování, ale pouze do té míry, v jaké tato rizika nejsou v požadavku zahrnuta.
+Kapitál použitý ke splnění pokynu k držení dodatečného kapitálu, který má pokrývat jiná rizika než riziko nadměrné páky, družstevní záložna nepoužije ke splnění kapitálových požadavků podle čl. 92 odst. 1 písm. a) až c) nařízení Evropského parlamentu a Rady (EU) č. 575/2013, požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování uloženého Českou národní bankou k pokrytí jiných rizik než rizika nadměrné páky, požadavku na kombinovanou kapitálovou rezervu ani požadavků na kapitál uložených jí prostřednictvím opatření k nápravě nevztahujících se k pákovému poměru.
+Kapitál použitý ke splnění pokynu k držení dodatečného kapitálu k řešení rizika nadměrné páky družstevní záložna nepoužije ke splnění kapitálového požadavku podle čl. 92 odst. 1 písm. d) nařízení Evropského parlamentu a Rady (EU) č. 575/2013, požadavku na kapitál v návaznosti na výsledky přezkumu a vyhodnocování uloženého Českou národní bankou k řešení rizika nadměrné páky, ani požadavku na kapitálovou rezervu k pákovému poměru podle čl. 92 odst. 1a nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a ani požadavků na kapitál uložených jí prostřednictvím opatření k nápravě ve vztahu k pákovému poměru.
+Nesplnění pokynu podle odstavce 2 nemá za následek omezení podle § 8aj odst. 4 nebo § 8av odst. 3.
+Česká národní banka zajistí úzkou spolupráci včetně výměny informací mezi všemi dotčenými útvary a útvarem vykonávajícím působnost orgánu příslušného k řešení krize, pokud uloží družstevní záložně požadavek na kapitál v návaznosti na výsledky přezkumu a vyhodnocování nebo pokud družstevní záložně sdělí pokyn k držení dodatečného kapitálu podle § 21f.
+Česká národní banka informuje Evropskou komisi o počtu a povaze případů, kdy zamítla žádost družstevní záložny o zřízení pobočky v hostitelském státě.
+Česká národní banka informuje Evropský orgán pro bankovnictví o všech významných skutečnostech získaných při jí prováděném výkonu dohledu nad družstevními záložnami důležitých pro řádný výkon dohledu v rámci Evropské unie, zejména o
+počtu a povaze případů, kdy zamítla žádost družstevní záložny o zřízení pobočky v hostitelském státě,
+udělených a odňatých povoleních,
+použití postupu podle § 28 vůči pobočce v případě, kdy věc nesnese odkladu a je to nutné v zájmu členů,
+podmínkách, které je nutno splnit pro vydání povolení podle tohoto zákona a prováděcích předpisů,
+údajích shromážděných za účelem srovnání systémů odměňování a postupů zavedených ostatními družstevními záložnami o
+počtu osob, jejichž příjmy dosahují nejméně částky odpovídající 1 000 000 eur, v členění podle jejich pracovních povinností a oblastí činností družstevní záložny,
+hlavních složkách mezd, prémií, odměn založených na výkonnosti za delší časové období a zvláštních výhod osob uvedených v bodě 1,
+fungování procesu přezkumu a vyhodnocování podle § 21a,
+metodice použité jako základ pro rozhodnutí podle § 21a odst. 3 až 5, § 21b odst. 2 a 3 a § 28 při procesu přezkumu a vyhodnocování podle § 21a odst. 3,
+případech, kdy použije § 21b odst. 1,
+názvech orgánů nebo osob, kterým smějí být sdělovány informace podle § 25a,
+výsledcích přezkumu a vyhodnocování podle § 21a, jestliže výsledky naznačují hrozící systémové riziko podle čl. 23 nařízení Evropského parlamentu a Rady (EU) č. 1093/2010 ze strany družstevní záložny; tyto informace poskytne Česká národní banka bez zbytečného odkladu,
+údajích shromážděných za účelem srovnání trendů a postupů odměňování, jakož i informacích o rozdílech v odměňování mužů a žen,
+opatřeních přijatých podle § 7ac písm. g),
+povolení zastávat další funkci nevýkonného člena podle § 7aa odst. 3,
+údajích shromážděných podle § 7ac písm. h),
+údajích získaných od družstevní záložny o rozhodnutí členů, která se týkají odměňování,
+opatřeních k nápravě uložených podle § 28 odst. 2 bodu 11, § 28 odst. 6 a pokutách uložených za přestupek podle § 27a odst. 1, § 27b odst. 2 písm. a), d), f) až i), k) až m) a § 27c odst. 1, včetně údajů o odvolání proti rozhodnutí, kterým byly tyto sankce uloženy,
+důvodném podezření z legalizace výnosů z trestné činnosti nebo financování terorismu, pokusu o ně, nebo o významné hrozbě takového rizika; v případě významné hrozby takového rizika vyhodnotí Česká národní banka situaci společně s Finančním analytickým úřadem a bez zbytečného odkladu informuje Evropský orgán pro bankovnictví o výsledku tohoto společného vyhodnocení.
+Na vyžádání Česká národní banka informuje Evropský orgán pro bankovnictví o všech skutečnostech nezbytných k plnění jeho úkolů stanovených příslušnými předpisy Evropské unie.
+Česká národní banka informuje Evropskou radu pro systémová rizika o sazbě proticyklické kapitálové rezervy podle § 8al odst. 4 a údajích podle § 8al odst. 8.
+Česká národní banka poskytne Evropskému orgánu pro bankovnictví součinnost ve všech případech, kdy Evropský orgán pro bankovnictví z vlastní iniciativy přispívá k řešení sporů mezi příslušnými orgány dohledu.
+Česká národní banka využívá údajů z databáze správních sankcí Evropského orgánu pro bankovnictví pro posouzení důvěryhodnosti členů orgánů družstevní záložny.
+Výměna informací při dohledu nad pobočkami družstevních záložen
+V rámci výkonu dohledu nad družstevními záložnami Česká národní banka spolupracuje s orgány dohledu jiných států, zejména těch, na jejichž území má družstevní záložna pobočku.
+Česká národní banka poskytuje orgánům dohledu podle odstavce 1 veškeré informace o podílech na družstevní záložně a o řízení družstevní záložny. Česká národní banka dále poskytuje veškeré informace, které mohou usnadnit dohled nad družstevní záložnou, zejména pak informace o likviditě, platební schopnosti, pojištění vkladů, kapitálových poměrech, omezení velkých expozic a dalších faktorech, které mohou mít vliv na míru systémového rizika představovaného družstevní záložnou, správních a účetních postupech a mechanismech vnitřní kontroly.
+Česká národní banka může informace podle odstavce 2 požadovat po orgánu dohledu státu, na jehož území má družstevní záložna pobočku nebo na jehož území se nachází osoba ovládající družstevní záložnu nebo osoba ovládající osobu, která ovládá družstevní záložnu.
+Česká národní banka neprodleně poskytne orgánu dohledu jiného členského státu, na jehož území vykonává družstevní záložna svou činnost prostřednictvím pobočky, veškeré informace související s dohledem nad dodržováním požadavků týkajících se likvidity podle části šesté nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a nařízení nebo rozhodnutí Evropské komise, pokud jsou tyto informace významné pro zajištění ochrany klientů nebo členů družstevní záložny nebo finanční stability v tomto členském státě. Česká národní banka neprodleně informuje příslušný orgán dohledu, pokud je ohrožena likvidita družstevní záložny nebo je-li důvodné podezření, že bude ohrožena likvidita družstevní záložny. V takovém případě sdělí Česká národní banka příslušnému orgánu dohledu informace o plánu na obnovení likvidity, způsobu jeho provedení a opatřeních, která v této souvislosti přijala. Česká národní banka sdělí na žádost orgánu dohledu jiného členského státu, na jehož území vykonává družstevní záložna činnost prostřednictvím své pobočky, jak zohlednila informace, které od něj obdržela.
+Česká národní banka se může obrátit na Evropský orgán pro bankovnictví a požádat jej o urovnání sporu podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví, pokud nesouhlasí s opatřeními, která přijal orgán dohledu jiného členského státu, na jehož území družstevní záložna vykonává činnost prostřednictvím pobočky.
+Česká národní banka může informovat Evropský orgán pro bankovnictví, pokud orgán dohledu jiného členského státu odmítne žádost České národní banky o spolupráci, zejména o poskytnutí informací, nebo neposkytne požadovanou informaci v přiměřené lhůtě.
+Pobočka družstevní záložny, jejímž prostřednictvím vykonává družstevní záložna svou činnost na území hostitelského státu, může být orgánem dohledu tohoto státu označena v souladu s právem Evropské unie za významnou (dále jen „významná pobočka“).
+Česká národní banka je příslušná k dohodě o označení pobočky družstevní záložny za významnou, jestliže tato družstevní záložna vykonává prostřednictvím této pobočky činnost v jiném členském státě a orgán dohledu hostitelského státu informoval Českou národní banku o záměru označit tuto pobočku za významnou a sdělil jí důvody, které jej vedou k tomuto záměru v souladu s právem Evropské unie. Česká národní banka vyvíjí úsilí k tomu, aby k této dohodě došlo do 2 měsíců ode dne, kdy byla informována o záměru označit pobočku za významnou.
+Pokud družstevní záložna vykonává činnost na území hostitelského státu prostřednictvím významné pobočky, sdělí Česká národní banka orgánům dohledu tohoto státu informace o
+vývoji v družstevní záložně nebo jiné osobě ve skupině, který může vážně ohrozit finanční situaci družstevní záložny ve skupině,
+závažných sankcích a opatřeních k nápravě mimořádného významu uložených družstevní záložně podle tohoto zákona, zejména požadavku na zvýšení kapitálu podle § 28 odst. 2 písm. a), a o neudělení souhlasu s používáním interního přístupu nebo interního modelu k výpočtu kapitálového požadavku nebo neudělení souhlasu se změnou používaného interního přístupu nebo interního modelu,
+výsledcích procesu přezkumu a vyhodnocování podle § 21a,
+posouzení rizik skupiny podle § 25k odst. 2,
+rozhodnutí o opatření k nápravě, které družstevní záložně uloží, pokud je rozhodnutí významné pro tuto pobočku.
+Pokud Česká národní banka zjistí nepříznivý vývoj v družstevní záložně, která vykonává činnost prostřednictvím významné pobočky na území hostitelského státu, informuje bez zbytečného odkladu příslušné centrální banky Evropského systému centrálních bank za podmínek uvedených v § 25a odst. 4 písm. i) a orgány veřejné moci podle § 25a odst. 4 písm. k) v členských státech dotčených tímto vývojem.
+Pokud družstevní záložna vykonává činnost na území hostitelského státu prostřednictvím významné pobočky, zřizuje Česká národní banka k plnění úkolů podle odstavců 3 a 4 a § 22a kolegium orgánů dohledu (dále jen „kolegium“). Zřízení a činnost kolegia jsou založeny na písemných ujednáních o koordinaci a spolupráci podle zákona upravujícího činnost bank, která připravuje Česká národní banka po projednání s orgány dohledu podle odstavce 3. Členy kolegia jsou Česká národní banka a orgány dohledu hostitelských států, v nichž družstevní záložna vykonává činnost prostřednictvím významné pobočky.
+Česká národní banka řídí jednání kolegia a určuje, kteří členové se účastní jednání nebo jiné činnosti kolegia. Přitom bere v úvahu význam těchto činností pro plnění povinností jí stanovených podle odstavců 2 a 3, jakož i jejich význam pro členy kolegia. Na základě dostupných informací zejména přihlíží k možnému dopadu na stabilitu finančního systému v dotčených členských státech.
+Česká národní banka vyvíjí úsilí k tomu, aby členové kolegia úzce spolupracovali. Česká národní banka informuje s dostatečným předstihem členy kolegia o jednání kolegia, pořadu jednání a plánovaných činnostech a bez zbytečného odkladu je informuje o závěrech přijatých na jednání nebo o jiné dohodnuté činnosti.
+Pokud družstevní záložna vykonává činnost na území hostitelského státu prostřednictvím významné pobočky, konzultuje Česká národní banka s orgánem dohledu tohoto členského státu plán na obnovení likvidity družstevní záložny za podmínky, že existuje riziko likvidity, které by mohlo mít významný dopad na měnu hostitelského státu.
+Povinnosti uvedené v odstavcích 3 až 8 vykonává Česká národní banka poté, kdy se dohodla o označení pobočky za významnou podle odstavce 2 nebo poté, kdy byla o označení pobočky družstevní záložny za významnou informována příslušným orgánem dohledu hostitelského státu.
+Česká národní banka při výkonu dohledu nad družstevní záložnou, která vykonává činnost na území hostitelského státu prostřednictvím pobočky, zohlední při sestavování plánu dohledových šetření podle § 21c informace získané orgánem dohledu hostitelského státu při kontrole na místě.
+Při výkonu dohledu formou kontroly na místě se vztahy mezi Českou národní bankou a osobami podléhajícími tomuto dohledu řídí kontrolním řádem.
+Povinnost mlčenlivosti
+Osoby provádějící dohled nad činností družstevních záložen jsou povinny zachovávat mlčenlivost o všech skutečnostech, o nichž se dozvěděly v souvislosti s výkonem svého povolání, zaměstnání nebo funkce. Mohou poskytovat třetím osobám informace pouze v souhrnné podobě, u nichž nelze identifikovat, o kterou konkrétní družstevní záložnu či člena družstevní záložny se jedná. Povinnost mlčenlivosti trvá i po skončení pracovněprávního nebo jiného obdobného vztahu.
+Informace získané při výkonu své činnosti mohou osoby uvedené v odstavci 1 použít pouze k plnění úkolů České národní banky nebo v soudním řízení o žalobě ohledně rozhodnutí učiněného v souvislosti s výkonem dohledu nebo v obdobném řízení před mezinárodním orgánem.
+Za porušení povinnosti mlčenlivosti se nepovažuje
+poskytnutí informací získaných v souvislosti s výkonem dohledu orgánu činnému v trestním řízení v České republice,
+poskytnutí informací orgánu dohledu nebo doplňkového dohledu nad osobami ve finančním konglomerátu nebo nad finančními institucemi nebo finančními trhy nebo úvěrovými institucemi v jiném státě a Evropské komisi,
+uveřejnění výsledku zátěžových testů provedených podle § 21b odst. 2 nebo podle přímo použitelného předpisu Evropské unie upravujícího dohled nad finančním trhem v oblasti bankovnictví a
+poskytnutí informací Evropskému parlamentu pro účely výkonu vyšetřovacích pravomocí podle čl. 226 Smlouvy o fungování Evropské unie.
+Za porušení povinnosti mlčenlivosti se při dodržení ustanovení tohoto zákona nepovažuje poskytnutí informací získaných v souvislosti s výkonem dohledu veřejným orgánům a dalším osobám v České republice, jsou-li informace poskytovány pro plnění funkce
+orgánů působících při likvidaci nebo úpadku u družstevní záložny,
+dohledu nad orgánem podle písmene a),
+auditora zákonem stanovené účetní závěrky družstevní záložny,
+dohledu nad auditorem stanovené účetní závěrky družstevní záložny,
+dohledu nad dodržováním práva obchodních společností,
+boje proti legalizaci výnosů z trestné činnosti a financování terorismu nebo provádění mezinárodních sankcí za účelem udržování mezinárodního míru a bezpečnosti, ochrany základních lidských práv a boje proti terorismu,
+dohledu nad platebními nebo vypořádacími systémy,
+provozovatele platebního nebo vypořádacího systému,
+České národní banky jako ústřední banky České republiky a orgánu vykonávajícímu dohled nad finančním trhem,
+systémů pojištění pohledávek z vkladů, systémů pojištění investorů a mechanismů financování řešení krize,
+orgánu veřejné moci, do jehož působnosti náleží příprava právních předpisů týkajících se dohledu nad úvěrovými institucemi a finančními institucemi, jakož i osob pověřených těmito orgány k výkonu kontrolní činnosti,
+jiné osoby nebo orgánu, kde poskytnutí informací je nezbytné k řešení krize a není porušením mlčenlivosti podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu,
+Policie České republiky pro účely pátrání po hledané nebo pohřešované osobě nebo předcházení a odhalování konkrétních hrozeb v oblasti terorismu podle zákona o Policii České republiky, nebo
+Generální inspekce bezpečnostních sborů pro účely pátrání po hledané osobě podle zákona o Generální inspekci bezpečnostních sborů.
+Odstavec 4 se použije pro poskytování informací veřejným orgánům a dalším osobám v členských státech a s výjimkou orgánů uvedených v odstavci 4 písm. g), h), i) a k) též v jiných státech a Evropské centrální bance, Evropskému orgánu pro bankovnictví a Evropské radě pro systémová rizika obdobně, přičemž při poskytnutí informací podle odstavce 4 písm. e) mohou být takové informace poskytnuty pouze po předchozím sdělení jmen a přesného vymezení úkolů osob, jimž mají být tyto informace předány.
+Informace získané v souvislosti s výkonem dohledu mohou být poskytovány též orgánům Evropské unie, je-li to zapotřebí ke splnění závazků vyplývajících z mezinárodní smlouvy, a dále příslušným orgánům dohledu nebo subjektům odpovědným za uplatňování pravidel týkajících se strukturálního oddělení v rámci skupiny.
+Informace získané v souvislosti s výkonem dohledu mohou být na výslovnou žádost poskytovány též
+Mezinárodnímu měnovému fondu a Světové bance pro účely hodnocení v rámci programu hodnocení finančního sektoru,
+Bance pro mezinárodní platby pro účely kvantitativních studií dopadu,
+Radě pro finanční stabilitu pro účely její dohledové funkce.
+Poskytnutí informací podle odstavců 3 až 7 je možné pouze za podmínky, že pro jejich příjemce je zaveden režim ochrany informací nejméně v rozsahu, jaký je požadován právem Evropské unie.
+Poskytnutí informací podle odstavce 7 je dále možné, pouze pokud
+mají souhrnnou, či anonymizovanou podobu, přičemž jiné informace je možné poskytnout jen v prostorách České národní banky,
+je žádost dostatečně odůvodněna s ohledem na konkrétní úkoly žadatele v souladu s jeho mandátem stanoveným příslušnými mezinárodními smlouvami nebo úmluvami upravujícími jeho činnost,
+je žádost dostatečně konkrétní, pokud jde o povahu, rozsah a formát požadovaných informací a způsob jejich sdělení nebo předání,
+požadované informace jsou nezbytně nutné k plnění konkrétních úkolů žadatele a nepřesahují rámec úkolů, jež jsou mu stanoveny příslušnými mezinárodními smlouvami nebo úmluvami upravujícími jeho činnost, a
+žadatel podle odstavce 7 poskytne dostatečné záruky, že informace budou předány nebo sděleny výlučně osobám přímo zapojeným do plnění konkrétního úkolu a že tyto informace budou chráněny profesním tajemstvím nejméně v rozsahu povinnosti mlčenlivosti podle tohoto zákona.
+Informace získané od orgánů hostitelských států nemohou být použity k jinému účelu než k tomu, pro který byly poskytnuty, a nesmí být bez souhlasu poskytovatele poskytnuty třetí osobě. Informace získané v rámci dohledu na místě v rámci jiného státu nesmí být bez souhlasu orgánů dohledu tohoto státu poskytnuty třetí osobě.
+Družstevní záložna je povinna zachovávat v tajnosti a chránit před zneužitím údaje o svém členovi a o jeho obchodech s družstevní záložnou.
+Zprávu o údajích, které je družstevní záložna povinna zachovávat v tajnosti a chránit před zneužitím, je družstevní záložna povinna podat osobám pověřeným výkonem dohledu. Za porušení ustanovení odstavce 1 se nepovažuje výměna informací mezi Českou národní bankou a orgány dohledu a obdobnými orgány jiných států, jestliže předmětem výměny jsou informace o subjektech, které působí nebo hodlají působit na území příslušného státu. Porušením povinnosti stanovené v odstavci 1 rovněž není sdělení údajů o členovi družstevní záložny a jeho obchodech při podání trestního oznámení, při plnění oznamovací povinnosti podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu nebo zákona o provádění mezinárodních sankcí, při plnění povinnosti poskytovat údaje z evidence o přeshraničních platbách a jejich příjemcích podle zákona upravujícího daň z přidané hodnoty nebo při plnění povinnosti předávat údaje podle zákona o centrální evidenci účtů. Porušením povinnosti stanovené v odstavci 1 není ani předání informací jinému poskytovateli platebních služeb nebo v rámci platebního systému, pokud je to nezbytné z důvodu předcházení podvodům v oblasti platebního styku, jejich vyšetřování a odhalování.
+Zprávu o údajích, které je družstevní záložna povinna zachovávat v tajnosti a chránit před zneužitím, podá družstevní záložna bez souhlasu člena jen na písemné vyžádání
+soudu pro účely občanského soudního řízení,
+orgánu činného v trestním řízení za podmínek, které stanoví zvláštní zákon,
+správců daně za podmínek podle daňového řádu nebo pro účely plnění povinnosti poskytovat údaje z evidence o přeshraničních platbách a jejich příjemcích podle zákona upravujícího daň z přidané hodnoty,
+příslušného orgánu podle zákona o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu nebo zákona o provádění mezinárodních sankcí,
+orgánů sociálního zabezpečení ve věci řízení o pojistném na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti, které člen družstevní záložny dluží, orgánů sociálního zabezpečení nebo obecních úřadů obcí s rozšířenou působností nebo pověřených obecních úřadů ve věci řízení o přeplatku na dávkách sociálního zabezpečení nebo orgánů státní sociální podpory ve věci řízení o přeplatku na dávkách státní sociální podpory, který je člen družstevní záložny povinen vrátit; to platí i pro vymáhání tohoto pojistného, příspěvku a přeplatku,
+zdravotních pojišťoven ve věci řízení o pojistném na veřejné zdravotní pojištění, které člen družstevní záložny dluží; to platí i pro vymáhání tohoto pojistného,
+soudního exekutora pověřeného provedením exekuce podle zvláštního zákona,
+Úřadu práce České republiky ve věci řízení o vrácení finančních prostředků poskytnutých členovi družstevní záložny ze státního rozpočtu; to platí i pro vymáhání těchto prostředků,
+Národního bezpečnostního úřadu, zpravodajské služby nebo Ministerstva vnitra při provádění bezpečnostního řízení podle zvláštního zákona,
+zpravodajské služby za účelem plnění konkrétního úkolu v její působnosti podle zákona upravujícího činnost zpravodajských služeb České republiky se souhlasem soudce; pro vyžádání zprávy se použijí ustanovení zákona upravujícího činnost zpravodajských služeb České republiky,
+Policie České republiky pro účely pátrání po hledané nebo pohřešované osobě nebo předcházení a odhalování konkrétních hrozeb v oblasti terorismu podle zákona o Policii České republiky,
+Generální inspekce bezpečnostních sborů pro účely pátrání po hledané osobě podle zákona o Generální inspekci bezpečnostních sborů, nebo
+Ministerstva financí pro účely zajištění koordinace spolupráce s Evropským úřadem pro boj proti podvodům za podmínek stanovených zákonem o koordinaci spolupráce s Evropským úřadem pro boj proti podvodům.
+Písemné vyžádání musí obsahovat údaje, podle nichž může družstevní záložna příslušnou záležitost identifikovat.
+Družstevní záložna je povinna sdělit i bez souhlasu člena na písemné vyžádání orgánů sociálního zabezpečení ve věci řízení o vrácení dávky připsané na účet člena po dni, za který náležela poslední výplata dávky zemřelého oprávněného, včetně jejího vymáhání, identifikační údaje o svém členovi, který je majitelem účtu, a osobách oprávněných nakládat s peněžními prostředky na tomto účtu a údaje o záležitostech týkajících se tohoto účtu. Družstevní záložna je rovněž povinna po úmrtí člena sdělit tyto údaje na písemné vyžádání Úřadu práce České republiky.
+Družstevní záložna je povinna i bez souhlasu člena poskytnout příslušnému orgánu podle zákona upravujícího ochranu spotřebitele na písemné vyžádání a za podmínek stanovených zákonem upravujícím ochranu spotřebitele číslo nebo jiný jedinečný identifikátor účtu, který vedla nebo vede, identifikační údaje o svém členovi, který byl nebo je majitelem tohoto účtu, a údaje o zmocněnci, který byl nebo je oprávněn nakládat s peněžními prostředky na tomto účtu.
+Za podání zprávy podle odstavce 3 písm. a) a g) náleží družstevní záložně úhrada věcných nákladů.
+Družstevní záložna je povinna i bez souhlasu svého člena sdělit osobě oprávněné za účelem výkonu rozhodnutí nebo daňové exekuce číslo účtu svého člena včetně identifikačního kódu družstevní záložny a identifikační údaje o svém členovi, který je majitelem účtu. Stejná povinnost družstevní záložny platí i ve vztahu k osobě, která prokáže, že v důsledku vlastní chybné dispozice družstevní záložně utrpěla škodu a že se bez tohoto údaje nemůže domoci svého práva na vydání bezdůvodného obohacení ve smyslu občanského zákoníku. Za podání informace náleží družstevní záložně úhrada věcných nákladů.
+Zprávu o údajích, které je družstevní záložna povinna zachovávat v tajnosti a chránit před zneužitím, podá družstevní záložna v souvislosti se svým podnikáním na území jiného státu i bez souhlasu člena, pokud je to nutné ke splnění povinnosti uložené právním řádem státu, na jehož území podniká.
+Údaje, na které se vztahuje povinnost mlčenlivosti, může družstevní záložna poskytovat, je-li to potřebné pro účely dohledu na konsolidovaném základě nebo doplňkového dohledu orgánu, který tento dohled vykonává.
+Údaje, na které se vztahuje povinnost mlčenlivosti, může družstevní záložna poskytovat, je-li je potřebné poskytnout, ovládající osobě za účelem přípravy výkazů na konsolidovaném základě a pro účely plnění pravidel obezřetného podnikání.
+Pracovníci a členové orgánů družstevní záložny jsou povinni zachovávat mlčenlivost ve služebních věcech dotýkajících se zájmů družstevní záložny a jejích členů. Z důvodů uvedených v § 25b odst. 2, 3, 4 a 7 je představenstvo této povinnosti zprostí.
+Pracovníci a členové orgánů družstevní záložny jsou povinni zachovávat mlčenlivost o údajích, které jim byly poskytnuty za účelem vyřízení vyžádání údajů, které je družstevní záložna povinna zachovávat v tajnosti a chránit před zneužitím, podle § 25b odst. 3 písm. j). Tuto povinnost jsou povinni zachovávat vůči členovi i všem dalším osobám; porušením této povinnosti není poskytnutí údaje podle věty první pracovníkovi nebo členovi orgánu téže družstevní záložny, pokud je to nutné pro výkon jeho funkce nebo pracovní činnosti.
+Povinnost zachovávat mlčenlivost trvá i po skončení pracovněprávního vztahu nebo jiného obdobného vztahu.
+Česká národní banka před
+rozhodnutím podle § 2b odst. 3,
+uložením závažné sankce nebo opatření k nápravě mimořádného významu družstevní záložně, zejména požadavku na zvýšení kapitálu podle § 28 odst. 2 písm. a) bodu 1,
+zamítnutím žádosti o udělení souhlasu s používáním interního přístupu k výpočtu kapitálového požadavku podle čl. 312 odst. 2 nařízení Evropského parlamentu a Rady (EU) č. 575/2013
+konzultuje tuto skutečnost s orgánem vykonávajícím dohled na konsolidovaném základě v případě skupiny, jejímž členem je dotčená družstevní záložna, a s dalšími orgány, kterých se tato skutečnost rovněž týká.
+Česká národní banka nemusí konzultovat skutečnosti podle odstavce 1, nesnese-li věc odkladu nebo by taková konzultace mohla ohrozit účel rozhodnutí. V takovém případě informuje uvedené orgány dohledu bez zbytečného odkladu.
+Zjistí-li Česká národní banka při výkonu dohledu nad družstevní záložnou mimořádnou situaci, jež může mít dopad v České republice, Česká národní banka informuje bez zbytečného odkladu o této skutečnosti
+centrální banky Evropského systému centrálních bank v členských státech dotčených touto situací za podmínek uvedených v § 25a odst. 4 písm. i) a
+orgány veřejné moci uvedené v § 25a odst. 4 písm. k) v členských státech dotčených touto situací, jsou-li pro ně tyto informace významné.
+Nebylo-li dosaženo dohody mezi orgánem určeným k výkonu dohledu na konsolidovaném základě a Českou národní bankou o uložení opatření nebo sdělení pokynu Českou národní bankou družstevní záložně ovládané evropskou ovládající úvěrovou institucí, evropským ovládajícím investičním podnikem, evropskou finanční holdingovou osobou nebo evropskou smíšenou finanční holdingovou osobou, a to ve lhůtě 4 měsíců ode dne, kdy orgán určený k výkonu dohledu na konsolidovaném základě předložil České národní bance zprávu o posouzení krytí rizik kapitálem skupiny, zprávu o držení dodatečného kapitálu touto skupinou, nebo zprávu o posouzení rizika likvidity této skupiny, je Česká národní banka příslušná uvedené družstevní záložně uložit samostatně na individuálním nebo subkonsolidovaném základě opatření podle § 21c odst. 4 písm. f) nebo g) nebo sdělit pokyn podle § 21f; přitom přihlédne k posouzení rizik členů této skupiny vyjádřenému ve stanovisku příslušných orgánů určených k výkonu dohledu nad členy této skupiny a těmto orgánům zašle na vědomí stejnopis vydaného rozhodnutí.
+Česká národní banka může ve lhůtě 7 dnů před uplynutím lhůty podle odstavce 1 požádat Evropský orgán pro bankovnictví o urovnání sporu podle čl. 19 nařízení Evropského parlamentu a Rady (EU) č. 1093/2010; pokud Česká národní banka nebo příslušné orgány určené k výkonu dohledu nad členy dotčené skupiny uvedené v odstavci 1 požádají o toto urovnání sporu, přeruší Česká národní banka řízení o uložení opatření nebo sdělení pokynu do vydání rozhodnutí Evropským orgánem pro bankovnictví.
+Před vydáním rozhodnutí podle odstavce 1 si Česká národní banka může vyžádat stanovisko Evropského orgánu pro bankovnictví. Jestliže bylo před vydáním rozhodnutí podle odstavce 1 vyžádáno stanovisko Evropského orgánu pro bankovnictví, Česká národní banka z něho vychází, ledaže v odůvodnění rozhodnutí uvede důvody, pro které se od tohoto stanoviska odchyluje.
+Česká národní banka přezkoumává rozhodnutí podle odstavce 1 nejméně jednou za rok postupem uvedeným v odstavcích 1 a 2. Česká národní banka může tato rozhodnutí přezkoumat na odůvodněný písemný podnět orgánu vykonávajícího dohled nad členem dotčené skupiny. V takovém případě lze rozhodnutí podle odstavce 1 přezkoumat také jen v rozsahu tohoto podnětu.
+Družstevní záložna je povinna udržovat kapitál nad minimální úrovní a plnit zvláštní požadavky na likviditu, je-li jí tato povinnost uložena rozhodnutím vydaným, v dohodě s Českou národní bankou, orgánem jiného členského státu vykonávajícím dohled na konsolidovaném základě.
+Pokyn k držení dodatečného kapitálu určí a sdělí družstevní záložně příslušný orgán jiného členského státu určený k výkonu dohledu na konsolidovaném základě po dohodě s Českou národní bankou.
+Družstevní záložna je povinna vypracovat a předkládat České národní bance informace a podklady, jejichž obsah, formu, lhůty a způsob předkládání stanoví Česká národní banka vyhláškou.
+Mimo informace a podklady podle odstavce 1 je Česká národní banka oprávněna vyzvat družstevní záložnu k předložení dalších údajů, dokladů nebo informací. Družstevní záložna je povinna předložit vyžádané údaje, doklady nebo informace do 3 dnů od doručení výzvy, není-li ve výzvě stanovena lhůta pozdější.
+Družstevní záložna je povinna informovat Českou národní banku o zamýšlené změně stanov týkající se skutečností, které musí být ve stanovách uvedeny na základě požadavku zákona. Ověřené kopie stanov a jejich změny musí být uloženy u České národní banky.
+Pro předkládání písemností podle odstavců 1 až 3 se použijí ustanovení správního řádu o jednacím jazyku přiměřeně; v případě pochybností může Česká národní banka vyžádat úředně ověřený překlad do jazyka českého následně.
+Přestupky
+Přestupky fyzických osob
+Fyzická osoba se dopustí přestupku tím, že
+zahájí činnost, ke které je třeba povolení podle tohoto zákona, bez tohoto povolení,
+nabude kvalifikovanou účast na družstevní záložně nebo ji zvýší tak, že dosáhne podílů na základním kapitálu nebo hlasovacích právech uvedených v § 2b odst. 3, bez předchozího souhlasu České národní banky,
+ovládne družstevní záložnu bez předchozího souhlasu České národní banky podle § 2b odst. 3, nebo
+užívá označení „spořitelní a úvěrní družstvo“ nebo „družstevní záložna“ nebo „úvěrní družstvo“ v rozporu s § 1 odst. 3.
+Fyzická osoba jako osoba podléhající dohledu České národní banky se dopustí přestupku tím, že nesplní některou z povinností stanovenou kontrolním řádem.
+Pracovník nebo člen voleného orgánu družstevní záložny se dopustí přestupku tím, že poruší povinnost zachovávat mlčenlivost podle § 25c.
+Člen voleného orgánu družstevní záložny se dopustí přestupku tím, že neinformuje neprodleně Českou národní banku o skutečnostech uvedených v § 6 odst. 10.
+Člen úvěrové komise nebo člen družstevní záložny, jemuž byla podle stanov svěřena pravomoc rozhodovat o poskytnutí úvěru, se dopustí přestupku tím, že se stane ručitelem úvěru, o jehož poskytnutí rozhoduje.
+Insolvenční správce družstevní záložny se dopustí přestupku tím, že na žádost České národní banky nesvolá do 30 dnů od doručení žádosti členskou schůzi družstevní záložny výhradně za účelem schválení řádné účetní závěrky (§ 5a odst. 4).
+Fyzická osoba se dopustí přestupku tím, že jako osoba vykonávající funkci likvidátora poruší povinnost vykonávat funkci s péčí řádného hospodáře.
+Člen představenstva nebo člen kontrolní komise družstevní záložny se dopustí přestupku tím, že neprodleně neinformuje Českou národní banku podle § 28ab.
+Za přestupek lze uložit pokutu do
+200 000 Kč, jde-li o přestupek podle odstavce 5,
+500 000 Kč, jde-li o přestupek podle odstavce 6 nebo 7,
+1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. d) nebo odstavce 3 nebo 4,
+5 000 000 Kč, jde-li o přestupek podle odstavce 2 nebo 8,
+dvojnásobku výše neoprávněného prospěchu, jde-li o přestupek podle odstavce 1 písm. a), b) nebo c); není-li možné výši neoprávněného prospěchu zjistit, lze uložit pokutu do 130 000 000 Kč.
+Přestupky družstevní záložny
+Družstevní záložna se dopustí přestupku tím, že
+uskuteční činnost v rozporu s vydaným povolením [§ 1 odst. 5 písm. a)],
+nesplní povinnost stanovenou v rozhodnutí České národní banky podle § 28,
+neuveřejní schválenou účetní závěrku, výroční zprávu nebo opis povolení (§ 1 odst. 6),
+neoprávněně nabude přímý nebo nepřímý podíl na základním kapitálu právnické osoby, stane se členem, společníkem nebo akcionářem právnické osoby nebo jiným způsobem nabude vliv na řízení právnické osoby (§ 1 odst. 9),
+připustí na členské schůzi účast osoby, které Česká národní banka pozastavila práva podle § 2c odst. 1,
+zřídí pobočku na území hostitelského státu bez souhlasu České národní banky (§ 2d odst. 1) nebo změní skutečnosti týkající se činnosti pobočky na území hostitelského státu v rozporu s ustanovením § 2e odst. 2,
+začne podnikat na území hostitelského státu bez založení pobočky, aniž by tento svůj záměr včetně specifikace vykonávané činnosti předem oznámila České národní bance (§ 2f),
+neposkytne na vyžádání hostitelského státu informace a pravidelná hlášení ve formě statistických údajů o podnikání své pobočky na území tohoto hostitelského státu v souladu s § 2g odst. 2,
+svým jednáním nebo jednáním své pobočky na území hostitelského státu porušuje ustanovení právních předpisů hostitelského státu nebo přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky,
+nabude majetek v rozporu s ustanovením § 3 odst. 2 a 3,
+poruší povinnosti stanovené zvláštním právním předpisem pro uzavírání smluv o finančních službách uzavíraných na dálku,
+použije úvěrové hodnocení pro výpočet kapitálových požadavků v rozporu s tímto zákonem, nebo
+nevykonává činnost s odbornou péčí podle § 7af.
+Družstevní záložna se dopustí přestupku tím, že
+její řídicí a kontrolní systém nesplňuje všechny požadavky stanovené tímto zákonem, právním předpisem jej provádějícím, rozhodnutím nebo opatřením obecné povahy vydaným podle tohoto zákona, přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky, nařízením nebo rozhodnutím Evropské komise,
+neposkytne právnické osobě nebo fyzické osobě v souvislosti s jejím podnikáním bez zbytečného odkladu písemné vysvětlení jejího úvěrového hodnocení podle čl. 431 odst. 5 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+nedodrží pravidla pro stanovení kapitálu, určení jednotlivých kapitálových požadavků a podmínky pro užívání interních přístupů a interních modelů pro výpočet kapitálových požadavků podle části druhé a třetí nařízení Evropského parlamentu a Rady (EU) č. 575/2013 a opatření obecné povahy České národní banky podle § 9a,
+nesdělí České národní bance údaje, nebo sdělí neúplné nebo nesprávné údaje podle části sedmé A nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nařízení nebo rozhodnutí Evropské komise,
+použije nebo změní interní přístup pro výpočet kapitálového požadavku bez předchozího souhlasu České národní banky nebo jiného orgánu dohledu členského státu, nebo tyto přístupy používá v rozporu se závaznými podmínkami stanovenými v tomto souhlasu podle čl. 143 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nařízení nebo rozhodnutí Evropské komise,
+nesplní některou z povinností nebo poruší některý ze zákazů uvedených v kapitole 2 nařízení Evropského parlamentu a Rady (EU) 2017/2402,
+se vystaví expozici přesahující limity stanovené v čl. 395 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nařízení nebo rozhodnutí Evropské komise a opatření obecné povahy České národní banky podle § 9a,
+neudržuje opakovaně nebo po delší dobu likvidní prostředky podle čl. 412 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+nezpřístupní informace v rozsahu a způsobem stanoveným v části osmé nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nařízením nebo rozhodnutím Evropské komise nebo tyto informace zpřístupní s neúplnými nebo nesprávnými údaji,
+rozdělí kmenový kapitál tier 1 v rozporu s tímto zákonem,
+nesplní některou z informačních povinností podle § 2c odst. 3,
+poskytne plnění držitelům nástrojů zahrnutých v kapitálu družstevní záložny v rozporu s čl. 28, 51 nebo 63 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, nebo
+umožní osobě, která nesplňuje požadavky tohoto zákona na člena představenstva, kontrolní komise nebo úvěrové komise družstevní záložny, stát se nebo zůstat členem tohoto orgánu.
+Družstevní záložna se dopustí přestupku tím, že
+nevypracuje výroční zprávu, nepředloží ji spolu s řádnou účetní závěrkou ke schválení členské schůzi do 6 měsíců po ukončení účetního období, za které je vypracovávána, nebo schválenou výroční zprávu nezašle České národní bance do 10 dnů od jejího schválení (§ 6 odst. 6),
+poskytne osobám uvedeným v § 7 odst. 1 úvěr za výhodnějších podmínek, než jsou podmínky, za jakých poskytuje úvěry ostatním svým členům (§ 7 odst. 1),
+neuvede ve výroční zprávě údaje o poskytnutí úvěrů osobám uvedeným v § 7 odst. 1 v souladu s ustanovením § 7 odst. 4,
+nedoručí České národní bance do 10 pracovních dnů ode dne zvolení člena orgánu družstevní záložny žádost o posouzení podmínek pro výkon jeho funkce, včetně listin osvědčujících splnění těchto podmínek (§ 7 odst. 7),
+nabude pohledávku vázanou podmínkou podřízenosti v rozporu s § 1 odst. 5 písm. e),
+neoznámí České národní bance vybraného auditora nebo nového auditora v případě, že původně navržený auditor byl Českou národní bankou odmítnut (§ 8b odst. 3),
+v rozporu s § 9 odst. 2
+nerozhodne při schvalování účetní závěrky za příslušné období o uhrazení vykázané ztráty z vlastních zdrojů, nebo
+neuhradí ztrátu bez zbytečného odkladu po rozhodnutí členské schůze,
+nevypočte řádně příspěvek do Fondu pojištění vkladů nebo příspěvek řádně a včas nezaplatí (§ 14),
+neprovede opravné zúčtování v souladu s ustanovením § 13b odst. 1,
+poruší povinnost zachovávat v tajnosti a chránit před zneužitím údaje o svém členovi a jeho obchodech s družstevní záložnou (§ 25b),
+nepodá zprávu o údajích, které je povinna zachovávat v tajnosti a chránit před zneužitím, subjektům uvedeným v § 25b odst. 3, 4 nebo 6,
+nepředloží nebo neposkytne informace anebo podklady podle § 27 odst. 1, 2 nebo 3,
+nevede agendu každé smlouvy uzavírané s klientem podle § 12a,
+v rozporu s § 12 nezavede účinný postup pro vyřizování stížností klientů nebo o tomto postupu neinformuje, nebo
+nesplní některou z povinností podle § 7aa odst. 1.
+Za přestupek lze uložit pokutu do
+2 000 000 Kč, jde-li o přestupek podle odstavce 3 písm. f), i) nebo m),
+5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. c) nebo odstavce 3 písm. a), c), n) nebo o),
+20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), b), d), e), f), g), h), i), j), k), l) nebo m) nebo odstavce 3 písm. b), d), e), g), h), j), k) nebo l),
+126 650 000 Kč, jde-li o přestupek podle odstavce 2 písm. f),
+dvojnásobku výše neoprávněného prospěchu, jde-li o přestupek podle odstavce 2 a spáchala-li ho právnická osoba; není-li možné výši neoprávněného prospěchu zjistit, lze uložit pokutu do výše 10 % čistého ročního obratu dosaženého právnickou osobou za bezprostředně předcházející účetní období, který zahrnuje položky uvedené v čl. 316 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+dvojnásobku výše neoprávněného prospěchu, jde-li o přestupek podle odstavce 2 a spáchala-li ho ovládaná osoba; není-li možné výši neoprávněného prospěchu zjistit, lze uložit pokutu do výše 10 % čistého ročního obratu vyplývajícího z konsolidované účetní závěrky ovládající osoby za bezprostředně předcházející účetní období.
+Přestupky právnických a podnikajících fyzických osob
+Právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že
+nabude nebo zvýší svoji kvalifikovanou účast na družstevní záložně bez předchozího souhlasu České národní banky podle § 2b odst. 3,
+užívá označení „spořitelní a úvěrní družstvo“ nebo „družstevní záložna“ nebo „úvěrní družstvo“ v rozporu s § 1 odst. 3,
+zahájí činnost, ke které je třeba povolení podle tohoto zákona, bez tohoto povolení,
+ovládne družstevní záložnu bez předchozího souhlasu České národní banky podle § 2b odst. 3,
+nesplní oznamovací povinnost podle § 2b odst. 12, nebo
+v žádosti o souhlas podle tohoto zákona nebo přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky uvede nepravdivé údaje nebo zamlčí podstatné údaje nezbytné pro posouzení této žádosti.
+Právnická nebo podnikající fyzická osoba jako osoba podléhající dohledu České národní banky se dopustí přestupku tím, že nesplní některou z povinností stanovenou kontrolním řádem.
+Právnická nebo podnikající fyzická osoba jako insolvenční správce družstevní záložny se dopustí přestupku tím, že na žádost České národní banky nesvolá do 30 dnů od doručení žádosti členskou schůzi družstevní záložny výhradně za účelem schválení řádné účetní závěrky podle § 5a odst. 4.
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že jako osoba vykonávající funkci likvidátora poruší povinnost vykonávat funkci s péčí řádného hospodáře.
+Za přestupek lze uložit pokutu do
+1 000 000 Kč, jde-li o přestupek podle odstavce 4,
+5 000 000 Kč, jde-li o přestupek podle odstavce 2,
+10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) nebo f) nebo odstavce 3,
+dvojnásobku výše neoprávněného prospěchu, jde-li o přestupek podle odstavce 1 písm. a), c), d) nebo e) a spáchala-li ho podnikající fyzická osoba; není-li možné výši neoprávněného prospěchu zjistit, lze uložit pokutu do 130 000 000 Kč,
+dvojnásobku výše neoprávněného prospěchu, jde-li o přestupek podle odstavce 1 písm. a), c), d) nebo e) a spáchala-li ho právnická osoba; není-li možné výši neoprávněného prospěchu zjistit, lze uložit pokutu do výše 10 % čistého ročního obratu dosaženého právnickou osobou za bezprostředně předcházející účetní období, který zahrnuje položky uvedené v čl. 316 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+dvojnásobku výše neoprávněného prospěchu, jde-li o přestupek podle odstavce 1 písm. a), c), d) nebo e) a spáchala-li ho ovládaná osoba; není-li možné výši neoprávněného prospěchu zjistit, lze uložit pokutu do výše 10 % čistého ročního obratu vyplývajícího z konsolidované účetní závěrky ovládající osoby za bezprostředně předcházející účetní období.
+Společná ustanovení
+Přestupky podle tohoto zákona projednává Česká národní banka.
+Česká národní banka bez zbytečného odkladu uveřejní pravomocné rozhodnutí o uloženém správním trestu způsobem umožňujícím dálkový přístup.
+Česká národní banka uveřejní rozhodnutí bez uvedení identifikačních údajů o pokutované osobě, pokud by uveřejnění
+bylo vůči dotčené fyzické osobě na základě předchozího posouzení shledáno jako zjevně nepřiměřené,
+ohrozilo stabilitu finančního trhu,
+ohrozilo probíhající trestní řízení,
+způsobilo dotčené osobě nepřiměřenou škodu.
+Rozhodnutí podle odstavce 2 nebo 3 musí být uveřejněno nejméně po dobu 5 let.
+Opatření k nápravě
+Česká národní banka může osobě podléhající jejímu dohledu při zjištění nedostatku v její činnosti v důsledku porušení nebo nedodržení povinnosti nebo podmínky stanovené tímto zákonem, právním předpisem jej provádějícím, rozhodnutím vydaným podle tohoto zákona, opatřením obecné povahy vydaným podle tohoto zákona, přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky a nařízením nebo rozhodnutím Evropské komise uložit opatření k nápravě zjištěného nedostatku odpovídající povaze porušení a jeho závažnosti.
+K odstranění zjištěných nedostatků může Česká národní banka
+uložit, aby osoba podléhající jejímu dohledu
+udržovala kapitál nad minimální úrovní požadavků na kapitál podle čl. 92 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+zlepšila uspořádání, strategie, postupy a jiné mechanismy tak, aby obnovila nebo posílila jejich soulad s tímto zákonem, právním předpisem provádějícím tento zákon, rozhodnutím nebo opatřením obecné povahy vydaným podle tohoto zákona, přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky, nařízením nebo rozhodnutím Evropské komise,
+předložila plán na obnovení souladu s požadavky České národní banky podle tohoto zákona a přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky a zavedla jej ve stanoveném termínu,
+uplatňovala specifické zásady a postupy pro tvorbu opravných položek k aktivům a rezerv nebo pro stanovení kapitálových požadavků,
+omezila, ukončila nebo neprováděla některé obchody, operace nebo činnosti, které znamenají nadměrné riziko pro družstevní záložnu,
+omezila distribuční síť, včetně případného snížení počtu obchodních míst,
+snížila rizika spojená s jejími činnostmi, produkty nebo systémy, včetně činností, jejichž výkonem družstevní záložna pověřila jinou osobu,
+omezila pohyblivou složku odměny osob uvedených v § 7a odst. 1 písm. f) bodě 3, pokud není v souladu s udržováním kapitálu; v takovém případě určí družstevní záložna výši pohyblivé složky procentem z čistého zisku,
+použila zisk po zdanění přednostně k doplnění rezervních fondů nebo ke zvýšení základního kapitálu,
+omezila nebo zakázala rozdělení kapitálu nebo úrokové platby členům či držitelům nástrojů vedlejšího kapitálu tier 1 podle čl. 51 nařízení Evropského parlamentu a Rady (EU) č. 575/2013; pokud tento zákaz nepředstavuje nesplnění závazků této osoby,
+ve stanovené lhůtě odstranila nedostatek v činnosti a zdržela se jeho opakování,
+ve stanovené lhůtě navýšila kapitál na určenou výši, pokud nedodržuje kombinovanou kapitálovou rezervu podle § 8aj odst. 1 a Česká národní banka neschválila plán na obnovení kapitálu,
+uložit dodatečné nebo častější předkládání výkazů, včetně informací o kapitálu, likviditě a páce za podmínky, že tento požadavek je vhodný a přiměřený z hlediska účelu, pro který jsou informace požadovány, a že požadované informace nejsou duplicitní s jinými požadovanými informacemi,
+uložit zvláštní požadavky na likviditu, včetně omezení nesouladu splatnosti aktiv a závazků, s přihlédnutím ke konkrétnímu modelu podnikání družstevní záložny a k uspořádáním, postupům a mechanismům družstevní záložny, zejména podle § 7a odst. 1 písm. b),
+uložit dodatečné uveřejňování informací,
+uložit přísnější omezení týkající se rozdělení kmenového kapitálu tier 1 něž podle § 8aj odst. 3, pokud Česká národní banka neschválila plán na obnovení kapitálu,
+uložit jiná vhodná opatření k nápravě.
+Česká národní banka může osobě podléhající jejímu dohledu, která obdržela souhlas používat interní přístup nebo interní model k výpočtu kapitálových požadavků podle části třetí nařízení Evropského parlamentu a Rady (EU) č. 575/2013, ale nesplňuje požadavky pro jeho používání,
+uložit, aby prokázala, že nesoulad s požadavky na interní přístup nebo interní model je nepodstatný,
+uložit, aby předložila plán na obnovení souladu s požadavky na interní přístup a stanovila lhůtu k jeho provedení,
+uložit, aby provedla úpravy plánu na obnovení souladu s požadavky na interní přístup nebo interní model a stanovit lhůtu pro provedení těchto úprav, je-li nepravděpodobné, že podle původního plánu bude dosaženo plného souladu, nebo lhůty uvedené v původním plánu jsou nevhodné,
+omezit souhlas na oblasti, které splňují stanovené požadavky nebo u nichž lze dosáhnout souladu v rámci příslušné lhůty,
+odejmout souhlas s používáním interního přístupu nebo interního modelu, který vyžaduje souhlas, pokud je nepravděpodobné, že družstevní záložna bude schopna obnovit soulad v rámci příslušné lhůty nebo neprokázala, že nesoulad je nepodstatný, nebo
+odejmout souhlas s používáním interního modelu tržního rizika nebo uložit vhodná opatření k zajištění jeho okamžitého zlepšení, pokud u interního modelu naznačuje velký počet překročení uvedených v čl. 366 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, že model není dostatečně přesný,
+uložit jiná vhodná opatření.
+Česká národní banka může osobě podléhající jejímu dohledu uložit, aby pro účely řízení úrokového rizika investičního portfolia použila standardizovanou metodiku stanovenou přímo použitelným předpisem Evropské unie vydaným podle čl. 84 směrnice 2013/36/EU upravujícím standardizovanou metodiku pro hodnocení úrokového rizika investičního portfolia, pokud zjednodušená standardizovaná metodika nebo systém řízení úrokového rizika investičního portfolia používaný povinnou osobou nezajišťují řádnou identifikaci, hodnocení, řízení a snižování úrokového rizika investičního portfolia.
+V případě zjištění nedostatku v činnosti osoby podléhající jejímu dohledu může Česká národní banka
+uložit, aby tato osoba
+vyměnila člena představenstva, člena kontrolní komise nebo jinou odpovědnou fyzickou osobu,
+svolala členskou schůzi a tato členská schůze projedná s Českou národní bankou stanovenou záležitost nebo její návrh,
+vytvořila odpovídající výši opravných položek a rezerv,
+snížila nebo zvýšila základní kapitál ve stanoveném rozsahu,
+rozhodnout o omezení nebo zákazu některých povolených činností družstevní záložny až na 120 dnů, a to včetně nakládání vkladatelů s jejich vklady; nakládáním vkladatelů s jejich vklady se pro účely tohoto zákona rozumí jakákoli jejich dispozice s vkladem,
+změnit povolení vyloučením nebo omezením některých činností v něm uvedených,
+nařídit mimořádný audit na náklady družstevní záložny,
+nařídit svolání členské schůze na náklady družstevní záložny a určit některé body programu jednání této členské schůze,
+zakázat nebo omezit provádění operací s osobami, které jsou spjaty úzkým propojením s družstevní záložnou nebo které jsou součástí stejné skupiny jako družstevní záložna nebo mají k družstevní záložně zvláštní vztah,
+uložit zvýšit likvidní prostředky družstevní záložny alespoň na výši stanovenou Českou národní bankou,
+odejmout souhlas s používáním interního přístupu pro výpočet kapitálového požadavku podle části třetí nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Česká národní banka může uložit fyzické osobě nebo právnické osobě nepodléhající jejímu dohledu, která neplní povinnost uloženou tímto zákonem, právním předpisem jej provádějícím, rozhodnutím vydaným podle tohoto zákona, přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky nebo nařízením nebo rozhodnutím Evropské komise, aby upustila od tohoto protiprávního jednání a zdržela se jeho opakování; Česká národní banka může dále
+dočasně zakázat členovi představenstva nebo kontrolní komise družstevní záložny nebo jiné odpovědné fyzické osobě výkon funkce v družstevní záložně nebo výkon funkce v jiné družstevní záložně,
+uveřejnit informaci o tom, která osoba je odpovědná za protiprávní jednání a jaká je jeho povaha.
+Česká národní banka může uložit opatření k nápravě podle odstavců 2 až 4, odstavce 5 písm. h) a odstavce 6 také, jestliže má důvodné podezření, že nedostatek v činnosti může v průběhu následujících 12 měsíců nastat.
+Česká národní banka je oprávněna
+účastnit se jednání orgánů jiných právnických osob, které jsou úzce propojeny s družstevní záložnou,
+při výkonu dohledu vstupovat do prostorů osoby, která je úzce propojena s družstevní záložnou, a požadovat předložení dokumentů a podání vysvětlení souvisejících s předmětem kontroly.
+Účastníkem řízení o uložení opatření k nápravě je pouze osoba, které má být opatření k nápravě uloženo.
+Řízení může být zahájeno vydáním rozhodnutí.
+Osoba, které Česká národní banka uložila opatření k nápravě, informuje Českou národní banku o zjednání nápravy bez zbytečného odkladu.
+Proti rozhodnutí o uložení opatření k nápravě lze podat rozklad. Rozklad nemá odkladný účinek. O rozkladu rozhoduje bankovní rada České národní banky.
+Česká národní banka bez zbytečného odkladu uveřejní pravomocné rozhodnutí o uložení opatření k nápravě způsobem umožňujícím dálkový přístup.
+Česká národní banka uveřejní rozhodnutí bez uvedení identifikačních údajů o osobě, které bylo opatření k nápravě uloženo, pokud by uveřejnění
+bylo vůči dotčené fyzické osobě na základě předchozího posouzení shledáno jako zjevně nepřiměřené,
+ohrozilo stabilitu finančního trhu,
+ohrozilo probíhající trestní řízení,
+způsobilo dotčené osobě nepřiměřenou škodu.
+Rozhodnutí podle odstavce 1 nebo 2 musí být uveřejněno nejméně po dobu 5 let.
+V případě, že člen představenstva nebo kontrolní komise zjistí, že družstevní záložna je nebo se stane platebně neschopnou nebo že družstevní záložně vznikly nebo pravděpodobně vzniknou ztráty, které způsobily nebo mohou způsobit pokles celkového kapitálového poměru družstevní záložny pod minimální úroveň celkového kapitálového poměru podle čl. 92 odst. 1 písm. c) nařízení Evropského parlamentu a Rady (EU) č. 575/2013, informuje o tom neprodleně Českou národní banku.
+Česká národní banka vydá opatření obecné povahy, jsou-li naplněny podmínky stanovené v čl. 458 nařízení Evropského parlamentu a Rady (EU) č. 575/2013.
+Odnětí povolení nebo souhlasu
+Při přetrvávání závažných nedostatků v činnosti družstevní záložny Česká národní banka povolení odejme.
+Povolení může být dále odňato, jestliže
+družstevní záložna nezačala podnikat do 12 měsíců ode dne udělení povolení nebo po dobu 6 měsíců nepřijímá vklady od členů nebo jim neposkytuje úvěry,
+v činnosti družstevní záložny byl zjištěn nedostatek v činnosti, který by současně mohl naplnit znaky přestupku podle § 27b odst. 2 písm. a), d), f), g), h), i), k), l) nebo m),
+žadatel v žádosti o povolení uvedl nepravdivé údaje nebo zamlčel podstatné údaje nezbytné pro posouzení této žádosti,
+proti družstevní záložně bylo vydáno pravomocné rozhodnutí pro závažné porušení zákona upravujícího opatření proti legalizaci výnosů z trestné činnosti a financování terorismu, nebo
+družstevní záložna nesplňuje požadavky stanovené v části třetí, čtvrté nebo šesté nařízení Evropského parlamentu a Rady (EU) č. 575/2013, s výjimkou požadavků podle čl. 92a a 92b tohoto nařízení, nebo nesplňuje požadavky stanovené na základě § 28 odst. 2 písm. a) bodě 1 nebo v § 28 odst. 2 písm. c) nebo již není schopna plnit své závazky vůči věřitelům.
+Česká národní banka odejme povolení, jestliže zjistí, že celkový kapitálový poměr družstevní záložny na individuálním základě je menší než jedna třetina celkového kapitálového poměru podle čl. 92 odst. 1 písm. c) nařízení Evropského parlamentu a Rady (EU) č. 575/2013. Pokud neexistuje veřejný zájem na řešení krize družstevní záložny, Česká národní banka odejme povolení družstevní záložně, i když tato družstevní záložna splňuje podmínky pro uplatnění opatření k řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu.
+Pokud Česká národní banka zjistí, že bilanční suma družstevní záložny překročila 5 000 000 000 Kč, uloží záložně opatření k nápravě a poskytne přiměřenou lhůtu ke zjednání nápravy, a to nejvýše 1 rok. Nezjedná-li družstevní záložna v této lhůtě nápravu, Česká národní banka jí odejme povolení.
+Pokud Česká národní banka zjistí, že souhrnná bilanční suma družstevních záložen uvedených v § 8 odst. 3 překročila 5 000 000 000 Kč, uloží těmto družstevním záložnám opatření k nápravě a poskytne přiměřenou lhůtu ke zjednání nápravy, a to nejvýše 1 rok. Nezjednají-li dotčené družstevní záložny v této lhůtě nápravu, Česká národní banka odejme povolení všem družstevním záložnám uvedeným v § 8 odst. 3.
+V době řízení o žádosti družstevní záložny o souhlas se změnou právní formy na akciovou společnost a řízení o udělení bankovní licence podle zákona upravujícího činnost bank se neuplatní postupy uvedené v odstavcích 4 a 5.
+Povolení zaniká též ke dni zápisu změny právní formy družstevní záložny na akciovou společnost do obchodního rejstříku v souladu s § 13 odst. 5.
+Česká národní banka může odejmout souhlas udělený podle tohoto zákona, jestliže byl souhlas udělen na základě nepravdivých údajů nebo žadatel v žádosti o udělení souhlasu zamlčel podstatné údaje nezbytné pro posouzení této žádosti nebo jestliže došlo k závažné změně ve skutečnosti, na jejímž základě byl souhlas udělen.
+V rozhodnutí o odnětí povolení podle § 28g se stanoví den, ke kterému se povolení odnímá.
+Ode dne právní moci rozhodnutí o odnětí povolení nesmí družstevní záložna přijímat vklady a poskytovat úvěry a provozovat další činnosti, s výjimkou těch, které jsou nezbytné k vypořádání jejích pohledávek a dluhů. Do doby, než tato právnická osoba vypořádá své pohledávky a dluhy, považuje se za družstevní záložnu podle tohoto zákona.
+O pravomocném rozhodnutí o odnětí povolení informuje Česká národní banka orgán dohledu členského státu, v němž má družstevní záložna pobočku.
+Rozsudek, jímž soud zrušil rozhodnutí České národní banky o odnětí povolení podle § 28g, je vykonatelný
+marným uplynutím lhůty pro podání kasační stížnosti, nebo
+právní mocí rozhodnutí, jímž byla kasační stížnost proti tomuto rozsudku odmítnuta, zamítnuta nebo řízení o ní zastaveno.
+Ustanovení odstavce 1 se nepoužije, pokud byl žalobě proti rozhodnutí České národní banky o odnětí povolení podle § 28g přiznán odkladný účinek.
+Česká národní banka uveřejňuje způsobem umožňujícím dálkový přístup
+platná znění zákonů a vyhlášek, upravujících pravidla obezřetného podnikání družstevních záložen, a úředních sdělení České národní banky k nim; tím nejsou dotčena ustanovení zvláštních právních předpisů o způsobu vyhlašování právních předpisů,
+informace o způsobu využití možností volby nebo uvážení daných členským státům a jejich orgánům dohledu právem Evropské unie v právních předpisech podle písmene a),
+informace o přístupu a metodách České národní banky, včetně kritérií pro uplatňování zásady přiměřenosti, používaných při výkonu dohledu nad družstevními záložnami podle § 21a,
+souhrnné statistické údaje o plnění pravidel obezřetného podnikání družstevními záložnami v České republice, včetně počtu a povahy opatření k nápravě nebo pokut přijatých v souladu s tímto zákonem,
+informace o přístupu a metodách České národní banky používaných při výkonu dohledu nad dodržováním pravidel pro převod rizik podle čl. 405 až 409 nařízení Evropského parlamentu a Rady (EU) č. 575/2013,
+roční zprávu o výsledku výkonu dohledu nad dodržováním pravidel pro převod rizik podle čl. 405 až 409 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, včetně uložených opatření.
+Informace uvedené v odstavci 1 Česká národní banka uveřejňuje způsobem umožňujícím dálkový přístup tak, aby je bylo možné porovnat s informacemi stejného druhu uveřejněnými orgány dohledu v jiných členských státech, a pravidelně je aktualizuje.
+Pokud Česká národní banka rozhoduje podle čl. 7 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, uveřejní způsobem umožňujícím dálkový přístup
+kritéria, která uplatňuje k určení toho, zda neexistují nebo se nepředpokládají závažné věcné nebo právní překážky bránící okamžitému převodu kapitálu nebo splacení závazků,
+počet ovládajících osob, které využívají možnosti stanovené v čl. 7 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, a počet ovládajících osob, které zahrnují ovládané osoby v jiném než členském státě,
+souhrnně za Českou republiku
+celkovou výši kapitálu ovládajících osob na konsolidovaném základě využívajících možnosti stanovené v čl. 7 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, který je držen v ovládaných osobách v jiném než členském státě,
+procentuální podíl na celkovém kapitálu ovládajících osob na konsolidovaném základě využívajících možnosti stanovené v čl. 7 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, který je držen v ovládaných osobách v jiném než členském státě,
+procentuální podíl na celkovém kapitálu podle čl. 92 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 ovládajících osob na konsolidovaném základě využívajících možnosti stanovené v čl. 7 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, který je držen v ovládaných osobách v jiném než členském státě.
+Pokud Česká národní banka rozhoduje podle čl. 9 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, uveřejní způsobem umožňujícím dálkový přístup
+kritéria, která uplatňuje k určení toho, zda neexistují nebo se nepředpokládají žádné závažné věcné nebo právní překážky bránící okamžitému převodu kapitálu nebo splacení závazků,
+počet ovládajících osob, které využívají možnosti stanovené v čl. 9 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, a počet ovládajících osob, které zahrnují ovládané osoby v jiném než členském státě,
+souhrnně za Českou republiku
+celkovou výši kapitálu ovládajících osob využívajících možnosti stanovené v čl. 9 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, který je držen v ovládaných osobách v jiném než členském státě,
+procentuální podíl na celkovém kapitálu ovládaných osob využívajících možnosti stanovené v čl. 9 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, který je držen v ovládaných osobách v jiném než členském státě,
+procentuální podíl na celkovém kapitálu podle čl. 92 nařízení Evropského parlamentu a Rady (EU) č. 575/2013 ovládajících osob využívajících možnosti stanovené v čl. 9 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 575/2013, který je držen v ovládaných osobách v jiném než členském státě.
+Výpočet výše vypořádacího podílu
+Výpočet výše vypořádacího podílu se provede podle tohoto vzorce:
+kde:
+A představuje členský vklad osoby v Kč, které v daném účetním období zaniklo členství v družstevní záložně, popřípadě snížení dalšího členského vkladu člena v daném účetním období,
+B1 představuje souhrn členských vkladů v Kč všech členů družstevní záložny k poslednímu dni daného účetního období,
+B2 představuje souhrn snížení dalších členských vkladů v Kč v družstevní záložně, k nimž došlo v průběhu daného účetního období,
+B3 představuje souhrn členských vkladů v Kč osob, kterým v daném účetním období zaniklo členství v družstevní záložně,
+C1 představuje vlastní kapitál družstevní záložny v Kč,
+C2 představuje rizikový fond družstevní záložny v Kč,
+C3 představuje rezervní fond družstevní záložny v Kč,
+C4 představuje další fondy družstevní záložny v Kč, které se podle tohoto zákona, zvláštního právního předpisu nebo stanov nerozdělují mezi členy,
+C5 představuje souhrn snížení dalších členských vkladů v Kč, k nimž došlo v průběhu daného účetního období v družstevní záložně, a vlastní kapitál byl již o snížení členských vkladů upraven,
+C6 představuje souhrn členských vkladů osob v Kč, kterým v daném účetním období zaniklo členství v družstevní záložně, a vlastní kapitál byl již o tyto členské vklady upraven.

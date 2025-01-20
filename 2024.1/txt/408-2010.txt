@@ -1,0 +1,144 @@
+ZÁKLADNÍ USTANOVENÍ
+Předmět úpravy
+Tento zákon zapracovává příslušné předpisy Evropské unie a upravuje postup při zajišťování pohledávek na základě smlouvy, kterou se sjednává finanční zajištění, osoby oprávněné sjednat finanční zajištění, jejich práva a povinnosti a některé další otázky s finančním zajištěním související.
+Vymezení některých pojmů
+V tomto zákoně se rozumí
+pohledávkou finančního charakteru pohledávka ze smluv, jejichž předmětem jsou peněžní prostředky, investiční nástroje, povolenky na emise skleníkových plynů nebo komodity, jakož i práva a pohledávky s těmito smlouvami související,
+repo obchodem prodej finančních nástrojů se současně sjednanou zpětnou koupí a koupě finančních nástrojů se současně sjednaným zpětným prodejem,
+finančním nástrojem investiční cenný papír, cenný papír kolektivního investování nebo nástroj peněžního trhu,
+pohledávkou na výplatu peněz pohledávka na výplatu peněžních prostředků z účtu v české nebo cizí měně nebo obdobná pohledávka na výplatu peněžních prostředků,
+úvěrovou pohledávkou pohledávka z úvěru, zápůjčky nebo srovnatelného závazku na vrácení přenechaných nebo poskytnutých peněžních prostředků v české nebo cizí měně.
+Účel finančního zajištění
+Finanční zajištění slouží za podmínek stanovených tímto zákonem k zajištění pohledávky finančního charakteru pro případ, že dojde k prodlení s jejím plněním, nebo nastane jiná skutečnost určená ve smlouvě, kterou se sjednává finanční zajištění, nebo dohodnutá v rámci závěrečného vyrovnání s tím, že právo příjemce uspokojit se z finančního kolaterálu nepodléhá omezením jinak plynoucím z obecné úpravy zástavního práva a převodu věcí v právním smyslu (dále jen „věc“) ve prospěch věřitele.
+Právní povaha finančního zajištění
+Finanční zajištění má povahu zástavního práva k finančnímu kolaterálu nebo převodu finančního kolaterálu ve prospěch jeho příjemce.
+K převodu finančního kolaterálu dochází zpravidla na základě dohody o zpětném převodu finančního kolaterálu po splnění závazku; v případě finančních nástrojů pak též v rámci repo obchodu. Pokud to povaha finančního kolaterálu připouští a je-li to v souladu s ujednáním smluvních stran, dochází k převodu vlastnického práva k finančnímu kolaterálu na jeho příjemce.
+FINANČNÍ ZAJIŠTĚNÍ
+PŘEDMĚT FINANČNÍHO ZAJIŠTĚNÍ, POHLEDÁVKA FINANČNÍHO CHARAKTERU A OSOBY OPRÁVNĚNÉ SJEDNAT FINANČNÍ ZAJIŠTĚNÍ
+Finanční kolaterál
+Předmětem finančního zajištění je finanční kolaterál, kterým může být pouze
+finanční nástroj,
+samostatně převoditelné právo jinak spojené s finančním nástrojem,
+právo vyplývající ze zápisu finančního nástroje v evidenci a umožňující oprávněnému přímo či nepřímo nakládat s finančním nástrojem alespoň obdobným způsobem jako oprávněný držitel,
+peněžní prostředky připsané na účet v české nebo cizí měně,
+pohledávka na výplatu peněz, nebo
+úvěrová pohledávka, pokud věřitelem je osoba uvedená v § 7 odst. 1 písm. a), b) nebo t) nebo v § 7 odst. 2 písm. d), nebo zahraniční osoba s obdobnou činností jako některá z osob uvedených v § 7 odst. 1 písm. a) nebo b).
+Finančním kolaterálem může být i finanční nástroj nebo peněžní prostředky připsané na účet, k nimž poskytovateli tohoto kolaterálu vznikne vlastnické právo teprve v budoucnu, právo uvedené v odstavci 1 písm. b) nebo c), které poskytovateli tohoto kolaterálu vznikne teprve v budoucnu, anebo pohledávka na výplatu peněz nebo úvěrová pohledávka, která vznikne poskytovateli finančního kolaterálu teprve v budoucnu.
+Finanční kolaterál může být určen jednotlivě nebo i jiným způsobem tak, aby jej bylo možné určit kdykoliv v době trvání finančního zajištění, například jako soubor věcí uvedených v odstavci 1, jehož složení se může v čase měnit.
+Pohledávka ze spotřebitelského úvěru nebo obdobného úvěru podle zahraničního právního předpisu může být finančním kolaterálem pouze, je-li jeho příjemcem i jeho poskytovatelem banka, spořitelní a úvěrní družstvo nebo zahraniční osoba s obdobnou činností jako banka nebo spořitelní a úvěrní družstvo, anebo je-li tímto příjemcem nebo tímto poskytovatelem osoba uvedená v § 7 odst. 2 písm. d) až f).
+Je-li poskytovatelem finančního kolaterálu (dále jen „poskytovatel“) fyzická osoba uvedená v § 7 odst. 4, finančním kolaterálem mohou být pouze peněžní prostředky a finanční nástroje, které má příjemce finančního kolaterálu (dále jen „příjemce“) ve své moci za účelem poskytnutí investiční služby, a peněžní prostředky a finanční nástroje získané za tyto hodnoty pro poskytovatele, přičemž nemůže jít o peněžní prostředky, o kterých příjemce, který je bankou nebo zahraniční osobou s obdobnou činností jako banka, účtuje jako o vkladech.
+Pohledávka finančního charakteru
+Finančním zajištěním lze zajistit pouze pohledávku finančního charakteru, včetně jejího příslušenství, přičemž není rozhodné, zda jde o pohledávku za poskytovatelem nebo za jinou osobou.
+Finanční zajištění lze sjednat pro pohledávku podmíněnou nebo pohledávku, jež má vzniknout teprve v budoucnu.
+Finanční zajištění lze sjednat i pro pohledávky určitého druhu vznikající příjemci v určité době nebo pro různé pohledávky vznikající příjemci z téhož právního důvodu.
+Osoby oprávněné sjednat finanční zajištění
+Poskytovatelem a příjemcem může být pouze
+banka,
+spořitelní a úvěrní družstvo,
+osoba, mezi jejíž rozhodující činnosti patří
+poskytování spotřebitelských nebo jiných úvěrů,
+finanční pronájem (finanční leasing),
+poskytování platebních služeb,
+vydávání elektronických peněz,
+provádění sekuritizace,
+vydávání záruk či sjednávání závazků spočívajících v tom, že uspokojí věřitele do výše určité peněžní částky, jestliže určitá třetí osoba nesplní určitý závazek nebo budou splněny jiné podmínky,
+směnárenská činnost,
+poskytování poradenské činnosti týkající se struktury kapitálu, průmyslové strategie a s tím souvisejících otázek, přeměn společností nebo převodů obchodních závodů,
+obhospodařování majetku zákazníka, je-li jeho součástí investiční nástroj, na základě volné úvahy v rámci smluvního ujednání, nebo
+úschova nebo správa cenných papírů,
+osoba, mezi jejíž rozhodující činnosti patří obchodování na vlastní nebo cizí účet s
+platebními nástroji,
+nástroji peněžního trhu,
+devizovými hodnotami,
+investičními cennými papíry,
+opcemi,
+futures, jejichž hodnota se vztahuje ke kurzu nebo hodnotě cenných papírů, měnovým kurzům, úrokové míře nebo úrokovému výnosu, finančním indexům či finančním kvantitativně vyjádřeným ukazatelům, a ze kterých vyplývá právo na vypořádání v penězích nebo právo na dodání věci, k níž se jejich hodnota vztahuje, nebo
+finančními rozdílovými smlouvami,
+ústřední protistrana, zúčtovatel nebo clearingová instituce podle zákona upravujícího platební styk,
+obchodník s cennými papíry,
+organizátor regulovaného trhu,
+ústřední protistrana, zúčtovatel nebo clearingová instituce podle zákona upravujícího podnikání na kapitálovém trhu,
+právnická osoba oprávněná vést evidenci investičních nástrojů,
+pojišťovna,
+zajišťovna,
+investiční společnost,
+investiční fond s právní osobností,
+penzijní fond,
+právnická osoba, která obchoduje na vlastní účet s investičními nástroji za účelem snížení rizika (hedging) z obchodů s investičními nástroji, které nejsou finančními nástroji, a tato činnost patří mezi její rozhodující činnosti,
+právnická osoba, která obchoduje na vlastní účet s komoditami nebo investičními nástroji, které nejsou finančními nástroji, a tato činnost patří mezi její rozhodující činnosti,
+právnická osoba, která je tvůrcem trhu podle zákona upravujícího podnikání na kapitálovém trhu,
+ratingová agentura,
+zahraniční osoba s obdobnou činností jako některá z osob uvedených v písmenech a) až r) a
+právnická osoba se zvláštním statutem vyňatá z působnosti směrnice Evropského parlamentu a Rady upravující činnost úvěrových institucí.
+Poskytovatelem a příjemcem může být dále
+stát nebo členský stát federace,
+územní samosprávný celek státu,
+veřejnoprávní korporace nebo jiná právnická osoba zřízená zákonem, která zabezpečuje správu a splácení státního či veřejného dluhu nebo vykonává činnost s takovou správou a splácením spojenou,
+centrální banka členského státu Evropské unie nebo dalšího státu tvořícího Evropský hospodářský prostor,
+centrální banka státu neuvedeného v písmeni d) nebo Evropská centrální banka a
+Světová banka, Mezinárodní měnový fond, Evropská investiční banka nebo jiná mezinárodní finanční instituce.
+Za podmínky, že příjemcem nebo poskytovatelem je některá z osob uvedených v odstavci 1 nebo 2, může být poskytovatelem nebo příjemcem také
+jiná právnická osoba,
+jiná zahraniční osoba než osoba fyzická a
+podnikající fyzická osoba, jestliže je s přihlédnutím ke všem okolnostem zřejmé, že se finanční zajištění sjednává v souvislosti s její podnikatelskou činností.
+Poskytovatelem může být též jiná fyzická osoba, jestliže
+je příjemcem banka, která má povolení poskytovat investiční služby, obchodník s cennými papíry nebo zahraniční osoba s obdobnou činností jako banka nebo obchodník s cennými papíry a povolením k poskytování investičních služeb,
+je s přihlédnutím ke všem okolnostem zřejmé, že se finanční zajištění sjednává v souvislosti s poskytnutím úvěru nebo zápůjčky poskytovateli jako zákazníkovi za účelem umožnění obchodu s investičním nástrojem, na němž se příjemce jako úvěrující nebo zapůjčitel podílí,
+bylo výslovně sjednáno, že jde o finanční zajištění,
+smlouva, jíž se finanční zajištění sjednalo, má písemnou formu a
+příjemce před jejím uzavřením informoval poskytovatele o hlavních charakteristikách právní úpravy finančního zajištění a o tom, jak se právní úprava finančního zajištění liší od obecné úpravy zástavního práva a převodu věcí ve prospěch věřitele.
+Je-li příjemcem osoba uvedená v odstavci 4 písm. a), nemůže být poskytovatelem její zákazník, který není profesionálním zákazníkem podle zákona upravujícího podnikání na kapitálovém trhu, jde-li o finanční zajištění, které má povahu převodu finančního kolaterálu ve prospěch příjemce.
+SJEDNÁNÍ A VZNIK FINANČNÍHO ZAJIŠTĚNÍ
+Sjednání finančního zajištění
+Smlouva mezi poskytovatelem a příjemcem, kterou se sjednává finanční zajištění, nevyžaduje písemnou ani jinou zvláštní formu; tím není dotčen § 7 odst. 4 písm. d).
+Má-li právní jednání znaky finančního zajištění podle tohoto zákona, jedná se o finanční zajištění, nebylo-li sjednáno, že o finanční zajištění nejde; tím není dotčen § 7 odst. 4 písm. c).
+Vznik finančního zajištění
+Ke vzniku finančního zajištění je zapotřebí, aby byl finanční kolaterál odevzdán příjemci, připsán na určený účet příjemce nebo poskytnut jiným způsobem, kterým se umožňuje příjemci nebo osobě jednající na jeho účet jej držet nebo jinak právně nebo fakticky ovládat, nebo aby bylo zástavní právo k němu zapsáno do evidence investičních nástrojů ve prospěch příjemce.
+Skutečnost, že došlo ke vzniku finančního zajištění, musí být možné prokázat písemně, jinak se o finanční zajištění nejedná. Písemná forma je zachována, je-li vznik finančního zajištění zachycen záznamem, který vznik finančního zajištění dokládá a umožňuje reprodukci v nezměněné podobě.
+Seznam úvěrových pohledávek
+V případě úvěrových pohledávek je podmínka prokázání vzniku finančního zajištění splněna také předáním seznamu úvěrových pohledávek (dále jen „seznam“) v písemné formě příjemci. Seznam zachycuje úvěrové pohledávky, které náleží do finančního kolaterálu.
+Nevyplývá-li ze smlouvy jinak, má se za to, že úvěrovou pohledávku zapsanou na seznam postoupil poskytovatel příjemci s odkládací podmínkou, že dojde k prodlení s plněním zajištěné pohledávky finančního charakteru nebo že nastane jiná skutečnost určená ve smlouvě, kterou se sjednává finanční zajištění, nebo jiná skutečnost dohodnutá v rámci závěrečného vyrovnání s tím, že právní účinky postoupení nastanou jen u těch úvěrových pohledávek, které si příjemce výkonem práva na uspokojení vybere ze seznamu.
+Jakmile je seznam odevzdán příjemci, nemůže poskytovatel s úvěrovou pohledávkou zapsanou na seznam nakládat.
+Zápis úvěrové pohledávky na seznam není příjemce ani poskytovatel povinen oznámit dlužníkovi, jehož závazek této úvěrové pohledávce odpovídá.
+NAKLÁDÁNÍ SE ZASTAVENÝM FINANČNÍM KOLATERÁLEM
+Základní ustanovení
+Nakládat se zastaveným finančním kolaterálem, zejména jej převést, zastavit, užívat nebo umožnit jeho užití jiným, přisvojovat si jeho plody nebo užitky, může příjemce jen, určuje-li tak smlouva. Nakládání se zastaveným finančním kolaterálem nelze sjednat, pokud se jedná o úvěrovou pohledávku; § 16 tím není dotčen.
+Zástavní právo při nakládání se zastaveným finančním kolaterálem
+Nakládá-li příjemce se zastaveným finančním kolaterálem, jeho zástavní právo k finančnímu kolaterálu zaniká.
+Nahrazení zastaveného finančního kolaterálu
+Příjemce, který se zastaveným finančním kolaterálem nakládal, jej nahradí nejpozději v okamžiku, kdy se zajištěná pohledávka stane splatnou, a to pokud byly finančním kolaterálem
+peněžní prostředky stejnou výší peněžních prostředků v téže měně,
+finanční nástroje stejným množstvím zastupitelných finančních nástrojů a pokud byla finančním kolaterálem práva uvedená v § 5 odst. 1 písm. c), stejným množstvím zastupitelných práv; smlouva, jíž se finanční zajištění v těchto případech sjednalo, však může určit, za jakých podmínek se nahradí jinou věcí, a
+samostatně převoditelná práva jinak spojená s finančním nástrojem tím, co bylo ujednáno.
+Zastavený finanční kolaterál, s nímž příjemce nakládal, lze nahradit pouze věcí, která může být finančním kolaterálem.
+Určuje-li tak smlouva, může příjemce, který se zastaveným finančním kolaterálem nakládal, namísto jeho nahrazení podle odstavce 1, započíst svou pohledávku zajištěnou finančním zajištěním, která je splatná, a to i v rámci jejího zahrnutí do závěrečného vyrovnání, proti hodnotě finančního kolaterálu.
+Není-li plnění vzájemných pohledávek příjemce a poskytovatele stejného druhu, je započtení podle odstavce 2 přípustné, dojde-li před započtením vzájemných pohledávek k jejich ocenění a následné změně obsahu jim odpovídajících závazků tak, aby novým vzájemným závazkům odpovídaly peněžité pohledávky ve stejné měně a ve výši určené podle tohoto ocenění; nebylo-li dohodnuto jinak, ocení se způsobem, který odpovídá zvyklostem na příslušném finančním trhu.
+Nakládání se zastaveným finančním kolaterálem ani jeho nahrazení podle odstavce 1 nemá vliv na vznik a trvání finančního zajištění.
+Má-li být zastavený finanční kolaterál nahrazen podle odstavce 1 věcí, vzniká zástavní právo příjemce ve stejném rozsahu k věci, jíž byl finanční kolaterál nahrazen.
+VÝMĚNA POSKYTNUTÉHO FINANČNÍHO KOLATERÁLU, OMEZENÍ ROZSAHU ZÁSTAVNÍHO PRÁVA K NĚMU, VRÁCENÍ JEHO ČÁSTI A DOPLNĚNÍ ZAJIŠTĚNÍ
+Smlouva může určit, že poskytovatel má v době trvání finančního zajištění právo
+vyměnit poskytnutý finanční kolaterál za jiný finanční kolaterál srovnatelné hodnoty,
+požadovat vrácení části finančního kolaterálu nebo omezení rozsahu zástavního práva k finančnímu kolaterálu, a to v rozsahu převyšujícím výši zajištěné pohledávky.
+Stane-li se zajištění pohledávky příjemce nedostatečným, zejména v důsledku změny hodnoty finančního kolaterálu, výše zajištěné pohledávky nebo bonity poskytovatele nebo dlužníka zajištěné pohledávky, může příjemce žádat jeho přiměřené doplnění, neurčí-li smlouva jinak.
+Výměna nebo vrácení části kolaterálu anebo omezení rozsahu zástavního práva k finančnímu kolaterálu podle odstavce 1, jakož i doplnění zajištění podle odstavce 2, nemají vliv na vznik a trvání finančního zajištění.
+ZVLÁŠTNÍ SMLUVNÍ UJEDNÁNÍ
+Smluvní ujednání pro účely zajištění jiných pohledávek finančního charakteru
+Určuje-li tak smlouva, je příjemce oprávněn ponechat si poskytnutý finanční kolaterál i po splnění závazku, který odpovídá zajištěné pohledávce finančního charakteru, pro účely zajištění jiných pohledávek finančního charakteru. Obsahem takového ujednání může být rovněž dohoda stran, že po dobu, po kterou je příjemce oprávněn ponechat si poskytnutý finanční kolaterál, není povinen podle § 13 nahrazovat zastavený finanční kolaterál, se kterým nakládal.
+Smluvní ujednání v případě plnění dluhu ve splátkách
+Náleží-li do finančního kolaterálu úvěrová pohledávka, která byla zastavena nebo postoupena příjemci a která je plněna ve splátkách, plní dlužník jednotlivé splátky dluhu včetně příslušenství po dobu trvání finančního zajištění nadále poskytovateli.
+Smlouva, kterou se finanční zajištění sjednalo, může však v takových případech určit, že dlužník plní jednotlivé splátky dluhu včetně příslušenství po dohodnutou dobu příjemci; o takovém ujednání je poskytovatel povinen podat zprávu dlužníkovi. Dokud toto ujednání není poskytovatelem oznámeno dlužníkovi, nebo dokud příjemce takové ujednání dlužníkovi neprokáže, plní dlužník jednotlivé splátky dluhu poskytovateli. Pokud není dohodnuto jinak, hledí se na splátky dluhu přijaté příjemcem jako na doplnění zajištění.
+O uplynutí doby, po kterou měl dlužník na základě ujednání podle odstavce 2 plnit jednotlivé splátky dluhu včetně příslušenství příjemci, je příjemce povinen podat zprávu dlužníkovi. Dokud tato skutečnost není příjemcem oznámena dlužníkovi, nebo dokud poskytovatel tuto skutečnost dlužníkovi neprokáže, plní dlužník jednotlivé splátky dluhu nadále příjemci.
+VÝKON PRÁVA NA USPOKOJENÍ Z FINANČNÍHO KOLATERÁLU
+Způsob výkonu práva na uspokojení z finančního kolaterálu
+Dojde-li k prodlení s plněním zajištěné pohledávky finančního charakteru, nebo nastane-li jiná skutečnost určená ve smlouvě, kterou se sjednává finanční zajištění, nebo dohodnutá v rámci závěrečného vyrovnání, může se příjemce uspokojit způsobem, o němž se dohodl s poskytovatelem; v ostatních případech se uspokojí, s ohledem na právní povahu finančního zajištění,
+z výtěžku zpeněžení finančního kolaterálu; neurčuje-li způsob zpeněžení smlouva, zpeněží se způsobem, který odpovídá zvyklostem na příslušném finančním trhu, nebo
+započtením hodnoty finančního kolaterálu proti své pohledávce, kterou má vůči poskytovateli, a to i v rámci zahrnutí takové hodnoty do závěrečného vyrovnání.
+Ponecháním zastaveného finančního kolaterálu se může příjemce uspokojit pouze, pokud byl tento způsob ujednán a pokud byla zároveň dohodnuta cena za ponechání nebo dohodnut způsob jejího určení, přičemž způsob určení ceny musí odpovídat zvyklostem na příslušném finančním trhu.
+Pokud příjemce vybral k uspokojení zajištěné pohledávky finančního charakteru pouze některé úvěrové pohledávky zapsané na seznam a zbývající úvěrové pohledávky již nezajišťují žádnou další pohledávku finančního charakteru, seznam se ruší; § 15 tím není dotčen.
+Pokud v důsledku výkonu práva na uspokojení z finančního kolaterálu příjemce nabude pohledávku na výplatu peněz nebo úvěrovou pohledávku, je poskytovatel povinen o této skutečnosti podat zprávu dlužníkovi, jehož závazek takové pohledávce odpovídá. Oznamuje-li dlužníkovi tuto skutečnost příjemce, který pohledávku nabyl, je dlužník oprávněn požadovat, aby mu nabytí pohledávky prokázal.
+Použití jiných právních předpisů k výkonu práva na uspokojení z finančního kolaterálu
+Neurčí-li smlouva jinak, na vykonání práva na uspokojení z finančního kolaterálu se nepoužijí právní předpisy, pokud stanoví, aby
+příjemce předem oznámil zpeněžení finančního kolaterálu poskytovateli nebo jiné osobě,
+výkon práva na uspokojení z finančního kolaterálu povolil soud, správní orgán nebo jiná osoba,
+finanční kolaterál byl zpeněžen ve veřejné dražbě nebo jiným stanoveným způsobem, nebo
+před vykonáním práva na uspokojení z finančního kolaterálu uplynula určitá lhůta.

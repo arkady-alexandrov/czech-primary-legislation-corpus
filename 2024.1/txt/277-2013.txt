@@ -1,0 +1,206 @@
+OBECNÁ USTANOVENÍ
+Předmět úpravy
+Tento zákon upravuje podmínky výkonu činnosti směnárníka a další podmínky provozování směnárenské činnosti.
+Vymezení pojmů
+Směnárenským obchodem je obchod spočívající ve směně
+bankovek, mincí nebo šeků znějících na určitou měnu za bankovky, mince nebo šeky znějící na jinou měnu, nebo
+bezhotovostních peněžních prostředků nebo elektronických peněz znějících na určitou měnu, dal-li plátce platební příkaz k převodu těchto bezhotovostních peněžních prostředků nebo elektronických peněz prostřednictvím příjemce provádějícího směnu, za bankovky, mince nebo šeky znějící na jinou měnu.
+Směnárenským obchodem není
+vyplacení hotovosti dodavatelem zboží nebo služby odběrateli při placení za zboží nebo službu nad rámec tohoto placení,
+směna měn, kterou před zahájením platební transakce nabízí příjemce nebo jiná osoba prostřednictvím bankomatu nebo v místě prodeje zboží nebo poskytování služeb.
+Směnárenskou činností je soustavná činnost provozovaná vlastním jménem a na vlastní odpovědnost za účelem dosažení zisku, která spočívá v provádění směnárenských obchodů.
+Osoby oprávněné provozovat směnárenskou činnost
+Provozovat směnárenskou činnost mohou pouze
+banky, zahraniční banky a zahraniční finanční instituce za podmínek stanovených zákonem upravujícím činnost bank,
+spořitelní a úvěrní družstva za podmínek stanovených zákonem upravujícím činnost spořitelních a úvěrních družstev,
+směnárníci (§ 4) a
+Česká národní banka za podmínek stanovených zákonem upravujícím působnost České národní banky.
+SMĚNÁRNÍK
+Základní ustanovení
+Směnárník je ten, kdo je oprávněn provozovat směnárenskou činnost na základě povolení k činnosti směnárníka uděleného Českou národní bankou.
+Registr směnárníků
+Zřizuje se registr směnárníků, který spravuje a provozuje Česká národní banka. Registr směnárníků je veden v elektronické podobě.
+Česká národní banka do registru směnárníků zapisuje
+u fyzické osoby obchodní firmu nebo jméno, popřípadě jména, příjmení, datum narození, adresu bydliště nebo sídla a identifikační číslo osoby,
+u právnické osoby obchodní firmu nebo název, sídlo a identifikační číslo osoby,
+datum vzniku oprávnění provozovat směnárenskou činnost a
+datum zániku nebo odnětí povolení k činnosti směnárníka.
+Jestliže žadateli nebylo před podáním žádosti přiděleno identifikační číslo osoby, poskytne je České národní bance správce základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci.
+Česká národní banka registr směnárníků uveřejňuje na svých internetových stránkách.
+Povolení k činnosti směnárníka
+Česká národní banka udělí povolení k činnosti směnárníka žadateli, pokud
+má sídlo, obchodní závod nebo jeho část v České republice,
+je důvěryhodný; podmínku důvěryhodnosti musí splňovat i vedoucí osoby a skuteční majitelé žadatele,
+vedoucí osoby žadatele, které skutečně řídí provozování směnárenské činnosti,
+dosáhly středního vzdělání s maturitní zkouškou a
+nejsou vedoucími osobami, které skutečně řídí provozování směnárenské činnosti u jiného směnárníka, s výjimkou směnárníka, který je členem téhož koncernu, a
+dosáhl věku 18 let a je plně svéprávný, je-li jím fyzická osoba.
+Skutečným majitelem se pro účely tohoto zákona rozumí skutečný majitel podle zákona upravujícího evidenci skutečných majitelů.
+Má se za to, že skutečný majitel emitenta cenného papíru přijatého k obchodování na evropském regulovaném trhu nebo na zahraničním trhu s investičními nástroji, který je srovnatelný s evropským regulovaným trhem, je pro účely udělení povolení k činnosti směnárníka důvěryhodný.
+Vedoucí osobou právnické osoby se pro účely tohoto zákona rozumí její statutární orgán, člen jejího statutárního orgánu, její ředitel, prokurista nebo jiná osoba, která skutečně řídí její činnost. Je-li statutárním orgánem nebo jeho členem právnická osoba, rozumí se vedoucí osobou fyzická osoba, která jménem této právnické osoby funkci statutárního orgánu nebo jeho člena vykonává. Vedoucí osobou podnikající fyzické osoby se pro účely tohoto zákona rozumí její ředitel, prokurista nebo jiná osoba, která jiným způsobem skutečně řídí její podnikání.
+Žádost o udělení povolení k činnosti směnárníka může podat i zakladatel právnické osoby, která dosud nevznikla. Česká národní banka udělí této právnické osobě povolení k činnosti směnárníka, lze-li důvodně předpokládat, že bude splňovat podmínky podle odstavce 1 v den svého vzniku.
+Žádost o udělení povolení k činnosti směnárníka lze podat pouze elektronicky. Náležitosti žádosti, včetně příloh osvědčujících splnění podmínek podle odstavce 1, její formu a způsob podání stanoví prováděcí právní předpis.
+Zápis do registru směnárníků
+Pokud Česká národní banka žádosti o udělení povolení k činnosti směnárníka vyhoví, zapíše žadatele do registru směnárníků. Rozhodnutí se v takovém případě písemně nevyhotovuje. Rozhodnutí nabývá právní moci okamžikem zápisu do registru směnárníků. O zápisu do registru směnárníků Česká národní banka žadatele neprodleně elektronicky informuje.
+Vyhoví-li Česká národní banka žádosti o udělení povolení k činnosti směnárníka podané podle § 6 odst. 5, zapíše do registru směnárníků právnickou osobu, jejíž zakladatel žádost podal. V registru směnárníků Česká národní banka uvede, že právnická osoba dosud nevznikla. Tento údaj Česká národní banka z registru směnárníků vymaže bez zbytečného odkladu po vzniku právnické osoby.
+Změna údajů
+Směnárník oznámí bez zbytečného odkladu České národní bance změnu údajů uvedených v žádosti o udělení povolení k činnosti směnárníka nebo v jejích přílohách, na jejichž základě mu bylo povolení k činnosti směnárníka uděleno. Směnárník není povinen České národní bance oznamovat změnu údajů, které jsou vedeny v základních registrech jako referenční údaje.
+Oznámení podle odstavce 1 lze podat pouze elektronicky. Náležitosti tohoto oznámení, včetně jeho příloh, jeho formu a způsob podání stanoví prováděcí právní předpis.
+Zánik a odnětí povolení k činnosti směnárníka
+Povolení k činnosti směnárníka zaniká
+smrtí směnárníka,
+zrušením směnárníka, který je právnickou osobou,
+dnem nabytí právní moci rozhodnutí o úpadku směnárníka nebo rozhodnutí o zamítnutí insolvenčního návrhu pro nedostatek majetku směnárníka.
+Česká národní banka povolení k činnosti směnárníka odejme, jestliže o to směnárník požádá.
+Česká národní banka může povolení k činnosti směnárníka odejmout, jestliže
+směnárník opakovaně nebo závažným způsobem porušil povinnost stanovenou tímto zákonem nebo jiným právním předpisem upravujícím postup při provozování směnárenské činnosti,
+směnárník nesplňuje podmínky stanovené tímto zákonem pro udělení povolení k činnosti směnárníka, nebo
+povolení k činnosti směnárníka bylo uděleno na základě nepravdivých nebo neúplných údajů anebo v důsledku jiného nedovoleného postupu směnárníka.
+PODMÍNKY PROVOZOVÁNÍ SMĚNÁRENSKÉ ČINNOSTI
+Provozovna
+Provozovnou se pro účely tohoto zákona rozumí prostor, v němž je směnárenská činnost provozována. Nestanoví-li tento zákon jinak, jeho ustanovení o provozovně se použijí obdobně i pro směnárenský automat.
+Osoba oprávněná provozovat směnárenskou činnost (dále jen „provozovatel“) nesmí provozovat směnárenskou činnost mimo provozovnu.
+Provozovna musí být označena obchodní firmou nebo jménem a příjmením anebo názvem provozovatele a provozní dobou určenou pro styk s veřejností.
+Provozovatel oznámí České národní bance, kde bude jeho provozovna umístěna, alespoň 3 pracovní dny přede dnem, ve kterém v ní začne provozovat směnárenskou činnost. Provozovatel oznámí České národní bance bez zbytečného odkladu změnu údajů uvedených v tomto oznámení; to neplatí, jedná-li se o změnu údajů, které jsou vedeny v základních registrech jako referenční údaje.
+Náležitosti oznámení, jeho formu a způsob podání stanoví prováděcí právní předpis.
+Kurzovní lístek
+Provozovatel uveřejňuje v provozovnách, v nichž provádí směnárenské obchody, kurzovní lístek.
+Kurzovní lístek obsahuje
+označení, že se jedná o kurzovní lístek,
+obchodní firmu nebo název anebo jméno, popřípadě jména, a příjmení provozovatele a identifikační číslo osoby,
+názvy nebo jiná označení měn, mezi nimiž provozovatel směnu provádí,
+informace o směnných kurzech, jimiž je prováděn přepočet mezi těmito měnami a které jsou pro zájemce o provedení směnárenského obchodu (dále jen „zájemce“) nejméně výhodné,
+informace o úplatě za provedení směnárenského obchodu a podmínkách, za kterých se úplata vyžaduje, a
+informace o právu osoby, se kterou provozovatel provedl směnárenský obchod, (dále jen „zákazník“) odstoupit od smlouvy o směnárenském obchodu.
+Údaje na kurzovním lístku se uvádějí alespoň v českém a anglickém jazyce, přehledně, v přiměřené velikosti, jasným a srozumitelným způsobem. Názvy měn podle odstavce 2 písm. c) nemusí být uváděny v českém a anglickém jazyce, je-li z jejich jiného označení zřejmé, o jakou měnu se jedná. Kurzovní lístek musí být dostatečně oddělen a odlišen od jakýchkoli jiných informací uveřejněných v provozovně. Číselné údaje se uvádějí arabskými číslicemi.
+Údaje uvedené v odstavci 2 písm. c) a d) se uvádějí tímto způsobem:
+informace o směru směny se uvádí z pozice provozovatele v první osobě jednotného nebo množného čísla,
+v případě směny české koruny se směnný kurz, jímž provozovatel provádí přepočet při nabytí cizí měny, uvede před směnným kurzem, jímž provozovatel provádí přepočet při zcizení cizí měny.
+Jiné podmínky směny
+Provozovatel nesmí provést směnárenský obchod s použitím směnného kurzu nebo za úplatu, které jsou pro zájemce méně výhodné než směnný kurz nebo úplata uvedené na kurzovním lístku.
+Nabízí-li provozovatel směnný kurz, který je pro zájemce výhodnější než směnný kurz uvedený na kurzovním lístku, smí v provozovně a jejím bezprostředním okolí uveřejnit pouze obecnou informaci o této nabídce bez uveřejnění konkrétního směnného kurzu.
+Úplata
+Provozovateli nenáleží úplata za provedení směnárenského obchodu, s výjimkou úplaty za provedení směny
+mincí složených zákazníkem,
+šeku předloženého zákazníkem, nebo
+bezhotovostních peněžních prostředků nebo elektronických peněz, dal-li zákazník platební příkaz k jejich převodu prostřednictvím provozovatele.
+Informace před provedením směnárenského obchodu
+Převyšuje-li částka složená zájemcem k provedení směny částku odpovídající 1 000 EUR, provozovatel sdělí zájemci s dostatečným předstihem před uzavřením směnárenského obchodu informace uvedené v § 14 odst. 2 písm. a) bodu 1, písm. b) bodech 1 až 6, písm. c) bodu 1 a datum a čas sdělení informace.
+Informace podle odstavce 1 musí být zájemci sděleny v textové podobě, alespoň v českém a anglickém jazyce, v přiměřené velikosti, jasným a srozumitelným způsobem. Číselné údaje se uvádějí arabskými číslicemi. Textová podoba je zachována, jsou-li informace sděleny takovým způsobem, že je zájemce může uchovat a opakovaně zobrazovat.
+Doklad o provedení směnárenského obchodu
+Provozovatel vydá bez zbytečného odkladu zákazníkovi doklad o provedení směnárenského obchodu. Doklad musí být zákazníkovi vydán v textové podobě. Údaje na dokladu musí být uvedeny alespoň v českém a anglickém jazyce, přehledně, v přiměřené velikosti, jasným a srozumitelným způsobem. Číselné údaje se uvádějí arabskými číslicemi. Textová podoba je zachována, je-li doklad vydán takovým způsobem, že jej zákazník může uchovat a opakovaně zobrazovat.
+Provozovatel na dokladu podle odstavce 1 uvede informace o
+provozovateli, kterými jsou
+jméno a identifikační číslo osoby,
+adresa sídla a adresa provozovny, ve které byl směnárenský obchod proveden, popřípadě jiná adresa, včetně elektronické, která má význam pro komunikaci zákazníka s provozovatelem, a v případě směnárenských obchodů uzavřených prostřednictvím směnárenského automatu také adresa nejbližší provozovny, která není směnárenským automatem,
+provozní doba určená pro styk s veřejností v provozovně, ve které byl směnárenský obchod proveden,
+směnárenském obchodu, kterými jsou
+názvy nebo jiná označení měn, mezi nimiž byla směna provedena,
+částka, která byla zákazníkem složena k provedení směny,
+směnný kurz,
+částka, která odpovídá částce složené zákazníkem k provedení směny po přepočtu směnným kurzem,
+úplata za provedení směnárenského obchodu,
+částka, která byla zákazníkovi vyplacena po provedení směny, jestliže se liší od částky uvedené v bodě 4,
+datum a čas provedení směnárenského obchodu,
+právech zákazníka, kterými jsou
+informace o právu zákazníka odstoupit od smlouvy o směnárenském obchodu a popis, jak od smlouvy o směnárenském obchodu odstoupit,
+informace o právu zákazníka podat stížnost orgánu dohledu a název a adresa sídla tohoto orgánu, včetně adresy jeho internetové stránky obsahující informace o právech zákazníka,
+informace o právu zákazníka podat návrh orgánu mimosoudního řešení sporů mezi zákazníkem a provozovatelem a název a adresa sídla tohoto orgánu.
+Česká národní banka uveřejní adresu internetové stránky podle odstavce 2 písm. c) bodu 2 formou úředního sdělení České národní banky ve Věstníku České národní banky.
+Provozovatel splní vydáním dokladu podle odstavce 1 povinnost vydat doklad podle zákona upravujícího ochranu spotřebitele.
+Jestliže provozovatel zákazníkovi v souvislosti se směnárenským obchodem prodá nebo poskytne doplňkové zboží nebo doplňkovou službu (dále jen „doplňková služba“), vydá mu o tom bez zbytečného odkladu doklad podle zákona upravujícího ochranu spotřebitele. Provozovatel na dokladu podle odstavce 1 uvede také informaci o právu zákazníka odstoupit od smlouvy o doplňkové službě podle § 16c odst. 2. Odstavec 1 věty druhá až poslední se použijí obdobně.
+Informační povinnost vůči České národní bance
+Provozovatel poskytuje České národní bance informace o objemu směnárenských obchodů provedených v jednotlivých měnách.
+Rozsah, formu, lhůty a způsob poskytování informací stanoví prováděcí právní předpis.
+Dokumenty a evidence
+Provozovatel při provozování směnárenské činnosti pořizuje dokumenty nebo jiné záznamy v rozsahu, který je nezbytný pro osvědčení plnění jeho povinností stanovených tímto zákonem.
+Provozovatel vede evidenci směnárenských obchodů, ve které zaznamenává
+pořadové číslo záznamu v nepřerušené řadě, a to alespoň za jednotlivé provozovny,
+informace o směnárenském obchodu uvedené na dokladu podle § 14 odst. 2 písm. b),
+informace o případném odstoupení od smlouvy o směnárenském obchodu podle § 16a, včetně informace, jakým způsobem si strany vrátily, co nabyly ze zrušeného závazku ze smlouvy o směnárenském obchodu.
+Provozovatel provádí záznamy do evidence směnárenských obchodů bez zbytečného odkladu po provedení směnárenského obchodu, nejpozději však do konce dne, ve kterém byl obchod proveden.
+Provozovatel uchovává dokumenty a záznamy uvedené v odstavcích 1 a 2 do konce šestého kalendářního roku ode dne, kdy tyto dokumenty a záznamy vznikly. Povinnost uchovávat tyto dokumenty a záznamy podle jiných právních předpisů tím není dotčena.
+Povinnost uvedenou v odstavci 4 má i právní nástupce provozovatele a ten, jehož oprávnění provozovat směnárenskou činnost zaniklo nebo bylo zrušeno.
+Odstoupení od smlouvy o směnárenském obchodu
+Zákazník může od smlouvy o směnárenském obchodu odstoupit do 3 hodin od provedení směnárenského obchodu, a to v provozovně, ve které směnárenský obchod provedl; odstoupení se musí vztahovat na celý rozsah smlouvy o směnárenském obchodu.
+Převyšuje-li částka složená zákazníkem k provedení směny částku odpovídající 1 000 EUR, může zákazník odstoupit od smlouvy podle odstavce 1 v rozsahu, v němž jím složená částka k provedení směny odpovídá částce 1 000 EUR.
+Lhůta podle odstavce 1 běží pouze během provozní doby určené pro styk s veřejností v provozovně, ve které zákazník směnárenský obchod provedl. Proti zákazníkovi, který se dovolá provozní doby uvedené na dokladu o provedení směnárenského obchodu, nemůže provozovatel namítat, že lhůta podle odstavce 1 již uplynula. Je-li lhůta podle odstavce 1 přerušena, neskončí dříve než za 30 minut od okamžiku, kdy začala znovu běžet.
+Uzavře-li zákazník smlouvu o směnárenském obchodu prostřednictvím směnárenského automatu, může od smlouvy o směnárenském obchodu odstoupit do 3 pracovních dnů ode dne provedení směnárenského obchodu; odstoupení se musí vztahovat na celý rozsah smlouvy o směnárenském obchodu.
+Převyšuje-li částka složená zákazníkem k provedení směny částku odpovídající 1 000 EUR, může zákazník odstoupit od smlouvy podle odstavce 1 v rozsahu, v němž jím složená částka k provedení směny odpovídá částce 1 000 EUR.
+Odstoupí-li zákazník od smlouvy o směnárenském obchodu podle § 16a nebo 16b, může provozovatel zákazníkovi místo částky, která byla zákazníkem složena k provedení směny, vyplatit rozdíl mezi částkou, která by byla zákazníkovi vyplacena po provedení směny při použití kurzu české měny k cizí měně vyhlášeného Českou národní bankou pro den předcházející dni provedení směnárenského obchodu, a částkou, která byla zákazníkovi po provedení směny skutečně vyplacena. V takovém případě zákazník přijaté peněžní prostředky nevrací.
+Poskytne-li provozovatel zákazníkovi v souvislosti se směnárenským obchodem doplňkovou službu, může zákazník spolu s odstoupením od smlouvy o směnárenském obchodu odstoupit i od smlouvy o doplňkové službě.
+Nemůže-li zákazník odstoupit od smlouvy o směnárenském obchodu proto, že mu v tom brání překážka na straně provozovatele, může od smlouvy odstoupit ve lhůtě 6 měsíců ode dne provedení směnárenského obchodu, a to i jinde než v provozovně, ve které byl proveden směnárenský obchod.
+Odstavec 1 se použije obdobně, neodstoupí-li zákazník od smlouvy, protože byl provozovatelem uveden v omyl nebo jej provozovatel neinformoval o právu odstoupit od smlouvy podle § 11 odst. 2 písm. f) nebo § 14 odst. 2 písm. c) bodu 1.
+Platí, že lhůta pro odstoupení podle § 16b odst. 1 a § 16d odst. 1 je zachována, jestliže zákazník v jejím průběhu prostřednictvím provozovatele poštovních služeb odešle odstoupení od smlouvy provozovateli.
+Odstoupí-li zákazník od smlouvy o směnárenském obchodu podle § 16a nebo 16b, provozovatel není povinen vrátit přijaté peněžní prostředky dříve, než mu
+přijaté peněžní prostředky vrátí zákazník, nebo
+vrácení přijatých peněžních prostředků zákazník nabídne a provozovatel je nepřijme.
+Pro vrácení plnění ze závazku ze smlouvy o doplňkové službě, od které zákazník odstoupil podle § 16c odst. 2, se odstavec 1 použije obdobně.
+Provozovatel vydá bez zbytečného odkladu zákazníkovi doklad o odstoupení od smlouvy o směnárenském obchodu. Doklad musí být zákazníkovi vydán v textové podobě. Údaje na dokladu musí být uvedeny alespoň v českém a anglickém jazyce, přehledně, v přiměřené velikosti, jasným a srozumitelným způsobem. Číselné údaje se uvádějí arabskými číslicemi. Textová podoba je zachována, je-li doklad vydán takovým způsobem, že jej zákazník může uchovat a opakovaně zobrazovat.
+Provozovatel na dokladu podle odstavce 1 uvede informace o
+provozovateli, kterými jsou
+jméno a identifikační číslo osoby,
+adresa sídla a adresa provozovny, ve které k odstoupení od smlouvy o směnárenském obchodu došlo,
+smlouvě o směnárenském obchodu, od které zákazník odstoupil,
+částkách, které si strany vrátily, včetně názvu nebo jiného označení měn, a
+datu a čase odstoupení od smlouvy o směnárenském obchodu.
+K ujednáním odchylujícím se od § 16a až 16g v neprospěch zákazníka se nepřihlíží.
+DOHLED
+Výkon dohledu
+Česká národní banka vykonává dohled nad dodržováním povinností provozovatelů, které jsou stanoveny tímto zákonem nebo jiným právním předpisem upravujícím postup při provozování směnárenské činnosti.
+Provozovatel je povinen poskytnout České národní bance při výkonu dohledu požadované informace a potřebná vysvětlení; to platí obdobně pro toho, kdo je důvodně podezřelý, že neoprávněně provozuje směnárenskou činnost.
+U toho, kdo je důvodně podezřelý, že neoprávněně provozuje směnárenskou činnost, může Česká národní banka provést kontrolu na místě v rozsahu, který je nezbytný ke zjištění skutkového stavu týkajícího se činnosti, která zakládá toto podezření.
+Pro povinnost mlčenlivosti při výkonu dohledu podle tohoto zákona se použijí ustanovení zákona upravujícího činnost bank o povinnosti mlčenlivosti při výkonu dohledu obdobně.
+Opatření k nápravě
+Jestliže provozovatel poruší povinnost stanovenou tímto zákonem nebo jiným právním předpisem upravujícím postup při provozování směnárenské činnosti, může Česká národní banka podle povahy a závažnosti zjištěného nedostatku uložit tomuto provozovateli, aby
+ve stanovené lhůtě zjednal nápravu, nebo
+ve stanovené lhůtě vyměnil svoji vedoucí osobu.
+Je-li toho třeba k ochraně zákazníků provozovatele, může Česká národní banka spolu s opatřením podle odstavce 1 zakázat provozovateli provozování směnárenské činnosti nebo uložit provozovateli, aby omezil provozování směnárenské činnosti, dokud nesplní uložené opatření podle odstavce 1.
+Provozovatel, kterému Česká národní banka uložila opatření k nápravě podle odstavce 1, informuje Českou národní banku bez zbytečného odkladu o odstranění nedostatku a o způsobu zjednání nápravy.
+Pořádková pokuta
+Česká národní banka může za podmínek stanovených správním řádem uložit pořádkovou pokutu do výše 500 000 Kč.
+Příjem z pořádkových pokut je příjmem státního rozpočtu.
+PŘESTUPKY
+Přestupky fyzických a právnických osob
+Fyzická nebo právnická osoba se dopustí přestupku tím, že
+uvede nesprávný údaj nebo zatají některou skutečnost v žádosti o udělení povolení k činnosti směnárníka podané podle § 6 odst. 6,
+jako právní nástupce provozovatele nebo ten, jehož povolení k činnosti směnárníka zaniklo nebo bylo odňato, v rozporu s § 16 odst. 5 neuchová dokument nebo záznam po stanovenou dobu,
+provozuje směnárenskou činnost, aniž je k tomu oprávněna, nebo
+jako osoba, která je důvodně podezřelá z neoprávněného provozování směnárenské činnosti, neposkytne požadovanou informaci nebo potřebné vysvětlení podle § 17 odst. 2.
+Za přestupek podle odstavce 1 lze uložit pokutu do
+1 000 000 Kč, jde-li o přestupek podle písmene a) nebo d),
+5 000 000 Kč, jde-li o přestupek podle písmene b) nebo c).
+Přestupek směnárníka
+Směnárník se dopustí přestupku tím, že v rozporu s § 8 odst. 1 neoznámí změnu údajů uvedených v žádosti o udělení povolení k činnosti směnárníka nebo v jejích přílohách.
+Za přestupek podle odstavce 1 lze uložit pokutu do 500 000 Kč.
+Přestupky provozovatele
+Provozovatel se dopustí přestupku tím, že
+v rozporu s § 10 odst. 2 provozuje směnárenskou činnost mimo provozovnu,
+provozuje směnárenskou činnost v provozovně, kterou neoznámil podle § 10 odst. 4 věty první,
+poruší oznamovací povinnost podle § 10 odst. 4 věty druhé,
+neuveřejní kurzovní lístek podle § 11,
+poruší zákaz podle § 12 odst. 1,
+poruší zákaz podle § 12 odst. 2,
+požaduje úplatu za provedení směnárenského obchodu, ačkoliv mu úplata podle § 12a nenáleží,
+nesdělí zájemci informaci podle § 13,
+nevydá zákazníkovi doklad podle § 14 nebo 16g,
+nesplní informační povinnost podle § 15,
+nepořídí dokument nebo záznam podle § 16 odst. 1,
+nevede evidenci směnárenských obchodů podle § 16 odst. 2,
+neprovede záznam do evidence směnárenských obchodů podle § 16 odst. 3,
+v rozporu s § 16 odst. 4 neuchová dokument nebo záznam po stanovenou dobu,
+zákazníkovi nevrátí přijaté peněžní prostředky nebo plnění ze závazku ze smlouvy o doplňkové službě bez zbytečného odkladu poté, co mu přijaté peněžní prostředky nebo plnění ze závazku ze smlouvy o doplňkové službě vrátil zákazník nebo mu zákazník jejich vrácení nabídl a provozovatel je nepřijal podle § 16f,
+fyzická osoba, jejíž jednání je za účelem posuzování odpovědnosti za přestupek přičitatelné provozovateli, úmyslně brání zákazníkovi odstoupit od smlouvy o směnárenském obchodu,
+neposkytne při výkonu dohledu požadovanou informaci nebo potřebné vysvětlení podle § 17 odst. 2,
+neprovede ve stanovené lhůtě opatření k nápravě podle § 18 odst. 1 písm. b), nebo
+v rozporu s § 18 odst. 2 provozuje směnárenskou činnost.
+Za přestupek podle odstavce 1 lze uložit pokutu do
+100 000 Kč, jde-li o přestupek podle písmene c),
+1 000 000 Kč, jde-li o přestupek podle písmene a), b), g) až k), m), n) nebo q) až s),
+5 000 000 Kč, jde-li o přestupek podle písmene d) až f), l), o) nebo p).
+Společná ustanovení
+Přestupky podle tohoto zákona projednává Česká národní banka.
+Pravomocné rozhodnutí České národní banky o uložení správního trestu a pravomocné rozhodnutí soudu o zrušení tohoto správního trestu uveřejní Česká národní banka na svých internetových stránkách.
+USTANOVENÍ SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ
+Přepočet měn
+Částka složená zákazníkem k provedení směny se pro účely § 13 odst. 1, § 16a odst. 2 a § 16b odst. 2 přepočte kurzem české měny k cizí měně vyhlášeným Českou národní bankou pro den předcházející dni provedení směnárenského obchodu.

@@ -1,0 +1,345 @@
+ZÁKLADNÍ USTANOVENÍ
+Česká národní banka je ústřední bankou České republiky, orgánem vykonávajícím dohled nad finančním trhem a orgánem příslušným k řešení krize.
+Česká národní banka je právnickou osobou veřejného práva se sídlem v Praze.
+České národní bance jsou svěřeny kompetence správního úřadu v rozsahu stanoveném tímto zákonem a jinými právními předpisy.
+Česká národní banka je součástí Evropského systému centrálních bank podle Smlouvy o fungování Evropské unie a podle Protokolu o statutu Evropského systému centrálních bank a Evropské centrální banky (dále jen „Statut“) a podílí se na plnění cílů a úkolů Evropského systému centrálních bank.
+Hlavním cílem činnosti České národní banky je péče o cenovou stabilitu. Česká národní banka dále pečuje o finanční stabilitu a o bezpečné fungování finančního systému v České republice. Pokud tím není dotčen její hlavní cíl, Česká národní banka podporuje obecnou hospodářskou politiku vlády vedoucí k udržitelnému hospodářskému růstu a obecné hospodářské politiky v Evropské unii se záměrem přispět k dosažení cílů Evropské unie. Česká národní banka jedná v souladu se zásadou otevřeného tržního hospodářství.
+Česká národní banka plní tyto úkoly:
+určuje a provádí měnovou politiku,
+vydává bankovky a mince,
+řídí peněžní oběh, platební styk a zúčtování bank, zahraničních bank vykonávajících bankovní činnosti na území České republiky prostřednictvím své pobočky (dále jen „pobočka zahraniční banky“) a spořitelních a úvěrních družstev, pečuje o jejich plynulost a hospodárnost a podílí se na zajištění bezpečnosti, spolehlivosti a efektivnosti platebních a vypořádacích systémů a na jejich rozvoji,
+vykonává dohled nad osobami působícími na finančním trhu (§ 44 odst. 1),
+rozpoznává, sleduje a posuzuje rizika ohrožení stability finančního systému a v zájmu předcházení vzniku nebo snižování těchto rizik přispívá prostřednictvím svých pravomocí k odolnosti finančního systému, omezování nárůstu systémových rizik a udržení finanční stability a vytváří tak makroobezřetnostní politiku; v případě potřeby spolupracuje na tvorbě makroobezřetnostní politiky s orgány státu, jejichž působnosti se tato politika týká,
+provádí další činnosti podle tohoto zákona a podle jiných právních předpisů.
+Česká národní banka při plnění svých úkolů spolupracuje s ústředními bankami jiných států, zahraničními orgány zabývajícími se dohledem nad finančním trhem, zahraničními orgány příslušnými k řešení krize, s mezinárodními finančními institucemi a mezinárodními orgány zabývajícími se dohledem nad finančním trhem a s dalšími zahraničními a mezinárodními orgány, které plní obdobné úkoly jako Česká národní banka, a sjednává s nimi v rámci své působnosti příslušné dohody.
+Česká národní banka zváží možný dopad svého rozhodnutí, které hodlá vydat v souvislosti s výkonem dohledu podle odstavce 2 písm. d), na stabilitu finančního systému jiného členského státu Evropské unie, a to s přihlédnutím ke skutečnostem dostupným v době jeho vydání a zejména v případech, kdy nastane mimořádná situace, která by mohla fungování finančních systémů ovlivnit.
+Česká národní banka je součástí Evropského systému dohledu nad finančními trhy a spolupracuje s Evropskou radou pro systémová rizika a evropskými orgány dohledu nad finančními trhy.
+Česká národní banka informuje Evropskou radu pro systémová rizika o významných opatřeních k omezení rizik, která by mohla ohrozit stabilitu finančního systému v České republice.
+Česká národní banka je povinna podávat Poslanecké sněmovně nejméně dvakrát ročně k projednání zprávu o měnovém vývoji. Usnese-li se na tom Poslanecká sněmovna, Česká národní banka předloží nejpozději do 30 dnů mimořádnou zprávu o měnovém vývoji. V usnesení Poslanecké sněmovny musí být uvedeno, co má mimořádná zpráva obsahovat.
+Zprávu o měnovém vývoji předkládá Poslanecké sněmovně guvernér České národní banky, který je v tomto případě oprávněn účastnit se schůze Poslanecké sněmovny a musí mu být uděleno slovo.
+Poslanecká sněmovna zprávu o měnovém vývoji vezme na vědomí nebo si vyžádá její doplnění.
+Vyžádá-li si sněmovna doplnění zprávy, je Česká národní banka povinna do 6 týdnů předložit zprávu doplněnou podle požadavku Poslanecké sněmovny.
+Česká národní banka je povinna informovat nejméně jednou za tři měsíce o měnovém vývoji veřejnost způsobem umožňujícím dálkový přístup.
+Česká národní banka je povinna podávat Poslanecké sněmovně nejméně jedenkrát ročně k informaci zprávu o finanční stabilitě. Součástí této zprávy je též strategie makroobezřetnostní politiky. Tuto zprávu uveřejňuje Česká národní banka rovněž způsobem umožňujícím dálkový přístup.
+Při plnění svých úkolů může Česká národní banka vydat doporučení, upozornění nebo varování určené veřejnosti, orgánům České republiky anebo jednotlivým nebo druhově určeným osobám.
+Pokud by uveřejnění doporučení, upozornění nebo varování mohlo ohrozit plnění úkolů České národní banky, nelze je poskytnout podle zákona upravujícího svobodný přístup k informacím.
+ORGANIZACE ČESKÉ NÁRODNÍ BANKY
+Českou národní banku tvoří
+ústředí se sídlem v Praze;
+pobočky;
+účelové organizační jednotky.
+Nejvyšším řídícím orgánem České národní banky je bankovní rada České národní banky (dále jen „bankovní rada“). Bankovní rada určuje měnovou a makroobezřetnostní politiku a nástroje pro jejich uskutečňování. Rozhoduje o zásadních opatřeních měnové a makroobezřetnostní politiky, v oblasti dohledu nad finančním trhem a v oblasti řešení krize na finančním trhu.
+Bankovní rada dále zejména
+stanoví zásady činnosti a obchodů České národní banky;
+schvaluje rozpočet České národní banky,
+stanoví organizační uspořádání a působnost organizačních jednotek České národní banky;
+stanoví druhy fondů České národní banky, jejich výši a použití;
+vykonává práva a povinnosti vyplývající z pracovněprávních vztahů vůči zaměstnancům České národní banky; těmito úkony může pověřit jiné osoby z řad zaměstnanců,
+uděluje souhlas k podnikatelské činnosti zaměstnanců České národní banky,
+stanoví mzdové a další požitky guvernéra; mzdové a další požitky viceguvernérů a dalších členů bankovní rady stanoví guvernér,
+rozhoduje o rozkladech proti rozhodnutím České národní banky v prvním stupni.
+Bankovní rada je sedmičlenná. Jejími členy jsou guvernér České národní banky, 2 viceguvernéři České národní banky a další 4 členové bankovní rady České národní banky.
+Guvernéra, viceguvernéry a ostatní členy jmenuje a odvolává prezident republiky.
+Nikdo nesmí zastávat funkci člena bankovní rady více než dvakrát.
+Členové bankovní rady jsou jmenováni na dobu 6 roků.
+S členstvím v bankovní radě je neslučitelná funkce poslance zákonodárného sboru, člena vlády a členství v řídících, dozorčích a kontrolních orgánech jiných bank a podnikatelských subjektů a výkon samostatně výdělečné činnosti s výjimkou činnosti vědecké, literární, publicistické, umělecké a pedagogické a s výjimkou správy vlastního majetku. Členství v bankovní radě je dále neslučitelné s jakoukoliv činností, která může způsobit střet zájmů mezi prováděním této činnosti a členstvím v bankovní radě.
+Členem bankovní rady může být jmenován občan České republiky, který
+je plně způsobilý k právním úkonům,
+má ukončené vysokoškolské vzdělání,
+je bezúhonný,
+je v měnových záležitostech nebo v oblasti finančního trhu uznávanou a zkušenou osobností.
+Bezúhonnou se pro účely tohoto zákona rozumí fyzická osoba, která nebyla pravomocně odsouzena pro trestný čin.
+Členové bankovní rady jsou zaměstnanci České národní banky.
+Výkon funkce člena bankovní rady končí
+uplynutím jeho funkčního období,
+dnem bezprostředně následujícím po dni doručení písemného odvolání z funkce nebo písemně učiněného vzdání se funkce a nebo pozdějším dnem uvedeným v doručeném odvolání nebo vzdání se funkce.
+Člen bankovní rady může být z funkce odvolán pouze tehdy, přestal-li splňovat podmínky požadované k jejímu výkonu nebo dopustil-li se vážného pochybení. Rozhodnutí o odvolání guvernéra se doručuje rovněž Radě guvernérů Evropské centrální banky.
+Není-li funkce guvernéra obsazena, pověří bankovní rada některého z viceguvernérů výkonem funkce guvernéra na dobu, než bude jmenován nový guvernér. Pověřený viceguvernér vykonává funkci guvernéra v plném rozsahu jeho pravomocí a odpovědnosti.
+Jednání bankovní rady předsedá guvernér, v jeho nepřítomnosti jím pověřený viceguvernér. Bankovní rada přijímá svá rozhodnutí prostou většinou hlasů. Bankovní rada je usnášeníschopná, je-li přítomen guvernér, nebo jím pověřený předsedající viceguvernér a alespoň další tři její členové. V případě rovnosti hlasů rozhoduje hlas předsedajícího.
+Jednací řád bankovní rady schvaluje bankovní rada.
+Jménem České národní banky jedná navenek guvernér, který též podepisuje právní předpisy a akty vydávané Českou národní bankou a vyhlašované ve Sbírce zákonů a mezinárodních smluv. Guvernéra zastupuje jím pověřený viceguvernér v plném rozsahu.
+VZTAH K VLÁDĚ A DALŠÍM ORGÁNŮM
+Česká národní banka, bankovní rada ani žádný člen bankovní rady nesmějí při výkonu pravomocí a plnění úkolů a povinností svěřených jim Smlouvou o Evropské unii, Smlouvou o fungování Evropské unie a Statutem a při výkonu dalších činností vyžadovat ani přijímat pokyny od prezidenta republiky, Parlamentu, vlády a jiných orgánů České republiky, dále od orgánů, institucí nebo jiných subjektů Evropské unie, od vlád členských států Evropské unie nebo od jakéhokoli jiného subjektu.
+Česká národní banka a vláda se vzájemně informují o zásadách a opatřeních měnové, makroobezřetnostní a hospodářské politiky.
+Česká národní banka zaujímá stanovisko k návrhům, předkládaným k projednání vládě, které se dotýkají působnosti České národní banky.
+Česká národní banka plní poradní funkce vůči vládě v záležitostech měnově politické povahy, makroobezřetnostní politiky a finančního trhu.
+Ministr financí nebo jiný pověřený člen vlády je oprávněn zúčastnit se s hlasem poradním zasedání bankovní rady a může jí předkládat návrhy k projednání.
+Guvernér České národní banky nebo jím určený viceguvernér je oprávněn zúčastnit se s hlasem poradním schůze vlády.
+EMISE BANKOVEK A MINCÍ
+Česká národní banka má výhradní právo vydávat bankovky a mince, jakož i bankovky a mince pamětní (dále jen „bankovky a mince“).
+Peněžní jednotkou v České republice je koruna česká, zkratka názvu je „Kč“. Koruna česká se dělí na sto haléřů.
+Česká národní banka spravuje zásoby bankovek a mincí a organizuje dodávky bankovek a mincí od výrobců v souladu s požadavky peněžního oběhu.
+Česká národní banka sjednává tisk bankovek a ražbu mincí a dozírá na ochranu a bezpečnost do oběhu nevydaných bankovek a mincí a na úschovu a ničení tiskových desek, razidel a neplatných a vyřazených bankovek a mincí.
+Platné bankovky a mince vydané Českou národní bankou jsou zákonnými penězi ve své nominální hodnotě při všech platbách na území České republiky.
+Mince z drahých kovů, pamětní bankovky a mince a mince ve zvláštním provedení určené ke sběratelským účelům mohou být prodávány za ceny odlišné od jejich nominální hodnoty.
+Česká národní banka může prohlásit za neplatné a stáhnout z oběhu bankovky a mince, které vydala. Jejich nominální hodnotu uhradí výměnou za jiné nově vydané bankovky a mince. Doba, po kterou je možno výměnu provádět, nesmí být kratší pěti roků, pokud jiný zákon nestanoví jinak.
+Na konci období stanoveného pro výměnu se úhrnná částka bankovek a mincí prohlášených za neplatné, ale nepředložených k výměně, odečte od množství peněz v oběhu v účtech České národní banky. Tato částka je příjmem České národní banky.
+Česká národní banka má výhradní právo vydávat obchodní mince, které se nazývají české dukáty. Ustanovení § 15 se pro ně použije obdobně.
+Obchodní mince jsou mince vydané Českou národní bankou, které nejsou zákonnými penězi a nemají nominální hodnotu.
+Nikdo nesmí vyrábět, dovážet, nabízet, prodávat nebo jinak rozšiřovat medaile, žetony nebo podobné předměty, které jsou svým provedením způsobilé uvést jejich držitele v omyl, že jde o mince vydávané Českou národní bankou.
+Nikdo nesmí při označení nebo popisu žetonu, medaile nebo podobného předmětu v souvislosti s jejich nabízením, prodejem nebo jiným rozšiřováním použít slovo „mince“.
+Česká národní banka stanoví vyhláškami
+nominální hodnoty, rozměry, hmotnost, materiál, vzhled a další náležitosti bankovek a mincí a jejich vydání do oběhu;
+ukončení platnosti bankovek a mincí a způsob a dobu jejich výměny za jiné bankovky a mince.
+Česká národní banka stanoví vyhláškou v případě obchodní mince, zda se vydává jako jeden český dukát nebo jeho násobek, dále rozměry, hmotnost, materiál, vzhled, její další náležitosti a datum vydání.
+NÁSTROJE MĚNOVÉ REGULACE ČESKÉ NÁRODNÍ BANKY
+Česká národní banka stanoví úrokové sazby, rámce, splatnosti a další podmínky obchodů, které provádí podle tohoto zákona a jiných zákonů, a určuje druhy těchto obchodů a protistrany České národní banky v nich.
+Banky, pobočky zahraničních bank a spořitelní a úvěrní družstva jsou povinny mít na účtu u České národní banky uloženu stanovenou část svých zdrojů jako povinné minimální rezervy. Povinné minimální rezervy se udržují v českých korunách a mohou být úročeny.
+Povinné minimální rezervy mohou činit nejvýše 30 % celkových závazků osoby, která je povinna udržovat povinné minimální rezervy (dále jen „povinná osoba“), snížených o závazky této povinné osoby vůči jiným povinným osobám. Vyžaduje-li to měnová politika České národní banky, výše povinných minimálních rezerv může být stanovena rozdílně pro druhově určené povinné osoby.
+Pokud povinná osoba neudržuje stanovené povinné minimální rezervy, je Česká národní banka oprávněna účtovat jí z částky, o kterou nejsou stanovené povinné minimální rezervy naplněny, úrok ve výši odpovídající průměrné lombardní sazbě v období, po které měla povinné minimální rezervy udržovat, zvýšené o 5 procentních bodů, nejméně však ve výši 5 %.
+Česká národní banka stanoví vyhláškou
+výši povinných minimálních rezerv,
+den, od něhož povinná osoba musí ve stanovené výši povinné minimální rezervy udržovat,
+období, po které se povinné minimální rezervy udržují,
+okruh závazků, ze kterých se povinné minimální rezervy udržují, a zdrojů údajů o těchto závazcích,
+postup, jakým bude určena stanovená výše povinných minimálních rezerv v případě, že povinná osoba údaje, ze kterých se výše povinných minimálních rezerv stanoví, České národní bance nepředloží.
+OBCHODY ČESKÉ NÁRODNÍ BANKY
+Obchody s Českou republikou
+Česká národní banka vede účty podle rozpočtových pravidel.
+Česká národní banka dává do prodeje podle zákona upravujícího vydávání dluhopisů státní dluhopisy a v dohodě s ministerstvem financí může z jeho pověření a za dohodnutou úplatu vykonávat i činnosti spojené se správou, splácením a převody státních dluhopisů, s výplatou úroků z těchto dluhopisů, popřípadě další požadované činnosti.
+Česká národní banka může na základě dohody s Ministerstvem financí podle rozpočtových pravidel sjednávat obchody s investičními nástroji nebo jiné obchody nebo provádět činnosti, které je Ministerstvo financí v souladu s rozpočtovými pravidly oprávněno vykonávat prostřednictvím České národní banky. Tím není dotčen § 31.
+Obchody na volném trhu a úvěrové operace
+Česká národní banka je oprávněna k plnění svých úkolů provádět obchody na finančním trhu, zejména
+vést účty bank, poboček zahraničních bank, spořitelních a úvěrních družstev a přijímat jejich vklady,
+obchodovat s investičními nástroji a dalšími cennými papíry, devizovými hodnotami, drahými kovy, pohledávkami a dalšími aktivy formou nákupů a prodejů, repo obchodů, vkladů, výpůjček, zápůjček nebo termínovaných obchodů,
+provádět úvěrové operace.
+Při provádění úvěrových operací Česká národní banka vyžaduje dostatečné zajištění.
+Česká národní banka může výjimečně poskytnout bance, pobočce zahraniční banky nebo spořitelnímu a úvěrnímu družstvu v zájmu zachování jejich likvidity krátkodobý úvěr při odpovídajícím zajištění nebo uzavřít repo obchod, a to na dobu nejvýše 3 měsíců.
+Česká národní banka může vydávat cenné papíry a obchodovat s nimi.
+Česká národní banka je oprávněna vést evidenci cenných papírů představujících právo na splacení dlužené částky, vydaných
+Českou republikou,
+Českou národní bankou,
+jinými emitenty.
+Česká národní banka je oprávněna vést evidenci navazující na centrální evidenci cenných papírů vedenou centrálním depozitářem.
+Česká národní banka je oprávněna provozovat vypořádací systém s neodvolatelností vypořádání zákona upravujícího podnikání na kapitálovém trhu.
+Poskytnutí nouzové likvidity Garančnímu systému finančního trhu
+V naléhavém případě, kdy Garanční systém finančního trhu nemá dostatek volných finančních prostředků za účelem plnění svých úkolů vyplývajících z právní úpravy pojištění pohledávek z vkladů a taková situace by mohla ohrozit stabilitu na finančním trhu, může mu Česká národní banka na základě žádosti poskytnout krátkodobý úvěr nebo s ním uzavřít repo obchod, a to na dobu nejvýše 3 měsíců.
+Krátkodobý úvěr musí být zajištěný státními dluhopisy nebo jinými cennými papíry se státní zárukou ve vlastnictví Garančního systému finančního trhu.
+Předmětem repo obchodu mohou být pouze cenné papíry podle odstavce 2.
+Česká národní banka může, za podmínek obvyklých v bankovním sektoru vést účty svých zaměstnanců a poskytovat jim další bankovní služby. Vést účty a poskytovat bankovní služby může i právnickým osobám. Seznam těchto právnických osob zveřejňuje Česká národní banka v roční zprávě o výsledku hospodaření.
+Pro provádění činností uvedených v odstavci 1 platí zákon upravující činnost bank obdobně.
+Zákaz měnového financování
+Česká národní banka v souladu se Smlouvou o fungování Evropské unie a ji provádějícím přímo použitelným předpisem Evropské unie nesmí poskytovat možnost přečerpání zůstatku bankovních účtů nebo jakýkoli jiný typ úvěru orgánům, institucím nebo jiným subjektům Evropské unie, ústředním vládám, regionálním nebo místním orgánům nebo jiným veřejnoprávním orgánům, jiným veřejnoprávním subjektům nebo veřejným podnikům členských států Evropské unie; rovněž je zakázán přímý nákup jejich dluhových nástrojů Českou národní bankou.
+Odstavec 1 se nepoužije v případě bank, zahraničních bank a spořitelních a úvěrních družstev ve veřejném vlastnictví, kterým Česká národní banka v souvislosti s poskytováním peněžních prostředků poskytuje stejné zacházení jako bankám, zahraničním bankám a spořitelním a úvěrním družstvům v soukromém vlastnictví.
+PRAVOMOC A ČINNOST ČESKÉ NÁRODNÍ BANKY V DEVIZOVÉM HOSPODÁŘSTVÍ
+Česká národní banka
+stanoví, po projednání s vládou, režim kurzu české měny k cizím měnám, přičemž však nesmí být ohrožen hlavní cíl České národní banky,
+vyhlašuje kurz české měny k cizím měnám;
+nakládá s devizovými rezervami ve zlatě a devizových hodnotách a
+je oprávněna provádět platební styk se zahraničím.
+DALŠÍ ČINNOSTI A OPRÁVNĚNÍ ČESKÉ NÁRODNÍ BANKY
+Česká národní banka spolu s Ministerstvem financí připravuje a předkládá vládě návrhy zákonných úprav v oblasti měny a peněžního oběhu a návrhy zákonných úprav, kterými se upravují postavení, působnost, organizace a činnost České národní banky, s výjimkou dohledu nad finančním trhem, platebním stykem a vydáváním elektronických peněz.
+Česká národní banka spolupracuje s Ministerstvem financí na přípravě návrhů zákonných úprav v oblasti finančního trhu, platebního styku, vydávání elektronických peněz, devizového hospodářství a zavedení jednotné měny euro na území České republiky.
+Česká národní banka je oprávněna provozovat platební systémy. Podmínky provozování těchto platebních systémů a účasti v nich stanoví zákon upravující platební styk.
+Česká národní banka přidělí kód platebního styku poskytovateli platebních služeb, který hodlá užívat pro účty, které vede, čísla účtů v souladu s pravidly mezinárodní standardizace (IBAN).
+Česká národní banka stanoví vyhláškou pravidla tvorby čísla účtu v souladu s pravidly mezinárodní standardizace (IBAN).
+Česká národní banka vede seznam kódů platebního styku a poskytovatelů platebních služeb, kterým tyto kódy přidělila; seznam uveřejňuje způsobem umožňujícím dálkový přístup.
+Česká národní banka je oprávněna k zabezpečení svých úkolů vyplývajících z § 2 odst. 2 písm. c) požadovat po provozovateli platebního systému, provozovateli vypořádacího systému, poskytovateli platebních služeb a vydavateli elektronických peněz informace vztahující se k provozování těchto systémů a informace vztahující se k poskytování platebních služeb a vydávání elektronických peněz a tyto osoby jsou povinny České národní bance informace poskytovat.
+Česká národní banka provádí registraci zastoupení zahraničních bank a finančních institucí vykonávajících bankovní činnost, působí-li tato zastoupení na území České republiky. Zahraniční banka nebo finanční instituce je povinna přihlásit své zastoupení k registraci před počátkem jeho působení. Zastoupení nepodniká a nezapisuje se do obchodního rejstříku.
+Česká národní banka je oprávněna provádět investiční a obchodní činnost v rozsahu nezbytném pro zajištění svých činností.
+K podpoře plnění svých úkolů může Česká národní banka založit právnickou osobu nebo v ní nabýt účast.
+VÝKAZNICTVÍ A STATISTIKA
+VÝKAZNICTVÍ
+Česká národní banka je oprávněna vyžadovat podle tohoto zákona nebo jiných právních předpisů k zabezpečení svých úkolů potřebné informace a podklady ve formě statistických výkazů a výkazů pro účely dohledu, doplňkových informací nebo hlášení (dále jen „výkaz“ ) od vykazujících osob, kterými jsou
+osoby podléhající jejímu dohledu a zahraniční osoby s obdobným předmětem podnikání podnikající na území České republiky,
+jiné osoby podnikající na území České republiky, které náleží do sektoru finančních institucí podle přímo použitelného předpisu Evropské unie upravujícího systém národních a regionálních účtů v Evropské unii,
+osoby, které disponují informacemi potřebnými pro sestavení statistiky platební bilance, investiční pozice a dluhové služby vůči zahraničí, které Česká národní banka uvědomí o zařazení do okruhu statisticky významných vykazujících osob; za tím účelem je Česká národní banka oprávněna vyžadovat potřebné informace a podklady pro posouzení statistické významnosti.
+Výkazy podle odstavce 1 je Česká národní banka oprávněna používat k zabezpečení všech svých úkolů, nestanoví-li jiný právní předpis jinak.
+Vykazující osoby jsou povinny vypracovat a předkládat České národní bance výkazy, jejichž obsah, formu, lhůty a způsob sestavování a předkládání pro jednotlivé okruhy vykazujících osob stanoví Česká národní banka vyhláškou.
+Pokud předložené výkazy neodpovídají požadavkům stanoveným podle odstavce 3 nebo pokud vzniknou důvodné pochybnosti o jejich správnosti nebo úplnosti, je Česká národní banka oprávněna požadovat opravu, upřesnění nebo vysvětlení.
+STATISTIKA
+Česká národní banka k zajištění úkolů stanovených přímo použitelnými předpisy Evropské unie
+zajišťuje statistické výkaznictví včetně získávání a shromažďování údajů pro statistické účely,
+zpracovává a vytváří statistické informace a sestavuje, vede a uveřejňuje statistiky,
+podílí se na tvorbě statistik Evropského systému centrálních bank a Evropské centrální banky a přispívá k sestavování statistik Evropské unie.
+K zajištění úkolů podle odstavce 1 předává Česká národní banka ve stanovených termínech statistické informace a individuální údaje v požadované struktuře a podrobném členění Evropské centrální bance a Eurostatu.
+K zajištění úkolů uvedených v odstavci 1 zabezpečuje Česká národní banka metodiku statistických zjišťování, jejich zpracování a využití a obsahové vymezení požadovaných údajů včetně popisu jejich struktur.
+K zajištění úkolů podle odstavce 1 je Česká národní banka oprávněna požadovat a využívat pro statistické účely údaje a informace, které jsou potřebné pro sestavení statistik Evropského systému centrálních bank, Evropské centrální banky nebo Evropské unie a které ministerstva a jiné správní úřady získávají nebo shromažďují na základě jiných právních předpisů, pokud jsou takové údaje a informace ministerstvy a jinými správními úřady zpracovány a jsou-li dostupné v jejich informačních systémech. Ministerstva a jiné správní úřady jsou povinny České národní bance potřebné údaje na její vyžádání bezplatně poskytnout.
+V zájmu omezování zátěže vykazujících osob podle § 41 uplatňuje Česká národní banka v návaznosti na přímo použitelné předpisy Evropské unie a v souladu s obecnými zásadami Evropské centrální banky hledisko statistické významnosti a může za tím účelem vyhláškou stanovit
+rozsah vykazování určitému okruhu vykazujících osob nebo pro určitý druh údajů, které má výkaz obsahovat,
+okruh statisticky významných vykazujících osob.
+Česká národní banka sestavuje, vede a uveřejňuje měnové statistiky, statistiky platební bilance, statistiku čtvrtletních finančních účtů, statistiku finančních trhů, statistiku cenných papírů a další statistiky v oblasti její působnosti.
+Česká národní banka vede seznam měnových finančních institucí v České republice a další obdobné seznamy pro statistické účely, které uveřejňuje způsobem umožňujícím dálkový přístup.
+Česká národní banka při získávání a využívání shromážděných údajů a sestavování statistik spolupracuje s Českým statistickým úřadem, se kterým si vzájemně předává pro statistické účely individuální údaje a statistické informace, potřebné k plnění jejich úkolů.
+Uplatnění práva na ověřování a nucené shromažďování individuálních statistických údajů Českou národní bankou se řídí přímo použitelným předpisem Evropské unie.
+Při ověřování statistických údajů nebo jejich nuceném shromažďování formou kontroly na místě se na vztahy mezi Českou národní bankou a vykazující osobou použije zákon upravující výkon kontroly.
+V souladu se závazky, kterými je Česká republika vázána a které vyplývají z jejího členství v mezinárodních organizacích, Česká národní banka poskytuje statistické informace Mezinárodnímu měnovému fondu, Organizaci pro hospodářskou spolupráci a rozvoj, Světové bance a dalším mezinárodním institucím.
+Česká národní banka trvale zabezpečuje ochranu důvěrných statistických údajů získaných na základě tohoto zákona tak, aby nemohly být neoprávněně změněny, zničeny, ztraceny, přeneseny nebo zneužity. Této ochraně podléhají též sdružené údaje za více vykazujících osob, z nichž lze bez vynaložení nepřiměřeného času a úsilí přímo určit nebo zjistit nebo nepřímo odvodit jednotlivou vykazující osobu.
+Česká národní banka může poskytnout důvěrné statistické údaje pouze
+jinému členu Evropského systému centrálních bank v rozsahu a na úrovni podrobnosti, které jsou nezbytné pro plnění úkolů Evropského systému centrálních bank,
+Evropské centrální bance ke splnění statistické zpravodajské povinnosti pro účely tvorby statistiky Evropského systému centrálních bank,
+Eurostatu pro účely tvorby statistiky Evropské unie,
+jinému členu Evropského systému centrálních bank nebo členu Evropského statistického systému, pokud je to nezbytné pro rozvoj, vypracování nebo šíření statistiky nebo pro zvýšení její kvality,
+Českému statistickému úřadu podle § 43b,
+pro účely vědeckého výzkumu na základě smlouvy, která stanoví splnění podmínek ochrany těchto údajů a přesný způsob jejich využití v souladu s právem Evropské unie, a to právnickým osobám, jejichž základním posláním je vědecký výzkum; údaje se poskytnou ve formě neumožňující přímé určení vykazující osoby, které se poskytnuté údaje týkají,
+pokud osoba, které se tento údaj týká, dala k jeho poskytnutí souhlas, a nejedná-li se o případy uvedené v písmenech a) až f); ze souhlasu této osoby musí být patrné, o jaký důvěrný statistický údaj se jedná a pro jaký účel a komu má být poskytnut, nebo
+v případě, pokud tak stanoví přímo použitelný předpis Evropské unie.
+Česká národní banka může uveřejňovat statistické informace, pokud vzniknou agregací individuálních údajů alespoň za 3 vykazující osoby. Není-li splněna tato podmínka, může Česká národní banka poskytnout statistické informace pouze jako důvěrné statistické údaje podle odstavce 1. Stejně postupuje Česká národní banka i v případě, lze-li ze statistické informace nepřímo identifikovat jednotlivou vykazující osobu.
+Poskytnutí důvěrného statistického údaje za podmínek uvedených v odstavcích 1 a 2 není porušením mlčenlivosti podle tohoto zákona.
+Česká národní banka seznamuje veřejnost s výsledky statistických zjišťování způsobem umožňujícím dálkový přístup.
+DOHLED
+Česká národní banka vykonává dohled nad
+bankami, pobočkami zahraničních bank, spořitelními a úvěrními družstvy, institucemi elektronických peněz, zahraničními institucemi elektronických peněz, které vykonávají činnost na území České republiky prostřednictvím své pobočky, vydavateli elektronických peněz malého rozsahu, platebními institucemi, zahraničními platebními institucemi, které vykonávají činnost na území České republiky prostřednictvím své pobočky, poskytovateli platebních služeb malého rozsahu, správci informací o platebním účtu, zahraničními správci informací o platebním účtu, kteří vykonávají činnost na území České republiky prostřednictvím své pobočky, poskytovateli služby dynamické směny měn, provozovateli platebních systémů s neodvolatelností zúčtování a nad bezpečným fungováním bankovního systému,
+obchodníky s cennými papíry, emitenty cenných papírů, centrálním depozitářem, jinými osobami vedoucími evidenci investičních nástrojů, investičními společnostmi, investičními fondy, provozovateli vypořádacích systémů s neodvolatelností vypořádání, organizátory trhů s investičními nástroji a dalšími osobami, o nichž tak stanoví jiné právní předpisy upravující oblast podnikání na kapitálovém trhu,
+pojišťovnami, zajišťovnami, penzijními fondy, penzijními společnostmi a dalšími osobami působícími v oblasti pojišťovnictví, doplňkového penzijního spoření a penzijního připojištění podle zákonů upravujících pojišťovnictví, činnost pojišťovacích zprostředkovatelů, penzijní připojištění, doplňkové penzijní spoření,
+zpracovateli tuzemských bankovek a tuzemských mincí podle zákona upravujícího oběh bankovek a mincí,
+nebankovními poskytovateli spotřebitelského úvěru, samostatnými zprostředkovateli, zprostředkovateli vázaného spotřebitelského úvěru, vázanými zástupci a zahraničními zprostředkovateli podle zákona upravujícího spotřebitelský úvěr,
+finančními holdingovými osobami a smíšenými finančními holdingovými osobami podléhajícími schválení podle zákona upravujícího činnost bank, a
+činností dalších osob, u kterých tak stanoví jiný právní předpis.
+Dohled zahrnuje, nejde-li o řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu,
+rozhodování o žádostech o udělení licencí, povolení, registrací a souhlasů podle jiných právních předpisů,
+kontrolu dodržování podmínek stanovených udělenými licencemi a povoleními,
+kontrolu dodržování zákonů a přímo použitelných předpisů Evropské unie, jestliže je k této kontrole Česká národní banka tímto zákonem nebo jinými právními předpisy zmocněna, a kontrolu dodržování vyhlášek vydaných Českou národní bankou,
+získávání informací potřebných pro výkon dohledu podle jiných právních předpisů a jejich vymáhání, ověřování jejich pravdivosti, úplnosti a aktuálnosti,
+ukládání opatření k nápravě a správních trestů podle tohoto zákona nebo jiných právních předpisů,
+řízení o přestupcích.
+Česká národní banka vykonává nad osobami uvedenými v odstavci 1 též dohled na konsolidovaném základě nebo ve skupině a doplňkový dohled nad těmito osobami ve finančních konglomerátech v rozsahu stanoveném jinými právními předpisy a přímo použitelnými předpisy Evropské unie.
+Česká národní banka vykonává dohled nad dodržováním povinností stanovených občanským zákoníkem pro uzavírání smluv o finančních službách uzavíraných na dálku, nad dodržováním povinností zákazu používání nekalých obchodních praktik a nad dodržováním povinností při poskytování nebo zprostředkování spotřebitelského úvěru, a to osobami uvedenými v § 44 odst. 1 při výkonu činnosti, kterou tyto osoby vykonávají na základě povolení, licence nebo registrace České národní banky nebo obdobného oprávnění k působení na území České republiky uděleného zahraničním orgánem. Česká národní banka je při výkonu dohledu oprávněna vyžadovat od těchto osob potřebné informace a podklady.
+Česká národní banka může uložit osobě uvedené v § 44 odst. 1, která porušila tento zákon nebo právní předpis, na který se odkazuje v odstavci 1, opatření k nápravě zjištěného nedostatku odpovídající povaze porušení a jeho závažnosti; pro odstranění zjištěného nedostatku určí přiměřenou lhůtu.
+Osoba, které bylo uloženo opatření k nápravě podle odstavce 4, informuje Českou národní banku o odstranění nedostatku bez zbytečného odkladu poté, kdy byl nedostatek odstraněn, nejpozději však do 10 dnů po uplynutí stanovené lhůty.
+Česká národní banka zajistí, aby výkon dohledu podle jiných právních předpisů a podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky a rovněž veškeré činnosti související s výkonem dohledu byly oddělené a nezávislé na výkonu činností spojených s řešením problémů subjektů, které podléhají jejímu dohledu podle § 44 odst. 1 písm. a) až c) a e) a podle § 44 odst. 3. Česká národní banka informuje o oddělení výkonu dohledu a výkonu činností spojených s řešením problémů těchto subjektů Evropskou komisi a Evropský orgán pro bankovnictví a uvede způsob rozdělení povinností a odpovědností. Ustanovení § 5 odst. 1 tím není dotčeno.
+Ministerstvo vnitra nebo Policie České republiky poskytuje České národní bance pro výkon působnosti podle části desáté
+referenční údaje ze základního registru obyvatel,
+údaje z agendového informačního systému evidence obyvatel,
+údaje z agendového informačního systému cizinců.
+Poskytovanými údaji podle odstavce 1 písm. a) jsou
+příjmení,
+jméno, popřípadě jména,
+datum, místo a okres narození, u subjektu údajů, který se narodil v cizině, datum, místo a stát, kde se narodil,
+adresa místa pobytu,
+datum, místo a okres úmrtí; jde-li o úmrtí subjektu údajů mimo území České republiky, datum úmrtí, místo a stát, na jehož území k úmrtí došlo; je-li vydáno rozhodnutí soudu o prohlášení za mrtvého, den, který je v rozhodnutí uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil, a datum nabytí právní moci tohoto rozhodnutí,
+státní občanství, popřípadě více státních občanství.
+Poskytovanými údaji podle odstavce 1 písm. b) jsou
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum, místo a okres narození a u občana, který se narodil v cizině, místo a stát, kde se narodil,
+pohlaví,
+rodné číslo,
+adresa místa trvalého pobytu,
+státní občanství, popřípadě více státních občanství,
+datum, místo a okres úmrtí; jde-li o úmrtí mimo území České republiky, datum, místo a stát, na jehož území k úmrtí došlo,
+den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil,
+datum nabytí právní moci rozhodnutí soudu o omezení svéprávnosti, jméno, popřípadě jména, příjmení a rodné číslo opatrovníka, datum nabytí právní moci rozhodnutí soudu o zrušení omezení svéprávnosti; nebylo-li opatrovníkovi rodné číslo přiděleno, datum, místo a okres jeho narození a u opatrovníka, který se narodil v cizině, místo a stát, kde se narodil.
+Poskytovanými údaji podle odstavce 1 písm. c) jsou
+jméno, popřípadě jména, příjmení, rodné příjmení,
+datum narození,
+státní občanství, popřípadě více státních občanství,
+druh a adresa místa pobytu,
+počátek pobytu, popřípadě datum ukončení pobytu,
+rodné číslo, bylo-li přiděleno,
+datum, místo a okres úmrtí; jde-li o úmrtí mimo území České republiky, stát, na jehož území k úmrtí došlo, popřípadě datum úmrtí,
+den, který byl v rozhodnutí soudu o prohlášení za mrtvého uveden jako den smrti nebo den, který subjekt údajů prohlášený za mrtvého nepřežil.
+Z poskytovaných údajů lze v konkrétním případě použít vždy jen takové údaje, které jsou nezbytné ke splnění daného úkolu.
+Údaje, které jsou vedeny jako referenční údaje v základním registru obyvatel, se využijí z agendového informačního systému evidence obyvatel nebo agendového informačního systému cizinců, pouze pokud jsou ve tvaru předcházejícímu současný stav.
+Za účelem prověření bezúhonnosti či důvěryhodnosti Českou národní bankou v případech stanovených právním předpisem si Česká národní banka vyžádá způsobem podle jiného právního předpisu výpis z evidence Rejstříku trestů a opis z evidence přestupků vedené Rejstříkem trestů a v případech stanovených jiným právním předpisem opis z evidence Rejstříku trestů. Žádost o vydání výpisu nebo opisu z evidence Rejstříku trestů a opisu z evidence přestupků a výpis nebo opis z evidence Rejstříku trestů a opis z evidence přestupků se předávají v elektronické podobě, a to způsobem umožňujícím dálkový přístup. Česká národní banka je za účelem prověření bezúhonnosti či důvěryhodnosti v případech stanovených právním předpisem dále oprávněna vyžadovat od osob, jejichž bezúhonnost či důvěryhodnost je posuzována, rodné číslo.
+Česká národní banka je za účelem přístupu do registru podle odstavce 1 písm. a) v případech stanovených právním předpisem oprávněna od subjektů, u kterých provádí registraci podle jiných právních předpisů, vyžadovat číslo občanského průkazu nebo obdobného identifikačního dokladu.
+Pokud Česká národní banka vykonává na základě tohoto zákona činnost, která podle jiného právního předpisu vyžaduje licenci, povolení nebo registraci České národní banky anebo podléhá jejímu dohledu, licenci, povolení ani registraci k takové činnosti nepotřebuje a tato činnost nepodléhá jejímu dohledu.
+Při výkonu dohledu formou kontroly na místě se vztahy mezi Českou národní bankou a kontrolovanými osobami řídí kontrolním řádem s výjimkou ustanovení o spolupráci v oblasti kontroly. Nahlížení do spisu vedeného při výkonu dohledu podle § 44 odst. 2 písm. b) až d) je vyloučeno.
+Zaměstnanec České národní banky nesmí vykonávat dohled formou kontroly na místě v případech, kdy je osobou blízkou podle občanského zákoníku vůči kontrolované osobě nebo osobě, která má v kontrolované osobě postavení, které by mohlo ovlivnit jeho činnost.
+Úvěrové ukazatele
+Osoba oprávněná poskytovat spotřebitelský úvěr nesmí poskytnout spotřebitelský úvěr zajištěný obytnou nemovitostí, pokud by tím došlo k překročení horní hranice 1 nebo více úvěrových ukazatelů, je-li tato hranice stanovena Českou národní bankou opatřením obecné povahy podle § 45b. To neplatí, pokud k takovému překročení dojde u spotřebitelských úvěrů poskytnutých v běžném kalendářním čtvrtletí představujících nejvýše 5 % celkového objemu spotřebitelských úvěrů zajištěných obytnou nemovitostí, které tato osoba poskytla v předcházejícím kalendářním čtvrtletí s tím, že tyto úvěry již od jejich poskytnutí ve své evidenci vede jako úvěry nesplňující podmínku podle věty první a řádně odůvodní jejich poskytnutí z hlediska zajištění jejich návratnosti. Při výpočtu úvěrových ukazatelů postupuje tato osoba v souladu s vyhláškou podle odstavce 6.
+Spotřebitelským úvěrem zajištěným obytnou nemovitostí se pro účely tohoto zákona rozumí spotřebitelský úvěr, který je zajištěný obytnou nemovitostí ve smyslu přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky nebo je zajištěný věcným právem k této obytné nemovitosti. Spotřebitelský úvěr zajištěný obytnou nemovitostí se pro účely tohoto zákona považuje za poskytnutý uzavřením smlouvy o spotřebitelském úvěru.
+Odstavec 1 se nevztahuje na spotřebitelský úvěr zajištěný obytnou nemovitostí, který je poskytnut na splacení 1 nebo více spotřebitelských úvěrů zajištěných stejnou obytnou nemovitostí, pokud výše poskytnutého úvěru nepřekračuje k okamžiku jeho poskytnutí součet zůstatků jistin spotřebitelských úvěrů, které mají být tímto úvěrem splaceny.
+Porušení povinnosti podle odstavce 1 nemá za následek neplatnost smlouvy o spotřebitelském úvěru.
+Úvěrovým ukazatelem je ukazatel, který vyjadřuje poměr
+celkové výše dluhů spotřebitele ze spotřebitelských úvěrů zajištěných stejnou obytnou nemovitostí k hodnotě zajištění (dále jen „ukazatel LTV“),
+výdajů spotřebitele vyplývajících z celkové výše dluhů spotřebitele k jeho příjmům (dále jen „ukazatel DSTI“) a
+celkové výše dluhů spotřebitele k jeho příjmům (dále jen „ukazatel DTI“).
+Česká národní banka stanoví vyhláškou způsob a pravidla výpočtu úvěrových ukazatelů včetně vymezení jednotlivých položek, které jsou součástí výpočtu.
+Česká národní banka je oprávněna v návaznosti na rozpoznání systémových rizik souvisejících s poskytováním spotřebitelských úvěrů zajištěných obytnou nemovitostí vydat opatření obecné povahy, kterým stanoví horní hranici 1 nebo více úvěrových ukazatelů podle § 45a odst. 5 s tím, že pokud tak učiní, pak pro tyto úvěry určené k financování pořízení obytné nemovitosti k vlastnímu bydlení žadatele, který k okamžiku poskytnutí úvěru nedosáhl věku 36 let, anebo žadatelů žijících v manželství nebo registrovaném partnerství, z nichž alespoň jeden k okamžiku poskytnutí úvěru nedosáhl věku 36 let, stanoví vyšší horní hranici ukazatele nebo ukazatelů než pro ostatní žadatele, a to u
+ukazatele LTV o 10 procentních bodů,
+ukazatele DSTI o 5 procentních bodů a
+ukazatele DTI o jednoroční násobek čistých příjmů.
+Česká národní banka při stanovení horní hranice úvěrových ukazatelů přihlíží k faktorům zakládajícím systémová rizika podle odstavce 1, zejména k
+vývoji celkového objemu spotřebitelských úvěrů,
+vývoji objemu nově poskytnutých spotřebitelských úvěrů zajištěných obytnou nemovitostí,
+vývoji realizovaných cen obytných nemovitostí,
+vývoji poměru celkového objemu spotřebitelských úvěrů k příjmům spotřebitelů,
+vývoji poměru cen obytných nemovitostí k příjmům spotřebitelů,
+souhrnnému makroekonomickému vývoji v České republice a
+dopadu na spotřebitele a na poskytovatele úvěru.
+Opatření obecné povahy podle odstavce 1 se vydává bez řízení o návrhu opatření obecné povahy a nabývá účinnosti 4 měsíce ode dne jeho zveřejnění na úřední desce České národní banky, nestanoví-li se v něm pozdější den nabytí účinnosti. Pokud toto opatření obecné povahy zvyšuje nebo ruší horní hranici stanoveného úvěrového ukazatele, nabývá tato změna účinnosti dnem následujícím po dni zveřejnění, nestanoví-li se v něm pozdější den nabytí účinnosti.
+Česká národní banka nejméně jedenkrát za 6 měsíců přezkoumává důvody pro vydání opatření obecné povahy a posoudí je vzhledem k existenci a předpokládanému dalšímu vývoji faktorů podle odstavce 2. Pokud došlo k podstatné změně těchto faktorů, vydá Česká národní banka nové opatření obecné povahy nebo vydané opatření obecné povahy změní nebo zruší.
+Česká národní banka může osobě, která v rozporu s § 45a odst. 1 poskytne spotřebitelský úvěr, uložit opatření k nápravě zjištěného nedostatku. Pro odstranění zjištěného nedostatku určí této osobě přiměřenou lhůtu.
+Osoba, které bylo uloženo opatření k nápravě podle odstavce 1, informuje Českou národní banku o odstranění nedostatku bez zbytečného odkladu poté, kdy byl nedostatek odstraněn, nejpozději však do 10 dnů po uplynutí určené lhůty.
+Zpráva o výkonu dohledu nad finančním trhem
+Česká národní banka každoročně vypracovává a nejpozději do 30. června následujícího roku předkládá Poslanecké sněmovně, Senátu a vládě k informaci zprávu o výkonu dohledu nad finančním trhem.
+Česká národní banka uveřejňuje zprávu o výkonu dohledu nad finančním trhem způsobem umožňujícím dálkový přístup.
+PŘESTUPKY
+Přestupky
+Přestupku se dopustí ten, kdo
+v rozporu s § 21 odst. 1 vyrobí, doveze, nabízí, prodává nebo jinak rozšiřuje medaile, žetony nebo podobné předměty zaměnitelné s mincemi vydanými Českou národní bankou, nebo
+v rozporu s § 21 odst. 2 používá při označení nebo popisu žetonu, medaile nebo podobného předmětu v souvislosti s jejich nabízením, prodejem nebo rozšiřováním slovo „mince“.
+Právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že
+neposkytne potřebnou informaci nebo podklad podle § 44a odst. 1,
+nesplní povinnost uloženou rozhodnutím o opatření k nápravě podle § 44a odst. 4, nebo
+neinformuje Českou národní banku o odstranění nedostatku podle § 44a odst. 5.
+Právnická nebo podnikající fyzická osoba se jako osoba uvedená v § 41 odst. 1 písm. a), b) nebo c) dopustí přestupku tím, že
+nevypracuje nebo nepředloží výkaz podle § 41 odst. 3, nebo
+v rozporu s § 41 odst. 4 nezajistí opravu, upřesnění nebo vysvětlení výkazu.
+Osoba oprávněná poskytovat spotřebitelský úvěr se dopustí přestupku tím, že
+poskytne spotřebitelský úvěr v rozporu s § 45a odst. 1,
+nesplní povinnost uloženou rozhodnutím o opatření k nápravě podle § 45c odst. 1, nebo
+neinformuje Českou národní banku o odstranění nedostatku podle § 45c odst. 2.
+Za přestupek lze uložit pokutu do
+10 000 000 Kč, jde-li o přestupek podle odstavce 4 písm. a) nebo b),
+5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a) nebo odstavce 2 písm. b), nebo
+1 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), odstavce 2 písm. a) nebo c), odstavce 3 nebo odstavce 4 písm. c).
+Uveřejnění rozhodnutí o přestupku
+Česká národní banka bez zbytečného odkladu uveřejní pravomocné rozhodnutí o přestupku podle tohoto zákona způsobem umožňujícím dálkový přístup.
+Česká národní banka uveřejní rozhodnutí podle odstavce 1 bez uvedení identifikačních údajů o osobě uznané vinnou ze spáchání přestupku, jestliže by uveřejnění
+ohrozilo stabilitu finančního trhu,
+ohrozilo probíhající trestní řízení, nebo
+způsobilo osobě uznané vinnou ze spáchání přestupku nepřiměřenou újmu.
+Rozhodnutí podle odstavce 1 zůstane uveřejněno do konce pátého kalendářního roku následujícího po roce, v němž bylo uveřejněno.
+Příslušnost
+Přestupky podle tohoto zákona projednává Česká národní banka.
+SPRÁVNÍ ŘÍZENÍ
+Zvláštní ustanovení o rozkladu
+Pro ukončení řízení o rozkladu podaném proti rozhodnutí České národní banky podle tohoto nebo jiného zákona se použijí ustanovení správního řádu o odvolání.
+Správní poplatky
+Správní poplatky za úkony České národní banky podle jiného právního předpisu jsou příjmem České národní banky.
+Společná ustanovení k přestupkům projednávaným Českou národní bankou
+Česká národní banka, aniž řízení o přestupku podle tohoto zákona nebo jiného právního předpisu zahájí, může věc usnesením odložit též, jestliže je vzhledem k významu a míře porušení nebo ohrožení chráněného zájmu, který byl činem dotčen, způsobu provedení činu, jeho následku, okolnostem, za nichž byl čin spáchán, nebo vzhledem k chování podezřelého po spáchání činu zřejmé, že účelu, jehož by bylo možno dosáhnout provedením řízení o přestupku, bylo dosaženo nebo jej lze dosáhnout jinak. Usnesení o odložení věci podle věty první se pouze poznamená do spisu; ustanovení zákona upravujícího odpovědnost za přestupky a řízení o nich týkající se vyrozumění o odložení věci se nepoužije.
+Česká národní banka může v řízení o přestupku podle tohoto zákona nebo jiného právního předpisu uložit pachateli rovněž opatření k nápravě nebo odejmout oprávnění k činnosti podle příslušného právního předpisu.
+U přestupku, k jehož projednání je příslušná Česká národní banka podle tohoto anebo jiného zákona nebo podle přímo použitelného předpisu Evropské unie a za který zákon stanoví sazbu pokuty, jejíž horní hranice je alespoň 1 000 000 Kč, nebo určuje horní hranici pokuty podle násobku neoprávněného prospěchu nebo podle dosaženého ročního obratu, činí promlčecí doba 5 let. Byla-li promlčecí doba u tohoto přestupku přerušena, odpovědnost za přestupek zaniká nejpozději 10 let od jeho spáchání.
+Okolností vylučující protiprávnost přestupku, k jehož projednání je příslušná Česká národní banka podle tohoto zákona nebo jiného právního předpisu, není svolení poškozeného.
+Účastníkem řízení o přestupku, k jehož projednání je příslušná Česká národní banka podle tohoto zákona nebo jiného právního předpisu, není poškozený.
+Příjem z pokut uložených Českou národní bankou je příjmem státního rozpočtu.
+Alespoň jedna oprávněná úřední osoba podílející se na řízení o přestupku vedeném Českou národní bankou v každém stupni musí mít vysokoškolské vzdělání nejméně v magisterském studijním programu v oboru právo na vysoké škole v České republice. Nemá-li oprávněná úřední osoba vzdělání podle věty první, musí mít vysokoškolské vzdělání v jiné oblasti.
+Na náhradu nákladů správních řízení vedených Českou národní bankou se pro účely jejich placení hledí jako na prostředky veřejného rozpočtu. Náhradu nákladů správních řízení vedených Českou národní bankou vymáhá příslušný celní úřad.
+HOSPODAŘENÍ ČESKÉ NÁRODNÍ BANKY
+Česká národní banka hospodaří podle rozpočtu, který musí být členěn tak, aby z něj byly zřejmé výdaje na pořízení majetku a výdaje na provoz České národní banky.
+Česká národní banka ze svých výnosů hradí náklady na svoji činnost. Vytvořený zisk používá k doplňování rezervního fondu a dalších fondů vytvářených ze zisku a k ostatnímu použití v rozpočtované výši. Zbývající zisk odvádí do státního rozpočtu.
+Roční zprávu o výsledku svého hospodaření Česká národní banka předkládá nejpozději do 3 měsíců po skončení kalendářního roku k projednání Poslanecké sněmovně. Součástí této zprávy je i informace o mzdách členů bankovní rady a vedoucích zaměstnanců České národní banky v přímé řídící působnosti bankovní rady.
+Poslanecká sněmovna může zprávu o výsledku hospodaření České národní banky
+schválit,
+vzít na vědomí, nebo
+odmítnout.
+Odmítne-li Poslanecká sněmovna zprávu o výsledku hospodaření České národní banky, je Česká národní banka povinna do 6 týdnů předložit zprávu zpřesněnou a doplněnou podle požadavků Poslanecké sněmovny.
+Česká národní banka uveřejňuje roční zprávu o výsledku svého hospodaření způsobem umožňujícím dálkový přístup.
+Česká národní banka nakládá s vlastním majetkem včetně devizových rezerv s odbornou péčí.
+Česká národní banka vede účetnictví podle jiného právního předpisu.
+Účetní závěrka České národní banky je ověřována jedním nebo více auditory, kteří jsou určeni po dohodě bankovní rady s ministrem financí.
+Jakmile je účetní závěrka schválena a ověřena auditory, bankovní rada ji předá Poslanecké sněmovně a uveřejní způsobem umožňujícím dálkový přístup.
+Česká národní banka každoročně uveřejňuje výroční zprávu způsobem umožňujícím dálkový přístup.
+Česká národní banka uveřejňuje dekádní výkaz o své finanční pozici způsobem umožňujícím dálkový přístup.
+VŠEOBECNÁ USTANOVENÍ
+Na všechny bankovní operace České národní banky včetně stavů na účtech, které vede, se vztahuje bankovní tajemství.
+Česká národní banka vydává způsobem umožňujícím dálkový přístup Věstník České národní banky (dále jen „Věstník“).
+Věstník je vydáván v postupně číslovaných částkách, označených pořadovými čísly, jejichž řada se uzavírá koncem každého kalendářního roku.
+Česká národní banka vydává úřední sdělení České národní banky, kterými informuje zejména o rozhodnutích bankovní rady o úrokových sazbách, o výkladových stanoviscích České národní banky, o podmínkách pro provádění obchodů České národní banky a o skutečnostech důležitých pro osoby, které působí na finančním trhu.
+Úřední sdělení České národní banky podepisuje člen bankovní rady.
+Úřední sdělení České národní banky se uveřejňuje ve Věstníku.
+Zaměstnanci České národní banky jsou povinni zachovávat mlčenlivost ve služebních věcech. Tato povinnost trvá i po skončení pracovněprávního vztahu nebo jiného obdobného vztahu. Povinnost zachovávat mlčenlivost o skutečnostech, se kterými se seznámí při výkonu své funkce, platí i pro členy poradních orgánů a auditory.
+Osoby, na které se vztahuje povinnost podle odstavce 1, mohou být Českou národní bankou zproštěny povinnosti zachovávat mlčenlivost v případech stanovených jinými právními předpisy, v ostatních případech ve veřejném zájmu anebo je-li to nutné k ochraně zájmů České národní banky. Povinnost zachovávat mlčenlivost stanovená Statutem tím není dotčena.
+Zaměstnanci České národní banky nemohou bez předchozího souhlasu bankovní rady vykonávat podnikatelskou činnost a podílet se na podnikatelské činnosti jiných osob. Toto ustanovení se nevztahuje na správu vlastního majetku a činnost vědeckou, literární, publicistickou, uměleckou a pedagogickou.
+Zaměstnanci České národní banky nemohou zastávat funkce ve statutárním nebo jiném orgánu obchodní korporace, ledaže je takovou funkcí Česká národní banka pověřila. Zákaz se nevztahuje na funkci v orgánu obchodní korporace zajišťující bydlení pro daného zaměstnance České národní banky nebo pro osobu jemu blízkou.
+Zaměstnanci České národní banky jsou povinni dbát, aby nedocházelo ke střetu zájmů nebo zneužití informací získaných při výkonu jejich funkce v České národní bance.
+Zaměstnanci České národní banky jsou povinni dodržovat pravidla profesionální etiky stanovená etickým kodexem České národní banky, který schvaluje bankovní rada.
+Česká národní banka zpracovává osobní údaje v rozsahu nezbytném pro plnění úkolů stanovených v § 1a a 2.
+Ustanovení čl. 15 a 18, čl. 19 věta druhá, čl. 21 odst. 4 a čl. 34 odst. 4 a v jim odpovídajícím rozsahu čl. 5 nařízení Evropského parlamentu a Rady (EU) 2016/679 se nepoužijí na osobní údaje zpracovávané Českou národní bankou v oblasti péče o finanční stabilitu a v rámci výkonu dohledu na finančním trhu, kterými jsou zejména údaje o dohlížené osobě, osobách v ní působících a osobách, které jsou obchodními partnery či klienty dohlížené osoby, anebo zájemci o její služby, jakož i o osobách s těmito osobami spjatých. Tyto údaje Česká národní banka zpracovává po dobu, po kterou mohou být použity při výkonu dohledu nebo při řešení krize podle právních předpisů upravujícího řešení krizí na finančním trhu a v souvisejících řízeních.
+Ustanovení čl. 13 odst. 3, čl. 14, 15 a 18, čl. 19 věta druhá a čl. 34 a v jim odpovídajícím rozsahu čl. 5 nařízení Evropského parlamentu a Rady (EU) 2016/679 se nepoužijí na osobní údaje zpracovávané v souvislosti s činnostmi České národní banky podle krizového zákona a zákona upravujícího hospodářská opatření pro krizové stavy, kterými jsou údaje o osobách vykonávajících činnosti povolované Českou národní bankou, osobách v nich působících a osobách, které s nimi mají obchodní nebo jiný vztah. Tyto údaje Česká národní banka zpracovává po dobu, po níž vykonává činnosti podle těchto právních předpisů, k jejichž provedení jsou uvedené údaje nezbytné, a dále po dobu, po kterou jsou uplatňována příslušná opatření, účinné příslušné krizové plány, přetrvávají následky jiných činností podle těchto právních předpisů nebo po kterou tyto údaje mohou být použity v souvisejících řízeních.
+Ustanovení čl. 15 a 16 a v jim odpovídajícím rozsahu čl. 5 nařízení Evropského parlamentu a Rady (EU) 2016/679 se nepoužijí na osobní údaje zpracovávané v souvislosti s obrazovými záznamy pořizovanými a ukládanými při ochraně a zabezpečení peněžního provozu České národní banky, kterými jsou údaje o osobách vstupujících a nacházejících se v prostorách, kde peněžní provoz probíhá. Tyto údaje Česká národní banka zpracovává po dobu potřebnou z hlediska ochrany a zabezpečení peněžního provozu nebo po kterou tyto údaje mohou být použity v souvisejících řízeních.
+Ustanovení čl. 15, 16 a 18, čl. 19 věta druhá a čl. 34 odst. 4 a v jim odpovídajícím rozsahu čl. 5 nařízení Evropského parlamentu a Rady (EU) 2016/679 se nepoužijí na zpracovávané osobní údaje získané Českou národní bankou z předložených výkazů, kterými jsou zejména údaje o vykazující osobě, osobách v ní působících a osobách, které mají s vykazujícími osobami obchodní nebo jiný vztah, jenž je předmětem vykazovací povinnosti. Tyto údaje Česká národní banka zpracovává po dobu, po kterou tyto údaje mohou být předmětem sestavovaných statistik nebo jinak použity podle § 41 odst. 2 anebo v souvisejícím řízení s vykazující osobou.
+Česká národní banka poskytne Úřadu pro ochranu osobních údajů v rozsahu nezbytném pro výkon jeho působnosti informace, které jsou chráněné povinností mlčenlivosti podle jiného zákona, pouze pokud to takový zákon umožňuje.
+Ustanovení tohoto zákona vztahující se na cenné papíry se použijí i na zaknihované cenné papíry, ledaže to vylučuje jejich povaha nebo tento zákon.

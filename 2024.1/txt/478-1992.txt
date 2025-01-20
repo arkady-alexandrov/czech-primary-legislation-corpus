@@ -1,0 +1,105 @@
+Základní ustanovení
+Technická řešení, která jsou nová, přesahují rámec pouhé odborné dovednosti a jsou průmyslově využitelná, se chrání užitnými vzory.
+Technickými řešeními podle tohoto zákona nejsou zejména:
+objevy, vědecké teorie a matematické metody,
+pouhé vnější úpravy výrobků,
+plány, pravidla a způsoby vykonávání duševní činnosti,
+programy počítačů,
+pouhé uvedení informace.
+Užitnými vzory nelze chránit
+technická řešení, která jsou v rozporu s obecnými zájmy, zejména se zásadami lidskosti a veřejné morálky,
+odrůdy rostlin a plemena zvířat, jakož i biologické reproduktivní materiály,
+způsoby výroby nebo pracovní činnosti.
+Technické řešení je nové, není-li součástí stavu techniky.
+Stavem techniky pro účely tohoto zákona je vše, co bylo přede dnem, od něhož přísluší přihlašovateli užitného vzoru právo přednosti (§ 9), zveřejněno.
+Stavem techniky není takové zveřejnění výsledků práce přihlašovatele nebo jeho právního předchůdce, ke kterému došlo v posledních šesti měsících před podáním přihlášky užitného vzoru.
+Technické řešení je průmyslově využitelné, jestliže může být opakovaně využíváno v hospodářské činnosti.
+Právo na ochranu užitným vzorem má původce nebo jeho právní nástupce.
+Původcem užitného vzoru je ten, kdo jej vytvořil vlastní tvořivou prací.
+Užitné vzory zapisuje Úřad průmyslového vlastnictví (dále jen „Úřad“) do rejstříku užitných vzorů (dále jen „rejstřík“).
+Přihláška a zápis užitného vzoru
+O zápis do rejstříku se žádá přihláškou užitného vzoru (dále jen „přihláška“) podanou písemně u Úřadu.
+Přihláška užitného vzoru smí obsahovat jen jedno technické řešení nebo skupinu řešení, která jsou navzájem spojena tak, že uskutečňují jedinou technickou myšlenku.
+Přihláška musí obsahovat:
+žádost o zápis do rejstříku užitných vzorů, s uvedením názvu užitného vzoru,
+popis technického řešení, popřípadě jeho dokumentaci,
+nároky na ochranu, v nichž musí být jasně a stručně vymezen předmět, který má být chráněn užitným vzorem.
+V přihlášce musí být uvedeno, kdo je původcem předmětu přihlášky užitného vzoru.
+Vyhotovení přihlášky musí odpovídat jednotné formě a požadavkům, které Úřad zveřejní ve Věstníku Úřadu průmyslového vlastnictví (dále jen „Věstník“).
+Podáním přihlášky vzniká přihlašovateli právo přednosti.
+Právo přednosti, které vyplývá z Pařížské úmluvy na ochranu průmyslového vlastnictví (dále jen „Pařížská úmluva“), musí přihlašovatel uplatnit již v přihlášce a současně musí uvést datum podání přihlášky, z níž právo přednosti odvozuje, její číslo a stát, v němž byla přihláška podána, popřípadě orgán, u něhož byla přihláška podána podle mezinárodní smlouvy. Na výzvu Úřadu ve lhůtě jím stanovené je přihlašovatel povinen toto právo prokázat; jinak se k němu nepřihlíží.
+V případě změny evropské patentové přihlášky, v níž byla požadována ochrana pro Českou republiku, na přihlášku podle § 8 může přihlašovatel uplatnit právo přednosti z evropské patentové přihlášky. Pro uplatnění práva přednosti se obdobně použije odstavec 2.
+Požádal-li přihlašovatel již dříve v České republice o udělení patentu na stejné technické řešení, může při podání přihlášky požadovat přiznání data podání, popřípadě i právo přednosti, z této přihlášky vynálezu. Úřad přizná přihlášce datum podání, popřípadě i právo přednosti, z původní přihlášky vynálezu, pokud bude přihláška podána nejpozději do dvou měsíců od rozhodnutí o přihlášce vynálezu, nejdéle však do deseti let od jejího podání.
+Přihlašovatel uplatňující právo podle odstavce 1 je povinen ve lhůtě dvou měsíců od podání přihlášky předložit stejnopis přihlášky vynálezu, jejíhož data podání, popřípadě práva přednosti, se dovolává, jinak se k němu nepřihlíží.
+Zmeškání lhůt uvedených v odstavci 1 nelze prominout.
+Přeměna evropské patentové přihlášky na přihlášku
+Na žádost přihlašovatele evropské patentové přihlášky podanou podle čl. 136 odst. 2 evropské patentové úmluvy Úřad zahájí řízení o evropské patentové přihlášce jako o přihlášce.
+Byla-li žádost podána podle odstavce 1, vyzve Úřad přihlašovatele, aby do 3 měsíců zaplatil přihlašovací poplatek podle zvláštního právního předpisu a předložil ve trojím vyhotovení překlad evropské patentové přihlášky do českého jazyka.
+Splní-li přihlašovatel podmínky stanovené v odstavci 2 a Úřad žádost o přeměnu evropské patentové přihlášky obdržel do 20 měsíců ode dne vzniku práva přednosti, přizná přihlášce právo přednosti z původně podané evropské patentové přihlášky.
+Splňuje-li přihláška podmínky stanovené v § 8 a není-li její předmět zjevně v rozporu s § 2, 3 a 5, zapíše Úřad užitný vzor do rejstříku.
+Zápisem užitného vzoru do rejstříku vzniká jeho ochrana podle tohoto zákona. Přihlašovateli, který se zápisem užitného vzoru do rejstříku stává majitelem užitného vzoru, vydá Úřad osvědčení o zápisu užitného vzoru do rejstříku a zápis užitného vzoru do rejstříku oznámí ve Věstníku. Po zápisu užitného vzoru do rejstříku Úřad zveřejní podklady uvedené v § 8 odst. 3 písm. b) a c).
+Jestliže přihláška neodpovídá požadavkům uvedeným v § 8, Úřad vyzve přihlašovatele, aby ve stanovené lhůtě nedostatky odstranil. Neodstraní-li přihlašovatel vytčené nedostatky ve stanovené lhůtě, Úřad řízení o přihlášce zastaví. Na tento důsledek musí být přihlašovatel při stanovení lhůty upozorněn.
+Obsahuje-li přihláška předmět uvedený v § 2 a 3, popřípadě je-li předmět přihlášky zjevně v rozporu s § 5, Úřad přihlášku zamítne. Před vydáním rozhodnutí musí být přihlašovatel na tento důsledek upozorněn.
+Úpravy a změny provedené v přihlášce nesmějí jít nad rámec jejího původního podání.
+Až do doby zápisu užitného vzoru do rejstříku dle odstavce 1 může přihlašovatel přihlášku rozdělit. Úřad přizná vyloučeným přihláškám právo přednosti původní přihlášky, nejdou-li nad její rámec a jestliže budou podány do tří měsíců od písemného sdělení přihlašovatele, že hodlá přihlášku rozdělit.
+Na žádost přihlašovatele Úřad odloží zápis užitného vzoru do rejstříku, nejdéle však do uplynutí 15 měsíců ode dne podání přihlášky.
+Účinky užitného vzoru
+Bez souhlasu majitele užitného vzoru nikdo nesmí technické řešení chráněné užitným vzorem při své hospodářské činnosti vyrábět, uvádět do oběhu nebo upotřebit.
+Majitel užitného vzoru je oprávněn poskytnout souhlas k využívání technického řešení chráněného užitným vzorem (licence) jiným osobám nebo na ně užitný vzor převést.
+Práva vyplývající z patentu uděleného na základě přihlášky vynálezu s pozdějším právem přednosti nesmějí být v případě střetu vykonávána bez souhlasu majitele užitného vzoru.
+Užitný vzor nepůsobí proti tomu, kdo před vznikem práva přednosti využíval technické řešení chráněné užitným vzorem nezávisle na původci nebo majiteli užitného vzoru nebo kdo k tomu vykonal prokazatelná opatření (dále jen „předchozí uživatel“).
+Nedojde-li k dohodě, může předchozí uživatel požadovat u soudu, aby majitel užitného vzoru jeho právo uznal.
+Doba platnosti užitného vzoru
+Užitný vzor platí čtyři roky ode dne podání přihlášky, popřípadě od podání dřívější přihlášky vynálezu se shodným předmětem (§ 10 a 10a).
+Dobu platnosti zápisu užitného vzoru prodlouží Úřad na žádost majitele užitného vzoru až dvakrát vždy o tři roky.
+O prodloužení doby platnosti užitného vzoru lze požádat nejdříve v posledním roce jeho platnosti.
+Dojde-li k zápisu užitného vzoru do rejstříku po uplynutí doby stanovené v odstavci 1, Úřad prodlouží dobu platnosti zápisu užitného vzoru bez žádosti majitele užitného vzoru.
+Užitný vzor zanikne, jestliže:
+uplyne doba jeho platnosti;
+majitel užitného vzoru se ho vzdá; v tomto případě ochrana zanikne dnem, kdy písemné prohlášení majitele užitného vzoru dojde Úřadu.
+Výmaz užitného vzoru
+Na návrh kohokoliv Úřad provede výmaz užitného vzoru z rejstříku
+není-li technické řešení způsobilé k ochraně podle § 1 a 3,
+je-li předmět užitného vzoru již chráněn patentem s účinky na území České republiky či užitným vzorem s dřívějším právem přednosti,
+jestliže předmět užitného vzoru jde nad rámec původního podání přihlášky užitného vzoru.
+Výmaz užitného vzoru z rejstříku má účinky, jako by užitný vzor nebyl do rejstříku zapsán.
+Týkají-li se důvody výmazu jen části užitného vzoru, užitný vzor se vymaže částečně.
+Výmaz užitného vzoru z rejstříku lze provést i po zániku užitného vzoru (§ 16), prokáže-li navrhovatel právní zájem.
+Návrh na výmaz užitného vzoru z rejstříku se podává u Úřadu písemně ve dvojím vyhotovení.
+Návrh na výmaz užitného vzoru z rejstříku musí být věcně odůvodněn a současně musí být předloženy důkazní prostředky, o které se návrh na výmaz opírá. Důvody výmazu včetně označení důkazů, kterých se návrh dovolává, nemohou být dodatečně měněny.
+Úřad vyzve majitele užitného vzoru, aby se k návrhu na výmaz užitného vzoru z rejstříku ve stanovené lhůtě vyjádřil. Majitel užitného vzoru předkládá své vyjádření k návrhu na výmaz písemně ve dvojím vyhotovení.
+Nevyjádří-li se majitel užitného vzoru ve stanovené lhůtě, Úřad provede výmaz užitného vzoru z rejstříku.
+Vyjádří-li se majitel užitného vzoru ve stanovené lhůtě proti návrhu na výmaz užitného vzoru z rejstříku, Úřad o návrhu rozhodne. Za řízení o výmazu užitného vzoru z rejstříku zaplatí správní poplatek podle zvláštního právního předpisu ten účastník řízení, který ve věci neměl úspěch.
+Odnětí ochrany
+Úřad na návrh odejme užitný vzor majiteli, jestliže z rozhodnutí soudu zjistí, že mu právo na užitný vzor podle § 6 nepříslušelo.
+Návrh na odnětí ochrany podle odstavce 1 je oprávněna podat pouze osoba, které podle rozhodnutí soudu přísluší právo na ochranu užitným vzorem, nebo její právní nástupce.
+Na návrh osoby, které přísluší právo na ochranu užitným vzorem, podaný do jednoho měsíce od pravomocného rozhodnutí soudu, Úřad zapíše tuto osobu jako majitele užitného vzoru.
+Nebude-li podán návrh na přepis podle odstavce 3, Úřad provede výmaz užitného vzoru z rejstříku z moci úřední.
+Rejstřík
+Úřad vede rejstřík, do něhož zaznamenává rozhodné údaje o přihláškách užitných vzorů a o zapsaných užitných vzorech.
+Do rejstříku se u každého užitného vzoru zapisuje zejména:
+číslo zápisu (osvědčení),
+datum zápisu,
+datum zveřejnění zápisu užitného vzoru ve Věstníku,
+název užitného vzoru,
+datum podání přihlášky, popřípadě právo přednosti, a spisová značka přihlášky,
+přihlašovatel užitného vzoru (jméno nebo název), jeho bydliště (sídlo), popřípadě jeho zástupce,
+příjmení, jméno a bydliště původce užitného vzoru,
+majitel užitného vzoru (jméno nebo název), bydliště (sídlo), popřípadě jeho zástupce,
+právo předchozího uživatele,
+zatřídění užitného vzoru podle mezinárodního patentového třídění,
+převod užitného vzoru,
+licence,
+nucená licence,
+prodloužení platnosti zápisu,
+výmaz užitného vzoru,
+odnětí ochrany, popřípadě její přepis,
+zánik ochrany.
+Poznámka spornosti podle občanského zákoníku se může týkat jen záznamu v rejstříku, jímž se vyznačuje nakládání s užitným vzorem jako předmětem vlastnictví.
+Ve Věstníku zveřejňuje Úřad skutečnosti týkající se užitných vzorů, jakož i úřední sdělení a rozhodnutí zásadní povahy.
+Přestupky
+Fyzická, právnická nebo podnikající fyzická osoba se dopustí přestupku tím, že neoprávněně využívá technické řešení chráněné užitným vzorem.
+Za přestupek podle odstavce 1 lze uložit pokutu do 250 000 Kč nebo zákaz činnosti.
+Za přestupek podle odstavce 1, kterého se dopustí právnická nebo podnikající fyzická osoba, lze uložit též zveřejnění rozhodnutí o přestupku.
+Přestupek podle odstavce 1 projednává obecní úřad obce s rozšířenou působností.
+Přestupek podle odstavce 1 nelze projednat příkazem na místě.

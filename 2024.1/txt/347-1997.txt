@@ -1,0 +1,18 @@
+Na území České republiky se vytvářejí tyto vyšší územní samosprávné celky:
+Hlavní město Praha, vymezený územím hlavního města Prahy;
+Středočeský kraj se sídlem v Praze, vymezený územím okresů Benešov, Beroun, Kladno, Kolín, Kutná Hora, Mělník, Mladá Boleslav, Nymburk, Praha-východ, Praha-západ, Příbram a Rakovník;
+Jihočeský kraj se sídlem v Českých Budějovicích, vymezený územím okresů České Budějovice, Český Krumlov, Jindřichův Hradec, Písek, Prachatice, Strakonice a Tábor;
+Plzeňský kraj se sídlem v Plzni, vymezený územím okresů Domažlice, Klatovy, Plzeň-město, Plzeň-jih, Plzeň-sever, Rokycany a Tachov;
+Karlovarský kraj se sídlem v Karlových Varech, vymezený územím okresů Cheb, Karlovy Vary a Sokolov;
+Ústecký kraj se sídlem v Ústí nad Labem, vymezený územím okresů Děčín, Chomutov, Litoměřice, Louny, Most, Teplice a Ústí nad Labem;
+Liberecký kraj se sídlem v Liberci, vymezený územím okresů Česká Lípa, Jablonec nad Nisou, Liberec a Semily;
+Královéhradecký kraj se sídlem v Hradci Králové, vymezený územím okresů Hradec Králové, Jičín, Náchod, Rychnov nad Kněžnou a Trutnov;
+Pardubický kraj se sídlem v Pardubicích, vymezený územím okresů Chrudim, Pardubice, Svitavy a Ústí nad Orlicí;
+Kraj Vysočina se sídlem v Jihlavě, vymezený územím okresů Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč a Žďár nad Sázavou;
+Jihomoravský kraj se sídlem v Brně, vymezený územím okresů Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov a Znojmo;
+Olomoucký kraj se sídlem v Olomouci, vymezený územím okresů Jeseník, Olomouc, Prostějov, Přerov a Šumperk;
+Moravskoslezský kraj se sídlem v Ostravě, vymezený územím okresů Bruntál, Frýdek-Místek, Karviná, Nový Jičín, Opava a Ostrava-město;
+Zlínský kraj se sídlem ve Zlíně, vymezený územím okresů Kroměříž, Uherské Hradiště, Vsetín a Zlín.
+Hranice vyšších územních samosprávných celků lze měnit pouze zákonem.
+Územím hlavního města Prahy se rozumí jeho území ke dni účinnosti tohoto ústavního zákona.
+Územím okresu se rozumí jeho území ke dni účinnosti tohoto ústavního zákona.

@@ -1,0 +1,754 @@
+VINOHRADNICTVÍ A VINAŘSTVÍ
+OBECNÁ USTANOVENÍ
+Předmět úpravy
+Tento zákon upravuje v návaznosti na přímo použitelný předpis Evropské unie (dále jen „předpisy Evropské unie“) další podmínky a požadavky v oblasti vinohradnictví a vinařství. Tento zákon dále upravuje výkon státní správy, včetně státního dozoru nad dodržováním povinností stanovených předpisy Evropské unie a tímto zákonem, a ukládání správních trestů za jejich porušování.
+Tento zákon se nevztahuje na vinné hrozny určené k přímé lidské spotřebě, hroznovou šťávu, zahuštěnou hroznovou šťávu, vinný ocet, případně potraviny nového typu nebo složky potravin nového typu, pokud tento zákon nestanoví jinak.
+Ustanovení zákona č. 110/1997 Sb., o potravinách a tabákových výrobcích a o změně a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů, nejsou tímto zákonem dotčena, pokud tento zákon nestanoví jinak.
+Vymezení základních pojmů
+Pro účely tohoto zákona se rozumí
+révou réva rodu Vitis L.,
+révovou sazenicí zakořeněný výpěstek révy,
+vinohradem nebo vinicí (dále jen „vinice“) zemědělsky obhospodařovaná půda souvisle osázená keři révy jednoho pěstitele o celkové výměře větší než 10 arů, jíž na základě písemné žádosti pěstitele podané po 1. lednu 2001 Ústřednímu kontrolnímu a zkušebnímu ústavu zemědělskému (dále jen „Ústav“) Ústav přidělil nebo přidělí registrační číslo nebo registrační čísla; vinice o celkové výměře menší než 10 arů je vinicí, pouze má-li na základě písemné žádosti pěstitele podané po 1. lednu 2001 Ústavem přiděleno registrační číslo; vinicí je rovněž vinice vyklučená, k níž nebylo Ústavem uděleno právo na opětovnou výsadbu podle § 9,
+viniční tratí pozemek, část pozemku, soubor pozemků, soubor pozemku a části pozemku, nebo kombinací pozemků, případně částí pozemků, v jedné vinařské oblasti, případně podoblasti, splňující zákonné předpoklady pro pěstování révy,
+hektarovým výnosem podíl množství vinných hroznů sklizených v jednom vinařském roce a plochy vinice, nebo vinic pěstitele, na nichž byly tyto vinné hrozny vypěstovány, vyjádřený v tunách na jeden hektar,
+pěstitelem osoba provozující vinohradnictví na vinici,
+vinohradnictvím pěstitelem provozovaná
+výsadba a pěstování révy na vinici za účelem produkce vinných hroznů, případně révových roubů,
+sklizeň vinných hroznů nebo révových roubů,
+výsadba a pěstování révy podnožové, za účelem produkce podnožových řízků,
+produkce révových sazenic,
+rmutem zpracováním narušené vinné hrozny, z nichž lze vyrobit produkt; za produkt se považuje rovněž rmut,
+vinařstvím zpracování vinných hroznů, rmutu, hroznového moštu nebo vína, povolenými technologickými postupy, plnění produktu do obalu, označování produktu a jeho uvádění do oběhu,
+šarží množství druhově totožných produktů, které byly vyrobeny za stejných podmínek a stejným způsobem,
+jakostním vínem stanovené pěstitelské oblasti jakostní víno, jakostní víno s přívlastkem, jakostní šumivé víno stanovené pěstitelské oblasti, dále aromatické jakostní šumivé víno, pěstitelský sekt, jakostní perlivé víno, jakostní likérové víno, víno originální certifikace, stanovené pěstitelské oblasti,
+evidenčním číslem jakosti soubor číselných a písmenných znaků sestávající z čísla rozhodnutí Státní zemědělské a potravinářské inspekce (dále jen „Inspekce“) o zatřídění příslušného vína a z označení vzorku vína,
+stupněm normalizovaného moštoměru obsah zkvasitelných cukrů ve vinných hroznech, vyjádřený v kilogramech na 1 hektolitr hroznového moštu; přepočet přirozeného obsahu alkoholu v procentech objemových ze stupňů normalizovaného moštoměru je uveden v příloze k tomuto zákonu,
+cukernatostí obsah zkvasitelných cukrů v hroznovém moštu, vyjádřený ve stupních normalizovaného moštoměru,
+výrobcem fyzická nebo právnická osoba, která vyrábí z vinných hroznů, rmutu, moštu nebo z mladého vína v procesu kvašení produkt tím, že jej zpracovává, včetně jeho zpracování pro jiného výrobce, nebo nechává zpracovat za účelem jeho uvádění do oběhu,
+malým množstvím množství nepřevyšující 750 hektolitrů vína v obalu určeném pro spotřebitele nebo 1 000 litrů sudového vína prodaného maloobchodníkem spotřebiteli za 1 vinařský rok,
+vinným střikem víno smísené s vodou, sodovkou (sifonem), nebo minerálkou,
+víny poprvé uvedenými do oběhu pro účely odvodu do Vinařského fondu vína výrobce uvedená v prohlášení o produkci, jejichž množství je sníženo o 10 % technologických ztrát,
+obchodním zprostředkovatelem fyzická nebo právnická osoba, která nakupuje nebo prodává produkty v rámci výkonu svého povolání nebo předmětu své činnosti, aniž by měla užívací právo k zařízení k uskladnění těchto produktů nebo aniž by tyto produkty sama držela v zařízení k uskladnění těchto produktů,
+snadno čitelným údajem údaj uvedený takovým způsobem, aby spotřebitel byl takto uvedený údaj schopen přečíst, a to tak, že velikost písma je přizpůsobena vzdálenosti, ze které lze očekávat, že spotřebitel bude tento údaj během nákupu číst,
+nebaleným vínem víno nebo jiný produkt uvedený pod kódem kombinované nomenklatury 2204 nebo 2205, s výjimkou moštu, uváděné do oběhu v jiném obalu než obalu určeném pro spotřebitele ve fázi, která předchází prodeji spotřebiteli,
+sudovým vínem víno nebo jiný produkt uvedený pod kódem kombinované nomenklatury 2204 nebo 2205, s výjimkou moštu, určené k prodeji spotřebiteli nebo prodávané spotřebiteli z jiného obalu než obalu určeného pro spotřebitele,
+čepovaným vínem víno prodávané spotřebiteli k bezprostřední konzumaci v místě prodeje nebo jako zabalené v místě prodeje na žádost spotřebitele z jednorázového obalu určeného pro spotřebitele s jediným otvorem k plnění a nevyměnitelným výčepním ventilem,
+rozlévaným vínem víno prodávané spotřebiteli k bezprostřední konzumaci v místě prodeje z obalu určeného pro spotřebitele o maximálním objemu 5 litrů,
+obalem určeným pro spotřebitele jednorázový nebo bez výměny jednorázového uzávěru znovu nenaplnitelný obal o maximálním objemu 20 litrů, který v místě prodeje tvoří spolu s jeho obsahem prodejní jednotku pro spotřebitele, a jsou na něm nebo na etiketě k němu připojené uvedeny údaje podle předpisů Evropské unie, tohoto zákona a prováděcích právních předpisů,
+jednorázovým uzávěrem uzávěr včetně souvisejících bezpečnostních prvků, který při otevření ztratí svoji funkčnost a nelze ho opakovaně použít.
+Pro účely tohoto zákona se dále rozumí
+falšováním produktu
+použití enologických postupů, které jsou v rozporu s přílohami k nařízení Komise (EU) č. 606/2009, kterým se stanoví některá prováděcí pravidla k nařízení Rady (ES) č. 479/2008, pokud jde o druhy výrobků z révy vinné, enologické postupy a omezení, která se na ně použijí, v platném znění; pokud jsou v těchto přílohách stanoveny limity, jejich překročení se nepovažuje za falšování produktu,
+přidání vody nebo alkoholu podle Přílohy VIII části II odstavce A bodu 1 nebo 2 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, kterým se stanoví společná organizace trhů se zemědělskými produkty a zrušují nařízení Rady (EHS) č. 922/72, (EHS) č. 234/79, (ES) č. 1037/2001 a (ES) č. 1234/2007, v platném znění, nebo
+porušení článků 103 nebo 113 nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, v platném znění,
+příjemcem provozovatel potravinářského podniku, který je uveden v průvodním dokladu podle předpisu Evropské unie nebo podle prováděcího právního předpisu jako příjemce,
+místem dodání místo, do kterého je produkt příjemcem nebo pro příjemce přepravován, a kde je vyložen a skladován.
+VINOHRADNICTVÍ
+Stanovené pěstitelské oblasti
+Stanovenou pěstitelskou oblastí pro jakostní víno stanovené pěstitelské oblasti (dále jen „jakostní víno stanovené oblasti“) je vinařská oblast Morava a vinařská oblast Čechy.
+Vinařská oblast se skládá z vinařských podoblastí. Vinařskou podoblast tvoří vinařské obce, na jejichž území jsou stanoveny viniční tratě nebo jejich části; ve viniční trati se vylučuje zakládání porostu rychle rostoucích dřevin.
+Vinařské podoblasti, vinařské obce a viniční tratě stanoví Ministerstvo zemědělství (dále jen „ministerstvo“).
+Prováděcí právní předpis stanoví seznam
+vinařských podoblastí v jednotlivých vinařských oblastech,
+vinařských obcí v jednotlivých vinařských podoblastech,
+viničních tratí v jednotlivých vinařských obcích,
+odrůd, ze kterých je dovoleno vyrábět jakostní víno stanovené oblasti.
+Vinice vhodné pro jakostní víno stanovené oblasti
+Vinice ve viničních tratích, které jsou osázené odrůdami révy zapsanými v seznamu odrůd podle § 4 odst. 4 písm. d) (dále jen „odrůda“), se považují za vinice vhodné pro jakostní víno stanovené oblasti.
+Vinicemi vhodnými pro jakostní vína stanovené oblasti nejsou vinice neobdělávané, podnožové nebo určené pro pokusné účely.
+Při stanovení seznamu odrůd podle § 4 odst. 4 písm. d) ministerstvo vychází z dlouhodobých pěstitelských zkušeností a z poznatků ve srovnatelných klimatických oblastech ostatních členských států Evropské unie.
+Hektarový výnos
+Pěstitel je povinen vést záznamy o osázené viniční ploše a dosažených hektarových výnosech podle předpisu Evropské unie a v souladu s prováděcím právním předpisem.
+Mají-li být vinné hrozny použity k výrobě jakostního vína stanovené oblasti, nesmí hektarový výnos vinice, na níž byly hrozny révy vinné vypěstovány, překročit 14 tun na jeden hektar. Je-li v jedné vinici vysázeno více odrůd, platí uvedený hektarový výnos pro každou odrůdu zvlášť.
+Pokud bude překročen hektarový výnos podle odstavce 2, lze hrozny révy vinné použít pouze pro výrobu vína bez označení odrůdy, ročníku, bez označení tradičním výrazem, bez chráněného označení původu nebo chráněného zeměpisného označení, nebo uvést do oběhu pouze jako hrozny révy vinné určené pro výrobu vína bez označení odrůdy, ročníku, bez označení tradičním výrazem, chráněného označení původu nebo chráněného zeměpisného označení.
+Prováděcí právní předpis stanoví způsob a vzor vedení záznamů o vinicích a na nich dosažených hektarových výnosech.
+Povolení k výsadbě révy
+Nová výsadba révy a opětovná výsadba révy je možná pouze na základě povolení udělovaného Ústavem podle předpisu Evropské unie a tohoto zákona.
+Žádost o povolení k výsadbě révy obsahuje kromě náležitostí podle správního řádu
+údaje o plánované vinici s určením katastrálního území, viniční tratě, parcelního čísla, plochy podle katastrálního území a plochy požadované,
+doklad prokazující oprávnění žadatele k užívání pozemku, na kterém je plánována výsadba révy, a
+výřez katastrální mapy nebo mapový podklad z evidence půdy podle uživatelských vztahů s určením polohy pozemku, na kterém je plánována výsadba révy.
+Vzor žádosti o povolení k výsadbě révy zveřejní ministerstvo na svých internetových stránkách.
+Nová výsadba révy
+Žádost o udělení povolení pro novou výsadbu révy podle předpisu Evropské unie podá žadatel Ústavu v období od 1. ledna do 28. února příslušného kalendářního roku.
+Ústav udělí žadateli povolení pro novou výsadbu révy podle předpisu Evropské unie, pokud celková rozloha deklarované plochy v žádostech podaných v příslušném kalendářním roce nepřesahuje plochu určenou pro novou výsadbu révy v tomto kalendářním roce.
+Ústav udělí žadateli povolení pro novou výsadbu révy podle poměrného rozdělení v souladu s předpisem Evropské unie, pokud celková rozloha deklarované plochy v žádostech podaných v příslušném kalendářním roce přesahuje plochu určenou pro novou výsadbu révy v tomto kalendářním roce.
+Ústav udělí žadateli povolení pro novou výsadbu révy pouze na výsadbu vinic v oblastech způsobilých pro produkci vín s chráněným označením původu nebo chráněným zeměpisným označením.
+Při postupu podle odstavce 3 Ústav udělí žadateli povolení pro novou výsadbu révy přednostně na výsadbu vinic, které byly Ústavem na dobu nejméně 7 let schváleny k pokusným účelům nebo za účelem produkce roubů a u nichž skončilo schválené období pokusu nebo produkce roubů.
+Není-li vyčerpána plocha určená pro novou výsadbu révy v příslušném kalendářním roce podle odstavce 5, Ústav přednostně udělí žadateli povolení pro novou výsadbu révy na rozlohu deklarované plochy v žádostech, která je součástí viniční tratě.
+Není-li vyčerpána plocha určená pro novou výsadbu révy v příslušném kalendářním roce podle odstavců 5 a 6, Ústav dále udělí žadateli povolení pro novou výsadbu révy na rozlohu deklarované plochy v žádostech, která není součástí viniční tratě.
+Odmítnutá plocha z plochy určené pro novou výsadbu révy v příslušném kalendářním roce se vyčlení v následujícím kalendářním roce jako navýšení nad 1 % celkové plochy osázené révou vinnou, kterou lze podle předpisu Evropské unie určit pro novou výsadbu révy.
+Opětovná výsadba révy
+Pěstitel je povinen oznámit Ústavu, že hodlá vyklučit vinici, v období 90 až 30 dnů před zahájením klučení. Ústav provádí kontrolu osázené plochy před vyklučením.
+Oznámení podle odstavce 1 obsahuje kromě náležitostí žádosti podle správního řádu
+registrační číslo klučené vinice,
+údaje o pozemku, na kterém se nachází klučená vinice, s uvedením parcelního čísla podle katastru nemovitostí, celkové plochy parcely podle katastru nemovitostí, plochy osázené, plochy klučené, a
+doklad prokazující oprávnění žadatele k užívání pozemku, na kterém se nachází klučená vinice.
+K vyklučení vinice musí mít pěstitel souhlas vlastníka pozemku, na kterém se vinice nachází. Souhlas doloží pěstitel Ústavu.
+V případě, že pěstitel prokáže Ústavu, že vlastník pozemku nebo jeho pobyt není znám, uveřejní Ústav po dobu 90 dnů na úřední desce obce, ve které se dotčený pozemek nachází, výzvu vlastníkovi pozemku, aby uplatnil své právo na udělení souhlasu či nesouhlasu s vyklučením vinice. Pokud vlastník pozemku v této lhůtě neuplatní své právo souhlasit či nesouhlasit s vyklučením vinice, má se za to, že vlastník pozemku nebo jeho pobyt není znám, a jeho souhlas podle odstavce 3 se nevyžaduje.
+Povolení pro opětovnou výsadbu révy podle předpisu Evropské unie udělí Ústav pěstiteli na jeho žádost ve výměře, jako je osázená plocha vinice, která byla vyklučena. Žádost lze podat do konce druhého vinařského roku následujícího po roce, v němž bylo provedeno vyklučení.
+Na žádost pěstitele povolí Ústav opětovnou výsadbu révy ve stejné výměře, jako je osázená plocha vinice, rovněž tehdy, pokud pěstiteli současně uloží povinnost vyklučit odpovídající dříve osázenou plochu vinice do 4 let od vysazení nové révy.
+Žádost podle odstavců 5 a 6 obsahuje kromě náležitostí podle správního řádu registrační číslo klučené vinice a další údaje o klučené vinici s uvedením odrůdové skladby, roku výsadby, vyklučené plochy, počtu keřů a typu vedení.
+V oblastech způsobilých pro produkci vín s chráněným označením původu nebo chráněným zeměpisným označením povolí Ústav opětovnou výsadbu révy pouze pro révu splňující stejnou specifikaci týkající se chráněného označení původu nebo chráněného zeměpisného označení jako v případě vyklučené plochy.
+Vzor oznámení podle odstavce 1 a žádosti podle odstavců 5 a 6 zveřejní ministerstvo na svých internetových stránkách.
+Nepovolená výsadba révy
+Ústav z moci úřední nebo na žádost pěstitele rozhodne o tom, zda bylo právo na výsadbu révy uskutečněno v rozporu s předpisy Evropské unie nebo v rozporu s § 8 nebo § 9. V případě zjištění nepovolené výsadby révy Ústav v rozhodnutí současně uloží pěstiteli povinnost do 4 měsíců od právní moci rozhodnutí na jeho náklady vyklučit plochy osazené révou bez povolení. Nebude-li vinice ve stanovené lhůtě vyklučena, nařídí Ústav vyklučení na náklady pěstitele, a to do dvou let od marného uplynutí lhůty pro splnění povinnosti stanovené pěstiteli podle věty druhé.
+V případě, že vinné hrozny byly sklizeny na vinici vysazené v rozporu s předpisy Evropské unie nebo v rozporu s § 8 nebo § 9, nebo z těchto vinných hroznů byly vyrobeny produkty, Inspekce rozhodne o způsobu zpracování těchto produktů.
+Odstavce 1 a 2 nevylučují uložení správního trestu podle tohoto zákona.
+VINAŘSTVÍ
+Povinnosti výrobců
+Zahájení, přerušení a ukončení výroby produktů, s výjimkou sklizených čerstvých vinných hroznů, je výrobce povinen oznámit písemně Ústavu, nejpozději v den zahájení, přerušení nebo ukončení výroby produktů; v oznámení výrobce uvede své jméno, příjmení a trvalý pobyt, jde-li o fyzickou osobu, obchodní firmu nebo název a sídlo, jde-li o právnickou osobu, a místo výroby produktu. Oznámení podle tohoto odstavce se zapisuje do Registru vinic podle § 28 (dále jen „Registr“). Vzor oznámení o zahájení, přerušení nebo ukončení výroby produktu zveřejní ministerstvo na svých internetových stránkách.
+Výrobce produktů je povinen
+dodržovat požadavky na výrobu, jakost a zdravotní nezávadnost stanovené předpisy Evropské unie a prováděcím právním předpisem,
+odstranit vedlejší produkty vznikající při zpracování nebo výrobě produktů způsobem stanoveným prováděcím právním předpisem,
+dodržovat požadavky na provozní a osobní hygienu při výrobě produktů stanovené zvláštním právním předpisem,
+oznámit Inspekci výrobu matolinového vína pro vlastní spotřebu, a to nejpozději 7 dní před zahájením této výroby,
+zajistit soustavnou kontrolu své produkce způsobem stanoveným předpisy Evropské unie a prováděcím právním předpisem a vést a uchovávat o tom evidenci v rozsahu stanoveném prováděcím právním předpisem.
+Prováděcí právní předpis stanoví
+podrobnější požadavky na výrobu a fyzikální, chemické a smyslové požadavky na jakost produktů,
+podrobnosti týkající se odstranění vedlejších produktů vznikajících při zpracování nebo výrobě produktů,
+způsob provádění kontroly podle odstavce 2 písm. e) včetně rozsahu vedení a uchovávání evidence.
+Enologické postupy a ošetřování produktu
+Pokud jde o enologické postupy a ošetřování produktu jsou přípustné pouze enologické postupy a ošetřování podle předpisů Evropské unie, tohoto zákona a prováděcího právního předpisu.
+Přidávání jakýchkoliv látek do produktu je zakázáno, pokud nestanoví předpisy Evropské unie, tento zákon nebo prováděcí právní předpis jinak.
+Přecházení látek do produktu, kterému nelze technicky nebo technologicky zabránit, se nepovažuje za přidávání podle odstavce 2, pokud produkt zůstane zdravotně nezávadný a chuť, vůně a barva jsou charakteristické pro daný produkt.
+Zvyšování nebo snižování obsahu kyselin podle předpisu Evropské unie je výrobce povinen oznámit písemně Inspekci ve lhůtě stanovené předpisem Evropské unie. Vzor oznámení zveřejní ministerstvo na svých internetových stránkách.
+V prostorách používaných k výrobě, skladování, plnění, zpracování nebo uvádění do oběhu produktu nesmí být uchovávány látky, jejichž použití do produktu není povoleno podle předpisů Evropské unie nebo podle tohoto zákona, přičemž tyto látky lze použít k falšování produktu (například látky nahrazující mošt, aromatické látky, nedovolené prostředky k ošetřování vína apod.). Orgán dozoru je oprávněn v případě podezření na uchovávání těchto látek odebrat vzorky k rozboru.
+Je zakázáno
+konzervovat jakostní víno s přívlastkem chemickými látkami, s výjimkou oxidu siřičitého,
+skladovat ovocné víno nebo jeho směsi v prostorách, kde se skladuje víno, není-li ovocné víno odděleně umístěno a zřetelně označeno,
+falšovat produkt.
+Prováděcí právní předpis stanoví hodnoty přípustných technologických ztrát při výrobě produktů.
+K pokusným účelům může inspektorát Inspekce v Brně povolit na žádost i jiné enologické postupy nebo ošetření produktu, než enologické postupy a ošetřování uvedené v předpisech Evropské unie, tomto zákoně a prováděcím právním předpisu, za podmínek stanovených předpisy Evropské unie. O odvolání rozhoduje ústřední inspektorát Inspekce.
+Prováděcí právní předpis může stanovit
+podrobnosti o enologických postupech a ošetřování produktů, pokud nejsou stanoveny předpisy Evropské unie,
+požadavky na látky přídatné, pomocné a látky určené k aromatizaci, pokud nejsou upraveny zvláštním právním předpisem nebo předpisy Evropské unie a pokud jsou povoleny,
+látky přídatné, pomocné a látky určené k aromatizaci, které nesmí být v produktech obsaženy nebo smí být obsaženy jen v určitém množství, a jejich množství.
+Ministerstvo v případě nepříznivých povětrnostních podmínek může vydávat opatření obecné povahy, kterým povolí přikyselování některých produktů vyrobených v České republice z hroznů révy vinné sklizených v České republice. Ministerstvo v tomto opatření obecné povahy může povolit i opakované přikyselování. Toto opatření obecné povahy nabývá účinnosti před projednáním jeho návrhu s výrobci produktů.
+Přirozený obsah alkoholu
+Před zvýšením přirozeného obsahu alkoholu v produktu (dále jen „zvyšování cukernatosti“) je výrobce povinen Inspekci oznámit záměr zvyšování cukernatosti (dále jen „hlášení o zvyšování cukernatosti“). Hlášení o zvyšování cukernatosti musí výrobce doručit Inspekci nejméně 48 hodin před zvyšováním cukernatosti. Vzor prohlášení o zvyšování cukernatosti zveřejní ministerstvo na svých internetových stránkách.
+Pokud okolnosti, které výrobce nemohl předvídat, znemožní provedení nahlášeného zvyšování cukernatosti, zašle výrobce bez zbytečného odkladu vysvětlení Inspekci.
+U jakostních vín s přívlastkem je zvyšování cukernatosti zakázáno.
+Přirozený obsah alkoholu u čerstvých hroznů, hroznového moštu, částečně zkvašeného hroznového moštu a mladého vína lze zvýšit při nepřekročení hodnot stanovených předpisy Evropské unie.
+U červeného vína vyrobeného v České republice z hroznů sklizených v České republice lze zvýšit horní mez celkového obsahu alkoholu v zóně A na 12 % objemových a v zóně B na 12,5 % objemových.
+Slazení
+Víno lze sladit pouze způsobem stanoveným předpisy Evropské unie. U jakostních vín s přívlastkem je slazení zakázáno.
+Před slazením vína je výrobce povinen podat Inspekci hlášení o slazení. Hlášení o slazení musí výrobce doručit Inspekci ve lhůtě stanovené předpisem Evropské unie.
+Vzor prohlášení o slazení zveřejní ministerstvo na svých internetových stránkách.
+Oznamovací povinnost pro nebalené víno, vinné hrozny čerstvé, jiné než stolní hrozny, mošt, rektifikovaný moštový koncentrát a rmut
+Příjemce nebaleného vína, vinných hroznů čerstvých, jiných než stolní hrozny, moštu, rektifikovaného moštového koncentrátu nebo rmutu přepraveného z jiného členského státu Evropské unie nebo ze třetí země, oznámí bezprostředně po jejich příchodu do prvního místa dodání na území České republiky, nejpozději však do 12 hodin po tomto příchodu, jejich množství a údaje podle odstavce 2 Ústavu prostřednictvím Registru.
+Příjemce v oznámení uvede
+své jméno, příjmení, bydliště a identifikační číslo, jde-li o fyzickou osobu, nebo obchodní firmu nebo název a sídlo a identifikační číslo, jde-li o právnickou osobu,
+název a adresu místa dodání a identifikační číslo provozovatele provozovny v místě dodání, pokud jde o údaje odlišné od údajů podle písmene a),
+označení druhu vinařského produktu podle části XII přílohy I nebo části II přílohy VII nařízení Evropského parlamentu a Rady (EU) č. 1308/2013,
+množství produktu,
+údaj o provenienci nebo údaj o zemi původu, jde-li o vinné hrozny čerstvé, jiné než stolní hrozny, rektifikovaný moštový koncentrát a rmut,
+označení ročníku sklizně, moštové odrůdy, chráněné označení původu, chráněné zeměpisné označení nebo tradiční výraz, pokud jsou produkty podle odstavce 1 některým z těchto údajů v průvodním dokladu označeny, nebo pokud tyto údaje mají být použity při označování vína,
+označení šarže produktu a
+druh a číslo průvodního dokladu, na základě něhož byl produkt do České republiky přepraven.
+Vzor oznámení zveřejní ministerstvo na svých internetových stránkách.
+Nebalené víno přepravené z jiného členského státu Evropské unie nebo ze třetí země musí být po příchodu do prvního místa dodání na území České republiky uskladněno po dobu 10 dní. Pokud Inspekce v této lhůtě odebere kontrolní vzorek uskladněného vína, musí být kontrolované víno uskladněno v tomto místě dodání do sdělení výsledku rozboru nebo do marného uplynutí lhůty pro sdělení výsledku rozboru.
+Inspekce sdělí výsledek rozboru příjemci vína ve lhůtě podle prováděcího právního předpisu. Tuto lhůtu může Inspekce nejvýše jednou prodloužit, pokud se s ohledem na skutečnosti zjištěné při rozboru ukáže nezbytným provést další rozbor vzorku. Inspekce písemně sdělí příjemci vína, že lhůta byla prodloužena, a to spolu s uvedením rozboru, který bude dále proveden.
+Částečně zkvašený hroznový mošt
+Částečně zkvašený hroznový mošt smí být nabízen ke spotřebě pod označením „burčák“, jestliže pochází výlučně z vinných hroznů, které byly sklizeny a zpracovány na území České republiky.
+Částečně zkvašený hroznový mošt lze nabízet k přímé lidské spotřebě mezi 1. srpnem a 30. listopadem kalendářního roku, v němž byly vinné hrozny sklizeny, pokud je částečně zkvašený hroznový mošt ve stavu kvašení.
+Při nabízení částečně zkvašeného hroznového moštu nebo částečně zkvašeného hroznového moštu nabízeného spotřebiteli pod označením „burčák“ k přímé lidské spotřebě musí být viditelně umístěny snadno čitelné údaje, že se jedná o částečně zkvašený hroznový mošt nebo „burčák“ a kdo je jeho výrobcem, údaj o provenienci a údaj o alergenní složce způsobem stanoveným zákonem o potravinách.
+Společná ustanovení pro označování produktu
+Požadavky na označování produktu stanoví předpisy Evropské unie, tento zákon a prováděcí právní předpis. Uvádět v označování produktu nebo na jeho etiketě jiné údaje než údaje stanovené předpisy Evropské unie, tímto zákonem a prováděcím právním předpisem je zakázáno. Tím nejsou dotčena práva vyplývající ze zvláštních právních předpisů.
+U produktu je dále zakázáno uvádět údaje poukazující na zesílený účinek, jako například sousloví „zdravotní víno“ nebo „posilující víno“ nebo „víno na krev“ anebo slova „přírodní“ nebo „pravé“ nebo „čisté“ anebo „alternativní“, stejně jako slovní spojení, v nichž se tato slova vyskytují.
+U jakostního vína stanovené oblasti se v označení uvede slovní vyjádření obsahu zbytkového cukru, který zůstane obsažen v konečném produktu, v souladu s předpisy Evropské unie.
+Na obalu určeném pro spotřebitele lze uvést získaná ocenění, popřípadě medaile ze soutěží a výstav vín. Bylo-li víno s chráněným označením původu nebo chráněným zeměpisným označením vyrobeno z hroznů révy vinné sklizených na území České republiky, uvede výrobce uvádějící toto víno do oběhu na obalu určeném pro spotřebitele logotyp specifikovaný prováděcím právním předpisem, který stanoví podrobnosti tohoto označení.
+Na etiketě vína lze uvést, že splňuje požadavky pro účely církví a náboženských společností, například, že jde o mešní víno, košer víno apod., pokud byl vydán písemný souhlas příslušné církve nebo náboženské společnosti s uváděním takto označeného vína do oběhu; bez předchozího písemného souhlasu příslušné církve nebo náboženské společnosti je zakázáno uvést takto označené víno do oběhu.
+Označování produktu podle zákona upravujícího ekologické zemědělství není tímto zákonem dotčeno.
+Prodávající nabízející k prodeji spotřebiteli sudové víno je povinen v místě nabídky viditelně zpřístupnit tyto snadno čitelné údaje:
+označení druhu produktu podle předpisu Evropské unie o společné organizaci trhu se zemědělskými produkty,
+u vín s chráněným označením původu nebo chráněným zeměpisným označením název chráněného označení původu nebo chráněného zeměpisného označení,
+u vín s tradičním výrazem tradiční výraz,
+skutečný obsah alkoholu v rozsahu podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů,
+slovní vyjádření obsahu zbytkového cukru v rozsahu podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů,
+označení stáčírny podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů,
+údaj o provenienci podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů a
+označení šarže.
+Prodávající nabízející k prodeji spotřebiteli čepované víno nebo rozlévané víno je povinen v místě nabídky viditelně zpřístupnit tyto snadno čitelné údaje:
+označení druhu produktu podle předpisu Evropské unie o společné organizaci trhu se zemědělskými produkty,
+u vín s chráněným označením původu nebo chráněným zeměpisným označením název chráněného označení původu nebo chráněného zeměpisného označení,
+u vín s tradičním výrazem tradiční výraz,
+označení stáčírny podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů a
+údaj o provenienci podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů.
+Prodávající nabízející sudové víno, čepované víno nebo rozlévané víno je dále povinen v místě nabídky viditelně zpřístupnit snadno čitelné údaje o alergenní složce způsobem stanoveným zákonem o potravinách. Prodávající nabízející čepované víno nebo rozlévané víno je dále povinen v místě nabídky viditelně zpřístupnit snadno čitelné údaje o skutečném obsahu alkoholu v rozsahu podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů a slovní vyjádření obsahu zbytkového cukru v rozsahu podle předpisu Evropské unie o označování a obchodní úpravě některých vinařských produktů, a to tak, že uvede přímo tyto údaje, nebo uvede slova „Informaci o obsahu skutečného alkoholu nebo o slovním vyjádření obsahu zbytkového cukru ve víně žádejte u obsluhy“ nebo jiná slova, která mají pro spotřebitele stejný význam, a tyto informace je na vyžádání spotřebitele povinen sdělit.
+Je zakázáno označovat jako víno
+nápoje připravené ze zředěného hroznového moštu,
+nápoj vyrobený na území České republiky jiným postupem nebo užitím jiných konzervačních anebo přídatných látek, než stanoví předpisy Evropské unie,
+alkoholický nápoj vyrobený alkoholovým kvašením výluhů z matolin,
+alkoholický nápoj vyrobený kvašením zředěných vinných kalů,
+směsi vína s alkoholickými nápoji vyrobenými z ovoce, sladu, medu, rostlin nebo jejich výluhů.
+Prováděcí právní předpis stanoví údaje, které mohou být uvedeny na etiketě produktu, a požadavky, za nichž lze tyto údaje na etiketě uvádět.
+Ministerstvo rozhoduje o přidělení kódu podle předpisů Evropské unie, splňuje-li žadatel tyto podmínky
+je registrovaným výrobcem podle § 11 odst. 1,
+v posledních 5 letech mu nebyla pravomocně uložena pokuta za přestupek podle § 39 odst. 1 písm. b) nebo podle § 39 odst. 2 písm. t),
+je plátcem odvodů do Vinařského fondu.
+Ministerstvo rozhodne o odebrání kódu podle předpisů Evropské unie tomu, kdo jej užívá, pokud poruší některou z podmínek, za kterých mu byl kód přidělen.
+Pokud se název nebo adresa stáčírny, výrobce, dovozce nebo prodejce skládá z chráněného označení původu nebo chráněného zeměpisného označení či je obsahuje, jsou na etiketě uvedeny pomocí kódu přiděleného podle odstavce 12.
+Je-li do oběhu uváděno víno v přepravním obalu, musí být tento obal opatřen etiketou, která obsahuje
+povinné údaje podle předpisu Evropské unie o společné organizaci trhu se zemědělskými produkty,
+slovní vyjádření obsahu zbytkového cukru v rozsahu podle předpisu Evropské unie pro uvádění údaje o obsahu cukru na etiketách,
+datum plnění a
+jméno, příjmení a bydliště, jde-li o fyzickou osobu, obchodní firmu nebo název, identifikační číslo, pokud je přiděleno, a sídlo, jde-li o právnickou osobu, výrobce nebo příjemce vína.
+Na etiketě je možné uvést označení „Chateau“ nebo „Château“. „Chateau“ nebo „Château“ je historický výraz spojený s typem oblasti a druhem vína vyhrazený pro vína pocházející z podniku, který skutečně existuje pod tímto názvem, nebo který je nazýván přesně tímto slovem. Takový podnik musí být tímto názvem nebo slovem nepřetržitě označován nejméně 15 let a hrozny pocházejí výhradně z tohoto podniku nebo výroba vína se provádí v tomto podniku.
+Označení „Chateau“ nebo „Château“ je možné na etiketě uvést také vždy v případě, že je součástí ochranné známky, o niž bylo zažádáno nebo jež je zapsána nebo zavedena používáním přede dnem 4. května 2002.
+Sudové víno
+Určit nebalené víno jako sudové je oprávněn pouze
+výrobce tohoto vína, pokud se jedná o víno vyrobené v České republice, a to z hroznů sklizených v České republice nebo jiném státě Evropské unie, nebo
+příjemce tohoto vína, který je jako příjemce uveden v průvodním dokladu, na základě něhož bylo víno na území České republiky přepraveno, pokud se jedná o víno vyrobené v jiném členském státě nebo třetí zemi.
+Sudové víno může být prodáváno spotřebiteli pouze v provozovně výrobce vína nebo příjemce nebaleného vína, kteří splňují požadavky podle odstavce 1. Sudové víno nesmí být spotřebiteli prodáváno prostřednictvím prodejního automatu.
+Výrobce vína nebo příjemce nebaleného vína podle odstavce 1 nejpozději v den zahájení a ukončení prodeje sudového vína v provozovnách uvedených v odstavci 2 oznámí tuto skutečnost Ústavu prostřednictvím Registru. Prodej sudového vína se považuje za ukončený, pokud výrobce vína nebo příjemce nebaleného vína podle odstavce 1 neprodá sudové víno v provozovně uvedené v odstavci 2 déle než 6 měsíců. Výrobce vína nebo příjemce nebaleného vína podle odstavce 1 uvede v oznámení své jméno, příjmení a bydliště, jde-li o fyzickou osobu, obchodní firmu nebo název, identifikační číslo, pokud je přiděleno, a sídlo, jde-li o právnickou osobu, spolu s adresou provozovny, popřípadě provozoven, v nichž sudové víno prodává. Vzor oznámení zveřejní ministerstvo na svých internetových stránkách.
+Zemské víno
+Víno se může označit názvem „zemské víno“, jestliže
+bylo vyrobeno z hroznů révy vinné sklizených na území České republiky, které jsou vhodné pro výrobu jakostního vína stanovené oblasti nebo z odrůd, které jsou uvedeny v seznamu odrůd stanovených prováděcím právním předpisem,
+hrozny révy vinné, z nichž bylo víno vyrobeno, dosáhly cukernatosti nejméně 14 stupňů normalizovaného moštoměru,
+splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+splňuje požadavky předpisů Evropské unie,
+pochází výlučně z vinařské oblasti Čechy nebo výlučně z vinařské oblasti Morava a hrozny révy vinné byly v této oblasti zpracovány na víno.
+Etiketa zemského vína musí obsahovat vedle povinných údajů stanovených předpisy Evropské unie také zeměpisné označení „české“ nebo „moravské“, podle vinařské oblasti, v níž bylo zemské víno vyrobeno, a označení „zemské víno“.
+Etiketa zemského vína může kromě údajů podle odstavce 2 obsahovat tyto nepovinné údaje
+název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropské unie,
+pokud hrozny révy vinné prokazatelně pochází z vlastních registrovaných vinic, může být uvedena kromě vinařské oblasti stejně velkým písmem i vinařská obec.
+Víno bez chráněného označení původu, chráněného zeměpisného označení nebo tradičního výrazu, s názvem odrůdy nebo označením ročníku musí být vyrobeno z hroznů révy vinné, jejichž výnos nepřekročil 14 tun na 1 ha a musí pocházet z odrůd podle § 17 odst. 1 písm. a). Na etiketě tohoto vína nebo v označení tohoto vína podle § 16 odst. 10 a 11 nemohou být uvedeny odrůdy révy vinné uvedené ve Státní odrůdové knize. Na etiketě tohoto vína nebo v označení tohoto vína podle § 16 odst. 10 a 11 nesmí být použit výraz „odrůdové víno“.
+Víno bez chráněného označení původu, chráněného zeměpisného označení nebo tradičního výrazu s názvem odrůdy nebo označením ročníku podléhá certifikaci. Výrobce tohoto vína je povinen uhradit náklady spojené s certifikací podle předpisu Evropské unie. Prováděcí právní předpis stanoví výši paušální částky nákladů na certifikaci. O náhradě nákladů na certifikaci rozhodne Inspekce. Certifikace se provádí zejména kontrolou evidenčních knih. Je-li víno bez chráněného označení původu, chráněného zeměpisného označení nebo tradičního výrazu vyrobeno z čerstvých hroznů, moštu nebo rmutu, jejichž příchod do místa dodání nebyl nahlášen v souladu s ustanovením § 14a, nelze toto víno certifikovat.
+Jakostní víno
+Jakostní víno se vyrábí a označuje způsobem stanoveným předpisy Evropské unie a tímto zákonem.
+Jakostní víno lze uvést do oběhu, jestliže
+víno bylo vyrobeno z vinných hroznů, sklizených na vinici vhodné pro jakostní víno stanovené oblasti (§ 5), které byly sklizeny ve stejné vinařské oblasti,
+výroba vína, s výjimkou stáčení, proběhla ve vinařské oblasti, v níž byly vinné hrozny sklizeny,
+nebyl překročen hektarový výnos podle § 6 odst. 2,
+vinné hrozny, z nichž bylo víno vyrobeno, dosáhly cukernatosti nejméně 15 stupňů normalizovaného moštoměru,
+víno splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+víno bylo Inspekcí zatříděno jako jakostní víno, jakostní víno odrůdové nebo jakostní víno známkové,
+víno splňuje požadavky předpisů Evropské unie.
+Jakostní víno lze označit dovětkem „odrůdové“ nebo „známkové“.
+Jakostní víno odrůdové se vyrábí z vinných hroznů, rmutu, z hroznového moštu, z vína vyrobeného z vinných hroznů sklizených na vinici vhodné pro jakostní víno stanovené oblasti nebo smísením jakostních vín, a to nejvýše z 3 odrůd.
+Jakostní víno známkové se vyrábí ze směsi vinných hroznů, rmutu, hroznového moštu, případně z vína vyrobeného z vinných hroznů sklizených na vinici vhodné pro jakostní víno stanovené oblasti nebo smísením jakostních vín.
+Etiketa jakostního vína obsahuje údaje stanovené předpisy Evropské unie a dále tyto údaje:
+název vinařské oblasti, v níž bylo jakostní víno vyrobeno,
+označení „jakostní víno“, s případným uvedením dovětku podle odstavce 3; je-li na etiketě uveden dovětek podle odstavce 3, uvede se na etiketě název odrůdy nebo odrůd, v případě jakostního vína odrůdového, nebo známka, v případě jakostního vína s dovětkem známkové,
+evidenční číslo jakosti.
+Etiketa jakostního vína může kromě údajů podle odstavce 6 obsahovat
+název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropské unie,
+název vinařské podoblasti, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této vinařské podoblasti,
+název vinařské obce, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této vinařské obce,
+název viniční tratě, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této viniční tratě.
+Označení „víno s chráněným označením původu“ nebo „víno CHOP“ nemusí být na etiketě jakostního vína uváděno.
+Pokud bude v případě jakostního vína zvyšována cukernatost moštu produktem, musí být tento produkt vyroben v České republice a pocházet z hroznů révy vinné sklizených v České republice. To neplatí, jde-li o rektifikovaný moštový koncentrát.
+Jakostní víno s přívlastkem
+Jakostní víno s přívlastkem se vyrábí a označuje způsobem stanoveným předpisy Evropské unie a tímto zákonem.
+Jakostní víno s přívlastkem se vyrábí v druzích
+kabinetní víno,
+pozdní sběr,
+výběr z hroznů,
+výběr z bobulí,
+výběr z cibéb,
+ledové víno,
+slámové víno.
+Vinné hrozny určené pro výrobu vín uvedených v odstavci 2 písm. d) až g) se sklízejí ručně.
+Jakostní víno s přívlastkem lze uvést do oběhu, jestliže
+bylo vyrobeno z vinných hroznů, sklizených na vinici vhodné pro jakostní víno stanovené oblasti (§ 5), které byly sklizeny ve stejné vinařské podoblasti,
+výroba proběhla ve vinařské oblasti, v níž byly vinné hrozny sklizeny,
+nebyl překročen hektarový výnos podle § 6 odst. 2,
+víno bylo vyrobeno z vinných hroznů, jejichž původ, cukernatost a hmotnost, popřípadě odrůda nebo směs odrůd anebo napadení ušlechtilou plísní šedou Botrytis cinerea P. byly ověřeny Inspekcí; ověření podléhá správnímu poplatku podle zvláštního právního předpisu,
+víno bylo vyrobeno z vinných hroznů, rmutu nebo hroznového moštu, popřípadě z vína vyrobeného z vinných hroznů sklizených na vinici vhodné pro jakostní víno stanovené oblasti, které splňují požadavky pro jednotlivý druh jakostního vína s přívlastkem nebo smísením jakostních vín s přívlastkem,
+víno splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+víno bylo Inspekcí zatříděno jako jakostní víno s přívlastkem,
+víno splňuje požadavky předpisů Evropské unie.
+Jakostní víno s přívlastkem kabinetní víno lze vyrábět pouze z vinných hroznů cukernatosti nejméně 19 stupňů normalizovaného moštoměru.
+Jakostní víno s přívlastkem pozdní sběr lze vyrábět pouze z vinných hroznů cukernatosti nejméně 21 stupňů normalizovaného moštoměru.
+Jakostní víno s přívlastkem výběr z hroznů lze vyrábět pouze z vinných hroznů cukernatosti nejméně 24 stupňů normalizovaného moštoměru.
+Jakostní víno s přívlastkem výběr z bobulí je dovoleno vyrábět pouze z vybraných bobulí, které dosáhly cukernatosti nejméně 27 stupňů normalizovaného moštoměru.
+Jakostní víno s přívlastkem výběr z cibéb je dovoleno vyrábět pouze z vybraných bobulí napadených ušlechtilou plísní šedou nebo z přezrálých bobulí, které dosáhly cukernatosti nejméně 32 stupňů normalizovaného moštoměru.
+Jakostní víno s přívlastkem ledové víno je dovoleno vyrábět pouze z vinných hroznů, které byly sklizeny při teplotách minus 7 °C a nižších a v průběhu sklizně a zpracování zůstaly zmrazeny a získaný mošt vykazoval cukernatost nejméně 27 stupňů normalizovaného moštoměru.
+Jakostní víno s přívlastkem slámové víno je dovoleno vyrábět pouze z vinných hroznů, které byly před zpracováním skladovány na slámě či rákosu nebo byly zavěšeny ve větraném prostoru po dobu nejméně 3 měsíců, a získaný mošt vykazoval cukernatost nejméně 27 stupňů normalizovaného moštoměru. Vykazuje-li však mošt již po 2 měsících cukernatost nejméně 32 stupňů normalizovaného moštoměru, může se provést lisování.
+Jakostní víno s přívlastkem lze označit dovětkem „známkové“, jestliže bylo získáno ze směsi vinných hroznů, rmutu, hroznového moštu, popřípadě z vína vyrobeného z vinných hroznů sklizených na vinici vhodné pro jakostní víno stanovené oblasti, které splňují požadavky pro jednotlivý druh jakostního vína s přívlastkem, anebo smísením jakostních vín s přívlastkem.
+Etiketa jakostního vína s přívlastkem obsahuje kromě údajů stanovených předpisy Evropské unie dále tyto údaje:
+název vinařské oblasti, v níž bylo jakostní víno s přívlastkem vyrobeno, a vinařské podoblasti, ve které byly sklizeny vinné hrozny užité k výrobě jakostního vína s přívlastkem,
+označení „jakostní víno s přívlastkem“ nebo „víno s přívlastkem“, včetně uvedení druhu (odstavec 2), který odpovídá zatřídění Inspekcí,
+evidenční číslo jakosti.
+Etiketa jakostního vína s přívlastkem může kromě údajů podle odstavce 13 obsahovat
+název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropské unie,
+ročník sklizně, za podmínek stanovených předpisy Evropské unie,
+název vinařské obce, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této vinařské obce,
+název viniční tratě, pocházejí-li produkty užité k výrobě vína alespoň z 85 % z této viniční tratě.
+Je zakázáno konzervovat jakostní víno s přívlastkem chemickými látkami, s výjimkou oxidu siřičitého.
+Označení „víno s chráněným označením původu“ nebo „víno CHOP“ nemusí být na etiketě jakostního vína s přívlastkem uváděno.
+Šumivé víno
+Šumivé víno se vyrábí způsobem a v druzích stanovených předpisy Evropské unie a tímto zákonem. Šumivé víno se označuje způsobem stanoveným předpisy Evropské unie a tímto zákonem.
+Šumivé víno lze označit názvem „jakostní šumivé víno“ nebo názvem „sekt“ a takto označené uvádět do oběhu, jestliže
+splňuje požadavky předpisů Evropské unie,
+splňuje požadavky na jakost stanovené prováděcím právním předpisem.
+Šumivé víno lze označit názvem „jakostní šumivé víno stanovené oblasti“ nebo názvem „sekt s. o.“ a takto označené uvádět do oběhu, jestliže
+k výrobě kupáže byly užity vinné hrozny, sklizené na vinici vhodné pro jakostní víno stanovené oblasti (§ 5), které byly sklizeny ve stejné vinařské oblasti,
+výroba vína použitého k výrobě jakostního šumivého vína stanovené oblasti proběhla ve vinařské oblasti, v níž byly vinné hrozny sklizeny,
+nebyl překročen hektarový výnos podle § 6 odst. 2,
+víno splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+víno bylo Inspekcí zatříděno jako jakostní šumivé víno stanovené oblasti,
+víno splňuje požadavky předpisů Evropské unie.
+Jakostní šumivé víno podle odstavce 2 se může označit názvem „pěstitelský sekt“ a takto označené uvádět do oběhu, jestliže
+víno bylo Inspekcí zatříděno jako pěstitelský sekt,
+víno splňuje požadavky předpisů Evropské unie pro pěstitelský sekt.
+Šumivé víno se může označit názvem „aromatické jakostní šumivé víno“ a takto označené uvádět do oběhu, jestliže
+při jeho výrobě bylo užito pouze prvotní kvašení kupáže z odrůd uvedených v předpise Evropské unie,
+víno splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+víno splňuje požadavky předpisů Evropské unie.
+Šumivé víno se může označit názvem „aromatické jakostní šumivé víno stanovené oblasti“ nebo „aromatický sekt s. o.“ a takto označené uvádět do oběhu, jestliže
+k výrobě kupáže bylo užito víno z vinných hroznů, sklizených na vinici vhodné pro jakostní víno stanovené oblasti (§ 5), které byly sklizeny ve stejné vinařské oblasti,
+výroba vína použitého k výrobě aromatizovaného jakostního šumivého vína stanovené oblasti proběhla ve vinařské oblasti, v níž byly vinné hrozny sklizeny,
+nebyl překročen hektarový výnos podle § 6 odst. 2,
+při jeho výrobě bylo užito pouze prvotní kvašení kupáže z odrůd uvedených v předpise Evropské unie,
+víno splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+víno bylo Inspekcí zatříděno jako aromatické jakostní šumivé víno stanovené oblasti,
+víno splňuje požadavky předpisů Evropské unie.
+Etiketa jakostního šumivého vína, sektu a aromatického jakostního šumivého vína může obsahovat název vinařské oblasti, v níž bylo toto víno vyrobeno, jestliže hrozny, ze kterých bylo vyrobeno, pocházejí výlučně z výše stanovené vinařské oblasti.
+Etiketa jakostního šumivého vína stanovené oblasti (odstavec 3), pěstitelského sektu a aromatického jakostního šumivého vína stanovené oblasti (odstavec 6) obsahuje údaje stanovené předpisy Evropské unie.
+Etiketa jakostního šumivého vína, sektu, jakostního šumivého vína stanovené oblasti (odstavec 3), pěstitelského sektu, aromatického jakostního šumivého vína a aromatického jakostního šumivého vína stanovené oblasti (odstavec 6) může dále obsahovat
+název vinařské podoblasti, jestliže vinné hrozny užité k výrobě kupáže pocházejí nejméně z 85 % z této vinařské podoblasti,
+název odrůdy, jestliže produkt, s výjimkou produktu obsaženém v tirážním likéru nebo expedičním likéru, byl nejméně z 85 % získán z vinných hroznů, které pocházejí z této odrůdy, a jestliže tato odrůda je pro dotyčný druh produktu rozhodující, nebo
+názvy nejvýše 3 odrůd, jestliže vinné hrozny, z nichž byl produkt získán, s výjimkou produktu obsaženého v tirážním likéru nebo expedičním likéru, pocházejí výlučně z těchto odrůd a jestliže směs těchto odrůd je pro tento druh produktu rozhodující.
+Etiketa pěstitelského sektu může dále obsahovat název vinařské obce nebo viniční tratě, jestliže vinné hrozny užité k výrobě kupáže pocházejí nejméně z 85 % z této vinařské obce nebo viniční tratě.
+Perlivé víno
+Perlivé víno se vyrábí a označuje způsobem stanoveným předpisy Evropské unie a tímto zákonem.
+Perlivé víno se může označit názvem „jakostní perlivé víno“ a takto označené uvádět do oběhu, jestliže
+bylo vyrobeno z vinných hroznů, sklizených na vinici vhodné pro jakostní víno stanovené oblasti (§ 5), které byly sklizeny ve stejné vinařské oblasti,
+výroba vína použitého k výrobě jakostního perlivého vína proběhla ve vinařské oblasti, v níž byly vinné hrozny sklizeny,
+nebyl překročen hektarový výnos podle § 6 odst. 2,
+víno splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+víno bylo Inspekcí zatříděno jako jakostní perlivé víno,
+víno splňuje požadavky předpisů Evropské unie.
+Etiketa jakostního perlivého vína obsahuje údaje stanovené předpisy Evropské unie a dále název vinařské oblasti, v níž byly sklizeny vinné hrozny užité k výrobě jakostního perlivého vína.
+Etiketa jakostního perlivého vína může kromě údajů podle odstavce 3 obsahovat
+název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropské unie; podíl každé odrůdy uvedené na etiketě musí činit nejméně 15 %,
+ročník sklizně, za podmínek stanovených předpisy Evropské unie,
+název vinařské podoblasti, pocházejí-li produkty užité k výrobě vína výlučně z této vinařské podoblasti.
+Likérové víno
+Likérové víno se vyrábí a označuje způsobem stanoveným předpisy Evropské unie a tímto zákonem.
+Likérové víno se může označit názvem „jakostní likérové víno“, jestliže
+bylo vyrobeno z vinných hroznů, sklizených na vinici vhodné pro jakostní víno stanovené oblasti (§ 5), které byly sklizeny ve stejné vinařské oblasti,
+výroba vína použitého k výrobě jakostního likérového vína proběhla ve vinařské oblasti, v níž byly vinné hrozny sklizeny,
+nebyl překročen hektarový výnos podle § 6 odst. 2,
+víno splňuje požadavky na jakost stanovené prováděcím právním předpisem,
+víno bylo Inspekcí zatříděno jako jakostní likérové víno,
+víno splňuje požadavky předpisů Evropské unie.
+Etiketa jakostního likérového vína obsahuje údaje stanovené předpisy Evropské unie a dále tyto údaje:
+název vinařské oblasti, v níž bylo víno vyrobeno,
+evidenční číslo jakosti.
+Etiketa jakostního likérového vína může kromě údajů podle odstavců 2 a 3 obsahovat
+název odrůdy nebo odrůd, za podmínek stanovených předpisy Evropské unie; podíl každé odrůdy uvedené na etiketě musí činit nejméně 15 %,
+ročník sklizně, za podmínek stanovených předpisy Evropské unie,
+název vinařské podoblasti, pocházejí-li produkty užité k výrobě vína výlučně z této vinařské podoblasti.
+Víno originální certifikace
+Víno originální certifikace lze vyrábět za těchto podmínek:
+musí být vyrobeno na stejném nebo menším území, než je vinařská oblast,
+výrobce musí být členem sdružení, které je oprávněné přiznávat označení vína originální certifikace podle tohoto zákona,
+víno odpovídá alespoň jakostním požadavkům pro jakostní víno podle tohoto zákona,
+víno splňuje podmínky stanovené v rozhodnutí o povolení přiznávat označení vína originální certifikace; v ostatním musí víno splňovat požadavky stanovené tímto zákonem pro jednotlivé druhy vín.
+Povolení přiznávat označení vína originální certifikace (dále jen „povolení“) uděluje ministerstvo. Ministerstvo též rozhoduje o žádosti o změnu povolení ve lhůtě podle odstavce 7.
+Víno originální certifikace se na etiketě označí slovním údajem „víno originální certifikace“ nebo zkratkou „V. O. C.“, případně „VOC“. Toto označení je oprávněn používat jen výrobce podle odstavce 1 písm. b).
+Žádost o povolení může ministerstvu podat sdružení založené podle zvláštního právního předpisu, jehož členy jsou pěstitelé, kteří mají zaregistrovány vinice na území, pro které sdružení žádá povolení, nebo výrobci, kteří budou víno originální certifikace podle povolení vyrábět na území oblasti, ve kterém se nacházejí vinice členů sdružení. Členem sdružení může být i výrobce nakupující vinné hrozny z vinic registrovaných na území uvedeném v žádosti a uvedeném v povolení.
+Žádost o povolení obsahuje
+název a sídlo sdružení,
+seznam členů sdružení,
+území, na kterém budou sklízeny vinné hrozny, ze kterých bude víno originální certifikace vyráběno; hrozny révy vinné mohou být pro víno originální certifikace pěstovány pouze v registrovaných vinicích,
+charakteristiku vlastností vína, které bude uváděno do oběhu jako víno originální certifikace v rozsahu stanoveném prováděcím právním předpisem, a podmínky, za nichž bude toto víno uváděno do oběhu,
+procesní postup při zatřiďování vín originální certifikace, včetně stanovení postupu při nesouhlasu člena sdružení se zatříděním vína.
+K žádosti o povolení žadatel přiloží
+výpis z registru nebo evidence sdružení,
+písemný souhlas všech členů sdružení s návrhem podmínek uvedených v žádosti podle odstavce 5 písm. d),
+stanovy sdružení, které musí obsahovat tyto podmínky:
+sdružení přijme každého za člena sdružení za zcela rovných podmínek,
+každý člen sdružení musí po dobu platnosti povolení splňovat podmínky nutné pro přidělení kódu podle § 16 odst. 12; pokud člen sdružení nebude splňovat podmínky nutné pro přidělení kódu podle § 16 odst. 12, orgány sdružení nejpozději do 30 dnů ode dne, kdy se o této skutečnosti dozví, pozastaví členovi sdružení právo na označování jím vyrobených vín jako vín originální certifikace podle povolení,
+každý člen sdružení musí plnit podmínky, za nichž sdružení přiznává označení vína originální certifikace svým členům.
+Ministerstvo vydá rozhodnutí o žádosti o povolení nejpozději do 1 roku od jejího podání. Každá registrovaná vinice může být uvedena pouze v jediném rozhodnutí o povolení.
+V povolení ministerstvo stanoví podmínky, za nichž lze označení vína originální certifikace přiznávat, a podmínky jeho uvádění do oběhu.
+Sdružení, kterému bylo uděleno povolení (dále jen „pověřené sdružení“) provádí hodnocení a zatřídění vína pocházejícího od jeho členů, které má být uváděno do oběhu jako víno originální certifikace. Pověřené sdružení musí při hodnocení a zatřídění vína postupovat v souladu s povolením a tímto zákonem. Kopii rozhodnutí o zatřídění zasílá pověřené sdružení Ústavu v elektronické podobě.
+Ministerstvo zveřejní na svých internetových stránkách označení vína, šarži, zeměpisné údaje původu vína, ročník vína, výrobce vína.
+Pověřené sdružení musí Ústavu zdarma předávat informace o zatříděných vínech originální certifikace, zejména za účelem plnění povinností státu vůči Evropské unii.
+V případě porušení některé z podmínek stanovených pověřenému sdružení v povolení nebo tímto zákonem, nebo v případě, že sdružení odmítá přijmout nového člena, který splňuje podmínky, za kterých pověřené sdružení poskytuje označení vína originální certifikace, stanoví ministerstvo lhůtu k jejich odstranění. Pokud nebudou zjištěné nedostatky ve stanovené lhůtě odstraněny, ministerstvo povolení odejme.
+Víno originální certifikace se nezatřiďuje podle § 26. Víno originální certifikace podléhá dozoru podle tohoto zákona.
+Prováděcí právní předpis stanoví rozsah charakteristiky vlastností vína uváděné v žádosti. Vzor žádosti o povolení zveřejní ministerstvo na svých internetových stránkách.
+Aromatizované víno, aromatizovaný vinný nápoj a aromatizovaný vinný koktejl
+Aromatizované víno, aromatizovaný vinný nápoj a aromatizovaný vinný koktejl se vyrábí a označuje způsobem stanoveným předpisy Evropské unie.
+Odalkoholizované víno a nízkoalkoholické víno
+Odalkoholizované víno, odalkoholizované šumivé víno nebo odalkoholizované perlivé víno je nápoj z vína, u něhož obsah alkoholu byl destilací nebo jinou technologií snížen na 0,5 % objemových nebo méně. Při výrobě je možné přidat hroznový mošt, zahuštěný hroznový mošt nebo cukr v takovém množství, aby obsah zbytkového cukru v konečném produktu byl nejvýše 75 g na 1 litr. Dále je dovoleno přidávat oxid uhličitý a přírodní aromatické látky a přírodně identické aromatické látky.
+Nízkoalkoholické víno, nízkoalkoholické šumivé víno nebo nízkoalkoholické perlivé víno je nápoj, který byl vyroben jako odalkoholizované víno, odalkoholizované šumivé víno nebo odalkoholizované perlivé víno, nebo mísením odalkoholizovaného vína s vínem a jehož obsah alkoholu je vyšší než 0,5 % objemových, nejvýše však 5 % objemových. Při výrobě je možné přidat hroznový mošt, zahuštěný hroznový mošt nebo cukr v takovém množství, aby obsah zbytkového cukru v konečném produktu byl nejvýše 75 g na 1 litr. Dále je dovoleno přidávat oxid uhličitý a přírodní aromatické látky a přírodně identické aromatické látky.
+Odalkoholizované víno se označí názvem „odalkoholizované víno“. Odalkoholizované šumivé víno se označí názvem „odalkoholizované šumivé víno“. Odalkoholizované perlivé víno se označí názvem „odalkoholizované perlivé víno“. Odalkoholizované víno, odalkoholizované šumivé víno nebo odalkoholizované perlivé víno lze též označit jako nealkoholické víno, nealkoholické šumivé víno nebo nealkoholické perlivé víno. Nízkoalkoholické víno se označí názvem „nízkoalkoholické víno“. Nízkoalkoholické šumivé víno se označí názvem „nízkoalkoholické šumivé víno“. Nízkoalkoholické perlivé víno se označí názvem „nízkoalkoholické perlivé víno“. V případě užití aromatických látek u produktů podle odstavce 1 nebo 2 se název odalkoholizovaného vína, odalkoholizovaného šumivého vína, odalkoholizovaného perlivého vína, nízkoalkoholického vína, nízkoalkoholického šumivého vína nebo nízkoalkoholického perlivého vína doplní slovem „aromatizováno“.
+Zatřídění vína vyrobeného z vinných hroznů vypěstovaných na území České republiky
+Zatřídění vína podléhá
+jakostní víno,
+jakostní víno s přívlastkem,
+jakostní šumivé víno stanovené oblasti,
+aromatické jakostní šumivé víno stanovené oblasti,
+pěstitelský sekt,
+jakostní perlivé víno,
+jakostní likérové víno,
+pokud je vyrobeno z vinných hroznů sklizených ve vinařské oblasti Morava nebo ve vinařské oblasti Čechy a nebylo zatříděno podle § 23.
+Žádost o zatřídění vína uvedeného v odstavci 1 musí před jeho uvedením do oběhu podat výrobce vždy na celou šarži, která je uvedena v žádosti. Zatřídění vína podléhá správnímu poplatku podle zvláštního právního předpisu.
+Žádost o zatřídění vína obsahuje kromě náležitostí stanovených správním řádem
+identifikační číslo osoby,
+označení vína určeného k zatřídění, popřípadě uvedení roku sklizně vinných hroznů a názvu odrůdy, případně odrůd,
+množství zatřiďovaného vína v litrech,
+označení všech nádob, ve kterých je víno příslušné šarže, uvedené v žádosti o zatřídění vína, skladováno v době odběru vzorků vína, nebo počet naplněných lahví a místo jejich uložení v době odběru vzorků zatřiďovaného vína,
+vinařskou oblast, případně vinařskou podoblast, ze které víno pochází,
+označení šarže,
+požadované zatřídění vína; u vína s přívlastkem druh a číslo dokladu, kterým byl ověřen původ, cukernatost a hmotnost, popřípadě odrůda nebo směs odrůd anebo napadení ušlechtilou plísní šedou Botrytis cinerea P. vinných hroznů, z nichž bylo víno vyrobeno,
+označení vína, které je opětovně předmětem žádosti o zatřídění, poté co bylo použito k výrobě vína uvedeného v žádosti, dále jeho šarži, množství v litrech a evidenční číslo jakosti.
+Před podáním žádosti o zatřídění vína výrobce
+provede odběr vzorků vína z šarže, která bude předmětem žádosti o zatřídění, za účelem provedení rozboru vína; po odběru vzorků již nelze toto víno scelovat, ani s ním provádět žádné jiné enologické postupy nebo ošetření, s výjimkou těch, které vyžaduje obvyklá péče o víno, a
+zajistí na svoje náklady rozbor vína v akreditované laboratoři (dále jen „laboratoř“) akreditovanými metodami stanovenými pro rozbory vína právními předpisy.
+Seznam laboratoří zveřejní ministerstvo na svých internetových stránkách.
+Po doručení výsledků rozboru vína z laboratoře podá výrobce žádost podle odstavce 3 Inspekci; k žádosti přiloží
+výsledky rozboru vína z laboratoře na jednotlivé šarže vína podle předpisů Evropské unie,
+doklad o zaplacení správního poplatku podle zvláštního právního předpisu,
+vzorek vína pro hodnocení Inspekcí,
+referenční vzorek vína.
+Žádost o zatřídění vína spolu s přílohami doručí výrobce Inspekci. Žádost se podává inspektorátu Inspekce v Brně. Vzor žádosti zveřejní ministerstvo na svých internetových stránkách.
+Inspekce provede hodnocení vína a poté rozhodne, zda toto víno lze uvést do oběhu. Pokud toto víno lze uvést do oběhu, Inspekce rozhodne o jeho zatřídění. U jakostního vína a jakostního vína s přívlastkem je součástí zatřídění i uvedení příslušného druhu.
+Rozhodnutí o zatřídění vína vydá inspektorát Inspekce v Brně. O odvolání proti tomuto rozhodnutí rozhoduje ústřední inspektorát Inspekce.
+Výsledky hodnocení vína zašle Inspekce v elektronické podobě Ústavu a ministerstvu. Ministerstvo zveřejní na svých internetových stránkách označení vína, evidenční číslo jakosti, šarži, zeměpisné údaje původu vína, ročník vína, výrobce vína. Inspekce zveřejní na svých internetových stránkách jednací řád Komise pro hodnocení a zatřiďování vína.
+Nebylo-li víno zatříděno podle žádosti, nebo vykazovalo choroby nebo vady, může výrobce podat žádost opětovně, a to nejdříve po uplynutí 2 měsíců ode dne nabytí právní moci původního rozhodnutí. Skutečnost, že jde o opětovně podanou žádost, musí být uvedena v žádosti, včetně původního označení vína, šarže vína, množství v litrech a evidenčního čísla jakosti. Výrobce vína smí podat žádost o zatřídění vína pro totéž víno nejvýše dvakrát.
+Prováděcí právní předpis stanoví pro účely postupu podle odstavce 4 způsob odběru a velikost vzorků vín, které jsou předmětem žádosti o zatřídění, a přípustné odchylky od výsledků rozboru z laboratoře.
+Zatříděné víno s přívlastkem v rámci druhů přívlastkového vína podle § 19 odst. 2, s výjimkou slámového a ledového vína, nebo jakostní víno si může jeho výrobce sám sestupnit, splňuje-li víno analytické požadavky daného druhu stanovené prováděcím právním předpisem. Tuto skutečnost musí výrobce nejpozději následující pracovní den sdělit v elektronické podobě Ústavu s uvedením údajů podle odstavce 3. Tyto údaje Ústav zapíše do Registru. Sestupnění zveřejní ministerstvo podle odstavce 10 věty druhé.
+Výrobce vína, u něhož bylo provedeno orgánem dozoru ověření souladu se specifikací chráněného označení původu nebo chráněného zeměpisného označení podle předpisu Evropské unie, je povinen uhradit náklady spojené s ověřením souladu se specifikacemi. Prováděcí právní předpis stanoví výši paušální částky nákladů na ověření souladu se specifikacemi. O náhradě nákladů na ověření souladu se specifikacemi rozhodne Inspekce.
+Uvádění produktu do oběhu
+Produkt může být uváděn do oběhu, pouze je-li bezpečný.
+Ten, kdo uvádí produkt do oběhu, je povinen zajistit dodržení podmínky stanovené v § 12 odst. 2.
+Do oběhu nelze uvádět produkt
+klamavě označený,
+způsobilý vyvolat nebezpečí záměny, nebo
+nabízený ke spotřebě klamavým způsobem.
+Je zakázáno uvádět do oběhu produkt,
+u něhož
+jsou překročeny hodnoty obsahu zdraví škodlivých látek stanovených zvláštními právními předpisy,
+nebyly dodrženy požadavky na jakost stanovené prováděcím právním předpisem anebo produkt vykazuje choroby nebo vady,
+nebylo rozhodnuto o jeho zatřídění, podléhá-li zatřídění,
+neodpovídají hodnoty skutečného obsahu alkoholu, nebo celkového obsahu alkoholu, nebo hodnoty obsahu bezcukerného extraktu hodnotám zjištěným při jeho zatřídění, s přihlédnutím k odchylkám stanoveným prováděcím právním předpisem,
+nejsou celá jeho výroba, distribuce a skladování řádně zdokumentovány v evidenčních knihách, nebo
+nebyla splněna oznamovací povinnost podle § 14a,
+který
+neodpovídá zatřídění,
+je neznámého původu nebo je vyrobený z produktu neznámého původu,
+je bez chráněného označení původu nebo chráněného zeměpisného označení nebo tradičního výrazu a je označen odrůdou nebo ročníkem, aniž by u něho byla provedena certifikace podle předpisu Evropské unie,
+není doprovázen průvodním dokladem podle předpisu Evropské unie nebo podle prováděcího právního předpisu nebo je doprovázen průvodním dokladem obsahujícím nepravdivé, chybné, nečitelné nebo neúplné údaje,
+byl uveden do oběhu v rozporu s § 14b,
+byl uveden do oběhu v rozporu s § 16b, nebo
+je falšovaný,
+jehož obal nebyl opatřen etiketou v souladu s § 16 odst. 15.
+Je zakázáno nabízet k prodeji vína určená pro spotřebitele společně s ovocnými víny, alkoholickými nápoji nebo jinými nápoji, které by mohly způsobit záměnu s vínem, pokud nejsou odděleně umístěny a zřetelně označeny.
+Je zakázáno uvádět do oběhu ke spotřebě alkoholické nápoje z vinných kalů, matolin a zahuštěných hroznových moštů zředěných vodou, s výjimkou nápojů podle zvláštního právního předpisu.
+Produkt smí být při uvádění do oběhu balen pouze do obalů a obalových materiálů, které odpovídají požadavkům stanoveným zvláštními právními předpisy a chrání ho před znehodnocením nebo zkažením. Obal nesmí nepříznivě ovlivňovat jakost a zdravotní nezávadnost produktu. Jakostní víno s přívlastkem smí být plněno pouze do skleněných lahví o obsahu do 0,75 nebo 1,5 litru. Lahve musí být uzavřeny jen uznanými uzávěry.
+Produkt při skladování v nádobách nebo lahvích musí být řádně označen, aby nemohlo dojít k záměně a aby bylo možné kdykoliv prokázat jeho původ a jedinečnost.
+V průběhu období stanovených v čl. 1 odst. 2 nařízení Komise v přenesené pravomoci (EU) č. 560/2015 je možno hrozny révy vinné sklizené na vinicích určených k pokusným účelům nebo k produkci roubů a produkty z těchto hroznů uvádět do oběhu.
+Víno lze spotřebiteli prodávat pouze v obalu určeném pro spotřebitele nebo jako sudové, čepované nebo rozlévané víno.
+Při prodeji rozlévaného vína je zakázáno mísit víno z načatých obalů určených pro spotřebitele o objemu do 2 litrů. Víno je dovoleno mísit ve vinný střik nebo s jiným nealkoholickým nápojem pouze na přání kupujícího a v jeho přítomnosti. Při podávání vína v obalu určeném pro spotřebitele o objemu do 2 litrů může být obal otevřen pouze před kupujícím.
+Ustanoveními odstavce 1 až 11 nejsou dotčeny podmínky a zákazy uvádění produktu do oběhu stanovené předpisy Evropské unie.
+Prováděcí právní předpis může stanovit marketingová pravidla za účelem řízení nabídky při prvním uvedení produktu do oběhu v souladu s předpisem Evropské unie.
+Prováděcí právní předpis stanoví pro přepravu vinařského produktu, která se uskutečňuje výlučně na území České republiky, náležitosti a dobu platnosti průvodního dokladu. Vzor průvodního dokladu pro přepravu vinařského produktu, která se uskutečňuje výlučně na území České republiky, zveřejní ministerstvo na svých internetových stránkách.
+REGISTR
+Registr obsahuje
+seznam registrovaných vinic a údaje o nich, včetně údajů o pěstitelích,
+údaje o hodnocených a zatříděných vínech, provedených kontrolách pěstitelů, výrobků a osob uvádějících produkty do oběhu, údaje o produktech a evidenční knihy obchodních zprostředkovatelů,
+seznam provozoven výrobců vína nebo příjemců nebaleného vína, v nichž je sudové víno prodáváno spotřebiteli,
+množství nebaleného vína, vinných hroznů čerstvých, jiných než stolní hrozny, moštu, rektifikovaného moštového koncentrátu a rmutu spolu s dalšími údaji podle § 14a,
+evidenční knihy podle § 30 odst. 3,
+údaje podle předpisů Evropské unie.
+Registr vede Ústav. Registr není veřejně přístupný s výjimkou údajů podle odstavce 1 písm. c).
+Pěstitel je povinen oznámit Ústavu zrušení vinice a změny údajů podle odstavce 1 do 30 dnů po jejich provedení. V případě výsadby vinice je pěstitel povinen požádat Ústav o přidělení registračního čísla do 30 dnů od provedení výsadby vinice. Pěstitel je povinen prokázat vlastnické právo, pokud Ústav nemůže toto právo ověřit v katastru nemovitostí, nebo nájemní právo k vinici, která je uvedena v žádosti o registraci. Ústav je povinen pěstiteli přidělit registrační číslo do 60 dnů, ve zvlášť složitých případech do 90 dnů od obdržení žádosti pěstitele. Právní účinky přidělení registračního čísla vinice nastávají dnem doručení žádosti podle věty druhé Ústavu.
+V případě, že při řízení podle odstavce 3 pěstitel Ústavu prokáže, že vlastník pozemku nebo jeho pobyt není znám, postupuje se obdobně, jak je uvedeno v § 9 odst. 4 a doložení vlastnického práva nebo nájemního vztahu se nevyžaduje.
+V případě, že orgán dozoru zjistí nesoulad mezi údaji vedenými v Registru a skutečností, je oprávněn zahájit řízení z moci úřední.
+Ten, kdo je podle tohoto zákona povinen oznamovat nebo zasílat údaje Ústavu, musí na výzvu orgánu dozoru (§ 37) prokázat, že tuto povinnost splnil.
+Údaje oznamované Ústavu musí být úplné a pravdivé a musí vycházet z evidence podle § 6, § 11 odst. 2 a § 30.
+Prováděcí právní předpis stanoví způsob vedení Registru, způsob poskytování údajů Ústavu podle tohoto zákona a přímo použitelných předpisů Evropské unie. Vzor žádosti o registraci vinice a oznámení o provedení změny ve vinici a oznámení změny pěstitele zveřejní ministerstvo na svých internetových stránkách.
+Prohlášení o sklizni, prohlášení o produkci a prohlášení o zásobách
+Prohlášení o sklizni obsahuje údaje o výsledcích sklizně ke dni 31. prosince téhož vinařského roku a podává se do 15. ledna vinařského roku.
+Prohlášení o sklizni podává rovněž obchodník s moštovými hrozny.
+Prohlášení o sklizni nemusí podávat osoba, která veškerou svou produkci zpracovává na víno nebo si ji nechává zpracovat na víno.
+Prohlášení o produkci obsahuje údaje o produkci ke dni 31. prosince téhož vinařského roku a podává se do 15. ledna vinařského roku.
+Ministerstvo zveřejní vzor prohlášení o sklizni, vzor prohlášení o produkci a vzor prohlášení o zásobách na svých internetových stránkách.
+EVIDENČNÍ KNIHY
+Fyzická nebo právnická osoba, která drží nebo zprostředkovává produkt za účelem výkonu svého podnikání nebo k obchodním účelům, je povinna vést evidenční knihy v rozsahu, způsobem a ve lhůtách stanovených předpisy Evropské unie, tímto zákonem a prováděcím právním předpisem.
+Evidenční knihy předkládá osoba uvedená v odstavci 1 orgánu dozoru nebo příslušnému správci daně na jejich žádost bez zbytečného odkladu.
+Obchodní zprostředkovatelé vedou evidenční knihy v Registru.
+Vzor pro vedení evidenčních knih obchodních zprostředkovatelů zveřejní ministerstvo na svých internetových stránkách. Vzor pro vedení evidenčních knih obchodních zprostředkovatelů bude též zveřejněn v Registru.
+Uzávěrka evidenčních knih se provede každoročně k 31. červenci.
+Prováděcí právní předpis stanoví podrobnosti způsobu a rozsahu vedení, uchovávání a předkládání evidenčních knih podle odstavců 1 a 2.
+VINAŘSKÝ FOND
+Zřizuje se Vinařský fond (dále jen „Fond“) se sídlem v Brně.
+Fond je právnickou osobou, která hospodaří s vlastním majetkem. Při rozhodování o povinnosti zaplatit odvod a podporu státu podle tohoto zákona o žádostech o poskytnutí podpor z prostředků Fondu nebo při rozhodování o povinnosti vrátit návratnou část poskytnuté podpory na výsadbu vinice a obnovu vinic, má Fond postavení orgánu veřejné moci.
+Fond se nesmí účastnit na podnikání jiných osob.
+Fond
+podporuje marketing vína, prodej produktů a ochranu označování vína podle zeměpisného původu,
+informuje veřejnost o vinohradnictví a vinařství a o dalších významných skutečnostech souvisejících s vinohradnictvím a vinařstvím,
+podporuje uchovávání a rozvoj vinohradnictví a vinařství jako významné součásti evropského kulturního dědictví, dále podporuje rozvoj turistiky v oblasti vinohradnictví a vinařství.
+Fond poskytuje podpory na činnosti uvedené v odstavci 4 fyzickým a právnickým osobám žádajícím o podporu (dále jen „žadatel“).
+Orgány Fondu jsou Rada Fondu (dále jen „Rada“), ředitel Fondu (dále jen „ředitel“) a Dozorčí rada Fondu (dále jen „Dozorčí rada“). Veřejnou správu vykonává Rada, její předseda a ředitel. Mimo obnovu řízení o opravných prostředcích podle zvláštních zákonů rozhoduje předseda Rady, na jeho rozhodování se přiměřeně použijí ustanovení o vedoucím ústředního správního úřadu.
+Členem orgánu Fondu může být jen fyzická osoba, která je bezúhonná a má plnou způsobilost k právním úkonům. Za bezúhonného se pro účely tohoto zákona považuje ten, kdo nebyl pravomocně odsouzen za úmyslný trestný čin nebo se na něj hledí, jako by nebyl odsouzen. Členem orgánu Fondu nemůže být jeho zaměstnanec, pokud tento zákon dále nestanoví jinak.
+Fond vypracovává výroční zprávu, kterou předkládá Radě [§ 32 odst. 8 písm. g)] a Dozorčí radě [§ 34 odst. 2 písm. b)], a to nejpozději do 30. dubna následujícího kalendářního roku. Fond zveřejní výroční zprávu Fondu na internetových stránkách Fondu.
+Výroční zpráva Fondu musí obsahovat
+přehled činností vykonávaných v příslušném kalendářním roce Fondem, s uvedením vztahu k účelu poskytnuté podpory [odstavec 4 písm. a) a c)] nebo poskytnuté, případně vydané informace [odstavec 4 písm. b)],
+roční účetní závěrku a zhodnocení základních údajů v ní obsažených,
+přehled o příjmech a výdajích Fondu v členění podle zdrojů Fondu,
+přehled o poskytnutých podporách a uzavřených smlouvách v členění podle druhu poskytnuté podpory nebo smlouvy, účelu a výše,
+vývoj a konečný účetní stav příjmů a výdajů Fondu za uplynulý kalendářní rok,
+změny organizačního řádu a změny ve složení orgánů Fondu, včetně odůvodnění těchto změn, k nimž došlo v průběhu uplynulého kalendářního roku.
+Žadatel musí žádost o poskytnutí podpory doručit Fondu v termínech
+od 1. ledna do 15. února, nebo
+od 1. července do 15. srpna.
+O poskytnutí podpory rozhoduje Rada. Lhůta pro vydání rozhodnutí začíná běžet dnem následujícím po dni ukončení přijímání žádostí podle odstavce 10.
+Žádost o poskytnutí podpory podle odstavce 4 může podat žadatel,
+má-li sídlo nebo trvalý pobyt na území České republiky, jedná-li se o občana České republiky, nebo bydliště v zahraničí, popřípadě místo pobytu v České republice, nejedná-li se o občana České republiky,
+se kterým nebylo zahájeno insolvenční řízení podle zákona č. 182/2006 Sb., o úpadku a způsobech jeho řešení (insolvenční zákon), ve znění pozdějších předpisů, případně není v likvidaci,
+nemá-li žádné závazky po lhůtě splatnosti vůči Fondu nebo státu, a
+který se v průběhu dvou let před podáním žádosti nedopustil trestného činu nebo přestupku, jehož skutková podstata souvisí s předmětem jeho podnikání.
+V žádosti o poskytnutí podpory žadatel uvede
+jméno, popřípadě jména a příjmení nebo obchodní firmu, místo trvalého pobytu na území České republiky, jedná-li se o občana České republiky, nebo bydliště v zahraničí, popřípadě místo pobytu v České republice, nejedná-li se o občana České republiky, místo podnikání, liší-li se od místa pobytu, a identifikační číslo, bylo-li přiděleno, jde-li o podnikající fyzickou osobu, jméno, popřípadě jména a příjmení, místo trvalého pobytu a datum narození, jde-li o nepodnikající fyzickou osobu, obchodní firmu nebo název, sídlo a identifikační číslo, jde-li o právnickou osobu,
+účel, na který je podpora požadována,
+předpokládané celkové náklady, jejichž úhradu požaduje, a
+rok, ve kterém mu byla naposledy Fondem poskytnuta podpora, popřípadě uvede, že mu podpora doposud poskytnuta nebyla.
+K žádosti o poskytnutí podpory žadatel přiloží
+doklad potvrzující skutečnosti uvedené v odstavci 13 písm. a) a
+souhlas s nakládáním s osobními údaji uvedenými v žádosti o poskytnutí podpory v rozsahu nezbytném pro vyřízení nebo kontrolu žádosti, a souhlas se zveřejněním potřebných údajů na webových stránkách Fondu v rozsahu uvedeném v odstavcích 17 a 18.
+K žádosti o poskytnutí podpory žadatel dále přiloží dokumentaci obsahující
+název a cíl žádosti o poskytnutí podpory,
+způsob dosažení cíle,
+náklady na dosažení cíle a
+předpokládané přínosy z realizované žádosti.
+Fond vyplatí žadateli podporu podle odstavců 4 a 5 až poté, co žadatel doloží, že vynaložil prostředky v souladu s rozhodnutím o poskytnutí podpory.
+Fond na svých internetových stránkách zveřejní
+informace o doručených žádostech o poskytnutí podpory v pořadí podle doručení s uvedením účelu podpory, názvu a stručné charakteristiky předkládané žádosti o poskytnutí podpory, jména a příjmení žadatele o poskytnutí podpory nebo obchodní firmy nebo názvu žadatele o poskytnutí podpory a časového vymezení realizace předmětu podpory,
+informace o rozhodnutích o poskytnutí podpory s uvedením konkrétní výše poskytnuté podpory jednotlivému žadateli; jestliže je žádost o poskytnutí podpory zamítnuta, zveřejní rovněž odůvodnění zamítnuté žádosti o poskytnutí podpory, a
+formou seznamu podpory poskytnuté Fondem, které jsou vyšší než 10 000 Kč bez daně z přidané hodnoty na jednotlivou podporu, nebo na opakované plnění jednomu žadateli o podporu překračující tuto částku, v příslušném kalendářním roce, s uvedením účelu plnění, příjemce plnění, požadovaného termínu plnění, termínu skutečného plnění, vyplacené částky a termínu výplaty.
+Údaje podle odstavce 17 písm. a) Fond zveřejní nejpozději do 15 dnů po ukončení přijímání žádostí o poskytnutí podpory Fondu. Údaje podle odstavce 17 písm. b) a c) Fond zveřejní nejpozději do 15 pracovních dnů po rozhodnutí Rady.
+Podmínky a podrobnosti o způsobu a výši poskytování podpor pro žadatele podle odstavců 4 a 5 stanoví po předchozím souhlasu ministerstva Rada v pravidlech pro žadatele.
+Fond zveřejní pro následující půlrok podmínky a podrobnosti o způsobu a výši poskytování podpor pro žadatele podle odstavců 4 a 5 nejpozději do 31. května a do 30. listopadu na svých internetových stránkách.
+Rada
+Rada je nejvyšším orgánem Fondu; skládá se z 11 členů. Funkční období členů Rady je čtyřleté. Členům Rady nepřísluší odměna za výkon funkce člena. Člen Rady má nárok na náhradu výdajů do výše určené zvláštním právním předpisem.
+Členy Rady jmenuje a odvolává ministr zemědělství (dále jen „ministr“), přičemž jednoho člena Rady jmenuje z řad zaměstnanců ministerstva, jednoho člena Rady z řad zastupitelstva Jihomoravského kraje a 9 členů Rady na návrh vinohradnických a vinařských sdružení.
+Členy Rady může ministr v případě zjištění závažného porušení povinností vyplývajících z funkce člena Rady odvolat na návrh Dozorčí rady nebo na návrh toho, kdo navrhoval člena podle odstavce 2.
+Členství v Radě je neslučitelné s členstvím v Dozorčí radě. Členství v Radě může být stejnou osobou vykonáváno nejvýše tři po sobě následující funkční období; stejná osoba se může opětovně stát členem Rady nejdříve po uplynutí 2 let, kdy nebyla členem Rady.
+Předsedu a místopředsedu Rady volí a odvolává z řad svých členů Rada.
+Členství v Radě zaniká
+uplynutím funkčního období,
+úmrtím,
+odstoupením,
+odvoláním.
+Na uvolněná místa členů Rady jmenuje ministr do 60 dnů nové členy z návrhů, které ve lhůtě 30 dnů došly.
+Do působnosti Rady patří
+předkládat návrh finančního plánu Fondu a účetní závěrku Fondu Dozorčí radě ke kontrole, dohledu a schválení,
+rozhodovat o využití finančních prostředků Fondu,
+rozhodovat o poskytování podpor z Fondu,
+jmenovat a odvolávat ředitele, dohlížet na jeho činnost a stanovovat výši jeho mzdy,
+předkládat Dozorčí radě ke schválení organizační řád Fondu,
+schvalovat jednací řád Rady a výroční zprávu Fondu,
+předkládat Dozorčí radě a Poslanecké sněmovně každoročně výroční zprávu Fondu k projednání a posouzení,
+sestavovat plán činnosti Fondu.
+Jednání Rady svolává a řídí její předseda a v jeho nepřítomnosti místopředseda Rady, popřípadě nejstarší člen Rady. Při rozhodování je hlasovací právo členů Rady rovné. Při rovnosti hlasů rozhoduje hlas předsedajícího Radě. Rada je usnášeníschopná, je-li přítomna nadpoloviční většina jejích členů, a k rozhodnutí je třeba souhlasu nadpoloviční většiny přítomných členů Rady.
+Jednání Rady se může účastnit ředitel a předseda Dozorčí rady; požádají-li o slovo, musí jim být uděleno.
+Rada zasedá podle potřeby Fondu, nejméně čtyřikrát ročně.
+Ředitel
+Ředitel je statutárním orgánem Fondu; řídí činnost Fondu, pokud tento zákon nestanoví jinak.
+Ředitel je zaměstnancem Fondu; nemůže být členem Rady ani Dozorčí rady. Ředitel určí z řad zaměstnanců Fondu svého zástupce, který ho bude zastupovat v době jeho nepřítomnosti.
+Dozorčí rada
+Dozorčí rada je kontrolním orgánem Fondu. Kontroluje hospodaření s majetkem Fondu a využití finančních prostředků Fondu a poskytování podpor Fondem. Členu Dozorčí rady, kteří jsou poslanci, senátory, členy vlády, vedoucími ústředního správního úřadu, soudci nebo o nichž tak stanoví zvláštní zákon, nepřísluší odměna za výkon funkce člena. Člen Dozorčí rady má nárok na náhradu výdajů do výše určené zvláštním právním předpisem.
+Dozorčí rada
+kontroluje činnost Fondu, jeho statutárního orgánu a Rady,
+posuzuje výroční zprávu Fondu,
+schvaluje účetní závěrku Fondu a finanční plán Fondu,
+podává nejméně jedenkrát ročně zprávu Radě o výsledcích své kontrolní činnosti,
+předkládá ministrovi návrh na odvolání člena Rady, zjistí-li u něj závažné nedostatky ve výkonu jeho funkce,
+kontroluje účetní knihy a jiné doklady a v nich obsažené údaje,
+svolává mimořádné jednání Rady, vyžadují-li to zájmy Fondu,
+dohlíží, zda Fond vyvíjí činnost v souladu s právními předpisy a organizačním řádem Fondu,
+schvaluje organizační řád Fondu,
+schvaluje plán činnosti Fondu.
+Dozorčí rada je povinna upozornit Radu na porušení právních předpisů nebo organizačního řádu Fondu, na nehospodárné postupy, popřípadě na další nedostatky v činnosti Fondu.
+Členy Dozorčí rady volí a odvolává Poslanecká sněmovna. Členství v Dozorčí radě je neslučitelné s členstvím v Radě. Dozorčí rada má 7 členů. Funkční období členů Dozorčí rady je čtyřleté. Po uplynutí funkčního období vykonávají členové Dozorčí rady funkci v Dozorčí radě do zvolení svého nástupce ve funkci.
+Dozorčí rada volí z řad svých členů předsedu a místopředsedu Dozorčí rady.
+Jednání Dozorčí rady svolává a řídí její předseda a v jeho nepřítomnosti místopředseda Dozorčí rady. Při rozhodování je hlasovací právo členů Dozorčí rady rovné. Při rovnosti hlasů rozhoduje hlas předsedajícího Dozorčí radě. Dozorčí rada je usnášeníschopná, je-li přítomna nadpoloviční většina jejich členů, a k rozhodnutí je třeba souhlasu nadpoloviční většiny přítomných členů Dozorčí rady.
+Příjmy Fondu tvoří
+odvody ve výši 0,50 Kč z každého litru všech druhů vín vyrobených na území České republiky a poprvé uvedených do oběhu; odvod je výrobce povinen odvést na účet Fondu; tato povinnost se nevztahuje na výrobce, pokud v kalendářním roce uvede do oběhu víno v množství menším než 1 000 litrů,
+odvody ve výši 350 Kč z každého byť jen započatého hektaru vinice, které je pěstitel povinen odvést nejpozději do konce každého kalendářního roku na účet Fondu; tato povinnost se nevztahuje na
+pěstitele, který pěstuje révu na ploše menší než 1 hektar,
+vinice registrované Ústavem pro výzkumné a pokusné účely,
+mladé vinice do konce třetího roku od výsadby;
+podpora státu, která se poskytuje ve finanční výši rovnající se součtu příjmů Fondu uvedených pod písmeny a), b), d) až k). Podporu státu na příslušný kalendářní rok ministerstvo převede na účet Fondu nejpozději do 25. února následujícího roku,
+dotace ze státního rozpočtu,
+dotace z rozpočtu územních samosprávných celků,
+finanční příspěvek kraje,
+dary od fyzických osob, právnických osob, nebo zahraničních osob,
+dědictví,
+příjmy z prodeje produktů podporujících činnosti uvedené v § 31 odst. 4,
+úroky z vkladů,
+penále za neplacení nebo opožděné placení odvodů stanovené ve výši 0,1 % denně z dlužné částky ode dne následujícího po posledním dni splatnosti odvodu, nejvýše však do výše dvojnásobku odvodu; penále je pěstitel nebo výrobce povinen odvést na účet Fondu.
+U odvodů podle odstavce 1 písm. a) je dnem splatnosti dvacátý pátý den měsíce po skončení čtvrtletí. Základem pro stanovení výše odvodu podle odstavce 1 písm. a) za příslušný kalendářní rok je objem vyrobeného vína celkem vykázaný v Prohlášení o produkci podle § 29 odst. 4 ke dni 31. prosince předchozího kalendářního roku. Odvod podle odstavce 1 písm. a) se provede na účet Fondu čtvrtletně ve výši jedné čtvrtiny. V případě, že výrobce uvedl v roce, který předchází kalendářnímu roku, ve kterém má odvodovou povinnost, do oběhu méně jak 20 000 litrů vína, provede se odvod jednorázově, dnem splatnosti je 25. ledna následujícího kalendářního roku.
+Pěstitel nebo výrobce je povinen poukázat příslušný odvod Fondu ve lhůtách podle odstavců 1 a 2. Plátce odvodu je dále povinen na vyžádání Fondu předložit Fondu vyúčtování plateb odvodů za uplynulý kalendářní rok.
+Pěstitel nebo výrobce je povinen vypočítat a podle vzoru sdělit údaje rozhodné pro výši odvodu podle odstavce 1 písm. a) a b) a tyto zasílat Fondu nejpozději do dne splatnosti odvodu. Vzor stanoví Fond jako přílohu organizačního řádu, zveřejní jej na svých internetových stránkách a rozešle na obecní úřady vinařských obcí.
+Ústav umožní Fondu přístup k údajům a informacím z evidence vinic a výroby vína, které se týkají pěstitelů a výrobců vína, a to v rozsahu nezbytném pro zajištění výběru odvodů podle odstavce 1 písm. a) a b).
+Pro účely kontroly placení odvodů je Fond oprávněn vyžadovat od pěstitelů a výrobců údaje o plochách osázených vinic, výrobě vína, množství sklizených vinných hroznů a množství vína uvedeného do oběhu; pro účely ověření těchto údajů je Fond oprávněn vyžadovat od ministerstva, Generálního ředitelství cel, případně Ústavu údaje o plochách osázených vinic, výrobě vína, množství sklizených vinných hroznů a množství vína uvedeného do oběhu jednotlivými výrobci vína. Pěstitel, případně výrobce vína je povinen na žádost Fondu předložit Fondu za účelem placení odvodů příslušnou dokumentaci týkající se odvodů do Fondu podle odstavce 1 písm. a) a b).
+Fond může provádět v souvislosti s kontrolou odvodů kontrolu přímo u pěstitele nebo výrobce.
+Členové orgánů Fondu a zaměstnanci Fondu jsou povinni zachovávat mlčenlivost o skutečnostech, které se dozví v souvislosti s výkonem funkce člena orgánu Fondu nebo zaměstnance Fondu. Zprostit mlčenlivosti může člena orgánu Fondu nebo zaměstnance Fondu ministr.
+Odvody podle tohoto zákona vybírá a vymáhá Vinařský fond.
+Příjmy Fondu lze použít pouze
+k účelům uvedeným v § 31 odst. 4,
+k pokrytí provozních nákladů Fondu, avšak nejvýše do 10 % součtu všech zdrojů příjmů podle § 35.
+Fond ve svém účetnictví odděleně eviduje výdaje spojené s poskytováním podpor a informací podle § 31 odst. 4 a tyto vede na samostatných účtech.
+Zůstatek vykázaný Fondem ke konci příslušného kalendářního roku se převede v účetnictví Fondu do následujícího kalendářního roku a užije se k zabezpečení činnosti Fondu podle § 31 odst. 4.
+VÝKON STÁTNÍ SPRÁVY A PŘESTUPKY
+Orgány dozoru nad dodržováním povinností stanovených předpisy Evropské unie a tímto zákonem jsou
+Ústav, pokud jde o vinohradnictví,
+Inspekce, pokud jde o vinařství.
+Orgány dozoru zejména
+dozírají na dodržování povinností stanovených předpisy Evropské unie, tímto zákonem a prováděcími právními předpisy,
+zjišťují příčiny nedostatků a osoby za ně odpovědné,
+rozhodují o přestupcích podle § 39,
+provádějí certifikaci vína podle předpisů Evropské unie,
+provádějí ověření souladu se specifikacemi podle předpisů Evropské unie.
+K odstranění zjištěných nedostatků a jejich příčin Inspekce ukládá opatření podle zvláštního právního předpisu.
+Kromě činnosti spojené s dozorem Ústav dále
+vede Registr podle § 28,
+zajišťuje činnosti spojené se správou produkčního potenciálu, s novou výsadbou, právem na opětovnou výsadbu a zajišťuje správu rezervy,
+vydává rozhodnutí podle tohoto zákona (§ 8, 9, § 10 odst. 1 a § 28 odst. 3).
+Kromě činnosti spojené s dozorem Inspekce dále
+provádí ověřování odrůdy, původu, cukernatosti a hmotnosti vinných hroznů [§ 19 odst. 4 písm. d)],
+provádí kontrolu průvodních dokladů v souladu s předpisy Evropské unie,,
+vydává doklad podle předpisu Evropské unie,
+zasílá průběžně Ústavu informace o provedených kontrolách podle tohoto zákona a jejich výsledcích,
+zasílá bez odkladu Ústavu kopie rozhodnutí podle § 26,
+vydává rozhodnutí podle tohoto zákona (§ 10 odst. 2 a § 26).
+Oprávnění a povinnosti zaměstnanců orgánů dozoru a kontrolovaných osob při výkonu dozoru jsou stanoveny zvláštními právními předpisy.,,
+Ministerstvo řídí a kontroluje výkon státní správy vykonávaný orgány dozoru. V souvislosti s touto činností jsou orgány dozoru povinné poskytnout ministerstvu součinnost, zejména poskytovat na jeho žádost veškerou dokumentaci související s dozorem.
+Kde se v předpisech Evropské unie mluví o
+příslušném úřadu, příslušném ústředním úřadu nebo kompetentní autoritě, rozumí se tím pro účely tohoto zákona ústřední úřad, do jehož působnosti náleží výkon příslušného oprávnění nebo provedení příslušného opatření, anebo úřad, na který byly výkon příslušného oprávnění nebo provádění příslušného opatření přeneseny,
+příslušném orgánu dozoru, rozumí se tím pro účely tohoto zákona orgán dozoru, do jehož působnosti byly výkon příslušného oprávnění nebo provádění příslušného opatření tímto zákonem svěřeny, popřípadě do jehož působnosti se zřetelem na svůj význam, povahu a srovnatelné úkoly náleží.
+Kde se v předpisech Evropské unie mluví o opatření k zajištění dodržování povinností a jednotného uplatňování požadavků stanovených těmito předpisy nebo k odstranění zjištěných nedostatků, rozumí se tím vždy odpovídající opatření podle tohoto zákona.
+Prováděcí právní předpis stanoví postup certifikace vína, paušální částky nákladů na certifikaci a paušální částky nákladů na ověření souladu se specifikacemi.
+Celní úřady
+Příslušným orgánem pro vydávání průvodních dokladů je celní úřad.
+Přestupky právnických a podnikajících fyzických osob
+Právnická nebo podnikající fyzická osoba se jako výrobce, příjemce nebo jako osoba uvádějící produkt do oběhu dopustí přestupku tím, že
+v rozporu s § 12 odst. 2 uvede do oběhu produkt, který obsahuje přidanou látku, nejedná-li se o falšování produktu,
+v rozporu s § 12 odst. 6 písm. c) falšuje produkt,
+nesplní oznamovací povinnost podle § 14a,
+neuskladní nebalené víno z jiného členského státu Evropské unie nebo ze třetí země podle § 14b,
+nabídne ke spotřebě částečně zkvašený hroznový mošt v rozporu s § 15,
+označí produkt v rozporu s § 16 odst. 1,
+v rozporu s § 16 odst. 2 označí produkt údajem poukazujícím na zesílený účinek produktu,
+neuvede v označení jakostního vína stanovené oblasti slovní vyjádření obsahu zbytkového cukru podle § 16 odst. 3,
+uvede do oběhu víno s logotypem na obalu v rozporu s § 16 odst. 4 nebo v rozporu s § 16 odst. 4 nesplní povinnost uvést na obalu logotyp,
+uvede do oběhu víno označené na etiketě údajem, že splňuje požadavky pro účely církví a náboženských společností v rozporu s § 16 odst. 5,
+v rozporu s § 16 odst. 10 označí jako víno nápoj, který takto označit nelze,
+uvede do oběhu víno označené kódem podle přímo použitelných předpisů Evropské unie upravujících chráněná označení původu a zeměpisná označení, tradiční výrazy, označování a obchodní úpravu některých vinařských produktů, aniž by bylo ministerstvem rozhodnuto o přidělení kódu podle § 16 odst. 12,
+v rozporu s § 16 odst. 15 neopatří víno v přepravním obalu etiketou nebo neuvede na etiketě údaje podle § 16 odst. 15,
+určí nebalené víno jako sudové v rozporu s § 16b odst. 1,
+neoznámí Ústavu zahájení nebo ukončení prodeje sudového vína v provozovnách podle § 16b odst. 3,
+prodá sudové víno v rozporu s § 16b odst. 2,
+označí produkt názvem „zemské víno“ v rozporu s § 17 odst. 1,
+neuvede na etiketě zemského vína údaje podle § 17 odst. 2,
+označí víno v rozporu s § 17a odst. 1,
+uvede do oběhu produkt označený názvem „jakostní víno“ nebo dovětkem „odrůdové“ nebo „známkové“ v rozporu s § 18 odst. 2 až 5,
+neuvede na etiketě jakostního vína údaje podle § 18 odst. 6,
+uvede na etiketě nepovinné údaje v rozporu s § 18 odst. 7.
+Právnická nebo podnikající fyzická osoba se jako výrobce, příjemce nebo jako osoba uvádějící produkt do oběhu dopustí přestupku dále tím, že
+uvede do oběhu produkt označený „jakostní víno s přívlastkem“ v rozporu s § 19 odst. 4,
+označí jakostní víno s přívlastkem „známkové“ v rozporu s § 19 odst. 12,
+neuvede na etiketě jakostního vína s přívlastkem údaje podle § 19 odst. 13,
+uvede na etiketě jakostního vína s přívlastkem údaje v rozporu s § 19 odst. 14,
+uvede do oběhu jakostní šumivé víno, jakostní šumivé víno stanovené oblasti, pěstitelský sekt, aromatické jakostní šumivé víno nebo aromatické jakostní šumivé víno stanovené oblasti v rozporu s § 20 odst. 2 až 6,
+označí jakostní šumivé víno, jakostní šumivé víno stanovené oblasti, aromatické jakostní šumivé víno, aromatické jakostní šumivé víno stanovené oblasti nebo pěstitelský sekt v rozporu s § 20 odst. 2 až 6,
+neuvede na etiketě jakostního šumivého vína stanovené oblasti, pěstitelského sektu nebo aromatického jakostního šumivého vína stanovené oblasti údaje podle § 20 odst. 8,
+uvede na etiketě jakostního šumivého vína stanovené oblasti, pěstitelského sektu nebo aromatického jakostního šumivého vína stanovené oblasti údaje v rozporu s § 20 odst. 7, 9 a 10,
+uvede do oběhu produkt označený názvem „jakostní perlivé víno“ v rozporu s § 21 odst. 2,
+neuvede na etiketě jakostního perlivého vína údaje podle § 21 odst. 3,
+uvede na etiketě jakostního perlivého vína údaje v rozporu s § 21 odst. 4,
+označí názvem „jakostní likérové víno“ produkt v rozporu s § 22 odst. 2,
+neuvede na etiketě jakostního likérového vína údaje podle § 22 odst. 3,
+uvede na etiketě jakostního likérového vína údaje v rozporu s § 22 odst. 4,
+uvede do oběhu víno originální certifikace v rozporu s povolením podle § 23 odst. 2,
+neoznačí na etiketě víno originální certifikace podle § 23 odst. 3,
+neoznačí odalkoholizované víno nebo nízkoalkoholické víno podle § 25 odst. 3,
+v rozporu s § 27 odst. 1 uvede do oběhu produkt, který je jiný než bezpečný,
+uvede do oběhu produkt v rozporu s § 27 odst. 3, odst. 4 písm. a) body 1 až 5, písm. b) body 1 až 4, nebo odst. 6,
+uvede do oběhu produkt v rozporu s § 27 odst. 4 písm. a) bod 6, písm. b) body 5 až 7, nebo písm. c),
+nabízí k prodeji víno v rozporu s § 27 odst. 5,
+v rozporu s § 27 odst. 7 uvede do oběhu produkt balený v jiných než požadovaných obalech nebo obalových materiálech anebo jakostní víno s přívlastkem plněné v jiných než požadovaných lahvích,
+neoznačí produkt při skladování v nádobách nebo láhvích podle § 27 odst. 8,
+prodává víno v rozporu s § 27 odst. 10,
+nepodá prohlášení o produkci podle § 29 odst. 4 nebo v prohlášení o produkci uvede neúplné nebo nesprávné údaje,
+neodevzdá prohlášení o zásobách hroznového moštu, zahuštěného hroznového moštu, rektifikovaného moštového koncentrátu nebo vína podle § 29 odst. 5,
+uvede do oběhu vinné hrozny sklizené na vinici vysazené v rozporu s přímo použitelnými předpisy Evropské unie upravujícími společnou organizaci trhu se zemědělskými produkty, nebo v rozporu s § 8 nebo 9, nebo uvede do oběhu produkty vyrobené z těchto vinných hroznů, nebo
+poruší povinnost stanovenou předpisem Evropské unie upravujícím oblast vinohradnictví, vinařství nebo obchodu s produkty.
+Právnická nebo podnikající fyzická osoba se jako pěstitel dopustí přestupku tím, že
+v rozporu s § 4 odst. 2 zakládá ve viniční trati porost rychle rostoucích dřevin,
+nevede záznamy o osázené viniční ploše a dosažených hektarových výnosech podle § 6 odst. 1,
+uvede do oběhu hrozny révy vinné v rozporu s § 6 odst. 3,
+provede opětovnou výsadbu révy bez povolení podle § 9 odst. 5 nebo ji provede v rozporu s přímo použitelnými předpisy Evropské unie upravujícími společnou organizaci trhu se zemědělskými produkty,
+v rozporu s § 9 odst. 3 vyklučí vinici bez souhlasu vlastníka,
+uvede do oběhu vinné hrozny sklizené na vinici vysazené v rozporu s přímo použitelnými předpisy Evropské unie upravujícími společnou organizaci trhu se zemědělskými produkty, nebo v rozporu s § 8 nebo 9, nebo uvede do oběhu produkty vyrobené z těchto vinných hroznů,
+označí produkt v rozporu s § 16 odst. 1,
+v rozporu s § 28 odst. 3
+neoznámí zrušení vinice,
+neoznámí změny údajů vedených v Registru, nebo
+nepožádá o přidělení registračního čísla v případě výsadby vinice,
+nepodá prohlášení o sklizni podle § 29 odst. 1, nebo v prohlášení o sklizni uvede neúplné nebo nesprávné údaje,
+provede novou výsadbu révy bez povolení podle § 8 odst. 2 nebo 3, nebo ji provede v rozporu s přímo použitelnými předpisy Evropské unie upravujícími společnou organizaci trhu se zemědělskými produkty, nebo
+poruší povinnost stanovenou předpisem Evropské unie upravujícím oblast vinohradnictví, vinařství nebo obchodu s produkty.
+Právnická nebo podnikající fyzická osoba se jako výrobce dopustí přestupku tím, že
+neoznámí zahájení, přerušení nebo ukončení výroby produktů podle § 11 odst. 1 a § 43 odst. 4,
+v rozporu s § 11 odst. 2 písm. a) nedodrží požadavky na výrobu, jakost a zdravotní nezávadnost,
+neodstraní vedlejší produkty vznikající při zpracování nebo výrobě produktů podle § 11 odst. 2 písm. b),
+neoznámí výrobu matolinového vína pro vlastní spotřebu podle § 11 odst. 2 písm. d),
+nezajistí soustavnou kontrolu své produkce nebo nevede anebo neuchovává evidenci o této kontrole podle § 11 odst. 2 písm. e),
+v rozporu s § 12 odst. 1 použije nepřípustné enologické postupy a ošetřování produktu, nejedná-li se o falšování produktu,
+v rozporu s § 12 odst. 2 přidá do produktu jakoukoli látku, nejedná-li se o falšování produktu,
+neoznámí zvyšování nebo snižování obsahu kyselin podle § 12 odst. 4,
+uchovává v prostorách používaných k výrobě, skladování, plnění, zpracování nebo uvádění do oběhu produktu látky v rozporu s § 12 odst. 5,
+v rozporu s § 12 odst. 6 písm. a) konzervuje jakostní víno s přívlastkem chemickými látkami,
+v rozporu s § 12 odst. 6 písm. b) skladuje ovocné víno nebo jeho směsi v prostorách, kde se skladuje víno,
+v rozporu s § 13 odst. 1 neoznámí záměr zvyšování cukernatosti,
+sladí víno v rozporu s § 14 odst. 1 nebo v rozporu s § 14 odst. 2 nepodá hlášení o slazení,
+vyrobí zemské víno v rozporu s § 17 odst. 1,
+vyrobí jakostní víno v rozporu s § 18 odst. 1,
+vyrobí jakostní víno s dovětkem „odrůdové“ nebo „známkové“, ačkoliv toto víno nesplňuje požadavky stanovené v § 18 odst. 2, 4, 5, nebo na etiketě uvede údaje, pro jejichž uvedení nejsou splněny podmínky podle § 18 odst. 6,
+vyrobí jakostní víno s přívlastkem v rozporu s § 19 odst. 1, 3, 5 až 11,
+vyrobí jakostní víno s přívlastkem v rozporu s požadavky podle § 19 odst. 4,
+uvede pro účely ověření podle § 19 odst. 4 písm. d) nepravdivé údaje,
+v rozporu s § 19 odst. 15 konzervuje jakostní víno s přívlastkem,
+vyrobí šumivé víno v rozporu s § 20 odst. 1,
+vyrobí perlivé víno v rozporu s § 21 odst. 1,
+vyrobí likérové víno v rozporu s § 22 odst. 1,
+vyrobí aromatizované víno, aromatizovaný vinný nápoj nebo aromatizovaný koktejl v rozporu s § 24 odst. 1,
+vyrobí odalkoholizované víno, které nesplňuje požadavky podle § 25 odst. 1, nebo nízkoalkoholické víno, které nesplňuje požadavky podle § 25 odst. 2, nebo
+neuvede v žádosti o zatřídění vína podle § 26 odst. 3 již jednou zatříděné víno,
+uvede nepravdivé údaje v žádosti o zatřídění vína podle § 26 odst. 3, nebo
+v rozporu s § 26 odst. 4 písm. a)
+neprovede odběr vzorků vína z šarže, která bude předmětem žádosti o zatřídění, nebo
+víno po odběru vzorků sceluje nebo s ním provádí jiné enologické postupy nebo ošetření.
+Právnická nebo podnikající fyzická osoba se jako prodávající dopustí přestupku tím, že
+uvede do oběhu produkt v rozporu s § 16 odst. 4,
+prodá sudové víno v rozporu s § 16b odst. 2,
+nezpřístupní při prodeji sudového, čepovaného nebo rozlévaného vína údaje podle § 16 odst. 7, 8 nebo 9,
+nabízí k prodeji víno v rozporu s § 27 odst. 5,
+prodává víno v rozporu s § 27 odst. 10, nebo
+v rozporu s § 27 odst. 11 smísí při prodeji rozlévaného vína víno z načatých obalů určených pro spotřebitele nebo víno smísí ve vinný střik anebo s jiným nealkoholickým nápojem v nepřítomnosti kupujícího nebo neotevře víno v obalu určeném pro spotřebitele o objemu do dvou litrů před kupujícím.
+Právnická nebo podnikající fyzická osoba se jako osoba, která drží nebo zprostředkovává produkt za účelem výkonu svého podnikání nebo k obchodním účelům, dopustí přestupku tím, že nevede evidenční knihy, nebo je nepředloží na žádost orgánu dozoru podle § 30 odst. 1 a 2.
+Za přestupek lze uložit pokutu do
+3 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. e), g), h) a l), odstavce 2 písm. p), odstavce 3 písm. a) a e) nebo odstavce 4 písm. l), m), s), aa) a bb),
+4 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. j), odstavce 2 písm. w), odstavce 3 písm. c), odstavce 4 písm. a) nebo odstavce 5 písm. c), d) a f),
+5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), f), i), k) a q) až v), odstavce 2 písm. a) až o), q) až s), u), v) a y) až bb), odstavce 3 písm. b), d) a f) až k), odstavce 4 písm. b) až k), n) až r) a t) až z) nebo odstavce 6, nebo
+50 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b) až d) a m) až p), odstavce 2 písm. t) a x) nebo odstavce 5 písm. a), b) a e).
+Bylo-li povolení pro novou výsadbu révy využito v průběhu jeho platnosti z méně než 90 % povolené rozlohy, uloží Ústav pěstiteli zaplatit za podmínek stanovených v předpisu Evropské unie pokutu ve výši
+do 10 000 Kč za každý započatý hektar vinice nevysázené podle povolení v případě, že v daném kalendářním roce, ve kterém bylo povolení uděleno, bylo postupováno podle § 8 odst. 2, nebo
+do 100 000 Kč za každý započatý hektar vinice nevysázené podle povolení v případě, že v daném kalendářním roce, ve kterém bylo povolení uděleno, byla překročena celková rozloha deklarované plochy v žádostech na novou výsadbu révy a bylo postupováno podle § 8 odst. 3.
+Bylo-li povolení pro opětovnou výsadbu révy využito v průběhu jeho platnosti z méně než 90 % povolené rozlohy, uloží Ústav pěstiteli zaplatit za podmínek stanovených v předpisu Evropské unie pokutu ve výši 10 000 Kč za každý započatý hektar vinice nevysázené podle povolení.
+Bylo-li povolení pro novou nebo opětovnou výsadbu révy využito na nejméně 90 % povolené plochy, uloží Ústav pěstiteli zaplatit pokutu ve výši 1 000 Kč za každý započatý hektar vinice nevysázené podle povolení.
+Jestliže pěstitel nevyklučí na vlastní náklady vinici osázenou v rozporu s předpisy Evropské unie nebo v rozporu s § 8 nebo § 9, uloží mu Ústav zaplatit za podmínek stanovených v předpisu Evropské unie pokutu v minimální výši stanovené v čl. 5 písm. a) až c) nařízení Komise v přenesené pravomoci (EU) č. 560/2015 ze dne 15. prosince 2014, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 1308/2013, pokud jde o systém povolení pro výsadbu révy.
+Společná ustanovení
+V případě, kdy došlo k nápravě protiprávního stavu v souladu s uloženým opatřením nebo bezprostředně poté, kdy bylo zjištěno porušení povinnosti a nejednalo se o produkt jiný než zdravotně nezávadný nebo o klamání spotřebitele spočívající v porušování některých práv duševního vlastnictví, může se od uložení pokuty upustit.
+Přestupky podle § 39 odst. 1 až 6 a § 39a projednává Ústav nebo Inspekce v rozsahu své působnosti podle tohoto zákona a zvláštního právního předpisu,. O odvolání proti rozhodnutí Ústavu rozhoduje ministerstvo a o odvolání proti rozhodnutí Inspekce rozhoduje ústřední inspektorát Inspekce.
+Pokuty vybírá orgán, který je uložil.
+Tabulka přepočtu stupňů normalizovaného moštoměru na přirozený obsah alkoholu (v % objemových)

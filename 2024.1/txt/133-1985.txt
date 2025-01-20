@@ -1,0 +1,604 @@
+Úvodní ustanovení
+Účelem zákona je vytvořit podmínky pro účinnou ochranu života a zdraví občanů a majetku před požáry a pro poskytování pomoci při živelních pohromách a jiných mimořádných událostech stanovením povinností ministerstev a jiných správních úřadů, právnických a fyzických osob, postavení a působnosti orgánů státní správy a samosprávy na úseku požární ochrany, jakož i postavení a povinností jednotek požární ochrany.
+Každý je povinen počínat si tak, aby nezavdal příčinu ke vzniku požáru, neohrozil život a zdraví osob, zvířata a majetek; při zdolávání požárů, živelních pohrom a jiných mimořádných událostí je povinen poskytovat přiměřenou osobní pomoc, nevystaví-li tím vážnému nebezpečí nebo ohrožení sebe nebo osoby blízké anebo nebrání-li mu v tom důležitá okolnost, a potřebnou věcnou pomoc. Ustanovení § 20 tím není dotčeno.
+POVINNOSTI MINISTERSTEV A JINÝCH STÁTNÍCH ORGÁNŮ, PRÁVNICKÝCH A FYZICKÝCH OSOB NA ÚSEKU POŽÁRNÍ OCHRANY
+Povinnosti ministerstev a jiných státních orgánů, právnických osob a fyzických osob vykonávajících podnikatelskou činnost podle zvláštních předpisů a fyzických osob
+Obecná ustanovení
+Ministerstva a jiné státní orgány a právnické osoby, jakož i fyzické osoby vykonávající podnikatelskou činnost podle zvláštních předpisů (dále jen „podnikající fyzické osoby“) zabezpečují plnění povinností vyplývajících pro ně z tohoto zákona, předpisů vydaných na jeho základě nebo z jiných předpisů upravujících povinnosti na úseku požární ochrany (dále jen „předpisy o požární ochraně“) jako nedílnou součást své řídící, hospodářské nebo jiné základní činnosti a neodkladně odstraňují zjištěné nedostatky.
+Právnické osoby a podnikající fyzické osoby plní povinnosti na úseku požární ochrany ve všech prostorách, které užívají k provozování činnosti. Za plnění povinností na úseku požární ochrany u právnických osob odpovídá statutární orgán a u podnikajících fyzických osob tyto osoby nebo jejich odpovědný zástupce. Provozuje-li činnost v prostorách více právnických osob nebo podnikajících fyzických osob, plní povinnosti na úseku požární ochrany na místech, která užívají společně, vlastník těchto prostor, není-li smlouvou mezi nimi sjednáno jinak. Součástí smlouvy musí být i určení osoby odpovědné za plnění povinností na úseku požární ochrany.
+Povinnosti ministerstev a jiných státních orgánů
+Ministerstva a jiné státní orgány v rozsahu své působnosti spolupracují s Ministerstvem vnitra (dále jen „ministerstvo“) při zpracovávání koncepce rozvoje požární ochrany a ve vztahu k právnickým osobám, které řídí, plní další úkoly na úseku požární ochrany stanovené na základě tohoto zákona.
+Ministerstva a jiné státní orgány plní obdobně povinnosti uložené jinak tímto zákonem právnickým osobám a podnikajícím fyzickým osobám.
+Členění provozovaných činností podle požárního nebezpečí
+Podle míry požárního nebezpečí se provozované činnosti člení do kategorií
+bez zvýšeného požárního nebezpečí,
+se zvýšeným požárním nebezpečím,
+s vysokým požárním nebezpečím.
+Za provozované činnosti se zvýšeným požárním nebezpečím se považují činnosti
+při nichž se vyskytují v jednom prostoru nebo požárním úseku látky a směsi klasifikované podle zvláštního právního předpisu upravujícího oblast chemických látek jako oxidující, extrémně hořlavé, vysoce hořlavé a hořlavé, nebo látky a směsi, které splňují kritéria tříd a kategorií nebezpečnosti 2.3; 2.6 a 2.7; 2.8 typy A až F; 2.9 až 2.14 a 2.15 typy A až F stanovených v přímo použitelném předpisu Evropské unie, pokud celkové množství těchto látek a směsí přesahuje 1 000 kg v pevném stavu nebo 250 litrů v kapalném stavu,
+při nichž se vyskytují hořlavé nebo hoření podporující plyny v zásobnících, případně v nádobách (sudech, lahvích nebo kartuších), se součtem vnitřních objemů těchto nádob převyšujícím 100 litrů umístěných v jednom prostoru nebo požárním úseku, a v případě nádob na zkapalněné uhlovodíkové plyny, s celkovým množstvím možných náplní převyšujícím 60 kg umístěných v jednom prostoru nebo požárním úseku,
+u kterých se při výrobě nebo manipulaci vyskytuje hořlavý prach nebo páry hořlavých kapalin v ovzduší nebo v zařízení v takové míře, že nelze vyloučit vznik výbušné koncentrace nebo se hořlavý prach usazuje v souvislé vrstvě nejméně 1 mm,
+ve výrobních provozech, ve kterých se na pracovištích s nejméně třemi zaměstnanci vyskytuje nahodilé požární zatížení 15 kg/m2 a vyšší,
+v prostorách, ve kterých se vyskytuje nahodilé požární zatížení 120 kg/m2 a vyšší,
+při nichž se používá otevřený oheň nebo jiné zdroje zapálení v bezprostřední přítomnosti hořlavých látek v pevném, kapalném nebo plynném stavu, kromě lokálních spotřebičů a zdrojů tepla určených k vytápění, vaření a ohřevu vody,
+v budovách o sedmi a více nadzemních podlažích nebo o výšce větší než 22,5 m, kromě bytových domů,
+ve stavbách pro shromažďování většího počtu osob, ve stavbách pro obchod, ve stavbách ubytovacích zařízení a ve stavbách, které jsou na základě kolaudačního rozhodnutí určeny pro osoby se sníženou schopností pohybu a orientace,
+v podzemních prostorách určených pro poskytování služeb nebo obchod s nahodilým požárním zatížením 15 kg/m2 a vyšším, ve kterých se může současně vyskytovat sedm a více osob,
+u kterých nejsou běžné podmínky pro zásah.
+Za provozované činnosti s vysokým požárním nebezpečím se považují činnosti
+při nichž se vyskytují látky a směsi klasifikované podle zvláštního právního předpisu upravujícího oblast chemických látek jako oxidující, extrémně hořlavé, vysoce hořlavé a hořlavé, nebo látky a směsi, které splňují kritéria tříd a kategorií nebezpečnosti 2.3; 2.6 a 2.7; 2.8 typy A až F; 2.9 až 2.14 a 2.15 typy A až F stanovených v přímo použitelném předpisu Evropské unie, pokud celkové množství těchto látek a směsí přesahuje 5 000 tun,
+při nichž se vyrábějí nebo plní do zásobníků, cisteren nebo nádob hořlavé kapaliny nebo hořlavé plyny anebo hoření podporující plyny s roční produkcí 5 000 tun a vyšší,
+v provozech, ve kterých se přečerpáváním a zvyšováním tlaku v potrubí o vnitřním průměru 0,8 m a větším zabezpečuje přeprava kapalných nebo plynných látek a směsí klasifikovaných podle zvláštního právního předpisu upravujícího oblast chemických látek jako extrémně hořlavé, vysoce hořlavé a hořlavé, anebo kapalných nebo plynných látek a směsí, které splňují kritéria tříd a kategorií nebezpečnosti 2.2 až 2.4; 2.6; 2.8 typu A až F; 2.9; 2.11 až 2.13 a 2.15 typu A až F stanovených v přímo použitelném předpisu Evropské unie,
+v budovách o 15 a více nadzemních podlažích nebo o výšce větší než 45 m,
+v podzemních prostorách s nahodilým požárním zatížením 15 kg/m2 a vyšším, ve kterých se může současně vyskytovat více než 200 osob.
+Za provozované činnosti bez zvýšeného požárního nebezpečí se považují činnosti, které nejsou uvedené v odstavcích 2 a 3.
+Vyjde-li najevo, že právnická osoba nebo podnikající fyzická osoba se nesprávně začlenila do kategorie podle odstavce 1, rozhodne o jejím správném začlenění příslušný orgán státního požárního dozoru.
+Povinnosti právnických osob a podnikajících fyzických osob
+Právnické osoby a podnikající fyzické osoby jsou povinny
+obstarávat a zabezpečovat v potřebném množství a druzích požární techniku, věcné prostředky požární ochrany a požárně bezpečnostní zařízení se zřetelem na požární nebezpečí provozované činnosti a udržovat je v provozuschopném stavu. U vyhrazené požární techniky, věcných prostředků požární ochrany a požárně bezpečnostních zařízení, kromě výrobků stanovených podle zvláštních právních předpisů, lze instalovat a používat pouze schválené druhy,
+vytvářet podmínky pro hašení požárů a pro záchranné práce, zejména udržovat volné příjezdové komunikace a nástupní plochy pro požární techniku, únikové cesty a volný přístup k nouzovým východům, k rozvodným zařízením elektrické energie, k uzávěrům vody, plynu, topení a produktovodům, k věcným prostředkům požární ochrany a k ručnímu ovládání požárně bezpečnostních zařízení,
+dodržovat technické podmínky a návody vztahující se k požární bezpečnosti výrobků nebo činností,
+označovat pracoviště a ostatní místa příslušnými bezpečnostními značkami, příkazy, zákazy a pokyny ve vztahu k požární ochraně, a to včetně míst, na kterých se nachází věcné prostředky požární ochrany a požárně bezpečnostní zařízení,
+pravidelně kontrolovat prostřednictvím odborně způsobilé osoby (§ 11 odst. 1), technika požární ochrany (§ 11 odst. 2) nebo preventisty požární ochrany (§ 11 odst. 6) dodržování předpisů o požární ochraně a neprodleně odstraňovat zjištěné závady,
+umožnit orgánu státního požárního dozoru provedení kontroly plnění povinností na úseku požární ochrany, poskytovat mu požadované doklady, dokumentaci a informace vztahující se k zabezpečování požární ochrany v souladu s tímto zákonem a ve stanovených lhůtách splnit jím uložená opatření,
+poskytovat bezúplatně orgánu státního požárního dozoru výrobky nebo vzorky nezbytné k provedení požárně technické expertizy ke zjištění příčiny vzniku požáru,
+bezodkladně oznamovat územně příslušnému operačnímu středisku hasičského záchranného sboru kraje každý požár vzniklý při činnostech, které provozují, nebo v prostorách, které vlastní nebo užívají.
+Právnické osoby a podnikající fyzické osoby nesmí vypalovat porosty. Při spalování hořlavých látek na volném prostranství jsou povinny, se zřetelem na rozsah této činnosti, stanovit opatření proti vzniku a šíření požáru. Spalování hořlavých látek na volném prostranství včetně navrhovaných opatření jsou povinny předem oznámit územně příslušnému hasičskému záchrannému sboru kraje, který může stanovit další podmínky pro tuto činnost, popřípadě může takovou činnost zakázat. Ustanovení zvláštních právních předpisů nejsou tímto dotčena.
+Povinnosti právnických osob a podnikajících fyzických osob
+Právnické osoby a podnikající fyzické osoby provozující činnosti se zvýšeným požárním nebezpečím a s vysokým požárním nebezpečím jsou dále povinny
+stanovit organizaci zabezpečení požární ochrany s ohledem na požární nebezpečí provozované činnosti,
+prokazatelným způsobem stanovit a dodržovat podmínky požární bezpečnosti provozovaných činností, případně technologických postupů a zařízení, nejsou-li podmínky provozování činností a zabezpečování údržby a oprav zařízení stanoveny zvláštním právním předpisem,
+zajišťovat údržbu, kontroly a opravy technických a technologických zařízení způsobem a ve lhůtách stanovených podmínkami požární bezpečnosti nebo výrobcem zařízení,
+stanovit z hlediska požární bezpečnosti požadavky na odbornou kvalifikaci osob pověřených obsluhou, kontrolou, údržbou a opravami technických a technologických zařízení, pokud to není stanoveno zvláštními právními předpisy, a zabezpečit provádění prací, které by mohly vést ke vzniku požáru, pouze osobami s příslušnou kvalifikací,
+mít k dispozici požárně technické charakteristiky vyráběných, používaných, zpracovávaných nebo skladovaných látek a materiálů potřebné ke stanovení preventivních opatření k ochraně života a zdraví osob a majetku.
+Podmínky požární bezpečnosti provozovaných činností podle odstavce 1 písm. b) musí odpovídat stavu vědeckých a technických poznatků známých v době jejich stanovení.
+Posouzení požárního nebezpečí
+Právnické osoby a podnikající fyzické osoby mohou provozovat činnost s vysokým požárním nebezpečím za podmínky, že orgán státního požárního dozoru schválí posouzení požárního nebezpečí.
+Posouzení požárního nebezpečí obsahuje
+popis a posouzení rizik z hlediska možnosti vzniku a šíření požáru a ohrožení osob, zvířat a majetku,
+zhodnocení možnosti provedení záchranných prací a účinné likvidace požáru, včetně popisu jeho možných následků,
+systém řízení požární ochrany a
+návrhy na opatření ke snížení rizika možnosti vzniku a šíření požáru a ohrožení osob, zvířat a majetku, návrhy na provedení záchranných prací a návrhy opatření k účinné likvidaci požáru, včetně stanovení lhůt k jejich plnění.
+Právnická osoba a podnikající fyzická osoba předloží posouzení požárního nebezpečí zpracované osobou uvedenou v § 11 odst. 1 ve 2 vyhotoveních ke schválení orgánu státního požárního dozoru.
+Neshledá-li orgán státního požárního dozoru v posouzení požárního nebezpečí nedostatky, posouzení požárního nebezpečí schválí.
+Zjistí-li orgán státního požárního dozoru, že předložené posouzení požárního nebezpečí vykazuje obsahové nedostatky, pro které je nelze schválit, vrátí je zpět předkladateli s uvedením zjištěných nedostatků a současně stanoví přiměřenou lhůtu pro opětovné předložení vráceného posouzení po odstranění zjištěných nedostatků. Řízení lze přerušit na dobu stanovenou pro odstranění nedostatků a opětovné předložení.
+Neodstraní-li předkladatel nedostatky ve lhůtě stanovené podle odstavce 5, orgán státního požárního dozoru vydá rozhodnutí o neschválení posouzení požárního nebezpečí.
+Před změnou v provozované činnosti, která má vliv na obsah schváleného posouzení požárního nebezpečí, právnická osoba nebo podnikající fyzická osoba předloží orgánu státního požárního dozoru ke schválení doplněné nebo je-li to vzhledem k rozsahu změny potřebné nové posouzení požárního nebezpečí. Do doby schválení předloženého materiálu nelze změny v provozované činnosti provést.
+Změny v objemu roční produkce nejsou důvodem pro předložení nového posouzení požárního nebezpečí, je-li toto schváleno výhradně pro činnost uvedenou v § 4 odst. 3 písm. b).
+Dokumentace zdolávání požárů
+Právnické osoby a podnikající fyzické osoby mohou provozovat činnost s vysokým požárním nebezpečím nebo činnost se zvýšeným požárním nebezpečím, u které nejsou běžné podmínky pro zásah, za podmínky, že orgán státního požárního dozoru schválí dokumentaci zdolávání požárů.
+Dokumentace zdolávání požárů obsahuje operativní plán zdolávání požárů a operativní kartu zdolávání požárů upravující zásady rychlého a účinného zdolávání požáru a záchrany osob, zvířat a majetku.
+Právnická osoba a podnikající fyzická osoba předloží dokumentaci zdolávání požárů zpracovanou osobou uvedenou v § 11 odst. 1 nebo 2 ve 2 vyhotoveních ke schválení orgánu státního požárního dozoru.
+Neshledá-li orgán státního požárního dozoru v dokumentaci zdolávání požárů nedostatky, dokumentaci zdolávání požárů schválí.
+Zjistí-li orgán státního požárního dozoru, že předložená dokumentace zdolávání požárů vykazuje obsahové nedostatky, pro které ji nelze schválit, vrátí ji zpět předkladateli s uvedením zjištěných nedostatků a současně stanoví přiměřenou lhůtu pro opětovné předložení po odstranění zjištěných nedostatků. Řízení lze přerušit na dobu stanovenou pro odstranění nedostatků a opětovné předložení.
+Neodstraní-li předkladatel nedostatky ve lhůtě stanovené podle odstavce 5, orgán státního požárního dozoru vydá rozhodnutí o neschválení dokumentace zdolávání požárů.
+Před změnou v provozované činnosti, která má vliv na obsah schválené dokumentace zdolávání požárů, právnická osoba nebo podnikající fyzická osoba předloží orgánu státního požárního dozoru ke schválení novou dokumentaci zdolávání požárů. Do doby schválení předložené dokumentace nelze změny v provozované činnosti provést.
+Podle odstavců 1 až 7 se postupuje i v případě, kdy zpracování dokumentace zdolávání požárů stanoví dokumentace požární ochrany.
+Prováděcí právní předpis stanoví
+hodnoty nahodilého požárního zatížení pro účely členění činností podle požárního nebezpečí,
+vymezení složitých podmínek pro zásah,
+množství, druhy a způsob vybavení prostor právnických osob a podnikajících fyzických osob věcnými prostředky požární ochrany a požárně bezpečnostními zařízeními, jakož i požadavky na jejich projektování, montáž, provoz, kontrolu, údržbu a opravy,
+druhy vyhrazené požární techniky, věcných prostředků požární ochrany a požárně bezpečnostních zařízení,
+způsob vytváření podmínek pro hašení požáru a pro záchranné práce,
+lhůty a způsob provádění kontrol dodržování předpisů o požární ochraně,
+postup při poskytování výrobků a vzorků orgánu státního požárního dozoru k provedení požárně technické expertizy za účelem zjišťování příčin vzniku požáru,
+způsob určení podmínek požární bezpečnosti při činnostech se zvýšeným požárním nebezpečím a vysokým požárním nebezpečím a
+způsob posuzování požárního nebezpečí.
+Vlastník nebo uživatel zdrojů vody pro hašení požárů je povinen tyto udržovat v takovém stavu, aby bylo umožněno použití požární techniky a čerpání vody pro hašení požárů.
+Vlastník nebo uživatel lesů v souvislých lesních porostech o celkové výměře vyšší než 50 hektarů je povinen zabezpečit v době zvýšeného nebezpečí vzniku požáru, nad rámec povinností stanovených v § 5, opatření pro včasné zjištění požáru v lesích a proti jeho rozšíření pomocí hlídkové činnosti s potřebným množstvím sil a prostředků požární ochrany, pokud tak neučiní Ministerstvo zemědělství podle zvláštního zákona.
+Vlastník nebo uživatel nástupní plochy pro požární techniku je povinen ji označovat a udržovat v takovém stavu, aby bylo umožněno použití požární techniky.
+Zařízení sociálních služeb, které poskytuje služby sociální péče formou pobytových služeb podle zákona o sociálních službách, musí být v části stavby, v níž je služba poskytována, vybaveno
+elektrickou požární signalizací, je-li ubytovací kapacita tohoto zařízení nad 50 osob,
+zařízením autonomní detekce a signalizace, je-li ubytovací kapacita tohoto zařízení 50 osob nebo nižší, pokud není vybaveno podle písmene a).
+Pokud je ve stavbě provozováno více zařízení sociálních služeb, která poskytují služby sociální péče formou pobytových služeb podle zákona o sociálních službách, a součet ubytovací kapacity těchto zařízení je nad 50 osob, postupuje se podle odstavce 1 písm. a).
+Na žádost provozovatele elektrické požární signalizace v části stavby, kde je poskytována sociální služba podle odstavce 1, hasičský záchranný sbor kraje připojí elektrickou požární signalizaci podle odstavce 1 písm. a) prostřednictvím zařízení dálkového přenosu na pult centralizované ochrany umístěný na krajském operačním a informačním středisku hasičského záchranného sboru kraje, po splnění podmínek pro toto připojení.
+Hasičský záchranný sbor kraje žádost podle odstavce 3 posoudí a písemně žadateli sdělí, za jakých podmínek lze připojení realizovat. Smlouva o připojení elektrické požární signalizace na pult centralizované ochrany obsahuje zejména označení smluvních stran a podmínky připojení elektrické požární signalizace na pult centralizované ochrany. Jednorázová úhrada za připojení a měsíční cena za připojení elektrické požární signalizace na pult centralizované ochrany se nevyžaduje.
+Nemovitou národní kulturní památku, která je vybavena elektrickou požární signalizací, lze na žádost provozovatele elektrické požární signalizace připojit prostřednictvím zařízení dálkového přenosu na pult centralizované ochrany umístěný na krajském operačním a informačním středisku hasičského záchranného sboru kraje.
+Hasičský záchranný sbor kraje žádost posoudí a písemně žadateli sdělí, za jakých podmínek lze připojení realizovat. Smlouva o připojení elektrické požární signalizace na pult centralizované ochrany obsahuje zejména označení smluvních stran a podmínky připojení elektrické požární signalizace na pult centralizované ochrany. Jednorázová úhrada za připojení a měsíční cena za připojení elektrické požární signalizace na pult centralizované ochrany se nevyžaduje.
+Nemovitou kulturní památku uvedenou v dohodě uzavřené mezi Generálním ředitelstvím Hasičského záchranného sboru České republiky (dále jen „generální ředitelství“) a Ministerstvem kultury lze připojit na pult centralizované ochrany umístěný na krajském operačním a informačním středisku hasičského záchranného sboru kraje za obdobných podmínek jako nemovitou národní kulturní památku.
+Zařízení sociálních služeb, které poskytuje služby sociální péče formou pobytových služeb podle zákona o sociálních službách, musí být v části stavby, v níž je služba poskytována, vybaveno
+elektrickou požární signalizací, je-li ubytovací kapacita tohoto zařízení nad 50 osob,
+zařízením autonomní detekce a signalizace, je-li ubytovací kapacita tohoto zařízení 50 osob nebo nižší, pokud není vybaveno podle písmene a).
+Pokud je ve stavbě provozováno více zařízení sociálních služeb, které poskytují služby sociální péče formou pobytových služeb podle zákona o sociálních službách, a součet ubytovací kapacity těchto zařízení je nad 50 osob, postupuje se podle odstavce 1 písm. a).
+Na žádost provozovatele elektrické požární signalizace v části stavby, kde je poskytována sociální služba podle odstavce 1, hasičský záchranný sbor kraje připojí elektrickou požární signalizaci prostřednictvím zařízení dálkového přenosu na pult centralizované ochrany umístěný na krajském operačním a informačním středisku hasičského záchranného sboru kraje, po splnění podmínek pro toto připojení.
+Hasičský záchranný sbor kraje žádost podle odstavce 3 posoudí a písemně žadateli sdělí, za jakých podmínek lze připojení realizovat. Smlouva o připojení elektrické požární signalizace na pult centralizované ochrany obsahuje zejména označení smluvních stran a podmínky připojení elektrické požární signalizace na pult centralizované ochrany. Jednorázová úhrada za připojení a měsíční cena za připojení elektrické požární signalizace na pult centralizované ochrany se nevyžaduje.
+Nemovitou národní kulturní památku, která je vybavená elektrickou požární signalizací, lze na žádost provozovatele elektrické požární signalizace připojit prostřednictvím zařízení dálkového přenosu na pult centralizované ochrany umístěný na krajském operačním a informačním středisku hasičského záchranného sboru kraje.
+Hasičský záchranný sbor kraje žádost posoudí a písemně žadateli sdělí, za jakých podmínek lze připojení realizovat. Smlouva o připojení elektrické požární signalizace na pult centralizované ochrany obsahuje zejména označení smluvních stran a podmínky připojení elektrické požární signalizace na pult centralizované ochrany. Jednorázová úhrada za připojení a měsíční cena za připojení elektrické požární signalizace na pult centralizované ochrany se nevyžaduje.
+Nemovitou kulturní památku uvedenou v dohodě uzavřené mezi Generálním ředitelstvím Hasičského záchranného sboru České republiky (dále jen „generální ředitelství“) a Ministerstvem kultury, lze připojit na pult centralizované ochrany umístěný na krajském operačním a informačním středisku hasičského záchranného sboru kraje za obdobných podmínek, jako nemovitou národní kulturní památku.
+Odborná způsobilost
+Plnění povinností podle § 16 odst. 1 a § 16a mohou zabezpečovat pouze odborně způsobilé osoby, není-li dále stanoveno jinak. Odborně způsobilými osobami se rozumí znalci a znalecké ústavy v základním oboru požární ochrany zapsaní v seznamu znalců a znaleckých ústavů vedených krajskými soudy, fyzické osoby, které jsou absolventy škol požární ochrany nebo absolventy vysokoškolského studia, jehož součástí je ověřovací program pro odbornou způsobilost na úseku požární ochrany schválený ministerstvem, který odpovídá požadavkům uvedeným v odstavci 4, nebo fyzické osoby, které složily zkoušku odborné způsobilosti před komisí ustavenou ministerstvem. Za odborně způsobilé osoby se považují též příslušníci Hasičského záchranného sboru České republiky (dále jen „hasičský záchranný sbor“) vykonávající funkce stanovené prováděcím předpisem k zákonu o hasičském záchranném sboru.
+Plnění povinností vyplývajících z § 5, 6, § 16 odst. 1 a § 16a mohou zabezpečovat technici požární ochrany. Odborná způsobilost k výkonu funkce technika požární ochrany se získává složením zkoušky odborné způsobilosti před komisí ustavenou ministerstvem.
+Fyzickým osobám uvedeným v odstavcích 1 a 2 vydá ministerstvo osvědčení o odborné způsobilosti (dále jen „osvědčení“). Ministerstvo může na návrh orgánu státního požárního dozoru rozhodnout o odejmutí osvědčení tomu, kdo při výkonu činnosti odborně způsobilé osoby nebo technika požární ochrany vykazuje závažné nedostatky.
+Při zkoušce odborné způsobilosti se ověřuje znalost zejména
+právních předpisů a technických předpisů na úseku požární ochrany,
+požární bezpečnosti staveb a technologií,
+posuzování činností s vysokým požárním nebezpečím,
+funkcí a technických vlastností požární techniky, věcných prostředků požární ochrany a požárně bezpečnostních zařízení,
+fyzikálních a chemických procesů hoření, výbuchů, hašení a toxických účinků zplodin hoření.
+Činnost odborně způsobilé osoby a technika požární ochrany může být vykonávána v pracovněprávním vztahu anebo na základě zvláštního zákona.
+Plnění úkolů podle § 5 odst. 1 písm. d) a e) a § 16a odst. 1 písm. c) může vykonávat preventista požární ochrany. Preventista požární ochrany vykonává činnost na základě absolvování odborné přípravy (§ 16 odst. 1).
+Osoba odborně způsobilá podle odstavce 1 má odbornou způsobilost i k výkonu činnosti technika požární ochrany. Osoba odborně způsobilá podle odstavce 2 má odbornou způsobilost i k plnění úkolů podle odstavce 6.
+Prováděcí právní předpis stanoví způsob ověřování odborné způsobilosti, vydávání a odnímání osvědčení, obsah a rozsah odborné přípravy.
+Preventivní požární hlídka
+Právnické osoby a podnikající fyzické osoby zřizují preventivní požární hlídky
+v prostorách s nejméně třemi zaměstnanci, ve kterých provozují činnosti se zvýšeným požárním nebezpečím nebo s vysokým požárním nebezpečím,
+v případech, kdy tak stanoví nařízení kraje [§ 27 odst. 1 písm. f)] nebo obecně závazná vyhláška obce [§ 29 odst. 1 písm. o)].
+Úkolem preventivní požární hlídky je dohlížet na dodržování předpisů o požární ochraně a v případě vzniku požáru provést nutná opatření k záchraně ohrožených osob, přivolat jednotku požární ochrany a zúčastnit se likvidace požáru.
+Dokumentace požární ochrany
+Právnické osoby a podnikající fyzické osoby provozující činnosti uvedené v § 4 odst. 2 a 3 jsou povinny zpracovávat předepsanou dokumentaci požární ochrany, plnit podmínky požární bezpečnosti v ní stanovené a udržovat ji v souladu se skutečným stavem.
+Prováděcí právní předpis stanoví druhy, obsah a vedení dokumentace požární ochrany.
+Školení a odborná příprava zaměstnanců o požární ochraně
+Právnické osoby a podnikající fyzické osoby provozující činnosti uvedené v § 4 odst. 2 nebo 3 jsou povinny zabezpečit pravidelné školení zaměstnanců o požární ochraně a odbornou přípravu zaměstnanců zařazených do preventivních požárních hlídek, jakož i preventistů požární ochrany.
+Povinnost školení zaměstnanců o požární ochraně se vztahuje na všechny fyzické osoby, které jsou v pracovním nebo jiném obdobném poměru k právnické osobě nebo podnikající fyzické osobě. Školení se provádí zvlášť pro vedoucí zaměstnance a zvlášť pro ostatní zaměstnance.
+Pro fyzické osoby, které se příležitostně zdržují na pracovištích právnických osob nebo podnikajících fyzických osob, se školení o požární ochraně zabezpečuje, jestliže tyto osoby vykonávají činnosti uvedené v § 4 odst. 2 a 3 nebo přicházejí do styku s těmito činnostmi.
+Prováděcí právní předpis stanoví druhy, obsah, rozsah a lhůty školení zaměstnanců o požární ochraně, jakož i odborné přípravy preventistů požární ochrany a zaměstnanců zařazených do preventivních požárních hlídek.
+U právnických osob a podnikajících fyzických osob provozujících činnosti uvedené v § 4 odst. 2 provádí
+odborně způsobilá osoba nebo technik požární ochrany školení vedoucích zaměstnanců o požární ochraně,
+odborně způsobilá osoba nebo technik požární ochrany odbornou přípravu preventistů požární ochrany a zaměstnanců zařazených do preventivních požárních hlídek,
+proškolený vedoucí zaměstnanec nebo preventista požární ochrany školení ostatních zaměstnanců o požární ochraně.
+U právnických osob a podnikajících fyzických osob provozujících činnosti uvedené v § 4 odst. 3 provádí
+odborně způsobilá osoba nebo technik požární ochrany školení vedoucích zaměstnanců o požární ochraně,
+odborně způsobilá osoba odbornou přípravu preventistů požární ochrany a zaměstnanců zařazených do preventivních požárních hlídek,
+technik požární ochrany nebo proškolený vedoucí zaměstnanec školení ostatních zaměstnanců o požární ochraně.
+Základní povinnosti fyzických osob
+Fyzická osoba je povinna
+počínat si tak, aby nedocházelo ke vzniku požáru, zejména při používání tepelných, elektrických, plynových a jiných spotřebičů a komínů, při skladování a používání hořlavých nebo požárně nebezpečných látek, manipulaci s nimi nebo s otevřeným ohněm či jiným zdrojem zapálení,
+zajistit přístup k rozvodným zařízením elektrické energie a k uzávěrům plynu, vody a topení,
+plnit příkazy a dodržovat zákazy týkající se požární ochrany na označených místech,
+obstarat požárně bezpečnostní zařízení a věcné prostředky požární ochrany v rozsahu stanoveném zákonem,
+zajistit přístup k požárně bezpečnostním zařízením a věcným prostředkům požární ochrany za účelem jejich včasného použití a dále udržovat tato zařízení a věcné prostředky v provozuschopném stavu; uvedené povinnosti se vztahují na osoby, které mají uvedená zařízení a věcné prostředky ve vlastnictví či užívání,
+vytvářet v prostorách ve svém vlastnictví nebo užívání podmínky pro rychlé zdolání požáru a pro záchranné práce,
+umožnit orgánu státního požárního dozoru provedení potřebných úkonů při zjišťování příčiny vzniku požáru a v odůvodněných případech mu bezúplatně poskytnout výrobky nebo vzorky k provedení požárně technické expertizy ke zjištění příčiny vzniku požáru,
+oznamovat bez odkladu územně příslušnému hasičskému záchrannému sboru každý požár vzniklý při činnostech, které vykonává, nebo v prostorách, které vlastní nebo užívá,
+dodržovat podmínky nebo návody vztahující se k požární bezpečnosti výrobků nebo činností.
+Ten, kdo je povinen vykonávat dohled nad osobami, které nemohou posoudit následky svého jednání, je povinen podle zvláštních zákonů dbát, aby tyto osoby svým jednáním nezpůsobily požár.
+Fyzická osoba nesmí
+vědomě bezdůvodně přivolat jednotku požární ochrany nebo zneužít tísňovou komunikaci,
+provádět práce, které mohou vést ke vzniku požáru, pokud nemá odbornou způsobilost požadovanou pro výkon takových prací zvláštními právními předpisy,
+poškozovat, zneužívat nebo jiným způsobem znemožňovat použití hasicích přístrojů nebo jiných věcných prostředků požární ochrany a požárně bezpečnostních zařízení,
+omezit nebo znemožnit použití označených nástupních ploch pro požární techniku,
+používat barevné označení vozidel, lodí a letadel jednotek požární ochrany,
+provádět vypalování porostů.
+Fyzická osoba je povinna umožnit výkon státního požárního dozoru a ve stanovené lhůtě splnit opatření uložená orgánem státního požárního dozoru.
+Prováděcí právní předpis stanoví některé podmínky požární bezpečnosti podle odstavce 1 písm. a).
+Pomoc při zdolávání požárů
+Osobní pomoc
+Každý je povinen v souvislosti se zdoláváním požáru
+provést nutná opatření pro záchranu ohrožených osob,
+uhasit požár, jestliže je to možné, nebo provést nutná opatření k zamezení jeho šíření,
+ohlásit neodkladně na určeném místě zjištěný požár nebo zabezpečit jeho ohlášení,
+poskytnout osobní pomoc jednotce požární ochrany na výzvu velitele zásahu, velitele jednotky požární ochrany nebo obce.
+Věcná pomoc
+Každý je povinen na výzvu velitele zásahu, velitele jednotky požární ochrany nebo obce poskytnout dopravní prostředky, zdroje vody, spojová zařízení a jiné věci potřebné ke zdolání požáru.
+Vynětí z povinnosti poskytnout osobní a věcnou pomoc
+Povinnost poskytovat pomoc uvedenou v § 18 a 19 se nevztahuje na
+útvary a vojáky ozbrojených sil České republiky, útvary a příslušníky Policie České republiky, Generální inspekce bezpečnostních sborů, Bezpečnostní informační služby a Vězeňské služby, jestliže by poskytnutím pomoci byl vážně ohrožen důležitý zájem služby,
+právnické osoby a podnikající fyzické osoby v oblasti veřejné hromadné dopravy, energetiky a spojů a jejich zaměstnance, jestliže by poskytnutí pomoci mohlo mít za následek závažnou poruchu provozu u těchto právnických osob a podnikajících fyzických osob, nebo jiný závažný následek,
+právnické osoby a podnikající fyzické osoby v oblasti zdravotnictví a jejich zaměstnance, jestliže by poskytnutím pomoci bylo vážně ohroženo plnění úkolů podle zvláštních předpisů.
+Fyzická osoba není povinna poskytnout pomoc uvedenou v § 18 a 19, jestliže jí v tom brání důležitá okolnost nebo jestliže by tím vystavila vážnému ohrožení sebe nebo osoby blízké.
+Náhrada ušlého výdělku
+Poskytne-li fyzická osoba, která podniká nebo je samostatně výdělečně činná, osobní pomoc jednotce požární ochrany na výzvu velitele zásahu, velitele jednotky požární ochrany nebo obce, náleží jí náhrada ušlého výdělku v prokázané výši.
+O náhradě rozhoduje a tuto poskytuje hasičský záchranný sbor kraje, v jehož územním obvodu požár vznikl. Náhradu je nutno uplatnit do tří měsíců, nejpozději však do dvou let ode dne vzniku nároku, jinak tento nárok zanikne.
+Náhrada výdajů
+Jestliže jsou s poskytnutím věcné pomoci spojeny výdaje, patří tomu, kdo je poskytl, náhrada výdajů. Právo na náhradu výdajů může oprávněný uplatnit do tří měsíců ode dne, kdy je zjistil, nejpozději do dvou let od jejich vzniku; jinak toto právo zanikne. Právo na náhradu výdajů se uplatňuje u hasičského záchranného sboru kraje, v jehož územním obvodu požár vznikl. Hasičský záchranný sbor kraje o náhradě výdajů rozhoduje a tuto náhradu poskytuje.
+Jestliže právnická osoba nebo podnikající fyzická osoba poskytly věcnou pomoc při zdolávání požárů jiné právnické osobě nebo podnikající fyzické osobě, mají právo na náhradu výdajů s touto pomocí spojených. Náhradu výdajů poskytuje ten, komu byla věcná pomoc poskytnuta.
+Ustanoveními odstavců 1 a 2 není dotčeno právo na náhradu škody.
+Vstup na nemovitosti
+Vlastník (správce, uživatel) nemovitosti je povinen umožnit vstup na nemovitost k provedení opatření nutných ke zdolání požáru nebo k zamezení jeho šíření, popřípadě k provedení jiných záchranných prací, zejména vyklidit nebo strpět vyklizení pozemku, odstranit nebo strpět odstranění staveb, jejich částí nebo porostů. O potřebě a rozsahu těchto opatření rozhoduje velitel zásahu.
+Je-li to nezbytně nutné pro účely cvičení jednotky požární ochrany, vlastník (správce, uživatel) nemovitosti je povinen umožnit vstup na nemovitost; o tomto vstupu musí být hasičským záchranným sborem kraje nebo obcí, které cvičení jednotky požární ochrany organizují, předem uvědoměn, a to nejméně 24 hodiny před zahájením cvičení. Přitom se musí dbát, aby cvičením jednotky požární ochrany bylo co nejméně rušeno užívání nemovitosti a aby nevznikly škody, kterým lze zabránit.
+Nesouhlasí-li vlastník (správce, uživatel) nemovitosti se vstupem na nemovitost podle odstavce 2, rozhodne hasičský záchranný sbor kraje nebo obec, které cvičení jednotky požární ochrany organizují, o tom, zda vstup na nemovitost je pro cvičení této jednotky nutný. To neplatí, jde-li o obydlí, kam lze vstupovat jen s předchozím souhlasem vlastníka nebo uživatele.
+STÁTNÍ SPRÁVA A SAMOSPRÁVA NA ÚSEKU POŽÁRNÍ OCHRANY
+Orgány státní správy a samosprávy a jejich působnost
+Správními úřady na úseku požární ochrany jsou ministerstvo a hasičský záchranný sbor kraje. Úkoly státní správy na úseku požární ochrany stanovené na základě tohoto zákona plní v přenesené působnosti také orgány krajů a orgány obcí.
+Ministerstvo
+Ministerstvo na úseku požární ochrany
+schvaluje koncepci organizace a rozvoje požární ochrany,
+zpracovává návrh rozpočtu hasičského záchranného sboru a návrh na poskytnutí dotací občanským sdružením,
+poskytuje účelové dotace pro jednotky sborů dobrovolných hasičů obcí,
+zabezpečuje uvolňování finančních prostředků ze státního rozpočtu na investiční dotace na pořízení a obnovu požární techniky a staveb sloužících pro výkon služby jednotek sborů dobrovolných hasičů obcí pro obce, jejichž jednotky požární ochrany jsou určeny požárním poplachovým plánem kraje k zásahům mimo svůj územní obvod, (dále jen „vybrané obecní úřady“), nebo se podílí na úkolech obce, které plní v přenesené působnosti státní správy podle tohoto zákona nebo zvláštních právních předpisů,
+po projednání s Ministerstvem obrany organizuje požární ochranu pro období stavu ohrožení státu a válečného stavu a zabezpečuje přípravu na činnost v tomto období,
+řídí výkon státní správy,
+vykonává státní požární dozor a je dotčeným orgánem státní správy na úseku požární ochrany,
+kontroluje plnění úkolů, které tento zákon ukládá hasičským záchranným sborům krajů,
+řídí odbornou přípravu a usměrňuje po odborné stránce výkon služby v jednotkách požární ochrany,
+zabezpečuje výzkum a vývoj,
+stanoví postup zjišťování příčin vzniku požárů a v závažných případech se zjišťování těchto příčin zúčastňuje; zpracovává rozbory příčin vzniku požárů,
+stanoví zaměření preventivně výchovné, propagační a ediční činnosti na úseku požární ochrany a podílí se na jejím zabezpečování,
+vytváří a provozuje informační systém požární ochrany,
+na vyžádání hasičského záchranného sboru kraje poskytuje odbornou a metodickou pomoc při posuzování dokumentace staveb a technologií zvláštního významu,
+soustřeďuje a vyhodnocuje informace potřebné pro zásahy jednotek požární ochrany a ústřední řízení záchranných prací,
+zabezpečuje statistické sledování požárů a mimořádných událostí se zásahy jednotek požární ochrany,
+zabezpečuje provádění požárně technických expertíz,
+zajišťuje mezinárodní spolupráci hasičského záchranného sboru,
+je dotčeným orgánem při posuzování zralosti projektů společného zájmu energetické infrastruktury a uplatňuje závazné stanovisko pro stavby projektů společného zájmu energetické infrastruktury z hlediska požární ochrany.
+Ministerstvo je oprávněno stanovit prováděcím právním předpisem technické podmínky požární ochrany technologií, podmínky požární bezpečnosti výrobků a činností, u nichž hrozí nebezpečí vzniku požárů a technické podmínky požární techniky, věcných prostředků požární ochrany a požárně bezpečnostních zařízení.
+Ministerstvo stanoví prováděcím právním předpisem technické podmínky požární ochrany pro navrhování, výstavbu nebo užívání staveb, a to za účelem omezení rozvoje a šíření ohně a kouře ve stavbě, omezení šíření požáru na sousední stavby, evakuace osob a zvířat v případě ohrožení stavby požárem nebo při požáru a umožnění účinného a bezpečného zásahu jednotek požární ochrany. Pro podrobnější vymezení těchto podmínek lze využít hodnot a postupů stanovených českou technickou normou nebo jiným technickým dokumentem upravujícím podmínky požární ochrany staveb.
+Ministerstvo je orgánem státní správy ve věcech škol požární ochrany. V rámci této působnosti zřizuje, zrušuje a řídí střední školy požární ochrany a vyšší odborné školy požární ochrany, provádí v nich inspekci výchovy a vzdělávání a hospodářsky je zabezpečuje.
+Výkon státní správy ve škole požární ochrany provádí ředitel, který
+řídí školu, plní povinnosti vedoucího organizace, jmenuje a odvolává své zástupce, odpovídá za plnění učebních plánů a učebních osnov, za odbornou a pedagogickou úroveň výchovně vzdělávací práce školy, za vytvoření podmínek pro výkon školní inspekce a přijetí následných opatření, kontroluje práci pedagogických pracovníků a ostatních pracovníků a studijní výsledky žáků,
+rozhoduje o přijetí ke studiu, o přerušení studia, o přiznání a odnětí stipendia a hmotného zabezpečení žákům škol, o podmíněném vyloučení ze studia a o vyloučení ze studia, o žádosti žáka ke změně studijního oboru a opakování ročníku,
+zajišťuje, aby zákonní zástupci nezletilého žáka a zletilí žáci byli informováni o průběhu vzdělávání a výchovy žáka.
+Prováděcí právní předpis stanoví finanční a hmotné zabezpečení žáků, organizaci přijímacího řízení, průběh studia a jeho ukončování.
+Hasičský záchranný sbor
+Generální ředitelství plní úkoly ministerstva na úseku požární ochrany uvedené v § 24 odst. 1 a § 25 odst. 1.
+Hasičský záchranný sbor kraje
+zpracovává koncepci požární ochrany kraje,
+vykonává státní požární dozor a je dotčeným orgánem státní správy na úseku požární ochrany,
+kontroluje plnění nařízení orgánů kraje vydaných na úseku požární ochrany,
+odpovídá za připravenost a akceschopnost jednotek hasičského záchranného sboru kraje,
+zabezpečuje výstavbu a údržbu objektů pro potřeby hasičského záchranného sboru,
+řídí po odborné stránce výkon služby v jednotkách požární ochrany,
+koordinuje zabezpečování požární ochrany v kraji s ostatními orgány,
+soustřeďuje podklady pro zabezpečení materiálních a finančních prostředků jednotek sborů dobrovolných hasičů vybraných obcí,
+zpracovává podklady k vydání právních předpisů pro příslušné správní orgány kraje v oblastech, které vymezuje zákon,
+soustřeďuje a vyhodnocuje informace potřebné pro zásahy jednotek požární ochrany a řízení záchranných prací,
+zabezpečuje statistické sledování požárů a mimořádných událostí se zásahy jednotek požární ochrany na území kraje,
+v rozsahu stanoveném ministerstvem řídí a organizuje odbornou přípravu příslušníků, velitelů jednotek hasičských záchranných sborů podniků, velitelů a strojníků jednotek sborů dobrovolných hasičů obcí, velitelů a strojníků jednotek sborů dobrovolných hasičů podniků,
+projednává přestupky a správní delikty na úseku požární ochrany,
+zpracovává jedenkrát ročně zprávu o stavu požární ochrany v kraji a předkládá ji krajskému úřadu,
+zabezpečuje preventivně výchovnou, propagační a ediční činnost na úseku požární ochrany podle zaměření stanoveného ministerstvem.
+Kraj
+Krajské úřady
+projednávají koncepci požární ochrany v kraji,
+vytvářejí podmínky pro dislokaci a vybavení jednotek hasičského záchranného sboru,
+organizují s hasičským záchranným sborem kraje požární ochranu v období stavu ohrožení státu a válečného stavu,
+hradí k zabezpečení plošného pokrytí území kraje jednotkami požární ochrany náklady jednotkám sborů dobrovolných hasičů vybraných obcí spojené se zásahy mimo jejich územní obvod a podílí se na financování jejich akceschopnosti, pořízení a obnově požární techniky.
+Rada kraje
+vydává nařízením kraje požární poplachový plán kraje,
+stanoví nařízením kraje podmínky k zabezpečení
+plošného pokrytí území kraje jednotkami požární ochrany,
+zdrojů vody k hašení požárů a tyto zdroje určí,
+požární ochrany v době zvýšeného nebezpečí vzniku požáru,
+požární ochrany v budovách zvláštního významu,
+požární ochrany při akcích, kterých se zúčastňuje větší počet osob.
+Kraj
+projednává roční zprávu o stavu požární ochrany v kraji,
+k zabezpečení plošného pokrytí území kraje jednotkami požární ochrany přispívá
+hasičskému záchrannému sboru kraje na financování jeho potřeb,
+obcím na financování potřeb jejich jednotek sborů dobrovolných hasičů obcí.
+Obec a obecní úřad
+Obec v samostatné působnosti na úseku požární ochrany
+zřizuje jednotku sboru dobrovolných hasičů obce, která provádí hašení požárů a záchranné práce při živelních pohromách a jiných mimořádných událostech a plní další úkoly podle zvláštního právního předpisu ve svém územním obvodu; členům jednotky sboru dobrovolných hasičů obce za hašení požárů a záchranné práce při živelních pohromách a jiných mimořádných událostech v mimopracovní době poskytuje odměnu,
+udržuje akceschopnost jednotky sboru dobrovolných hasičů obce,
+zabezpečuje odbornou přípravu členů jednotky sboru dobrovolných hasičů obce,
+zabezpečuje materiální a finanční potřeby jednotky sboru dobrovolných hasičů obce a požární ochrany,
+zajišťuje péči o členy jednotky sboru dobrovolných hasičů obce, jakož i péči o zaměstnance zařazené v jednotkách hasičských záchranných sborů podniků, členy jiných jednotek sborů dobrovolných hasičů obce nebo podniků, popřípadě i o osoby vyzvané k poskytnutí osobní pomoci podle § 18, jestliže zasahují za ztížených podmínek nebo u déle trvajícího zásahu na území obce,
+poskytuje náhradu ušlého výdělku členu jednotky sboru dobrovolných hasičů obce, který se ve své pracovní době nebo v době, ze které mu plyne příjem ze samostatné činnosti, zúčastní zásahu při požáru nebo jiných záchranných prací při živelních pohromách nebo jiných mimořádných událostech nebo nařízeného cvičení anebo nařízené odborné přípravy,
+zabezpečuje a hradí pro členy jednotky sboru dobrovolných hasičů obce preventivní zdravotní prohlídky,
+zabezpečuje výstavbu a údržbu objektů požární ochrany a požárně bezpečnostních zařízení, zejména pro potřeby svého územního obvodu,
+zpracovává stanovenou dokumentaci požární ochrany,
+zřizuje ohlašovnu požárů a další místa, odkud lze hlásit požár,
+zabezpečuje zdroje vody pro hašení požárů a jejich trvalou použitelnost a stanoví další zdroje vody pro hašení požárů a podmínky pro zajištění jejich trvalé použitelnosti,
+umožňuje dislokaci jednotek hasičského záchranného sboru v katastrálním území obce podle nařízení kraje a přispívá na provoz a vybavení těchto jednotek,
+spolupracuje se sousedními obcemi při plnění úkolů k zabezpečení požární ochrany; za tím účelem mohou obce soustřeďovat finanční prostředky,
+organizuje preventivně výchovnou činnost,
+obecně závaznou vyhláškou
+vydává požární řád obce,
+stanoví podmínky k zabezpečení požární ochrany při akcích, kterých se zúčastní větší počet osob.
+Obec plní obdobně povinnosti uložené tímto zákonem právnickým osobám a podnikajícím fyzickým osobám.
+Obecní úřad na úseku požární ochrany
+zajišťuje účast velitelů a strojníků jednotky sboru dobrovolných hasičů obce na jejich odborné přípravě,
+zajišťuje úkoly požární ochrany pro období stavu ohrožení státu a válečného stavu.
+Vybrané obecní úřady
+zabezpečují podle požárního poplachového plánu kraje hašení požárů a záchranné práce při živelních pohromách a jiných mimořádných událostech mimo svůj územní obvod,
+zabezpečují akceschopnost jednotky sboru dobrovolných hasičů obce k zásahům mimo svůj územní obvod,
+na základě nařízení kraje, kterým se stanoví podmínky plošného pokrytí území kraje jednotkami požární ochrany, zabezpečují nepřetržitou pracovní pohotovost mimo pracoviště v počtu nejméně jednoho požárního družstva o sníženém početním stavu.
+Vláda stanoví nařízením
+druhy dokumentace požární ochrany krajů a obcí, jejich obsah a vedení,
+minimální podmínky a rozsah poskytování péče zasahujícím příslušníkům jednotky hasičského záchranného sboru, zaměstnancům zařazeným v jednotce hasičského záchranného sboru podniku, členům jednotky sboru dobrovolných hasičů obce, členům jednotky sboru dobrovolných hasičů podniku (§ 65) a příslušníkům vojenské hasičské jednotky (§ 65a), jakož i osobám vyzvaným k poskytnutí osobní pomoci podle § 18,
+systém pracovní pohotovosti mimo pracoviště členů jednotek sboru dobrovolných hasičů vybraných obcí a odměnu za ni,
+způsob poskytování náhrady ušlého výdělku členům jednotek sboru dobrovolných hasičů obce, kteří se zúčastní zásahu, nařízeného cvičení anebo nařízené odborné přípravy v době, ze které jim plynou příjmy ze samostatné činnosti,
+podmínky akceschopnosti jednotek sborů dobrovolných hasičů vybraných obcí.
+Státní požární dozor
+Výkon státního požárního dozoru
+Státní požární dozor se vykonává
+kontrolou dodržování povinností stanovených předpisy o požární ochraně,
+posouzením stavební nebo územně plánovací dokumentace
+regulačního plánu, nahrazuje-li územní rozhodnutí vztahující se k umístění stavby,
+podkladů k územnímu souhlasu nebo dokumentace pro vydání územního rozhodnutí, vztahující se k umístění stavby,
+projektové dokumentace stavby nebo dokumentace pro ohlášení stavby, v těch případech, kdy se podle stavebního zákona nevyžaduje pro ohlášení stavby projektová dokumentace, nebo
+dokumentace nebo jiného podkladu ke změně v účelu užívání stavby,
+dokumentace ke změně dokončené stavby,
+posouzení se provede v rozsahu požárně bezpečnostního řešení podle zvláštního právního předpisu nebo v rozsahu obdobného dokumentu, který je dostatečný pro posouzení požární bezpečnosti stavby, a to pouze u staveb, u kterých je vykonáván státní požární dozor,
+ověřováním, zda byly dodrženy podmínky požární bezpečnosti staveb vyplývající z posouzených podkladů a dokumentace podle písmene b), včetně podmínek vyplývajících z vydaných stanovisek,
+posuzováním a typovým schvalováním zařízení dálkového přenosu určeného pro účely Hasičského záchranného sboru České republiky,
+schvalováním posouzení požárního nebezpečí činností a schválením dokumentace zdolávání požárů,
+zjišťováním příčin vzniku požárů,
+kontrolou připravenosti a akceschopnosti jednotek požární ochrany [§ 65 odst. 1 písm. b) až d)],
+ukládáním opatření k odstranění zjištěných nedostatků a kontrolou plnění těchto opatření.
+V protokolu o kontrole provedené podle odstavce 1 písm. a) nebo g) orgán vykonávající státní požární dozor stanoví kontrolované osobě lhůtu pro podání písemné zprávy o odstranění nedostatků uloženém podle odstavce 1 písm. h) orgánu vykonávajícímu státní požární dozor.
+Výsledkem posuzování podkladů, dokumentace a ověřování splnění stanovených požadavků podle odstavce 1 písm. b) a c) je závazné stanovisko dotčeného orgánu na úseku požární ochrany, které slouží jako podklad pro řízení nebo jiný postup vedený podle stavebního zákona.
+Podklady, dokumentaci a projektovou dokumentaci podle odstavce 1 písm. b) předkládá orgánu vykonávajícímu státní požární dozor stavebník nebo stavební úřad elektronicky.
+Nadřízeným správním orgánem příslušným ke zrušení, potvrzení nebo změně závazného stanoviska vydaného podle odstavce 3 hasičským záchranným sborem kraje je u stavby
+v rozsahu § 39 odst. 1 písm. c) ředitel hasičského záchranného sboru kraje,
+v rozsahu § 39 odst. 1 písm. d) generální ředitelství.
+Posuzování podle odstavce 1 písm. b) se provádí v rozsahu požárně bezpečnostního řešení podle zvláštního právního předpisu, a to pouze u staveb, u kterých je vykonáván státní požární dozor.
+Nadřízeným správním orgánem příslušným ke zrušení, potvrzení nebo změně závazného stanoviska vydaného podle odstavce 3 hasičským záchranným sborem kraje je u stavby
+v rozsahu § 39 odst. 1 písm. c) ředitel hasičského záchranného sboru kraje,
+v rozsahu § 39 odst. 1 písm. d) generální ředitelství.
+Prováděcí právní předpis stanoví
+způsob výkonu státního požárního dozoru,
+obsah a rozsah požárně technických expertiz,
+obsah a rozsah požárně bezpečnostních řešení.
+Orgány vykonávající státní požární dozor
+Ministerstvo vykonává státní požární dozor podle § 31 odst. 1 písm. b) a c)
+u staveb, které se mají uskutečnit na území dvou nebo více krajů,
+u staveb, které si vyhradí,
+u zařízení podle § 31 odst. 1 písm. d).
+Hasičský záchranný sbor kraje vykonává státní požární dozor
+podle § 31 odst. 1 písm. a) u právnických osob, podnikajících fyzických osob a u ministerstev a jiných státních orgánů (§ 3 odst. 2), u obcí (§ 29) a u fyzických osob; u fyzických osob v rozsahu plnění povinností podle § 2 odst. 2 a § 7,
+podle § 31 odst. 1 písm. b) a c) s výjimkou případů, u kterých vykonává státní požární dozor ministerstvo v rozsahu § 32,
+podle § 31 odst. 1 písm. e) až h).
+Vyloučení věci z užívání, zákaz činnosti a zastavení provozu
+Jestliže věc nebo činnost při provozu anebo provoz vyvolávají bezprostřední nebezpečí vzniku požáru a k odstranění tohoto nebezpečí nestačí jiná opatření, orgán vykonávající státní požární dozor rozhodne o
+vyloučení věci z užívání,
+zákazu činnosti,
+zastavení provozu.
+O zastavení provozu lze rozhodnout i tehdy, jestliže by byla znemožněna záchrana osob nebo majetku v případě vzniku požáru.
+Vyžaduje-li to naléhavost situace, lze rozhodnutí uvedené v odstavcích 1 a 2 oznámit ústně a poznamenat je do protokolu o kontrole; písemné vyhotovení tohoto rozhodnutí je nutno doručit neprodleně.
+Proti rozhodnutí o opatřeních uvedených v odstavcích 1 a 2 je možno podat odvolání do tří dnů ode dne doručení písemného vyhotovení tohoto rozhodnutí. Odvolání nemá odkladný účinek. Odvolací orgán o něm rozhodne neodkladně.
+Vydání rozhodnutí o zastavení provozu podle § 36 odst. 1 písm. c) musí být předem projednáno se statutárním orgánem právnické osoby, s podnikající fyzickou osobou anebo jejím odpovědným zástupcem.
+Užívat věc, která byla vyloučena z užívání [§ 36 odst. 1 písm. a)], obnovit zakázanou činnost [§ 36 odst. 1 písm. b)] nebo obnovit zastavený provoz [§ 36 odst. 1 písm. c)] lze až po odstranění nedostatků vyvolávajících bezprostřední nebezpečí vzniku požáru a jen s písemným souhlasem orgánu, který vyloučil věc z užívání nebo rozhodl o zákazu činnosti anebo o zastavení provozu.
+Kategorizace staveb z hlediska požární bezpečnosti
+Z hlediska požární bezpečnosti a ochrany obyvatelstva se stavba člení na
+stavbu kategorie 0, nepředstavující zvláštní nebezpečí,
+stavbu kategorie I, představující mírné nebezpečí,
+stavbu kategorie II, představující vyšší nebezpečí,
+stavbu kategorie III, představující vysoké nebezpečí.
+Prováděcí právní předpis stanoví kritéria a charakteristiku stavby pro její zařazení do kategorie podle odstavce 1. Charakteristikou stavby je stavebně technický parametr stavby a její umístění. Kritériem se rozumí
+požadavek na stavbu z hlediska podmínek evakuace,
+rizikovost stavby, v níž je hořlavá nebo požárně nebezpečná látka nebo jiná obdobně nebezpečná látka vyráběna, zpracovávána, používána, přepravována nebo skladována, a
+ochrana jiného veřejného zájmu významného z hlediska zařazení stavby do příslušné kategorie.
+Státní požární dozor se v rozsahu podle § 31 odst. 1 písm. b) a c) nevykonává u stavby kategorie 0 a I.
+Pro stavbu uvedenou v § 39 odst. 1 písm. b), c) nebo d) se zpracovává požárně bezpečnostní řešení podle zvláštního právního předpisu. V požárně bezpečnostním řešení jeho zpracovatel prokazuje shodu navrhovaného záměru stavby s technickými podmínkami požární ochrany pro navrhování staveb stanovenými prováděcím právním předpisem.
+K zpracování požárně bezpečnostního řešení pro stavbu kategorie I a II je oprávněna osoba, která je autorizovaná pro obor požární bezpečnost staveb podle zvláštního právního předpisu.
+K zpracování požárně bezpečnostního řešení pro stavbu kategorie III je oprávněna osoba, která je autorizovaná pro obor požární bezpečnost staveb podle zvláštního právního předpisu a které k tomuto současně byla udělena specializace v rámci tohoto oboru podle zvláštního právního předpisu.
+Kategorizace staveb z hlediska požární bezpečnosti
+Z hlediska požární bezpečnosti a ochrany obyvatelstva se stavba člení na
+stavbu kategorie 0, nepředstavující zvláštní nebezpečí,
+stavbu kategorie I, představující mírné nebezpečí,
+stavbu kategorie II, představující vyšší nebezpečí,
+stavbu kategorie III, představující vysoké nebezpečí.
+Prováděcí právní předpis stanoví kritéria a charakteristiku stavby pro její zařazení do kategorie podle odstavce 1. Charakteristikou stavby je stavebně technický parametr stavby a její umístění. Kritériem se rozumí
+požadavek na stavbu z hlediska podmínek evakuace,
+rizikovost stavby, v níž je hořlavá nebo požárně nebezpečná látka nebo jiná obdobně nebezpečná látka vyráběna, zpracovávána, používána, přepravována nebo skladována, a
+ochrana jiného veřejného zájmu významného z hlediska zařazení stavby do příslušné kategorie.
+Státní požární dozor se v rozsahu podle § 31 odst. 1 písm. b) a c) nevykonává u stavby kategorie 0 a I.
+Pro stavbu uvedenou v § 39 odst. 1 písm. b), c) nebo d) se zpracovává požárně bezpečnostní řešení podle zvláštního právního předpisu. V požárně bezpečnostním řešení jeho zpracovatel prokazuje shodu navrhovaného záměru stavby s technickými podmínkami požární ochrany pro navrhování staveb stanovenými prováděcím právním předpisem.
+K zpracování požárně bezpečnostního řešení pro stavbu kategorie I a II je oprávněna osoba, která je autorizovaná pro obor požární bezpečnost staveb podle zvláštního právního předpisu.
+K zpracování požárně bezpečnostního řešení pro stavbu kategorie III je oprávněna osoba, která je autorizovaná pro obor požární bezpečnost staveb podle zvláštního právního předpisu a které k tomuto současně byla udělena specializace v rámci tohoto oboru podle zvláštního právního předpisu.
+ČIŠTĚNÍ, KONTROLA A REVIZE SPALINOVÉ CESTY
+Spalinová cesta
+Provoz spalinové cesty se považuje za vyhovující z hlediska ochrany zdraví, života nebo majetku osob, jestliže se čištění, kontrola a revize spalinové cesty provádí způsobem podle tohoto zákona.
+Spalinovou cestou se pro účely tohoto zákona rozumí dutina určená k odvodu spalin do volného ovzduší. Za spalinovou cestu se nepovažuje odvod spalin z lokálních podokenních topidel o jmenovitém výkonu do 7 kW s vývodem přes fasádu.
+Ustanovení § 44 až 47 se nepoužijí na spalinovou cestu, která není součástí stavby, nebo na spalinovou cestu, která je součástí volně stojícího komínu o vnitřním průměru komínového průduchu 800 mm a větším nebo komínu o stavební výšce 60 metrů a větší, anebo na spotřebič paliv o jmenovitém výkonu nad 1 MW.
+Čištění a kontrola spalinové cesty
+Čištění nebo kontrolu spalinové cesty provádí osoba, která je držitelem živnostenského oprávnění v oboru kominictví (dále jen „oprávněná osoba“).
+Čištění používané spalinové cesty sloužící pro odvod spalin od spotřebiče na pevná paliva o jmenovitém výkonu do 50 kW včetně nebo spalinové cesty sloužící pro odvod spalin od náhradních zdrojů elektrické energie (dieselagregáty) je možné provádět svépomocí. Čištění nebo kontrola spalinové cesty podle tohoto zákona u spalinové cesty pro spotřebiče na plynná paliva, kde odvod spalin je podle návodu nebo technických podmínek výrobce nedílnou součástí spotřebiče, se provádí podle návodu výrobce.
+Lhůty čištění a kontrol, způsob čištění spalinové cesty a způsob kontroly spalinové cesty stanoví prováděcí právní předpis.
+Revize spalinové cesty
+Revizi spalinové cesty provádí oprávněná osoba, která je současně revizním technikem spalinových cest ve smyslu zákona o uznávání výsledků dalšího vzdělávání (dále jen „revizní technik spalinových cest“).
+Důvody pro provádění revize spalinové cesty a způsob tohoto provádění stanoví prováděcí právní předpis.
+Postup při zjištění nedostatků
+Pokud oprávněná osoba při čištění nebo kontrole spalinové cesty nebo revizní technik spalinových cest při revizi spalinové cesty zjistí nedostatek, který bezprostředně ohrožuje zdraví, život nebo majetek osob a který nelze odstranit na místě, neprodleně, nejpozději do 10 pracovních dnů ode dne zjištění nedostatku, oznámí tuto skutečnost písemně v případě nedostatku způsobeného nedodržením technických požadavků na stavbu příslušnému stavebnímu úřadu a v případě nedostatku týkajícího se nedodržení požadavků na požární bezpečnost příslušnému orgánu státního požárního dozoru.
+Zpráva o provedeném čištění nebo kontrole spalinové cesty a zpráva o revizi spalinové cesty
+Oprávněná osoba předá objednateli služby neprodleně, nejpozději do 10 pracovních dnů ode dne provedení čištění nebo kontroly spalinové cesty, písemnou zprávu o provedeném čištění nebo kontrole spalinové cesty. Pokud právnická nebo podnikající fyzická osoba provede čištění spalinové cesty podle § 44 odst. 2 svépomocí, učiní o tom písemný záznam.
+Revizní technik spalinových cest předá objednateli neprodleně, nejpozději do 10 pracovních dnů ode dne provedení revize, písemnou zprávu o revizi spalinové cesty.
+Vzor písemné zprávy o provedeném čištění nebo kontrole spalinové cesty a písemné zprávy o revizi spalinové cesty stanoví prováděcí právní předpis.
+JEDNOTKY POŽÁRNÍ OCHRANY
+Druhy jednotek požární ochrany
+Jednotkami požární ochrany jsou
+jednotka hasičského záchranného sboru zřízená jako jednotka hasičského záchranného sboru kraje, jednotka generálního ředitelství nebo jednotka záchranného útvaru hasičského záchranného sboru, která je složena z příslušníků hasičského záchranného sboru (dále jen „příslušník“) určených k výkonu služby na stanicích hasičského záchranného sboru,
+jednotka hasičského záchranného sboru podniku, která je složena ze zaměstnanců právnické osoby nebo podnikající fyzické osoby, kteří vykonávají činnost v této jednotce jako své zaměstnání, (dále jen „zaměstnanec podniku“),
+jednotka sboru dobrovolných hasičů obce, která je složena z fyzických osob, které nevykonávají činnost v této jednotce požární ochrany jako své zaměstnání,
+jednotka sboru dobrovolných hasičů podniku, která je složena ze zaměstnanců právnické osoby nebo podnikající fyzické osoby, kteří nevykonávají činnost v této jednotce požární ochrany jako své zaměstnání.
+Činnost v jednotce sboru dobrovolných hasičů obce při hašení požáru, provádění záchranných prací při živelních pohromách a jiných mimořádných událostech se považuje za výkon občanské povinnosti. Činnost v jednotce sboru dobrovolných hasičů obce při nařízeném cvičení nebo nařízené odborné přípravě je jiným úkonem v obecném zájmu.
+Činnost v jednotce sboru dobrovolných hasičů vybrané obce je vykonávána zpravidla v pracovněprávním vztahu k obci nebo v pracovněprávním vztahu k hasičskému záchrannému sboru kraje.
+Zaměstnanci podniků, členové jednotek sborů dobrovolných hasičů obcí a členové jednotek sborů dobrovolných hasičů podniků musí být starší 18 let a zdravotně způsobilí.
+Ministerstvo může k plnění mimořádných úkolů na úseku požární ochrany zřídit jednotku generálního ředitelství.
+Vnitřní organizace a vybavení jednotek požární ochrany včetně dislokace jednotlivých druhů a kategorií jednotek požární ochrany musí být volena tak, aby území obce bylo podle stupně nebezpečí zabezpečeno požadovaným množstvím sil a prostředků při splnění požadované doby jejich dojezdu na místo zásahu podle základní tabulky plošného pokrytí uvedené v příloze zákona.
+Jednotky požární ochrany používají jednotné barevné označení vozidel, lodí a letadel. Stanovené barevné označení vozidel, lodí a letadel jednotek požární ochrany mohou používat jen jednotky požární ochrany uvedené v odstavci 1.
+Prováděcí právní předpis stanoví
+organizaci plošného pokrytí území jednotkami požární ochrany,
+organizaci, druhy a termíny preventivních zdravotních prohlídek zaměstnanců podniků a členů jednotek sborů dobrovolných hasičů obcí a podniků, obsah lékařského posudku, seznam nemocí, vad a stavů, pro které nelze vydat kladný posudkový závěr,
+barevné označení vozidel, lodí a letadel jednotek požární ochrany,
+způsob zřizování, vnitřní organizaci a vybavení jednotek požární ochrany požární technikou a věcnými prostředky požární ochrany, jakož i jejich používání.
+Vojenská hasičská jednotka
+Za jednotky požární ochrany uvedené v § 65 odst. 1 písm. b) a d) se ve vojenských objektech, vojenských útvarech, vojenských zařízeních, vojenských záchranných útvarech a u právnických osob založených nebo zřízených Ministerstvem obrany považují vojenské hasičské jednotky.
+Vojenská hasičská jednotka je složena z vojáků a občanských zaměstnanců (dále jen „členové vojenské hasičské jednotky“). Zřizování, vnitřní organizace a vybavení vojenských hasičských jednotek požární technikou a věcnými prostředky požární ochrany je v působnosti Ministerstva obrany. Ministerstvo obrany rovněž stanoví podmínky výkonu služby, odborné způsobilosti, nástupního odborného výcviku, odborné přípravy, zdravotní způsobilosti a funkční označení členů vojenských hasičských jednotek, které nesmí být zaměnitelné s hodnostním označením příslušníků hasičského záchranného sboru.
+Pro vojenskou hasičskou jednotku se při společném zásahu jednotek požární ochrany a vojenských hasičských jednotek uplatňuje právo přednostního velení jako pro jednotku sboru dobrovolných hasičů podniku a členové vojenské hasičské jednotky jsou podřízeni veliteli zásahu.
+Tam, kde není zřízena vojenská hasičská jednotka, může orgán požární ochrany Ministerstva obrany nařídit zřízení požární hlídky.
+Jednotka hasičského záchranného sboru kraje
+Jednotka hasičského záchranného sboru kraje je součástí hasičského záchranného sboru kraje.
+V případech určených vládou může být zřízena jednotka hasičského záchranného sboru kraje i u právnických osob.
+Jednotka hasičského záchranného sboru podniku
+Jednotku hasičského záchranného sboru podniku zřizuje k plnění úkolů podle § 70 odst. 1 právnická osoba nebo podnikající fyzická osoba provozující činnosti uvedené v § 4 odst. 2 a 3, kterou určí hasičský záchranný sbor kraje; u právnické osoby nebo podnikající fyzické osoby s celostátní působností nebo působností zasahující do dvou nebo více krajů, po souhlasu generálního ředitelství. Hasičský záchranný sbor kraje přitom vychází z výsledků posouzení požárního nebezpečí nebo dokumentace zdolávání požárů. Počet zaměstnanců podniku a vybavení této jednotky stanoví na základě výsledků posouzení požárního nebezpečí nebo dokumentace zdolávání požárů hasičský záchranný sbor kraje.
+Právnická osoba nebo podnikající fyzická osoba jmenuje a odvolává velitele této jednotky po vyjádření hasičského záchranného sboru kraje k jeho způsobilosti vykonávat funkci velitele.
+Právnická osoba nebo podnikající fyzická osoba mohou zrušit jednotku hasičského záchranného sboru podniku jen se souhlasem hasičského záchranného sboru kraje; u právnické osoby nebo podnikající fyzické osoby s celostátní působností nebo působností zasahující do dvou nebo více krajů si hasičský záchranný sbor kraje vyžádá souhlas generálního ředitelství.
+Jednotky sborů dobrovolných hasičů
+Obec zřizuje a spravuje jednotku sboru dobrovolných hasičů obce. Velitele této jednotky, po vyjádření hasičského záchranného sboru kraje k jeho způsobilosti vykonávat funkci velitele, jmenuje a odvolává starosta obce. Přihlíží přitom k návrhu občanského sdružení působícího na úseku požární ochrany.
+Právnické osoby nebo podnikající fyzické osoby provozující činnosti uvedené v § 4 odst. 2 a 3, které určí hasičský záchranný sbor kraje, mohou místo jednotky hasičského záchranného sboru podniku zřídit jednotku sboru dobrovolných hasičů podniku. Hasičský záchranný sbor kraje přitom vychází z výsledků posouzení požárního nebezpečí nebo dokumentace zdolávání požárů. Velitele této jednotky po vyjádření hasičského záchranného sboru kraje k jeho způsobilosti vykonávat funkci velitele jmenují a odvolávají právnické osoby nebo podnikající fyzické osoby. Počet členů a vybavení jednotky sboru dobrovolných hasičů podniku stanoví na základě výsledků posouzení požárního nebezpečí nebo dokumentace zdolávání požárů hasičský záchranný sbor kraje.
+Ke zvýšení akceschopnosti a zkvalitnění činnosti jednotky sboru dobrovolných hasičů obce nebo jednotky sboru dobrovolných hasičů podniku (dále jen „dobrovolná jednotka požární ochrany“) se mohou do těchto jednotek zařadit i osoby vykonávající tuto službu jako svoje zaměstnání. O tomto opatření rozhodne obec, právnická osoba nebo podnikající fyzická osoba po projednání s hasičským záchranným sborem kraje.
+Obec, právnické osoby a podnikající fyzické osoby mohou zrušit dobrovolnou jednotku požární ochrany jen se souhlasem hasičského záchranného sboru kraje.
+Požární hlídku zřizuje
+právnická osoba a podnikající fyzická osoba provozující činnosti uvedené v § 4 odst. 2 a 3, kterou určí hasičský záchranný sbor kraje na základě výsledků posouzení požárního nebezpečí nebo dokumentace zdolávání požárů, pokud nezřizuje jednotku požární ochrany podle § 67 ani podle § 68,
+obec, která nezřizuje jednotku požární ochrany podle § 68, kterou určí hasičský záchranný sbor kraje.
+Na požární hlídky zřízené podle odstavce 1 se obdobně vztahují ustanovení tohoto zákona o jednotkách požární ochrany.
+Právnické osoby a podnikající fyzické osoby, které jsou povinny zřídit jednotku požární ochrany, nebo obce mohou namísto vlastní jednotky požární ochrany zajistit plnění úkolů této jednotky na základě smlouvy mezi sebou nebo se státem, který zastupuje hasičský záchranný sbor kraje, nebo zřízením společné jednotky požární ochrany.
+Za společnou jednotku požární ochrany se považuje také jednotka požární ochrany podle § 65 odst. 1, na jejíž činnost a vybavení na základě smlouvy podle odstavce 1 finančně přispívá právnická osoba, podnikající fyzická osoba nebo obec, které jsou jinak povinny jednotku požární ochrany zřídit.
+Postup podle odstavce 1 je podmíněn předchozím souhlasem hasičského záchranného sboru kraje. Hasičský záchranný sbor kraje může udělit souhlas za podmínky, že budou dodrženy mimo jiné požadavky základní tabulky plošného pokrytí uvedené v příloze zákona a smlouvou určená jednotka bude akceschopná. Hasičský záchranný sbor kraje současně stanoví druh společné jednotky v souladu s § 65 odst. 1. V případě, že smlouvu podle odstavce 1 uzavírá hasičský záchranný sbor kraje, souhlas uděluje generální ředitelství.
+Na základě smlouvy podle odstavce 1 musí být hasičskému záchrannému sboru kraje nebo obci poskytovány finanční prostředky ve výši potřebné k zajištění akceschopnosti jednoho požárního družstva o zmenšeném početním stavu. V případě, kdy je smlouva uzavírána mezi hasičským záchranným sborem kraje a obcí v místě dislokace stanice hasičského záchranného sboru kraje, musí být tyto prostředky ve výši potřebné k zajištění akceschopnosti jednoho požárního družstva příslušného typu stanice hasičského záchranného sboru kraje vynásobené počtem těchto stanic zřizovaných v obci podle základní tabulky plošného pokrytí uvedené v příloze zákona, pokud není ve smlouvě podle odstavce 1 stanoveno jinak. V případě, kdy je smlouva uzavřena mezi hasičským záchranným sborem kraje a zřizovatelem jednotky hasičského záchranného sboru podniku, bude zaměstnanec podniku zařazený v této jednotce upřednostněn v řízení ve věcech služebního poměru vedeném v návaznosti na mimořádné zřízení služebního místa.
+Obce, které nezřídí jednotku požární ochrany podle § 68 odst. 1 nebo postupem uvedeným v odstavci 1, jsou povinny přispívat na společnou jednotku podle odstavce 2 hasičskému záchrannému sboru kraje nebo obci, jejíž jednotka požární ochrany je předurčena požárním poplachovým plánem kraje pro uvedenou obec jako první za dodržení podmínek uvedených v § 65 odst. 6.
+Obec, na jejímž území je dislokována stanice hasičského záchranného sboru kraje, může uzavřít s místně příslušným hasičským záchranným sborem kraje smlouvu, v níž upraví užívání majetku ve vlastnictví této obce, poskytování prostředků, případně další vztahy ve vazbě na činnosti hasičského záchranného sboru kraje.
+Povinnosti zaměstnanců podniků a členů dobrovolných jednotek požární ochrany
+Zaměstnanci podniků a členové dobrovolných jednotek požární ochrany jsou povinni
+důsledně plnit úkoly vyplývající ze základního poslání jednotek požární ochrany,
+při zásahu na místě požáru nebo při záchranných pracích při živelní pohromě nebo jiné mimořádné události plnit rozkazy velitele zásahu a pokyny svých nadřízených,
+dodržovat předpisy o požární ochraně upravující činnost na místě zásahu,
+prohlubovat své odborné znalosti v oblasti požární ochrany a udržovat si potřebnou fyzickou zdatnost,
+podrobovat se stanoveným preventivním zdravotním prohlídkám.
+Základní úkoly jednotek požární ochrany
+Jednotka požární ochrany plní tyto základní úkoly
+provádí požární zásah podle příslušné dokumentace požární ochrany nebo při soustředění a nasazování sil a prostředků,
+provádí záchranné práce při živelních pohromách a jiných mimořádných událostech,
+podává neprodleně zprávy o svém výjezdu a zásahu územně příslušnému hasičskému záchrannému sboru kraje.
+Výkonem služby příslušníků, zaměstnanců podniků a členů zařazených v jednotkách požární ochrany se podle tohoto zákona rozumí veškerá činnost směřující k předcházení požárům a jejich zdolávání, snižování následků živelních pohrom a jiných mimořádných událostí včetně zvyšování akceschopnosti jednotky požární ochrany. Výkon služby se člení na organizační a operační řízení.
+Organizačním řízením se rozumí činnost k dosažení stálé organizační, technické a odborné způsobilosti sil a prostředků požární ochrany k plnění úkolů jednotek požární ochrany. Operačním řízením se rozumí činnost od přijetí zprávy o skutečnostech vyvolávajících potřebu nasazení sil a prostředků požární ochrany, provedení požárního zásahu a záchranných prací při živelních pohromách a jiných mimořádných událostech, do návratu sil a prostředků požární ochrany na základnu.
+Při zdolávání požáru spolupracují jednotky požární ochrany s Policií České republiky a dalšími orgány podle zvláštních předpisů.
+Jednotky požární ochrany plní úkoly na úseku civilní ochrany a ochrany obyvatel.
+Prováděcí právní předpis stanoví
+organizaci řízení v jednotkách požární ochrany,
+podmínky akceschopnosti jednotek požární ochrany,
+zásady velení a činnosti velitelů, příslušníků, zaměstnanců podniku a členů dobrovolných jednotek požární ochrany při zásahu,
+zásady činnosti jednotek požární ochrany na úseku civilní ochrany a ochrany obyvatel.
+Řízení činnosti v jednotkách požární ochrany
+Příslušníci, zaměstnanci podniku a členové dobrovolných jednotek požární ochrany jsou při činnosti v jednotce požární ochrany podřízeni svým velitelům a při zdolávání požáru veliteli zásahu.
+Velitel jednotky požární ochrany odpovídá za připravenost a činnost jemu podřízené jednotky zřizovateli této jednotky.
+Odborná způsobilost a příprava
+Příslušníci, zaměstnanci podniku a velitelé, strojníci a technici speciálních služeb ostatních jednotek požární ochrany mohou své funkce vykonávat jen s požadovanou odbornou způsobilostí.
+Příslušníci, zaměstnanci podniku a členové dobrovolných jednotek požární ochrany mohou samostatně vykonávat službu při zdolávání požárů až po absolvování základní odborné přípravy.
+Zaměstnanci podniku a členové dobrovolných jednotek požární ochrany jsou povinni se zúčastňovat v určeném rozsahu odborné přípravy. Zúčastňují-li se odborné přípravy členové dobrovolných jednotek požární ochrany ve své pracovní době, považuje se to za překážku na straně zaměstnance z důvodu jiných úkonů v obecném zájmu.
+Odborná příprava zahrnuje teoretickou přípravu, praktický výcvik a tělesnou přípravu. Součástí odborné přípravy je i požární sport.
+Odborná způsobilost se ověřuje zkouškou a prokazuje se osvědčením. Ověřování odborné způsobilosti a vydávání a odnímání osvědčení o odborné způsobilosti provádí
+ministerstvo u příslušníků, velitelů, strojníků a techniků speciálních služeb jednotek hasičských záchranných sborů podniků a u osob vykonávajících službu v jednotkách sborů dobrovolných hasičů obcí a v jednotkách sborů dobrovolných hasičů podniků jako svoje zaměstnání,
+hasičský záchranný sbor kraje u velitelů a strojníků dobrovolných jednotek požární ochrany,
+velitelé jednotek hasičských záchranných sborů podniků u zaměstnanců podniku.
+Orgán, který vydal osvědčení o odborné způsobilosti, může osvědčení odejmout, vykazuje-li osoba uvedená v odstavcích 1 a 5 ve své činnosti závažné nedostatky.
+Prováděcí právní předpis stanoví způsob provádění odborné přípravy příslušníků, zaměstnanců podniků a členů dobrovolných jednotek požární ochrany, její ověřování a osvědčování, vydávání a odnímání osvědčení, jakož i organizování soutěží v požárním sportu a tělesné přípravě.
+Poskytování pomoci při zdolávání požárů
+Obec, právnické osoby a podnikající fyzické osoby jsou povinny si poskytovat při zdolávání požárů vzájemnou pomoc.
+Hasičské záchranné sbory krajů jsou oprávněny v případě naléhavé potřeby při zdolávání požárů soustřeďovat a nasazovat jednotky požární ochrany bez ohledu na to, komu jsou podřízeny, a věcné prostředky požární ochrany bez ohledu na to, kdo s nimi disponuje. Obdobné oprávnění má Ministerstvo při potřebě nasazení jednotek požární ochrany a věcných prostředků požární ochrany z více krajů, při poskytování mezistátní pomoci, nebo hrozí-li nebezpečí z prodlení.
+Orgán, který rozhoduje o opatřeních uvedených v odstavci 2, je povinen přihlédnout k tomu, aby byla v nutném rozsahu zabezpečena požární ochrana v územních obvodech obcí nebo u právnických osob a podnikajících fyzických osob, které takovou pomoc poskytnou.
+O použití Armády České republiky k záchranným pracím a o poskytování mezistátní pomoci platí zvláštní právní předpisy.
+Spolupráce na úseku požární ochrany
+Hasičský záchranný sbor, správní úřady a orgány samosprávy, jakož i právnické osoby a podnikající fyzické osoby při plnění úkolů podle tohoto zákona spolupracují s občanskými sdruženími, veřejně prospěšnými organizacemi a jinými orgány a organizacemi působícími na úseku požární ochrany.
+Občanská sdružení, veřejně prospěšné organizace a jiné orgány a organizace působící na úseku požární ochrany
+Občanská sdružení, veřejně prospěšné organizace a jiné orgány a organizace působící na úseku požární ochrany pomáhají při plnění úkolů na úseku požární ochrany zejména tím, že
+pomáhají vyhledávat členy jednotek sborů dobrovolných hasičů obcí,
+podílejí se na odborné přípravě členů jednotek sborů dobrovolných hasičů obcí,
+podílejí se se souhlasem vlastníka na provádění údržby, oprav požární techniky, věcných prostředků požární ochrany a objektů požární ochrany, včetně vodních zdrojů,
+podílejí se na činnosti směřující k předcházení požárům, zejména na preventivně výchovné činnosti mezi občany a mládeží,
+podílejí se na ediční a publikační činnosti a na dokumentaci historie požární ochrany a hasičstva.
+Občanským sdružením, veřejně prospěšným organizacím a jiným orgánům a organizacím vykonávajícím činnosti podle odstavce 1 může být poskytována dotace v souladu se zvláštním právním předpisem.
+POSTIH PRÁVNICKÝCH OSOB, PODNIKAJÍCÍCH FYZICKÝCH OSOB A FYZICKÝCH OSOB
+Pokuty právnickým osobám a podnikajícím fyzickým osobám
+Hasičský záchranný sbor kraje při výkonu státního požárního dozoru může uložit pokutu až do 250 000 Kč právnické osobě nebo podnikající fyzické osobě provozující činnosti bez zvýšeného požárního nebezpečí nebo až do 500 000 Kč právnické osobě nebo podnikající fyzické osobě provozující činnosti se zvýšeným požárním nebezpečím, jestliže poruší povinnosti vyplývající z předpisů o požární ochraně tím, že
+neoznačí místa a pracoviště příslušnými bezpečnostními značkami, příkazy, zákazy a pokyny ve vztahu k požární ochraně, včetně míst, na kterých se nachází věcné prostředky požární ochrany a požárně bezpečnostní zařízení,
+neprovádí pravidelně kontrolu dodržování předpisů o požární ochraně a plnění příkazů, zákazů a pokynů týkajících se požární ochrany nebo neodstraňuje zjištěné závady,
+nezabezpečí pravidelné školení svých zaměstnanců o požární ochraně a odbornou přípravu preventivních požárních hlídek nebo preventistů požární ochrany, jakož i odbornou přípravu v jednotkách požární ochrany,
+neumožní nebo ztěžuje výkon státního požárního dozoru,
+nevyhotoví předepsanou dokumentaci požární ochrany nebo ji neudržuje v souladu se skutečným stavem anebo neplní podmínky požární bezpečnosti v ní stanovené,
+nezabezpečí v potřebném množství a druzích požární techniku, věcné prostředky požární ochrany nebo požárně bezpečnostní zařízení nebo tyto neudržuje v provozuschopném stavu anebo u vyhrazené požární techniky, věcných prostředků požární ochrany nebo požárně bezpečnostních zařízení používá neschválené druhy,
+neumožní vstup na nemovitost k provedení potřebných opatření v souvislosti se cvičením jednotek požární ochrany, ačkoli tomu byla povinna podle rozhodnutí obce nebo hasičského záchranného sboru kraje,
+neoznámí bez odkladu územně příslušnému hasičskému záchrannému sboru kraje vznik požáru při činnostech, které provozuje, nebo v prostorách, které vlastní nebo užívá,
+nepodá písemnou zprávu o odstranění nedostatků zjištěných při kontrole ve lhůtě stanovené orgánem vykonávajícím státní požární dozor,
+nestanoví organizaci zabezpečení požární ochrany s ohledem na požární nebezpečí nebo prokazatelně nestanoví podmínky požární bezpečnosti podle § 6 odst. 1 písm. b) nebo § 6 odst. 2,
+nedodržuje stanovené podmínky požární bezpečnosti provozovaných činností, technologických postupů nebo zařízení anebo nezabezpečuje údržbu a opravy technických a technologických zařízení způsobem a ve lhůtách stanovených technickými podmínkami nebo výrobcem zařízení,
+nestanoví požadavky na odbornou kvalifikaci osob podle § 6 odst. 1 písm. d) nebo nezabezpečí provádění prací, které by mohly vést ke vzniku požáru osobou s příslušnou kvalifikací,
+používá neoprávněně barevné označení vozidel, lodí a letadel jednotek požární ochrany.
+Hasičský záchranný sbor kraje při výkonu státního požárního dozoru může uložit pokutu až do 500 000 Kč právnické osobě nebo podnikající fyzické osobě, která porušila povinnost vyplývající z předpisů o požární ochraně tím, že
+nevytváří podmínky pro hašení požárů a pro záchranné práce, neudržuje volné příjezdové komunikace a nástupní plochy pro požární techniku, únikové cesty a volný přístup k nouzovým východům, rozvodným zařízením elektrické energie, uzávěrům vody, plynu, topení a produktovodům, věcným prostředkům požární ochrany a ručnímu ovládání požárně bezpečnostních zařízení,
+poruší rozhodnutí o vyloučení věci z užívání, rozhodnutí o zákazu činnosti nebo rozhodnutí o zastavení provozu,
+nezajistí plnění úkolů požární ochrany podle kategorie požárního nebezpečí osobami s odbornou způsobilostí nebo nezřídí preventivní požární hlídku podle § 13 odst. 1,
+nezřídí jednotku požární ochrany nebo ji smluvně nezabezpečí, ačkoli k tomu byla povinna,
+nevybaví jednotku požární ochrany potřebnou požární technikou, věcnými prostředky požární ochrany a požárně bezpečnostními zařízeními anebo jednotku požární ochrany využívá k činnostem, které by mohly ohrozit její akceschopnost,
+neplní opatření nebo lhůty stanovené posouzením požárního nebezpečí,
+neprovede ve stanovené lhůtě opatření uložená k odstranění zjištěných nedostatků,
+neposkytne na výzvu velitele zásahu nebo velitele jednotky požární ochrany obce potřebnou věcnou pomoc,
+neumožní vstup na nemovitost k provedení potřebných opatření v souvislosti se zdoláváním požáru nebo prováděním záchranných prací,
+nemá k dispozici požárně technické charakteristiky vyráběných, používaných, zpracovávaných nebo skladovaných látek a materiálů nutných ke stanovení preventivních opatření k ochraně života, zdraví a majetku,
+nedodržuje návody a technické podmínky výrobce nebo obchodní organizace vztahující se k požární bezpečnosti,
+neposkytne bezúplatně výrobky nebo vzorky k provedení požárně technické expertizy v rámci zjišťování příčin vzniku požáru,
+vypaluje porosty nebo neoznámí spalování hořlavých látek na volném prostranství orgánu státního požárního dozoru, případně nestanoví opatření proti vzniku a šíření požáru,
+neuvědomí písemně orgán státního požárního dozoru nebo nepostupuje podle jeho pokynu v případě změny charakteru nebo podmínek anebo rozsahu provozované činnosti, která je předmětem posouzení požárního nebezpečí,
+nesplní lhůtu stanovenou orgánem státního požárního dozoru k odstranění nedostatků v předloženém posouzení požárního nebezpečí,
+neudržuje zdroje vody pro hašení požárů v takovém stavu, aby bylo umožněno použití požární techniky a čerpání vody k hašení požáru, neplní povinnosti k ochraně lesů v době zvýšeného nebezpečí vzniku požáru podle § 7 odst. 2 nebo povinnosti vlastníka podle § 2 odst. 2,
+při přepravě nebezpečných látek nemá k dispozici na místě s nákladem požárně technické charakteristiky přepravovaných látek nebo tyto neodpovídají vykazovanému přepravovanému nákladu.
+Hasičský záchranný sbor kraje při výkonu státního požárního dozoru může uložit pokutu až do 1 000 000 Kč právnické osobě nebo podnikající fyzické osobě provozující činnosti s vysokým požárním nebezpečím, jestliže poruší povinnosti vyplývající z předpisů o požární ochraně uvedené v odstavcích 1 a 2.
+Právnické osobě nebo podnikající fyzické osobě, která zruší jednotku požární ochrany bez souhlasu hasičského záchranného sboru kraje (§ 67 odst. 3 a § 68 odst. 4), může hasičský záchranný sbor kraje uložit pokutu až do 10 000 000 Kč.
+Právnické osobě nebo podnikající fyzické osobě, která opětovně poruší povinnost, za kterou jí byla v předchozích třech letech uložena pokuta pravomocným rozhodnutím, může hasičský záchranný sbor kraje při výkonu státního požárního dozoru uložit další pokutu až do výše dvojnásobku pokuty stanovené v odstavcích 1 až 4.
+Při stanovení výše pokuty se přihlíží zejména k závažnosti a době trvání protiprávního jednání a k rozsahu způsobené škody.
+Uložení pokuty nezbavuje právnickou osobu nebo podnikající fyzickou osobu povinnosti odstranit nedostatky ve stanovené lhůtě. Uložením pokuty podle odstavců 1 až 4 zůstává nedotčena odpovědnost právnické osoby nebo podnikající fyzické osoby za způsobenou škodu a postih jejích zaměstnanců podle pracovněprávních předpisů.
+Oprávněné osobě, která
+neprovede čištění nebo kontrolu spalinové cesty stanoveným způsobem, nebo
+v rozporu s § 47 odst. 1 nepředá písemnou zprávu o provedeném čištění nebo kontrole spalinové cesty nebo ji předá po stanovené lhůtě,
+se uloží pokuta do 50 000 Kč.
+Oprávněné osobě nebo reviznímu technikovi spalinových cest, který v rozporu s § 46 neoznámí zjištěné nedostatky příslušnému stavebnímu úřadu nebo orgánu státního požárního dozoru nebo je oznámí opožděně, se uloží pokuta do 50 000 Kč.
+Reviznímu technikovi spalinových cest, který
+neprovede revizi spalinové cesty stanoveným způsobem, nebo
+v rozporu s § 47 odst. 2 nepředá písemnou zprávu o revizi spalinové cesty nebo ji předá po stanovené lhůtě,
+se uloží pokuta do 50 000 Kč.
+Vlastníkovi nebo provozovateli objektu, který je právnickou nebo podnikající fyzickou osobou a který provozuje spalinovou cestu v rozporu s tímto zákonem, se uloží pokuta do 100 000 Kč.
+Právnické osobě nebo podnikající fyzické osobě, která provozuje činnost s vysokým požárním nebezpečím bez odsouhlaseného posouzení požárního nebezpečí nebo provede v rozporu s § 6a odst. 7 změnu, která má vliv na obsah schváleného posouzení požárního nebezpečí, se uloží pokuta až do výše 10 000 000 Kč.
+Právnické osobě nebo podnikající fyzické osobě, která provozuje činnost s vysokým požárním nebezpečím nebo činnost se zvýšeným požárním nebezpečím, u které nejsou běžné podmínky pro zásah, bez odsouhlasení dokumentace zdolávání požárů nebo provede v rozporu s § 6b odst. 7 změnu, která má vliv na obsah schválené dokumentace zdolávání požárů, se uloží pokuta až do výše 10 000 000 Kč.
+Pokutu podle § 76a až 76c ukládá hasičský záchranný sbor kraje. Pro stanovení výše pokuty přihlíží zejména k závažnosti a době trvání protiprávního jednání.
+Řízení o uložení pokuty lze zahájit do jednoho roku ode dne, kdy se o porušení povinnosti dozvěděl orgán vykonávající státní požární dozor, a musí být pravomocně skončeno do tří let od porušení povinnosti. Do této doby se nezapočítává doba, po kterou se pro tentýž skutek vedlo trestní řízení.
+Přestupky
+Přestupku na úseku požární ochrany se dopustí ten, kdo
+poruší příkazy nebo zákazy týkající se požární ochrany na označených místech,
+neumožní vstup na nemovitost při cvičení jednotky požární ochrany, ačkoliv je k tomu povinen podle rozhodnutí hasičského záchranného sboru kraje nebo obce,
+neuposlechne nařízení velitele zásahu nebo velitele jednotky požární ochrany vydané podle § 88 odst. 1 písm. a),
+poruší zásady bezpečného provozu tepelných, elektrických, plynových a jiných spotřebičů a komínů,
+neobstará nebo neudržuje v provozuschopném stavu věcné prostředky požární ochrany nebo požárně bezpečnostní zařízení, poškodí, zneužije nebo jiným způsobem znemožní použití věcných prostředků požární ochrany nebo požárně bezpečnostních zařízení,
+vědomě bezdůvodně přivolá jednotku požární ochrany nebo zneužije tísňovou komunikaci,
+nedodrží podmínky nebo návody vztahující se k požární bezpečnosti výrobků nebo činností,
+neumožní výkon státního požárního dozoru nebo ve stanovené lhůtě nesplní opatření uložená orgánem státního požárního dozoru,
+neposkytne osobní nebo věcnou pomoc v souvislosti se zdoláváním požáru, ačkoli je k tomu povinen,
+neumožní orgánu státního požárního dozoru provedení potřebných úkonů ke zjišťování příčiny vzniku požáru nebo bezúplatně neposkytne výrobky nebo vzorky k provedení požárně technické expertizy,
+nedodrží předpisy o používání, skladování a manipulaci s hořlavými nebo požárně nebezpečnými látkami nebo nesprávným skladováním materiálu znemožní přístup k rozvodným zařízením elektrické energie a uzávěrům plynu, vody a topení,
+nedodrží zásady požární bezpečnosti při používání otevřeného ohně nebo jiného zdroje zapálení,
+nevytváří v prostorách ve svém vlastnictví nebo užívání podmínky pro rychlé zdolávání požáru a pro provádění záchranných prací nebo neumožní jednotce požární ochrany vstup na nemovitost při zdolávání požáru nebo provádění záchranných prací anebo jinak ztíží provedení opatření nutných ke zdolávání požáru nebo při provádění záchranných prací,
+poruší rozhodnutí o vyloučení věci z užívání nebo rozhodnutí o zákazu činnosti anebo rozhodnutí o zastavení provozu,
+provádí práce, které mohou vést ke vzniku požáru, ačkoli nemá odbornou způsobilost požadovanou pro výkon takových prací zvláštními právními předpisy,
+zanedbá z hlediska požární ochrany dohled nad osobami, které nemohou posoudit následky svého jednání,
+způsobí svým jednáním požár, nejde-li o trestný čin,
+vypaluje porosty,
+neoznámí bezodkladně místně příslušnému hasičskému záchrannému sboru kraje požár v objektech a jiných místech, které vlastní nebo užívá,
+omezí nebo znemožní použití označených nástupních ploch pro požární techniku,
+používá neoprávněně barevné označení vozidel, lodí a letadel jednotek požární ochrany,
+neudržuje zdroje vody pro hašení požárů v takovém stavu, aby bylo umožněno použití požární techniky k hašení požáru, neplní povinnosti k ochraně lesů před požáry podle § 7 odst. 2 nebo neplní povinnosti vlastníka podle § 2 odst. 2, nebo
+kdo provozuje spalinovou cestu v rozporu s tímto zákonem.
+Za přestupek podle odstavce 1 písm. a) až d) a aa) lze uložit pokutu do 10 000 Kč, za přestupek podle odstavce 1 písm. e) až l) pokutu do 20 000 Kč a za přestupek podle odstavce 1 písm. m) až z) pokutu do 25 000 Kč.
+Není-li v tomto zákoně stanoveno jinak, platí o přestupcích a jejich projednávání obecné předpisy.
+Pokutu za přestupek podle § 78 ukládá hasičský záchranný sbor kraje.
+NÁHRADA ŠKODY
+Odškodňování úrazů
+Došlo-li u občana k poškození na zdraví nebo k jeho smrti
+při jeho činnosti v jednotce sboru dobrovolných hasičů obce a v požární hlídce,
+v souvislosti s pomocí, kterou poskytl při zdolávání požáru nebo při odstraňování jeho následků anebo při cvičení jednotky požární ochrany,
+(dále jen „poškozený“), uhradí škodu tím vzniklou stát, obdobně podle předpisů o odškodňování pracovních úrazů, pokud mu nevznikl nárok na náhradu této škody již z pracovněprávního vztahu.
+Náhradu škody podle odstavce 1 poskytuje v zastoupení státu hasičský záchranný sbor kraje, v jehož územním obvodu k poškození na zdraví nebo k smrti poškozeného došlo.
+Jednorázové mimořádné odškodnění
+Vláda stanoví nařízením, v kterých případech a v jakém rozsahu náleží poškozenému a pozůstalým po poškozeném, kromě nároků podle předpisů o odškodňování pracovních úrazů, i jednorázové mimořádné odškodnění, a kdy je možné takové odškodnění přiznat osobám, které byly na poškozeného odkázány výživou.
+Toto nařízení upraví také jednorázové mimořádné odškodnění zaměstnanci podniku a členovi jednotky sboru dobrovolných hasičů podniku a pozůstalým po nich.
+Jednorázové mimořádné odškodnění zaměstnancům podniku, členům jednotky sboru dobrovolných hasičů podniku, jakož i jiným zaměstnancům právnické osoby nebo podnikající fyzické osoby a pozůstalým po nich poskytuje právnická osoba nebo podnikající fyzická osoba, pokud ke škodě na zdraví došlo v souvislosti s činností jejich jednotek požární ochrany na vlastní nemovitosti nebo v jejich vlastních objektech. V ostatních případech poskytuje jednorázové mimořádné odškodnění ministerstvo.
+Nárok na odškodnění podle odstavců 1 až 3 se promlčuje ve lhůtě tří let ode dne vzniku škody.
+Náhrada škody
+Fyzická osoba má právo na náhradu škody, která jí vznikla při pomoci poskytnuté při zdolávání požáru.
+Právnické nebo fyzické osobě se nahrazuje také škoda, která jí vznikla v důsledku opatření nutných ke zdolání požáru, zamezení jeho šíření nebo záchranných prací provedených na příkaz velitele zásahu nebo velitele jednotky požární ochrany nebo při cvičení jednotky požární ochrany; to neplatí, jestliže škoda vznikla použitím hasicích látek v souvislosti se zdoláváním požáru.
+Náhrada škody podle odstavce 1 se neposkytuje právnické nebo fyzické osobě, jejíž objekty byly zasaženy požárem.
+Náhradu škody podle § 83 poskytuje a rozhoduje o ní hasičský záchranný sbor kraje, v jehož územním obvodu požár vznikl nebo se konalo cvičení jednotky požární ochrany, s výjimkou uvedenou v odstavci 2.
+Náhradu škody právnické nebo fyzické osobě, která jí vznikla při pomoci poskytnuté při zdolávání požáru na výzvu obce podle § 19, poskytuje a rozhoduje o ní obec.
+Jestliže vznikla právnické nebo fyzické osobě škoda v souvislosti s pomocí poskytnutou v zájmu právnické osoby nebo podnikající fyzické osoby, má hasičský záchranný sbor kraje vůči této právnické osobě nebo této podnikající fyzické osobě právo na náhradu toho, co právnické nebo fyzické osobě poskytl.
+Právo na náhradu škody podle § 83 je třeba uplatnit do tří měsíců ode dne, kdy se poškozený dověděl o škodě, nejpozději do dvou let od vzniku škody; jinak toto právo zanikne.
+Náhrada škody fyzické osobě, která jí vznikla v souvislosti s pomocí poskytnutou podle § 82, se poskytuje podle občanského zákoníku.
+KATEGORIE JEDNOTEK POŽÁRNÍ OCHRANY A ZÁKLADNÍ TABULKA PLOŠNÉHO POKRYTÍ
+Kategorie jednotek požární ochrany
+Pro účely plošného pokrytí se jednotky požární ochrany dělí na jednotky
+s územní působností zasahující i mimo území svého zřizovatele
+JPO I - jednotka hasičského záchranného sboru s územní působností zpravidla do 20 minut jízdy z místa dislokace,
+JPO II - jednotka sboru dobrovolných hasičů obce s členy, kteří vykonávají službu jako svoje hlavní nebo vedlejší povolání, s územní působností zpravidla do 10 minut jízdy z místa dislokace,
+JPO III - jednotka sboru dobrovolných hasičů obce s členy, kteří vykonávají službu v jednotce požární ochrany dobrovolně, s územní působností zpravidla do 10 minut jízdy z místa dislokace,
+s místní působností zasahující na území svého zřizovatele
+JPO IV - jednotka hasičského záchranného sboru podniku,
+JPO V - jednotka sboru dobrovolných hasičů obce s členy, kteří vykonávají službu v jednotce požární ochrany dobrovolně,
+JPO VI - jednotka sboru dobrovolných hasičů podniku.
+V dohodě se zřizovatelem mohou být tyto jednotky využívány k zásahům i mimo svůj územní obvod.
+Poznámka: 1 JPO - jedna jednotka PO; 2 JPO - dvě jednotky PO; min - minut.
+Síly a prostředky požadované základní tabulkou plošného pokrytí jsou
+pro první jednotku požární ochrany, která se dostaví na místo zásahu, minimálně družstvo ve zmenšeném početním stavu nebo družstvo s cisternovou automobilovou stříkačkou;
+Poznámka:
+U obcí nebo objektů zařazených do stupně nebezpečí území obce III A, III B nebo IV, může být první jednotkou požární ochrany jednotka, která nemá cisternovou automobilovou stříkačku, ale je vybavena alespoň přívěsnou nebo přenosnou požární stříkačkou o výkonu 800 l/min a vyšším, tažným nebo dopravním automobilem, pokud v místě zásahu je možné použít zdroj požární vody, a za podmínky, že druhá a další jednotka požární ochrany cisternovou automobilovou stříkačku má.
+pro druhou a další jednotku požární ochrany, která se dostaví na místo zásahu, minimálně družstvo ve zmenšeném početním stavu nebo družstvo s cisternovou automobilovou stříkačkou a další technika podle složitosti zdolávání požáru.
+Poznámka:
+U všech obcí nebo objektů, s výjimkou objektů zařazených do stupně nebezpečí území obce I A, I B, může být druhou nebo další jednotkou požární ochrany také jednotka, která nemá cisternovou automobilovou stříkačku, ale je vybavena alespoň přívěsnou nebo přenosnou požární stříkačkou o výkonu 800 l/min a vyšším, tažným nebo dopravním automobilem, pokud v místě zásahu je možné použít zdroj požární vody.

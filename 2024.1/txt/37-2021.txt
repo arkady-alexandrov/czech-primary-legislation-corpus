@@ -1,0 +1,341 @@
+ÚVODNÍ USTANOVENÍ
+Tento zákon zapracovává příslušné předpisy Evropské unie a upravuje
+vedení evidence skutečných majitelů a
+některá práva a povinnosti vznikající v souvislosti se zjišťováním skutečného majitele a zápisem údajů o něm do evidence skutečných majitelů.
+Pro účely tohoto zákona se rozumí
+zahraničním svěřenským fondem svěřenský fond nebo jemu strukturou nebo funkcemi podobné zařízení řídící se právem jiného státu,
+právním uspořádáním svěřenský fond nebo zahraniční svěřenský fond,
+skutečným majitelem každá fyzická osoba, která v konečném důsledku vlastní nebo kontroluje právnickou osobu nebo právní uspořádání,
+strukturou vztahů vztahy, jejichž prostřednictvím jsou právnická osoba nebo právní uspořádání vlastněny nebo kontrolovány,
+řetězením vlastnictví nebo kontrola právnické osoby nebo právního uspořádání prostřednictvím na sebe postupně navázaných osob nebo právních uspořádání nebo na sebe postupně navazujících vztahů,
+větvením vlastnictví nebo kontrola právnické osoby nebo právního uspořádání prostřednictvím více jednotlivých řetězení,
+osobou ve vrcholném vedení každá fyzická osoba, která zajišťuje každodenní nebo pravidelné řízení výkonu činností právnické osoby, jako je obchodní vedení, a při tom je
+členem statutárního orgánu právnické osoby nebo osobou v obdobném postavení nebo zastupuje právnickou osobu v tomto orgánu, nebo
+přímo podřízena statutárnímu orgánu právnické osoby nebo jeho členovi,
+evidující osobou právnická osoba, která má skutečného majitele, nebo svěřenský správce nebo osoba v obdobném postavení u zahraničního svěřenského fondu (dále jen „svěřenský správce“) právního uspořádání,
+platnými údaji údaje o skutečném majiteli v evidenci skutečných majitelů, které nebyly vymazány bez náhrady nebo s nahrazením novými údaji,
+zápisem provedení
+prvního zápisu údajů o skutečném majiteli do evidence skutečných majitelů, nebo
+výmazu platných údajů bez náhrady nebo s nahrazením novými údaji,
+automatickým průpisem průpis údajů nebo jejich výmaz bez náhrady nebo s nahrazením novými údaji, vedených ve veřejném rejstříku podle zákona upravujícího veřejné rejstříky právnických a fyzických osob a evidenci svěřenských fondů (dále jen „veřejný rejstřík“), v evidenci svěřenských fondů podle téhož zákona (dále jen „evidence svěřenských fondů“) nebo v základním registru, do evidence skutečných majitelů bez řízení prostřednictvím propojení informačních systémů veřejné správy,
+nesrovnalostí stav, kdy platné údaje nebo údaje, které byly z evidence skutečných majitelů vymazány bez náhrady nebo s nahrazením novými údaji, neodpovídají nebo neodpovídaly skutečnému stavu, nebo stav, kdy v evidenci skutečných majitelů nejsou zapsány žádné údaje.
+Korporaci v konečném důsledku vlastní nebo kontroluje každá fyzická osoba, která přímo nebo nepřímo prostřednictvím jiné osoby nebo právního uspořádání
+má podíl v korporaci nebo podíl na hlasovacích právech větší než 25 %,
+má právo na podíl na zisku, jiných vlastních zdrojích nebo likvidačním zůstatku větší než 25 %,
+uplatňuje rozhodující vliv v korporaci nebo korporacích, které mají v dané korporaci samostatně nebo společně podíl větší než 25 %, nebo
+uplatňuje rozhodující vliv v korporaci jinými prostředky.
+Rozhodující vliv v korporaci uplatňuje ten, kdo na základě vlastního uvážení, bez ohledu na to, zda a na základě jaké právní skutečnosti, může přímo nebo nepřímo prostřednictvím jiné osoby nebo právního uspořádání dosáhnout toho, že rozhodování nejvyššího orgánu korporace odpovídá jeho vůli.
+Rozhodující vliv v obchodní korporaci uplatňuje ovládající osoba podle zákona upravujícího právní poměry obchodních korporací.
+Má se za to, že rozhodující vliv v korporaci uplatňuje ten, kdo může jmenovat nebo odvolat většinu osob, které jsou členy statutárního orgánu korporace.
+Má se za to, že rozhodující vliv v jiné než obchodní korporaci, v bytovém nebo sociálním družstvu nebo v investičním fondu v právní formě akciové společnosti s proměnným základním kapitálem uplatňuje každá fyzická osoba, která je členem jejich statutárního orgánu nebo osobou v obdobném postavení nebo osobou zastupující právnickou osobu v tomto orgánu.
+Pro účely výpočtu výše nepřímého podílu v korporaci se v případě
+řetězení podíly, které mají navázané osoby nebo právní uspořádání, násobí a
+větvení součiny podílů z jednotlivých řetězení sčítají.
+Pro účely určení skutečného majitele investičního fondu v právní formě akciové společnosti s proměnným základním kapitálem se nepřihlíží k investičním akciím, ledaže stanovy spojují s těmito akciemi obdobné hlasovací právo jako u zakladatelských akcií.
+Platí, že každá osoba ve vrcholném vedení korporace je jejím skutečným majitelem,
+nelze-li žádného skutečného majitele určit ani při vynaložení veškerého úsilí, které lze po evidující osobě rozumně požadovat, nebo
+uplatňuje-li v korporaci rozhodující vliv právnická osoba, která nemá skutečného majitele podle § 7.
+Uplatňuje-li v korporaci rozhodující vliv právnická osoba, která nemá skutečného majitele podle § 7, a zároveň je skutečným majitelem korporace jiná osoba, platí, že skutečným majitelem korporace je také každá osoba ve vrcholném vedení této korporace.
+Platí, že skutečný majitel korporace podle odstavce 1 nebo 2 je skutečným majitelem všech korporací v jí podřízené struktuře vztahů, ve kterých je uplatňován rozhodující vliv.
+Fundaci, ústav, obecně prospěšnou společnost nebo právní uspořádání v konečném důsledku vlastní nebo kontroluje každá fyzická osoba, která v nich uplatňuje rozhodující vliv.
+Rozhodující vliv ve fundaci, ústavu a obecně prospěšné společnosti uplatňuje ten, kdo na základě vlastního uvážení, bez ohledu na to, zda a na základě jaké právní skutečnosti, může přímo nebo nepřímo prostřednictvím jiné osoby nebo právního uspořádání dosáhnout toho, že rozhodování statutárního nebo jiného řídicího orgánu odpovídá jeho vůli.
+Rozhodující vliv na správu právního uspořádání uplatňuje ten, kdo na základě vlastního uvážení, bez ohledu na to, zda a na základě jaké právní skutečnosti, může přímo nebo nepřímo prostřednictvím jiné osoby nebo právního uspořádání dosáhnout toho, že rozhodování svěřenského správce odpovídá jeho vůli.
+Platí, že skutečným majitelem fundace je vždy také každá fyzická osoba,
+která je jejím zakladatelem,
+která je členem její správní nebo dozorčí rady nebo jejím revizorem nebo osobou v obdobném postavení nebo
+v jejíž osobní podpoře spočívá podle zakladatelského právního jednání fundace její účel.
+Platí, že skutečným majitelem ústavu nebo obecně prospěšné společnosti je vždy také každá fyzická osoba, která je jejich
+zakladatelem nebo
+ředitelem nebo členem jeho správní nebo dozorčí rady nebo osobou v obdobném postavení.
+Platí, že skutečným majitelem právního uspořádání je vždy také každá fyzická osoba, která je
+jeho zakladatelem,
+jeho svěřenským správcem,
+oprávněná k výkonu dohledu nad správou právního uspořádání a která může jmenovat nebo odvolat svěřenského správce nebo obmyšleného,
+jeho obmyšleným nebo
+z okruhu osob, v jejichž hlavním zájmu bylo právní uspořádání zřízeno nebo je spravováno, není-li obmyšlený.
+Je-li ve funkci podle odstavců 1 až 3 právnická osoba, platí, že skutečným majitelem fundace, ústavu, obecně prospěšné společnosti nebo právního uspořádání je skutečný majitel této právnické osoby.
+Skutečného majitele nemají
+stát a územní samosprávný celek, dobrovolný svazek obcí, státní příspěvková organizace, příspěvková organizace územního samosprávného celku a
+česká právnická osoba založená nebo zřízená za účelem uspokojování potřeb veřejného zájmu, které nemají průmyslovou nebo obchodní povahu, pokud Česká republika, kraj nebo obec ji převážně financují, uplatňují v ní rozhodující vliv nebo jmenují nebo odvolávají většinu osob, které jsou členy jejího statutárního nebo kontrolního orgánu; v případě obchodní korporace se vždy vyžaduje, aby veškeré podíly v ní měly přímo nebo nepřímo Česká republika, kraj nebo obec.
+Má se za to, že podle odstavce 1 písm. b) skutečného majitele nemají
+školská právnická osoba zřízená státem, územním samosprávným celkem nebo dobrovolným svazkem obcí,
+veřejná výzkumná instituce,
+právnická osoba zřízená zákonem nebo mezinárodní smlouvou,
+státní podnik a národní podnik,
+evropské seskupení pro územní spolupráci,
+právnická osoba, ve které má přímo nebo nepřímo veškeré podíly a podíly na hlasovacích právech Česká republika, kraj nebo obec, a
+obecně prospěšná společnost a ústav, jejichž zakladatelem je Česká republika, kraj nebo obec.
+POVINNOSTI NĚKTERÝCH OSOB
+Evidující osoba o svém skutečném majiteli nebo o skutečném majiteli právního uspořádání získává a zaznamenává úplné, přesné a aktuální údaje podle § 13 písm. a) až g).
+Evidující osoba zaznamenává také kroky učiněné při zjišťování skutečného majitele v případech, kdy je skutečným majitelem korporace určena osoba ve vrcholném vedení podle § 5 odst. 1 písm. a) nebo § 5 odst. 3.
+Evidující osoba uchovává údaje podle odstavců 1 a 2 po dobu, po kterou je fyzická osoba skutečným majitelem, a dále 10 let od zániku jejího postavení skutečného majitele. Zanikla-li evidující osoba s právním nástupcem, přechází povinnost na něj.
+Evidující osoba sdělí na žádost údaje podle odstavců 1 a 2 povinné osobě podle zákona upravujícího některá opatření proti legalizaci výnosů z trestné činnosti a financování terorismu (dále jen „povinná osoba“) nebo na pokyn Finančnímu analytickému úřadu, soudu, orgánu činnému v trestním řízení, orgánu Finanční správy České republiky a orgánu Celní správy České republiky.
+Evidující osoba zajistí, aby platné údaje o jejím skutečném majiteli nebo o skutečném majiteli právního uspořádání odpovídaly skutečnému stavu. Návrh na zahájení řízení o zápisu podle § 20 nebo žádost podle § 34 musí evidující osoba podat bez zbytečného odkladu po vzniku rozhodné skutečnosti.
+Má se za to, že evidující osoba povinnost podle odstavce 1 věty první splnila, byl-li její skutečný majitel nebo skutečný majitel právního uspořádání automaticky propsán podle § 37, 38 nebo § 41 odst. 3.
+Platí, že evidující osoba povinnost podle odstavce 1 věty první splnila, je-li v evidenci skutečných majitelů zapsán skutečný majitel podle § 5 odst. 1 písm. a) nebo § 5 odst. 3; to nebrání soudu odstranit nesrovnalost, vyšly-li v řízení o nesrovnalosti najevo údaje, které evidující osoba nemohla zjistit ani při vynaložení veškerého úsilí, které po ní lze rozumně požadovat.
+Skutečný majitel a osoba, jejímž prostřednictvím právnická osoba nebo právní uspořádání jsou vlastněny nebo kontrolovány, poskytnou evidující osobě ke splnění povinností podle § 8 odst. 1 nebo § 9 odst. 1 potřebnou součinnost, včetně sdělení vzniku svého postavení.
+EVIDENCE SKUTEČNÝCH MAJITELŮ
+VEDENÍ A OBSAH EVIDENCE SKUTEČNÝCH MAJITELŮ
+Evidence skutečných majitelů je informačním systémem veřejné správy, jehož správcem je Ministerstvo spravedlnosti (dále jen „ministerstvo“).
+Evidenci skutečných majitelů vede soud, který je příslušný k řízení o zápisu.
+Zápis do evidence skutečných majitelů provádí soud nebo notář.
+Do evidence skutečných majitelů se zapisují nebo automaticky propisují zákonem stanovené údaje o skutečných majitelích právnických osob se sídlem na území České republiky.
+Do evidence skutečných majitelů se dále zapisují nebo automaticky propisují zákonem stanovené údaje o skutečných majitelích právních uspořádání, jejichž svěřenský správce má bydliště, sídlo nebo pobočku
+na území České republiky, nebo
+mimo území některého z členských států Evropské unie a
+právní uspořádání je z území České republiky spravováno,
+právní uspořádání je tvořeno majetkem, který je převážně umístěn na území České republiky,
+v právním uspořádání je spravována nemovitá věc nacházející se na území České republiky,
+ve vztahu ke spravovanému majetku navázal na území České republiky obchodní vztah, nebo
+účelu sledovaného vytvořením právního uspořádání má být dosaženo na území České republiky.
+Odstavec 2 se nepoužije, je-li u právního uspořádání zapsán jeho skutečný majitel v evidenci odpovídající evidenci skutečných majitelů vedené podle práva jiného členského státu Evropské unie.
+Do evidence skutečných majitelů se zapíše nebo automaticky propíše
+jméno a adresa místa pobytu, popřípadě také bydliště, liší-li se od adresy místa pobytu, datum narození, rodné číslo nebo obdobný jedinečný identifikátor, byl-li přidělen, a státní občanství skutečného majitele,
+údaj o povaze postavení skutečného majitele,
+údaj o velikosti přímého nebo nepřímého podílu skutečného majitele, zakládá-li tento podíl jeho postavení,
+údaj o skutečnosti zakládající postavení skutečného majitele, není-li založeno podílem,
+popis struktury vztahů, existuje-li, včetně údajů v rozsahu podle písmen h) a i) o právnických osobách nebo právních uspořádáních ve struktuře vztahů a jmen fyzických osob samostatně vystupujících ve struktuře vztahů,
+den, od kterého je fyzická osoba skutečným majitelem,
+den, do kterého byla fyzická osoba skutečným majitelem,
+jméno právnické osoby nebo označení právního uspořádání, o jejichž skutečného majitele jde,
+identifikační číslo právnické osoby nebo právního uspořádání, o jejichž skutečného majitele jde, bylo-li jim přiděleno,
+den, k němuž byl zápis nebo automatický průpis proveden,
+okamžik, k němuž byly platné údaje zpřístupněny, a
+poznámka o nesrovnalosti.
+PŘÍSTUP DO EVIDENCE SKUTEČNÝCH MAJITELŮ
+Veřejný přístup k údajům o skutečném majiteli
+Ministerstvo umožní komukoli na svých internetových stránkách získat z evidence skutečných majitelů částečný výpis platných údajů
+o skutečném majiteli právnické osoby v rozsahu
+jména, státu bydliště, roku a měsíce narození, státního občanství skutečného majitele,
+údajů podle § 13 písm. b), c), f) a g) a
+popřípadě dalších údajů podle § 13 písm. a), k jejichž uveřejnění skutečný majitel udělil souhlas, nebo dalších údajů, které již jsou uveřejněny ve veřejném rejstříku a byly automaticky propsány podle § 37 nebo 38,
+o skutečném majiteli právního uspořádání v rozsahu údajů podle § 13 písm. a), k jejichž uveřejnění skutečný majitel udělil souhlas, nebo údajů, které již jsou uveřejněny v evidenci svěřenských fondů a byly automaticky propsány podle § 37,
+podle § 13 písm. h) a i),
+podle § 13 písm. d) a e), jejichž uveřejnění navrhla nebo o ně žádala evidující osoba, anebo které jsou výsledkem automatického průpisu podle § 37 nebo 38, a
+podle § 13 písm. j) až l), pokud se týkají údajů podle odstavce 1 písm. a) až d).
+Ministerstvo umožní komukoli na svých internetových stránkách získat potvrzení o tom, že v evidenci skutečných majitelů není o skutečném majiteli právnické osoby nebo právního uspořádání veden žádný údaj.
+Údaje podle odstavce 1 ministerstvo uveřejní také prostřednictvím systému propojení evidencí zřízeného podle směrnice Evropského parlamentu a Rady upravující některé aspekty práva obchodních společností.
+Odstavce 1 a 3 se nepoužijí v případě údajů o skutečném majiteli
+znepřístupněných podle § 32 nebo 33 a
+právnické osoby, o které byly údaje ve veřejném rejstříku znepřístupněny veřejnosti podle zákona upravujícího veřejné rejstříky právnických a fyzických osob.
+Částečný výpis podle odstavce 1 nebo potvrzení podle odstavce 2 lze získat pouze v elektronické podobě.
+Přístup k některým údajům o skutečném majiteli právního uspořádání
+Soud, který je příslušný k zápisu, umožní získat z evidence skutečných majitelů částečný výpis platných údajů v rozsahu údajů o jméně, státu bydliště, roce a měsíci narození a státním občanství skutečného majitele právního uspořádání a údajů podle § 13 písm. b) až i) tomu, kdo
+osvědčí zájem v souvislosti s předcházením trestným činům legalizace výnosů z trestné činnosti, legalizace výnosů z trestné činnosti z nedbalosti a jejich zdrojovým trestným činům a trestným činům financování terorismu a podpora a propagace terorismu, nebo
+o to požádá ve vztahu k právnímu uspořádání, jehož prostřednictvím je vlastněna nebo kontrolována zahraniční právnická osoba se sídlem mimo některý z členských států Evropské unie.
+Odstavec 1 se nepoužije, jsou-li údaje o skutečném majiteli znepřístupněny podle § 32.
+Částečný výpis podle odstavce 1 lze získat pouze v elektronické podobě.
+Přístup ke všem údajům o skutečném majiteli
+Soud, který je příslušný k zápisu, umožní získat z evidence skutečných majitelů úplný výpis platných údajů a údajů, které byly vymazány bez náhrady nebo s nahrazením novými údaji,
+osobě zapsané v evidenci skutečných majitelů jako skutečný majitel,
+osobě, která podala návrh na zahájení řízení o zápisu, k němuž je oprávněna podle § 26, a
+evidující osobě.
+Ministerstvo umožní způsobem umožňujícím dálkový přístup získat z evidence skutečných majitelů úplný výpis platných údajů a údajů, které byly vymazány bez náhrady nebo s nahrazením novými údaji,
+soudu nebo insolvenčnímu správci pro účely soudního řízení,
+notáři pro účely zápisu,
+orgánu činnému v trestním řízení pro účely trestního řízení a státnímu zastupitelství také pro účely výkonu jiné než trestní působnosti,
+správci daně, poplatku nebo jiného obdobného peněžitého plnění pro účely výkonu jejich správy,
+správnímu orgánu pro účely vedení řízení o přestupku,
+zpravodajské službě pro účely plnění úkolů podle zákona upravujícího činnost zpravodajských služeb,
+Finančnímu analytickému úřadu, České národní bance a dalším orgánům při výkonu činností podle zákona upravujícího některá opatření proti legalizaci výnosů z trestné činnosti a financování terorismu nebo zákona upravujícího provádění mezinárodních sankcí za účelem udržování mezinárodního míru a bezpečnosti, ochrany základních lidských práv a boje proti terorismu,
+České národní bance při výkonu dohledu nad osobami působícími na finančním trhu a při výkonu činností podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu,
+Národnímu bezpečnostnímu úřadu, Ministerstvu vnitra nebo zpravodajské službě pro účely bezpečnostního řízení podle zákona upravujícího ochranu utajovaných informací a bezpečnostní způsobilost,
+Nejvyššímu kontrolnímu úřadu pro účely výkonu jeho působnosti,
+Ministerstvu financí pro účely výkonu jeho působnosti podle zákona upravujícího hazardní hry,
+Úřadu pro zastupování státu ve věcech majetkových pro účely výkonu jeho působnosti,
+Státnímu pozemkovému úřadu pro účely výkonu jeho působnosti podle právních předpisů, na základě kterých Státní pozemkový úřad nakládá s majetkem státu,
+Úřadu pro dohled nad hospodařením politických stran a politických hnutí pro účely výkonu jeho působnosti,
+povinné osobě v souvislosti s prováděním identifikace a kontroly klienta podle zákona upravujícího některá opatření proti legalizaci výnosů z trestné činnosti a financování terorismu,
+poskytovateli veřejné finanční podpory pro účely výkonu jeho působnosti podle zákona upravujícího finanční kontrolu,
+řídicímu orgánu, zprostředkujícímu subjektu, certifikačnímu orgánu a auditnímu orgánu pro účely výkonu jejich působnosti podle přímo použitelného předpisu Evropské unie upravujícího společná ustanovení o evropských strukturálních a investičních fondech,
+platební agentuře a certifikačnímu subjektu pro účely výkonu jejich působnosti podle přímo použitelného předpisu Evropské unie upravujícího financování, řízení a sledování společné zemědělské politiky,
+poskytovateli pro účely vedení řízení o poskytnutí dotace nebo návratné finanční výpomoci,
+Radě pro rozhlasové a televizní vysílání pro účely výkonu její působnosti a
+tomu, o němž tak stanoví jiný zákon.
+Jsou-li údaje o skutečném majiteli znepřístupněny podle § 32, ministerstvo k nim přístup podle odstavce 2 písm. n) až u) neumožní; to neplatí pro přístup úvěrových a finančních institucí, notářů a advokátů, pokud provádějí identifikaci a kontrolu klienta podle zákona upravujícího některá opatření proti legalizaci výnosů z trestné činnosti a financování terorismu.
+Úplný výpis podle odstavce 2 lze získat pouze v elektronické podobě.
+Dálkový přístup
+Ministerstvo umožní dálkový přístup podle § 16 odst. 2, bude-li zjistitelná identita fyzické osoby, která má k údajům o skutečném majiteli přistupovat. Ministerstvo umožní dálkový přístup na žádost po prokázání totožnosti fyzické osoby, která má k údajům o skutečném majiteli přistupovat, s využitím elektronické identifikace podle zákona upravujícího elektronickou identifikaci, nebo v případě orgánu veřejné moci také prostřednictvím ohlášení agendy podle zákona upravujícího základní registry.
+Žádost o zřízení dálkového přístupu podle odstavce 1 lze ministerstvu zaslat pouze v elektronické podobě na formuláři, který ministerstvo uveřejní na svých internetových stránkách; žádost obsahuje
+označení žadatele,
+právní důvod pro zřízení dálkového přístupu,
+jméno, adresu místa pobytu a datum a místo narození fyzické osoby, která má k údajům o skutečném majiteli přistupovat,
+popřípadě začátek nebo konec platnosti oprávnění fyzické osoby, která bude k údajům o skutečném majiteli přistupovat, ne delší než 2 roky ode dne jeho zřízení.
+Žádá-li o zřízení dálkového přístupu zpravodajská služba, prokázání totožnosti fyzické osoby, která má k údajům o skutečném majiteli přistupovat, se neprovádí a údaje podle odstavce 2 písm. c) se do žádosti neuvádí.
+Podrobnosti náležitostí, formu a datovou strukturu formuláře žádosti o zřízení dálkového přístupu stanoví ministerstvo vyhláškou.
+Doba přístupnosti údajů
+Údaje o skutečném majiteli jsou v evidenci skutečných majitelů přístupné podle § 14 až 17 do 5 let ode dne zániku právnické osoby nebo právního uspořádání.
+ZÁPIS SOUDEM
+K řízení o zápisu skutečného majitele právnické osoby je příslušný krajský soud, v jehož obvodu je její obecný soud. K řízení o zápisu skutečného majitele pobočného spolku je příslušný krajský soud, v jehož obvodu je obecný soud hlavního spolku.
+K řízení o zápisu skutečného majitele právního uspořádání je příslušný krajský soud, v jehož obvodu je obecný soud svěřenského správce. Má-li svěřenský správce bydliště nebo sídlo mimo území České republiky, je k řízení o zápisu skutečného majitele příslušný Městský soud v Praze.
+Městský soud v Praze rozhoduje jako soud prvního stupně ve věcech evidence skutečných majitelů z obvodu Městského soudu v Praze a Krajského soudu v Praze.
+Změní-li se okolnosti, podle nichž se posuzuje místní příslušnost, soud usnesením přenese svou příslušnost na soud nově příslušný; nesouhlasí-li tento soud s přenesením příslušnosti, předloží věc svému nadřízenému soudu, který o příslušnosti rozhodne.
+Řízení o zápisu se zahajuje návrhem na zahájení řízení o zápisu (dále jen „návrh na zápis“).
+Řízení o zápisu je zahájeno dnem, kdy návrh na zápis podaný podle § 21 došel soudu. Nebylo-li řízení zahájeno, protože návrh na zápis nebyl podán podle § 21, soud o tom navrhovatele vyrozumí.
+Návrh na zápis se podává v elektronické podobě. Návrh na zápis u jiné než obchodní korporace nebo právního uspořádání lze podat také v listinné podobě.
+Návrh na zápis v elektronické podobě musí být podepsán způsobem, se kterým jiný právní předpis spojuje účinky vlastnoručního podpisu. Podpis na návrhu na zápis v listinné podobě musí být úředně ověřen.
+Návrh na zápis lze podat pouze na formuláři, jehož podrobnosti náležitostí, formu a datovou strukturu stanoví ministerstvo vyhláškou; formulář ministerstvo uveřejní na svých internetových stránkách.
+Je-li navrhovatelem zahraniční osoba, sdělí soudu doručovací adresu na území České republiky nebo zmocněnce pro přijímání písemností s doručovací adresou v České republice.
+Návrh na zápis musí být doložen písemnostmi o skutečnostech, které mají být do evidence skutečných majitelů zapsány, ledaže jsou údaje o zapisovaných skutečnostech zjistitelné z informačního systému veřejné správy, do kterého může soud dálkovým přístupem nahlížet. Písemnosti se dokládají v elektronické podobě; písemnosti dokládané k návrhu na zápis u jiné než obchodní korporace nebo právního uspořádání lze doložit také v listinné podobě.
+Písemností dokládající totožnost zahraniční fyzické osoby se rozumí zejména
+výpis ze zahraniční evidence obdobné evidenci obyvatel,
+výpis ze zahraniční evidence obdobné veřejnému rejstříku nebo evidenci skutečných majitelů,
+doklad totožnosti nebo cestovní doklad.
+Písemností dokládající postavení skutečného majitele nebo strukturu vztahů se rozumí zejména
+výpis z veřejného rejstříku nebo ze zahraniční evidence obdobné veřejnému rejstříku nebo evidenci skutečných majitelů,
+zakladatelské právní jednání,
+seznam společníků,
+rozhodnutí orgánu o vyplacení podílu na zisku, jiných vlastních zdrojích nebo likvidačním zůstatku,
+prohlášení společníků o jednání ve shodě,
+prohlášení evidující osoby nebo skutečného majitele o postavení skutečného majitele nebo struktuře vztahů, jsou-li založeny na právní skutečnosti, kterou nelze doložit ani při vynaložení veškerého úsilí, které lze rozumně požadovat,
+prohlášení evidující osoby nebo skutečného majitele o postavení skutečného majitele nebo struktuře vztahů, nejsou-li založeny na právní skutečnosti.
+Písemnosti podle odstavců 1 až 3 postačí k návrhu na zápis doložit v prosté kopii.
+Udělil-li skutečný majitel souhlas podle § 14 odst. 1 písm. a) bodu 3 nebo § 14 odst. 1 písm. b), dokládá se k návrhu na zápis písemnost prokazující tento souhlas. Souhlas musí být podepsán způsobem, se kterým jiný právní předpis spojuje účinky vlastnoručního podpisu, nebo musí být podpis na písemnosti úředně ověřen.
+Neplyne-li něco jiného z doložených písemností nebo z informačního systému veřejné správy, do kterého může soud dálkovým přístupem nahlížet, soud zapíše do evidence skutečných majitelů jako den, od kterého je fyzická osoba skutečným majitelem, nebo den, do kterého je fyzická osoba skutečným majitelem, den uvedený v návrhu na zápis.
+Písemnosti podle § 23, které jsou v cizím jazyce, se předkládají v originálním znění a současně v prostém překladu do českého jazyka, ledaže soud sdělí navrhovateli, že překlad nevyžaduje. Takové sdělení může soud učinit na své úřední desce i pro neurčitý počet řízení v budoucnu, a to i ve vztahu k vybraným jazykům.
+Návrh na zápis a písemnosti podle § 23 uchovává soud v elektronické podobě. Návrh na zápis a písemnosti doručené v listinné podobě převede soud do elektronické podoby.
+Návrh na zápis podává evidující osoba. Návrh na zápis u pobočného spolku může podat také hlavní spolek.
+Návrh na zápis u založené právnické osoby nebo zřízeného právního uspořádání před jejich vznikem podává osoba, která je podle jiných právních předpisů oprávněna podat návrh na jejich zápis do veřejného rejstříku nebo evidence svěřenských fondů; návrh na zápis však nelze podat před zahájením řízení o jejich zápisu do veřejného rejstříku nebo evidence svěřenských fondů.
+Nepodá-li evidující osoba návrh na zápis do 15 dnů ode dne, kdy jí povinnost vznikla, může návrh na zápis podat každý, kdo na něm osvědčí právní zájem a k návrhu na zápis doloží písemnosti podle § 23.
+Účastníkem řízení o návrhu na zápis je evidující osoba a navrhovatel, je-li osobou odlišnou od evidující osoby.
+Soud usnesením návrh na zápis odmítne, jestliže
+byl podán osobou, která k tomu není oprávněna,
+neobsahuje všechny předepsané náležitosti,
+je nesrozumitelný nebo neurčitý, nebo
+k němu nebyly doloženy písemnosti o skutečnostech, které mají být do evidence skutečných majitelů zapsány, spolu s překladem těchto písemností podle § 24, ledaže soud sdělí navrhovateli, že překlad nevyžaduje.
+Soud usnesením návrh na zápis také odmítne, zjistí-li, že před zahájením řízení o zápisu byla notáři podána žádost o zápis údajů o skutečném majiteli téže právnické osoby nebo téhož právního uspořádání a tato žádost dosud není vyřízena.
+Soud navrhovatele nevyzývá k opravě nebo doplnění návrhu na zápis. V usnesení, kterým soud návrh na zápis odmítne, uvede důvody odmítnutí a poučení, jak lze nedostatky odstranit.
+Nebyl-li návrh na zápis odmítnut, soud zkoumá, zda údaje o skutečnostech, které se do evidence skutečných majitelů zapisují, vyplývají z písemností, které byly k návrhu na zápis doloženy, nebo z údajů zjistitelných z informačního systému veřejné správy, do kterého může soud dálkovým přístupem nahlížet.
+Soud rozhodne o návrhu na zápis bez jednání.
+Odvolání je přípustné pouze proti usnesení, kterým soud návrh na zápis zamítá nebo kterým vyhovuje návrhu na zápis podanému podle § 26 odst. 3.
+Soud provede zápis do 5 pracovních dnů ode dne, kdy usnesení, kterým rozhodl o zápisu, nabylo právní moci.
+Vyhoví-li soud návrhu na zápis podanému podle § 26 odst. 1 nebo 2 v celém rozsahu, provede zápis, aniž by o tom vydával rozhodnutí; o zápisu soud evidující osobu vyrozumí spolu se zasláním úplného výpisu platných údajů z evidence skutečných majitelů.
+Soud provede zápis nejdříve ke dni vzniku právnické osoby nebo právního uspořádání.
+Aniž by o tom vydával rozhodnutí, opraví soud, který je příslušný k zápisu, kdykoli chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti v platných údajích. O opravě soud evidující osobu vyrozumí spolu se zasláním úplného výpisu platných údajů z evidence skutečných majitelů.
+Navrhne-li to evidující osoba nebo osoba zapsaná v evidenci skutečných majitelů jako skutečný majitel, soud údaje nebo jejich část o skutečném majiteli, který není plně svéprávný, v případech hodných zvláštního zřetele v evidenci skutečných majitelů znepřístupní, není-li to v rozporu s veřejným zájmem.
+Návrh na znepřístupnění údajů v případech podle odstavce 1 lze podat i mimo řízení o zápisu. Ustanovení upravující řízení o zápisu se na řízení o znepřístupnění údajů použijí obdobně.
+Návrh na znepřístupnění údajů lze podat pouze na formuláři, jehož podrobnosti náležitostí, formu a datovou strukturu stanoví ministerstvo vyhláškou; formulář ministerstvo uveřejní na svých internetových stránkách.
+Odvolá-li osoba zapsaná v evidenci skutečných majitelů jako skutečný majitel svůj souhlas s uveřejněním údajů podle § 14 odst. 1 písm. a) bodu 3 nebo § 14 odst. 1 písm. b), soud, který je příslušný k zápisu, tyto údaje znepřístupní, aniž by o tom vydával rozhodnutí.
+Soud, který je příslušný k řízení o zápisu, určí na návrh právnické osoby, zda je, nebo není právnickou osobou podle § 7 odst. 1 písm. b). Je-li to vhodné k ochraně práv třetích osob, určí tak i bez návrhu.
+Rozhodne-li soud, že právnická osoba je právnickou osobou podle § 7 odst. 1 písm. b), zajistí do 3 dnů ode dne, kdy rozhodnutí nabylo právní moci, aby byla tato skutečnost uveřejněna prostřednictvím evidence skutečných majitelů na internetových stánkách ministerstva.
+ZÁPIS NOTÁŘEM
+Notář provede zápis na žádost osoby oprávněné k podání návrhu na zápis podle § 26. Ustanovení § 23 a 24 se použijí obdobně; písemnosti, jimiž musí být doložena žádost o zápis skutečného majitele obchodní korporace, však mohou být doloženy i v listinné podobě.
+Pro účely zápisu notářem soud umožní notáři dálkový přístup k návrhům na zápis a písemnostem, které uchovává v elektronické podobě podle § 25.
+Notář odmítne provést zápis postupem stanoveným v notářském řádu pro odmítnutí notářského úkonu
+z důvodů podle § 28 odst. 1, nebo
+zjistí-li, že před podáním žádosti
+bylo zahájeno řízení o zápisu údajů o skutečném majiteli téže právnické osoby nebo téhož právního uspořádání a toto řízení se stále vede, nebo
+byla jinému notáři podána žádost o zápis údajů o skutečném majiteli téže právnické osoby nebo téhož právního uspořádání a tato žádost se stále vyřizuje.
+Neodmítne-li notář zápis provést, vydá osvědčení pro zápis a po jeho vydání provede dálkovým přístupem zápis ve lhůtě 3 pracovních dnů ode dne, kdy mu byla doručena žádost podle odstavce 1, nejdříve však ke dni vzniku právnické osoby nebo právního uspořádání.
+Osvědčení pro zápis je veřejnou listinou a obsahuje
+jméno notáře a jeho sídlo,
+místo a datum vyhotovení osvědčení pro zápis,
+údaje identifikující evidující osobu,
+údaje o skutečnostech, které se zapisují do evidence skutečných majitelů,
+prohlášení notáře o tom, že údaje o skutečnostech, které se do evidence skutečných majitelů zapisují, vyplývají z písemností, které byly k žádosti o zápis doloženy evidující osobou nebo jiným žadatelem o zápis, nebo z údajů zjistitelných z informačního systému veřejné správy, do kterého může notář dálkovým přístupem nahlížet,
+seznam písemností, které byly notáři předloženy evidující osobou nebo jiným žadatelem o zápis do evidence skutečných majitelů, a seznam informačních systémů veřejné správy, ze kterých vyplývají údaje o skutečnostech, které se do evidence skutečných majitelů zapisují,
+otisk úředního razítka notáře,
+podpis notáře.
+Písemnosti, které byly notáři předloženy v souvislosti se zápisem, notář uchovává v elektronické podobě a po provedení zápisu je elektronicky zašle příslušnému soudu.
+Notář po provedení zápisu vydá osobě, která o zápis skutečného majitele žádala, úplný výpis platných údajů z evidence skutečných majitelů; notář do 3 pracovních dnů ode dne provedení zápisu zašle tento úplný výpis také evidující osobě, ledaže jde o osobu totožnou s žadatelem.
+Chyby v psaní a v počtech, jakož i jiné zjevné nesprávnosti v platných údajích opraví notář, který zápis provedl, kdykoliv i bez žádosti. O opravě notář evidující osobu vyrozumí spolu se zasláním úplného výpisu platných údajů z evidence skutečných majitelů.
+AUTOMATICKÝ PRŮPIS
+Do evidence skutečných majitelů se jako skutečný majitel svěřenského fondu, jehož svěřenský správce má bydliště, sídlo nebo pobočku na území České republiky, automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do evidence svěřenských fondů jako zakladatel, svěřenský správce nebo obmyšlený, nebo
+jako skutečný majitel právnické osoby zapisované do veřejného rejstříku, která je zakladatelem, svěřenským správcem nebo obmyšleným svěřenského fondu.
+Do evidence skutečných majitelů se jako skutečný majitel zahraničního svěřenského fondu, jehož svěřenský správce má bydliště, sídlo nebo pobočku na území České republiky, automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do evidence svěřenských fondů jako svěřenský správce, nebo
+jako skutečný majitel právnické osoby zapisované do veřejného rejstříku, která je svěřenským správcem zahraničního svěřenského fondu.
+Do evidence skutečných majitelů se jako skutečný majitel fundace automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do nadačního rejstříku jako zakladatel, člen správní nebo dozorčí rady nebo revizor, nebo
+jako skutečný majitel právnické osoby zapisované do veřejného rejstříku, která je zakladatelem, členem správní nebo dozorčí rady nebo revizorem fundace.
+Do evidence skutečných majitelů se jako skutečný majitel ústavu automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do rejstříku ústavů jako zakladatel, ředitel nebo člen správní nebo dozorčí rady, nebo
+jako skutečný majitel právnické osoby zapisované do veřejného rejstříku, která je zakladatelem, ředitelem nebo členem správní nebo dozorčí rady ústavu.
+Do evidence skutečných majitelů se jako skutečný majitel obecně prospěšné společnosti automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do rejstříku obecně prospěšných společností jako zakladatel, ředitel nebo člen správní nebo dozorčí rady, nebo
+jako skutečný majitel právnické osoby zapisované do veřejného rejstříku, která je zakladatelem, ředitelem nebo členem správní nebo dozorčí rady obecně prospěšné společnosti.
+Do evidence skutečných majitelů se jako skutečný majitel společnosti s ručením omezeným automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do obchodního rejstříku jako společník s podílem větším než 25 %, nebo
+jako skutečný majitel korporace zapisované do veřejného rejstříku, která je společníkem společnosti s ručením omezeným s podílem větším než 25 %, jsou-li splněny podmínky odstavce 7.
+Do evidence skutečných majitelů se jako skutečný majitel akciové společnosti automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do obchodního rejstříku jako její jediný akcionář, nebo
+jako skutečný majitel korporace zapisované do veřejného rejstříku, která je jediným akcionářem akciové společnosti, jsou-li splněny podmínky odstavce 7.
+Do evidence skutečných majitelů se jako skutečný majitel veřejné obchodní společnosti, která nemá více než 3 společníky, automaticky propíše fyzická osoba, která byla zapsána
+v rámci zápisu do obchodního rejstříku jako její společník, nebo
+jako skutečný majitel korporace zapisované do veřejného rejstříku, která je společníkem veřejné obchodní společnosti, jsou-li splněny podmínky odstavce 7.
+Do evidence skutečných majitelů se jako skutečný majitel spolku, pobočného spolku, zahraničního pobočného spolku, zájmového sdružení právnických osob, mezinárodní nevládní organizace, společenství vlastníků jednotek, odborové organizace, organizace zaměstnavatelů, okresní a regionální komory podle jiného zákona nebo bytového nebo sociálního družstva automaticky propíše fyzická osoba, která byla zapsána v rámci zápisu do veřejného rejstříku jako člen jejich statutárního orgánu nebo osoba v obdobném postavení nebo osoba zastupující právnickou osobu v tomto orgánu.
+Do evidence skutečných majitelů se jako skutečný majitel honebního společenstva, politické strany, politického hnutí, církve, náboženské společnosti a ostatních právnických osob podle zákona upravujícího církve a náboženské společnosti automaticky propíše fyzická osoba, která je vedena v registru osob podle zákona upravujícího základní registry (dále jen „registr osob“) jako člen jejich statutárního orgánu nebo fyzická osoba v obdobném postavení nebo osoba zastupující právnickou osobu v tomto orgánu.
+Pro účely automatického průpisu podle odstavce 3 se podíly společníků veřejné obchodní společnosti považují za stejně velké.
+Pro účely automatického průpisu podle odstavce 1 písm. b), odstavce 2 písm. b) a odstavce 3 písm. b) se za podíl zakládající postavení skutečného majitele považuje
+40% nebo větší podíl v navázaných korporacích, ledaže má někdo stejný nebo větší podíl,
+nepřímý podíl ve společnosti s ručením omezeným, akciové společnosti nebo veřejné obchodní společnosti větší než 25 %, nebo
+40% nebo větší podíl ve společnosti s ručením omezeným, akciové společnosti nebo veřejné obchodní společnosti a v navázaných korporacích, ledaže má někdo stejný nebo větší podíl, jde-li o skutečného majitele podle § 5.
+Zanikne-li právnická osoba zapisovaná do veřejného rejstříku nebo registru osob nebo právní uspořádání zapisované do evidence svěřenských fondů, automaticky se u nich propíše výmaz platných údajů bez náhrady.
+Automatickým průpisem podle § 37 nebo 38 není dotčena možnost, aby byly podle hlavy III nebo IV této části platné údaje vymazány s nahrazením novými údaji.
+Den zápisu nebo výmazu skutečnosti ve veřejném rejstříku nebo v registru osob působící automatický průpis se automaticky propíše jako den, od kterého nebo do kterého je fyzická osoba skutečným majitelem; tento údaj nepůsobí nesrovnalost ani porušení povinnosti podle § 9 odst. 1.
+Byl-li skutečný majitel zapsán podle hlavy III nebo IV této části, § 38 se nepoužije.
+Evidující osoba, která zajistila zápis podle hlavy III nebo IV této části, může navrhnout soudu nebo požádat notáře, aby byl její skutečný majitel napříště automaticky propsán podle § 38; ustanovení upravující řízení o zápisu nebo zápis notářem se použijí přiměřeně.
+Je-li u korporace, u které se neuplatní § 38, určen skutečný majitel pouze podle § 4 odst. 5 nebo § 5 odst. 1, může tato korporace v rámci návrhu na zápis navrhnout soudu nebo v rámci žádosti o zápis požádat notáře, aby byla jako její skutečný majitel automaticky propisována každá fyzická osoba, která je ve veřejném rejstříku nebo registru osob zapsána jako člen jejího statutárního orgánu nebo fyzická osoba v obdobném postavení nebo osoba zastupující právnickou osobu v tomto orgánu.
+NESROVNALOSTI V EVIDENCI SKUTEČNÝCH MAJITELŮ
+Řešení nesrovnalostí v evidenci skutečných majitelů
+Oznámení nesrovnalosti
+Má-li orgán veřejné moci důvodně za to, že při výkonu své činnosti zjistil nesrovnalost, oznámí ji soudu příslušnému k zápisu; to neplatí, pokud by oznámení nesrovnalosti mohlo ohrozit činnost orgánu veřejné moci.
+Oznámení nesrovnalosti musí být doloženo skutečnostmi nebo písemnostmi, které nesrovnalost osvědčují.
+Povinné osoby oznamují nesrovnalost za podmínek stanovených zákonem upravujícím některá opatření proti legalizaci výnosů z trestné činnosti a financování terorismu.
+Výzva k odstranění nesrovnalosti
+Soud, který je příslušný k zápisu, evidující osobu usnesením vyzve k odstranění nesrovnalosti nebo k jejímu vyvrácení; určí jí přitom k tomu přiměřenou lhůtu. Proti tomuto usnesení není odvolání přípustné.
+Zahájení řízení o nesrovnalosti
+Soud, který je příslušný k zápisu, zahájí řízení o nesrovnalosti, je-li to vhodné k ochraně práv třetích osob, a to na základě oznámení nesrovnalosti podle § 42 nebo i z vlastního podnětu. Soud řízení o nesrovnalosti zahájí zpravidla až po marné výzvě podle § 43.
+Řízení o nesrovnalosti se zahajuje usnesením o zahájení řízení o nesrovnalosti, které soud doručí účastníkům řízení do vlastních rukou.
+Účastníkem řízení o nesrovnalosti je evidující osoba a popřípadě také ten, o němž má soud za to, že v rozporu s § 10 neposkytl evidující osobě potřebnou součinnost.
+Proti usnesení o zahájení řízení o nesrovnalosti není odvolání přípustné.
+Poznámka o nesrovnalosti
+Soud spolu s vydáním usnesení o zahájení řízení o nesrovnalosti zapíše do evidence skutečných majitelů poznámku o nesrovnalosti; soud zápis poznámky provede, aniž by o tom vydával rozhodnutí.
+Byla-li evidující osoba vyzvána k odstranění nesrovnalosti spočívající v tom, že do evidence skutečných majitelů nebyl zajištěn zápis žádného údaje, zapíše soud poznámku o nesrovnalosti, aniž by o tom vydával rozhodnutí, již po marné výzvě podle § 43.
+V rámci poznámky o nesrovnalosti se zapíše, v čem je nesrovnalost spatřována, a den zahájení řízení o nesrovnalosti.
+Přerušení řízení
+Soud řízení o nesrovnalosti přeruší, probíhá-li řízení o zápisu nebo vyřizuje-li se žádost o zápis, které mohou mít význam pro rozhodnutí soudu v řízení o nesrovnalosti.
+Dokazování
+K potvrzení nebo vyvrácení nesrovnalosti provede soud i jiné důkazy, než byly účastníkem navrhovány. Důkazy ke zjištění skutečného stavu však provede, jen vyplývají-li z obsahu spisu.
+Rozhodnutí
+Soud rozhodne o nesrovnalosti zpravidla bez jednání. Soud nařídí jednání, považuje-li to za potřebné k potvrzení nebo vyvrácení nesrovnalosti.
+Soud v rozhodnutí uvede den vzniku nesrovnalosti a které údaje v evidenci skutečných majitelů neodpovídají nebo neodpovídaly skutečnému stavu, popřípadě uvede údaje odpovídající skutečnému stavu, vyšly-li v řízení najevo. Lze-li skutečný den vzniku nesrovnalosti zjistit jen s velkými obtížemi nebo nelze-li jej zjistit vůbec, uvede soud jako den vzniku nesrovnalosti den, ve kterém nesrovnalost s přihlédnutím ke zjištěným skutečnostem existovala nejdříve.
+Vyplyne-li to v řízení o nesrovnalosti najevo, soud rozhodne také o tom, že důvodem nesrovnalosti je neposkytnutí potřebné součinnosti evidující osobě ze strany skutečného majitele nebo osoby, jejímž prostřednictvím právnická osoba nebo právní uspořádání jsou vlastněny nebo kontrolovány.
+Zápis v rámci poznámky o nesrovnalosti
+Je-li nesrovnalost vyvrácena, soud po nabytí právní moci rozhodnutí
+zapíše v rámci poznámky o nesrovnalosti, jak bylo v řízení rozhodnuto, a
+vymaže poznámku o nesrovnalosti z evidence skutečných majitelů.
+Je-li nesrovnalost potvrzena, soud po nabytí právní moci rozhodnutí
+zapíše v rámci poznámky o nesrovnalosti, jak bylo v řízení rozhodnuto, den vzniku nesrovnalosti a dobu trvání nesrovnalosti, vyšla-li v řízení najevo,
+vymaže nesprávné platné údaje a
+zapíše údaje odpovídající skutečnému stavu, vyšly-li v řízení najevo.
+Soud zápis podle odstavce 1 nebo 2 provede, aniž by o tom vydával rozhodnutí.
+Výmaz poznámky o nesrovnalosti
+Zastaví-li soud řízení o nesrovnalosti, poznámku o nesrovnalosti vymaže. Soud výmaz poznámky provede, aniž by o tom vydával rozhodnutí.
+Informační povinnost
+Pokud do evidence skutečných majitelů nebyl evidující osobou zajištěn zápis žádného údaje, soud o tom po marné výzvě podle § 43 vyrozumí správní orgán příslušný k projednání přestupků podle tohoto zákona.
+Soud po nabytí právní moci rozhodnutí, kterým byla nesrovnalost potvrzena, zašle jeho opis správnímu orgánu příslušnému k projednání přestupků podle tohoto zákona, ledaže soud již vyrozuměl správní orgán podle odstavce 1.
+Další následky nesrovnalosti
+Práva a povinnosti z právního jednání zastírajícího osobu skutečného majitele, které vznikly v době, kdy není skutečný majitel zapsán v evidenci skutečných majitelů, nelze vymáhat; to platí bez ohledu na to, kterým právním řádem se právní jednání řídí.
+Není-li skutečný majitel obchodní korporace zapsán v evidenci skutečných majitelů, nesmí tato obchodní korporace vyplatit podíl na zisku, jiných vlastních zdrojích nebo likvidačním zůstatku jemu, ani právnické osobě nebo právnímu uspořádání, jejichž je rovněž skutečným majitelem; to neplatí v případě skutečného majitele, který jím je podle § 5 odst. 1 a 3 na základě svého postavení osoby ve vrcholném vedení.
+Obchodní korporace nesmí vyplatit podíl na zisku, jiných vlastních zdrojích nebo likvidačním zůstatku také právnické osobě nebo právnímu uspořádání, jež nemá v evidenci skutečných majitelů zapsaného žádného skutečného majitele.
+Právo na podíl na zisku nebo jiných vlastních zdrojích, který nebyl podle odstavce 1 nebo 2 vyplacen do konce účetního období, ve kterém bylo rozhodnuto o jeho výplatě, zaniká.
+Není-li skutečný majitel obchodní korporace zapsán v evidenci skutečných majitelů, nesmí při rozhodování nejvyššího orgánu této obchodní korporace vykonávat hlasovací práva nebo rozhodovat jako její jediný společník on, ani právnická osoba nebo ten, kdo jedná na účet právního uspořádání, jejichž je rovněž skutečným majitelem; to neplatí v případě skutečného majitele, který jím je podle § 5 odst. 1 a 3 na základě svého postavení osoby ve vrcholném vedení.
+Vzniklo-li postavení skutečného majitele v období 30 dnů přede dnem rozhodování nejvyššího orgánu nebo jediného společníka, odstavec 1 se na toto rozhodování nepoužije.
+Hlasovací práva v obchodní korporaci nesmí při rozhodování nejvyššího orgánu vykonávat nebo jako její jediný společník rozhodovat také právnická osoba nebo ten, kdo jedná na účet právního uspořádání, jež nemají v evidenci skutečných majitelů zapsaného žádného skutečného majitele.
+Rozhodl-li jediný společník v rozporu s odstavcem 1 nebo 3, lze se dovolávat pouze neplatnosti tohoto rozhodnutí podle pravidel o neplatnosti rozhodnutí jediného společníka rozhodujícího v působnosti nejvyššího orgánu podle zákona upravujícího právní poměry obchodních korporací.
+PŘESTUPKY
+Evidující osoba se dopustí přestupku tím, že
+nezajistí ani v přiměřené lhůtě stanovené soudem podle § 43 zápis žádného údaje do evidence skutečných majitelů, nebo
+nezajistí ani do 15 dnů od právní moci rozhodnutí podle § 48, aby byly do evidence skutečných majitelů zapsány nové údaje, vymazal-li soud nesprávné údaje bez náhrady.
+Skutečný majitel a osoba, jejímž prostřednictvím právnická osoba nebo právní uspořádání jsou vlastněny nebo kontrolovány, se dopustí přestupku tím, že v rozporu s § 10 neposkytne potřebnou součinnost evidující osobě a toto porušení povinnosti potvrdil soud podle § 48 odst. 3.
+Za přestupky podle odstavce 1 nebo 2 lze uložit pokutu do 500 000 Kč.
+Promlčecí doba přestupku podle § 55 odst. 1 písm. b) činí 1 rok.
+Evidující osoba není odpovědná za přestupek podle § 55 odst. 1 písm. b), pokud
+ode dne následujícího po dni vzniku nesrovnalosti, který je uveden v rozhodnutí podle § 48, do dne zahájení řízení o této nesrovnalosti soudem uplynula doba alespoň 2 let, nebo
+skutečný majitel a osoba, jejímž prostřednictvím právnická osoba nebo právní uspořádání jsou vlastněny nebo kontrolovány, v rozporu s § 10 neposkytl potřebnou součinnost evidující osobě a toto porušení povinnosti potvrdil soud podle § 48 odst. 3.
+Přestupky podle tohoto zákona projednává obecní úřad obce s rozšířenou působností, v jejímž územním obvodu má sídlo nebo bydliště podezřelý z přestupku. Má-li podezřelý z přestupku bydliště nebo sídlo mimo území České republiky, je příslušný obecní úřad obce s rozšířenou působností, v jehož správním obvodu je soud, který rozhodl podle § 43 nebo 48.
+SPOLEČNÁ, PŘECHODNÁ A ZÁVĚREČNÁ USTANOVENÍ
+Použití zákona o zvláštních řízeních soudních
+Není-li v tomto zákoně stanoveno jinak, použijí se na řízení o zápisu a řízení o nesrovnalosti ustanovení zákona upravujícího zvláštní řízení soudní.
